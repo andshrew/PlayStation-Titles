@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>PlayStation Titles</title>
+</head>
+
+<body>
+
+    <div class="w3-container">
+        <h2 id="page-title">PlayStation 5 Titles</h2>
+        <div class="w3-bar w3-round w3-teal">
+            <a id="table-reset" href="#" class="w3-bar-item w3-button">Reset</a>
+            <div class="w3-dropdown-click">
+                <button onclick="showMenu('table-sort')" class="w3-button">Sort</button>
+                <div id="table-sort" class="w3-dropdown-content w3-bar-block w3-card-4">
+                    <a onclick="sortTable('concept', 'table-sort')" href="#" class="w3-bar-item w3-button">By Concept</a>
+                    <a onclick="sortTable('name', 'table-sort')" href="#" class="w3-bar-item w3-button">By Name</a>
+                </div>
+            </div>
+            <div class="w3-dropdown-click">
+                <button onclick="showMenu('table-filters')" class="w3-button">Filters</button>
+                <div id="table-filters" class="w3-dropdown-content w3-bar-block w3-card-4">
+                    <a onclick="filterTable('EP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-blue">Europe</a>
+                    <a onclick="filterTable('UP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-red">America</a>
+                    <a onclick="filterTable('JP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-white">Japan</a>
+                    <!--<a onclick="filterTable('Other', 'table-filters')" href="#" class="w3-bar-item w3-button w3-gray">Other</a>-->
+                </div>
+            </div>
+            <div class="w3-dropdown-click">
+                <button onclick="showMenu('table-data')" class="w3-button">Platform</button>
+                <div id="table-data" class="w3-dropdown-content w3-bar-block w3-card-4">
+                    <a onclick="swapDataSource('PS4', 'table-data')" href="#" class="w3-bar-item w3-button w3-blue">PS4</a>
+                    <a onclick="swapDataSource('PS5', 'table-data')" href="#" class="w3-bar-item w3-button w3-white">PS5</a>
+                    <a onclick="swapDataSource('All', 'table-data')" href="#" class="w3-bar-item w3-button w3-gray">All</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-container w3-responsive w3-section">
+            <table id="data-table" class="w3-table" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Title Id</th>
+                        <th>Concept Id</th>
+                        <th>Name</th>
+                        <th>Content Id</th>
+                        <th>Region</th>
+                        <th>Publisher Id</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+
+        <div class="w3-container w3-round-xxlarge w3-center w3-teal">
+            <p>Visit <a href="https://github.com/andshrew/PlayStation-Titles">github.com/andshrew/PlayStation-Titles</a></p>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var table = $('#data-table').DataTable({
+                ajax: {
+                    url: 'https://raw.githubusercontent.com/andshrew/PlayStation-Titles/main/Json/PS5_Titles.json',
+                    dataSrc: '',
+                    deferRender: true,
+                },
+                columns: [
+                { data: 'titleId' },
+                { data: 'conceptId' },
+                { data: 'name' },
+                { data: 'contentId'},
+                { data: 'region' },
+                { data: 'publisherId' }
+                ],
+            });
+
+            $('#table-reset').on('click', function() {
+                table.columns().search('');
+                table.column(0).order('asc');
+                table.page('first');
+                table.draw();
+            });
+        });
+
+        function filterTable(filter, parentId) {
+            if (filter == 'Other') {
+                //$('#data-table').DataTable().columns(5).search('[^EP|^UP|^JP]', true, false).draw();
+            }
+            else {
+                $('#data-table').DataTable().columns(5).search(filter).draw();
+            }
+            if (parentId) {
+                showMenu(parentId);
+            }
+        }
+
+        function sortTable(sort, parentId) {
+            switch (sort) {
+                case 'concept':
+                    $('#data-table').DataTable().column(1).search('\\d', true, false);
+                    $('#data-table').DataTable().column(1).order('asc');
+                    break;
+                case 'name':
+                    $('#data-table').DataTable().column(2).order('asc');
+                    break;
+                default:
+                    return;
+            }
+            $('#data-table').DataTable().draw();
+            if (parentId) {
+                showMenu(parentId);
+            }
+        }
+
+        function swapDataSource(platform, parentId) {
+            var url;
+            var title;
+            switch (platform) {
+                case 'PS4':
+                    url = 'https://raw.githubusercontent.com/andshrew/PlayStation-Titles/main/Json/PS4_Titles.json'
+                    title = 'PlayStation 4 Titles'
+                    break;
+                case 'PS5':
+                    url = 'https://raw.githubusercontent.com/andshrew/PlayStation-Titles/main/Json/PS5_Titles.json'
+                    title = 'PlayStation 5 Titles'
+                    break;
+                default:
+                    url = 'https://raw.githubusercontent.com/andshrew/PlayStation-Titles/main/Json/All_Titles.json'
+                    title = 'PlayStation 4 and 5 Titles'
+                    break;
+            }
+            $('#data-table').DataTable().ajax.url(url).load()
+
+            document.getElementById('page-title').firstChild.nodeValue = title;
+
+            if (parentId) {
+                showMenu(parentId);
+            }
+        }
+
+        var menuTracker = null;
+
+        function showMenu(id) {
+            if (menuTracker) {
+                if (menuTracker != id) {
+                    var tmp = menuTracker
+                    menuTracker = null
+                    showMenu(tmp);
+                }
+            }
+            var x = document.getElementById(id);
+            if (x.className.indexOf("w3-show") == -1) { 
+                x.className += " w3-show";
+                menuTracker = id;
+            } else {
+                x.className = x.className.replace(" w3-show", "");
+                menuTracker = null;
+            }
+        }
+    </script>
+</body>
