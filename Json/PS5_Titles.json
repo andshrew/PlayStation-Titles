@@ -16032,6 +16032,14 @@
     "publisherId": "EP0182"
   },
   {
+    "titleId": "PPSA05259_00",
+    "conceptId": 231761,
+    "name": "Diablo IV",
+    "contentId": "EP0002-PPSA05259_00-WESTILLLOOVEDOGS",
+    "region": "EP",
+    "publisherId": "EP0002"
+  },
+  {
     "titleId": "PPSA05260_00",
     "conceptId": 10003793,
     "name": "Discovery Tour: Viking Age",
@@ -16182,6 +16190,22 @@
     "contentId": "UP2005-PPSA05292_00-WINDOFSHURIKEN00",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA05294_00",
+    "conceptId": 10003806,
+    "name": "Wind of Shuriken",
+    "contentId": "HP2005-PPSA05294_00-WINDOFSHURIKEN00",
+    "region": "HP",
+    "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA05295_00",
+    "conceptId": 10003806,
+    "name": "Wind of Shuriken",
+    "contentId": "EP2005-PPSA05295_00-WINDOFSHURIKEN00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA05296_00",
@@ -24024,6 +24048,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA08174_00",
+    "conceptId": 10005296,
+    "name": "\u98a8\u4e57\u308a\u52c7\u8005\u306e\u7269\u8a9e",
+    "contentId": "JP0013-PPSA08174_00-JP0WINDORIA00PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA08180_00",
     "conceptId": 10005190,
     "name": "Square Keeper",
@@ -24592,6 +24624,14 @@
     "publisherId": "JP5486"
   },
   {
+    "titleId": "PPSA08536_00",
+    "conceptId": 10005296,
+    "name": "Gale of Windoria",
+    "contentId": "UP2500-PPSA08536_00-US0WINDORIA00PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA08538_00",
     "conceptId": 231369,
     "name": "Raining Coins",
@@ -24830,6 +24870,14 @@
     "contentId": "EP7333-PPSA08723_00-7195034282307797",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA08727_00",
+    "conceptId": 10004970,
+    "name": "FROGUN DELUXE",
+    "contentId": "EP5335-PPSA08727_00-0570187856713908",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA08738_00",
@@ -25120,6 +25168,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA08960_00",
+    "conceptId": 10005632,
+    "name": "The Jumping Sushi",
+    "contentId": "EP6664-PPSA08960_00-1996939790544283",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA08961_00",
     "conceptId": 10005632,
     "name": "The Jumping Sushi",
@@ -25214,5 +25270,13 @@
     "contentId": "UP7335-PPSA09085_00-8484528505619247",
     "region": "UP",
     "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA09086_00",
+    "conceptId": 10005697,
+    "name": "The Sheep Quiz",
+    "contentId": "EP7333-PPSA09086_00-0982239789864551",
+    "region": "EP",
+    "publisherId": "EP7333"
   }
 ]
