@@ -20720,6 +20720,22 @@
     "publisherId": "UP0777"
   },
   {
+    "titleId": "PPSA06669_00",
+    "conceptId": 10003993,
+    "name": "The Enigma Machine",
+    "contentId": "UP6718-PPSA06669_00-2887678615823028",
+    "region": "UP",
+    "publisherId": "UP6718"
+  },
+  {
+    "titleId": "PPSA06670_00",
+    "conceptId": 10003993,
+    "name": "The Enigma Machine",
+    "contentId": "EP6718-PPSA06670_00-1256663625853868",
+    "region": "EP",
+    "publisherId": "EP6718"
+  },
+  {
     "titleId": "PPSA06671_00",
     "conceptId": 10004025,
     "name": "Cherimoya",
@@ -24576,12 +24592,28 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08433_00",
+    "conceptId": 10005397,
+    "name": "Avenging Spirit",
+    "contentId": "EP0896-PPSA08433_00-RGAVENGINGSPIRIT",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA08434_00",
     "conceptId": 10005397,
     "name": "Avenging Spirit",
     "contentId": "UP0891-PPSA08434_00-RGAVENGINGSPIRIT",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA08435_00",
+    "conceptId": 10005397,
+    "name": "\u30d5\u30a1\u30f3\u30bf\u30ba\u30e0",
+    "contentId": "JP1190-PPSA08435_00-RGAVENGINGSPIRIT",
+    "region": "JP",
+    "publisherId": "JP1190"
   },
   {
     "titleId": "PPSA08444_00",
@@ -24648,6 +24680,22 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA08464_00",
+    "conceptId": 10004336,
+    "name": "FIFA 23 BETA",
+    "contentId": "EP0006-PPSA08464_00-FIFA23CLOSEDBETA",
+    "region": "EP",
+    "publisherId": "EP0006"
+  },
+  {
+    "titleId": "PPSA08465_00",
+    "conceptId": 10004336,
+    "name": "FIFA 23 BETA",
+    "contentId": "UP0006-PPSA08465_00-FIFA23CLOSEDBETA",
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA08466_00",
     "conceptId": 10005414,
     "name": "The Bronze Age",
@@ -24670,6 +24718,22 @@
     "contentId": "JP5486-PPSA08516_00-1717536498410927",
     "region": "JP",
     "publisherId": "JP5486"
+  },
+  {
+    "titleId": "PPSA08526_00",
+    "conceptId": 10005387,
+    "name": "Baldur's Gate: Dark Alliance II",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4393"
+  },
+  {
+    "titleId": "PPSA08527_00",
+    "conceptId": 10005387,
+    "name": "Baldur's Gate: Dark Alliance II",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4625"
   },
   {
     "titleId": "PPSA08536_00",
@@ -25304,6 +25368,30 @@
     "publisherId": "EP6664"
   },
   {
+    "titleId": "PPSA08969_00",
+    "conceptId": null,
+    "name": "The Jumping Nuggets",
+    "contentId": "UP6664-PPSA08969_00-0989358158127522",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA08970_00",
+    "conceptId": null,
+    "name": "The Jumping Nuggets: TURBO",
+    "contentId": "EP6664-PPSA08970_00-4656081595240877",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA08971_00",
+    "conceptId": null,
+    "name": "The Jumping Nuggets: TURBO",
+    "contentId": "UP6664-PPSA08971_00-5896453515441307",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA08972_00",
     "conceptId": 10005638,
     "name": "The Jumping Taco: TURBO",
@@ -25328,6 +25416,14 @@
     "publisherId": "EP6664"
   },
   {
+    "titleId": "PPSA08975_00",
+    "conceptId": 10005639,
+    "name": "The Jumping Pizza: TURBO",
+    "contentId": "UP6664-PPSA08975_00-9356032678966750",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA09000_00",
     "conceptId": 10005655,
     "name": "Sofiya and the Ancient Clan",
@@ -25342,6 +25438,14 @@
     "contentId": "EP2005-PPSA09001_00-SOFIYAATAC000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA09014_00",
+    "conceptId": null,
+    "name": "Pickle Run",
+    "contentId": "EP4312-PPSA09014_00-0852985873193996",
+    "region": "EP",
+    "publisherId": "EP4312"
   },
   {
     "titleId": "PPSA09021_00",
@@ -25374,5 +25478,13 @@
     "contentId": "EP7333-PPSA09086_00-0982239789864551",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA09333_00",
+    "conceptId": 10003251,
+    "name": "Pizza Break Head to Head",
+    "contentId": "UP4312-PPSA09333_00-8922542366613002",
+    "region": "UP",
+    "publisherId": "UP4312"
   }
 ]
