@@ -10424,6 +10424,14 @@
     "publisherId": "UP0082"
   },
   {
+    "titleId": "PPSA03840_00",
+    "conceptId": null,
+    "name": "Tactics Ogre: Reborn",
+    "contentId": "EP0082-PPSA03840_00-4856611792255252",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
     "titleId": "PPSA03842_00",
     "conceptId": 10002978,
     "name": "Family Mysteries 3: Criminal Mindset",
@@ -15568,6 +15576,14 @@
     "publisherId": "UP5033"
   },
   {
+    "titleId": "PPSA05146_00",
+    "conceptId": 231761,
+    "name": "Diablo IV",
+    "contentId": "UP0002-PPSA05146_00-WESTILLLOOVEDOGS",
+    "region": "UP",
+    "publisherId": "UP0002"
+  },
+  {
     "titleId": "PPSA05149_00",
     "conceptId": 10002493,
     "name": "Vampire: The Masquerade - Bloodhunt",
@@ -19072,12 +19088,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06094_00",
+    "conceptId": 10003301,
+    "name": "GigaBash",
+    "contentId": "UP5397-PPSA06094_00-9152601786774628",
+    "region": "UP",
+    "publisherId": "UP5397"
+  },
+  {
+    "titleId": "PPSA06097_00",
+    "conceptId": 10003301,
+    "name": "GigaBash",
+    "contentId": "EP5578-PPSA06097_00-3190285362362650",
+    "region": "EP",
+    "publisherId": "EP5578"
+  },
+  {
     "titleId": "PPSA06098_00",
     "conceptId": 10003301,
     "name": "GigaBash",
     "contentId": "HP5294-PPSA06098_00-GIGABASH00ASIA05",
     "region": "HP",
     "publisherId": "HP5294"
+  },
+  {
+    "titleId": "PPSA06099_00",
+    "conceptId": 10003301,
+    "name": "GigaBash",
+    "contentId": "JP5232-PPSA06099_00-GIGABASH0JAPAN05",
+    "region": "JP",
+    "publisherId": "JP5232"
   },
   {
     "titleId": "PPSA06101_00",
@@ -22386,10 +22426,10 @@
   {
     "titleId": "PPSA07349_00",
     "conceptId": 10001524,
-    "name": "JOYN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Joyn",
+    "contentId": "EP4374-PPSA07349_00-4674066558360748",
+    "region": "EP",
+    "publisherId": "EP4374"
   },
   {
     "titleId": "PPSA07353_00",
@@ -24536,6 +24576,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08434_00",
+    "conceptId": 10005397,
+    "name": "Avenging Spirit",
+    "contentId": "UP0891-PPSA08434_00-RGAVENGINGSPIRIT",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
     "titleId": "PPSA08444_00",
     "conceptId": 10004201,
     "name": "Why Pizza",
@@ -24630,6 +24678,14 @@
     "contentId": "UP2500-PPSA08536_00-US0WINDORIA00PS5",
     "region": "UP",
     "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA08537_00",
+    "conceptId": 10005296,
+    "name": "Gale of Windoria",
+    "contentId": "EP2363-PPSA08537_00-EU0WINDORIA00PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA08538_00",
@@ -24870,6 +24926,14 @@
     "contentId": "EP7333-PPSA08723_00-7195034282307797",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA08726_00",
+    "conceptId": 10004970,
+    "name": "FROGUN DELUXE",
+    "contentId": "UP5155-PPSA08726_00-1691034820017326",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA08727_00",
@@ -25184,6 +25248,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08962_00",
+    "conceptId": 10005633,
+    "name": "The Jumping Sushi: TURBO",
+    "contentId": "EP6664-PPSA08962_00-1317329900399524",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA08963_00",
     "conceptId": 10005633,
     "name": "The Jumping Sushi: TURBO",
@@ -25224,6 +25296,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08968_00",
+    "conceptId": null,
+    "name": "The Jumping Nuggets",
+    "contentId": "EP6664-PPSA08968_00-6959696422016239",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA08972_00",
     "conceptId": 10005638,
     "name": "The Jumping Taco: TURBO",
@@ -25238,6 +25318,14 @@
     "contentId": "UP6664-PPSA08973_00-4232098516039011",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA08974_00",
+    "conceptId": 10005639,
+    "name": "The Jumping Pizza: TURBO",
+    "contentId": "EP6664-PPSA08974_00-2233711635825730",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA09000_00",
@@ -25256,12 +25344,20 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA09021_00",
+    "conceptId": null,
+    "name": "Pickle Run",
+    "contentId": "UP4312-PPSA09021_00-8918303247869463",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA09022_00",
     "conceptId": 10001895,
-    "name": "7plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Seven Plus",
+    "contentId": "EP6809-PPSA09022_00-8183496413263954",
+    "region": "EP",
+    "publisherId": "EP6809"
   },
   {
     "titleId": "PPSA09085_00",
