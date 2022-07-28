@@ -9,7 +9,6 @@
 </head>
 
 <body>
-
     <div class="w3-container">
         <h2 id="page-title">PlayStation 5 Titles</h2>
         <div class="w3-bar w3-round w3-teal">
@@ -27,6 +26,9 @@
                     <a onclick="filterTable('EP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-blue">Europe</a>
                     <a onclick="filterTable('UP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-red">America</a>
                     <a onclick="filterTable('JP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-white">Japan</a>
+                    <a onclick="filterTable('pal', 'table-filters')" href="#" class="w3-bar-item w3-button w3-blue-gray">PS1/PS2 PAL</a>
+                    <a onclick="filterTable('ntsc-u', 'table-filters')" href="#" class="w3-bar-item w3-button w3-dark-gray">PS1/PS2 NTSC-U</a>
+                    <a onclick="filterTable('ntsc-j', 'table-filters')" href="#" class="w3-bar-item w3-button w3-gray">PS1/PS2 NTSC-J</a>
                     <!--<a onclick="filterTable('Other', 'table-filters')" href="#" class="w3-bar-item w3-button w3-gray">Other</a>-->
                 </div>
             </div>
@@ -64,9 +66,16 @@
     <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
     <script>
         $(document).ready(function () {
+            var url = new URL(window.location.href);
+            var dataUrl = 'https://raw.githubusercontent.com/andshrew/PlayStation-Titles/main/Json/PS5_Titles.json';
+            if (url.searchParams.get('platform')) {
+                let platform = url.searchParams.get('platform');
+                dataUrl = swapDataSource(platform, 'onload-data');
+            }
+
             var table = $('#data-table').DataTable({
                 ajax: {
-                    url: 'https://raw.githubusercontent.com/andshrew/PlayStation-Titles/main/Json/PS5_Titles.json',
+                    url: dataUrl,
                     dataSrc: '',
                     deferRender: true,
                 },
@@ -86,8 +95,7 @@
                 table.page('first');
                 table.draw();
             });
-
-            var url = new URL(window.location.href);
+   
             if (url.searchParams.get('title')) {
                 let search = url.searchParams.get('title')
                 $('#data-table').DataTable().column(0).search(search).draw();
@@ -96,19 +104,26 @@
                 let search = url.searchParams.get('concept')
                 $('#data-table').DataTable().column(1).search(search).draw();
             }
-            if (url.searchParams.get('platform')) {
-                let platform = url.searchParams.get('platform')
-                swapDataSource(platform)
-            }
         });
 
         function filterTable(filter, parentId) {
-            if (filter == 'Other') {
-                //$('#data-table').DataTable().columns(5).search('[^EP|^UP|^JP]', true, false).draw();
-            }
-            else {
-                $('#data-table').DataTable().columns(5).search(filter).draw();
-            }
+            switch (filter) {
+                case 'pal':
+                    $('#data-table').DataTable().column(3).search('(-SLES\\d{12})|(-SCES\\d{12})', true, false).draw();
+                    break;
+                case 'ntsc-u':
+                    $('#data-table').DataTable().column(3).search('(-SLUS\\d{12})|(-SCUS\\d{12})', true, false).draw();
+                    break;
+                case 'ntsc-j':
+                    $('#data-table').DataTable().column(3).search('(-SLPS\\d{12})|(-SLPM\\d{12})|(-SCPS\\d{12})', true, false).draw();
+                    break;
+                case 'other':
+                    //$('#data-table').DataTable().columns(5).search('[^EP|^UP|^JP]', true, false).draw();
+                    break;
+                default:
+                    $('#data-table').DataTable().columns(5).search(filter).draw();
+            }              
+            
             if (parentId) {
                 showMenu(parentId);
             }
@@ -149,9 +164,14 @@
                     title = 'PlayStation 4 and 5 Titles'
                     break;
             }
-            $('#data-table').DataTable().ajax.url(url).load()
 
             document.getElementById('page-title').firstChild.nodeValue = title;
+
+            if (parentId == 'onload-data') {
+                return url
+            }
+
+            $('#data-table').DataTable().ajax.url(url).load()          
 
             if (parentId) {
                 showMenu(parentId);
