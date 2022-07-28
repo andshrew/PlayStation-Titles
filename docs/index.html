@@ -86,6 +86,20 @@
                 table.page('first');
                 table.draw();
             });
+
+            var url = new URL(window.location.href);
+            if (url.searchParams.get('title')) {
+                let search = url.searchParams.get('title')
+                $('#data-table').DataTable().column(0).search(search).draw();
+            }
+            if (url.searchParams.get('concept')) {
+                let search = url.searchParams.get('concept')
+                $('#data-table').DataTable().column(1).search(search).draw();
+            }
+            if (url.searchParams.get('platform')) {
+                let platform = url.searchParams.get('platform')
+                swapDataSource(platform)
+            }
         });
 
         function filterTable(filter, parentId) {
@@ -121,7 +135,7 @@
         function swapDataSource(platform, parentId) {
             var url;
             var title;
-            switch (platform) {
+            switch (platform.toUpperCase()) {
                 case 'PS4':
                     url = 'https://raw.githubusercontent.com/andshrew/PlayStation-Titles/main/Json/PS4_Titles.json'
                     title = 'PlayStation 4 Titles'
