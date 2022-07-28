@@ -122,10 +122,10 @@
   {
     "titleId": "PPSA01315_00",
     "conceptId": 10000956,
-    "name": "\u30b0\u30e9\u30f3\u30c4\u30fc\u30ea\u30b9\u30e2\uff17",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b0\u30e9\u30f3\u30c4\u30fc\u30ea\u30b9\u30e2\u00ae 7",
+    "contentId": "JP9001-PPSA01315_00-GRANTURISMO70000",
+    "region": "JP",
+    "publisherId": "JP9001"
   },
   {
     "titleId": "PPSA01316_00",
@@ -139,9 +139,9 @@
     "titleId": "PPSA01317_00",
     "conceptId": 10000956,
     "name": "Gran Turismo\u00ae 7",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP9000-PPSA01317_00-GRANTURISMO70000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA01318_00",
@@ -2240,12 +2240,36 @@
     "publisherId": "UP3536"
   },
   {
+    "titleId": "PPSA01917_00",
+    "conceptId": 10000178,
+    "name": "The Art of Destruction AllStars\u2122",
+    "contentId": "EP9000-PPSA01917_00-DESTALLSTARSART1",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
     "titleId": "PPSA01918_00",
     "conceptId": 10000178,
-    "name": "Digital Art Book",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Art of Destruction AllStars",
+    "contentId": "UP9000-PPSA01918_00-DESTALLSTARSART1",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA01919_00",
+    "conceptId": 10000178,
+    "name": "The Art of Destruction AllStars",
+    "contentId": "JP9000-PPSA01919_00-DESTALLSTARSART1",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA01920_00",
+    "conceptId": 10000178,
+    "name": "The Art of Destruction AllStars",
+    "contentId": "HP9000-PPSA01920_00-DESTALLSTARSART1",
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA01922_00",
@@ -4550,6 +4574,14 @@
     "contentId": "JP9000-PPSA02480_00-RETURNALOST00001",
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA02481_00",
+    "conceptId": 10000176,
+    "name": "Returnal Original Soundtrack",
+    "contentId": "HP9000-PPSA02481_00-RETURNALOST00001",
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA02482_00",
@@ -12835,25 +12867,25 @@
     "titleId": "PPSA04413_00",
     "conceptId": 10003298,
     "name": "One-Eyed Lee and the Dinner Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA04413_00-RGONEEYEDLEEDINN",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA04414_00",
     "conceptId": 10003298,
     "name": "One-Eyed Lee and the Dinner Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA04414_00-RGONEEYEDLEEDINN",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA04415_00",
     "conceptId": 10003298,
-    "name": "One-Eyed Lee and the Dinner Party PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "One-Eyed Lee and the Dinner Party",
+    "contentId": "HP2005-PPSA04415_00-ONEEYEDLEEANDTHE",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA04416_00",
@@ -12883,17 +12915,17 @@
     "titleId": "PPSA04420_00",
     "conceptId": 10003305,
     "name": "Orbibot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA04420_00-RATALAIKAORBIBOT",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA04421_00",
     "conceptId": 10003305,
     "name": "Orbibot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA04421_00-RATALAIKAORBIBOT",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA04427_00",
@@ -12970,10 +13002,10 @@
   {
     "titleId": "PPSA04441_00",
     "conceptId": 10003315,
-    "name": "Freddy Spaghetti 2 PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Freddy Spaghetti 2",
+    "contentId": "HP2005-PPSA04441_00-FREDDYSPAGHETTI2",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA04444_00",
@@ -13171,41 +13203,41 @@
     "titleId": "PPSA04504_00",
     "conceptId": 10003365,
     "name": "Barry the Bunny",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA04504_00-RGABARRYTHEBUNNY",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA04505_00",
     "conceptId": 10003365,
     "name": "Barry the Bunny",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA04505_00-RGABARRYTHEBUNNY",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA04507_00",
     "conceptId": 10003366,
     "name": "Dating Life: Miley X Emily",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA04507_00-DATINGLIFEMILEYX",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA04508_00",
     "conceptId": 10003366,
     "name": "Dating Life: Miley X Emily",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6472-PPSA04508_00-DATINGLIFEMILEYX",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA04509_00",
     "conceptId": 10003366,
     "name": "Dating Life: \u30de\u30a4\u30ea\u30fc&\u30a8\u30df\u30ea\u30fc",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6391-PPSA04509_00-DATINGLIFEMILEYX",
+    "region": "JP",
+    "publisherId": "JP6391"
   },
   {
     "titleId": "PPSA04510_00",
@@ -13282,66 +13314,66 @@
   {
     "titleId": "PPSA04547_00",
     "conceptId": 10002873,
-    "name": "Rogue Explorer PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rogue Explorer",
+    "contentId": "UP2005-PPSA04547_00-ROGUEEXPLORER000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA04548_00",
     "conceptId": 10002873,
-    "name": "Rogue Explorer PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rogue Explorer",
+    "contentId": "EP2005-PPSA04548_00-ROGUEEXPLORER000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA04549_00",
     "conceptId": 10002873,
-    "name": "Rogue Explorer PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rogue Explorer",
+    "contentId": "JP0078-PPSA04549_00-ROGUEEXPLORER000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA04550_00",
     "conceptId": 10002873,
-    "name": "Rogue Explorer PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rogue Explorer",
+    "contentId": "HP2005-PPSA04550_00-ROGUEEXPLORER000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA04551_00",
     "conceptId": 10002296,
-    "name": "Pretty Girls Panic! PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pretty Girls Panic!",
+    "contentId": "UP2005-PPSA04551_00-PGPANIC000000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA04552_00",
     "conceptId": 10002296,
-    "name": "Pretty Girls Panic! PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pretty Girls Panic!",
+    "contentId": "EP2005-PPSA04552_00-PGPANIC000000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA04553_00",
     "conceptId": 10002296,
-    "name": "Pretty Girls Panic! PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pretty Girls Panic!",
+    "contentId": "JP0078-PPSA04553_00-PGPANIC000000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA04554_00",
     "conceptId": 10002296,
-    "name": "Pretty Girls Panic! PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pretty Girls Panic!",
+    "contentId": "HP2005-PPSA04554_00-PGPANIC000000000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA04555_00",
@@ -13363,17 +13395,17 @@
     "titleId": "PPSA04564_00",
     "conceptId": 10003399,
     "name": "Rally Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7231-PPSA04564_00-6531186079345748",
+    "region": "EP",
+    "publisherId": "EP7231"
   },
   {
     "titleId": "PPSA04565_00",
     "conceptId": 10003399,
     "name": "Rally Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7234-PPSA04565_00-0554950812598240",
+    "region": "UP",
+    "publisherId": "UP7234"
   },
   {
     "titleId": "PPSA04569_00",
@@ -13387,17 +13419,17 @@
     "titleId": "PPSA04571_00",
     "conceptId": 10003403,
     "name": "Endless Fables: Shadow Within",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1667-PPSA04571_00-EFSHADOW0PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
   },
   {
     "titleId": "PPSA04572_00",
     "conceptId": 10003403,
     "name": "Endless Fables: Shadow Within",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1681-PPSA04572_00-EFSHADOW0PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA04573_00",
@@ -13714,10 +13746,10 @@
   {
     "titleId": "PPSA04630_00",
     "conceptId": 10002062,
-    "name": "Tormented Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tormented Souls Demo",
+    "contentId": "UP4293-PPSA04630_00-TORMPS5DEMOSIEA0",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA04631_00",
@@ -13947,25 +13979,25 @@
     "titleId": "PPSA04706_00",
     "conceptId": 10001000,
     "name": "LoveChoice",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA04706_00-RATALALOVECHOICE",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA04707_00",
     "conceptId": 10001000,
     "name": "LoveChoice",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA04707_00-RATALALOVECHOICE",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA04708_00",
     "conceptId": 10001000,
     "name": "Love Choice \u611b\u306e\u9078\u629e",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1190-PPSA04708_00-RATALALOVECHOICE",
+    "region": "JP",
+    "publisherId": "JP1190"
   },
   {
     "titleId": "PPSA04711_00",
@@ -14019,33 +14051,33 @@
     "titleId": "PPSA04729_00",
     "conceptId": 10002749,
     "name": "Poker Pretty Girls Battle: Fantasy World Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA04729_00-POKERBATTLE00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA04730_00",
     "conceptId": 10002749,
     "name": "Poker Pretty Girls Battle: Fantasy World Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA04730_00-POKERBATTLE00000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA04731_00",
     "conceptId": 10002749,
     "name": "Poker Pretty Girls Battle: Fantasy World Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA04731_00-POKERBATTLE00000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA04732_00",
     "conceptId": 10002749,
     "name": "Poker Pretty Girls Battle: Fantasy World Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA04732_00-POKERBATTLE00000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA04734_00",
@@ -14162,34 +14194,34 @@
   {
     "titleId": "PPSA04758_00",
     "conceptId": 10002874,
-    "name": "Poker Pretty Girls Battle: Texas Hold'em PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Poker Pretty Girls Battle: Texas Hold'em",
+    "contentId": "UP2005-PPSA04758_00-PPGBTEXASHOLDEM0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA04759_00",
     "conceptId": 10002874,
-    "name": "Poker Pretty Girls Battle: Texas Hold'em PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Poker Pretty Girls Battle: Texas Hold'em",
+    "contentId": "EP2005-PPSA04759_00-PPGBTEXASHOLDEM0",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA04760_00",
     "conceptId": 10002874,
-    "name": "Poker Pretty Girls Battle: Texas Hold'em PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Poker Pretty Girls Battle: Texas Hold'em",
+    "contentId": "JP0078-PPSA04760_00-PPGBTEXASHOLDEM0",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA04761_00",
     "conceptId": 10002874,
-    "name": "Poker Pretty Girls Battle: Texas Hold'em PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Poker Pretty Girls Battle: Texas Hold'em",
+    "contentId": "HP2005-PPSA04761_00-PPGBTEXASHOLDEM0",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA04762_00",
@@ -14395,33 +14427,33 @@
     "titleId": "PPSA04804_00",
     "conceptId": 10002299,
     "name": "Delicious! Pretty Girls Mahjong Solitaire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA04804_00-DELICIOUSPGMAHJO",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA04805_00",
     "conceptId": 10002299,
     "name": "Delicious! Pretty Girls Mahjong Solitaire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA04805_00-DELICIOUSPGMAHJO",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA04806_00",
     "conceptId": 10002299,
     "name": "Delicious! Pretty Girls Mahjong Solitaire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA04806_00-DELICIOUSPGMAHJO",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA04807_00",
     "conceptId": 10002299,
     "name": "Delicious! Pretty Girls Mahjong Solitaire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA04807_00-DELICIOUSPGMAHJO",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA04808_00",
@@ -14579,25 +14611,25 @@
     "titleId": "PPSA04849_00",
     "conceptId": 10003203,
     "name": "Akinofa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1626-PPSA04849_00-AKINOFAGAME00000",
+    "region": "UP",
+    "publisherId": "UP1626"
   },
   {
     "titleId": "PPSA04850_00",
     "conceptId": 10003203,
     "name": "Akinofa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA04850_00-AKINOFAGAME00000",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA04851_00",
     "conceptId": 10003203,
     "name": "Akinofa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP1743-PPSA04851_00-AKINOFAGAME00000",
+    "region": "HP",
+    "publisherId": "HP1743"
   },
   {
     "titleId": "PPSA04862_00",
@@ -14707,9 +14739,9 @@
     "titleId": "PPSA04888_00",
     "conceptId": 10003611,
     "name": "Takorita Meets Fries",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA04888_00-RGTAKORITAMEETSF",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA04889_00",
@@ -14771,17 +14803,17 @@
     "titleId": "PPSA04902_00",
     "conceptId": 10003617,
     "name": "Sakura Swim Club",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA04902_00-SAKURASWIMCLUB00",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA04903_00",
     "conceptId": 10003617,
     "name": "Sakura Swim Club",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6472-PPSA04903_00-SAKURASWIMCLUB00",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA04904_00",
@@ -14963,17 +14995,17 @@
     "titleId": "PPSA04938_00",
     "conceptId": 10003631,
     "name": "Highschool Romance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA04938_00-HIGHSCHOOLROMANC",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA04939_00",
     "conceptId": 10003631,
     "name": "Highschool Romance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6472-PPSA04939_00-HIGHSCHOOLROMANC",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA04942_00",
@@ -15051,17 +15083,17 @@
     "titleId": "PPSA04967_00",
     "conceptId": 10002616,
     "name": "LOST JUDGMENT\uff1a\u88c1\u304b\u308c\u3056\u308b\u8a18\u61b6 \u4f53\u9a13\u7248",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0177-PPSA04967_00-LOSTJUDGMENTDEMO",
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA04968_00",
     "conceptId": 10002616,
-    "name": "LOST JUDGMENT DEMO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lost Judgment Trial Version",
+    "contentId": "HP0177-PPSA04968_00-LOSTJUDGMENTDEMO",
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA04973_00",
@@ -15075,25 +15107,25 @@
     "titleId": "PPSA04978_00",
     "conceptId": 10003651,
     "name": "Virtuous Western",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA04978_00-RGVIRTUOUSWESTER",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA04979_00",
     "conceptId": 10003651,
     "name": "Virtuous Western",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA04979_00-RGVIRTUOUSWESTER",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA04980_00",
     "conceptId": 10003651,
-    "name": "Virtuous Western PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Virtuous Western",
+    "contentId": "HP2005-PPSA04980_00-RGVIRTUOUSWESTER",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA04981_00",
@@ -15203,17 +15235,17 @@
     "titleId": "PPSA05017_00",
     "conceptId": 10003667,
     "name": "Don't Touch this Button!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA05017_00-RGDONTTOUCHTHISB",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA05018_00",
     "conceptId": 10003667,
     "name": "Don't Touch this Button!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA05018_00-RGDONTTOUCHTHISB",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA05019_00",
@@ -15258,34 +15290,34 @@
   {
     "titleId": "PPSA05030_00",
     "conceptId": 235227,
-    "name": "Ghost of Tsushima DIRECTOR\u2019S CUT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ghost of Tsushima",
+    "contentId": "UP9000-PPSA05030_00-GHOSTSHIP0000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA05031_00",
     "conceptId": 235227,
-    "name": "Ghost of Tsushima DIRECTOR'S CUT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ghost of Tsushima",
+    "contentId": "EP9000-PPSA05031_00-GHOSTSHIP0000000",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA05032_00",
     "conceptId": 235227,
-    "name": "Ghost of Tsushima DIRECTOR'S CUT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ghost of Tsushima",
+    "contentId": "JP9000-PPSA05032_00-GHOSTSHIP0000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA05033_00",
     "conceptId": 235227,
-    "name": "Ghost of Tsushima DIRECTOR'S CUT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ghost of Tsushima",
+    "contentId": "HP9000-PPSA05033_00-GHOSTSHIP0000000",
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA05034_00",
@@ -15347,25 +15379,25 @@
     "titleId": "PPSA05053_00",
     "conceptId": 235237,
     "name": "Without Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA05053_00-WITHOUTESCAPE000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA05054_00",
     "conceptId": 235237,
     "name": "Without Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA05054_00-WITHOUTESCAPE000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA05055_00",
     "conceptId": 235237,
     "name": "Without Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA05055_00-WITHOUTESCAPE000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA05056_00",
@@ -15378,18 +15410,18 @@
   {
     "titleId": "PPSA05063_00",
     "conceptId": 10003187,
-    "name": "Steelrising",
+    "name": "Steelrising - Bastille Edition Pre-Order",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA05064_00",
     "conceptId": 10003187,
-    "name": "Steelrising",
+    "name": "Steelrising - Bastille Edition Pre-Order",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA05068_00",
@@ -17868,16 +17900,16 @@
     "conceptId": 10004085,
     "name": "SBK\u212222 PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4356"
   },
   {
     "titleId": "PPSA05750_00",
     "conceptId": 10004085,
     "name": "SBK\u212222 PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1981"
   },
   {
     "titleId": "PPSA05753_00",
@@ -17955,9 +17987,9 @@
     "titleId": "PPSA05772_00",
     "conceptId": 10004103,
     "name": "Mr. Hibbl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA05772_00-9085800455410316",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA05775_00",
@@ -18316,6 +18348,14 @@
     "conceptId": 10003580,
     "name": "The DioField Chronicle",
     "contentId": "HP0082-PPSA05882_00-DFCSTD000000005A",
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA05886_00",
+    "conceptId": 10003580,
+    "name": "The DioField Chronicle Demo",
+    "contentId": "HP0082-PPSA05886_00-DFCDEMO00000005A",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -19082,10 +19122,10 @@
   {
     "titleId": "PPSA06091_00",
     "conceptId": 10001886,
-    "name": "The Legend of Heroes: Kuro no Kiseki",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u82f1\u96c4\u4f1d\u8aac \u9ece\u306e\u8ecc\u8de1",
+    "contentId": "JP0425-PPSA06091_00-EDKURONOKISEKI01",
+    "region": "JP",
+    "publisherId": "JP0425"
   },
   {
     "titleId": "PPSA06094_00",
@@ -20147,9 +20187,9 @@
     "titleId": "PPSA06492_00",
     "conceptId": 10004103,
     "name": "Mr. Hibbl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA06492_00-4205401210516417",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA06493_00",
@@ -20346,10 +20386,10 @@
   {
     "titleId": "PPSA06542_00",
     "conceptId": 10003340,
-    "name": "DEADCRAFT  Demo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DEADCRAFT \u4f53\u9a13\u7248",
+    "contentId": "JP0507-PPSA06542_00-DMX0000000000000",
+    "region": "JP",
+    "publisherId": "JP0507"
   },
   {
     "titleId": "PPSA06551_00",
@@ -24768,6 +24808,14 @@
     "publisherId": "EP1703"
   },
   {
+    "titleId": "PPSA08544_00",
+    "conceptId": 10003659,
+    "name": "Quick Mafs",
+    "contentId": "JP7309-PPSA08544_00-0138062088223021",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
     "titleId": "PPSA08550_00",
     "conceptId": 10005444,
     "name": "The Spidy D",
@@ -24910,6 +24958,46 @@
     "contentId": "HP7695-PPSA08616_00-3869303848532466",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA08632_00",
+    "conceptId": 10004183,
+    "name": "The Ketchup story",
+    "contentId": "JP7309-PPSA08632_00-1227837024100666",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA08636_00",
+    "conceptId": 10004523,
+    "name": "Rainbow",
+    "contentId": "JP7309-PPSA08636_00-9410205908859032",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA08637_00",
+    "conceptId": 10004523,
+    "name": "Rainbow",
+    "contentId": "HP7354-PPSA08637_00-6660384472926251",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08645_00",
+    "conceptId": 10004746,
+    "name": "Quick Mafs Advanced",
+    "contentId": "HP7354-PPSA08645_00-3538814368624863",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08652_00",
+    "conceptId": 10005195,
+    "name": "The Dog K",
+    "contentId": "JP7309-PPSA08652_00-1546435575702764",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA08676_00",
@@ -25264,6 +25352,22 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08877_00",
+    "conceptId": 10005603,
+    "name": "Weben Blocks 2",
+    "contentId": "UP7335-PPSA08877_00-6261082591409388",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA08878_00",
+    "conceptId": 10005603,
+    "name": "Weben Blocks 2",
+    "contentId": "EP7333-PPSA08878_00-8062765183455958",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
     "titleId": "PPSA08901_00",
     "conceptId": 10005612,
     "name": "The Football T",
@@ -25292,6 +25396,14 @@
     "conceptId": 10005616,
     "name": "The Tiger T",
     "contentId": "EP7333-PPSA08916_00-9115158998200508",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA08920_00",
+    "conceptId": 10005617,
+    "name": "The Giraffe G",
+    "contentId": "EP7333-PPSA08920_00-0419232580713506",
     "region": "EP",
     "publisherId": "EP7333"
   },
@@ -25464,6 +25576,22 @@
     "publisherId": "EP6809"
   },
   {
+    "titleId": "PPSA09053_00",
+    "conceptId": 10005684,
+    "name": "Rainbow Mix",
+    "contentId": "UP7335-PPSA09053_00-6019807173271039",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA09054_00",
+    "conceptId": 10005684,
+    "name": "Rainbow Mix",
+    "contentId": "EP7333-PPSA09054_00-5338373808976504",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
     "titleId": "PPSA09085_00",
     "conceptId": 10005697,
     "name": "The Sheep Quiz",
@@ -25478,6 +25606,14 @@
     "contentId": "EP7333-PPSA09086_00-0982239789864551",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA09332_00",
+    "conceptId": 10003251,
+    "name": "Pizza Break Head to Head",
+    "contentId": "EP4312-PPSA09332_00-0087464264011456",
+    "region": "EP",
+    "publisherId": "EP4312"
   },
   {
     "titleId": "PPSA09333_00",
