@@ -11800,6 +11800,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA04158_00",
+    "conceptId": 10003123,
+    "name": "Goat Simulator 3",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4837"
+  },
+  {
+    "titleId": "PPSA04159_00",
+    "conceptId": 10003123,
+    "name": "Goat Simulator 3",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4664"
+  },
+  {
     "titleId": "PPSA04165_00",
     "conceptId": 10003137,
     "name": "Ball laB",
@@ -17050,8 +17066,8 @@
   {
     "titleId": "PPSA05482_00",
     "conceptId": 10003900,
-    "name": "Madden NFL 23 PS5\u2122",
-    "contentId": null,
+    "name": "Madden NFL 23",
+    "contentId": "EP0006-PPSA05482_00-MADDENNFL23GAME1",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -18350,6 +18366,14 @@
     "contentId": "HP0082-PPSA05882_00-DFCSTD000000005A",
     "region": "HP",
     "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA05883_00",
+    "conceptId": 10003580,
+    "name": "The DioField Chronicle \u4f53\u9a13\u7248",
+    "contentId": "JP0082-PPSA05883_00-DFCDEMO00000005J",
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA05886_00",
@@ -19808,12 +19832,52 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA06319_00",
+    "conceptId": 10004394,
+    "name": "Ape Escape",
+    "contentId": "UP9000-PPSA06319_00-SCUS944230000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06320_00",
+    "conceptId": 10004394,
+    "name": "Ape Escape",
+    "contentId": "EP9000-PPSA06320_00-SCES01564P000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06321_00",
+    "conceptId": 10004394,
+    "name": "\u30b5\u30eb\u30b2\u30c3\u30c1\u30e5",
+    "contentId": "JP9000-PPSA06321_00-SCPS100910000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA06322_00",
     "conceptId": 10004395,
     "name": "Syphon Filter",
     "contentId": "UP9000-PPSA06322_00-SCUS942400000000",
     "region": "UP",
     "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06323_00",
+    "conceptId": 10004395,
+    "name": "Syphon Filter",
+    "contentId": "EP9000-PPSA06323_00-SCES019100000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06324_00",
+    "conceptId": 10004395,
+    "name": "Syphon Filter (\u30b5\u30a4\u30d5\u30a9\u30f3\u30fb\u30d5\u30a3\u30eb\u30bf\u30fc)",
+    "contentId": "JP9000-PPSA06324_00-SLPS022160000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA06333_00",
@@ -19854,6 +19918,102 @@
     "contentId": "EP3111-PPSA06342_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA06346_00",
+    "conceptId": 10004411,
+    "name": "Hot Shots Golf",
+    "contentId": "UP9000-PPSA06346_00-SCUS941880000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06347_00",
+    "conceptId": 10004411,
+    "name": "Everybody's Golf",
+    "contentId": "EP9000-PPSA06347_00-SCES009830000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06348_00",
+    "conceptId": 10004411,
+    "name": "\u307f\u3093\u306a\u306e\uff27\uff2f\uff2c\uff26",
+    "contentId": "JP9000-PPSA06348_00-SCPS100420000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA06349_00",
+    "conceptId": 10004409,
+    "name": "Wild Arms",
+    "contentId": "UP9000-PPSA06349_00-SCUS946080000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06350_00",
+    "conceptId": 10004409,
+    "name": "Wild Arms",
+    "contentId": "EP9000-PPSA06350_00-SCES003210000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06351_00",
+    "conceptId": 10004409,
+    "name": "\u30ef\u30a4\u30eb\u30c9\u30a2\u30fc\u30e0\u30ba",
+    "contentId": "JP9000-PPSA06351_00-SCPS100280000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA06355_00",
+    "conceptId": 10004410,
+    "name": "I.Q Intelligent Qube",
+    "contentId": "UP9000-PPSA06355_00-SCUS941810000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06356_00",
+    "conceptId": 10004410,
+    "name": "Kurushi",
+    "contentId": "EP9000-PPSA06356_00-SCES008660000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06357_00",
+    "conceptId": 10004410,
+    "name": "I.Q \u30a4\u30f3\u30c6\u30ea\u30b8\u30a7\u30f3\u30c8\u30ad\u30e5\u30fc\u30d6",
+    "contentId": "JP9000-PPSA06357_00-SCPS910680000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA06358_00",
+    "conceptId": 10004413,
+    "name": "Jumping Flash!",
+    "contentId": "UP9000-PPSA06358_00-SCUS941030000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06359_00",
+    "conceptId": 10004413,
+    "name": "Jumping Flash!",
+    "contentId": "EP9000-PPSA06359_00-SCES000030000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06360_00",
+    "conceptId": 10004413,
+    "name": "\u30b8\u30e3\u30f3\u30d4\u30f3\u30b0\u30d5\u30e9\u30c3\u30b7\u30e5!",
+    "contentId": "JP9000-PPSA06360_00-SCPM850010000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA06370_00",
@@ -21152,6 +21312,70 @@
     "publisherId": "JP5679"
   },
   {
+    "titleId": "PPSA06791_00",
+    "conceptId": 10004655,
+    "name": "LocoRoco Midnight Carnival",
+    "contentId": "UP9000-PPSA06791_00-NPUG803180000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06792_00",
+    "conceptId": 10004655,
+    "name": "LocoRoco Midnight Carnival",
+    "contentId": "EP9000-PPSA06792_00-NPEG000240000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06793_00",
+    "conceptId": 10004655,
+    "name": "LocoRoco Midnight Carnival",
+    "contentId": "JP9000-PPSA06793_00-NPJG000340000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA06794_00",
+    "conceptId": 10004655,
+    "name": "LocoRoco Midnight Carnival",
+    "contentId": "HP9000-PPSA06794_00-NPHG000240000000",
+    "region": "HP",
+    "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA06795_00",
+    "conceptId": 10004656,
+    "name": "echochrome",
+    "contentId": "UP9000-PPSA06795_00-NPUG801350000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06796_00",
+    "conceptId": 10004656,
+    "name": "echochrome",
+    "contentId": "EP9000-PPSA06796_00-UCES010110000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06797_00",
+    "conceptId": 10004656,
+    "name": "\u7121\u9650\u56de\u5eca",
+    "contentId": "JP9000-PPSA06797_00-UCJS100810000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA06798_00",
+    "conceptId": 10004656,
+    "name": "echochrome",
+    "contentId": "HP9000-PPSA06798_00-UCKS450820000000",
+    "region": "HP",
+    "publisherId": "HP9000"
+  },
+  {
     "titleId": "PPSA06804_00",
     "conceptId": 10004659,
     "name": "Touchdown Pinball",
@@ -22400,6 +22624,38 @@
     "publisherId": "EP3540"
   },
   {
+    "titleId": "PPSA07308_00",
+    "conceptId": 10004899,
+    "name": "Worms Armageddon",
+    "contentId": "EP4064-PPSA07308_00-SLES022170000000",
+    "region": "EP",
+    "publisherId": "EP4064"
+  },
+  {
+    "titleId": "PPSA07309_00",
+    "conceptId": 10004899,
+    "name": "Worms Armageddon",
+    "contentId": "UP4064-PPSA07309_00-SLUS008880000000",
+    "region": "UP",
+    "publisherId": "UP4064"
+  },
+  {
+    "titleId": "PPSA07310_00",
+    "conceptId": 10004900,
+    "name": "Worms World Party",
+    "contentId": "EP4064-PPSA07310_00-SLES038040000000",
+    "region": "EP",
+    "publisherId": "EP4064"
+  },
+  {
+    "titleId": "PPSA07311_00",
+    "conceptId": 10004900,
+    "name": "Worms World Party",
+    "contentId": "UP4064-PPSA07311_00-SLUS014480000000",
+    "region": "UP",
+    "publisherId": "UP4064"
+  },
+  {
     "titleId": "PPSA07316_00",
     "conceptId": 10003452,
     "name": "Legend of Ixtona",
@@ -22510,6 +22766,22 @@
     "contentId": "EP3446-PPSA07370_00-7964977575636485",
     "region": "EP",
     "publisherId": "EP3446"
+  },
+  {
+    "titleId": "PPSA07371_00",
+    "conceptId": 10004933,
+    "name": "Disney/Pixar Toy Story 2: Buzz Lightyear to the Rescue!",
+    "contentId": "UP1082-PPSA07371_00-SLUS008930000000",
+    "region": "UP",
+    "publisherId": "UP1082"
+  },
+  {
+    "titleId": "PPSA07372_00",
+    "conceptId": 10004933,
+    "name": "Disney/Pixar Toy Story 2: Buzz Lightyear to the Rescue!",
+    "contentId": "EP1006-PPSA07372_00-SLES020670000000",
+    "region": "EP",
+    "publisherId": "EP1006"
   },
   {
     "titleId": "PPSA07375_00",
@@ -22896,6 +23168,30 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA07546_00",
+    "conceptId": 10005031,
+    "name": "echoshift",
+    "contentId": "UP9000-PPSA07546_00-NPUG803030000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA07547_00",
+    "conceptId": 10005031,
+    "name": "echoshift",
+    "contentId": "EP9000-PPSA07547_00-UCES013130000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA07548_00",
+    "conceptId": 10005031,
+    "name": "\u6642\u9650\u56de\u5eca",
+    "contentId": "JP9000-PPSA07548_00-UCJS100960000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA07574_00",
     "conceptId": 10003216,
     "name": "Pizza Break",
@@ -23166,6 +23462,70 @@
     "contentId": "EP3111-PPSA07689_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA07701_00",
+    "conceptId": 10005100,
+    "name": "\u9244\u62f3\uff12",
+    "contentId": "JP0700-PPSA07701_00-SLPS003000000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA07702_00",
+    "conceptId": 10005100,
+    "name": "Tekken 2",
+    "contentId": "HP0700-PPSA07702_00-SLUS002130000000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA07703_00",
+    "conceptId": 10005100,
+    "name": "Tekken 2",
+    "contentId": "UP0700-PPSA07703_00-SLUS002130000000",
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA07704_00",
+    "conceptId": 10005100,
+    "name": "Tekken 2",
+    "contentId": "EP0700-PPSA07704_00-SLUS002130000000",
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA07717_00",
+    "conceptId": 10005104,
+    "name": "\u30df\u30b9\u30bf\u30fc\u30c9\u30ea\u30e9\u30fc",
+    "contentId": "JP0700-PPSA07717_00-SLPS026000000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA07718_00",
+    "conceptId": 10005104,
+    "name": "Mr. Driller",
+    "contentId": "HP0700-PPSA07718_00-SLUS011110000000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA07719_00",
+    "conceptId": 10005104,
+    "name": "Mr. Driller",
+    "contentId": "UP0700-PPSA07719_00-SLUS011110000000",
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA07720_00",
+    "conceptId": 10005104,
+    "name": "Mr. Driller",
+    "contentId": "EP0700-PPSA07720_00-SLUS011110000000",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA07726_00",
@@ -24816,6 +25176,14 @@
     "publisherId": "JP7309"
   },
   {
+    "titleId": "PPSA08545_00",
+    "conceptId": 10003659,
+    "name": "Quick Mafs",
+    "contentId": "HP7354-PPSA08545_00-3348425664990990",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA08550_00",
     "conceptId": 10005444,
     "name": "The Spidy D",
@@ -24968,6 +25336,30 @@
     "publisherId": "JP7309"
   },
   {
+    "titleId": "PPSA08633_00",
+    "conceptId": 10004183,
+    "name": "The Ketchup story",
+    "contentId": "HP7354-PPSA08633_00-3026509609638386",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08634_00",
+    "conceptId": 10004331,
+    "name": "Santa's workshop",
+    "contentId": "JP7309-PPSA08634_00-1668328459665795",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA08635_00",
+    "conceptId": 10004331,
+    "name": "Santa's workshop",
+    "contentId": "HP7354-PPSA08635_00-5298166184875102",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA08636_00",
     "conceptId": 10004523,
     "name": "Rainbow",
@@ -24984,10 +25376,50 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA08638_00",
+    "conceptId": 10004527,
+    "name": "The Sheep P",
+    "contentId": "JP7309-PPSA08638_00-7275365020381155",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA08639_00",
+    "conceptId": 10004527,
+    "name": "The Sheep P",
+    "contentId": "HP7354-PPSA08639_00-7148455564222620",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08644_00",
+    "conceptId": 10004746,
+    "name": "Quick Mafs Advanced",
+    "contentId": "JP7309-PPSA08644_00-7118388606933543",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
     "titleId": "PPSA08645_00",
     "conceptId": 10004746,
     "name": "Quick Mafs Advanced",
     "contentId": "HP7354-PPSA08645_00-3538814368624863",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08650_00",
+    "conceptId": 10005194,
+    "name": "The Bat D",
+    "contentId": "JP7309-PPSA08650_00-7742171651221563",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA08651_00",
+    "conceptId": 10005194,
+    "name": "The Bat D",
+    "contentId": "HP7354-PPSA08651_00-3397402557537514",
     "region": "HP",
     "publisherId": "HP7354"
   },
@@ -24998,6 +25430,30 @@
     "contentId": "JP7309-PPSA08652_00-1546435575702764",
     "region": "JP",
     "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA08653_00",
+    "conceptId": 10005195,
+    "name": "The Dog K",
+    "contentId": "HP7354-PPSA08653_00-0814534813466869",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08654_00",
+    "conceptId": 10005286,
+    "name": "The Wine Story",
+    "contentId": "JP7309-PPSA08654_00-5607257354865027",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA08655_00",
+    "conceptId": 10005286,
+    "name": "The Wine Story",
+    "contentId": "HP7354-PPSA08655_00-6784473440710843",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA08676_00",
@@ -25142,6 +25598,14 @@
     "contentId": "UP6664-PPSA08762_00-1047092912070719",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA08786_00",
+    "conceptId": 10005563,
+    "name": "Space KaBAAM 3",
+    "contentId": "EP7345-PPSA08786_00-9819033241350444",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA08812_00",
@@ -25384,6 +25848,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA08911_00",
+    "conceptId": 10005615,
+    "name": "The Tennis T",
+    "contentId": "UP7335-PPSA08911_00-3315406784665731",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA08912_00",
+    "conceptId": 10005615,
+    "name": "The Tennis T",
+    "contentId": "EP7333-PPSA08912_00-1951272961553938",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
     "titleId": "PPSA08915_00",
     "conceptId": 10005616,
     "name": "The Tiger T",
@@ -25398,6 +25878,14 @@
     "contentId": "EP7333-PPSA08916_00-9115158998200508",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA08919_00",
+    "conceptId": 10005617,
+    "name": "The Giraffe G",
+    "contentId": "UP7335-PPSA08919_00-1105597285704755",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA08920_00",
