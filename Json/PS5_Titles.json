@@ -17058,8 +17058,8 @@
   {
     "titleId": "PPSA05481_00",
     "conceptId": 10003900,
-    "name": "Madden NFL 23 PS5\u2122",
-    "contentId": null,
+    "name": "Madden NFL 23",
+    "contentId": "UP0006-PPSA05481_00-MADDENNFL23GAME1",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -18206,6 +18206,22 @@
     "contentId": "UP7335-PPSA05829_00-9650395804895692",
     "region": "UP",
     "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA05840_00",
+    "conceptId": null,
+    "name": "Idol Manager",
+    "contentId": "UP0969-PPSA05840_00-2994433267166452",
+    "region": "UP",
+    "publisherId": "UP0969"
+  },
+  {
+    "titleId": "PPSA05841_00",
+    "conceptId": null,
+    "name": "Idol Manager",
+    "contentId": "EP0122-PPSA05841_00-8953178883180872",
+    "region": "EP",
+    "publisherId": "EP0122"
   },
   {
     "titleId": "PPSA05843_00",
@@ -24320,6 +24336,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08098_00",
+    "conceptId": 10004978,
+    "name": "Gigapocalypse",
+    "contentId": "EP0822-PPSA08098_00-GIGAPOCALYPSE5EU",
+    "region": "EP",
+    "publisherId": "EP0822"
+  },
+  {
+    "titleId": "PPSA08099_00",
+    "conceptId": 10004978,
+    "name": "Gigapocalypse",
+    "contentId": "UP0825-PPSA08099_00-GIGAPOCALYPSE5US",
+    "region": "UP",
+    "publisherId": "UP0825"
+  },
+  {
     "titleId": "PPSA08110_00",
     "conceptId": 10005277,
     "name": "Ninja Break",
@@ -25112,6 +25144,30 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA08497_00",
+    "conceptId": 10005423,
+    "name": "Roll The Cat",
+    "contentId": "UP0891-PPSA08497_00-RATAGAROLLTHECAT",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA08505_00",
+    "conceptId": 10005427,
+    "name": "Abyss",
+    "contentId": "UP6927-PPSA08505_00-8760107343038792",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
+    "titleId": "PPSA08506_00",
+    "conceptId": 10005427,
+    "name": "Abyss",
+    "contentId": "EP6922-PPSA08506_00-4037526286083481",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA08516_00",
     "conceptId": 10000950,
     "name": "Path of Titans",
@@ -25123,7 +25179,7 @@
     "titleId": "PPSA08526_00",
     "conceptId": 10005387,
     "name": "Baldur's Gate: Dark Alliance II",
-    "contentId": null,
+    "contentId": "UP4393-PPSA08526_00-BALDURSGATEDARK2",
     "region": "UP",
     "publisherId": "UP4393"
   },
@@ -25131,7 +25187,7 @@
     "titleId": "PPSA08527_00",
     "conceptId": 10005387,
     "name": "Baldur's Gate: Dark Alliance II",
-    "contentId": null,
+    "contentId": "EP4625-PPSA08527_00-BALDURSGATEDARK2",
     "region": "EP",
     "publisherId": "EP4625"
   },
@@ -25324,6 +25380,22 @@
     "conceptId": 10005486,
     "name": "Frogo",
     "contentId": "HP7695-PPSA08616_00-3869303848532466",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA08619_00",
+    "conceptId": 10005380,
+    "name": "Lump Jump",
+    "contentId": "JP7649-PPSA08619_00-1628243364467594",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA08620_00",
+    "conceptId": 10005380,
+    "name": "Lump Jump",
+    "contentId": "HP7695-PPSA08620_00-6473954818285004",
     "region": "HP",
     "publisherId": "HP7695"
   },
@@ -25606,6 +25678,30 @@
     "contentId": "EP7345-PPSA08786_00-9819033241350444",
     "region": "EP",
     "publisherId": "EP7345"
+  },
+  {
+    "titleId": "PPSA08787_00",
+    "conceptId": 10005563,
+    "name": "Space KaBAAM 3",
+    "contentId": "UP7347-PPSA08787_00-3558895338537517",
+    "region": "UP",
+    "publisherId": "UP7347"
+  },
+  {
+    "titleId": "PPSA08788_00",
+    "conceptId": 10005563,
+    "name": "Space KaBAAM 3",
+    "contentId": "HP7367-PPSA08788_00-1021562620617151",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA08789_00",
+    "conceptId": 10005563,
+    "name": "Space KaBAAM 3",
+    "contentId": "JP7323-PPSA08789_00-5250279095554131",
+    "region": "JP",
+    "publisherId": "JP7323"
   },
   {
     "titleId": "PPSA08812_00",
@@ -25896,6 +25992,38 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA08934_00",
+    "conceptId": 10005620,
+    "name": "Vump Jump",
+    "contentId": "EP7666-PPSA08934_00-0144306603312434",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA08935_00",
+    "conceptId": 10005620,
+    "name": "Vump Jump",
+    "contentId": "UP7668-PPSA08935_00-2786682889045126",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA08936_00",
+    "conceptId": 10005620,
+    "name": "Vump Jump",
+    "contentId": "JP7649-PPSA08936_00-7175002208558838",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA08937_00",
+    "conceptId": 10005620,
+    "name": "Vump Jump",
+    "contentId": "HP7695-PPSA08937_00-7786847333874869",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
     "titleId": "PPSA08960_00",
     "conceptId": 10005632,
     "name": "The Jumping Sushi",
@@ -26110,5 +26238,13 @@
     "contentId": "UP4312-PPSA09333_00-8922542366613002",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA09487_00",
+    "conceptId": 10002810,
+    "name": "Gunducky Industries++",
+    "contentId": "UP3058-PPSA09487_00-2975544951499886",
+    "region": "UP",
+    "publisherId": "UP3058"
   }
 ]
