@@ -786,8 +786,8 @@
   {
     "titleId": "PPSA01516_00",
     "conceptId": 233592,
-    "name": "Rainbow 6 Extraction PS5 Tracker",
-    "contentId": "EP0001-PPSA01516_00-PSTRACK000000000",
+    "name": "Tom Clancy's Rainbow Six\u00ae Extraction",
+    "contentId": "EP0001-PPSA01516_00-R6EXTRACTION0000",
     "region": "EP",
     "publisherId": "EP0001"
   },
@@ -810,8 +810,8 @@
   {
     "titleId": "PPSA01519_00",
     "conceptId": 233592,
-    "name": "Rainbow 6 Extraction PS5 Tracker",
-    "contentId": "JP0001-PPSA01519_00-PSTRACK000000000",
+    "name": "\u30c8\u30e0 \u30af\u30e9\u30f3\u30b7\u30fc \u30ec\u30a4\u30f3\u30dc\u30fc\u30b7\u30c3\u30af\u30b9 \u30a8\u30af\u30b9\u30c8\u30e9\u30af\u30b7\u30e7\u30f3",
+    "contentId": "JP0001-PPSA01519_00-R6EXTRACTION0000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -5251,7 +5251,7 @@
     "titleId": "PPSA02628_00",
     "conceptId": 10002134,
     "name": "Trek To Yomi",
-    "contentId": "UP3643-PPSA02628_00-PSTRACK000000000",
+    "contentId": "UP3643-PPSA02628_00-TREKTOYOMI000000",
     "region": "UP",
     "publisherId": "UP3643"
   },
@@ -5259,7 +5259,7 @@
     "titleId": "PPSA02629_00",
     "conceptId": 10002134,
     "name": "Trek To Yomi",
-    "contentId": "EP3643-PPSA02629_00-PSTRACK000000000",
+    "contentId": "EP3643-PPSA02629_00-TREKTOYOMI000000",
     "region": "EP",
     "publisherId": "EP3643"
   },
@@ -5594,8 +5594,8 @@
   {
     "titleId": "PPSA02715_00",
     "conceptId": 10001073,
-    "name": "RIMS Racing",
-    "contentId": "EP4008-PPSA02715_00-PSTRACK000000000",
+    "name": "RiMS Racing",
+    "contentId": "EP4008-PPSA02715_00-RIMS000000000000",
     "region": "EP",
     "publisherId": "EP4008"
   },
@@ -6130,8 +6130,8 @@
   {
     "titleId": "PPSA02841_00",
     "conceptId": 10001116,
-    "name": "Mr. DRILLER DrillLand Tracker",
-    "contentId": "UP0700-PPSA02841_00-PSTRACK000000000",
+    "name": "Mr. DRILLER DrillLand",
+    "contentId": "UP0700-PPSA02841_00-UP5MRDRILLERDL0A",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -6842,8 +6842,8 @@
   {
     "titleId": "PPSA03001_00",
     "conceptId": 10001973,
-    "name": "Sifu PS5",
-    "contentId": "EP2566-PPSA03001_00-PSTRACK000000000",
+    "name": "Sifu",
+    "contentId": "EP2566-PPSA03001_00-WUGUAN0000000001",
     "region": "EP",
     "publisherId": "EP2566"
   },
@@ -9507,7 +9507,7 @@
     "titleId": "PPSA03644_00",
     "conceptId": 10001458,
     "name": "Two Point Campus",
-    "contentId": null,
+    "contentId": "EP0177-PPSA03644_00-TWOPOINTCAMPUS00",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -12880,6 +12880,14 @@
     "publisherId": "JP0082"
   },
   {
+    "titleId": "PPSA04411_00",
+    "conceptId": 10003296,
+    "name": "Slaycation Paradise",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1121"
+  },
+  {
     "titleId": "PPSA04413_00",
     "conceptId": 10003298,
     "name": "One-Eyed Lee and the Dinner Party",
@@ -13174,6 +13182,14 @@
     "contentId": "JP0404-PPSA04486_00-5947708958950246",
     "region": "JP",
     "publisherId": "JP0404"
+  },
+  {
+    "titleId": "PPSA04489_00",
+    "conceptId": 10003357,
+    "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "contentId": "UP0101-PPSA04489_00-TMNTCOWABUNGAXXX",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA04490_00",
@@ -15578,8 +15594,8 @@
   {
     "titleId": "PPSA05132_00",
     "conceptId": 10001973,
-    "name": "Sifu PS5",
-    "contentId": "UP2703-PPSA05132_00-PSTRACK000000000",
+    "name": "Sifu",
+    "contentId": "UP2703-PPSA05132_00-WUGUAN0000000001",
     "region": "UP",
     "publisherId": "UP2703"
   },
@@ -15718,6 +15734,38 @@
     "contentId": "EP4062-PPSA05168_00-SRDEMO000000SIEE",
     "region": "EP",
     "publisherId": "EP4062"
+  },
+  {
+    "titleId": "PPSA05172_00",
+    "conceptId": 10003389,
+    "name": "Axiom Verge 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2149"
+  },
+  {
+    "titleId": "PPSA05173_00",
+    "conceptId": 10003389,
+    "name": "Axiom Verge 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0850"
+  },
+  {
+    "titleId": "PPSA05174_00",
+    "conceptId": 10003749,
+    "name": "NHRA Championship Drag Racing: Speed For All",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05175_00",
+    "conceptId": 10003749,
+    "name": "NHRA Championship Drag Racing: Speed For All",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA05176_00",
@@ -15878,6 +15926,22 @@
     "contentId": "EP2865-PPSA05212_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP2865"
+  },
+  {
+    "titleId": "PPSA05213_00",
+    "conceptId": null,
+    "name": "Thymesia",
+    "contentId": "EP4064-PPSA05213_00-7432503991955592",
+    "region": "EP",
+    "publisherId": "EP4064"
+  },
+  {
+    "titleId": "PPSA05214_00",
+    "conceptId": null,
+    "name": "Thymesia",
+    "contentId": "UP4064-PPSA05214_00-0984199900323554",
+    "region": "UP",
+    "publisherId": "UP4064"
   },
   {
     "titleId": "PPSA05219_00",
@@ -18392,6 +18456,22 @@
     "publisherId": "JP0082"
   },
   {
+    "titleId": "PPSA05884_00",
+    "conceptId": 10003580,
+    "name": "The DioField Chronicle Demo",
+    "contentId": "UP0082-PPSA05884_00-DFCDEMO00000005N",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA05885_00",
+    "conceptId": 10003580,
+    "name": "The DioField Chronicle Demo",
+    "contentId": "EP0082-PPSA05885_00-DFCDEMO00000005E",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
     "titleId": "PPSA05886_00",
     "conceptId": 10003580,
     "name": "The DioField Chronicle Demo",
@@ -20098,8 +20178,8 @@
   {
     "titleId": "PPSA06387_00",
     "conceptId": 10004428,
-    "name": "VALKYRIE ELYSIUM PS4&PS5",
-    "contentId": null,
+    "name": "VALKYRIE ELYSIUM",
+    "contentId": "JP0082-PPSA06387_00-VEPS5JP000000001",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -20766,6 +20846,14 @@
     "contentId": "EP0822-PPSA06605_00-INDUSTRIA00PS5EU",
     "region": "EP",
     "publisherId": "EP0822"
+  },
+  {
+    "titleId": "PPSA06607_00",
+    "conceptId": 10001025,
+    "name": "Fallen Legion Revenants",
+    "contentId": "EP1063-PPSA06607_00-FALLENLEGNREVPS5",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA06612_00",
@@ -21800,6 +21888,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA06953_00",
+    "conceptId": null,
+    "name": "Undernauts: Labyrinth of Yomi",
+    "contentId": "UP1024-PPSA06953_00-UNDERNAUTSLBYOMI",
+    "region": "UP",
+    "publisherId": "UP1024"
+  },
+  {
     "titleId": "PPSA06968_00",
     "conceptId": 10003302,
     "name": "Yurukill",
@@ -22346,16 +22442,16 @@
   {
     "titleId": "PPSA07169_00",
     "conceptId": 10004836,
-    "name": "NBA 2K23 for PS5\u2122",
-    "contentId": null,
+    "name": "NBA 2K23",
+    "contentId": "UP1001-PPSA07169_00-NBA2K23000000000",
     "region": "UP",
     "publisherId": "UP1001"
   },
   {
     "titleId": "PPSA07170_00",
     "conceptId": 10004836,
-    "name": "NBA 2K23 for PS5\u2122",
-    "contentId": null,
+    "name": "NBA 2K23",
+    "contentId": "EP1001-PPSA07170_00-NBA2K23000000000",
     "region": "EP",
     "publisherId": "EP1001"
   },
@@ -22366,6 +22462,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA07184_00",
+    "conceptId": 10003357,
+    "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "contentId": "HP0101-PPSA07184_00-TMNTCOWABUNGAXXX",
+    "region": "HP",
+    "publisherId": "HP0101"
   },
   {
     "titleId": "PPSA07189_00",
@@ -22438,6 +22542,22 @@
     "contentId": "EP1703-PPSA07222_00-0464875483318760",
     "region": "EP",
     "publisherId": "EP1703"
+  },
+  {
+    "titleId": "PPSA07224_00",
+    "conceptId": 10004862,
+    "name": "Let's Sing Abba",
+    "contentId": "UP3763-PPSA07224_00-LSABBA00USA00PS5",
+    "region": "UP",
+    "publisherId": "UP3763"
+  },
+  {
+    "titleId": "PPSA07225_00",
+    "conceptId": 10004862,
+    "name": "Let's Sing ABBA",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP3617"
   },
   {
     "titleId": "PPSA07241_00",
@@ -22530,24 +22650,24 @@
   {
     "titleId": "PPSA07274_00",
     "conceptId": 10004428,
-    "name": "VALKYRIE ELYSIUM PS4&PS5",
-    "contentId": null,
+    "name": "VALKYRIE ELYSIUM",
+    "contentId": "UP0082-PPSA07274_00-VEPS5UP000000001",
     "region": "UP",
     "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA07275_00",
     "conceptId": 10004428,
-    "name": "VALKYRIE ELYSIUM PS4&PS5",
-    "contentId": null,
+    "name": "VALKYRIE ELYSIUM",
+    "contentId": "EP0082-PPSA07275_00-VEPS5EP000000001",
     "region": "EP",
     "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA07276_00",
     "conceptId": 10004428,
-    "name": "VALKYRIE ELYSIUM PS4&PS5",
-    "contentId": null,
+    "name": "VALKYRIE ELYSIUM",
+    "contentId": "HP0082-PPSA07276_00-VEPS5ASIA0000001",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -24488,6 +24608,30 @@
     "publisherId": "EP6532"
   },
   {
+    "titleId": "PPSA08154_00",
+    "conceptId": 10002057,
+    "name": "\u30a2\u30b9\u30c7\u30a3\u30d0\u30a4\u30f3\u30af\u30ed\u30b9",
+    "contentId": "JP0013-PPSA08154_00-JP0ACROSS0000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA08155_00",
+    "conceptId": 10002057,
+    "name": "Asdivine Cross",
+    "contentId": "UP2500-PPSA08155_00-US0ACROSS0000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA08156_00",
+    "conceptId": 10002057,
+    "name": "Asdivine Cross",
+    "contentId": "EP2363-PPSA08156_00-EU0ACROSS0000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA08166_00",
     "conceptId": 10005292,
     "name": "Legend of Arcadieu Bundle",
@@ -24670,6 +24814,14 @@
     "contentId": "UP4312-PPSA08250_00-8066863544136440",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA08251_00",
+    "conceptId": 10004829,
+    "name": "Superola Champion Edition",
+    "contentId": "JP0078-PPSA08251_00-SUPEROLACE000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA08256_00",
@@ -25112,6 +25264,22 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA08462_00",
+    "conceptId": null,
+    "name": "Kid Ball Adventure",
+    "contentId": "JP0078-PPSA08462_00-KIDBALLADVENTURE",
+    "region": "JP",
+    "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA08463_00",
+    "conceptId": null,
+    "name": "Kid Ball Adventure",
+    "contentId": "HP2005-PPSA08463_00-KIDBALLADVENTURE",
+    "region": "HP",
+    "publisherId": "HP2005"
+  },
+  {
     "titleId": "PPSA08464_00",
     "conceptId": 10004336,
     "name": "FIFA 23 BETA",
@@ -25142,6 +25310,14 @@
     "contentId": "EP7333-PPSA08467_00-0972534180463480",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA08496_00",
+    "conceptId": 10005423,
+    "name": "Roll The Cat",
+    "contentId": "EP0896-PPSA08496_00-RATAGAROLLTHECAT",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA08497_00",
@@ -25560,6 +25736,22 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08683_00",
+    "conceptId": null,
+    "name": "Taco Fun",
+    "contentId": "EP4312-PPSA08683_00-6775552458139433",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA08684_00",
+    "conceptId": null,
+    "name": "Taco Fun",
+    "contentId": "UP4312-PPSA08684_00-2697762048056795",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA08685_00",
     "conceptId": 10004724,
     "name": "Kruger",
@@ -25670,6 +25862,22 @@
     "contentId": "UP6664-PPSA08762_00-1047092912070719",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA08781_00",
+    "conceptId": 10005561,
+    "name": "Voyage",
+    "contentId": "EP0896-PPSA08781_00-RATALAIKAGVOYAGE",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA08784_00",
+    "conceptId": 10005561,
+    "name": "Voyage",
+    "contentId": "JP1190-PPSA08784_00-RATALAIKAGVOYAGE",
+    "region": "JP",
+    "publisherId": "JP1190"
   },
   {
     "titleId": "PPSA08786_00",
@@ -25944,6 +26152,38 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA08884_00",
+    "conceptId": 10005605,
+    "name": "Tump Jump",
+    "contentId": "EP7666-PPSA08884_00-6224800470411556",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA08885_00",
+    "conceptId": 10005605,
+    "name": "Tump Jump",
+    "contentId": "UP7668-PPSA08885_00-1029125461345128",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA08886_00",
+    "conceptId": 10005605,
+    "name": "Tump Jump",
+    "contentId": "JP7649-PPSA08886_00-7692556656079854",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA08887_00",
+    "conceptId": 10005605,
+    "name": "Tump Jump",
+    "contentId": "HP7695-PPSA08887_00-7372500913679894",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
     "titleId": "PPSA08901_00",
     "conceptId": 10005612,
     "name": "The Football T",
@@ -26168,6 +26408,38 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08985_00",
+    "conceptId": 10005642,
+    "name": "Xump Jump",
+    "contentId": "EP7666-PPSA08985_00-1148636784052619",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA08986_00",
+    "conceptId": 10005642,
+    "name": "Xump Jump",
+    "contentId": "UP7668-PPSA08986_00-7730796224224377",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA08987_00",
+    "conceptId": 10005642,
+    "name": "Xump Jump",
+    "contentId": "JP7649-PPSA08987_00-4047325620210697",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA08988_00",
+    "conceptId": 10005642,
+    "name": "Xump Jump",
+    "contentId": "HP7695-PPSA08988_00-6923724865162273",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
     "titleId": "PPSA09000_00",
     "conceptId": 10005655,
     "name": "Sofiya and the Ancient Clan",
@@ -26240,6 +26512,70 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA09116_00",
+    "conceptId": 10005708,
+    "name": "Snow Journey",
+    "contentId": "UP7977-PPSA09116_00-5687660519954845",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
+    "titleId": "PPSA09117_00",
+    "conceptId": 10005708,
+    "name": "Snow Journey",
+    "contentId": "EP7975-PPSA09117_00-0035868582566811",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA09158_00",
+    "conceptId": null,
+    "name": "The Jumping Noodles",
+    "contentId": "EP6664-PPSA09158_00-4307105965324020",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA09159_00",
+    "conceptId": null,
+    "name": "The Jumping Noodles",
+    "contentId": "UP6664-PPSA09159_00-3855252667340845",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09160_00",
+    "conceptId": null,
+    "name": "The Jumping Noodles: TURBO",
+    "contentId": "EP6664-PPSA09160_00-1704707857373690",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA09161_00",
+    "conceptId": null,
+    "name": "The Jumping Noodles: TURBO",
+    "contentId": "UP6664-PPSA09161_00-7084039651031981",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09313_00",
+    "conceptId": null,
+    "name": "The Jumping Kebab",
+    "contentId": "UP6664-PPSA09313_00-1423458619054383",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09315_00",
+    "conceptId": null,
+    "name": "The Jumping Kebab: TURBO",
+    "contentId": "UP6664-PPSA09315_00-8657639881347170",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA09332_00",
     "conceptId": 10003251,
     "name": "Pizza Break Head to Head",
@@ -26256,11 +26592,43 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA09353_00",
+    "conceptId": 10005790,
+    "name": "Snow Journey Nitro",
+    "contentId": "UP7977-PPSA09353_00-1576725032234409",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
+    "titleId": "PPSA09354_00",
+    "conceptId": 10005790,
+    "name": "Snow Journey Nitro",
+    "contentId": "EP7975-PPSA09354_00-8835042508970605",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
     "titleId": "PPSA09487_00",
     "conceptId": 10002810,
     "name": "Gunducky Industries++",
     "contentId": "UP3058-PPSA09487_00-2975544951499886",
     "region": "UP",
     "publisherId": "UP3058"
+  },
+  {
+    "titleId": "PPSA09488_00",
+    "conceptId": null,
+    "name": "Gunducky Industries++",
+    "contentId": "EP2919-PPSA09488_00-9229986106274590",
+    "region": "EP",
+    "publisherId": "EP2919"
+  },
+  {
+    "titleId": "PPSA09510_00",
+    "conceptId": 10005850,
+    "name": "The Inverse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
