@@ -794,10 +794,10 @@
   {
     "titleId": "PPSA01517_00",
     "conceptId": 233592,
-    "name": "Tom Clancy\u2019s Rainbow Six\u00ae Extraction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tom Clancy's Rainbow Six\u00ae Extraction",
+    "contentId": "EP0001-PPSA01517_00-R6EXTRACTION0000",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA01518_00",
@@ -2058,18 +2058,18 @@
   {
     "titleId": "PPSA01874_00",
     "conceptId": 233961,
-    "name": "FAR CRY\u00ae6",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Far Cry\u00ae 6",
+    "contentId": "EP0001-PPSA01874_00-FARCRY6GAME00000",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA01875_00",
     "conceptId": 233961,
-    "name": "FAR CRY\u00ae6",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Far Cry\u00ae 6",
+    "contentId": "EP0001-PPSA01875_00-FARCRY6GAME00000",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA01876_00",
@@ -3214,6 +3214,14 @@
     "contentId": "JP0088-PPSA02178_00-TH12RTHEGAME0001",
     "region": "JP",
     "publisherId": "JP0088"
+  },
+  {
+    "titleId": "PPSA02179_00",
+    "conceptId": 10000453,
+    "name": "Guilty Gear -Strive-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA02180_00",
@@ -4374,6 +4382,14 @@
     "contentId": "JP5679-PPSA02437_00-OBSERVER0SR00000",
     "region": "JP",
     "publisherId": "JP5679"
+  },
+  {
+    "titleId": "PPSA02438_00",
+    "conceptId": 10000251,
+    "name": "Cloudpunk",
+    "contentId": "EP1121-PPSA02438_00-CLOUDPUNKPS50001",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA02443_00",
@@ -9515,7 +9531,7 @@
     "titleId": "PPSA03645_00",
     "conceptId": 10001458,
     "name": "Two Point Campus",
-    "contentId": null,
+    "contentId": "UP0177-PPSA03645_00-TWOPOINTCAMPUS00",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -12888,6 +12904,14 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA04412_00",
+    "conceptId": 10003296,
+    "name": "Slaycation Paradise",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1260"
+  },
+  {
     "titleId": "PPSA04413_00",
     "conceptId": 10003298,
     "name": "One-Eyed Lee and the Dinner Party",
@@ -14374,6 +14398,22 @@
     "contentId": "HP1003-PPSA04788_00-GHOSTWIRETOKYOFG",
     "region": "HP",
     "publisherId": "HP1003"
+  },
+  {
+    "titleId": "PPSA04791_00",
+    "conceptId": 10003548,
+    "name": "Little League\u00ae World Series Baseball 2022",
+    "contentId": "UP0283-PPSA04791_00-LITTLELEAGUEBB00",
+    "region": "UP",
+    "publisherId": "UP0283"
+  },
+  {
+    "titleId": "PPSA04792_00",
+    "conceptId": 10003548,
+    "name": "Little League\u00ae World Series Baseball 2022",
+    "contentId": "EP0281-PPSA04792_00-LITTLELEAGUEBB00",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA04793_00",
@@ -18803,7 +18843,7 @@
     "titleId": "PPSA05993_00",
     "conceptId": 10004233,
     "name": "South of the Circle",
-    "contentId": null,
+    "contentId": "EP4361-PPSA05993_00-SOTC000000000000",
     "region": "EP",
     "publisherId": "EP4361"
   },
@@ -18819,7 +18859,7 @@
     "titleId": "PPSA06003_00",
     "conceptId": 10004233,
     "name": "South of the Circle",
-    "contentId": null,
+    "contentId": "UP4361-PPSA06003_00-SOTC000000000000",
     "region": "UP",
     "publisherId": "UP4361"
   },
@@ -20848,6 +20888,14 @@
     "publisherId": "EP0822"
   },
   {
+    "titleId": "PPSA06606_00",
+    "conceptId": 10001025,
+    "name": "Fallen Legion Revenants",
+    "contentId": "UP1063-PPSA06606_00-FALLENLEGNREVPS5",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
     "titleId": "PPSA06607_00",
     "conceptId": 10001025,
     "name": "Fallen Legion Revenants",
@@ -20894,6 +20942,22 @@
     "contentId": "UP0825-PPSA06620_00-INDUSTRIA00PS5US",
     "region": "UP",
     "publisherId": "UP0825"
+  },
+  {
+    "titleId": "PPSA06621_00",
+    "conceptId": 10004556,
+    "name": "Fallen Legion: Rise to Glory",
+    "contentId": "UP1063-PPSA06621_00-FLRISETOGLORYPS5",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
+    "titleId": "PPSA06622_00",
+    "conceptId": 10004556,
+    "name": "Fallen Legion: Rise to Glory",
+    "contentId": "EP1063-PPSA06622_00-FLRISETOGLORYPS5",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA06624_00",
@@ -25480,6 +25544,22 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA08600_00",
+    "conceptId": null,
+    "name": "Yars: Recharged",
+    "contentId": "UP0182-PPSA08600_00-5372968000582927",
+    "region": "UP",
+    "publisherId": "UP0182"
+  },
+  {
+    "titleId": "PPSA08602_00",
+    "conceptId": null,
+    "name": "Yars: Recharged",
+    "contentId": "EP0182-PPSA08602_00-9956097023502852",
+    "region": "EP",
+    "publisherId": "EP0182"
+  },
+  {
     "titleId": "PPSA08606_00",
     "conceptId": 10005479,
     "name": "Shark Pinball",
@@ -26280,6 +26360,14 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA08942_00",
+    "conceptId": 10005191,
+    "name": "Loot Lite",
+    "contentId": "JP0078-PPSA08942_00-LOOTLITE00000000",
+    "region": "JP",
+    "publisherId": "JP0078"
+  },
+  {
     "titleId": "PPSA08960_00",
     "conceptId": 10005632,
     "name": "The Jumping Sushi",
@@ -26440,6 +26528,30 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA08997_00",
+    "conceptId": null,
+    "name": "Freezer Pops",
+    "contentId": "UP2005-PPSA08997_00-FREEZERPOPS00000",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA08998_00",
+    "conceptId": null,
+    "name": "Freezer Pops",
+    "contentId": "EP2005-PPSA08998_00-FREEZERPOPS00000",
+    "region": "EP",
+    "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA08999_00",
+    "conceptId": null,
+    "name": "Freezer Pops",
+    "contentId": "HP2005-PPSA08999_00-FREEZERPOPS00000",
+    "region": "HP",
+    "publisherId": "HP2005"
+  },
+  {
     "titleId": "PPSA09000_00",
     "conceptId": 10005655,
     "name": "Sofiya and the Ancient Clan",
@@ -26560,12 +26672,28 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA09312_00",
+    "conceptId": null,
+    "name": "The Jumping Kebab",
+    "contentId": "EP6664-PPSA09312_00-8232131838857617",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA09313_00",
     "conceptId": null,
     "name": "The Jumping Kebab",
     "contentId": "UP6664-PPSA09313_00-1423458619054383",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09314_00",
+    "conceptId": null,
+    "name": "The Jumping Kebab: TURBO",
+    "contentId": "EP6664-PPSA09314_00-7422914025879315",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA09315_00",
