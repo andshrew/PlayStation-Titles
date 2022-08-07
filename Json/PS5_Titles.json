@@ -10473,9 +10473,9 @@
   },
   {
     "titleId": "PPSA03839_00",
-    "conceptId": null,
+    "conceptId": 10001956,
     "name": "Tactics Ogre: Reborn",
-    "contentId": null,
+    "contentId": "UP0082-PPSA03839_00-8508293288974620",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -10491,9 +10491,9 @@
     "titleId": "PPSA03841_00",
     "conceptId": 10001956,
     "name": "Tactics Ogre: Reborn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0082-PPSA03841_00-7632183882394199",
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA03842_00",
@@ -10683,17 +10683,17 @@
     "titleId": "PPSA03890_00",
     "conceptId": 10002085,
     "name": "Rumbleverse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1477-PPSA03890_00-RUMBLEVERSE00000",
+    "region": "UP",
+    "publisherId": "UP1477"
   },
   {
     "titleId": "PPSA03891_00",
     "conceptId": 10002085,
     "name": "Rumbleverse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1464-PPSA03891_00-RUMBLEVERSE00000",
+    "region": "EP",
+    "publisherId": "EP1464"
   },
   {
     "titleId": "PPSA03907_00",
@@ -17326,6 +17326,14 @@
     "contentId": "UP3824-PPSA05520_00-PAWRACER00000003",
     "region": "UP",
     "publisherId": "UP3824"
+  },
+  {
+    "titleId": "PPSA05521_00",
+    "conceptId": null,
+    "name": "PAW Patrol: Grand Prix",
+    "contentId": "EP3678-PPSA05521_00-PAWRACER00000004",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA05531_00",
