@@ -13464,6 +13464,22 @@
     "publisherId": "JP0122"
   },
   {
+    "titleId": "PPSA04562_00",
+    "conceptId": null,
+    "name": "PAC-MAN WORLD Re-PAC",
+    "contentId": "JP0700-PPSA04562_00-PACMANWORLDRE003",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA04563_00",
+    "conceptId": null,
+    "name": "PAC-MAN WORLD Re-PAC",
+    "contentId": "HP0700-PPSA04563_00-PACMANWORLDRE004",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA04564_00",
     "conceptId": 10003399,
     "name": "Rally Racing",
@@ -13942,6 +13958,14 @@
     "contentId": "UP0891-PPSA04663_00-RGPRINCEOFLANDIS",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA04667_00",
+    "conceptId": 10001848,
+    "name": "\u30cd\u30af\u30ed\u30e0\u30f3\u30c0\uff1a\u30cf\u30a4\u30e4\u30fc\u30c9\u30ac\u30f3",
+    "contentId": "JP0075-PPSA04667_00-NECROMUMHIREDGUN",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA04671_00",
@@ -15819,7 +15843,7 @@
     "titleId": "PPSA05173_00",
     "conceptId": 10003389,
     "name": "Axiom Verge 2",
-    "contentId": null,
+    "contentId": "EP0850-PPSA05173_00-00000AXIOMVERGE2",
     "region": "EP",
     "publisherId": "EP0850"
   },
@@ -16534,6 +16558,14 @@
     "contentId": "JP0177-PPSA05326_00-SONICORIGINS0000",
     "region": "JP",
     "publisherId": "JP0177"
+  },
+  {
+    "titleId": "PPSA05329_00",
+    "conceptId": 10002416,
+    "name": "Rick Henderson",
+    "contentId": "UP2005-PPSA05329_00-RICKHENDERSON000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA05335_00",
@@ -17334,6 +17366,14 @@
     "contentId": "EP3678-PPSA05521_00-PAWRACER00000004",
     "region": "EP",
     "publisherId": "EP3678"
+  },
+  {
+    "titleId": "PPSA05524_00",
+    "conceptId": 10003812,
+    "name": "Red Bull TV",
+    "contentId": "HP8918-PPSA05524_00-3930306204829941",
+    "region": "HP",
+    "publisherId": "HP8918"
   },
   {
     "titleId": "PPSA05531_00",
@@ -25464,6 +25504,14 @@
     "publisherId": "JP5486"
   },
   {
+    "titleId": "PPSA08519_00",
+    "conceptId": 10005431,
+    "name": "I Was a Teenage Exocolonist",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0403"
+  },
+  {
     "titleId": "PPSA08526_00",
     "conceptId": 10005387,
     "name": "Baldur's Gate: Dark Alliance II",
@@ -26632,12 +26680,36 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA09012_00",
+    "conceptId": 10005662,
+    "name": "Sakura MMO",
+    "contentId": "EP6470-PPSA09012_00-SAKURAMMO0000000",
+    "region": "EP",
+    "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA09013_00",
+    "conceptId": 10005662,
+    "name": "Sakura MMO",
+    "contentId": "UP6472-PPSA09013_00-SAKURAMMO0000000",
+    "region": "UP",
+    "publisherId": "UP6472"
+  },
+  {
     "titleId": "PPSA09014_00",
     "conceptId": null,
     "name": "Pickle Run",
     "contentId": "EP4312-PPSA09014_00-0852985873193996",
     "region": "EP",
     "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA09015_00",
+    "conceptId": 10005662,
+    "name": "\u30b5\u30af\u30e9\u30fbMMO \uff5e\u30ea\u30a2\u30eb\u306a\u73fe\u5b9f\u96e2\u308c\uff5e",
+    "contentId": "JP6391-PPSA09015_00-SAKURAMMO0000000",
+    "region": "JP",
+    "publisherId": "JP6391"
   },
   {
     "titleId": "PPSA09021_00",
