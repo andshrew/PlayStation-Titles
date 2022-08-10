@@ -15538,16 +15538,16 @@
   {
     "titleId": "PPSA05063_00",
     "conceptId": 10003187,
-    "name": "Steelrising - Bastille Edition Pre-Order",
-    "contentId": null,
+    "name": "Steelrising",
+    "contentId": "EP6665-PPSA05063_00-STR0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA05064_00",
     "conceptId": 10003187,
-    "name": "Steelrising - Bastille Edition Pre-Order",
-    "contentId": null,
+    "name": "Steelrising",
+    "contentId": "UP6665-PPSA05064_00-STR0000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -15835,7 +15835,7 @@
     "titleId": "PPSA05172_00",
     "conceptId": 10003389,
     "name": "Axiom Verge 2",
-    "contentId": null,
+    "contentId": "UP2149-PPSA05172_00-00000AXIOMVERGE2",
     "region": "UP",
     "publisherId": "UP2149"
   },
@@ -16568,6 +16568,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA05330_00",
+    "conceptId": 10002416,
+    "name": "Rick Henderson",
+    "contentId": "EP2005-PPSA05330_00-RICKHENDERSON000",
+    "region": "EP",
+    "publisherId": "EP2005"
+  },
+  {
     "titleId": "PPSA05335_00",
     "conceptId": 10003695,
     "name": "Hoa",
@@ -16846,6 +16854,14 @@
     "contentId": "UP5146-PPSA05405_00-0276934369490096",
     "region": "UP",
     "publisherId": "UP5146"
+  },
+  {
+    "titleId": "PPSA05406_00",
+    "conceptId": 10003847,
+    "name": "Tinykin",
+    "contentId": "UP0097-PPSA05406_00-7938456161372045",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA05417_00",
@@ -17352,6 +17368,14 @@
     "publisherId": "EP2134"
   },
   {
+    "titleId": "PPSA05513_00",
+    "conceptId": 10003812,
+    "name": "Red Bull TV",
+    "contentId": "UP8904-PPSA05513_00-6278405252834853",
+    "region": "UP",
+    "publisherId": "UP8904"
+  },
+  {
     "titleId": "PPSA05520_00",
     "conceptId": null,
     "name": "PAW Patrol: Grand Prix",
@@ -17366,6 +17390,14 @@
     "contentId": "EP3678-PPSA05521_00-PAWRACER00000004",
     "region": "EP",
     "publisherId": "EP3678"
+  },
+  {
+    "titleId": "PPSA05522_00",
+    "conceptId": 10003812,
+    "name": "Title Name",
+    "contentId": "EP8842-PPSA05522_00-3893230934761251",
+    "region": "EP",
+    "publisherId": "EP8842"
   },
   {
     "titleId": "PPSA05524_00",
@@ -23568,6 +23600,22 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA07618_00",
+    "conceptId": 10004889,
+    "name": "Train Sim World\u00ae 3: Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2866"
+  },
+  {
+    "titleId": "PPSA07619_00",
+    "conceptId": 10004889,
+    "name": "Train Sim World\u00ae 3: Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3004"
+  },
+  {
     "titleId": "PPSA07624_00",
     "conceptId": 10005063,
     "name": "Gravitar: Recharged",
@@ -25328,6 +25376,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08410_00",
+    "conceptId": 10004926,
+    "name": "Cursed to Golf",
+    "contentId": "EP5360-PPSA08410_00-CURSEDTOGOLFP5EU",
+    "region": "EP",
+    "publisherId": "EP5360"
+  },
+  {
+    "titleId": "PPSA08411_00",
+    "conceptId": 10004926,
+    "name": "Cursed to Golf",
+    "contentId": "UP5180-PPSA08411_00-CURSEDTOGOLFP5US",
+    "region": "UP",
+    "publisherId": "UP5180"
+  },
+  {
     "titleId": "PPSA08433_00",
     "conceptId": 10005397,
     "name": "Avenging Spirit",
@@ -25502,6 +25566,14 @@
     "contentId": "JP5486-PPSA08516_00-1717536498410927",
     "region": "JP",
     "publisherId": "JP5486"
+  },
+  {
+    "titleId": "PPSA08518_00",
+    "conceptId": 10005431,
+    "name": "I Was a Teenage Exocolonist",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0406"
   },
   {
     "titleId": "PPSA08519_00",
@@ -26062,6 +26134,14 @@
     "contentId": "EP0896-PPSA08781_00-RATALAIKAGVOYAGE",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA08783_00",
+    "conceptId": 10005561,
+    "name": "Voyage",
+    "contentId": "UP0891-PPSA08783_00-RATALAIKAGVOYAGE",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA08784_00",
@@ -26744,6 +26824,38 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA09057_00",
+    "conceptId": 10005687,
+    "name": "The Hippo G",
+    "contentId": "UP7335-PPSA09057_00-6005567376889365",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA09058_00",
+    "conceptId": 10005687,
+    "name": "The Hippo G",
+    "contentId": "EP7333-PPSA09058_00-0784251640568898",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA09080_00",
+    "conceptId": 10005695,
+    "name": "The Pig Quiz",
+    "contentId": "UP7335-PPSA09080_00-1244853732738597",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA09081_00",
+    "conceptId": 10005695,
+    "name": "The Pig Quiz",
+    "contentId": "EP7333-PPSA09081_00-3522012295099717",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
     "titleId": "PPSA09085_00",
     "conceptId": 10005697,
     "name": "The Sheep Quiz",
@@ -26774,6 +26886,54 @@
     "contentId": "EP7975-PPSA09117_00-0035868582566811",
     "region": "EP",
     "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA09118_00",
+    "conceptId": 10005708,
+    "name": "Snow Journey",
+    "contentId": "JP7958-PPSA09118_00-1806747138783464",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA09119_00",
+    "conceptId": 10005708,
+    "name": "Snow Journey",
+    "contentId": "HP8005-PPSA09119_00-9308418883173844",
+    "region": "HP",
+    "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA09120_00",
+    "conceptId": 10005709,
+    "name": "Monument Journey",
+    "contentId": "UP7977-PPSA09120_00-3878637827042255",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
+    "titleId": "PPSA09121_00",
+    "conceptId": 10005709,
+    "name": "Monument Journey",
+    "contentId": "EP7975-PPSA09121_00-8287575586405922",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA09122_00",
+    "conceptId": 10005709,
+    "name": "Monument Journey",
+    "contentId": "JP7958-PPSA09122_00-3543640695720316",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA09123_00",
+    "conceptId": 10005709,
+    "name": "Monument Journey",
+    "contentId": "HP8005-PPSA09123_00-2024065110241719",
+    "region": "HP",
+    "publisherId": "HP8005"
   },
   {
     "titleId": "PPSA09158_00",
@@ -26894,5 +27054,21 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA09645_00",
+    "conceptId": 10005933,
+    "name": "Kruger 2",
+    "contentId": "UP7668-PPSA09645_00-2353455963319506",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA09646_00",
+    "conceptId": 10005933,
+    "name": "Kruger 2",
+    "contentId": "EP7666-PPSA09646_00-7938044582034658",
+    "region": "EP",
+    "publisherId": "EP7666"
   }
 ]
