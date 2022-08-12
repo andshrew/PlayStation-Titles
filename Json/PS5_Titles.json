@@ -10544,6 +10544,14 @@
     "publisherId": "UP3743"
   },
   {
+    "titleId": "PPSA03851_00",
+    "conceptId": 10002985,
+    "name": "Train Life - A Railway Simulator",
+    "contentId": "EP6665-PPSA03851_00-TLRS000000000000",
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA03853_00",
     "conceptId": 10002820,
     "name": "Soundfall",
@@ -11835,7 +11843,7 @@
     "titleId": "PPSA04158_00",
     "conceptId": 10003123,
     "name": "Goat Simulator 3",
-    "contentId": null,
+    "contentId": "EP4837-PPSA04158_00-GS3MAINGAMEPACK0",
     "region": "EP",
     "publisherId": "EP4837"
   },
@@ -11843,7 +11851,7 @@
     "titleId": "PPSA04159_00",
     "conceptId": 10003123,
     "name": "Goat Simulator 3",
-    "contentId": null,
+    "contentId": "UP4664-PPSA04159_00-GS3MAINGAMEPACK0",
     "region": "UP",
     "publisherId": "UP4664"
   },
@@ -20530,16 +20538,16 @@
   {
     "titleId": "PPSA06464_00",
     "conceptId": 10004484,
-    "name": "Cult of the Lamb",
-    "contentId": null,
+    "name": "Cult Of The Lamb",
+    "contentId": "UP3643-PPSA06464_00-CULTOFTHELAMB000",
     "region": "UP",
     "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA06465_00",
     "conceptId": 10004484,
-    "name": "Cult of the Lamb",
-    "contentId": null,
+    "name": "Cult Of The Lamb",
+    "contentId": "EP3643-PPSA06465_00-CULTOFTHELAMB000",
     "region": "EP",
     "publisherId": "EP3643"
   },
@@ -20684,6 +20692,22 @@
     "conceptId": 10004407,
     "name": "Zorro The Chronicles",
     "contentId": "UP6665-PPSA06509_00-ZORRO00000000000",
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
+    "titleId": "PPSA06510_00",
+    "conceptId": 10004240,
+    "name": "Session: Skate Sim",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA06511_00",
+    "conceptId": 10004240,
+    "name": "Session: Skate Sim",
+    "contentId": null,
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -27094,6 +27118,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA09571_00",
+    "conceptId": null,
+    "name": "The Jumping Coffee",
+    "contentId": "UP6664-PPSA09571_00-4141601019965013",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA09645_00",
