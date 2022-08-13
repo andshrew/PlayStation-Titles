@@ -4059,9 +4059,9 @@
     "titleId": "PPSA02380_00",
     "conceptId": 10001935,
     "name": "Buster's Quest: Trials of Hamsterdam",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6328-PPSA02380_00-3441880302912647",
+    "region": "JP",
+    "publisherId": "JP6328"
   },
   {
     "titleId": "PPSA02383_00",
@@ -10552,6 +10552,14 @@
     "publisherId": "EP6665"
   },
   {
+    "titleId": "PPSA03852_00",
+    "conceptId": 10002985,
+    "name": "Train Life - A Railway Simulator",
+    "contentId": "UP6665-PPSA03852_00-TLRS000000000000",
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
     "titleId": "PPSA03853_00",
     "conceptId": 10002820,
     "name": "Soundfall",
@@ -16872,6 +16880,14 @@
     "publisherId": "UP0097"
   },
   {
+    "titleId": "PPSA05407_00",
+    "conceptId": 10003847,
+    "name": "Tinykin",
+    "contentId": "EP0096-PPSA05407_00-9524255431063884",
+    "region": "EP",
+    "publisherId": "EP0096"
+  },
+  {
     "titleId": "PPSA05417_00",
     "conceptId": 10003886,
     "name": "Arsonist Heaven",
@@ -21398,6 +21414,22 @@
     "contentId": "HP0106-PPSA06708_00-SOPFFODEMO000000",
     "region": "HP",
     "publisherId": "HP0106"
+  },
+  {
+    "titleId": "PPSA06712_00",
+    "conceptId": null,
+    "name": "JUSTICE SUCKS",
+    "contentId": "UP0097-PPSA06712_00-2659229808395620",
+    "region": "UP",
+    "publisherId": "UP0097"
+  },
+  {
+    "titleId": "PPSA06713_00",
+    "conceptId": null,
+    "name": "JUSTICE SUCKS",
+    "contentId": "EP0096-PPSA06713_00-7528275909127422",
+    "region": "EP",
+    "publisherId": "EP0096"
   },
   {
     "titleId": "PPSA06718_00",
@@ -27124,6 +27156,14 @@
     "conceptId": null,
     "name": "The Jumping Coffee",
     "contentId": "UP6664-PPSA09571_00-4141601019965013",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09574_00",
+    "conceptId": null,
+    "name": "The Jumping Coffee: TURBO",
+    "contentId": "UP6664-PPSA09574_00-3001500802819292",
     "region": "UP",
     "publisherId": "UP6664"
   },
