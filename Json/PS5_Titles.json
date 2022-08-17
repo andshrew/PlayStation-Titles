@@ -5448,6 +5448,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA02687_00",
+    "conceptId": 10002179,
+    "name": "Potion Permit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02688_00",
     "conceptId": 234058,
     "name": "Infliction: Extended Cut",
@@ -13184,6 +13192,14 @@
     "publisherId": "UP1477"
   },
   {
+    "titleId": "PPSA04477_00",
+    "conceptId": 10003353,
+    "name": "Dakar Desert Rally",
+    "contentId": "EP6853-PPSA04477_00-DKRGAMEPS50000EU",
+    "region": "EP",
+    "publisherId": "EP6853"
+  },
+  {
     "titleId": "PPSA04478_00",
     "conceptId": 10003354,
     "name": "Fall Guys",
@@ -18451,6 +18467,14 @@
     "titleId": "PPSA05824_00",
     "conceptId": 10000176,
     "name": "Tourist",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05827_00",
+    "conceptId": 10003353,
+    "name": "Dakar Desert Rally",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -24624,12 +24648,28 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA08024_00",
+    "conceptId": 10001866,
+    "name": "PAW Patrol The Movie: Adventure City Calls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08025_00",
     "conceptId": 10001866,
     "name": "PAW Patrol The Movie - Adventure City Calls",
     "contentId": "EP3678-PPSA08025_00-8068170366465297",
     "region": "EP",
     "publisherId": "EP3678"
+  },
+  {
+    "titleId": "PPSA08026_00",
+    "conceptId": 10000811,
+    "name": "Paw Patrol: Mighty Pups Save Adventure Bay!",
+    "contentId": "UP3824-PPSA08026_00-7603130782011854",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA08027_00",
@@ -25952,6 +25992,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08627_00",
+    "conceptId": 10005500,
+    "name": "Arenas Of Tanks",
+    "contentId": "UP0891-PPSA08627_00-RAGARENASOFTANKS",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
     "titleId": "PPSA08628_00",
     "conceptId": 10005500,
     "name": "Arenas Of Tanks",
@@ -26656,6 +26704,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA08932_00",
+    "conceptId": 10005619,
+    "name": "Coffee Run",
+    "contentId": "EP4312-PPSA08932_00-5220487194614749",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
     "titleId": "PPSA08934_00",
     "conceptId": 10005620,
     "name": "Vump Jump",
@@ -26976,6 +27032,38 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA09067_00",
+    "conceptId": 10005691,
+    "name": "Nump Jump",
+    "contentId": "EP7666-PPSA09067_00-5992397059730981",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA09068_00",
+    "conceptId": 10005691,
+    "name": "Nump Jump",
+    "contentId": "UP7668-PPSA09068_00-3823437362022459",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA09069_00",
+    "conceptId": 10005691,
+    "name": "Nump Jump",
+    "contentId": "JP7649-PPSA09069_00-1591807025654186",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA09070_00",
+    "conceptId": 10005691,
+    "name": "Nump Jump",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09080_00",
     "conceptId": 10005695,
     "name": "The Pig Quiz",
@@ -27072,6 +27160,38 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA09124_00",
+    "conceptId": 10005710,
+    "name": "Drift Journey",
+    "contentId": "UP7977-PPSA09124_00-4401203696670848",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
+    "titleId": "PPSA09125_00",
+    "conceptId": 10005710,
+    "name": "Drift Journey",
+    "contentId": "EP7975-PPSA09125_00-2166818164864941",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA09126_00",
+    "conceptId": 10005710,
+    "name": "Drift Journey",
+    "contentId": "JP7958-PPSA09126_00-5519990473181520",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA09127_00",
+    "conceptId": 10005710,
+    "name": "Drift Journey",
+    "contentId": "HP8005-PPSA09127_00-0940701098096570",
+    "region": "HP",
+    "publisherId": "HP8005"
+  },
+  {
     "titleId": "PPSA09158_00",
     "conceptId": null,
     "name": "The Jumping Noodles",
@@ -27102,6 +27222,22 @@
     "contentId": "UP6664-PPSA09161_00-7084039651031981",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09209_00",
+    "conceptId": null,
+    "name": "Ninja Fun",
+    "contentId": "EP4312-PPSA09209_00-3080122506045333",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA09210_00",
+    "conceptId": 10005734,
+    "name": "Ninja Fun",
+    "contentId": "UP4312-PPSA09210_00-5872103112680600",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA09213_00",
@@ -27192,6 +27328,22 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA09435_00",
+    "conceptId": 10005819,
+    "name": "The Jumping Pasta: TURBO",
+    "contentId": "EP6664-PPSA09435_00-3166358358745145",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA09436_00",
+    "conceptId": 10005819,
+    "name": "The Jumping Pasta: TURBO",
+    "contentId": "UP6664-PPSA09436_00-7715731768439515",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA09487_00",
     "conceptId": 10002810,
     "name": "Gunducky Industries++",
@@ -27216,6 +27368,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09570_00",
+    "conceptId": 10005900,
+    "name": "The Jumping Coffee",
+    "contentId": "EP6664-PPSA09570_00-5555135091898193",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA09571_00",
     "conceptId": null,
     "name": "The Jumping Coffee",
@@ -27230,6 +27390,22 @@
     "contentId": "UP6664-PPSA09574_00-3001500802819292",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09627_00",
+    "conceptId": 10003312,
+    "name": "Spectrewoods",
+    "contentId": "UP3058-PPSA09627_00-8711125240655364",
+    "region": "UP",
+    "publisherId": "UP3058"
+  },
+  {
+    "titleId": "PPSA09628_00",
+    "conceptId": 10003312,
+    "name": "Spectrewoods",
+    "contentId": "EP2919-PPSA09628_00-3366228033724656",
+    "region": "EP",
+    "publisherId": "EP2919"
   },
   {
     "titleId": "PPSA09645_00",
