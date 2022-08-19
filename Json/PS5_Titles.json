@@ -5448,6 +5448,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA02686_00",
+    "conceptId": 10002179,
+    "name": "Potion Permit",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4293"
+  },
+  {
     "titleId": "PPSA02687_00",
     "conceptId": 10002179,
     "name": "Potion Permit",
@@ -5867,7 +5875,7 @@
     "titleId": "PPSA02785_00",
     "conceptId": 10002255,
     "name": "A Plague Tale: Requiem",
-    "contentId": null,
+    "contentId": "EP4133-PPSA02785_00-APLAGUEOUTBURST0",
     "region": "EP",
     "publisherId": "EP4133"
   },
@@ -10856,6 +10864,14 @@
     "publisherId": "UP3252"
   },
   {
+    "titleId": "PPSA03928_00",
+    "conceptId": 10002872,
+    "name": "Star+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03934_00",
     "conceptId": 10002953,
     "name": "Nowhere Girl",
@@ -11390,6 +11406,14 @@
     "contentId": "EP4356-PPSA04055_00-SUPERCROSS5FGAME",
     "region": "EP",
     "publisherId": "EP4356"
+  },
+  {
+    "titleId": "PPSA04057_00",
+    "conceptId": 10002507,
+    "name": "Ghostbusters: Spirits Unleashed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA04058_00",
@@ -12939,7 +12963,7 @@
     "titleId": "PPSA04411_00",
     "conceptId": 10003296,
     "name": "Slaycation Paradise",
-    "contentId": null,
+    "contentId": "EP1121-PPSA04411_00-SP00000000000000",
     "region": "EP",
     "publisherId": "EP1121"
   },
@@ -12947,7 +12971,7 @@
     "titleId": "PPSA04412_00",
     "conceptId": 10003296,
     "name": "Slaycation Paradise",
-    "contentId": null,
+    "contentId": "UP1260-PPSA04412_00-SP00000000000000",
     "region": "UP",
     "publisherId": "UP1260"
   },
@@ -15891,9 +15915,9 @@
     "titleId": "PPSA05175_00",
     "conceptId": 10003749,
     "name": "NHRA Championship Drag Racing: Speed For All",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0281-PPSA05175_00-NHRA2022GAME0000",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA05176_00",
@@ -18826,8 +18850,8 @@
   {
     "titleId": "PPSA05924_00",
     "conceptId": 10004195,
-    "name": "\u30b9\u30bf\u30fc\u30aa\u30fc\u30b7\u30e3\u30f3 6 THE DIVINE FORCE",
-    "contentId": null,
+    "name": "STAR OCEAN THE DIVINE FORCE",
+    "contentId": "JP0082-PPSA05924_00-STAROCEAN6PS5000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -19979,7 +20003,7 @@
     "titleId": "PPSA06235_00",
     "conceptId": 10004195,
     "name": "STAR OCEAN THE DIVINE FORCE",
-    "contentId": null,
+    "contentId": "UP0082-PPSA06235_00-STAROCEAN6PS5000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -19987,7 +20011,7 @@
     "titleId": "PPSA06251_00",
     "conceptId": 10004195,
     "name": "STAR OCEAN THE DIVINE FORCE",
-    "contentId": null,
+    "contentId": "EP0082-PPSA06251_00-STAROCEAN6PS5000",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -20430,6 +20454,14 @@
     "contentId": "EP0700-PPSA06398_00-PACMANWORLDRE007",
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA06399_00",
+    "conceptId": null,
+    "name": "PAC-MAN WORLD Re-PAC",
+    "contentId": "UP0700-PPSA06399_00-PACMANWORLDRE008",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA06406_00",
@@ -22864,6 +22896,22 @@
     "publisherId": "EP3617"
   },
   {
+    "titleId": "PPSA07239_00",
+    "conceptId": 10003848,
+    "name": "SPIDERHECK",
+    "contentId": "UP0097-PPSA07239_00-6362048461105145",
+    "region": "UP",
+    "publisherId": "UP0097"
+  },
+  {
+    "titleId": "PPSA07240_00",
+    "conceptId": 10003848,
+    "name": "SPIDERHECK",
+    "contentId": "EP0096-PPSA07240_00-1770654870627972",
+    "region": "EP",
+    "publisherId": "EP0096"
+  },
+  {
     "titleId": "PPSA07241_00",
     "conceptId": 10003302,
     "name": "Yurukill",
@@ -23646,6 +23694,14 @@
     "contentId": "UP4312-PPSA07575_00-5175190933170903",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA07578_00",
+    "conceptId": 10004267,
+    "name": "\u30ce\u30fc\u30e2\u30a2\u2605\u30d2\u30fc\u30ed\u30fc\u30ba3",
+    "contentId": "JP0507-PPSA07578_00-NOMOREHEROES3002",
+    "region": "JP",
+    "publisherId": "JP0507"
   },
   {
     "titleId": "PPSA07597_00",
@@ -26030,6 +26086,22 @@
     "contentId": "HP7695-PPSA08620_00-6473954818285004",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA08623_00",
+    "conceptId": 10005496,
+    "name": "Aquadine",
+    "contentId": "EP0896-PPSA08623_00-RATALAIKAQUADINE",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA08624_00",
+    "conceptId": 10005496,
+    "name": "Aquadine",
+    "contentId": "UP0891-PPSA08624_00-RATALAIKAQUADINE",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA08626_00",
