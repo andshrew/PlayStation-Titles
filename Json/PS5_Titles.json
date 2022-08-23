@@ -12880,6 +12880,14 @@
     "publisherId": "EP2011"
   },
   {
+    "titleId": "PPSA04390_00",
+    "conceptId": 10003285,
+    "name": "PGA 2K23 Cross-Gen Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
+  },
+  {
     "titleId": "PPSA04400_00",
     "conceptId": 220037,
     "name": "RESIDENT EVIL 7 biohazard",
@@ -20632,6 +20640,14 @@
     "publisherId": "UP5290"
   },
   {
+    "titleId": "PPSA06461_00",
+    "conceptId": null,
+    "name": "Fall of Porcupine: Prologue",
+    "contentId": "EP5470-PPSA06461_00-7238366538504717",
+    "region": "EP",
+    "publisherId": "EP5470"
+  },
+  {
     "titleId": "PPSA06463_00",
     "conceptId": 233488,
     "name": "Snooker Nation Championship",
@@ -20902,6 +20918,22 @@
     "contentId": "EP6922-PPSA06532_00-1973582529867330",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA06534_00",
+    "conceptId": 225700,
+    "name": "SKULL AND BONES\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06535_00",
+    "conceptId": 225700,
+    "name": "SKULL AND BONES\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06536_00",
@@ -22592,6 +22624,22 @@
     "publisherId": "EP8906"
   },
   {
+    "titleId": "PPSA07079_00",
+    "conceptId": 10003532,
+    "name": "DC League of Super Pets: The Adventures of Krypto and Ace",
+    "contentId": "UP3824-PPSA07079_00-SUPERPETSGAME001",
+    "region": "UP",
+    "publisherId": "UP3824"
+  },
+  {
+    "titleId": "PPSA07080_00",
+    "conceptId": 10003532,
+    "name": "DC League of Super Pets: The Adventures of Krypto and Ace",
+    "contentId": "EP3678-PPSA07080_00-SUPERPETSGAME001",
+    "region": "EP",
+    "publisherId": "EP3678"
+  },
+  {
     "titleId": "PPSA07084_00",
     "conceptId": 10004801,
     "name": "Flower Shop: Summer In Fairbrook",
@@ -23952,12 +24000,44 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA07666_00",
+    "conceptId": 10004428,
+    "name": "VALKYRIE ELYSIUM -\u4f53\u9a13\u7248-",
+    "contentId": "JP0082-PPSA07666_00-VEPS5DEMOJP00001",
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
     "titleId": "PPSA07667_00",
     "conceptId": 10001128,
     "name": "\u30ea\u30b5\u30fc\u30c1\u30fb\u30a2\u30f3\u30c9\u30fb\u30c7\u30b9\u30c8\u30ed\u30a4 \u4f53\u9a13\u7248",
     "contentId": "JP0365-PPSA07667_00-RESEARCHNDESTROY",
     "region": "JP",
     "publisherId": "JP0365"
+  },
+  {
+    "titleId": "PPSA07668_00",
+    "conceptId": 10004428,
+    "name": "VALKYRIE ELYSIUM DEMO VERSION",
+    "contentId": "UP0082-PPSA07668_00-VEPS5DEMOUP00001",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA07669_00",
+    "conceptId": 10004428,
+    "name": "VALKYRIE ELYSIUM DEMO VERSION",
+    "contentId": "EP0082-PPSA07669_00-VEPS5DEMOEP00001",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA07670_00",
+    "conceptId": 10004428,
+    "name": "VALKYRIE ELYSIUM DEMO VERSION",
+    "contentId": "HP0082-PPSA07670_00-VEPS5DEMOASIA001",
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA07671_00",
@@ -24702,6 +24782,22 @@
     "contentId": "UP4312-PPSA07955_00-3941387522711488",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA07962_00",
+    "conceptId": 225700,
+    "name": "SKULL AND BONES\u2122",
+    "contentId": "EP0001-PPSA07962_00-UKRMINTERNALTT02",
+    "region": "EP",
+    "publisherId": "EP0001"
+  },
+  {
+    "titleId": "PPSA07971_00",
+    "conceptId": 10003325,
+    "name": "Gloom and Doom",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7092"
   },
   {
     "titleId": "PPSA07972_00",
@@ -26472,6 +26568,22 @@
     "publisherId": "EP0006"
   },
   {
+    "titleId": "PPSA08775_00",
+    "conceptId": 10001302,
+    "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30d0\u30c8\u30eb R \u4f53\u9a13\u7248",
+    "contentId": "JP0700-PPSA08775_00-JOJOASBRDEMO0001",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA08776_00",
+    "conceptId": 10001302,
+    "name": "JOJO\u7684\u5947\u5999\u5192\u96aa \u7fa4\u661f\u4e4b\u6230 \u91cd\u88fd\u7248 \u9ad4\u9a57\u7248",
+    "contentId": "HP0700-PPSA08776_00-JOJOASBRDEMO0001",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA08781_00",
     "conceptId": 10005561,
     "name": "Voyage",
@@ -27360,6 +27472,46 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA09136_00",
+    "conceptId": 10005717,
+    "name": "Fump Jump",
+    "contentId": "EP7666-PPSA09136_00-2849859841158082",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA09137_00",
+    "conceptId": 10005717,
+    "name": "Fump Jump",
+    "contentId": "UP7668-PPSA09137_00-4837802885022278",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA09139_00",
+    "conceptId": 10005717,
+    "name": "Fump Jump",
+    "contentId": "HP7695-PPSA09139_00-7060904369113448",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA09153_00",
+    "conceptId": null,
+    "name": "Horror Fun",
+    "contentId": "EP4312-PPSA09153_00-0067460050133214",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA09154_00",
+    "conceptId": null,
+    "name": "Horror Fun",
+    "contentId": "UP4312-PPSA09154_00-4312189148608276",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA09158_00",
     "conceptId": null,
     "name": "The Jumping Noodles",
@@ -27424,6 +27576,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA09223_00",
+    "conceptId": 10005740,
+    "name": "The Llama L",
+    "contentId": "UP7335-PPSA09223_00-3247262954395615",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA09224_00",
+    "conceptId": 10005740,
+    "name": "The Llama L",
+    "contentId": "EP7333-PPSA09224_00-4625668186055167",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
     "titleId": "PPSA09312_00",
     "conceptId": null,
     "name": "The Jumping Kebab",
@@ -27454,6 +27622,22 @@
     "contentId": "UP6664-PPSA09315_00-8657639881347170",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09322_00",
+    "conceptId": null,
+    "name": "Oktoberfest Break",
+    "contentId": "EP4312-PPSA09322_00-8103268396384138",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA09323_00",
+    "conceptId": null,
+    "name": "Oktoberfest Break",
+    "contentId": "UP4312-PPSA09323_00-2908368360160429",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA09332_00",
@@ -27552,6 +27736,38 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA09463_00",
+    "conceptId": null,
+    "name": "Beaver Run",
+    "contentId": "EP4312-PPSA09463_00-4710157953534668",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA09464_00",
+    "conceptId": null,
+    "name": "Beaver Run",
+    "contentId": "UP4312-PPSA09464_00-4360298774505018",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA09468_00",
+    "conceptId": 10005827,
+    "name": "Pacmaga",
+    "contentId": "EP7666-PPSA09468_00-8169439658282405",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA09469_00",
+    "conceptId": 10005827,
+    "name": "Pacmaga",
+    "contentId": "UP7668-PPSA09469_00-7954406187145802",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA09487_00",
     "conceptId": 10002810,
     "name": "Gunducky Industries++",
@@ -27568,12 +27784,52 @@
     "publisherId": "EP2919"
   },
   {
+    "titleId": "PPSA09489_00",
+    "conceptId": null,
+    "name": "Beaver Fun",
+    "contentId": "EP4312-PPSA09489_00-7046586759532234",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA09490_00",
+    "conceptId": null,
+    "name": "Beaver Fun",
+    "contentId": "UP4312-PPSA09490_00-8835554590465520",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA09510_00",
     "conceptId": 10005850,
     "name": "The Inverse",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA09551_00",
+    "conceptId": 10004765,
+    "name": "\u30c7\u30d3\u30e9\u30d3\u30ed\u30fc\u30b0 \u4f53\u9a13\u7248",
+    "contentId": "JP0013-PPSA09551_00-JP0OVERROGUEDPS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA09552_00",
+    "conceptId": 10004765,
+    "name": "Overrogue Demo",
+    "contentId": "UP2500-PPSA09552_00-US0OVERROGUEDPS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA09553_00",
+    "conceptId": 10004765,
+    "name": "Overrogue Demo",
+    "contentId": "EP2363-PPSA09553_00-EU0OVERROGUEDPS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA09570_00",
@@ -27640,11 +27896,51 @@
     "publisherId": "EP7666"
   },
   {
+    "titleId": "PPSA09655_00",
+    "conceptId": 10005934,
+    "name": "Frogo 2",
+    "contentId": "UP7668-PPSA09655_00-0492499375948969",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA09656_00",
+    "conceptId": 10005934,
+    "name": "Frogo 2",
+    "contentId": "EP7666-PPSA09656_00-4657842875151683",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA09716_00",
+    "conceptId": null,
+    "name": "The Jumping Lasagne",
+    "contentId": "UP6664-PPSA09716_00-4789321687314139",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA09856_00",
     "conceptId": 224852,
     "name": "Sky Sport Now",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA09857_00",
+    "conceptId": 10006030,
+    "name": "Platty Bird",
+    "contentId": "UP7668-PPSA09857_00-3456355009360254",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA09858_00",
+    "conceptId": 10006030,
+    "name": "Platty Bird",
+    "contentId": "EP7666-PPSA09858_00-3849115788647839",
+    "region": "EP",
+    "publisherId": "EP7666"
   }
 ]
