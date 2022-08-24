@@ -11816,6 +11816,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA04136_00",
+    "conceptId": 233621,
+    "name": "Mount & Blade II: Bannerlord",
+    "contentId": "UP1468-PPSA04136_00-MB2BANNERLORD000",
+    "region": "UP",
+    "publisherId": "UP1468"
+  },
+  {
     "titleId": "PPSA04137_00",
     "conceptId": 234692,
     "name": "Deliver Us The Moon",
@@ -13048,6 +13056,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA04426_00",
+    "conceptId": 10003285,
+    "name": "PGA 2K23 Cross-Gen Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1001"
+  },
+  {
     "titleId": "PPSA04427_00",
     "conceptId": 10002592,
     "name": "Rustler",
@@ -13302,6 +13318,14 @@
     "contentId": "EP0101-PPSA04490_00-TMNTCOWABUNGAXXX",
     "region": "EP",
     "publisherId": "EP0101"
+  },
+  {
+    "titleId": "PPSA04491_00",
+    "conceptId": 10003357,
+    "name": "\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8 \u30df\u30e5\u30fc\u30bf\u30f3\u30c8 \u30cb\u30f3\u30b8\u30e3 \u30bf\u30fc\u30c8\u30eb\u30ba \u30b6 \u30ab\u30ef\u30d0\u30f3\u30ac \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+    "contentId": "JP0101-PPSA04491_00-TMNTCOWABUNGAXXX",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA04493_00",
@@ -20931,9 +20955,9 @@
     "titleId": "PPSA06535_00",
     "conceptId": 225700,
     "name": "SKULL AND BONES\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0001-PPSA06535_00-SIEAINTERNALTT02",
+    "region": "UP",
+    "publisherId": "UP0001"
   },
   {
     "titleId": "PPSA06536_00",
@@ -22872,6 +22896,14 @@
     "publisherId": "EP1001"
   },
   {
+    "titleId": "PPSA07180_00",
+    "conceptId": null,
+    "name": "\u6a5f\u6230\u5c11\u5973Alice CS",
+    "contentId": "HP0177-PPSA07180_00-ALICEGEARAEGISP5",
+    "region": "HP",
+    "publisherId": "HP0177"
+  },
+  {
     "titleId": "PPSA07181_00",
     "conceptId": 10004507,
     "name": "PlayStation Plus",
@@ -24792,6 +24824,14 @@
     "publisherId": "EP0001"
   },
   {
+    "titleId": "PPSA07970_00",
+    "conceptId": 10003325,
+    "name": "Gloom and Doom",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7088"
+  },
+  {
     "titleId": "PPSA07971_00",
     "conceptId": 10003325,
     "name": "Gloom and Doom",
@@ -25208,6 +25248,22 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA08168_00",
+    "conceptId": 10005293,
+    "name": "Witch College Bundle",
+    "contentId": "EP6470-PPSA08168_00-WITCHCOLLEGEBUND",
+    "region": "EP",
+    "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA08169_00",
+    "conceptId": 10005293,
+    "name": "Witch College Bundle",
+    "contentId": "UP6472-PPSA08169_00-WITCHCOLLEGEBUND",
+    "region": "UP",
+    "publisherId": "UP6472"
+  },
+  {
     "titleId": "PPSA08170_00",
     "conceptId": 10002828,
     "name": "Summertime Madness",
@@ -25350,6 +25406,14 @@
     "contentId": "JP7323-PPSA08218_00-4278017489551109",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA08232_00",
+    "conceptId": null,
+    "name": "Paddles",
+    "contentId": "EP6071-PPSA08232_00-1707997618342283",
+    "region": "EP",
+    "publisherId": "EP6071"
   },
   {
     "titleId": "PPSA08246_00",
@@ -25670,6 +25734,22 @@
     "contentId": "UP6664-PPSA08350_00-5979359456690805",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA08353_00",
+    "conceptId": 231098,
+    "name": "Ice Age: Scrat's Nutty Adventure",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3824"
+  },
+  {
+    "titleId": "PPSA08354_00",
+    "conceptId": 231098,
+    "name": "Ice Age: Scrat's Nutty Adventure",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA08368_00",
@@ -26030,6 +26110,22 @@
     "contentId": "EP1703-PPSA08539_00-3141239716849842",
     "region": "EP",
     "publisherId": "EP1703"
+  },
+  {
+    "titleId": "PPSA08542_00",
+    "conceptId": 10003187,
+    "name": "Steelrising - Closed Beta",
+    "contentId": "EP6665-PPSA08542_00-STR00BETA0000000",
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA08543_00",
+    "conceptId": 10003187,
+    "name": "Steelrising - Closed Beta",
+    "contentId": "UP6665-PPSA08543_00-STR00BETA0000000",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA08544_00",
@@ -27472,6 +27568,14 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA09131_00",
+    "conceptId": 10005711,
+    "name": "Desert Journey",
+    "contentId": "HP8005-PPSA09131_00-6902524762421429",
+    "region": "HP",
+    "publisherId": "HP8005"
+  },
+  {
     "titleId": "PPSA09136_00",
     "conceptId": 10005717,
     "name": "Fump Jump",
@@ -27486,6 +27590,14 @@
     "contentId": "UP7668-PPSA09137_00-4837802885022278",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA09138_00",
+    "conceptId": 10005717,
+    "name": "Fump Jump",
+    "contentId": "JP7649-PPSA09138_00-9761882680036322",
+    "region": "JP",
+    "publisherId": "JP7649"
   },
   {
     "titleId": "PPSA09139_00",
@@ -27592,6 +27704,38 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA09228_00",
+    "conceptId": null,
+    "name": "The Volleyball B",
+    "contentId": "UP7335-PPSA09228_00-2776804315257173",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA09229_00",
+    "conceptId": 10005741,
+    "name": "The Volleyball B",
+    "contentId": "EP7333-PPSA09229_00-6052603214196948",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA09230_00",
+    "conceptId": 10005741,
+    "name": "The Volleyball B",
+    "contentId": "JP7309-PPSA09230_00-5309040435844632",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA09231_00",
+    "conceptId": 10005741,
+    "name": "The Volleyball B",
+    "contentId": "HP7354-PPSA09231_00-0571886100727525",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA09312_00",
     "conceptId": null,
     "name": "The Jumping Kebab",
@@ -27688,6 +27832,38 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA09357_00",
+    "conceptId": 10005791,
+    "name": "Monument Journey: Nitro",
+    "contentId": "UP7977-PPSA09357_00-4987087973953241",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
+    "titleId": "PPSA09358_00",
+    "conceptId": 10005791,
+    "name": "Monument Journey: Nitro",
+    "contentId": "EP7975-PPSA09358_00-3959493964870404",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA09359_00",
+    "conceptId": 10005791,
+    "name": "Monument Journey: Nitro",
+    "contentId": "JP7958-PPSA09359_00-8537745106751780",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA09360_00",
+    "conceptId": 10005791,
+    "name": "Monument Journey: Nitro",
+    "contentId": "HP8005-PPSA09360_00-6851148010170258",
+    "region": "HP",
+    "publisherId": "HP8005"
+  },
+  {
     "titleId": "PPSA09361_00",
     "conceptId": 10005792,
     "name": "Drift Journey Nitro",
@@ -27702,6 +27878,22 @@
     "contentId": "EP7975-PPSA09362_00-8216569678476675",
     "region": "EP",
     "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA09363_00",
+    "conceptId": 10005792,
+    "name": "Drift Journey Nitro",
+    "contentId": "JP7958-PPSA09363_00-1983365445125524",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA09364_00",
+    "conceptId": 10005792,
+    "name": "Drift Journey Nitro",
+    "contentId": "HP8005-PPSA09364_00-2970027767037175",
+    "region": "HP",
+    "publisherId": "HP8005"
   },
   {
     "titleId": "PPSA09433_00",
@@ -27912,10 +28104,34 @@
     "publisherId": "EP7666"
   },
   {
+    "titleId": "PPSA09715_00",
+    "conceptId": null,
+    "name": "The Jumping Lasagne",
+    "contentId": "EP6664-PPSA09715_00-3895307833649268",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA09716_00",
     "conceptId": null,
     "name": "The Jumping Lasagne",
     "contentId": "UP6664-PPSA09716_00-4789321687314139",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09717_00",
+    "conceptId": null,
+    "name": "The Jumping Lasagne: TURBO",
+    "contentId": "EP6664-PPSA09717_00-9072865407842588",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA09718_00",
+    "conceptId": null,
+    "name": "The Jumping Lasagne: TURBO",
+    "contentId": "UP6664-PPSA09718_00-5227397401840344",
     "region": "UP",
     "publisherId": "UP6664"
   },
