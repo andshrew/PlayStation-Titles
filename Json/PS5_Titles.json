@@ -7248,6 +7248,14 @@
     "publisherId": "JP0005"
   },
   {
+    "titleId": "PPSA03098_00",
+    "conceptId": 201061,
+    "name": "DEAD ISLAND 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2047"
+  },
+  {
     "titleId": "PPSA03106_00",
     "conceptId": 10000908,
     "name": "Loremlpsum32",
@@ -9024,6 +9032,22 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA03499_00",
+    "conceptId": 10002770,
+    "name": "New Tales from the Borderlands",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
+  },
+  {
+    "titleId": "PPSA03500_00",
+    "conceptId": 10002770,
+    "name": "New Tales from the Borderlands",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1001"
+  },
+  {
     "titleId": "PPSA03521_00",
     "conceptId": 10002761,
     "name": "Evil Dead: The Game",
@@ -10472,6 +10496,14 @@
     "publisherId": "HP7126"
   },
   {
+    "titleId": "PPSA03832_00",
+    "conceptId": 10002956,
+    "name": "SONIC FRONTIERS",
+    "contentId": "EP0177-PPSA03832_00-SONICRANGERS0000",
+    "region": "EP",
+    "publisherId": "EP0177"
+  },
+  {
     "titleId": "PPSA03833_00",
     "conceptId": 10000888,
     "name": "Sniper Ghost Warrior Contracts 2",
@@ -11814,6 +11846,14 @@
     "contentId": "HP2005-PPSA04131_00-VENUSIMPROBDREAM",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA04135_00",
+    "conceptId": 233621,
+    "name": "Mount & Blade II: Bannerlord",
+    "contentId": "EP1457-PPSA04135_00-MB2BANNERLORD000",
+    "region": "EP",
+    "publisherId": "EP1457"
   },
   {
     "titleId": "PPSA04136_00",
@@ -14710,6 +14750,14 @@
     "contentId": "EP3877-PPSA04824_00-TIMNIGHTBASEGAME",
     "region": "EP",
     "publisherId": "EP3877"
+  },
+  {
+    "titleId": "PPSA04828_00",
+    "conceptId": 10003349,
+    "name": "River City Girls Zero",
+    "contentId": "EP8916-PPSA04828_00-RIVERCITYGIRLS00",
+    "region": "EP",
+    "publisherId": "EP8916"
   },
   {
     "titleId": "PPSA04830_00",
@@ -18200,6 +18248,22 @@
     "publisherId": "UP5223"
   },
   {
+    "titleId": "PPSA05728_00",
+    "conceptId": 10004079,
+    "name": "MY LITTLE PONY: A Maretime Bay Adventure",
+    "contentId": "EP3678-PPSA05728_00-MLPBASEGAME00001",
+    "region": "EP",
+    "publisherId": "EP3678"
+  },
+  {
+    "titleId": "PPSA05729_00",
+    "conceptId": 10004079,
+    "name": "MY LITTLE PONY: A Maretime Bay Adventure",
+    "contentId": "UP3824-PPSA05729_00-MLPBASEGAME00001",
+    "region": "UP",
+    "publisherId": "UP3824"
+  },
+  {
     "titleId": "PPSA05730_00",
     "conceptId": 10004080,
     "name": "Shattered: Tale of the Forgotten King",
@@ -18894,6 +18958,14 @@
     "contentId": "EP6260-PPSA05916_00-BLOODRAYNE1RVPS5",
     "region": "EP",
     "publisherId": "EP6260"
+  },
+  {
+    "titleId": "PPSA05921_00",
+    "conceptId": 10004192,
+    "name": "The Dark Pictures Anthology: The Devil in Me PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA05924_00",
@@ -20048,6 +20120,14 @@
     "publisherId": "EP1063"
   },
   {
+    "titleId": "PPSA06233_00",
+    "conceptId": 10004192,
+    "name": "The Dark Pictures Anthology: The Devil in Me PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5028"
+  },
+  {
     "titleId": "PPSA06235_00",
     "conceptId": 10004195,
     "name": "STAR OCEAN THE DIVINE FORCE",
@@ -20478,6 +20558,14 @@
     "contentId": "JP0082-PPSA06387_00-VEPS5JP000000001",
     "region": "JP",
     "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA06388_00",
+    "conceptId": 10002956,
+    "name": "\u30bd\u30cb\u30c3\u30af\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2",
+    "contentId": "JP0177-PPSA06388_00-SONICRANGERS0000",
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA06394_00",
@@ -24827,7 +24915,7 @@
     "titleId": "PPSA07970_00",
     "conceptId": 10003325,
     "name": "Gloom and Doom",
-    "contentId": null,
+    "contentId": "EP7088-PPSA07970_00-0000000100250722",
     "region": "EP",
     "publisherId": "EP7088"
   },
@@ -25200,6 +25288,14 @@
     "publisherId": "EP6532"
   },
   {
+    "titleId": "PPSA08153_00",
+    "conceptId": 10005288,
+    "name": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30a8\u30ec\u30e1\u30f3\u30c4",
+    "contentId": "JP0013-PPSA08153_00-JP0FAIRYE0000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA08154_00",
     "conceptId": 10002057,
     "name": "\u30a2\u30b9\u30c7\u30a3\u30d0\u30a4\u30f3\u30af\u30ed\u30b9",
@@ -25352,6 +25448,22 @@
     "publisherId": "EP4829"
   },
   {
+    "titleId": "PPSA08193_00",
+    "conceptId": 10005233,
+    "name": "Asterigos: Curse of the Stars",
+    "contentId": "UP0097-PPSA08193_00-8607921909272886",
+    "region": "UP",
+    "publisherId": "UP0097"
+  },
+  {
+    "titleId": "PPSA08194_00",
+    "conceptId": 10005233,
+    "name": "Asterigos: Curse of the Stars",
+    "contentId": "EP0096-PPSA08194_00-8560257192778196",
+    "region": "EP",
+    "publisherId": "EP0096"
+  },
+  {
     "titleId": "PPSA08204_00",
     "conceptId": 233893,
     "name": "Disney+ Beta (PS5)",
@@ -25414,6 +25526,14 @@
     "contentId": "EP6071-PPSA08232_00-1707997618342283",
     "region": "EP",
     "publisherId": "EP6071"
+  },
+  {
+    "titleId": "PPSA08233_00",
+    "conceptId": 10005315,
+    "name": "Paddles",
+    "contentId": "UP6070-PPSA08233_00-0247409876783860",
+    "region": "UP",
+    "publisherId": "UP6070"
   },
   {
     "titleId": "PPSA08246_00",
@@ -27128,6 +27248,22 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA08952_00",
+    "conceptId": 10005288,
+    "name": "Fairy Elements",
+    "contentId": "UP2500-PPSA08952_00-US0FAIRYE0000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA08953_00",
+    "conceptId": 10005288,
+    "name": "Fairy Elements",
+    "contentId": "EP2363-PPSA08953_00-EU0FAIRYE0000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA08960_00",
     "conceptId": 10005632,
     "name": "The Jumping Sushi",
@@ -27568,6 +27704,30 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA09128_00",
+    "conceptId": 10005711,
+    "name": "Desert Journey",
+    "contentId": "UP7977-PPSA09128_00-4453788139316257",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
+    "titleId": "PPSA09129_00",
+    "conceptId": 10005711,
+    "name": "Desert Journey",
+    "contentId": "EP7975-PPSA09129_00-1478734665509760",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA09130_00",
+    "conceptId": 10005711,
+    "name": "Desert Journey",
+    "contentId": "JP7958-PPSA09130_00-2153750564005405",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
     "titleId": "PPSA09131_00",
     "conceptId": 10005711,
     "name": "Desert Journey",
@@ -27894,6 +28054,14 @@
     "contentId": "HP8005-PPSA09364_00-2970027767037175",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA09377_00",
+    "conceptId": 201061,
+    "name": "DEAD ISLAND 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4062"
   },
   {
     "titleId": "PPSA09433_00",
