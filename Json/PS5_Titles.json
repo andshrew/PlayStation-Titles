@@ -1088,6 +1088,14 @@
     "publisherId": "EP4062"
   },
   {
+    "titleId": "PPSA01593_00",
+    "conceptId": 232447,
+    "name": "Hogwarts Legacy PS5 Version",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1018"
+  },
+  {
     "titleId": "PPSA01594_00",
     "conceptId": 10000459,
     "name": "\u30e9\u30a4\u30c0\u30fc\u30ba \u30ea\u30d1\u30d6\u30ea\u30c3\u30af\u2122",
@@ -6008,6 +6016,14 @@
     "publisherId": "EP4062"
   },
   {
+    "titleId": "PPSA02810_00",
+    "conceptId": 10002272,
+    "name": "Alfred Hitchcock - Vertigo",
+    "contentId": "UP1475-PPSA02810_00-VERTIGOPS50000US",
+    "region": "UP",
+    "publisherId": "UP1475"
+  },
+  {
     "titleId": "PPSA02812_00",
     "conceptId": 10000758,
     "name": "LoremIpsum31",
@@ -10058,16 +10074,16 @@
   {
     "titleId": "PPSA03743_00",
     "conceptId": 10001070,
-    "name": "Soul Hackers 2 PS4 & PS5",
-    "contentId": null,
+    "name": "Soul Hackers 2",
+    "contentId": "UP0177-PPSA03743_00-SOULHACKERS20000",
     "region": "UP",
     "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA03744_00",
     "conceptId": 10001070,
-    "name": "Soul Hackers 2 PS4 & PS5",
-    "contentId": null,
+    "name": "Soul Hackers 2 Trial",
+    "contentId": "EP0177-PPSA03744_00-PLUSTRIALTRACKER",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -17553,7 +17569,7 @@
   },
   {
     "titleId": "PPSA05520_00",
-    "conceptId": null,
+    "conceptId": 10003932,
     "name": "PAW Patrol: Grand Prix",
     "contentId": "UP3824-PPSA05520_00-PAWRACER00000003",
     "region": "UP",
@@ -17561,7 +17577,7 @@
   },
   {
     "titleId": "PPSA05521_00",
-    "conceptId": null,
+    "conceptId": 10003932,
     "name": "PAW Patrol: Grand Prix",
     "contentId": "EP3678-PPSA05521_00-PAWRACER00000004",
     "region": "EP",
@@ -20978,7 +20994,7 @@
   {
     "titleId": "PPSA06510_00",
     "conceptId": 10004240,
-    "name": "Session: Skate Sim",
+    "name": "Session: Skate Sim - Standard Edition Pre-order",
     "contentId": null,
     "region": "EP",
     "publisherId": "EP6665"
@@ -21467,7 +21483,7 @@
     "titleId": "PPSA06631_00",
     "conceptId": 10004392,
     "name": "The Company Man",
-    "contentId": null,
+    "contentId": "UP7399-PPSA06631_00-COMPANYMAN0001NA",
     "region": "UP",
     "publisherId": "UP7399"
   },
@@ -26624,6 +26640,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA08643_00",
+    "conceptId": 10004743,
+    "name": "The Cow G",
+    "contentId": "HP7354-PPSA08643_00-5297309925237541",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA08644_00",
     "conceptId": 10004746,
     "name": "Quick Mafs Advanced",
@@ -26849,7 +26873,7 @@
   },
   {
     "titleId": "PPSA08763_00",
-    "conceptId": null,
+    "conceptId": 10004025,
     "name": "Vega",
     "contentId": "UP0006-PPSA08763_00-NHLPS5TECHTEST23",
     "region": "UP",
@@ -26857,7 +26881,7 @@
   },
   {
     "titleId": "PPSA08764_00",
-    "conceptId": null,
+    "conceptId": 10004025,
     "name": "Vega",
     "contentId": "EP0006-PPSA08764_00-NHLPS5TECHTEST23",
     "region": "EP",
@@ -28224,6 +28248,14 @@
     "publisherId": "JP7958"
   },
   {
+    "titleId": "PPSA09368_00",
+    "conceptId": 10005793,
+    "name": "Desert Journey Nitro",
+    "contentId": "HP8005-PPSA09368_00-3617769913260404",
+    "region": "HP",
+    "publisherId": "HP8005"
+  },
+  {
     "titleId": "PPSA09377_00",
     "conceptId": 201061,
     "name": "DEAD ISLAND 2",
@@ -28265,7 +28297,7 @@
   },
   {
     "titleId": "PPSA09463_00",
-    "conceptId": null,
+    "conceptId": 10005825,
     "name": "Beaver Run",
     "contentId": "EP4312-PPSA09463_00-4710157953534668",
     "region": "EP",
@@ -28273,7 +28305,7 @@
   },
   {
     "titleId": "PPSA09464_00",
-    "conceptId": null,
+    "conceptId": 10005825,
     "name": "Beaver Run",
     "contentId": "UP4312-PPSA09464_00-4360298774505018",
     "region": "UP",
@@ -28369,7 +28401,7 @@
   },
   {
     "titleId": "PPSA09571_00",
-    "conceptId": null,
+    "conceptId": 10005900,
     "name": "The Jumping Coffee",
     "contentId": "UP6664-PPSA09571_00-4141601019965013",
     "region": "UP",
