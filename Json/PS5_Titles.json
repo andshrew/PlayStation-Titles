@@ -14080,6 +14080,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA04636_00",
+    "conceptId": 230955,
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04638_00",
     "conceptId": 10003358,
     "name": "Super Impossible Road",
@@ -20008,6 +20016,22 @@
     "publisherId": "UP3685"
   },
   {
+    "titleId": "PPSA06165_00",
+    "conceptId": 10004301,
+    "name": "Casual Challenge Players' Club",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06166_00",
+    "conceptId": 10004301,
+    "name": "Casual Challenge Players' Club",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06168_00",
     "conceptId": 10002854,
     "name": "DNF DUEL",
@@ -23032,6 +23056,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA07098_00",
+    "conceptId": 235232,
+    "name": "The Dark Pictures Anthology: Little Hope",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07099_00",
     "conceptId": 10002761,
     "name": "Evil Dead: The Game (Beta)",
@@ -23249,7 +23281,7 @@
   },
   {
     "titleId": "PPSA07180_00",
-    "conceptId": null,
+    "conceptId": 10003388,
     "name": "\u6a5f\u6230\u5c11\u5973Alice CS",
     "contentId": "HP0177-PPSA07180_00-ALICEGEARAEGISP5",
     "region": "HP",
@@ -24470,6 +24502,22 @@
     "contentId": "EP1661-PPSA07672_00-SYPS5AWINTERSDAY",
     "region": "EP",
     "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA07673_00",
+    "conceptId": 232509,
+    "name": "Blood Waves",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07674_00",
+    "conceptId": 232509,
+    "name": "Blood Waves",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07675_00",
@@ -25718,6 +25766,14 @@
     "contentId": "JP7741-PPSA08157_00-AUTONAUTSPS5JP00",
     "region": "JP",
     "publisherId": "JP7741"
+  },
+  {
+    "titleId": "PPSA08161_00",
+    "conceptId": 10004916,
+    "name": "Blind Fate: Edo no Yami",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08166_00",
@@ -28136,6 +28192,22 @@
     "publisherId": "EP6809"
   },
   {
+    "titleId": "PPSA09034_00",
+    "conceptId": 10005679,
+    "name": "Maggie the Magnet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09035_00",
+    "conceptId": 10005679,
+    "name": "Maggie the Magnet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09052_00",
     "conceptId": 10004326,
     "name": "Wayward Strand",
@@ -28608,6 +28680,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09201_00",
+    "conceptId": 10001826,
+    "name": "Dungeons & Bombs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09202_00",
+    "conceptId": 10001826,
+    "name": "Dungeons & Bombs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09203_00",
+    "conceptId": 10002240,
+    "name": "GraviFire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09204_00",
+    "conceptId": 10002240,
+    "name": "GraviFire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09209_00",
     "conceptId": 10005734,
     "name": "Ninja Fun",
@@ -28729,6 +28833,30 @@
   },
   {
     "titleId": "PPSA09292_00",
+    "conceptId": 10004116,
+    "name": "Wo Long: Fallen Dynasty",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09294_00",
+    "conceptId": 10004116,
+    "name": "Wo Long: Fallen Dynasty",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09295_00",
+    "conceptId": 10004116,
+    "name": "Wo Long: Fallen Dynasty",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09296_00",
     "conceptId": 10004116,
     "name": "Wo Long: Fallen Dynasty",
     "contentId": null,
@@ -29238,6 +29366,22 @@
     "contentId": "EP7666-PPSA09646_00-7938044582034658",
     "region": "EP",
     "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA09647_00",
+    "conceptId": 10005933,
+    "name": "Kruger 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09648_00",
+    "conceptId": 10005933,
+    "name": "Kruger 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09655_00",
