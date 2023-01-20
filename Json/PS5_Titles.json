@@ -3616,6 +3616,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA02227_00",
+    "conceptId": 10001789,
+    "name": "EA SPORTS\u2122 PGA TOUR\u2122",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA02230_00",
     "conceptId": 234709,
     "name": "Werewolf: The Apocalypse \u2013 Earthblood",
@@ -18968,6 +18976,14 @@
     "publisherId": "JP0108"
   },
   {
+    "titleId": "PPSA05591_00",
+    "conceptId": 10003979,
+    "name": "Q.U.B.E. 10th Anniversary",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05592_00",
     "conceptId": 10003593,
     "name": "Road 96",
@@ -21894,6 +21910,14 @@
     "contentId": "UP0082-PPSA06235_00-STAROCEAN6PS5000",
     "region": "UP",
     "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA06245_00",
+    "conceptId": 10004338,
+    "name": "Q.U.B.E. 2 Ultimate Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06251_00",
@@ -25048,6 +25072,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06988_00",
+    "conceptId": 10001020,
+    "name": "Swordsman VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06990_00",
     "conceptId": 10004747,
     "name": "The Legend of the Dragonflame Highschool Collection",
@@ -26462,6 +26494,14 @@
     "contentId": "EP6853-PPSA07353_00-EDBETA00000000EU",
     "region": "EP",
     "publisherId": "EP6853"
+  },
+  {
+    "titleId": "PPSA07354_00",
+    "conceptId": 10004917,
+    "name": "Fashion Police Squad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07355_00",
@@ -29162,8 +29202,8 @@
   {
     "titleId": "PPSA08038_00",
     "conceptId": 10005250,
-    "name": "Monster Hunter Rise PS4 & PS5",
-    "contentId": null,
+    "name": "Monster Hunter Rise",
+    "contentId": "HP0102-PPSA08038_00-FULLGAME00000001",
     "region": "HP",
     "publisherId": "HP0102"
   },
@@ -30688,6 +30728,14 @@
     "publisherId": "UP0814"
   },
   {
+    "titleId": "PPSA08392_00",
+    "conceptId": 10004303,
+    "name": "Colossal Cave",
+    "contentId": "UP7553-PPSA08392_00-0597722566326020",
+    "region": "UP",
+    "publisherId": "UP7553"
+  },
+  {
     "titleId": "PPSA08400_00",
     "conceptId": 10003784,
     "name": "Running On Magic",
@@ -32120,6 +32168,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08749_00",
+    "conceptId": 10005546,
+    "name": "99 Seconds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08759_00",
     "conceptId": 10005555,
     "name": "The Jumping Sandwich",
@@ -33074,10 +33130,10 @@
   {
     "titleId": "PPSA08943_00",
     "conceptId": 225517,
-    "name": "Wonder Boy: The Dragon's Trap",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wonderboy : The Dragon's Trap",
+    "contentId": "HP5249-PPSA08943_00-DOTWBDRAGONSTRAP",
+    "region": "HP",
+    "publisherId": "HP5249"
   },
   {
     "titleId": "PPSA08944_00",
@@ -33321,6 +33377,14 @@
   },
   {
     "titleId": "PPSA08993_00",
+    "conceptId": 10005644,
+    "name": "Wonderland Nights: White Rabbit's Diary",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08994_00",
     "conceptId": 10005644,
     "name": "Wonderland Nights: White Rabbit's Diary",
     "contentId": null,
@@ -34947,9 +35011,9 @@
     "titleId": "PPSA09372_00",
     "conceptId": 10004303,
     "name": "Colossal Cave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7551-PPSA09372_00-2150331261505114",
+    "region": "EP",
+    "publisherId": "EP7551"
   },
   {
     "titleId": "PPSA09377_00",
