@@ -14835,9 +14835,9 @@
     "titleId": "PPSA04650_00",
     "conceptId": 10003342,
     "name": "THE HOUSE OF THE DEAD: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA04650_00-4489461951749167",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA04652_00",
@@ -16670,6 +16670,22 @@
     "contentId": "JP0013-PPSA05056_00-JP0JUSTICEC00PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA05057_00",
+    "conceptId": 10003423,
+    "name": "Clash - Standard Edition Pre-order",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA05058_00",
+    "conceptId": 10003423,
+    "name": "Clash - Standard Edition Pre-order",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA05063_00",
@@ -18976,12 +18992,20 @@
     "publisherId": "JP0108"
   },
   {
+    "titleId": "PPSA05590_00",
+    "conceptId": 10003979,
+    "name": "Q.U.B.E. 10th Anniversary",
+    "contentId": "EP4011-PPSA05590_00-0398464444018069",
+    "region": "EP",
+    "publisherId": "EP4011"
+  },
+  {
     "titleId": "PPSA05591_00",
     "conceptId": 10003979,
     "name": "Q.U.B.E. 10th Anniversary",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7448-PPSA05591_00-2788042473589114",
+    "region": "UP",
+    "publisherId": "UP7448"
   },
   {
     "titleId": "PPSA05592_00",
@@ -19145,6 +19169,14 @@
   },
   {
     "titleId": "PPSA05621_00",
+    "conceptId": 10003731,
+    "name": "Wanted: Dead",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05622_00",
     "conceptId": 10003731,
     "name": "Wanted: Dead",
     "contentId": null,
@@ -21915,9 +21947,17 @@
     "titleId": "PPSA06245_00",
     "conceptId": 10004338,
     "name": "Q.U.B.E. 2 Ultimate Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4833-PPSA06245_00-0949207671244822",
+    "region": "EP",
+    "publisherId": "EP4833"
+  },
+  {
+    "titleId": "PPSA06246_00",
+    "conceptId": 10004338,
+    "name": "Q.U.B.E. 2 Ultimate Edition",
+    "contentId": "UP4660-PPSA06246_00-5779375925274179",
+    "region": "UP",
+    "publisherId": "UP4660"
   },
   {
     "titleId": "PPSA06251_00",
@@ -25072,7 +25112,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06987_00",
+    "conceptId": 10001020,
+    "name": "Swordsman VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06988_00",
+    "conceptId": 10001020,
+    "name": "Swordsman VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06989_00",
     "conceptId": 10001020,
     "name": "Swordsman VR",
     "contentId": null,
@@ -29162,8 +29218,8 @@
   {
     "titleId": "PPSA08033_00",
     "conceptId": 10005250,
-    "name": "Monster Hunter Rise PS4 & PS5",
-    "contentId": null,
+    "name": "Monster Hunter Rise",
+    "contentId": "UP0102-PPSA08033_00-FULLGAME00000001",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -29178,16 +29234,16 @@
   {
     "titleId": "PPSA08035_00",
     "conceptId": 10005250,
-    "name": "Monster Hunter Rise PS4 & PS5",
-    "contentId": null,
+    "name": "Monster Hunter Rise",
+    "contentId": "EP0102-PPSA08035_00-FULLGAME00000001",
     "region": "EP",
     "publisherId": "EP0102"
   },
   {
     "titleId": "PPSA08036_00",
     "conceptId": 10005250,
-    "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30e9\u30a4\u30ba PS4 & PS5",
-    "contentId": null,
+    "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30e9\u30a4\u30ba",
+    "contentId": "JP0102-PPSA08036_00-FULLGAME00000001",
     "region": "JP",
     "publisherId": "JP0102"
   },
@@ -31224,6 +31280,22 @@
     "publisherId": "EP7678"
   },
   {
+    "titleId": "PPSA08531_00",
+    "conceptId": 10005435,
+    "name": "Backfirewall_",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08532_00",
+    "conceptId": 10005435,
+    "name": "Backfirewall_",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08536_00",
     "conceptId": 10005296,
     "name": "Gale of Windoria",
@@ -32168,12 +32240,20 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08748_00",
+    "conceptId": 10005546,
+    "name": "99 Seconds",
+    "contentId": "UP6927-PPSA08748_00-9423686890466194",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA08749_00",
     "conceptId": 10005546,
     "name": "99 Seconds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA08749_00-0625633183659886",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA08759_00",
@@ -34115,17 +34195,17 @@
     "titleId": "PPSA09169_00",
     "conceptId": 10005442,
     "name": "OmegaBot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5098-PPSA09169_00-8749790219608462",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA09170_00",
     "conceptId": 10005442,
     "name": "OmegaBot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4912-PPSA09170_00-3499262888915149",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA09171_00",
