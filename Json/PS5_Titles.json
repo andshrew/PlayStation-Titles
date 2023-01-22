@@ -3624,6 +3624,14 @@
     "publisherId": "UP0006"
   },
   {
+    "titleId": "PPSA02228_00",
+    "conceptId": 10001789,
+    "name": "EA SPORTS\u2122 PGA TOUR\u2122",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0006"
+  },
+  {
     "titleId": "PPSA02230_00",
     "conceptId": 234709,
     "name": "Werewolf: The Apocalypse \u2013 Earthblood",
@@ -14827,9 +14835,9 @@
     "titleId": "PPSA04649_00",
     "conceptId": 10003342,
     "name": "THE HOUSE OF THE DEAD: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4199-PPSA04649_00-3575269706423269",
+    "region": "UP",
+    "publisherId": "UP4199"
   },
   {
     "titleId": "PPSA04650_00",
