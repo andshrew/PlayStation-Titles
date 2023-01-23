@@ -5608,6 +5608,14 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA02665_00",
+    "conceptId": 10002162,
+    "name": "ENDLESS\u2122 Dungeon",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
+  },
+  {
     "titleId": "PPSA02666_00",
     "conceptId": 10000218,
     "name": "Crash Drive 3",
@@ -37051,17 +37059,17 @@
     "titleId": "PPSA09914_00",
     "conceptId": 10005285,
     "name": "The Jumping Burger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA09914_00-1963343769947043",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA09915_00",
     "conceptId": 10005285,
     "name": "The Jumping Burger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA09915_00-7276824707971645",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA09916_00",
