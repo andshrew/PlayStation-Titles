@@ -11755,7 +11755,7 @@
     "titleId": "PPSA03982_00",
     "conceptId": 10000846,
     "name": "Forspoken",
-    "contentId": null,
+    "contentId": "UP0082-PPSA03982_00-ATHIA00000000001",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -11771,7 +11771,7 @@
     "titleId": "PPSA03985_00",
     "conceptId": 10000846,
     "name": "Forspoken",
-    "contentId": null,
+    "contentId": "HP0082-PPSA03985_00-ATHIA00000000003",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -18202,10 +18202,10 @@
   {
     "titleId": "PPSA05425_00",
     "conceptId": 230658,
-    "name": "World War Z: Aftermath",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "World War Z Aftermath",
+    "contentId": "EP6853-PPSA05425_00-WWZTHEGAME2021EU",
+    "region": "EP",
+    "publisherId": "EP6853"
   },
   {
     "titleId": "PPSA05426_00",
@@ -20786,18 +20786,18 @@
   {
     "titleId": "PPSA05994_00",
     "conceptId": 10000846,
-    "name": "Forspoken",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Forspoken Digital Mini Soundtrack",
+    "contentId": "UP0082-PPSA05994_00-3509750533145523",
+    "region": "UP",
+    "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA05995_00",
     "conceptId": 10000846,
-    "name": "Forspoken",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Forspoken Digital Mini Soundtrack",
+    "contentId": "EP0082-PPSA05995_00-0508448847188587",
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA05996_00",
@@ -20810,34 +20810,34 @@
   {
     "titleId": "PPSA05997_00",
     "conceptId": 10000846,
-    "name": "Forspoken",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Forspoken Digital Mini Soundtrack",
+    "contentId": "HP0082-PPSA05997_00-4619975041802031",
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA05998_00",
     "conceptId": 10000846,
-    "name": "Forspoken",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Forspoken Digital Mini Art Book",
+    "contentId": "UP0082-PPSA05998_00-6507782401635835",
+    "region": "UP",
+    "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA05999_00",
     "conceptId": 10000846,
-    "name": "Forspoken",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Forspoken Digital Mini Art Book",
+    "contentId": "EP0082-PPSA05999_00-4233505067013756",
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA06000_00",
     "conceptId": 10000846,
-    "name": "Forspoken",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FORSPOKEN Digital Mini Art Book",
+    "contentId": "JP0082-PPSA06000_00-7007594838096667",
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA06001_00",
@@ -32472,6 +32472,14 @@
     "publisherId": "EP3717"
   },
   {
+    "titleId": "PPSA08808_00",
+    "conceptId": 203053,
+    "name": "NOW",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08812_00",
     "conceptId": 10005575,
     "name": "The Basketball B",
@@ -35178,10 +35186,10 @@
   {
     "titleId": "PPSA09388_00",
     "conceptId": 10002670,
-    "name": "Neptunia: Sisters VS Sisters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neptunia: Sisters VS Sisters Digital Art Book",
+    "contentId": "UP0031-PPSA09388_00-DXCONTENTART0001",
+    "region": "UP",
+    "publisherId": "UP0031"
   },
   {
     "titleId": "PPSA09391_00",
@@ -35402,8 +35410,8 @@
   {
     "titleId": "PPSA09443_00",
     "conceptId": 10002670,
-    "name": "Neptunia Sisters VS Sisters DX Edition",
-    "contentId": null,
+    "name": "Neptunia: Sisters VS Sisters",
+    "contentId": "EP4060-PPSA09443_00-NEPTUNESISTERSVS",
     "region": "EP",
     "publisherId": "EP4060"
   },
@@ -39152,6 +39160,14 @@
     "publisherId": "EP7576"
   },
   {
+    "titleId": "PPSA10342_00",
+    "conceptId": 10005239,
+    "name": "Shipwreck Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10343_00",
     "conceptId": 10006188,
     "name": "The Jumping Wrap",
@@ -39374,6 +39390,22 @@
     "contentId": "HP6661-PPSA10374_00-4772022868856458",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA10376_00",
+    "conceptId": 10005239,
+    "name": "Shipwreck Escape",
+    "contentId": "JP1681-PPSA10376_00-2249830637003027",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA10377_00",
+    "conceptId": 10005239,
+    "name": "Shipwreck Escape",
+    "contentId": "HP1546-PPSA10377_00-0745832514091067",
+    "region": "HP",
+    "publisherId": "HP1546"
   },
   {
     "titleId": "PPSA10380_00",
@@ -39827,9 +39859,9 @@
     "titleId": "PPSA10524_00",
     "conceptId": 10006246,
     "name": "Sissa's Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA10524_00-SISSASPATH000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA10525_00",
@@ -40590,6 +40622,22 @@
     "contentId": "UP0891-PPSA10725_00-RAGAMHEADBANGERS",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA10741_00",
+    "conceptId": 10001852,
+    "name": "WOW",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10742_00",
+    "conceptId": 10002319,
+    "name": "NOW",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10743_00",
