@@ -11763,7 +11763,7 @@
     "titleId": "PPSA03984_00",
     "conceptId": 10000846,
     "name": "Forspoken",
-    "contentId": null,
+    "contentId": "EP0082-PPSA03984_00-ATHIA00000000002",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -18200,6 +18200,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA05424_00",
+    "conceptId": 230658,
+    "name": "World War Z Aftermath",
+    "contentId": "UP6856-PPSA05424_00-WWZTHEGAME2021US",
+    "region": "UP",
+    "publisherId": "UP6856"
+  },
+  {
     "titleId": "PPSA05425_00",
     "conceptId": 230658,
     "name": "World War Z Aftermath",
@@ -18694,6 +18702,22 @@
     "contentId": "EP2134-PPSA05506_00-2019341362245874",
     "region": "EP",
     "publisherId": "EP2134"
+  },
+  {
+    "titleId": "PPSA05509_00",
+    "conceptId": 10000771,
+    "name": "Minecraft Legends",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4433"
+  },
+  {
+    "titleId": "PPSA05510_00",
+    "conceptId": 10000771,
+    "name": "Minecraft Legends",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4433"
   },
   {
     "titleId": "PPSA05513_00",
@@ -27499,7 +27523,7 @@
     "titleId": "PPSA07596_00",
     "conceptId": 10004787,
     "name": "\u9b54\u754c\u6226\u8a18\u30c7\u30a3\u30b9\u30ac\u30a4\u30a2\uff17",
-    "contentId": null,
+    "contentId": "JP0404-PPSA07596_00-DISGAEA700000001",
     "region": "JP",
     "publisherId": "JP0404"
   },
@@ -27738,8 +27762,8 @@
   {
     "titleId": "PPSA07660_00",
     "conceptId": 10002670,
-    "name": "Neptunia: Sisters VS Sisters DX Edition",
-    "contentId": null,
+    "name": "Neptunia: Sisters VS Sisters",
+    "contentId": "UP0031-PPSA07660_00-NEPTUNIASISTERS1",
     "region": "UP",
     "publisherId": "UP0031"
   },
@@ -30448,6 +30472,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08310_00",
+    "conceptId": 10005350,
+    "name": "Townsmen VR",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4539"
+  },
+  {
+    "titleId": "PPSA08311_00",
+    "conceptId": 10005350,
+    "name": "Townsmen VR",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0977"
+  },
+  {
     "titleId": "PPSA08314_00",
     "conceptId": 10001697,
     "name": "Season: A letter to the future PS4 & PS5",
@@ -30670,6 +30710,22 @@
     "contentId": "EP3678-PPSA08359_00-BEN10POWERTRIP00",
     "region": "EP",
     "publisherId": "EP3678"
+  },
+  {
+    "titleId": "PPSA08363_00",
+    "conceptId": 10003388,
+    "name": "Alice Gear Aegis CS Concerto of Simulatrix",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08364_00",
+    "conceptId": 10003388,
+    "name": "Alice Gear Aegis CS Concerto of Simulatrix",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08368_00",
@@ -36843,17 +36899,17 @@
     "titleId": "PPSA09852_00",
     "conceptId": 10004233,
     "name": "South of the Circle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4789-PPSA09852_00-SOUTHOFTHECIRCLE",
+    "region": "JP",
+    "publisherId": "JP4789"
   },
   {
     "titleId": "PPSA09853_00",
     "conceptId": 10004233,
     "name": "South of the Circle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP4801-PPSA09853_00-SOUTHOFTHECIRCLE",
+    "region": "HP",
+    "publisherId": "HP4801"
   },
   {
     "titleId": "PPSA09854_00",
@@ -37579,6 +37635,14 @@
     "titleId": "PPSA09997_00",
     "conceptId": 10005959,
     "name": "The Jumping Churros",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09999_00",
+    "conceptId": 10005960,
+    "name": "The Jumping Churros: TURBO",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -39163,9 +39227,9 @@
     "titleId": "PPSA10342_00",
     "conceptId": 10005239,
     "name": "Shipwreck Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1411-PPSA10342_00-0302538644103291",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA10343_00",
@@ -39392,6 +39456,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA10375_00",
+    "conceptId": 10005239,
+    "name": "Shipwreck Escape",
+    "contentId": "UP1421-PPSA10375_00-7297541887537540",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA10376_00",
     "conceptId": 10005239,
     "name": "Shipwreck Escape",
@@ -39576,6 +39648,14 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA10406_00",
+    "conceptId": 10006208,
+    "name": "Active DBG: Brave's Rage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10407_00",
     "conceptId": 204794,
     "name": "The Witcher 3: Wild Hunt",
@@ -39736,6 +39816,14 @@
     "publisherId": "JP0507"
   },
   {
+    "titleId": "PPSA10473_00",
+    "conceptId": 10006208,
+    "name": "Active DBG: Brave's Rage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10474_00",
     "conceptId": 10004103,
     "name": "Mr. Hibbl - PS4 & PS5",
@@ -39867,9 +39955,9 @@
     "titleId": "PPSA10525_00",
     "conceptId": 10006246,
     "name": "Sissa's Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA10525_00-SISSASPATH000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA10526_00",
@@ -41144,12 +41232,36 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA10841_00",
+    "conceptId": 10006365,
+    "name": "The Dino R",
+    "contentId": "UP7335-PPSA10841_00-6105805645877047",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA10842_00",
     "conceptId": 10006365,
     "name": "The Dino R",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA10842_00-4029169704633861",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA10843_00",
+    "conceptId": 10006365,
+    "name": "The Dino R",
+    "contentId": "JP7309-PPSA10843_00-7405921514364264",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA10844_00",
+    "conceptId": 10006365,
+    "name": "The Dino R",
+    "contentId": "HP7354-PPSA10844_00-1247766822435785",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA10845_00",
@@ -41992,6 +42104,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA11148_00",
+    "conceptId": 10004803,
+    "name": "Titans Pinball",
+    "contentId": "JP5432-PPSA11148_00-9842953223378362",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA11155_00",
     "conceptId": 10006491,
     "name": "Monster Truck Journey",
@@ -42731,6 +42851,30 @@
     "titleId": "PPSA11335_00",
     "conceptId": 10006546,
     "name": "Find the Bug",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11339_00",
+    "conceptId": 10006548,
+    "name": "Row of numbers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11343_00",
+    "conceptId": 10006549,
+    "name": "Guess the animal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11347_00",
+    "conceptId": 10006550,
+    "name": "Match Master",
     "contentId": null,
     "region": null,
     "publisherId": null
