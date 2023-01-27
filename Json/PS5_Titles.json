@@ -731,7 +731,7 @@
     "titleId": "PPSA01499_00",
     "conceptId": 10000846,
     "name": "FORSPOKEN",
-    "contentId": null,
+    "contentId": "JP0082-PPSA01499_00-ATHIA00000000000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -18720,6 +18720,14 @@
     "publisherId": "EP4433"
   },
   {
+    "titleId": "PPSA05511_00",
+    "conceptId": 10000771,
+    "name": "Minecraft Legends",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0127"
+  },
+  {
     "titleId": "PPSA05513_00",
     "conceptId": 10003812,
     "name": "Red Bull TV",
@@ -33971,9 +33979,9 @@
     "titleId": "PPSA09106_00",
     "conceptId": 10004636,
     "name": "Wonder Boy Anniversary Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6090-PPSA09106_00-WONDERBOYPS5EUXX",
+    "region": "EP",
+    "publisherId": "EP6090"
   },
   {
     "titleId": "PPSA09112_00",
@@ -34289,6 +34297,14 @@
   },
   {
     "titleId": "PPSA09167_00",
+    "conceptId": 10005594,
+    "name": "Fernbus - Coachbus Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09168_00",
     "conceptId": 10005594,
     "name": "Fernbus - Coachbus Simulator",
     "contentId": null,
@@ -37632,9 +37648,25 @@
     "publisherId": "EP7177"
   },
   {
+    "titleId": "PPSA09996_00",
+    "conceptId": 10005959,
+    "name": "The Jumping Churros",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09997_00",
     "conceptId": 10005959,
     "name": "The Jumping Churros",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09998_00",
+    "conceptId": 10005960,
+    "name": "The Jumping Churros: TURBO",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -37955,6 +37987,14 @@
     "titleId": "PPSA10092_00",
     "conceptId": 227160,
     "name": "NBA App",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10094_00",
+    "conceptId": 10006119,
+    "name": "Pro Turkey Hunting",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -42886,6 +42926,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA11417_00",
+    "conceptId": 10001404,
+    "name": "Syberia - The World Before",
+    "contentId": "JP6398-PPSA11417_00-SYBTWBPS500000JP",
+    "region": "JP",
+    "publisherId": "JP6398"
   },
   {
     "titleId": "PPSA11495_00",
