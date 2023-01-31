@@ -11074,8 +11074,8 @@
   {
     "titleId": "PPSA03845_00",
     "conceptId": 10002958,
-    "name": "Dead Space",
-    "contentId": null,
+    "name": "Dead Space\u2122",
+    "contentId": "UP0006-PPSA03845_00-BEYONDPS5GAME000",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -16382,6 +16382,14 @@
     "contentId": "EP2363-PPSA04986_00-EU0AEMETH0000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA04987_00",
+    "conceptId": 10003654,
+    "name": "PowerWash Simulator",
+    "contentId": "UP0082-PPSA04987_00-3528315769842001",
+    "region": "UP",
+    "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA04992_00",
@@ -31395,9 +31403,9 @@
     "titleId": "PPSA08532_00",
     "conceptId": 10005435,
     "name": "Backfirewall_",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5580-PPSA08532_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP5580"
   },
   {
     "titleId": "PPSA08536_00",
@@ -40406,6 +40414,14 @@
     "contentId": "HP6661-PPSA10580_00-1827570303349424",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA10599_00",
+    "conceptId": 10006273,
+    "name": "Souls of Chronos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10603_00",
