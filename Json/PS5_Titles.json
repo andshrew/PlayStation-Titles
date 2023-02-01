@@ -9835,17 +9835,17 @@
     "titleId": "PPSA03593_00",
     "conceptId": 10002430,
     "name": "We Were Here Forever",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4697-PPSA03593_00-9119475396174422",
+    "region": "EP",
+    "publisherId": "EP4697"
   },
   {
     "titleId": "PPSA03594_00",
     "conceptId": 10002430,
     "name": "We Were Here Forever",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6535-PPSA03594_00-4337367104000844",
+    "region": "UP",
+    "publisherId": "UP6535"
   },
   {
     "titleId": "PPSA03595_00",
@@ -20016,6 +20016,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA05802_00",
+    "conceptId": 10003654,
+    "name": "PowerWash Simulator",
+    "contentId": "JP0082-PPSA05802_00-2761775101943415",
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
     "titleId": "PPSA05804_00",
     "conceptId": 10003543,
     "name": "Grand Theft Auto: The Trilogy \u2013 The Definitive Edition",
@@ -26632,6 +26640,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07358_00",
+    "conceptId": 211798,
+    "name": "Thumper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07359_00",
+    "conceptId": 211798,
+    "name": "Thumper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07364_00",
     "conceptId": 10004921,
     "name": "STAR WARS\u2122 Demolition",
@@ -28944,6 +28968,14 @@
     "publisherId": "UP4134"
   },
   {
+    "titleId": "PPSA07923_00",
+    "conceptId": 232708,
+    "name": "Tetris\u00ae Effect: Connected",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07924_00",
     "conceptId": 10005095,
     "name": "SurfaceRush",
@@ -29086,6 +29118,30 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0275"
+  },
+  {
+    "titleId": "PPSA07959_00",
+    "conceptId": 232708,
+    "name": "Tetris\u00ae Effect: Connected",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07960_00",
+    "conceptId": 232708,
+    "name": "Tetris\u00ae Effect: Connected",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07961_00",
+    "conceptId": 232708,
+    "name": "Tetris\u00ae Effect: Connected",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07962_00",
@@ -30440,6 +30496,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA08300_00",
+    "conceptId": 10005347,
+    "name": "Cions of Vega",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08302_00",
     "conceptId": 10005348,
     "name": "Finding The Soul Orb",
@@ -31395,9 +31459,9 @@
     "titleId": "PPSA08531_00",
     "conceptId": 10005435,
     "name": "Backfirewall_",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5761-PPSA08531_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP5761"
   },
   {
     "titleId": "PPSA08532_00",
@@ -36075,9 +36139,9 @@
     "titleId": "PPSA09596_00",
     "conceptId": 10005912,
     "name": "Albacete Warrior",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA09596_00-ALBACETEWARRIOR0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA09597_00",
@@ -41856,6 +41920,22 @@
     "publisherId": "UP8121"
   },
   {
+    "titleId": "PPSA10974_00",
+    "conceptId": 10006418,
+    "name": "BROK the InvestiGator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10975_00",
+    "conceptId": 10006418,
+    "name": "BROK the InvestiGator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10992_00",
     "conceptId": 10006430,
     "name": "The Redress of Mira",
@@ -41867,6 +41947,22 @@
     "titleId": "PPSA10993_00",
     "conceptId": 10006430,
     "name": "The Redress of Mira",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10994_00",
+    "conceptId": 10006431,
+    "name": "Twice Reborn: A Vampire Visual Novel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10995_00",
+    "conceptId": 10006431,
+    "name": "Twice Reborn: A Vampire Visual Novel",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -42832,6 +42928,22 @@
     "publisherId": "EP7666"
   },
   {
+    "titleId": "PPSA11277_00",
+    "conceptId": 10006529,
+    "name": "Mermaidio 2",
+    "contentId": "JP7649-PPSA11277_00-3890854532638861",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA11278_00",
+    "conceptId": 10006529,
+    "name": "Mermaidio 2",
+    "contentId": "HP7695-PPSA11278_00-3908533560951901",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
     "titleId": "PPSA11279_00",
     "conceptId": 10006530,
     "name": "Cario 2",
@@ -43046,6 +43158,14 @@
     "contentId": "UP1643-PPSA11496_00-KINGDOMOFAURELIA",
     "region": "UP",
     "publisherId": "UP1643"
+  },
+  {
+    "titleId": "PPSA11501_00",
+    "conceptId": 10006525,
+    "name": "2MD: VR Football Unleashed ALL-STAR",
+    "contentId": "UP0964-PPSA11501_00-4069570327247580",
+    "region": "UP",
+    "publisherId": "UP0964"
   },
   {
     "titleId": "PPSA11538_00",
