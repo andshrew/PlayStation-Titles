@@ -16392,6 +16392,14 @@
     "publisherId": "UP0082"
   },
   {
+    "titleId": "PPSA04988_00",
+    "conceptId": 10003654,
+    "name": "PowerWash Simulator",
+    "contentId": "EP0082-PPSA04988_00-0663121687499994",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
     "titleId": "PPSA04992_00",
     "conceptId": 10003601,
     "name": "Cricket 22",
@@ -25338,10 +25346,10 @@
   {
     "titleId": "PPSA07016_00",
     "conceptId": 10004729,
-    "name": "Football Manager 2023 Console",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football Manager 2023 Console Edition",
+    "contentId": "EP0177-PPSA07016_00-FM23EU0000000000",
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA07017_00",
@@ -28496,12 +28504,20 @@
     "publisherId": "EP0102"
   },
   {
-    "titleId": "PPSA07819_00",
-    "conceptId": 10005153,
-    "name": "Rhythm Sprout",
+    "titleId": "PPSA07817_00",
+    "conceptId": 10002224,
+    "name": "Shadow Warrior 3",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA07819_00",
+    "conceptId": 10005153,
+    "name": "Rhythm Sprout",
+    "contentId": "UP0097-PPSA07819_00-7416389442364353",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA07820_00",
@@ -30504,6 +30520,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08301_00",
+    "conceptId": 10005347,
+    "name": "Cions of Vega",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08302_00",
     "conceptId": 10005348,
     "name": "Finding The Soul Orb",
@@ -30570,8 +30594,8 @@
   {
     "titleId": "PPSA08314_00",
     "conceptId": 10001697,
-    "name": "Season: A letter to the future PS4 & PS5",
-    "contentId": null,
+    "name": "Season",
+    "contentId": "EP3753-PPSA08314_00-SEASONGAMEPS5EU0",
     "region": "EP",
     "publisherId": "EP3753"
   },
@@ -31744,6 +31768,14 @@
     "publisherId": "EP0182"
   },
   {
+    "titleId": "PPSA08604_00",
+    "conceptId": 10003304,
+    "name": "DreadOut 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08606_00",
     "conceptId": 10005479,
     "name": "Shark Pinball",
@@ -32739,9 +32771,9 @@
     "titleId": "PPSA08832_00",
     "conceptId": 10003754,
     "name": "Raiden IV \u00d7 MIKADO remix",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1063-PPSA08832_00-RAIDENXMIKADOPS5",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA08833_00",
@@ -36147,9 +36179,9 @@
     "titleId": "PPSA09597_00",
     "conceptId": 10005912,
     "name": "Albacete Warrior",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA09597_00-ALBACETEWARRIOR0",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA09605_00",
@@ -40626,10 +40658,10 @@
   {
     "titleId": "PPSA10653_00",
     "conceptId": 10004729,
-    "name": "Football Manager 2023 Console",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football Manager 2023 Console Edition",
+    "contentId": "UP0177-PPSA10653_00-FM23NA0000000000",
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA10664_00",
@@ -41922,18 +41954,18 @@
   {
     "titleId": "PPSA10974_00",
     "conceptId": 10006418,
-    "name": "BROK the InvestiGator",
+    "name": "BROK the InvestiGator PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1778"
   },
   {
     "titleId": "PPSA10975_00",
     "conceptId": 10006418,
-    "name": "BROK the InvestiGator",
+    "name": "BROK the InvestiGator PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP1762"
   },
   {
     "titleId": "PPSA10992_00",
@@ -43072,6 +43104,30 @@
     "publisherId": "EP7666"
   },
   {
+    "titleId": "PPSA11317_00",
+    "conceptId": 10006539,
+    "name": "Beveron",
+    "contentId": "UP7668-PPSA11317_00-1587279025744039",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA11318_00",
+    "conceptId": 10006539,
+    "name": "Beveron",
+    "contentId": "EP7666-PPSA11318_00-2317938191600934",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA11319_00",
+    "conceptId": 10006539,
+    "name": "Beveron",
+    "contentId": "JP7649-PPSA11319_00-4005177860746969",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
     "titleId": "PPSA11321_00",
     "conceptId": 10006541,
     "name": "Crime Secrets: Crimson Lily",
@@ -43104,12 +43160,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11338_00",
+    "conceptId": 10006548,
+    "name": "Row of numbers",
+    "contentId": "UP7335-PPSA11338_00-3846578304861605",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA11339_00",
     "conceptId": 10006548,
     "name": "Row of numbers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11339_00-0258020158545095",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA11343_00",
@@ -43134,6 +43198,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA11411_00",
+    "conceptId": 10006208,
+    "name": "\u52c7\u8005\u3088\u6025\u3052\uff01Brave's Rage",
+    "contentId": "JP7769-PPSA11411_00-BRJPSTPS50000000",
+    "region": "JP",
+    "publisherId": "JP7769"
+  },
+  {
+    "titleId": "PPSA11412_00",
+    "conceptId": 10006208,
+    "name": "Brave's Rage",
+    "contentId": "HP7815-PPSA11412_00-BRJASTPS50000000",
+    "region": "HP",
+    "publisherId": "HP7815"
   },
   {
     "titleId": "PPSA11417_00",
@@ -43166,6 +43246,22 @@
     "contentId": "UP0964-PPSA11501_00-4069570327247580",
     "region": "UP",
     "publisherId": "UP0964"
+  },
+  {
+    "titleId": "PPSA11502_00",
+    "conceptId": 10006605,
+    "name": "Planet Cube: Edge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11503_00",
+    "conceptId": 10006605,
+    "name": "Planet Cube: Edge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11538_00",
