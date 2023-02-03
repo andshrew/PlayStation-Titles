@@ -6562,8 +6562,8 @@
   {
     "titleId": "PPSA02856_00",
     "conceptId": 10001697,
-    "name": "SEASON: A letter to the future PS4 & PS5",
-    "contentId": null,
+    "name": "Season",
+    "contentId": "UP3901-PPSA02856_00-SEASONGAMEPS5NA0",
     "region": "UP",
     "publisherId": "UP3901"
   },
@@ -19488,6 +19488,14 @@
     "publisherId": "UP4196"
   },
   {
+    "titleId": "PPSA05678_00",
+    "conceptId": 10003994,
+    "name": "Life in Willowdale: Farm Adventures",
+    "contentId": "JP4135-PPSA05678_00-2583540280753382",
+    "region": "JP",
+    "publisherId": "JP4135"
+  },
+  {
     "titleId": "PPSA05679_00",
     "conceptId": 10003994,
     "name": "Life in Willowdale: Farm Adventures",
@@ -26635,17 +26643,17 @@
     "titleId": "PPSA07354_00",
     "conceptId": 10004917,
     "name": "Fashion Police Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4256-PPSA07354_00-5464086580600573",
+    "region": "UP",
+    "publisherId": "UP4256"
   },
   {
     "titleId": "PPSA07355_00",
     "conceptId": 10004917,
     "name": "Fashion Police Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3999-PPSA07355_00-8967146572806881",
+    "region": "EP",
+    "publisherId": "EP3999"
   },
   {
     "titleId": "PPSA07358_00",
@@ -28512,6 +28520,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07818_00",
+    "conceptId": 10002224,
+    "name": "Shadow Warrior 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07819_00",
     "conceptId": 10005153,
     "name": "Rhythm Sprout",
@@ -28523,9 +28539,9 @@
     "titleId": "PPSA07820_00",
     "conceptId": 10005153,
     "name": "Rhythm Sprout",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0096-PPSA07820_00-3737584581445516",
+    "region": "EP",
+    "publisherId": "EP0096"
   },
   {
     "titleId": "PPSA07821_00",
@@ -31088,6 +31104,14 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA08423_00",
+    "conceptId": 10003572,
+    "name": "DC's Justice League: Cosmic Chaos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08433_00",
     "conceptId": 10005397,
     "name": "Avenging Spirit",
@@ -32398,6 +32422,22 @@
     "contentId": "EP5335-PPSA08727_00-0570187856713908",
     "region": "EP",
     "publisherId": "EP5335"
+  },
+  {
+    "titleId": "PPSA08731_00",
+    "conceptId": 10001365,
+    "name": "ELEMENTAL WAR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08732_00",
+    "conceptId": 10001365,
+    "name": "Elemental War",
+    "contentId": "JP5718-PPSA08732_00-ELEMENTALWAR0000",
+    "region": "JP",
+    "publisherId": "JP5718"
   },
   {
     "titleId": "PPSA08734_00",
@@ -33726,6 +33766,14 @@
     "contentId": "EP2005-PPSA09001_00-SOFIYAATAC000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA09002_00",
+    "conceptId": 10005641,
+    "name": "Pirated Code: Admin Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09008_00",
@@ -36650,18 +36698,18 @@
   {
     "titleId": "PPSA09731_00",
     "conceptId": 10000453,
-    "name": "Guilty Gear -Strive-",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "GUILTY GEAR -STRIVE- Cross-Platform Open Beta",
+    "contentId": "JP0036-PPSA09731_00-GGSTOBTCRSJP0100",
+    "region": "JP",
+    "publisherId": "JP0036"
   },
   {
     "titleId": "PPSA09732_00",
     "conceptId": 10000453,
-    "name": "Guilty Gear -Strive-",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Guilty Gear -Strive- Cross-Platform Open Beta",
+    "contentId": "UP0036-PPSA09732_00-GGSTOBTCRSUS0100",
+    "region": "UP",
+    "publisherId": "UP0036"
   },
   {
     "titleId": "PPSA09736_00",
@@ -36710,6 +36758,14 @@
     "contentId": "EP0700-PPSA09755_00-GGSTOBTCRSEU0100",
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA09756_00",
+    "conceptId": 10000453,
+    "name": "GUILTY GEAR -STRIVE- Cross-Platform Open Beta",
+    "contentId": "HP5028-PPSA09756_00-GGSTOBTCRSAS0100",
+    "region": "HP",
+    "publisherId": "HP5028"
   },
   {
     "titleId": "PPSA09757_00",
@@ -39834,10 +39890,10 @@
   {
     "titleId": "PPSA10406_00",
     "conceptId": 10006208,
-    "name": "Active DBG: Brave's Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Brave's Rage",
+    "contentId": "UP7788-PPSA10406_00-BRUSSTPS50000000",
+    "region": "UP",
+    "publisherId": "UP7788"
   },
   {
     "titleId": "PPSA10407_00",
@@ -40002,26 +40058,26 @@
   {
     "titleId": "PPSA10473_00",
     "conceptId": 10006208,
-    "name": "Active DBG: Brave's Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Brave's Rage",
+    "contentId": "EP7786-PPSA10473_00-BREUSTPS50000000",
+    "region": "EP",
+    "publisherId": "EP7786"
   },
   {
     "titleId": "PPSA10474_00",
     "conceptId": 10004103,
-    "name": "Mr. Hibbl - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mr. Hibbl",
+    "contentId": "JP6595-PPSA10474_00-2999127103787387",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10475_00",
     "conceptId": 10004103,
-    "name": "Mr. Hibbl - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mr. Hibbl",
+    "contentId": "HP6661-PPSA10475_00-2012412031527972",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10492_00",
@@ -40510,6 +40566,14 @@
     "contentId": "HP6661-PPSA10580_00-1827570303349424",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA10588_00",
+    "conceptId": 10006266,
+    "name": "Pets at Work",
+    "contentId": "EP0896-PPSA10588_00-RATAGAPETSATWORK",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA10599_00",
