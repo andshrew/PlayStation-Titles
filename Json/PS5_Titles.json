@@ -14226,8 +14226,8 @@
   {
     "titleId": "PPSA04519_00",
     "conceptId": 10003378,
-    "name": "Deliver Us Mars PS4 & PS5",
-    "contentId": null,
+    "name": "Deliver Us Mars",
+    "contentId": "EP2377-PPSA04519_00-0339215954685392",
     "region": "EP",
     "publisherId": "EP2377"
   },
@@ -26096,6 +26096,14 @@
     "publisherId": "EP2866"
   },
   {
+    "titleId": "PPSA07227_00",
+    "conceptId": 10004791,
+    "name": "CATAN\u00ae - Console Edition PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3004"
+  },
+  {
     "titleId": "PPSA07239_00",
     "conceptId": 10003848,
     "name": "SPIDERHECK",
@@ -32440,12 +32448,20 @@
     "publisherId": "EP5335"
   },
   {
+    "titleId": "PPSA08730_00",
+    "conceptId": 10001365,
+    "name": "Elemental War",
+    "contentId": "UP5880-PPSA08730_00-ELEMENTALWAR0000",
+    "region": "UP",
+    "publisherId": "UP5880"
+  },
+  {
     "titleId": "PPSA08731_00",
     "conceptId": 10001365,
-    "name": "ELEMENTAL WAR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Elemental War",
+    "contentId": "EP8073-PPSA08731_00-ELEMENTALWAR0000",
+    "region": "EP",
+    "publisherId": "EP8073"
   },
   {
     "titleId": "PPSA08732_00",
@@ -38088,6 +38104,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA10064_00",
+    "conceptId": 10004089,
+    "name": "Jurassic World Aftermath Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10065_00",
     "conceptId": 10004089,
     "name": "Jurassic World Aftermath Collection",
@@ -42731,33 +42755,33 @@
     "titleId": "PPSA11211_00",
     "conceptId": 10006510,
     "name": "Quiz Thiz Spain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA11211_00-5600675997552569",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA11212_00",
     "conceptId": 10006510,
     "name": "Quiz Thiz Spain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA11212_00-3150760918864306",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA11213_00",
     "conceptId": 10006510,
     "name": "Quiz Thiz Spain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA11213_00-8699356967706520",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA11214_00",
     "conceptId": 10006510,
     "name": "Quiz Thiz Spain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA11214_00-4981585209239983",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA11215_00",
