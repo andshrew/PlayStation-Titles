@@ -18024,6 +18024,22 @@
     "publisherId": "UP4249"
   },
   {
+    "titleId": "PPSA05370_00",
+    "conceptId": 10003845,
+    "name": "Dicey Dungeons",
+    "contentId": "EP7425-PPSA05370_00-DICEYDUNGEONS000",
+    "region": "EP",
+    "publisherId": "EP7425"
+  },
+  {
+    "titleId": "PPSA05371_00",
+    "conceptId": 10003845,
+    "name": "Dicey Dungeons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05373_00",
     "conceptId": 10003561,
     "name": "The Angry 4",
@@ -38371,17 +38387,17 @@
     "titleId": "PPSA10126_00",
     "conceptId": 10006136,
     "name": "The Jumping Chicken Wings",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10126_00-1774417524832754",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10127_00",
     "conceptId": 10006136,
     "name": "The Jumping Chicken Wings",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10127_00-2634239169805525",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10128_00",
@@ -43134,6 +43150,22 @@
     "contentId": "EP7666-PPSA11280_00-3167330992963792",
     "region": "EP",
     "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA11281_00",
+    "conceptId": 10006530,
+    "name": "Cario 2",
+    "contentId": "JP7649-PPSA11281_00-1261987338457777",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA11282_00",
+    "conceptId": 10006530,
+    "name": "Cario 2",
+    "contentId": "HP7695-PPSA11282_00-1397595423495003",
+    "region": "HP",
+    "publisherId": "HP7695"
   },
   {
     "titleId": "PPSA11283_00",
