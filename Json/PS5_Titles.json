@@ -18035,9 +18035,9 @@
     "titleId": "PPSA05371_00",
     "conceptId": 10003845,
     "name": "Dicey Dungeons",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7427-PPSA05371_00-DICEYDUNGEONS000",
+    "region": "UP",
+    "publisherId": "UP7427"
   },
   {
     "titleId": "PPSA05373_00",
@@ -24392,6 +24392,22 @@
     "publisherId": "EP4977"
   },
   {
+    "titleId": "PPSA06753_00",
+    "conceptId": 10004451,
+    "name": "No Longer Home",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06754_00",
+    "conceptId": 10004451,
+    "name": "No Longer Home",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06755_00",
     "conceptId": 10004632,
     "name": "Would you like to run an idol caf\u00e9? 2",
@@ -27758,6 +27774,14 @@
     "contentId": "EP8915-PPSA07637_00-JBGPARTYPACK9PS5",
     "region": "EP",
     "publisherId": "EP8915"
+  },
+  {
+    "titleId": "PPSA07641_00",
+    "conceptId": 10001571,
+    "name": "Pistol Whip",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07642_00",
@@ -31798,6 +31822,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0002"
+  },
+  {
+    "titleId": "PPSA08596_00",
+    "conceptId": 10005258,
+    "name": "Scars Above",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08600_00",
@@ -38467,17 +38499,17 @@
     "titleId": "PPSA10130_00",
     "conceptId": 10006137,
     "name": "The Jumping Chicken Wings: TURBO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10130_00-5356559603479960",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10131_00",
     "conceptId": 10006137,
     "name": "The Jumping Chicken Wings: TURBO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10131_00-8779094340537841",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10132_00",
@@ -38574,6 +38606,22 @@
     "contentId": "JP0089-PPSA10143_00-7796427812237228",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA10144_00",
+    "conceptId": 232369,
+    "name": "Vacation Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10146_00",
+    "conceptId": 221911,
+    "name": "Job Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10148_00",
@@ -40184,6 +40232,14 @@
     "publisherId": "JP1561"
   },
   {
+    "titleId": "PPSA10450_00",
+    "conceptId": 10002254,
+    "name": "Song in the Smoke",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10451_00",
     "conceptId": 10004267,
     "name": "No More Heroes 3 \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af&\u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
@@ -41552,6 +41608,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA10814_00",
+    "conceptId": 10004451,
+    "name": "No Longer Home",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10823_00",
     "conceptId": 225261,
     "name": "Nubla 2",
@@ -42211,9 +42275,9 @@
     "titleId": "PPSA10992_00",
     "conceptId": 10006430,
     "name": "The Redress of Mira",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA10992_00-THEREDRESSOFMIRA",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA10993_00",
@@ -43451,6 +43515,22 @@
     "titleId": "PPSA11347_00",
     "conceptId": 10006550,
     "name": "Match Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11406_00",
+    "conceptId": 235392,
+    "name": "Synth Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11407_00",
+    "conceptId": 235392,
+    "name": "Synth Riders",
     "contentId": null,
     "region": null,
     "publisherId": null
