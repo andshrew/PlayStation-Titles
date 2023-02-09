@@ -8888,6 +8888,14 @@
     "publisherId": "EP1661"
   },
   {
+    "titleId": "PPSA03362_00",
+    "conceptId": 10002532,
+    "name": "The Wanderer: Frankenstein\u2019s Creature",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03363_00",
     "conceptId": 10001070,
     "name": "\u9748\u9b42\u99ed\u5ba22",
@@ -8918,6 +8926,14 @@
     "contentId": "HP6244-PPSA03367_00-3080351445863061",
     "region": "HP",
     "publisherId": "HP6244"
+  },
+  {
+    "titleId": "PPSA03369_00",
+    "conceptId": 10002532,
+    "name": "The Wanderer: Frankenstein\u2019s Creature",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA03370_00",
@@ -31832,6 +31848,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08597_00",
+    "conceptId": 10005258,
+    "name": "Scars Above",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08600_00",
     "conceptId": 10005471,
     "name": "Yars: Recharged",
@@ -32592,6 +32616,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA08755_00",
+    "conceptId": 10005308,
+    "name": "Pinball FX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08759_00",
     "conceptId": 10005555,
     "name": "The Jumping Sandwich",
@@ -33262,6 +33294,14 @@
     "contentId": "UP6718-PPSA08892_00-5723567465802348",
     "region": "UP",
     "publisherId": "UP6718"
+  },
+  {
+    "titleId": "PPSA08893_00",
+    "conceptId": 10005184,
+    "name": "Task Force Delta Afghanistan",
+    "contentId": "EP4902-PPSA08893_00-7015295201021153",
+    "region": "EP",
+    "publisherId": "EP4902"
   },
   {
     "titleId": "PPSA08895_00",
@@ -37024,6 +37064,30 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA09792_00",
+    "conceptId": 10005982,
+    "name": "ONI - \u7a7a\u3068\u98a8\u306e\u54c0\u6b4c (PS4 & PS5)",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP5784"
+  },
+  {
+    "titleId": "PPSA09794_00",
+    "conceptId": 10005982,
+    "name": "ONI : Road to be the Mightiest Oni",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09795_00",
+    "conceptId": 10005982,
+    "name": "ONI : Road to be the Mightiest Oni",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09797_00",
     "conceptId": 10005126,
     "name": "OCTOPATH TRAVELER II PS4\uff06PS5",
@@ -37222,6 +37286,22 @@
     "contentId": "HP7729-PPSA09835_00-7974291045388676",
     "region": "HP",
     "publisherId": "HP7729"
+  },
+  {
+    "titleId": "PPSA09847_00",
+    "conceptId": 10006026,
+    "name": "Make the Burger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09848_00",
+    "conceptId": 10006026,
+    "name": "Make the Burger",
+    "contentId": "HP0874-PPSA09848_00-7119983838265385",
+    "region": "HP",
+    "publisherId": "HP0874"
   },
   {
     "titleId": "PPSA09852_00",
@@ -38616,7 +38696,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10145_00",
+    "conceptId": 232369,
+    "name": "Vacation Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10146_00",
+    "conceptId": 221911,
+    "name": "Job Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10147_00",
     "conceptId": 221911,
     "name": "Job Simulator",
     "contentId": null,
@@ -39312,6 +39408,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10276_00",
+    "conceptId": 10006174,
+    "name": "\u96f6 \uff5e\u6708\u8755\u306e\u4eee\u9762\uff5e",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA10277_00",
+    "conceptId": 10006174,
+    "name": "FATAL FRAME: Mask of the Lunar Eclipse",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0106"
+  },
+  {
+    "titleId": "PPSA10278_00",
+    "conceptId": 10006174,
+    "name": "PROJECT ZERO: Mask of the Lunar Eclipse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10280_00",
     "conceptId": 10004465,
     "name": "Crazy Chicken Kart 2",
@@ -39670,6 +39790,14 @@
     "contentId": "UP6664-PPSA10344_00-0233121303798369",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA10346_00",
+    "conceptId": 10006188,
+    "name": "The Jumping Wrap",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10347_00",
@@ -41560,6 +41688,22 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA10804_00",
+    "conceptId": 10005126,
+    "name": "\u30aa\u30af\u30c8\u30d1\u30b9\u30c8\u30e9\u30d9\u30e9\u30fc II Prologue Demo",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA10805_00",
+    "conceptId": 10005126,
+    "name": "OCTOPATH TRAVELER II Prologue Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA10808_00",
     "conceptId": 10006356,
     "name": "Vesper: Zero Light Edition",
@@ -42283,9 +42427,9 @@
     "titleId": "PPSA10993_00",
     "conceptId": 10006430,
     "name": "The Redress of Mira",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA10993_00-THEREDRESSOFMIRA",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA10994_00",
@@ -43507,9 +43651,9 @@
     "titleId": "PPSA11343_00",
     "conceptId": 10006549,
     "name": "Guess the animal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11343_00-9654663299099830",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA11347_00",
