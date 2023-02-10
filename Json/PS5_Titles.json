@@ -4376,6 +4376,14 @@
     "publisherId": "EP0281"
   },
   {
+    "titleId": "PPSA02415_00",
+    "conceptId": 10001977,
+    "name": "Curse of the Sea Rats",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02416_00",
     "conceptId": 235097,
     "name": "SCARLET NEXUS Artbook & Original Soundtrack",
@@ -23648,6 +23656,14 @@
     "publisherId": "UP4008"
   },
   {
+    "titleId": "PPSA06601_00",
+    "conceptId": 10004541,
+    "name": "Seven Doors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06603_00",
     "conceptId": 10004545,
     "name": "Charon's Staircase",
@@ -31891,9 +31907,9 @@
     "titleId": "PPSA08604_00",
     "conceptId": 10003304,
     "name": "DreadOut 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6885-PPSA08604_00-CORRECTPRODUCT00",
+    "region": "HP",
+    "publisherId": "HP6885"
   },
   {
     "titleId": "PPSA08606_00",
@@ -32617,6 +32633,14 @@
   },
   {
     "titleId": "PPSA08755_00",
+    "conceptId": 10005308,
+    "name": "Pinball FX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08758_00",
     "conceptId": 10005308,
     "name": "Pinball FX",
     "contentId": null,
@@ -35992,6 +36016,38 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA09497_00",
+    "conceptId": 10005837,
+    "name": "ALTAIR BREAKER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09498_00",
+    "conceptId": 10005837,
+    "name": "ALTAIR BREAKER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09499_00",
+    "conceptId": 10005837,
+    "name": "ALTAIR BREAKER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09500_00",
+    "conceptId": 10005837,
+    "name": "ALTAIR BREAKER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09501_00",
     "conceptId": 10005843,
     "name": "A Space for the Unbound \u5fc3\u306b\u54b2\u304f\u82b1",
@@ -37074,18 +37130,18 @@
   {
     "titleId": "PPSA09794_00",
     "conceptId": 10005982,
-    "name": "ONI : Road to be the Mightiest Oni",
+    "name": "ONI: Road to be the Mightiest Oni (PS4 & PS5)",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP5946"
   },
   {
     "titleId": "PPSA09795_00",
     "conceptId": 10005982,
-    "name": "ONI : Road to be the Mightiest Oni",
+    "name": "ONI: Road to be the Mightiest Oni (PS4 & PS5)",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8139"
   },
   {
     "titleId": "PPSA09797_00",
@@ -37288,12 +37344,20 @@
     "publisherId": "HP7729"
   },
   {
+    "titleId": "PPSA09846_00",
+    "conceptId": 10006026,
+    "name": "Make the Burger",
+    "contentId": "UP6989-PPSA09846_00-1703163241811927",
+    "region": "UP",
+    "publisherId": "UP6989"
+  },
+  {
     "titleId": "PPSA09847_00",
     "conceptId": 10006026,
     "name": "Make the Burger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA09847_00-3180090662847847",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA09848_00",
@@ -38883,9 +38947,9 @@
     "titleId": "PPSA10168_00",
     "conceptId": 10006140,
     "name": "Go! Go! PogoGirl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA10168_00-GOGOPOGOGIRLRATG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA10169_00",
@@ -39428,8 +39492,16 @@
     "conceptId": 10006174,
     "name": "PROJECT ZERO: Mask of the Lunar Eclipse",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4108"
+  },
+  {
+    "titleId": "PPSA10279_00",
+    "conceptId": 10006174,
+    "name": "FATAL FRAME: Mask of the Lunar Eclipse (PS4 & PS5)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4108"
   },
   {
     "titleId": "PPSA10280_00",
@@ -40912,6 +40984,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10602_00",
+    "conceptId": 10006271,
+    "name": "After the Fall\u00ae - Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10603_00",
     "conceptId": 10006274,
     "name": "Driverio 2",
@@ -41702,6 +41782,22 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA10806_00",
+    "conceptId": 10005126,
+    "name": "OCTOPATH TRAVELER II Prologue Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA10807_00",
+    "conceptId": 10005126,
+    "name": "OCTOPATH TRAVELER II Prologue Demo",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA10808_00",
@@ -42531,17 +42627,17 @@
     "titleId": "PPSA11021_00",
     "conceptId": 10004635,
     "name": "Arcadia Fallen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7626-PPSA11021_00-8217212155029214",
+    "region": "UP",
+    "publisherId": "UP7626"
   },
   {
     "titleId": "PPSA11022_00",
     "conceptId": 10004635,
-    "name": "Arcadia Fallen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30a2\u30eb\u30ab\u30c7\u30a3\u30a2\u30fb\u30d5\u30a9\u30fc\u30eb\u30f3",
+    "contentId": "EP7624-PPSA11022_00-9976168254123580",
+    "region": "EP",
+    "publisherId": "EP7624"
   },
   {
     "titleId": "PPSA11028_00",
