@@ -4376,6 +4376,14 @@
     "publisherId": "EP0281"
   },
   {
+    "titleId": "PPSA02414_00",
+    "conceptId": 10001977,
+    "name": "Curse of the Sea Rats",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02415_00",
     "conceptId": 10001977,
     "name": "Curse of the Sea Rats",
@@ -31576,6 +31584,22 @@
     "publisherId": "EP0403"
   },
   {
+    "titleId": "PPSA08520_00",
+    "conceptId": 10005432,
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08521_00",
+    "conceptId": 10005432,
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08526_00",
     "conceptId": 10005387,
     "name": "Baldur's Gate: Dark Alliance II",
@@ -38955,9 +38979,9 @@
     "titleId": "PPSA10169_00",
     "conceptId": 10006140,
     "name": "Go! Go! PogoGirl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA10169_00-GOGOPOGOGIRLRATG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA10171_00",
@@ -43566,6 +43590,22 @@
     "contentId": "EP7666-PPSA11284_00-1239131455536766",
     "region": "EP",
     "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA11285_00",
+    "conceptId": 10006532,
+    "name": "Rocketio 3",
+    "contentId": "JP7649-PPSA11285_00-4086435950007974",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA11286_00",
+    "conceptId": 10006532,
+    "name": "Rocketio 3",
+    "contentId": "HP7695-PPSA11286_00-8227835305111213",
+    "region": "HP",
+    "publisherId": "HP7695"
   },
   {
     "titleId": "PPSA11287_00",
