@@ -1138,8 +1138,8 @@
   {
     "titleId": "PPSA01593_00",
     "conceptId": 232447,
-    "name": "Hogwarts Legacy PS5 Version",
-    "contentId": null,
+    "name": "Hogwarts Legacy",
+    "contentId": "UP1018-PPSA01593_00-HOGWARTSLEGACY01",
     "region": "UP",
     "publisherId": "UP1018"
   },
@@ -1186,8 +1186,8 @@
   {
     "titleId": "PPSA01603_00",
     "conceptId": 232447,
-    "name": "Hogwarts Legacy PS5 Version",
-    "contentId": null,
+    "name": "Hogwarts Legacy",
+    "contentId": "EP1018-PPSA01603_00-HOGWARTSLEGACY01",
     "region": "EP",
     "publisherId": "EP1018"
   },
@@ -31600,6 +31600,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08522_00",
+    "conceptId": 10005432,
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08523_00",
+    "conceptId": 10005432,
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08526_00",
     "conceptId": 10005387,
     "name": "Baldur's Gate: Dark Alliance II",
@@ -43211,33 +43227,33 @@
     "titleId": "PPSA11215_00",
     "conceptId": 10006511,
     "name": "Quiz Thiz Spain: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA11215_00-6809712677952438",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA11216_00",
     "conceptId": 10006511,
     "name": "Quiz Thiz Spain: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA11216_00-7442384593785714",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA11217_00",
     "conceptId": 10006511,
     "name": "Quiz Thiz Spain: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA11217_00-9949081716498928",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA11218_00",
     "conceptId": 10006511,
     "name": "Quiz Thiz Spain: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA11218_00-1342643796130409",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA11219_00",
@@ -43782,6 +43798,14 @@
     "contentId": "EP7333-PPSA11339_00-0258020158545095",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11342_00",
+    "conceptId": 10006549,
+    "name": "Guess the animal",
+    "contentId": "UP7335-PPSA11342_00-0081518196363141",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA11343_00",
