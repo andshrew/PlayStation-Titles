@@ -13899,9 +13899,9 @@
     "titleId": "PPSA04428_00",
     "conceptId": 10001487,
     "name": "In Sound Mind",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA04428_00-ISM0000000000000",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA04429_00",
@@ -16856,6 +16856,22 @@
     "publisherId": "HP2418"
   },
   {
+    "titleId": "PPSA05096_00",
+    "conceptId": 10003683,
+    "name": "Mato Anomalies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05097_00",
+    "conceptId": 10003683,
+    "name": "Mato Anomalies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05102_00",
     "conceptId": 10003699,
     "name": "This War of Mine: Final Cut",
@@ -19291,9 +19307,9 @@
     "titleId": "PPSA05621_00",
     "conceptId": 10003731,
     "name": "Wanted: Dead",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6256-PPSA05621_00-1156300142873167",
+    "region": "UP",
+    "publisherId": "UP6256"
   },
   {
     "titleId": "PPSA05622_00",
@@ -23610,10 +23626,10 @@
   {
     "titleId": "PPSA06590_00",
     "conceptId": 232958,
-    "name": "Coven and Labyrinth of Galleria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Labyrinth of Galleria: The Moon Society",
+    "contentId": "UP1063-PPSA06590_00-GALLERIAGAME0100",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA06591_00",
@@ -30456,6 +30472,14 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA08255_00",
+    "conceptId": 10005322,
+    "name": "Pavlov",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08256_00",
     "conceptId": 216627,
     "name": "Overwatch 2 Beta",
@@ -31465,6 +31489,14 @@
   },
   {
     "titleId": "PPSA08478_00",
+    "conceptId": 10002212,
+    "name": "Cave Digger 2: Dig Harder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08479_00",
     "conceptId": 10002212,
     "name": "Cave Digger 2: Dig Harder",
     "contentId": null,
@@ -34864,6 +34896,22 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA09192_00",
+    "conceptId": 10005732,
+    "name": "Cities: Skylines Remastered",
+    "contentId": "EP4139-PPSA09192_00-CITIESSKYLINESEU",
+    "region": "EP",
+    "publisherId": "EP4139"
+  },
+  {
+    "titleId": "PPSA09193_00",
+    "conceptId": 10005732,
+    "name": "Cities: Skylines Remastered",
+    "contentId": "UP4139-PPSA09193_00-CITIESSKYLINESNA",
+    "region": "UP",
+    "publisherId": "UP4139"
+  },
+  {
     "titleId": "PPSA09196_00",
     "conceptId": 10005733,
     "name": "Last Days of Lazarus",
@@ -36134,6 +36182,38 @@
     "contentId": "JP0211-PPSA09501_00-6534109074226497",
     "region": "JP",
     "publisherId": "JP0211"
+  },
+  {
+    "titleId": "PPSA09502_00",
+    "conceptId": 10005812,
+    "name": "Backbeat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09503_00",
+    "conceptId": 10005845,
+    "name": "Geometric Sniper - Blood in Paris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09504_00",
+    "conceptId": 10005845,
+    "name": "Geometric Sniper - Blood in Paris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09505_00",
+    "conceptId": 10005845,
+    "name": "Geometric Sniper - Blood in Paris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09506_00",
@@ -38203,17 +38283,17 @@
     "titleId": "PPSA09998_00",
     "conceptId": 10005960,
     "name": "The Jumping Churros: TURBO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA09998_00-4422320775704278",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA09999_00",
     "conceptId": 10005960,
     "name": "The Jumping Churros: TURBO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA09999_00-7882764758520955",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10002_00",
@@ -38346,18 +38426,18 @@
   {
     "titleId": "PPSA10021_00",
     "conceptId": 233179,
-    "name": "Journey To The Savage Planet: Employee Of The Month",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Journey to the Savage Planet",
+    "contentId": "UP4040-PPSA10021_00-JTTSPEMPLOYEEPS5",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA10022_00",
     "conceptId": 233179,
-    "name": "Journey To The Savage Planet: Employee Of The Month",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Journey to the Savage Planet",
+    "contentId": "EP4040-PPSA10022_00-JTTSPEMPLOYEEPS5",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA10041_00",
@@ -41059,9 +41139,9 @@
     "titleId": "PPSA10599_00",
     "conceptId": 10006273,
     "name": "Souls of Chronos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7788-PPSA10599_00-SOCPS5US00000000",
+    "region": "UP",
+    "publisherId": "UP7788"
   },
   {
     "titleId": "PPSA10602_00",
@@ -41456,6 +41536,22 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA10726_00",
+    "conceptId": 10006333,
+    "name": "Lootbox Lyfe+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10727_00",
+    "conceptId": 10006333,
+    "name": "Lootbox Lyfe+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10741_00",
     "conceptId": 10001852,
     "name": "WOW",
@@ -41662,6 +41758,14 @@
     "contentId": "HP6661-PPSA10766_00-5367368682447471",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA10767_00",
+    "conceptId": 10006345,
+    "name": "Garden of the Sea",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10768_00",
@@ -42590,6 +42694,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP1762"
+  },
+  {
+    "titleId": "PPSA10976_00",
+    "conceptId": 10006419,
+    "name": "Boyfriend Dungeon",
+    "contentId": "UP0379-PPSA10976_00-KITFOXBFD0000000",
+    "region": "UP",
+    "publisherId": "UP0379"
   },
   {
     "titleId": "PPSA10992_00",
@@ -43680,6 +43792,22 @@
     "publisherId": "EP7666"
   },
   {
+    "titleId": "PPSA11289_00",
+    "conceptId": 10006533,
+    "name": "Mermaidio 3",
+    "contentId": "JP7649-PPSA11289_00-0215140679802807",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA11290_00",
+    "conceptId": 10006533,
+    "name": "Mermaidio 3",
+    "contentId": "HP7695-PPSA11290_00-4536170469789820",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
     "titleId": "PPSA11291_00",
     "conceptId": 10006534,
     "name": "Cario 3",
@@ -43856,12 +43984,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11346_00",
+    "conceptId": 10006550,
+    "name": "Match Master",
+    "contentId": "UP7335-PPSA11346_00-3247358294588809",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA11347_00",
     "conceptId": 10006550,
     "name": "Match Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11347_00-0351337997275085",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA11406_00",
