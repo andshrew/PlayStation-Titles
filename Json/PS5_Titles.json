@@ -28643,9 +28643,9 @@
     "titleId": "PPSA07817_00",
     "conceptId": 10002224,
     "name": "Shadow Warrior 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3643-PPSA07817_00-SHADOWWARRIOR300",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA07818_00",
@@ -30972,8 +30972,8 @@
     "conceptId": 10003388,
     "name": "Alice Gear Aegis CS Concerto of Simulatrix",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA08364_00",
@@ -32731,9 +32731,9 @@
     "titleId": "PPSA08755_00",
     "conceptId": 10005308,
     "name": "Pinball FX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4042-PPSA08755_00-PINBALLFXPS50000",
+    "region": "UP",
+    "publisherId": "UP4042"
   },
   {
     "titleId": "PPSA08758_00",
@@ -36195,25 +36195,25 @@
     "titleId": "PPSA09503_00",
     "conceptId": 10005845,
     "name": "Geometric Sniper - Blood in Paris",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA09503_00-8600564418727223",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA09504_00",
     "conceptId": 10005845,
     "name": "Geometric Sniper - Blood in Paris",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA09504_00-8600564418727223",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA09505_00",
     "conceptId": 10005845,
     "name": "Geometric Sniper - Blood in Paris",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0874-PPSA09505_00-8600564418727223",
+    "region": "HP",
+    "publisherId": "HP0874"
   },
   {
     "titleId": "PPSA09506_00",
@@ -36904,6 +36904,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09686_00",
+    "conceptId": 10005944,
+    "name": "Bill and Ted's Excellent Retro Collection",
+    "contentId": "EP6890-PPSA09686_00-8855357568951834",
+    "region": "EP",
+    "publisherId": "EP6890"
+  },
+  {
     "titleId": "PPSA09691_00",
     "conceptId": 10005948,
     "name": "Pizza Fun",
@@ -37470,6 +37478,14 @@
     "contentId": "UP8012-PPSA09829_00-JITSUSQUADPS5USX",
     "region": "UP",
     "publisherId": "UP8012"
+  },
+  {
+    "titleId": "PPSA09830_00",
+    "conceptId": 10006019,
+    "name": "Jitsu Squad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09832_00",
