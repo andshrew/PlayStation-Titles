@@ -18843,9 +18843,9 @@
     "titleId": "PPSA05519_00",
     "conceptId": 10003931,
     "name": "Gigantosaurus: Dino Kart",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA05519_00-GIGANTORACER0004",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA05520_00",
@@ -23634,10 +23634,10 @@
   {
     "titleId": "PPSA06591_00",
     "conceptId": 232958,
-    "name": "Coven and Labyrinth of Galleria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Labyrinth of Galleria: The Moon Society",
+    "contentId": "EP1063-PPSA06591_00-GALLERIAGAME0100",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA06592_00",
@@ -28651,9 +28651,9 @@
     "titleId": "PPSA07818_00",
     "conceptId": 10002224,
     "name": "Shadow Warrior 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3643-PPSA07818_00-SHADOWWARRIOR300",
+    "region": "EP",
+    "publisherId": "EP3643"
   },
   {
     "titleId": "PPSA07819_00",
@@ -28738,16 +28738,16 @@
   {
     "titleId": "PPSA07836_00",
     "conceptId": 10005161,
-    "name": "WILD HEARTS\u2122 Standard Edition",
-    "contentId": null,
+    "name": "WILD HEARTS",
+    "contentId": "EP0006-PPSA07836_00-BOHNIGAME0000000",
     "region": "EP",
     "publisherId": "EP0006"
   },
   {
     "titleId": "PPSA07837_00",
     "conceptId": 10005161,
-    "name": "WILD HEARTS\u2122 Standard Edition",
-    "contentId": null,
+    "name": "WILD HEARTS",
+    "contentId": "UP0006-PPSA07837_00-BOHNIGAME0000000",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -30980,8 +30980,8 @@
     "conceptId": 10003388,
     "name": "Alice Gear Aegis CS Concerto of Simulatrix",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA08368_00",
@@ -32739,9 +32739,9 @@
     "titleId": "PPSA08758_00",
     "conceptId": 10005308,
     "name": "Pinball FX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4042-PPSA08758_00-PINBALLFXPS50000",
+    "region": "EP",
+    "publisherId": "EP4042"
   },
   {
     "titleId": "PPSA08759_00",
@@ -36864,6 +36864,22 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA09670_00",
+    "conceptId": 10005187,
+    "name": "Vernal Edge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09675_00",
+    "conceptId": 10005187,
+    "name": "Vernal Edge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09676_00",
     "conceptId": 229162,
     "name": "Moss",
@@ -36902,6 +36918,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA09685_00",
+    "conceptId": 10005944,
+    "name": "Bill and Ted's Excellent Retro Collection",
+    "contentId": "UP6893-PPSA09685_00-5819992141332908",
+    "region": "UP",
+    "publisherId": "UP6893"
   },
   {
     "titleId": "PPSA09686_00",
@@ -38475,6 +38499,22 @@
     "titleId": "PPSA10043_00",
     "conceptId": 203053,
     "name": "NOW",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10049_00",
+    "conceptId": 10006028,
+    "name": "Saga Of Sins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10050_00",
+    "conceptId": 10006028,
+    "name": "Saga Of Sins",
     "contentId": null,
     "region": null,
     "publisherId": null
