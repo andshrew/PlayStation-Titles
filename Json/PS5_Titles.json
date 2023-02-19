@@ -18835,9 +18835,9 @@
     "titleId": "PPSA05518_00",
     "conceptId": 10003931,
     "name": "Gigantosaurus: Dino Kart",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA05518_00-GIGANTORACER0003",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA05519_00",
@@ -34098,18 +34098,18 @@
   {
     "titleId": "PPSA09027_00",
     "conceptId": 10005671,
-    "name": "Rise of Fox Hero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rise Of Fox Hero",
+    "contentId": "EP1245-PPSA09027_00-3827310812325610",
+    "region": "EP",
+    "publisherId": "EP1245"
   },
   {
     "titleId": "PPSA09028_00",
     "conceptId": 10005671,
-    "name": "Rise of Fox Hero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rise Of Fox Hero",
+    "contentId": "UP1249-PPSA09028_00-1531594816756687",
+    "region": "UP",
+    "publisherId": "UP1249"
   },
   {
     "titleId": "PPSA09033_00",
@@ -43467,33 +43467,33 @@
     "titleId": "PPSA11219_00",
     "conceptId": 10006512,
     "name": "Quiz Thiz Spain: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA11219_00-3489745671176882",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA11220_00",
     "conceptId": 10006512,
     "name": "Quiz Thiz Spain: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA11220_00-0962082831913992",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA11221_00",
     "conceptId": 10006512,
     "name": "Quiz Thiz Spain: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA11221_00-9923576131941434",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA11222_00",
     "conceptId": 10006512,
     "name": "Quiz Thiz Spain: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA11222_00-8737687130384519",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA11223_00",
@@ -44052,6 +44052,22 @@
     "conceptId": 10006550,
     "name": "Match Master",
     "contentId": "EP7333-PPSA11347_00-0351337997275085",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11351_00",
+    "conceptId": 10006551,
+    "name": "Loopy Ball",
+    "contentId": "UP7335-PPSA11351_00-5763356243292630",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA11352_00",
+    "conceptId": 10006551,
+    "name": "Loopy Ball",
+    "contentId": "EP7333-PPSA11352_00-0611140945540247",
     "region": "EP",
     "publisherId": "EP7333"
   },
