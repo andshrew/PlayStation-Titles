@@ -10352,6 +10352,22 @@
     "publisherId": "UP1309"
   },
   {
+    "titleId": "PPSA03694_00",
+    "conceptId": 10002882,
+    "name": "LEAP",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA03696_00",
+    "conceptId": 10002882,
+    "name": "LEAP",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03697_00",
     "conceptId": 10002852,
     "name": "UPRISING GAME",
@@ -17650,10 +17666,10 @@
   {
     "titleId": "PPSA05270_00",
     "conceptId": 10003798,
-    "name": "Raiden III \u00d7 MIKADO MANIAX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u96f7\u96fb\u2162 \u00d7MIKADO MANIAX",
+    "contentId": "JP0622-PPSA05270_00-RAIDEN3MIKADOMIX",
+    "region": "JP",
+    "publisherId": "JP0622"
   },
   {
     "titleId": "PPSA05271_00",
@@ -18222,6 +18238,22 @@
     "contentId": "EP0096-PPSA05407_00-9524255431063884",
     "region": "EP",
     "publisherId": "EP0096"
+  },
+  {
+    "titleId": "PPSA05408_00",
+    "conceptId": 10003838,
+    "name": "Deceive Inc. PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0115"
+  },
+  {
+    "titleId": "PPSA05409_00",
+    "conceptId": 10003838,
+    "name": "Deceive Inc. PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0114"
   },
   {
     "titleId": "PPSA05417_00",
@@ -19474,8 +19506,8 @@
   {
     "titleId": "PPSA05666_00",
     "conceptId": 10004029,
-    "name": "Horizon Call of the Mountain\u2122",
-    "contentId": null,
+    "name": "Horizon Call of the Mountain",
+    "contentId": "EP9000-PPSA05666_00-HZVRCALLMOUNTAIN",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -22106,10 +22138,10 @@
   {
     "titleId": "PPSA06234_00",
     "conceptId": 10002154,
-    "name": "NFL PRO ERA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "NFL ProERA '22",
+    "contentId": "UP6514-PPSA06234_00-9783365361338862",
+    "region": "UP",
+    "publisherId": "UP6514"
   },
   {
     "titleId": "PPSA06235_00",
@@ -24216,6 +24248,14 @@
     "publisherId": "UP9000"
   },
   {
+    "titleId": "PPSA06703_00",
+    "conceptId": 10004605,
+    "name": "The Legend of Dragoon",
+    "contentId": "EP9000-PPSA06703_00-SCES030430000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
     "titleId": "PPSA06704_00",
     "conceptId": 10004605,
     "name": "\u30ec\u30b8\u30a7\u30f3\u30c9\u30fb\u30aa\u30d6\u30fb\u30c9\u30e9\u30b0\u30fc\u30f3",
@@ -25027,7 +25067,7 @@
     "titleId": "PPSA06882_00",
     "conceptId": 10004699,
     "name": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
-    "contentId": null,
+    "contentId": "UP1082-PPSA06882_00-CHALUPA000000000",
     "region": "UP",
     "publisherId": "UP1082"
   },
@@ -25035,7 +25075,7 @@
     "titleId": "PPSA06883_00",
     "conceptId": 10004699,
     "name": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
-    "contentId": null,
+    "contentId": "EP1006-PPSA06883_00-CHALUPA000000000",
     "region": "EP",
     "publisherId": "EP1006"
   },
@@ -25251,7 +25291,7 @@
     "titleId": "PPSA06948_00",
     "conceptId": 10004438,
     "name": "Kayak VR: Mirage",
-    "contentId": null,
+    "contentId": "EP7387-PPSA06948_00-KAYAKVRMIRAGE100",
     "region": "EP",
     "publisherId": "EP7387"
   },
@@ -25347,9 +25387,9 @@
     "titleId": "PPSA06987_00",
     "conceptId": 10001020,
     "name": "Swordsman VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4652-PPSA06987_00-THESWORDSMANPSVR",
+    "region": "EP",
+    "publisherId": "EP4652"
   },
   {
     "titleId": "PPSA06988_00",
@@ -26827,17 +26867,17 @@
     "titleId": "PPSA07358_00",
     "conceptId": 211798,
     "name": "Thumper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1613-PPSA07358_00-THUMPERPS5000000",
+    "region": "UP",
+    "publisherId": "UP1613"
   },
   {
     "titleId": "PPSA07359_00",
     "conceptId": 211798,
     "name": "Thumper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1599-PPSA07359_00-THUMPERPS5000000",
+    "region": "EP",
+    "publisherId": "EP1599"
   },
   {
     "titleId": "PPSA07364_00",
@@ -26962,8 +27002,8 @@
   {
     "titleId": "PPSA07390_00",
     "conceptId": 10001709,
-    "name": "Chef Life - Standard Pre-Order",
-    "contentId": null,
+    "name": "Chef Life : A Restaurant Simulator",
+    "contentId": "EP6665-PPSA07390_00-ARB0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -29179,9 +29219,9 @@
     "titleId": "PPSA07923_00",
     "conceptId": 232708,
     "name": "Tetris\u00ae Effect: Connected",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0751-PPSA07923_00-TETRISEFFECT0000",
+    "region": "UP",
+    "publisherId": "UP0751"
   },
   {
     "titleId": "PPSA07924_00",
@@ -29323,7 +29363,7 @@
     "titleId": "PPSA07957_00",
     "conceptId": 10005085,
     "name": "The Light Brigade",
-    "contentId": null,
+    "contentId": "UP0275-PPSA07957_00-4474344745458047",
     "region": "UP",
     "publisherId": "UP0275"
   },
@@ -29331,25 +29371,25 @@
     "titleId": "PPSA07959_00",
     "conceptId": 232708,
     "name": "Tetris\u00ae Effect: Connected",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0748-PPSA07959_00-TETRISEFFECT0000",
+    "region": "EP",
+    "publisherId": "EP0748"
   },
   {
     "titleId": "PPSA07960_00",
     "conceptId": 232708,
     "name": "Tetris\u00ae Effect: Connected",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1049-PPSA07960_00-TETRISEFFECT0000",
+    "region": "JP",
+    "publisherId": "JP1049"
   },
   {
     "titleId": "PPSA07961_00",
     "conceptId": 232708,
     "name": "Tetris\u00ae Effect: Connected",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0797-PPSA07961_00-TETRISEFFECT0000",
+    "region": "HP",
+    "publisherId": "HP0797"
   },
   {
     "titleId": "PPSA07962_00",
@@ -30547,9 +30587,9 @@
     "titleId": "PPSA08255_00",
     "conceptId": 10005322,
     "name": "Pavlov",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7106-PPSA08255_00-8943562685177973",
+    "region": "UP",
+    "publisherId": "UP7106"
   },
   {
     "titleId": "PPSA08256_00",
@@ -30803,7 +30843,7 @@
     "titleId": "PPSA08310_00",
     "conceptId": 10005350,
     "name": "Townsmen VR",
-    "contentId": null,
+    "contentId": "EP4539-PPSA08310_00-4462717252188557",
     "region": "EP",
     "publisherId": "EP4539"
   },
@@ -30811,7 +30851,7 @@
     "titleId": "PPSA08311_00",
     "conceptId": 10005350,
     "name": "Townsmen VR",
-    "contentId": null,
+    "contentId": "UP0977-PPSA08311_00-4462717252188557",
     "region": "UP",
     "publisherId": "UP0977"
   },
@@ -31563,9 +31603,9 @@
     "titleId": "PPSA08478_00",
     "conceptId": 10002212,
     "name": "Cave Digger 2: Dig Harder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5099-PPSA08478_00-ZZZZZZZZZZZZZZZZ",
+    "region": "UP",
+    "publisherId": "UP5099"
   },
   {
     "titleId": "PPSA08479_00",
@@ -31714,18 +31754,18 @@
   {
     "titleId": "PPSA08520_00",
     "conceptId": 10005432,
-    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key (PS4 & PS5)",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4108"
   },
   {
     "titleId": "PPSA08521_00",
     "conceptId": 10005432,
-    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key (PS4 & PS5)",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4108"
   },
   {
     "titleId": "PPSA08522_00",
@@ -31738,10 +31778,10 @@
   {
     "titleId": "PPSA08523_00",
     "conceptId": 10005432,
-    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key Digital Deluxe Edition (PS4 & PS5)",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "HP",
+    "publisherId": "HP0106"
   },
   {
     "titleId": "PPSA08526_00",
@@ -31906,16 +31946,16 @@
   {
     "titleId": "PPSA08555_00",
     "conceptId": 10000371,
-    "name": "Blood Bowl 3 - Standard Edition (Pre-order)",
-    "contentId": null,
+    "name": "Blood Bowl 3",
+    "contentId": "EP6665-PPSA08555_00-BB30000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA08556_00",
     "conceptId": 10000371,
-    "name": "Blood Bowl 3 - Standard Edition (Pre-order)",
-    "contentId": null,
+    "name": "Blood Bowl 3",
+    "contentId": "UP6665-PPSA08556_00-BB30000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -34448,6 +34488,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA09091_00",
+    "conceptId": 10004532,
+    "name": "Fairy Fencer F Refrain Chord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09092_00",
     "conceptId": 10005704,
     "name": "Hot Tentacles Shooter",
@@ -34811,9 +34859,9 @@
     "titleId": "PPSA09162_00",
     "conceptId": 221973,
     "name": "Rez Infinite",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0751-PPSA09162_00-REZINFINITE00PS5",
+    "region": "UP",
+    "publisherId": "UP0751"
   },
   {
     "titleId": "PPSA09163_00",
@@ -34835,9 +34883,9 @@
     "titleId": "PPSA09165_00",
     "conceptId": 221973,
     "name": "Rez Infinite",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0748-PPSA09165_00-REZINFINITE00PS5",
+    "region": "EP",
+    "publisherId": "EP0748"
   },
   {
     "titleId": "PPSA09166_00",
@@ -35371,7 +35419,7 @@
     "titleId": "PPSA09270_00",
     "conceptId": 10005758,
     "name": "Tentacular",
-    "contentId": null,
+    "contentId": "UP3643-PPSA09270_00-TENTACULASIEA000",
     "region": "UP",
     "publisherId": "UP3643"
   },
@@ -35379,7 +35427,7 @@
     "titleId": "PPSA09271_00",
     "conceptId": 10005758,
     "name": "Tentacular",
-    "contentId": null,
+    "contentId": "EP3643-PPSA09271_00-TENTACULASIEE000",
     "region": "EP",
     "publisherId": "EP3643"
   },
@@ -35891,7 +35939,7 @@
     "titleId": "PPSA09408_00",
     "conceptId": 10003293,
     "name": "Zenith: The Last City",
-    "contentId": null,
+    "contentId": "UP5825-PPSA09408_00-5177623505461821",
     "region": "UP",
     "publisherId": "UP5825"
   },
@@ -35899,7 +35947,7 @@
     "titleId": "PPSA09410_00",
     "conceptId": 10003293,
     "name": "Zenith: The Last City",
-    "contentId": null,
+    "contentId": "EP8017-PPSA09410_00-3047017824246059",
     "region": "EP",
     "publisherId": "EP8017"
   },
@@ -36259,25 +36307,25 @@
     "titleId": "PPSA09497_00",
     "conceptId": 10005837,
     "name": "ALTAIR BREAKER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3403-PPSA09497_00-ALTAIRBREAKERJP0",
+    "region": "JP",
+    "publisherId": "JP3403"
   },
   {
     "titleId": "PPSA09498_00",
     "conceptId": 10005837,
     "name": "ALTAIR BREAKER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3363-PPSA09498_00-ALTAIRBREAKERUS0",
+    "region": "UP",
+    "publisherId": "UP3363"
   },
   {
     "titleId": "PPSA09499_00",
     "conceptId": 10005837,
     "name": "ALTAIR BREAKER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3223-PPSA09499_00-ALTAIRBREAKEREU0",
+    "region": "EP",
+    "publisherId": "EP3223"
   },
   {
     "titleId": "PPSA09500_00",
@@ -36386,10 +36434,10 @@
   {
     "titleId": "PPSA09532_00",
     "conceptId": 10002154,
-    "name": "NFL PRO ERA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "NFL ProERA '22",
+    "contentId": "EP6513-PPSA09532_00-0892892733528412",
+    "region": "EP",
+    "publisherId": "EP6513"
   },
   {
     "titleId": "PPSA09538_00",
@@ -36458,8 +36506,8 @@
   {
     "titleId": "PPSA09555_00",
     "conceptId": 10004029,
-    "name": "Horizon Call of the Mountain\u2122",
-    "contentId": null,
+    "name": "Horizon Call of the Mountain",
+    "contentId": "UP9000-PPSA09555_00-HZVRCALLMOUNTAIN",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -36570,10 +36618,10 @@
   {
     "titleId": "PPSA09575_00",
     "conceptId": 10004251,
-    "name": "Startenders: Intergalactic Bartending",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Startenders",
+    "contentId": "EP5816-PPSA09575_00-5948074153462564",
+    "region": "EP",
+    "publisherId": "EP5816"
   },
   {
     "titleId": "PPSA09576_00",
@@ -36667,7 +36715,7 @@
     "titleId": "PPSA09591_00",
     "conceptId": 229162,
     "name": "Moss",
-    "contentId": null,
+    "contentId": "UP1983-PPSA09591_00-8359934314803426",
     "region": "UP",
     "publisherId": "UP1983"
   },
@@ -36702,6 +36750,30 @@
     "contentId": "EP2005-PPSA09597_00-ALBACETEWARRIOR0",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA09598_00",
+    "conceptId": 10005910,
+    "name": "Grim Guardians: Demon Purge",
+    "contentId": "JP1368-PPSA09598_00-GGACPSAPP0000000",
+    "region": "JP",
+    "publisherId": "JP1368"
+  },
+  {
+    "titleId": "PPSA09599_00",
+    "conceptId": 10005910,
+    "name": "Grim Guardians: Demon Purge",
+    "contentId": "UP1104-PPSA09599_00-GGACPSAPP0000000",
+    "region": "UP",
+    "publisherId": "UP1104"
+  },
+  {
+    "titleId": "PPSA09600_00",
+    "conceptId": 10005910,
+    "name": "Grim Guardians: Demon Purge",
+    "contentId": "EP1095-PPSA09600_00-GGACPSAPP0000000",
+    "region": "EP",
+    "publisherId": "EP1095"
   },
   {
     "titleId": "PPSA09605_00",
@@ -37003,7 +37075,7 @@
     "titleId": "PPSA09676_00",
     "conceptId": 229162,
     "name": "Moss",
-    "contentId": null,
+    "contentId": "EP1966-PPSA09676_00-1079064807456837",
     "region": "EP",
     "publisherId": "EP1966"
   },
@@ -37011,7 +37083,7 @@
     "titleId": "PPSA09677_00",
     "conceptId": 10000768,
     "name": "Moss: Book II",
-    "contentId": null,
+    "contentId": "UP1983-PPSA09677_00-1617586937196546",
     "region": "UP",
     "publisherId": "UP1983"
   },
@@ -37019,7 +37091,7 @@
     "titleId": "PPSA09678_00",
     "conceptId": 10000768,
     "name": "Moss: Book II",
-    "contentId": null,
+    "contentId": "EP1966-PPSA09678_00-3810449929245310",
     "region": "EP",
     "publisherId": "EP1966"
   },
@@ -37334,6 +37406,14 @@
     "contentId": "EP7960-PPSA09767_00-6062255526267830",
     "region": "EP",
     "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA09772_00",
+    "conceptId": 10005989,
+    "name": "Creed: Rise to Glory - Championship Edition\u2122 - Preorder Bundle",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2292"
   },
   {
     "titleId": "PPSA09773_00",
@@ -37779,7 +37859,7 @@
     "titleId": "PPSA09863_00",
     "conceptId": 10004600,
     "name": "Cosmonious High",
-    "contentId": null,
+    "contentId": "UP0503-PPSA09863_00-5888097944467765",
     "region": "UP",
     "publisherId": "UP0503"
   },
@@ -38691,9 +38771,9 @@
     "titleId": "PPSA10064_00",
     "conceptId": 10004089,
     "name": "Jurassic World Aftermath Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2680-PPSA10064_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP2680"
   },
   {
     "titleId": "PPSA10065_00",
@@ -38758,6 +38838,30 @@
     "contentId": "HP6395-PPSA10074_00-2468259961351324",
     "region": "HP",
     "publisherId": "HP6395"
+  },
+  {
+    "titleId": "PPSA10078_00",
+    "conceptId": 10001095,
+    "name": "Exoprimal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10079_00",
+    "conceptId": 10001095,
+    "name": "Exoprimal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10080_00",
+    "conceptId": 10001095,
+    "name": "Exoprimal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10081_00",
@@ -39099,9 +39203,9 @@
     "titleId": "PPSA10144_00",
     "conceptId": 232369,
     "name": "Vacation Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0503-PPSA10144_00-5105063509016186",
+    "region": "UP",
+    "publisherId": "UP0503"
   },
   {
     "titleId": "PPSA10145_00",
@@ -39123,9 +39227,9 @@
     "titleId": "PPSA10147_00",
     "conceptId": 221911,
     "name": "Job Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0500-PPSA10147_00-3860245627444048",
+    "region": "EP",
+    "publisherId": "EP0500"
   },
   {
     "titleId": "PPSA10148_00",
@@ -39680,12 +39784,20 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA10231_00",
+    "conceptId": 10004699,
+    "name": "[DEMO] Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1082"
+  },
+  {
     "titleId": "PPSA10232_00",
     "conceptId": 10004699,
-    "name": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
+    "name": "[DEMO] Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP1006"
   },
   {
     "titleId": "PPSA10233_00",
@@ -40206,6 +40318,30 @@
     "contentId": "EP7576-PPSA10338_00-7168463754940357",
     "region": "EP",
     "publisherId": "EP7576"
+  },
+  {
+    "titleId": "PPSA10339_00",
+    "conceptId": 10006135,
+    "name": "Hidden Paws Mystery",
+    "contentId": "UP6989-PPSA10339_00-1212267079432523",
+    "region": "UP",
+    "publisherId": "UP6989"
+  },
+  {
+    "titleId": "PPSA10340_00",
+    "conceptId": 10006135,
+    "name": "Hidden Paws Mystery",
+    "contentId": "EP6985-PPSA10340_00-0563272959293397",
+    "region": "EP",
+    "publisherId": "EP6985"
+  },
+  {
+    "titleId": "PPSA10341_00",
+    "conceptId": 10006135,
+    "name": "Hidden Paws Mystery",
+    "contentId": "HP0874-PPSA10341_00-8400461711316645",
+    "region": "HP",
+    "publisherId": "HP0874"
   },
   {
     "titleId": "PPSA10342_00",
@@ -41347,9 +41483,9 @@
     "titleId": "PPSA10583_00",
     "conceptId": 10006262,
     "name": "Animal Lover",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7103-PPSA10583_00-PPGVNANIMALLOVER",
+    "region": "UP",
+    "publisherId": "UP7103"
   },
   {
     "titleId": "PPSA10584_00",
@@ -41374,6 +41510,14 @@
     "contentId": "UP0891-PPSA10589_00-RATAGAPETSATWORK",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA10596_00",
+    "conceptId": 10003684,
+    "name": "Ragnarock",
+    "contentId": "EP7134-PPSA10596_00-3962020302056399",
+    "region": "EP",
+    "publisherId": "EP7134"
   },
   {
     "titleId": "PPSA10599_00",
@@ -41491,7 +41635,7 @@
     "titleId": "PPSA10634_00",
     "conceptId": 10005676,
     "name": "Demeo",
-    "contentId": null,
+    "contentId": "UP5430-PPSA10634_00-DEMEOXPSVR2XUSXX",
     "region": "UP",
     "publisherId": "UP5430"
   },
@@ -41499,7 +41643,7 @@
     "titleId": "PPSA10635_00",
     "conceptId": 10005676,
     "name": "Demeo",
-    "contentId": null,
+    "contentId": "EP5611-PPSA10635_00-5599651440570759",
     "region": "EP",
     "publisherId": "EP5611"
   },
@@ -41722,8 +41866,8 @@
   {
     "titleId": "PPSA10719_00",
     "conceptId": 10005974,
-    "name": "Cities: VR - Enhanced Edition",
-    "contentId": null,
+    "name": "Cities: VR",
+    "contentId": "UP3046-PPSA10719_00-2346428674794398",
     "region": "UP",
     "publisherId": "UP3046"
   },
@@ -41754,8 +41898,8 @@
   {
     "titleId": "PPSA10723_00",
     "conceptId": 10005974,
-    "name": "Cities: VR - Enhanced Edition",
-    "contentId": null,
+    "name": "Cities: VR",
+    "contentId": "EP2907-PPSA10723_00-4430026599156775",
     "region": "EP",
     "publisherId": "EP2907"
   },
@@ -41779,9 +41923,9 @@
     "titleId": "PPSA10726_00",
     "conceptId": 10006333,
     "name": "Lootbox Lyfe+",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA10726_00-RAGAMLOOTBOXLYFE",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA10727_00",
@@ -42002,10 +42146,10 @@
   {
     "titleId": "PPSA10767_00",
     "conceptId": 10006345,
-    "name": "Garden of the Sea",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gardens of the Sea",
+    "contentId": "EP5210-PPSA10767_00-7616393111400743",
+    "region": "EP",
+    "publisherId": "EP5210"
   },
   {
     "titleId": "PPSA10768_00",
@@ -42523,17 +42667,17 @@
     "titleId": "PPSA10862_00",
     "conceptId": 10006350,
     "name": "WHAT THE BAT?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5758-PPSA10862_00-WHATTHEBAT000001",
+    "region": "EP",
+    "publisherId": "EP5758"
   },
   {
     "titleId": "PPSA10863_00",
     "conceptId": 10006350,
     "name": "WHAT THE BAT?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5577-PPSA10863_00-WHATTHEBAT000001",
+    "region": "UP",
+    "publisherId": "UP5577"
   },
   {
     "titleId": "PPSA10864_00",
@@ -43539,17 +43683,17 @@
     "titleId": "PPSA11199_00",
     "conceptId": 10004843,
     "name": "Kizuna AI - Touch the Beat!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1713-PPSA11199_00-KATTB00000000000",
+    "region": "UP",
+    "publisherId": "UP1713"
   },
   {
     "titleId": "PPSA11200_00",
     "conceptId": 10004843,
     "name": "Kizuna AI - Touch the Beat!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1701-PPSA11200_00-KATTB00000000000",
+    "region": "EP",
+    "publisherId": "EP1701"
   },
   {
     "titleId": "PPSA11203_00",
@@ -44288,20 +44432,36 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11356_00",
+    "conceptId": 10006552,
+    "name": "Zen Pong",
+    "contentId": "UP7335-PPSA11356_00-0787969516519448",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA11358_00",
+    "conceptId": 10006552,
+    "name": "Zen Pong",
+    "contentId": "EP7333-PPSA11358_00-2553048159814890",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
     "titleId": "PPSA11406_00",
     "conceptId": 235392,
     "name": "Synth Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5238-PPSA11406_00-0563726181923383",
+    "region": "UP",
+    "publisherId": "UP5238"
   },
   {
     "titleId": "PPSA11407_00",
     "conceptId": 235392,
     "name": "Synth Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5418-PPSA11407_00-4392634829189437",
+    "region": "EP",
+    "publisherId": "EP5418"
   },
   {
     "titleId": "PPSA11408_00",
@@ -44370,18 +44530,18 @@
   {
     "titleId": "PPSA11502_00",
     "conceptId": 10006605,
-    "name": "Planet Cube: Edge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Planet Cube - Edge",
+    "contentId": "UP7680-PPSA11502_00-7262139651354993",
+    "region": "UP",
+    "publisherId": "UP7680"
   },
   {
     "titleId": "PPSA11503_00",
     "conceptId": 10006605,
-    "name": "Planet Cube: Edge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Planet Cube - Edge",
+    "contentId": "EP7678-PPSA11503_00-8953011462804465",
+    "region": "EP",
+    "publisherId": "EP7678"
   },
   {
     "titleId": "PPSA11538_00",
