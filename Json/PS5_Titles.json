@@ -27235,17 +27235,17 @@
     "titleId": "PPSA07451_00",
     "conceptId": 10004977,
     "name": "Clive 'N' Wrench",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5938-PPSA07451_00-ZZZZZZZZZZZZZZZZ",
+    "region": "EP",
+    "publisherId": "EP5938"
   },
   {
     "titleId": "PPSA07452_00",
     "conceptId": 10004977,
     "name": "Clive 'N' Wrench",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5756-PPSA07452_00-ZZZZZZZZZZZZZZZZ",
+    "region": "UP",
+    "publisherId": "UP5756"
   },
   {
     "titleId": "PPSA07454_00",
@@ -28506,8 +28506,8 @@
   {
     "titleId": "PPSA07763_00",
     "conceptId": 10005126,
-    "name": "OCTOPATH TRAVELER II PS4\uff06PS5",
-    "contentId": null,
+    "name": "\u30aa\u30af\u30c8\u30d1\u30b9\u30c8\u30e9\u30d9\u30e9\u30fc II",
+    "contentId": "JP0082-PPSA07763_00-OCTOPATH2PS5J000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -33040,6 +33040,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA08792_00",
+    "conceptId": 10005559,
+    "name": "Blade Assault",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08801_00",
     "conceptId": 10005567,
     "name": "Moonscars",
@@ -35835,9 +35843,9 @@
     "titleId": "PPSA09369_00",
     "conceptId": 10005794,
     "name": "Sakeworld",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7237-PPSA09369_00-0578541784819803",
+    "region": "UP",
+    "publisherId": "UP7237"
   },
   {
     "titleId": "PPSA09372_00",
@@ -37546,8 +37554,8 @@
   {
     "titleId": "PPSA09797_00",
     "conceptId": 10005126,
-    "name": "OCTOPATH TRAVELER II PS4\uff06PS5",
-    "contentId": null,
+    "name": "OCTOPATH TRAVELER II",
+    "contentId": "UP0082-PPSA09797_00-OCTOPATH2PS5N000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -37618,16 +37626,16 @@
   {
     "titleId": "PPSA09809_00",
     "conceptId": 10005126,
-    "name": "OCTOPATH TRAVELER II PS4\uff06PS5",
-    "contentId": null,
+    "name": "OCTOPATH TRAVELER II",
+    "contentId": "EP0082-PPSA09809_00-OCTOPATH2PS5E000",
     "region": "EP",
     "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA09810_00",
     "conceptId": 10005126,
-    "name": "OCTOPATH TRAVELER II PS4\uff06PS5",
-    "contentId": null,
+    "name": "OCTOPATH TRAVELER II",
+    "contentId": "HP0082-PPSA09810_00-OCTOPATH2PS5A000",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -41931,9 +41939,9 @@
     "titleId": "PPSA10727_00",
     "conceptId": 10006333,
     "name": "Lootbox Lyfe+",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA10727_00-RAGAMLOOTBOXLYFE",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA10741_00",
@@ -42334,6 +42342,30 @@
     "contentId": "EP2005-PPSA10800_00-PGESCAPE00000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA10801_00",
+    "conceptId": 10005455,
+    "name": "Cannon Dancer - Osman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10802_00",
+    "conceptId": 10005455,
+    "name": "Cannon Dancer - Osman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10803_00",
+    "conceptId": 10005455,
+    "name": "Cannon Dancer - Osman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10804_00",
