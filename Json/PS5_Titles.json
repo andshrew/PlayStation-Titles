@@ -16000,6 +16000,14 @@
     "publisherId": "JP0108"
   },
   {
+    "titleId": "PPSA04892_00",
+    "conceptId": 10003612,
+    "name": "Tchia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04894_00",
     "conceptId": 10003435,
     "name": "Very Very Valet",
@@ -26056,6 +26064,22 @@
     "publisherId": "EP6839"
   },
   {
+    "titleId": "PPSA07148_00",
+    "conceptId": 10004825,
+    "name": "The Outer Worlds: Spacer's Choice Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07149_00",
+    "conceptId": 10004825,
+    "name": "The Outer Worlds: Spacer's Choice Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07153_00",
     "conceptId": 231185,
     "name": "Xenon Valkyrie+",
@@ -26298,8 +26322,8 @@
   {
     "titleId": "PPSA07226_00",
     "conceptId": 10004791,
-    "name": "CATAN\u00ae - Console Edition PS4 & PS5",
-    "contentId": null,
+    "name": "Catan: Console Edition",
+    "contentId": "EP2866-PPSA07226_00-CATANBOARDGAMEPS",
     "region": "EP",
     "publisherId": "EP2866"
   },
@@ -27609,6 +27633,14 @@
   },
   {
     "titleId": "PPSA07531_00",
+    "conceptId": 10005025,
+    "name": "Rogue Spirit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07532_00",
     "conceptId": 10005025,
     "name": "Rogue Spirit",
     "contentId": null,
@@ -29542,6 +29574,14 @@
     "contentId": "HP0507-PPSA08000_00-7244803009329808",
     "region": "HP",
     "publisherId": "HP0507"
+  },
+  {
+    "titleId": "PPSA08001_00",
+    "conceptId": 10005231,
+    "name": "Harvest Moon: Back to Nature",
+    "contentId": "UP1023-PPSA08001_00-SLUS011150000000",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA08002_00",
@@ -32091,17 +32131,17 @@
     "titleId": "PPSA08596_00",
     "conceptId": 10005258,
     "name": "Scars Above",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6714-PPSA08596_00-SCARSABOVETITLE0",
+    "region": "UP",
+    "publisherId": "UP6714"
   },
   {
     "titleId": "PPSA08597_00",
     "conceptId": 10005258,
     "name": "Scars Above",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6713-PPSA08597_00-SCARSABOVETITLE0",
+    "region": "EP",
+    "publisherId": "EP6713"
   },
   {
     "titleId": "PPSA08600_00",
@@ -34930,18 +34970,18 @@
   {
     "titleId": "PPSA09167_00",
     "conceptId": 10005594,
-    "name": "Fernbus - Coachbus Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fernbus Simulator",
+    "contentId": "EP2865-PPSA09167_00-FERNBUS000000000",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA09168_00",
     "conceptId": 10005594,
-    "name": "Fernbus - Coachbus Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fernbus Simulator",
+    "contentId": "UP3003-PPSA09168_00-FERNBUS000000000",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA09169_00",
@@ -41774,6 +41814,22 @@
     "contentId": "EP7541-PPSA10680_00-9390024956498460",
     "region": "EP",
     "publisherId": "EP7541"
+  },
+  {
+    "titleId": "PPSA10686_00",
+    "conceptId": 10006311,
+    "name": "Tricky Thief",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10687_00",
+    "conceptId": 10006311,
+    "name": "Tricky Thief",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10695_00",
