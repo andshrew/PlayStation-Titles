@@ -10371,9 +10371,9 @@
     "titleId": "PPSA03694_00",
     "conceptId": 10002882,
     "name": "LEAP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2205-PPSA03694_00-8409456935864872",
+    "region": "UP",
+    "publisherId": "UP2205"
   },
   {
     "titleId": "PPSA03696_00",
@@ -17904,6 +17904,22 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA05321_00",
+    "conceptId": 229250,
+    "name": "Omen of Sorrow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05322_00",
+    "conceptId": 229250,
+    "name": "Omen of Sorrow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05324_00",
     "conceptId": 10003797,
     "name": "Sonic Origins",
@@ -18195,6 +18211,14 @@
     "titleId": "PPSA05392_00",
     "conceptId": 10003601,
     "name": "Cricket 22",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05395_00",
+    "conceptId": 10002549,
+    "name": "Ayre and the Crystal Comet",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -24672,6 +24696,14 @@
     "publisherId": "JP5679"
   },
   {
+    "titleId": "PPSA06776_00",
+    "conceptId": 233251,
+    "name": "Bus Simulator 21",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06791_00",
     "conceptId": 10004655,
     "name": "LocoRoco Midnight Carnival",
@@ -26330,8 +26362,8 @@
   {
     "titleId": "PPSA07227_00",
     "conceptId": 10004791,
-    "name": "CATAN\u00ae - Console Edition PS4 & PS5",
-    "contentId": null,
+    "name": "Catan: Console Edition",
+    "contentId": "UP3004-PPSA07227_00-CATANBOARDGAMEPS",
     "region": "UP",
     "publisherId": "UP3004"
   },
@@ -30448,6 +30480,14 @@
     "publisherId": "EP4829"
   },
   {
+    "titleId": "PPSA08192_00",
+    "conceptId": 235138,
+    "name": "Fight'N Rage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08193_00",
     "conceptId": 10005233,
     "name": "Asterigos: Curse of the Stars",
@@ -34494,6 +34534,22 @@
     "contentId": "JP0013-PPSA09073_00-JP0SNORNIR000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA09076_00",
+    "conceptId": 10005693,
+    "name": "DREDGE",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4064"
+  },
+  {
+    "titleId": "PPSA09077_00",
+    "conceptId": 10005693,
+    "name": "DREDGE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09080_00",
@@ -40480,6 +40536,22 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA10349_00",
+    "conceptId": 10006189,
+    "name": "The Jumping Wrap: TURBO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10350_00",
+    "conceptId": 10006189,
+    "name": "The Jumping Wrap: TURBO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10351_00",
     "conceptId": 10006190,
     "name": "The Jumping Bagel",
@@ -43194,16 +43266,16 @@
   {
     "titleId": "PPSA10974_00",
     "conceptId": 10006418,
-    "name": "BROK the InvestiGator PS4 & PS5",
-    "contentId": null,
+    "name": "BROK the InvestiGator",
+    "contentId": "UP1778-PPSA10974_00-BROKPS5000000000",
     "region": "UP",
     "publisherId": "UP1778"
   },
   {
     "titleId": "PPSA10975_00",
     "conceptId": 10006418,
-    "name": "BROK the InvestiGator PS4 & PS5",
-    "contentId": null,
+    "name": "BROK the InvestiGator",
+    "contentId": "EP1762-PPSA10975_00-BROKPS5000000000",
     "region": "EP",
     "publisherId": "EP1762"
   },
@@ -43347,6 +43419,22 @@
     "titleId": "PPSA11028_00",
     "conceptId": 10003336,
     "name": "Shahid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11033_00",
+    "conceptId": 10006447,
+    "name": "Zapling Bygone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11034_00",
+    "conceptId": 10006447,
+    "name": "Zapling Bygone",
     "contentId": null,
     "region": null,
     "publisherId": null
