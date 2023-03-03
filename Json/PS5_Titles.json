@@ -9432,6 +9432,14 @@
     "publisherId": "UP4726"
   },
   {
+    "titleId": "PPSA03481_00",
+    "conceptId": 10002752,
+    "name": "The Last Worker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03486_00",
     "conceptId": 10001499,
     "name": "Metal: Hellsinger Demo",
@@ -10379,9 +10387,9 @@
     "titleId": "PPSA03696_00",
     "conceptId": 10002882,
     "name": "LEAP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8003-PPSA03696_00-5095158882186770",
+    "region": "EP",
+    "publisherId": "EP8003"
   },
   {
     "titleId": "PPSA03697_00",
@@ -15448,6 +15456,14 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA04775_00",
+    "conceptId": 10001485,
+    "name": "Strike Force 2 - Terrorist Hunt",
+    "contentId": "EP4902-PPSA04775_00-1542292949732671",
+    "region": "EP",
+    "publisherId": "EP4902"
+  },
+  {
     "titleId": "PPSA04781_00",
     "conceptId": 10003447,
     "name": "Asdivine Saga",
@@ -17920,6 +17936,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA05323_00",
+    "conceptId": 229250,
+    "name": "Omen of Sorrow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05324_00",
     "conceptId": 10003797,
     "name": "Sonic Origins",
@@ -18211,6 +18235,14 @@
     "titleId": "PPSA05392_00",
     "conceptId": 10003601,
     "name": "Cricket 22",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05394_00",
+    "conceptId": 10002549,
+    "name": "Ayre and the Crystal Comet",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -22363,17 +22395,17 @@
     "titleId": "PPSA06283_00",
     "conceptId": 235138,
     "name": "Fight'N Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2106-PPSA06283_00-FIGHTNRAGE000000",
+    "region": "UP",
+    "publisherId": "UP2106"
   },
   {
     "titleId": "PPSA06284_00",
     "conceptId": 235138,
     "name": "Fight'N Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0958-PPSA06284_00-FIGHTNRAGE000000",
+    "region": "EP",
+    "publisherId": "EP0958"
   },
   {
     "titleId": "PPSA06288_00",
@@ -26232,6 +26264,14 @@
     "publisherId": "JP6079"
   },
   {
+    "titleId": "PPSA07192_00",
+    "conceptId": 10004847,
+    "name": "Gunman Tales",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07200_00",
     "conceptId": 10004851,
     "name": "Chefy-Chef",
@@ -27246,6 +27286,22 @@
     "contentId": "UP5180-PPSA07431_00-LEGOBRICKTALE5US",
     "region": "UP",
     "publisherId": "UP5180"
+  },
+  {
+    "titleId": "PPSA07433_00",
+    "conceptId": 10004957,
+    "name": "Age of Wonders 4",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4139"
+  },
+  {
+    "titleId": "PPSA07434_00",
+    "conceptId": 10004957,
+    "name": "Age of Wonders 4",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4139"
   },
   {
     "titleId": "PPSA07436_00",
@@ -30483,9 +30539,9 @@
     "titleId": "PPSA08192_00",
     "conceptId": 235138,
     "name": "Fight'N Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA08192_00-FIGHTNRAGE000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA08193_00",
@@ -30630,6 +30686,14 @@
     "contentId": "UP1475-PPSA08243_00-MARSUPS5000000US",
     "region": "UP",
     "publisherId": "UP1475"
+  },
+  {
+    "titleId": "PPSA08244_00",
+    "conceptId": 10003612,
+    "name": "Tchia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08245_00",
@@ -30910,6 +30974,22 @@
     "contentId": "EP2005-PPSA08303_00-FINDINGSOULORB00",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA08304_00",
+    "conceptId": 10005349,
+    "name": "Hyper-5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08305_00",
+    "conceptId": 10005349,
+    "name": "Hyper-5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08306_00",
@@ -33042,8 +33122,8 @@
   {
     "titleId": "PPSA08773_00",
     "conceptId": 10004116,
-    "name": "Wo Long: Fallen Dynasty (PS4 & PS5)",
-    "contentId": null,
+    "name": "Wo Long: Fallen Dynasty",
+    "contentId": "EP4108-PPSA08773_00-WOLONG0000000000",
     "region": "EP",
     "publisherId": "EP4108"
   },
@@ -34548,8 +34628,8 @@
     "conceptId": 10005693,
     "name": "DREDGE",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4064"
   },
   {
     "titleId": "PPSA09080_00",
@@ -39800,6 +39880,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA10204_00",
+    "conceptId": 10006142,
+    "name": "Winning Post 10",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
     "titleId": "PPSA10214_00",
     "conceptId": 10006152,
     "name": "The Burger Quiz",
@@ -42112,6 +42200,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA10729_00",
+    "conceptId": 10005998,
+    "name": "\u7b11\u9854\u306e\u932c\u91d1\u8853\u5e2b",
+    "contentId": "JP0013-PPSA10729_00-JP0SMILEA0000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA10741_00",
     "conceptId": 10001852,
     "name": "WOW",
@@ -42622,6 +42718,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA10821_00",
+    "conceptId": 10005216,
+    "name": "God of Rock",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2080"
+  },
+  {
+    "titleId": "PPSA10822_00",
+    "conceptId": 10005216,
+    "name": "God of Rock",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1877"
   },
   {
     "titleId": "PPSA10823_00",
@@ -43534,6 +43646,14 @@
     "contentId": "HP7695-PPSA11067_00-9615647664005512",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA11071_00",
+    "conceptId": 234402,
+    "name": "Bloodroots",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11085_00",
