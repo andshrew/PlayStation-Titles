@@ -5648,6 +5648,14 @@
     "publisherId": "UP1676"
   },
   {
+    "titleId": "PPSA02672_00",
+    "conceptId": 10001903,
+    "name": "Ruined King: A League of Legends Story\u2122",
+    "contentId": "HP6594-PPSA02672_00-RUINEDKINGLOLAS0",
+    "region": "HP",
+    "publisherId": "HP6594"
+  },
+  {
     "titleId": "PPSA02673_00",
     "conceptId": 10001407,
     "name": "\u771f\u30fb\u4e09\u570b\u7121\u53cc\uff18 Empires \u4f53\u9a13\u7248",
@@ -9064,6 +9072,22 @@
     "publisherId": "EP5733"
   },
   {
+    "titleId": "PPSA03388_00",
+    "conceptId": 10002689,
+    "name": "Atlas Fallen",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4133"
+  },
+  {
+    "titleId": "PPSA03390_00",
+    "conceptId": 10002689,
+    "name": "Atlas Fallen",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4133"
+  },
+  {
     "titleId": "PPSA03393_00",
     "conceptId": 10002591,
     "name": "Aliens: Fireteam Elite (PS5)",
@@ -9433,6 +9457,14 @@
   },
   {
     "titleId": "PPSA03481_00",
+    "conceptId": 10002752,
+    "name": "The Last Worker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA03482_00",
     "conceptId": 10002752,
     "name": "The Last Worker",
     "contentId": null,
@@ -19432,6 +19464,14 @@
     "publisherId": "EP6255"
   },
   {
+    "titleId": "PPSA05623_00",
+    "conceptId": 10003731,
+    "name": "Wanted: Dead",
+    "contentId": "HP6239-PPSA05623_00-3840494173691322",
+    "region": "HP",
+    "publisherId": "HP6239"
+  },
+  {
     "titleId": "PPSA05625_00",
     "conceptId": 10004006,
     "name": "Fobia - St. Dinfna Hotel",
@@ -20170,8 +20210,8 @@
   {
     "titleId": "PPSA05795_00",
     "conceptId": 10004116,
-    "name": "Wo Long: Fallen Dynasty (PS4 & PS5)",
-    "contentId": null,
+    "name": "Wo Long: Fallen Dynasty",
+    "contentId": "JP0106-PPSA05795_00-WOLONG0000000000",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -24619,17 +24659,17 @@
     "titleId": "PPSA06753_00",
     "conceptId": 10004451,
     "name": "No Longer Home",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5661-PPSA06753_00-NOLONGERHOME0001",
+    "region": "EP",
+    "publisherId": "EP5661"
   },
   {
     "titleId": "PPSA06754_00",
     "conceptId": 10004451,
     "name": "No Longer Home",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5480-PPSA06754_00-NOLONGERHOME0001",
+    "region": "UP",
+    "publisherId": "UP5480"
   },
   {
     "titleId": "PPSA06755_00",
@@ -26267,9 +26307,17 @@
     "titleId": "PPSA07192_00",
     "conceptId": 10004847,
     "name": "Gunman Tales",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA07192_00-RATGAGUNMANTALES",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA07193_00",
+    "conceptId": 10004847,
+    "name": "Gunman Tales",
+    "contentId": "UP0891-PPSA07193_00-RATGAGUNMANTALES",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA07200_00",
@@ -32891,7 +32939,7 @@
     "titleId": "PPSA08711_00",
     "conceptId": 10005528,
     "name": "DARQ Ultimate Edition",
-    "contentId": null,
+    "contentId": "UP3528-PPSA08711_00-0611380116610869",
     "region": "UP",
     "publisherId": "UP3528"
   },
@@ -32899,7 +32947,7 @@
     "titleId": "PPSA08712_00",
     "conceptId": 10005528,
     "name": "DARQ Ultimate Edition",
-    "contentId": null,
+    "contentId": "EP3385-PPSA08712_00-3917833492466931",
     "region": "EP",
     "publisherId": "EP3385"
   },
@@ -33114,8 +33162,8 @@
   {
     "titleId": "PPSA08772_00",
     "conceptId": 10004116,
-    "name": "Wo Long: Fallen Dynasty (PS4 & PS5)",
-    "contentId": null,
+    "name": "Wo Long: Fallen Dynasty",
+    "contentId": "UP4108-PPSA08772_00-WOLONG0000000000",
     "region": "UP",
     "publisherId": "UP4108"
   },
@@ -33130,8 +33178,8 @@
   {
     "titleId": "PPSA08774_00",
     "conceptId": 10004116,
-    "name": "Wo Long: Fallen Dynasty (PS4 & PS5)",
-    "contentId": null,
+    "name": "Wo Long: Fallen Dynasty",
+    "contentId": "HP0106-PPSA08774_00-WOLONG0000000000",
     "region": "HP",
     "publisherId": "HP0106"
   },
@@ -41216,6 +41264,14 @@
     "publisherId": "UP0964"
   },
   {
+    "titleId": "PPSA10470_00",
+    "conceptId": 234402,
+    "name": "Bloodroots",
+    "contentId": "UP3949-PPSA10470_00-9656509665050290",
+    "region": "UP",
+    "publisherId": "UP3949"
+  },
+  {
     "titleId": "PPSA10473_00",
     "conceptId": 10006208,
     "name": "Brave's Rage",
@@ -42714,10 +42770,10 @@
   {
     "titleId": "PPSA10814_00",
     "conceptId": 10004451,
-    "name": "No Longer Home",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ce\u30fc\u30ed\u30f3\u30ac\u30fc\u30db\u30fc\u30e0",
+    "contentId": "JP1620-PPSA10814_00-NOLONGERHOME0001",
+    "region": "JP",
+    "publisherId": "JP1620"
   },
   {
     "titleId": "PPSA10821_00",
@@ -43651,9 +43707,9 @@
     "titleId": "PPSA11071_00",
     "conceptId": 234402,
     "name": "Bloodroots",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3803-PPSA11071_00-2983392305363734",
+    "region": "EP",
+    "publisherId": "EP3803"
   },
   {
     "titleId": "PPSA11085_00",
@@ -43747,6 +43803,30 @@
     "titleId": "PPSA11097_00",
     "conceptId": 10006473,
     "name": "Quiz Thiz Austria",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11098_00",
+    "conceptId": 10006474,
+    "name": "Quiz Thiz Austria: Bronze Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11099_00",
+    "conceptId": 10006474,
+    "name": "Quiz Thiz Austria: Bronze Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11101_00",
+    "conceptId": 10006474,
+    "name": "Quiz Thiz Austria: Bronze Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -44814,6 +44894,22 @@
     "contentId": "EP7333-PPSA11358_00-2553048159814890",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11370_00",
+    "conceptId": 10006556,
+    "name": "Learn the letters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11377_00",
+    "conceptId": 10006558,
+    "name": "The Wreck",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11406_00",
