@@ -5648,6 +5648,22 @@
     "publisherId": "UP1676"
   },
   {
+    "titleId": "PPSA02669_00",
+    "conceptId": 10001903,
+    "name": "Ruined King: A League of Legends Story\u2122",
+    "contentId": "UP6597-PPSA02669_00-RUINEDKINGLOLNA0",
+    "region": "UP",
+    "publisherId": "UP6597"
+  },
+  {
+    "titleId": "PPSA02670_00",
+    "conceptId": 10001903,
+    "name": "Ruined King: A League of Legends Story\u2122",
+    "contentId": "EP6596-PPSA02670_00-RUINEDKINGLOLEU0",
+    "region": "EP",
+    "publisherId": "EP6596"
+  },
+  {
     "titleId": "PPSA02672_00",
     "conceptId": 10001903,
     "name": "Ruined King: A League of Legends Story\u2122",
@@ -8931,9 +8947,9 @@
     "titleId": "PPSA03362_00",
     "conceptId": 10002532,
     "name": "The Wanderer: Frankenstein\u2019s Creature",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3686-PPSA03362_00-WANDERERGAMPS5NA",
+    "region": "UP",
+    "publisherId": "UP3686"
   },
   {
     "titleId": "PPSA03363_00",
@@ -8971,9 +8987,9 @@
     "titleId": "PPSA03369_00",
     "conceptId": 10002532,
     "name": "The Wanderer: Frankenstein\u2019s Creature",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3540-PPSA03369_00-WANDERERGAMPS5EU",
+    "region": "EP",
+    "publisherId": "EP3540"
   },
   {
     "titleId": "PPSA03370_00",
@@ -38296,6 +38312,14 @@
     "publisherId": "JP6391"
   },
   {
+    "titleId": "PPSA09910_00",
+    "conceptId": 10005587,
+    "name": "POSTAL 4: No Regerts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09914_00",
     "conceptId": 10005285,
     "name": "The Jumping Burger",
@@ -43779,33 +43803,33 @@
     "titleId": "PPSA11094_00",
     "conceptId": 10006473,
     "name": "Quiz Thiz Austria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA11094_00-4642612823362937",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA11095_00",
     "conceptId": 10006473,
     "name": "Quiz Thiz Austria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA11095_00-0961661493094476",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA11096_00",
     "conceptId": 10006473,
     "name": "Quiz Thiz Austria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA11096_00-9876897317359226",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA11097_00",
     "conceptId": 10006473,
     "name": "Quiz Thiz Austria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA11097_00-5262263120781607",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA11098_00",
