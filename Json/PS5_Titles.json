@@ -1640,6 +1640,14 @@
     "publisherId": "EP2207"
   },
   {
+    "titleId": "PPSA01755_00",
+    "conceptId": 221800,
+    "name": "ESPN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA01756_00",
     "conceptId": 10001026,
     "name": "JETT: \u5f7c\u65b9\u306e\u5cb8",
@@ -17176,6 +17184,22 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA05158_00",
+    "conceptId": 10003741,
+    "name": "The Mageseeker: A League of Legends Story\u2122 PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6597"
+  },
+  {
+    "titleId": "PPSA05159_00",
+    "conceptId": 10003741,
+    "name": "The Mageseeker: A League of Legends Story\u2122 PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6596"
+  },
+  {
     "titleId": "PPSA05160_00",
     "conceptId": 10003741,
     "name": "\u30e1\u30a4\u30b8\u30b7\u30fc\u30ab\u30fc: \u30ea\u30fc\u30b0\u30fb\u30aa\u30d6\u30fb\u30ec\u30b8\u30a7\u30f3\u30c9 \u30b9\u30c8\u30fc\u30ea\u30fc\u2122 PS4 & PS5",
@@ -26203,17 +26227,17 @@
     "titleId": "PPSA07148_00",
     "conceptId": 10004825,
     "name": "The Outer Worlds: Spacer's Choice Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4581-PPSA07148_00-INDIANANG0000000",
+    "region": "UP",
+    "publisherId": "UP4581"
   },
   {
     "titleId": "PPSA07149_00",
     "conceptId": 10004825,
     "name": "The Outer Worlds: Spacer's Choice Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4829-PPSA07149_00-INDIANANG0000000",
+    "region": "EP",
+    "publisherId": "EP4829"
   },
   {
     "titleId": "PPSA07153_00",
@@ -27803,17 +27827,17 @@
     "titleId": "PPSA07531_00",
     "conceptId": 10005025,
     "name": "Rogue Spirit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4040-PPSA07531_00-ROGUESPIRIT00000",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA07532_00",
     "conceptId": 10005025,
     "name": "Rogue Spirit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4040-PPSA07532_00-ROGUESPIRIT00000",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA07536_00",
@@ -31051,17 +31075,17 @@
     "titleId": "PPSA08300_00",
     "conceptId": 10005347,
     "name": "Cions of Vega",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA08300_00-CIONSOFVEGA00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA08301_00",
     "conceptId": 10005347,
     "name": "Cions of Vega",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA08301_00-CIONSOFVEGA00000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA08302_00",
@@ -34184,6 +34208,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08947_00",
+    "conceptId": 10004766,
+    "name": "GrimGrimoire OnceMore",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08952_00",
     "conceptId": 10005288,
     "name": "Fairy Elements",
@@ -36755,9 +36787,9 @@
     "titleId": "PPSA09524_00",
     "conceptId": 10005831,
     "name": "The Last Spell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5358-PPSA09524_00-THELASTSPELLSIEA",
+    "region": "UP",
+    "publisherId": "UP5358"
   },
   {
     "titleId": "PPSA09525_00",
@@ -37858,8 +37890,8 @@
   {
     "titleId": "PPSA09792_00",
     "conceptId": 10005982,
-    "name": "ONI - \u7a7a\u3068\u98a8\u306e\u54c0\u6b4c (PS4 & PS5)",
-    "contentId": null,
+    "name": "ONI - \u7a7a\u3068\u98a8\u306e\u54c0\u6b4c",
+    "contentId": "JP5784-PPSA09792_00-0000000000000001",
     "region": "JP",
     "publisherId": "JP5784"
   },
@@ -40307,7 +40339,7 @@
     "titleId": "PPSA10276_00",
     "conceptId": 10006174,
     "name": "\u96f6 \uff5e\u6708\u8755\u306e\u4eee\u9762\uff5e",
-    "contentId": null,
+    "contentId": "JP0106-PPSA10276_00-APPZEROMOL000000",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -40315,7 +40347,7 @@
     "titleId": "PPSA10277_00",
     "conceptId": 10006174,
     "name": "FATAL FRAME: Mask of the Lunar Eclipse",
-    "contentId": null,
+    "contentId": "HP0106-PPSA10277_00-APPZEROMOL000000",
     "region": "HP",
     "publisherId": "HP0106"
   },
@@ -43683,9 +43715,9 @@
     "titleId": "PPSA11034_00",
     "conceptId": 10006447,
     "name": "Zapling Bygone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA11034_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA11042_00",
@@ -43792,6 +43824,14 @@
     "publisherId": "EP3803"
   },
   {
+    "titleId": "PPSA11076_00",
+    "conceptId": 10004960,
+    "name": "Melon Journey",
+    "contentId": "JP5134-PPSA11076_00-MELONJOURNEY2JPN",
+    "region": "JP",
+    "publisherId": "JP5134"
+  },
+  {
     "titleId": "PPSA11085_00",
     "conceptId": 10006449,
     "name": "The Jumping Muffin",
@@ -43891,25 +43931,33 @@
     "titleId": "PPSA11098_00",
     "conceptId": 10006474,
     "name": "Quiz Thiz Austria: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA11098_00-8456753259955296",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA11099_00",
     "conceptId": 10006474,
     "name": "Quiz Thiz Austria: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA11099_00-2136915888180215",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA11100_00",
+    "conceptId": 10006474,
+    "name": "Quiz Thiz Austria: Bronze Edition",
+    "contentId": "JP6595-PPSA11100_00-5933362158016307",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA11101_00",
     "conceptId": 10006474,
     "name": "Quiz Thiz Austria: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA11101_00-2587732227006125",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA11102_00",
