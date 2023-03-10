@@ -5672,6 +5672,14 @@
     "publisherId": "EP6596"
   },
   {
+    "titleId": "PPSA02671_00",
+    "conceptId": 10001903,
+    "name": "\u30eb\u30a4\u30f3\u30c9\u30ad\u30f3\u30b0\uff1a\u30ea\u30fc\u30b0\u30fb\u30aa\u30d6\u30fb\u30ec\u30b8\u30a7\u30f3\u30c9 \u30b9\u30c8\u30fc\u30ea\u30fc\u2122",
+    "contentId": "JP6525-PPSA02671_00-RUINEDKINGLOLJP0",
+    "region": "JP",
+    "publisherId": "JP6525"
+  },
+  {
     "titleId": "PPSA02672_00",
     "conceptId": 10001903,
     "name": "Ruined King: A League of Legends Story\u2122",
@@ -16850,8 +16858,8 @@
   {
     "titleId": "PPSA05057_00",
     "conceptId": 10003423,
-    "name": "Clash - Standard Edition Pre-order",
-    "contentId": null,
+    "name": "Clash : Artifacts of Chaos",
+    "contentId": "EP6665-PPSA05057_00-CLASH00000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -28008,6 +28016,14 @@
     "publisherId": "UP4064"
   },
   {
+    "titleId": "PPSA07584_00",
+    "conceptId": 10005020,
+    "name": "Road 96: Mile 0",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07588_00",
     "conceptId": 10005043,
     "name": "Pinball Heroes",
@@ -29787,9 +29803,9 @@
     "titleId": "PPSA08006_00",
     "conceptId": 10003925,
     "name": "Gunborg: Dark Matters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA08006_00-GUNBORG000000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA08007_00",
@@ -32362,8 +32378,8 @@
   {
     "titleId": "PPSA08592_00",
     "conceptId": 10005466,
-    "name": "Monster Energy Supercross - The Official Videogame 6 PS4 & PS5",
-    "contentId": null,
+    "name": "Monster Energy Supercross - The Official Videogame 6",
+    "contentId": "EP4356-PPSA08592_00-SUPERCROSS6FGAME",
     "region": "EP",
     "publisherId": "EP4356"
   },
@@ -35050,8 +35066,8 @@
   {
     "titleId": "PPSA09135_00",
     "conceptId": 10005466,
-    "name": "Monster Energy Supercross - The Official Videogame 6 PS4 & PS5",
-    "contentId": null,
+    "name": "Monster Energy Supercross - The Official Videogame 6",
+    "contentId": "UP1981-PPSA09135_00-SUPERCROSS6FGAME",
     "region": "UP",
     "publisherId": "UP1981"
   },
@@ -35130,10 +35146,10 @@
   {
     "titleId": "PPSA09150_00",
     "conceptId": 235159,
-    "name": "The Crown of Wu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Crown Of Wu",
+    "contentId": "UP0814-PPSA09150_00-8488767161305579",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA09153_00",
@@ -36795,9 +36811,9 @@
     "titleId": "PPSA09525_00",
     "conceptId": 10005831,
     "name": "The Last Spell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5539-PPSA09525_00-THELASTSPELLSIEE",
+    "region": "EP",
+    "publisherId": "EP5539"
   },
   {
     "titleId": "PPSA09532_00",
@@ -37898,16 +37914,16 @@
   {
     "titleId": "PPSA09794_00",
     "conceptId": 10005982,
-    "name": "ONI: Road to be the Mightiest Oni (PS4 & PS5)",
-    "contentId": null,
+    "name": "ONI : Road to be the Mightiest Oni",
+    "contentId": "UP5946-PPSA09794_00-ONI0000000000001",
     "region": "UP",
     "publisherId": "UP5946"
   },
   {
     "titleId": "PPSA09795_00",
     "conceptId": 10005982,
-    "name": "ONI: Road to be the Mightiest Oni (PS4 & PS5)",
-    "contentId": null,
+    "name": "ONI : Road to be the Mightiest Oni",
+    "contentId": "EP8139-PPSA09795_00-ONI0000000000001",
     "region": "EP",
     "publisherId": "EP8139"
   },
@@ -38752,6 +38768,22 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA09964_00",
+    "conceptId": 10004400,
+    "name": "Murderous Muses",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09965_00",
+    "conceptId": 10004400,
+    "name": "Murderous Muses",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09967_00",
     "conceptId": 10006075,
     "name": "How to Fool a Liar King Remastered",
@@ -39350,6 +39382,14 @@
     "contentId": "UP0891-PPSA10107_00-BOUNTYHUNTRESSRG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA10109_00",
+    "conceptId": 10006124,
+    "name": "EvilUP",
+    "contentId": "EP0896-PPSA10109_00-EVILUPRATALAIKAG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA10114_00",
@@ -40355,15 +40395,15 @@
     "titleId": "PPSA10278_00",
     "conceptId": 10006174,
     "name": "PROJECT ZERO: Mask of the Lunar Eclipse",
-    "contentId": null,
+    "contentId": "EP4108-PPSA10278_00-APPZEROMOL000000",
     "region": "EP",
     "publisherId": "EP4108"
   },
   {
     "titleId": "PPSA10279_00",
     "conceptId": 10006174,
-    "name": "FATAL FRAME: Mask of the Lunar Eclipse (PS4 & PS5)",
-    "contentId": null,
+    "name": "FATAL FRAME: Mask of the Lunar Eclipse",
+    "contentId": "UP4108-PPSA10279_00-APPZEROMOL000000",
     "region": "UP",
     "publisherId": "UP4108"
   },
@@ -43707,9 +43747,9 @@
     "titleId": "PPSA11033_00",
     "conceptId": 10006447,
     "name": "Zapling Bygone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA11033_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA11034_00",
@@ -43987,6 +44027,38 @@
     "titleId": "PPSA11105_00",
     "conceptId": 10006475,
     "name": "Quiz Thiz Austria: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11106_00",
+    "conceptId": 10006476,
+    "name": "Quiz Thiz Austria: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11107_00",
+    "conceptId": 10006476,
+    "name": "Quiz Thiz Austria: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11109_00",
+    "conceptId": 10006476,
+    "name": "Quiz Thiz Austria: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11110_00",
+    "conceptId": 10006476,
+    "name": "Quiz Thiz Austria: Gold Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
