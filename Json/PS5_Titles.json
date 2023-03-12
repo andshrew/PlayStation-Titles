@@ -1272,6 +1272,22 @@
     "publisherId": "EP1018"
   },
   {
+    "titleId": "PPSA01622_00",
+    "conceptId": 10001095,
+    "name": "Exoprimal",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
+    "titleId": "PPSA01623_00",
+    "conceptId": 10001095,
+    "name": "Exoprimal",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0102"
+  },
+  {
     "titleId": "PPSA01628_00",
     "conceptId": 233407,
     "name": "Call of Duty\u00ae: Black Ops Cold War",
@@ -4396,8 +4412,8 @@
     "conceptId": 10001977,
     "name": "Curse of the Sea Rats",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA02416_00",
@@ -42792,6 +42808,14 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA10786_00",
+    "conceptId": 10003838,
+    "name": "Deceive Inc.",
+    "contentId": "UP0115-PPSA10786_00-3809624835720124",
+    "region": "UP",
+    "publisherId": "UP0115"
+  },
+  {
     "titleId": "PPSA10787_00",
     "conceptId": 10003838,
     "name": "Deceive Inc.",
@@ -43494,6 +43518,30 @@
     "contentId": "HP6661-PPSA10926_00-3744780543002632",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA10928_00",
+    "conceptId": 10006395,
+    "name": "Quiz Thiz Italy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10929_00",
+    "conceptId": 10006395,
+    "name": "Quiz Thiz Italy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10930_00",
+    "conceptId": 10006395,
+    "name": "Quiz Thiz Italy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10949_00",
