@@ -6579,17 +6579,17 @@
     "titleId": "PPSA02842_00",
     "conceptId": 10002214,
     "name": "Tiny Troopers: Global Ops",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4382-PPSA02842_00-TINYTROOPERSMERC",
+    "region": "UP",
+    "publisherId": "UP4382"
   },
   {
     "titleId": "PPSA02843_00",
     "conceptId": 10002214,
     "name": "Tiny Troopers: Global Ops",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4382-PPSA02843_00-TINYTROOPERSMERC",
+    "region": "EP",
+    "publisherId": "EP4382"
   },
   {
     "titleId": "PPSA02845_00",
@@ -27040,6 +27040,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07341_00",
+    "conceptId": 10004912,
+    "name": "Tales of the Neon Sea",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07342_00",
     "conceptId": 10004912,
     "name": "Tales of the Neon Sea",
@@ -40840,6 +40848,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA10345_00",
+    "conceptId": 10006188,
+    "name": "The Jumping Wrap",
+    "contentId": "JP6595-PPSA10345_00-3556437305666011",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
     "titleId": "PPSA10346_00",
     "conceptId": 10006188,
     "name": "The Jumping Wrap",
@@ -43547,33 +43563,33 @@
     "titleId": "PPSA10927_00",
     "conceptId": 10006395,
     "name": "Quiz Thiz Italy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA10927_00-6928695614623084",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA10928_00",
     "conceptId": 10006395,
     "name": "Quiz Thiz Italy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA10928_00-1967277972761327",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA10929_00",
     "conceptId": 10006395,
     "name": "Quiz Thiz Italy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10929_00-4658930134882553",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10930_00",
     "conceptId": 10006395,
     "name": "Quiz Thiz Italy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10930_00-0743119926477302",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10931_00",
