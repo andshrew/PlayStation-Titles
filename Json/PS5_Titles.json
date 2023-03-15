@@ -1288,6 +1288,14 @@
     "publisherId": "EP0102"
   },
   {
+    "titleId": "PPSA01624_00",
+    "conceptId": 10001095,
+    "name": "EXOPRIMAL",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0102"
+  },
+  {
     "titleId": "PPSA01628_00",
     "conceptId": 233407,
     "name": "Call of Duty\u00ae: Black Ops Cold War",
@@ -10382,6 +10390,14 @@
     "contentId": "UP0977-PPSA03677_00-3500064843801358",
     "region": "UP",
     "publisherId": "UP0977"
+  },
+  {
+    "titleId": "PPSA03679_00",
+    "conceptId": 10001984,
+    "name": "De-Exit \u2013 Eternal Matters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA03682_00",
@@ -33424,6 +33440,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08793_00",
+    "conceptId": 10005559,
+    "name": "Blade Assault",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08801_00",
     "conceptId": 10005567,
     "name": "Moonscars",
@@ -35200,6 +35224,22 @@
     "publisherId": "UP0814"
   },
   {
+    "titleId": "PPSA09151_00",
+    "conceptId": 235159,
+    "name": "The Crown of Wu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09152_00",
+    "conceptId": 235159,
+    "name": "The Crown of Wu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09153_00",
     "conceptId": 10005725,
     "name": "Horror Fun",
@@ -35798,6 +35838,14 @@
     "contentId": "UP0891-PPSA09247_00-RATAGAPANDAPUNCH",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA09250_00",
+    "conceptId": 10005753,
+    "name": "Blade of Darkness",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09262_00",
@@ -36808,6 +36856,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09508_00",
+    "conceptId": 10002787,
+    "name": "System of Souls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09509_00",
+    "conceptId": 10002787,
+    "name": "System of Souls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09510_00",
     "conceptId": 10005850,
     "name": "The Inverse",
@@ -37491,9 +37555,9 @@
     "titleId": "PPSA09670_00",
     "conceptId": 10005187,
     "name": "Vernal Edge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA09670_00-VERNALEDGE000000",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA09675_00",
@@ -40859,9 +40923,9 @@
     "titleId": "PPSA10346_00",
     "conceptId": 10006188,
     "name": "The Jumping Wrap",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10346_00-8913690927922344",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10347_00",
@@ -41600,6 +41664,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA10511_00",
+    "conceptId": 234860,
+    "name": "Sky Q",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10512_00",
     "conceptId": 10004167,
     "name": "Jump Challenge!",
@@ -42259,9 +42331,9 @@
     "titleId": "PPSA10686_00",
     "conceptId": 10006311,
     "name": "Tricky Thief",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA10686_00-TRICKYTHIEF00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA10687_00",
@@ -43619,6 +43691,38 @@
     "titleId": "PPSA10934_00",
     "conceptId": 10006396,
     "name": "Quiz Thiz Italy: Bronze Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10935_00",
+    "conceptId": 10006397,
+    "name": "Quiz Thiz Italy: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10936_00",
+    "conceptId": 10006397,
+    "name": "Quiz Thiz Italy: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10937_00",
+    "conceptId": 10006397,
+    "name": "Quiz Thiz Italy: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10938_00",
+    "conceptId": 10006397,
+    "name": "Quiz Thiz Italy: Silver Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -45307,17 +45411,17 @@
     "titleId": "PPSA11377_00",
     "conceptId": 10006558,
     "name": "The Wreck",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7841-PPSA11377_00-5728523460583668",
+    "region": "UP",
+    "publisherId": "UP7841"
   },
   {
     "titleId": "PPSA11382_00",
     "conceptId": 10006558,
     "name": "The Wreck",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7839-PPSA11382_00-8139869505025767",
+    "region": "EP",
+    "publisherId": "EP7839"
   },
   {
     "titleId": "PPSA11406_00",
