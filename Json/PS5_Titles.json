@@ -17778,18 +17778,18 @@
   {
     "titleId": "PPSA05263_00",
     "conceptId": 231761,
-    "name": "Diablo\u00ae IV",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Diablo IV",
+    "contentId": "UP0002-PPSA05263_00-RENEGDBETAPS5000",
+    "region": "UP",
+    "publisherId": "UP0002"
   },
   {
     "titleId": "PPSA05264_00",
     "conceptId": 231761,
-    "name": "Diablo\u00ae IV",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Diablo IV",
+    "contentId": "EP0002-PPSA05264_00-RENEGDBETAPS5000",
+    "region": "EP",
+    "publisherId": "EP0002"
   },
   {
     "titleId": "PPSA05265_00",
@@ -25910,6 +25910,22 @@
     "contentId": "EP1121-PPSA07046_00-XXXXXXXXXXXXXXXX",
     "region": "EP",
     "publisherId": "EP1121"
+  },
+  {
+    "titleId": "PPSA07052_00",
+    "conceptId": 10004780,
+    "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07053_00",
+    "conceptId": 10004780,
+    "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5438"
   },
   {
     "titleId": "PPSA07058_00",
@@ -35843,9 +35859,9 @@
     "titleId": "PPSA09250_00",
     "conceptId": 10005753,
     "name": "Blade of Darkness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7949-PPSA09250_00-0673811771733143",
+    "region": "UP",
+    "publisherId": "UP7949"
   },
   {
     "titleId": "PPSA09262_00",
@@ -37563,9 +37579,9 @@
     "titleId": "PPSA09675_00",
     "conceptId": 10005187,
     "name": "Vernal Edge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA09675_00-VERNALEDGE000000",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA09676_00",
@@ -37795,7 +37811,7 @@
     "titleId": "PPSA09736_00",
     "conceptId": 10004042,
     "name": "The Dark Pictures: Switchback VR",
-    "contentId": null,
+    "contentId": "EP8253-PPSA09736_00-SUPERMASSIVESBVR",
     "region": "EP",
     "publisherId": "EP8253"
   },
@@ -37811,7 +37827,7 @@
     "titleId": "PPSA09738_00",
     "conceptId": 10004042,
     "name": "The Dark Pictures: Switchback VR",
-    "contentId": null,
+    "contentId": "JP5898-PPSA09738_00-SUPERMASSIVESBVR",
     "region": "JP",
     "publisherId": "JP5898"
   },
@@ -37819,7 +37835,7 @@
     "titleId": "PPSA09739_00",
     "conceptId": 10004042,
     "name": "The Dark Pictures: Switchback VR",
-    "contentId": null,
+    "contentId": "HP5960-PPSA09739_00-SUPERMASSIVESBVR",
     "region": "HP",
     "publisherId": "HP5960"
   },
@@ -38211,9 +38227,9 @@
     "titleId": "PPSA09830_00",
     "conceptId": 10006019,
     "name": "Jitsu Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5849-PPSA09830_00-JITSUSQUADPS5JPX",
+    "region": "JP",
+    "publisherId": "JP5849"
   },
   {
     "titleId": "PPSA09832_00",
@@ -39378,10 +39394,10 @@
   {
     "titleId": "PPSA10080_00",
     "conceptId": 10001095,
-    "name": "Exoprimal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EXOPRIMAL Open Beta Test",
+    "contentId": "JP0102-PPSA10080_00-EXOPRIMALTRIALXX",
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA10081_00",
@@ -40947,17 +40963,17 @@
     "titleId": "PPSA10349_00",
     "conceptId": 10006189,
     "name": "The Jumping Wrap: TURBO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10349_00-6179763957867817",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10350_00",
     "conceptId": 10006189,
     "name": "The Jumping Wrap: TURBO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10350_00-6480809659724203",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10351_00",
@@ -42339,9 +42355,9 @@
     "titleId": "PPSA10687_00",
     "conceptId": 10006311,
     "name": "Tricky Thief",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA10687_00-TRICKYTHIEF00000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA10695_00",
@@ -43104,6 +43120,14 @@
     "publisherId": "JP1620"
   },
   {
+    "titleId": "PPSA10819_00",
+    "conceptId": 10005753,
+    "name": "Blade of Darkness",
+    "contentId": "EP7947-PPSA10819_00-1907741267813674",
+    "region": "EP",
+    "publisherId": "EP7947"
+  },
+  {
     "titleId": "PPSA10821_00",
     "conceptId": 10005216,
     "name": "God of Rock",
@@ -43667,33 +43691,33 @@
     "titleId": "PPSA10931_00",
     "conceptId": 10006396,
     "name": "Quiz Thiz Italy: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA10931_00-3844295407423850",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA10932_00",
     "conceptId": 10006396,
     "name": "Quiz Thiz Italy: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA10932_00-6188918877253771",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA10933_00",
     "conceptId": 10006396,
     "name": "Quiz Thiz Italy: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10933_00-7870103798004284",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10934_00",
     "conceptId": 10006396,
     "name": "Quiz Thiz Italy: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10934_00-8644277801505031",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10935_00",
