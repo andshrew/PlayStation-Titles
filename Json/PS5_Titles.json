@@ -4412,8 +4412,8 @@
     "conceptId": 10001977,
     "name": "Curse of the Sea Rats",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA02415_00",
@@ -15258,8 +15258,8 @@
   {
     "titleId": "PPSA04716_00",
     "conceptId": 10003143,
-    "name": "Anno 1800\u2122 Console Edition - Standard",
-    "contentId": null,
+    "name": "Anno 1800 Console Edition",
+    "contentId": "UP0001-PPSA04716_00-ANNO1800PS000000",
     "region": "UP",
     "publisherId": "UP0001"
   },
@@ -15282,8 +15282,8 @@
   {
     "titleId": "PPSA04719_00",
     "conceptId": 10003143,
-    "name": "Anno 1800\u2122 Console Edition - Standard",
-    "contentId": null,
+    "name": "Anno 1800 Console Edition",
+    "contentId": "EP0001-PPSA04719_00-ANNO1800PS000000",
     "region": "EP",
     "publisherId": "EP0001"
   },
@@ -25912,12 +25912,20 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA07051_00",
+    "conceptId": 10004780,
+    "name": "\u30b3\u30fc\u30d2\u30fc\u30c8\u30fc\u30af \u30a8\u30d4\u30bd\u30fc\u30c9 2\uff1a \u30cf\u30a4\u30d3\u30b9\u30ab\u30b9 & \u30d0\u30bf\u30d5\u30e9\u30a4",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0211"
+  },
+  {
     "titleId": "PPSA07052_00",
     "conceptId": 10004780,
     "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP5258"
   },
   {
     "titleId": "PPSA07053_00",
@@ -31490,8 +31498,8 @@
   {
     "titleId": "PPSA08363_00",
     "conceptId": 10003388,
-    "name": "Alice Gear Aegis CS Concerto of Simulatrix",
-    "contentId": null,
+    "name": "Alice Gear Aegis CS",
+    "contentId": "EP4293-PPSA08363_00-AGEAPS5SIEE00000",
     "region": "EP",
     "publisherId": "EP4293"
   },
@@ -33483,9 +33491,9 @@
     "titleId": "PPSA08806_00",
     "conceptId": 10003208,
     "name": "Dawn of the Monsters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA08806_00-DOTM0000PS5000JP",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA08808_00",
@@ -36827,9 +36835,9 @@
     "titleId": "PPSA09502_00",
     "conceptId": 10005812,
     "name": "Backbeat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6045-PPSA09502_00-9536459698657340",
+    "region": "EP",
+    "publisherId": "EP6045"
   },
   {
     "titleId": "PPSA09503_00",
@@ -37760,6 +37768,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA09720_00",
+    "conceptId": 10005963,
+    "name": "McPixel 3",
+    "contentId": "EP3643-PPSA09720_00-00000000MCPIXEL3",
+    "region": "EP",
+    "publisherId": "EP3643"
+  },
+  {
     "titleId": "PPSA09722_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
@@ -37819,7 +37835,7 @@
     "titleId": "PPSA09737_00",
     "conceptId": 10004042,
     "name": "The Dark Pictures: Switchback VR",
-    "contentId": null,
+    "contentId": "UP8061-PPSA09737_00-SUPERMASSIVESBVR",
     "region": "UP",
     "publisherId": "UP8061"
   },
@@ -39378,18 +39394,18 @@
   {
     "titleId": "PPSA10078_00",
     "conceptId": 10001095,
-    "name": "Exoprimal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Exoprimal Open Beta Test",
+    "contentId": "UP0102-PPSA10078_00-EXOPRIMALTRIALXX",
+    "region": "UP",
+    "publisherId": "UP0102"
   },
   {
     "titleId": "PPSA10079_00",
     "conceptId": 10001095,
-    "name": "Exoprimal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Exoprimal Open Beta Test",
+    "contentId": "EP0102-PPSA10079_00-EXOPRIMALTRIALXX",
+    "region": "EP",
+    "publisherId": "EP0102"
   },
   {
     "titleId": "PPSA10080_00",
@@ -42224,6 +42240,22 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA10628_00",
+    "conceptId": 10005000,
+    "name": "Chenso Club",
+    "contentId": "EP4395-PPSA10628_00-000000CHENSOCLUB",
+    "region": "EP",
+    "publisherId": "EP4395"
+  },
+  {
+    "titleId": "PPSA10629_00",
+    "conceptId": 10005000,
+    "name": "Chenso Club",
+    "contentId": "UP4395-PPSA10629_00-000000CHENSOCLUB",
+    "region": "UP",
+    "publisherId": "UP4395"
+  },
+  {
     "titleId": "PPSA10630_00",
     "conceptId": 230975,
     "name": "Nubla",
@@ -42395,9 +42427,9 @@
     "titleId": "PPSA10701_00",
     "conceptId": 10006324,
     "name": "The Guise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA10701_00-RATAGAMETHEGUISE",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA10702_00",
@@ -43747,6 +43779,38 @@
     "titleId": "PPSA10938_00",
     "conceptId": 10006397,
     "name": "Quiz Thiz Italy: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10939_00",
+    "conceptId": 10006398,
+    "name": "Quiz Thiz Italy: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10940_00",
+    "conceptId": 10006398,
+    "name": "Quiz Thiz Italy: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10941_00",
+    "conceptId": 10006398,
+    "name": "Quiz Thiz Italy: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10942_00",
+    "conceptId": 10006398,
+    "name": "Quiz Thiz Italy: Gold Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -45342,6 +45406,14 @@
     "contentId": "EP7333-PPSA11335_00-4941283378136976",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11336_00",
+    "conceptId": 10006546,
+    "name": "Find the Bug",
+    "contentId": "JP7309-PPSA11336_00-7229628758510509",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA11338_00",
