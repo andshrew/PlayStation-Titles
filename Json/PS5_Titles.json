@@ -10400,6 +10400,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA03680_00",
+    "conceptId": 10001984,
+    "name": "De-Exit \u2013 Eternal Matters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03682_00",
     "conceptId": 10001291,
     "name": "Ghostrunner",
@@ -10878,6 +10886,14 @@
     "contentId": "UP4127-PPSA03769_00-SMELTERPS5US0000",
     "region": "UP",
     "publisherId": "UP4127"
+  },
+  {
+    "titleId": "PPSA03771_00",
+    "conceptId": 233011,
+    "name": "HUMANITY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA03772_00",
@@ -15290,8 +15306,8 @@
   {
     "titleId": "PPSA04720_00",
     "conceptId": 10003143,
-    "name": "\u30a2\u30ce1800 \u30b3\u30f3\u30bd\u30fc\u30eb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3 - \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9",
-    "contentId": null,
+    "name": "\u300e\u30a2\u30ce1800\u300f\u30b3\u30f3\u30bd\u30fc\u30eb\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
+    "contentId": "JP0001-PPSA04720_00-ANNO1800PS000000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -30258,16 +30274,16 @@
   {
     "titleId": "PPSA08105_00",
     "conceptId": 10005267,
-    "name": "WWE 2K23 Cross-Gen Digital Edition",
-    "contentId": null,
+    "name": "WWE 2K23",
+    "contentId": "UP1001-PPSA08105_00-000000000WWE2K23",
     "region": "UP",
     "publisherId": "UP1001"
   },
   {
     "titleId": "PPSA08106_00",
     "conceptId": 10005267,
-    "name": "WWE 2K23 Cross-Gen Digital Edition",
-    "contentId": null,
+    "name": "WWE 2K23",
+    "contentId": "EP1001-PPSA08106_00-000000000WWE2K23",
     "region": "EP",
     "publisherId": "EP1001"
   },
@@ -31506,8 +31522,8 @@
   {
     "titleId": "PPSA08364_00",
     "conceptId": 10003388,
-    "name": "Alice Gear Aegis CS Concerto of Simulatrix",
-    "contentId": null,
+    "name": "Alice Gear Aegis CS",
+    "contentId": "UP4293-PPSA08364_00-AGEAPS5SIEA00000",
     "region": "UP",
     "publisherId": "UP4293"
   },
@@ -35232,6 +35248,22 @@
     "publisherId": "EP8925"
   },
   {
+    "titleId": "PPSA09144_00",
+    "conceptId": 10005720,
+    "name": "Overloop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09145_00",
+    "conceptId": 10005720,
+    "name": "Overloop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09149_00",
     "conceptId": 235159,
     "name": "The Crown of Wu",
@@ -37768,6 +37800,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA09719_00",
+    "conceptId": 10005963,
+    "name": "McPixel 3",
+    "contentId": "UP3643-PPSA09719_00-00000000MCPIXEL3",
+    "region": "UP",
+    "publisherId": "UP3643"
+  },
+  {
     "titleId": "PPSA09720_00",
     "conceptId": 10005963,
     "name": "McPixel 3",
@@ -38115,17 +38155,17 @@
     "titleId": "PPSA09805_00",
     "conceptId": 10006011,
     "name": "Peppa Pig: World Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA09805_00-3722619096106125",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA09806_00",
     "conceptId": 10006011,
     "name": "Peppa Pig: World Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA09806_00-8846382077819002",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA09807_00",
@@ -42435,9 +42475,9 @@
     "titleId": "PPSA10702_00",
     "conceptId": 10006324,
     "name": "The Guise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA10702_00-RATAGAMETHEGUISE",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA10704_00",
@@ -43755,33 +43795,33 @@
     "titleId": "PPSA10935_00",
     "conceptId": 10006397,
     "name": "Quiz Thiz Italy: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA10935_00-5624945567060782",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA10936_00",
     "conceptId": 10006397,
     "name": "Quiz Thiz Italy: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA10936_00-3362917332995510",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA10937_00",
     "conceptId": 10006397,
     "name": "Quiz Thiz Italy: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10937_00-6681986103061512",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10938_00",
     "conceptId": 10006397,
     "name": "Quiz Thiz Italy: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10938_00-2535948916762314",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10939_00",
@@ -45414,6 +45454,14 @@
     "contentId": "JP7309-PPSA11336_00-7229628758510509",
     "region": "JP",
     "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11337_00",
+    "conceptId": 10006546,
+    "name": "Find the Bug",
+    "contentId": "HP7354-PPSA11337_00-5318144228793737",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11338_00",
