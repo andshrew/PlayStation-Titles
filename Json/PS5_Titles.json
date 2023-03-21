@@ -10992,6 +10992,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA03790_00",
+    "conceptId": 233011,
+    "name": "HUMANITY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03791_00",
     "conceptId": 10002946,
     "name": "Sushi Break",
@@ -36096,6 +36104,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09297_00",
+    "conceptId": 10002651,
+    "name": "Disney Speedstorm - Standard Founder\u2019s Pack",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2006"
+  },
+  {
+    "titleId": "PPSA09298_00",
+    "conceptId": 10002651,
+    "name": "Disney Speedstorm - Standard Founder\u2019s Pack",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2006"
+  },
+  {
     "titleId": "PPSA09305_00",
     "conceptId": 10005773,
     "name": "Innocence Island",
@@ -41675,33 +41699,33 @@
     "titleId": "PPSA10476_00",
     "conceptId": 10006231,
     "name": "Quiz Thiz Germany",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA10476_00-9694433487357176",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA10477_00",
     "conceptId": 10006231,
     "name": "Quiz Thiz Germany",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA10477_00-3472299768219651",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA10478_00",
     "conceptId": 10006231,
     "name": "Quiz Thiz Germany",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10478_00-5311764240656607",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10479_00",
     "conceptId": 10006231,
     "name": "Quiz Thiz Germany",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10479_00-6196571062602803",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10480_00",
@@ -41713,6 +41737,14 @@
   },
   {
     "titleId": "PPSA10481_00",
+    "conceptId": 10006232,
+    "name": "Quiz Thiz Germany: Bronze Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10482_00",
     "conceptId": 10006232,
     "name": "Quiz Thiz Germany: Bronze Edition",
     "contentId": null,
