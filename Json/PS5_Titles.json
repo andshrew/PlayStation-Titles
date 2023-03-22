@@ -18490,8 +18490,8 @@
   {
     "titleId": "PPSA05408_00",
     "conceptId": 10003838,
-    "name": "Deceive Inc. PS5",
-    "contentId": null,
+    "name": "Deceive Inc.",
+    "contentId": "UP0115-PPSA05408_00-7962076650946286",
     "region": "UP",
     "publisherId": "UP0115"
   },
@@ -24288,6 +24288,14 @@
     "publisherId": "EP3470"
   },
   {
+    "titleId": "PPSA06660_00",
+    "conceptId": 10003516,
+    "name": "Crash Team Rumble\u2122 - Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0002"
+  },
+  {
     "titleId": "PPSA06662_00",
     "conceptId": 10003581,
     "name": "Smoots Golf",
@@ -24910,6 +24918,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA06785_00",
+    "conceptId": 10004652,
+    "name": "Syphon Filter: Dark Mirror",
+    "contentId": "UP9000-PPSA06785_00-UCUS986410000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06786_00",
+    "conceptId": 10004652,
+    "name": "Syphon Filter: Dark Mirror",
+    "contentId": "EP9000-PPSA06786_00-UCES003100000000",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA06791_00",
@@ -28632,6 +28656,30 @@
     "publisherId": "EP0700"
   },
   {
+    "titleId": "PPSA07697_00",
+    "conceptId": 10005099,
+    "name": "\uff32\uff14\u3000\u30ea\u30c3\u30b8\u30fb\u30ec\u30fc\u30b5\u30fc\u30fb\u30bf\u30a4\u30d7\uff14",
+    "contentId": "JP0700-PPSA07697_00-SLPS018000000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA07698_00",
+    "conceptId": 10005099,
+    "name": "R4: Ridge Racer Type 4",
+    "contentId": "HP0700-PPSA07698_00-SLUS007970000000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA07700_00",
+    "conceptId": 10005099,
+    "name": "R4: Ridge Racer Type 4",
+    "contentId": "EP0700-PPSA07700_00-SCES017060000000",
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA07701_00",
     "conceptId": 10005100,
     "name": "\u9244\u62f3\uff12",
@@ -30971,9 +31019,9 @@
     "titleId": "PPSA08244_00",
     "conceptId": 10003612,
     "name": "Tchia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2848-PPSA08244_00-TCHIA000000PS5US",
+    "region": "UP",
+    "publisherId": "UP2848"
   },
   {
     "titleId": "PPSA08245_00",
@@ -38643,9 +38691,9 @@
     "titleId": "PPSA09910_00",
     "conceptId": 10005587,
     "name": "POSTAL 4: No Regerts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7876-PPSA09910_00-POSTAL4NOREGERTS",
+    "region": "UP",
+    "publisherId": "UP7876"
   },
   {
     "titleId": "PPSA09914_00",
@@ -41760,6 +41808,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10484_00",
+    "conceptId": 10006233,
+    "name": "Quiz Thiz Germany: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10485_00",
+    "conceptId": 10006233,
+    "name": "Quiz Thiz Germany: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10486_00",
+    "conceptId": 10006233,
+    "name": "Quiz Thiz Germany: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10487_00",
+    "conceptId": 10006233,
+    "name": "Quiz Thiz Germany: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10492_00",
     "conceptId": 10006235,
     "name": "Quiz Thiz USA",
@@ -44648,6 +44728,38 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA11132_00",
+    "conceptId": 10006482,
+    "name": "Ape Academy 2",
+    "contentId": "EP9000-PPSA11132_00-UCES003020000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA11133_00",
+    "conceptId": 10006482,
+    "name": "\u30d4\u30dd\u30b5\u30eb\u30a2\u30ab\u30c7\u30df~\u30a22 -\u3042\u3044\u3042\u3044\u30b5\u30eb\u30b2~\u30b8\u30e3\u30f3\u30b1\u30f3\u30d0\u30c8\u30eb!-",
+    "contentId": "JP9000-PPSA11133_00-UCJS100200000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA11135_00",
+    "conceptId": 10006482,
+    "name": "Ape Academy 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11136_00",
+    "conceptId": 10006482,
+    "name": "Ape Academy 2",
+    "contentId": "HP9000-PPSA11136_00-UCAS400520000000",
+    "region": "HP",
+    "publisherId": "HP9000"
+  },
+  {
     "titleId": "PPSA11147_00",
     "conceptId": 10005479,
     "name": "Shark Pinball",
@@ -44734,6 +44846,14 @@
     "contentId": "HP8005-PPSA11162_00-3722220192025813",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA11163_00",
+    "conceptId": 10006482,
+    "name": "Ape Academy 2",
+    "contentId": "UP9000-PPSA11163_00-UCES003020000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA11175_00",
