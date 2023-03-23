@@ -16155,9 +16155,9 @@
     "titleId": "PPSA04892_00",
     "conceptId": 10003612,
     "name": "Tchia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2711-PPSA04892_00-TCHIA000000PS5EU",
+    "region": "EP",
+    "publisherId": "EP2711"
   },
   {
     "titleId": "PPSA04894_00",
@@ -18107,9 +18107,9 @@
     "titleId": "PPSA05323_00",
     "conceptId": 229250,
     "name": "Omen of Sorrow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA05323_00-OMENOFSORROW0000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA05324_00",
@@ -18498,8 +18498,8 @@
   {
     "titleId": "PPSA05409_00",
     "conceptId": 10003838,
-    "name": "Deceive Inc. PS5",
-    "contentId": null,
+    "name": "Deceive Inc.",
+    "contentId": "EP0114-PPSA05409_00-3053413536790601",
     "region": "EP",
     "publisherId": "EP0114"
   },
@@ -24288,6 +24288,14 @@
     "publisherId": "EP3470"
   },
   {
+    "titleId": "PPSA06659_00",
+    "conceptId": 10003516,
+    "name": "Crash Team Rumble\u2122 - Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0002"
+  },
+  {
     "titleId": "PPSA06660_00",
     "conceptId": 10003516,
     "name": "Crash Team Rumble\u2122 - Standard Edition",
@@ -28595,7 +28603,7 @@
     "titleId": "PPSA07680_00",
     "conceptId": 10005089,
     "name": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution",
-    "contentId": null,
+    "contentId": "UP2533-PPSA07680_00-TWDSSRETRIBUTION",
     "region": "UP",
     "publisherId": "UP2533"
   },
@@ -28603,7 +28611,7 @@
     "titleId": "PPSA07681_00",
     "conceptId": 10005089,
     "name": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution",
-    "contentId": null,
+    "contentId": "EP2397-PPSA07681_00-TWDSSRETRIBUTION",
     "region": "EP",
     "publisherId": "EP2397"
   },
@@ -28670,6 +28678,14 @@
     "contentId": "HP0700-PPSA07698_00-SLUS007970000000",
     "region": "HP",
     "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA07699_00",
+    "conceptId": 10005099,
+    "name": "R4: Ridge Racer Type 4",
+    "contentId": "UP0700-PPSA07699_00-SLUS007970000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA07700_00",
@@ -41779,33 +41795,33 @@
     "titleId": "PPSA10480_00",
     "conceptId": 10006232,
     "name": "Quiz Thiz Germany: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA10480_00-0250054438476159",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA10481_00",
     "conceptId": 10006232,
     "name": "Quiz Thiz Germany: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA10481_00-7332326361957200",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA10482_00",
     "conceptId": 10006232,
     "name": "Quiz Thiz Germany: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10482_00-3551777364765072",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10483_00",
     "conceptId": 10006232,
     "name": "Quiz Thiz Germany: Bronze Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10483_00-5130662933977954",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10484_00",
@@ -45776,12 +45792,36 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11369_00",
+    "conceptId": 10006556,
+    "name": "Learn the letters",
+    "contentId": "UP7335-PPSA11369_00-7276173910329566",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA11370_00",
     "conceptId": 10006556,
     "name": "Learn the letters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11370_00-0693397269725346",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11371_00",
+    "conceptId": 10006556,
+    "name": "Learn the letters",
+    "contentId": "JP7309-PPSA11371_00-1317346903233511",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11373_00",
+    "conceptId": 10006556,
+    "name": "Learn the letters",
+    "contentId": "HP7354-PPSA11373_00-4273174422116823",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11377_00",
