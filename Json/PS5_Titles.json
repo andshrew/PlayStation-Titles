@@ -7720,6 +7720,14 @@
     "publisherId": "UP2047"
   },
   {
+    "titleId": "PPSA03099_00",
+    "conceptId": 201061,
+    "name": "Dead Island 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03106_00",
     "conceptId": 10000908,
     "name": "Loremlpsum32",
@@ -12238,6 +12246,14 @@
     "contentId": "HP3040-PPSA04040_00-3338971447486540",
     "region": "HP",
     "publisherId": "HP3040"
+  },
+  {
+    "titleId": "PPSA04048_00",
+    "conceptId": 10003091,
+    "name": "LEGO\u00ae 2K Drive Cross-Gen Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
   },
   {
     "titleId": "PPSA04049_00",
@@ -18099,9 +18115,9 @@
     "titleId": "PPSA05322_00",
     "conceptId": 229250,
     "name": "Omen of Sorrow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA05322_00-OMENOFSORROW0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA05323_00",
@@ -18222,6 +18238,14 @@
     "contentId": "HP4742-PPSA05343_00-4947151731113271",
     "region": "HP",
     "publisherId": "HP4742"
+  },
+  {
+    "titleId": "PPSA05344_00",
+    "conceptId": 10001225,
+    "name": "Park Beyond",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5028"
   },
   {
     "titleId": "PPSA05345_00",
@@ -20022,6 +20046,22 @@
     "contentId": "UP5223-PPSA05721_00-WYTCHWOODPS5SIEA",
     "region": "UP",
     "publisherId": "UP5223"
+  },
+  {
+    "titleId": "PPSA05722_00",
+    "conceptId": 10004068,
+    "name": "Meet Your Maker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05723_00",
+    "conceptId": 10004068,
+    "name": "Meet Your Maker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA05726_00",
@@ -27474,8 +27514,8 @@
   {
     "titleId": "PPSA07413_00",
     "conceptId": 10004473,
-    "name": "BIOHAZARD RE:4 PS4 & PS5",
-    "contentId": null,
+    "name": "BIOHAZARD RE:4",
+    "contentId": "JP0102-PPSA07413_00-RE4RMAINGAME0000",
     "region": "JP",
     "publisherId": "JP0102"
   },
@@ -28350,6 +28390,14 @@
     "contentId": "EP7333-PPSA07630_00-3323918187914203",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA07635_00",
+    "conceptId": 10005072,
+    "name": "C-Smash VRS",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7577"
   },
   {
     "titleId": "PPSA07636_00",
@@ -32299,15 +32347,15 @@
     "titleId": "PPSA08522_00",
     "conceptId": 10005432,
     "name": "\u30e9\u30a4\u30b6\u306e\u30a2\u30c8\u30ea\u30a8\uff13 \uff5e\u7d42\u308f\u308a\u306e\u932c\u91d1\u8853\u58eb\u3068\u79d8\u5bc6\u306e\u9375\uff5e",
-    "contentId": null,
+    "contentId": "JP0106-PPSA08522_00-RYZA300000MASTER",
     "region": "JP",
     "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA08523_00",
     "conceptId": 10005432,
-    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key Digital Deluxe Edition (PS4 & PS5)",
-    "contentId": null,
+    "name": "\u840a\u838e\u7684\u934a\u91d1\u5de5\u623f\uff13 \uff5e\u7d42\u7d50\u4e4b\u934a\u91d1\u8853\u58eb\u8207\u79d8\u5bc6\u9470\u5319\uff5e",
+    "contentId": "HP0106-PPSA08523_00-RYZA300000MASTER",
     "region": "HP",
     "publisherId": "HP0106"
   },
@@ -35378,18 +35426,18 @@
   {
     "titleId": "PPSA09151_00",
     "conceptId": 235159,
-    "name": "The Crown of Wu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Crown Of Wu",
+    "contentId": "JP1111-PPSA09151_00-8097015216309120",
+    "region": "JP",
+    "publisherId": "JP1111"
   },
   {
     "titleId": "PPSA09152_00",
     "conceptId": 235159,
-    "name": "The Crown of Wu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Crown Of Wu",
+    "contentId": "HP0957-PPSA09152_00-7979213412760380",
+    "region": "HP",
+    "publisherId": "HP0957"
   },
   {
     "titleId": "PPSA09153_00",
@@ -36603,7 +36651,7 @@
     "titleId": "PPSA09418_00",
     "conceptId": 10004473,
     "name": "Resident Evil 4",
-    "contentId": null,
+    "contentId": "HP0102-PPSA09418_00-RE4RMAINGAME0000",
     "region": "HP",
     "publisherId": "HP0102"
   },
@@ -40728,6 +40776,14 @@
     "publisherId": "UP3165"
   },
   {
+    "titleId": "PPSA10286_00",
+    "conceptId": 10004532,
+    "name": "Fairy Fencer F Refrain Chord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10287_00",
     "conceptId": 10006178,
     "name": "The Rice Story",
@@ -41851,6 +41907,38 @@
     "titleId": "PPSA10487_00",
     "conceptId": 10006233,
     "name": "Quiz Thiz Germany: Silver Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10488_00",
+    "conceptId": 10006234,
+    "name": "Quiz Thiz Germany: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10489_00",
+    "conceptId": 10006234,
+    "name": "Quiz Thiz Germany: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10490_00",
+    "conceptId": 10006234,
+    "name": "Quiz Thiz Germany: Gold Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10491_00",
+    "conceptId": 10006234,
+    "name": "Quiz Thiz Germany: Gold Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
