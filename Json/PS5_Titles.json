@@ -17672,6 +17672,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA05236_00",
+    "conceptId": 10001225,
+    "name": "Park Beyond",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA05237_00",
     "conceptId": 10003787,
     "name": "DIVINATION",
@@ -18107,9 +18115,9 @@
     "titleId": "PPSA05321_00",
     "conceptId": 229250,
     "name": "Omen of Sorrow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA05321_00-OMENOFSORROW0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA05322_00",
@@ -18526,6 +18534,14 @@
     "contentId": "EP0114-PPSA05409_00-3053413536790601",
     "region": "EP",
     "publisherId": "EP0114"
+  },
+  {
+    "titleId": "PPSA05412_00",
+    "conceptId": 10003849,
+    "name": "Stranded: Alien Dawn",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2377"
   },
   {
     "titleId": "PPSA05417_00",
@@ -28512,6 +28528,14 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA07658_00",
+    "conceptId": 10001225,
+    "name": "Park Beyond",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA07660_00",
     "conceptId": 10002670,
     "name": "Neptunia: Sisters VS Sisters",
@@ -29310,6 +29334,14 @@
     "contentId": "UP4312-PPSA07826_00-8546328342889320",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA07829_00",
+    "conceptId": 10005152,
+    "name": "Joe Wander and the Enigmatic Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07833_00",
@@ -30928,6 +30960,14 @@
     "publisherId": "EP4829"
   },
   {
+    "titleId": "PPSA08187_00",
+    "conceptId": 10003091,
+    "name": "LEGO\u00ae 2K Drive Cross-Gen Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1001"
+  },
+  {
     "titleId": "PPSA08192_00",
     "conceptId": 235138,
     "name": "Fight'N Rage",
@@ -32330,16 +32370,16 @@
   {
     "titleId": "PPSA08520_00",
     "conceptId": 10005432,
-    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key (PS4 & PS5)",
-    "contentId": null,
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "contentId": "UP4108-PPSA08520_00-RYZA300000MASTER",
     "region": "UP",
     "publisherId": "UP4108"
   },
   {
     "titleId": "PPSA08521_00",
     "conceptId": 10005432,
-    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key (PS4 & PS5)",
-    "contentId": null,
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "contentId": "EP4108-PPSA08521_00-RYZA300000MASTER",
     "region": "EP",
     "publisherId": "EP4108"
   },
@@ -35395,25 +35435,25 @@
     "titleId": "PPSA09144_00",
     "conceptId": 10005720,
     "name": "Overloop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2187-PPSA09144_00-6603026684154409",
+    "region": "UP",
+    "publisherId": "UP2187"
   },
   {
     "titleId": "PPSA09145_00",
     "conceptId": 10005720,
     "name": "Overloop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8925-PPSA09145_00-8276385211123767",
+    "region": "EP",
+    "publisherId": "EP8925"
   },
   {
     "titleId": "PPSA09149_00",
     "conceptId": 235159,
-    "name": "The Crown of Wu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Crown Of Wu",
+    "contentId": "EP0811-PPSA09149_00-6325620128595149",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA09150_00",
@@ -41883,33 +41923,33 @@
     "titleId": "PPSA10484_00",
     "conceptId": 10006233,
     "name": "Quiz Thiz Germany: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA10484_00-2500201770318349",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA10485_00",
     "conceptId": 10006233,
     "name": "Quiz Thiz Germany: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA10485_00-5914173938499616",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA10486_00",
     "conceptId": 10006233,
     "name": "Quiz Thiz Germany: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10486_00-7583564356498356",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10487_00",
     "conceptId": 10006233,
     "name": "Quiz Thiz Germany: Silver Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10487_00-0318663426738234",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10488_00",
