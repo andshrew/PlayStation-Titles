@@ -27515,7 +27515,7 @@
     "titleId": "PPSA07411_00",
     "conceptId": 10004473,
     "name": "Resident Evil 4",
-    "contentId": null,
+    "contentId": "UP0102-PPSA07411_00-RE4RMAINGAME0000",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -27523,7 +27523,7 @@
     "titleId": "PPSA07412_00",
     "conceptId": 10004473,
     "name": "Resident Evil 4",
-    "contentId": null,
+    "contentId": "EP0102-PPSA07412_00-RE4RMAINGAME0000",
     "region": "EP",
     "publisherId": "EP0102"
   },
@@ -29339,9 +29339,9 @@
     "titleId": "PPSA07829_00",
     "conceptId": 10005152,
     "name": "Joe Wander and the Enigmatic Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7669-PPSA07829_00-0000000000000004",
+    "region": "EP",
+    "publisherId": "EP7669"
   },
   {
     "titleId": "PPSA07833_00",
@@ -42800,6 +42800,14 @@
     "publisherId": "EP7541"
   },
   {
+    "titleId": "PPSA10699_00",
+    "conceptId": 10004444,
+    "name": "Trifox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10701_00",
     "conceptId": 10006324,
     "name": "The Guise",
@@ -45358,6 +45366,30 @@
     "contentId": "EP7231-PPSA11228_00-6258549601735151",
     "region": "EP",
     "publisherId": "EP7231"
+  },
+  {
+    "titleId": "PPSA11229_00",
+    "conceptId": 10006514,
+    "name": "Quiz Thiz Croatia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11230_00",
+    "conceptId": 10006514,
+    "name": "Quiz Thiz Croatia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11232_00",
+    "conceptId": 10006514,
+    "name": "Quiz Thiz Croatia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11247_00",
