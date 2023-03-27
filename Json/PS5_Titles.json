@@ -1472,6 +1472,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA01683_00",
+    "conceptId": 10001225,
+    "name": "Park Beyond",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA01685_00",
     "conceptId": 234363,
     "name": "Sniper Elite 5",
@@ -41955,33 +41963,33 @@
     "titleId": "PPSA10488_00",
     "conceptId": 10006234,
     "name": "Quiz Thiz Germany: Gold Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA10488_00-3297238579019508",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA10489_00",
     "conceptId": 10006234,
     "name": "Quiz Thiz Germany: Gold Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA10489_00-0916836624913974",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA10490_00",
     "conceptId": 10006234,
     "name": "Quiz Thiz Germany: Gold Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA10490_00-4855350525638025",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA10491_00",
     "conceptId": 10006234,
     "name": "Quiz Thiz Germany: Gold Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA10491_00-7170773707115423",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA10492_00",
@@ -45387,6 +45395,14 @@
     "titleId": "PPSA11232_00",
     "conceptId": 10006514,
     "name": "Quiz Thiz Croatia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11235_00",
+    "conceptId": 10006515,
+    "name": "Quiz Thiz Croatia: Bronze Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
