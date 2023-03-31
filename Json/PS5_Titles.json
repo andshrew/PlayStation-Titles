@@ -17520,6 +17520,22 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA05201_00",
+    "conceptId": 10003733,
+    "name": "Stray Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05202_00",
+    "conceptId": 10003733,
+    "name": "Stray Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05206_00",
     "conceptId": 10003773,
     "name": "Krut: The Mythic Wings",
@@ -26328,6 +26344,14 @@
     "publisherId": "UP6532"
   },
   {
+    "titleId": "PPSA07109_00",
+    "conceptId": 10003084,
+    "name": "Hot Wheels Rift Rally",
+    "contentId": "UP5623-PPSA07109_00-HWHEELSRIFTRALLY",
+    "region": "UP",
+    "publisherId": "UP5623"
+  },
+  {
     "titleId": "PPSA07111_00",
     "conceptId": 10002948,
     "name": "REDO!",
@@ -27235,17 +27259,17 @@
     "titleId": "PPSA07342_00",
     "conceptId": 10004912,
     "name": "Tales of the Neon Sea",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7510-PPSA07342_00-8971437752119551",
+    "region": "JP",
+    "publisherId": "JP7510"
   },
   {
     "titleId": "PPSA07343_00",
     "conceptId": 10004912,
     "name": "Tales of the Neon Sea",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7554-PPSA07343_00-4899628856092835",
+    "region": "HP",
+    "publisherId": "HP7554"
   },
   {
     "titleId": "PPSA07344_00",
@@ -28910,6 +28934,22 @@
     "contentId": "EP6922-PPSA07738_00-3923984239251030",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA07739_00",
+    "conceptId": 10005118,
+    "name": "Shukuchi Ninja",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07740_00",
+    "conceptId": 10005118,
+    "name": "Shukuchi Ninja",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07741_00",
@@ -30912,6 +30952,22 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA08177_00",
+    "conceptId": 10005297,
+    "name": "LIVE A LIVE PS4&PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA08179_00",
+    "conceptId": 10005297,
+    "name": "LIVE A LIVE PS4&PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
     "titleId": "PPSA08180_00",
     "conceptId": 10005190,
     "name": "Square Keeper",
@@ -31014,6 +31070,14 @@
     "contentId": "UP3589-PPSA08196_00-DONOTOPENPS50001",
     "region": "UP",
     "publisherId": "UP3589"
+  },
+  {
+    "titleId": "PPSA08202_00",
+    "conceptId": 10005306,
+    "name": "Shantae",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08203_00",
@@ -35099,7 +35163,7 @@
     "titleId": "PPSA09077_00",
     "conceptId": 10005693,
     "name": "DREDGE",
-    "contentId": null,
+    "contentId": "UP4064-PPSA09077_00-0441220012296936",
     "region": "UP",
     "publisherId": "UP4064"
   },
@@ -37267,9 +37331,9 @@
     "titleId": "PPSA09554_00",
     "conceptId": 10002823,
     "name": "The Chant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0108-PPSA09554_00-9848760666348724",
+    "region": "JP",
+    "publisherId": "JP0108"
   },
   {
     "titleId": "PPSA09555_00",
@@ -39522,18 +39586,18 @@
   {
     "titleId": "PPSA10049_00",
     "conceptId": 10006028,
-    "name": "Saga Of Sins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Saga of Sins",
+    "contentId": "EP8208-PPSA10049_00-SOSIN00GAMEEUR01",
+    "region": "EP",
+    "publisherId": "EP8208"
   },
   {
     "titleId": "PPSA10050_00",
     "conceptId": 10006028,
-    "name": "Saga Of Sins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Saga of Sins",
+    "contentId": "UP8016-PPSA10050_00-SOSIN00GAMEUSA01",
+    "region": "UP",
+    "publisherId": "UP8016"
   },
   {
     "titleId": "PPSA10057_00",
@@ -42526,6 +42590,14 @@
     "contentId": "UP0891-PPSA10589_00-RATAGAPETSATWORK",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA10590_00",
+    "conceptId": 10006267,
+    "name": "Billy 101",
+    "contentId": "EP0896-PPSA10590_00-RATALAGABILLY101",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA10596_00",
