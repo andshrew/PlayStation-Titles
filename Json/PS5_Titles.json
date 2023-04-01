@@ -30952,12 +30952,28 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA08176_00",
+    "conceptId": 10005297,
+    "name": "LIVE A LIVE PS4&PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
     "titleId": "PPSA08177_00",
     "conceptId": 10005297,
     "name": "LIVE A LIVE PS4&PS5",
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA08178_00",
+    "conceptId": 10005297,
+    "name": "LIVE A LIVE PS4&PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA08179_00",
@@ -33747,9 +33763,17 @@
     "titleId": "PPSA08793_00",
     "conceptId": 10005559,
     "name": "Blade Assault",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2011-PPSA08793_00-7307491349474404",
+    "region": "EP",
+    "publisherId": "EP2011"
+  },
+  {
+    "titleId": "PPSA08794_00",
+    "conceptId": 10005559,
+    "name": "Blade Assault",
+    "contentId": "JP6412-PPSA08794_00-2764269781423407",
+    "region": "JP",
+    "publisherId": "JP6412"
   },
   {
     "titleId": "PPSA08801_00",
@@ -42168,6 +42192,14 @@
     "publisherId": "UP6881"
   },
   {
+    "titleId": "PPSA10513_00",
+    "conceptId": 10000337,
+    "name": "TRINITY TRIGGER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10514_00",
     "conceptId": 10005997,
     "name": "\u30a2\u30eb\u30d5\u30a1\u30c7\u30a3\u30a2 \u30cd\u30aa",
@@ -42598,6 +42630,14 @@
     "contentId": "EP0896-PPSA10590_00-RATALAGABILLY101",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA10591_00",
+    "conceptId": 10006267,
+    "name": "Billy 101",
+    "contentId": "UP0891-PPSA10591_00-RATALAGABILLY101",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA10596_00",
@@ -44960,6 +45000,30 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "PPSA11122_00",
+    "conceptId": 10006480,
+    "name": "Stroke The Koala",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11123_00",
+    "conceptId": 10006480,
+    "name": "Stroke The Koala",
+    "contentId": "JP7943-PPSA11123_00-7152250829649913",
+    "region": "JP",
+    "publisherId": "JP7943"
+  },
+  {
+    "titleId": "PPSA11124_00",
+    "conceptId": 10006480,
+    "name": "Stroke The Koala",
+    "contentId": "HP7989-PPSA11124_00-6619738166812776",
+    "region": "HP",
+    "publisherId": "HP7989"
+  },
+  {
     "titleId": "PPSA11125_00",
     "conceptId": 10006407,
     "name": "Cat Break Head to Head",
@@ -46006,6 +46070,22 @@
     "contentId": "EP7333-PPSA11343_00-9654663299099830",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11344_00",
+    "conceptId": 10006549,
+    "name": "Guess the animal",
+    "contentId": "JP7309-PPSA11344_00-4179816313701998",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11345_00",
+    "conceptId": 10006549,
+    "name": "Guess the animal",
+    "contentId": "HP7354-PPSA11345_00-1033867146115308",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11346_00",
