@@ -7648,6 +7648,14 @@
     "publisherId": "EP5213"
   },
   {
+    "titleId": "PPSA03080_00",
+    "conceptId": 10002494,
+    "name": "Tin Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03083_00",
     "conceptId": 10000273,
     "name": "Apsulov: End of Gods",
@@ -20099,9 +20107,9 @@
     "titleId": "PPSA05723_00",
     "conceptId": 10004068,
     "name": "Meet Your Maker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5125-PPSA05723_00-MEETYOURMAKER000",
+    "region": "EP",
+    "publisherId": "EP5125"
   },
   {
     "titleId": "PPSA05726_00",
@@ -28267,17 +28275,17 @@
     "titleId": "PPSA07584_00",
     "conceptId": 10005020,
     "name": "Road 96: Mile 0",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3617-PPSA07584_00-ROAD96MILE0EUPS5",
+    "region": "EP",
+    "publisherId": "EP3617"
   },
   {
     "titleId": "PPSA07585_00",
     "conceptId": 10005020,
     "name": "Road 96: Mile 0",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3763-PPSA07585_00-ROAD96MILE0USPS5",
+    "region": "UP",
+    "publisherId": "UP3763"
   },
   {
     "titleId": "PPSA07588_00",
@@ -31280,6 +31288,22 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA08252_00",
+    "conceptId": 10002535,
+    "name": "Space Engineers",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6922"
+  },
+  {
+    "titleId": "PPSA08253_00",
+    "conceptId": 10002535,
+    "name": "Space Engineers",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6918"
+  },
+  {
     "titleId": "PPSA08255_00",
     "conceptId": 10005322,
     "name": "Pavlov",
@@ -31966,6 +31990,22 @@
     "contentId": "UP7553-PPSA08392_00-0597722566326020",
     "region": "UP",
     "publisherId": "UP7553"
+  },
+  {
+    "titleId": "PPSA08394_00",
+    "conceptId": 10001851,
+    "name": "R-Type\u00ae Final 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08395_00",
+    "conceptId": 10001851,
+    "name": "R-Type\u00ae Final 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08400_00",
@@ -33808,6 +33848,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08810_00",
+    "conceptId": 10005573,
+    "name": "TT Isle Of Man 3 - Standard Edition Pre-order",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA08811_00",
+    "conceptId": 10005573,
+    "name": "TT Isle Of Man 3 - Standard Edition Pre-order",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
     "titleId": "PPSA08812_00",
     "conceptId": 10005575,
     "name": "The Basketball B",
@@ -34619,9 +34675,9 @@
     "titleId": "PPSA08946_00",
     "conceptId": 10004766,
     "name": "GrimGrimoire OnceMore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1063-PPSA08946_00-GRIMGRIMOIREXPS5",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA08947_00",
@@ -38282,16 +38338,16 @@
   {
     "titleId": "PPSA09772_00",
     "conceptId": 10005989,
-    "name": "Creed: Rise to Glory - Championship Edition\u2122 - Preorder Bundle",
-    "contentId": null,
+    "name": "Creed: Rise to Glory - Championship Edition",
+    "contentId": "UP2292-PPSA09772_00-CRURELEASE000001",
     "region": "UP",
     "publisherId": "UP2292"
   },
   {
     "titleId": "PPSA09773_00",
     "conceptId": 10005989,
-    "name": "Creed: Rise to Glory - Championship Edition\u2122 - Preorder Bundle",
-    "contentId": null,
+    "name": "Creed: Rise to Glory - Championship Edition",
+    "contentId": "EP2147-PPSA09773_00-CRURELEASE000001",
     "region": "EP",
     "publisherId": "EP2147"
   },
@@ -42950,6 +43006,14 @@
     "contentId": "UP0891-PPSA10702_00-RATAGAMETHEGUISE",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA10703_00",
+    "conceptId": 10002535,
+    "name": "Space Engineers",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP6937"
   },
   {
     "titleId": "PPSA10704_00",
