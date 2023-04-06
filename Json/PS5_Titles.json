@@ -7648,6 +7648,14 @@
     "publisherId": "EP5213"
   },
   {
+    "titleId": "PPSA03079_00",
+    "conceptId": 10002494,
+    "name": "Tin Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03080_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
@@ -20099,9 +20107,9 @@
     "titleId": "PPSA05722_00",
     "conceptId": 10004068,
     "name": "Meet Your Maker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4939-PPSA05722_00-MEETYOURMAKER000",
+    "region": "UP",
+    "publisherId": "UP4939"
   },
   {
     "titleId": "PPSA05723_00",
@@ -37632,6 +37640,14 @@
     "publisherId": "UP1983"
   },
   {
+    "titleId": "PPSA09593_00",
+    "conceptId": 10005762,
+    "name": "Marfusha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09594_00",
     "conceptId": 10005909,
     "name": "Super Jagger Bomb",
@@ -42768,6 +42784,30 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA10616_00",
+    "conceptId": 10005762,
+    "name": "Marfusha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10617_00",
+    "conceptId": 10005762,
+    "name": "\u6eb6\u9244\u306e\u30de\u30eb\u30d5\u30fc\u30b7\u30e3",
+    "contentId": "JP0122-PPSA10617_00-00000000MARFUSHA",
+    "region": "JP",
+    "publisherId": "JP0122"
+  },
+  {
+    "titleId": "PPSA10618_00",
+    "conceptId": 10005762,
+    "name": "Marfusha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10624_00",
     "conceptId": 10006281,
     "name": "Driverio 3",
@@ -44022,6 +44062,14 @@
     "contentId": "HP5474-PPSA10865_00-WHATTHEBAT000001",
     "region": "HP",
     "publisherId": "HP5474"
+  },
+  {
+    "titleId": "PPSA10866_00",
+    "conceptId": 10000337,
+    "name": "TRINITY TRIGGER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10867_00",
