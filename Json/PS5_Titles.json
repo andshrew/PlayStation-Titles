@@ -27968,6 +27968,14 @@
     "publisherId": "EP4295"
   },
   {
+    "titleId": "PPSA07499_00",
+    "conceptId": 234766,
+    "name": "Asterix & Obelix XXL 3",
+    "contentId": "UP1475-PPSA07499_00-ASTERIXXXL3PS5US",
+    "region": "UP",
+    "publisherId": "UP1475"
+  },
+  {
     "titleId": "PPSA07500_00",
     "conceptId": 10003646,
     "name": "Wintergames 2023",
@@ -29920,6 +29928,22 @@
     "publisherId": "EP4908"
   },
   {
+    "titleId": "PPSA07948_00",
+    "conceptId": 10003563,
+    "name": "After Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07949_00",
+    "conceptId": 10003563,
+    "name": "After Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07950_00",
     "conceptId": 10001130,
     "name": "Call of Duty\u00ae: Modern Warfare II",
@@ -30888,12 +30912,28 @@
     "publisherId": "EP4295"
   },
   {
+    "titleId": "PPSA08163_00",
+    "conceptId": 10000621,
+    "name": "Asterix & Obelix XXL Romastered",
+    "contentId": "UP1475-PPSA08163_00-AOXXLPS5000000US",
+    "region": "UP",
+    "publisherId": "UP1475"
+  },
+  {
     "titleId": "PPSA08164_00",
     "conceptId": 205912,
     "name": "Ast\u00e9rix & Ob\u00e9lix XXL 2",
     "contentId": "EP4295-PPSA08164_00-AOXXL2PS500000EU",
     "region": "EP",
     "publisherId": "EP4295"
+  },
+  {
+    "titleId": "PPSA08165_00",
+    "conceptId": 205912,
+    "name": "Asterix & Obelix XXL2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08166_00",
@@ -37643,9 +37683,9 @@
     "titleId": "PPSA09593_00",
     "conceptId": 10005762,
     "name": "Marfusha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0969-PPSA09593_00-00000000MARFUSHA",
+    "region": "UP",
+    "publisherId": "UP0969"
   },
   {
     "titleId": "PPSA09594_00",
@@ -42787,9 +42827,9 @@
     "titleId": "PPSA10616_00",
     "conceptId": 10005762,
     "name": "Marfusha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0122-PPSA10616_00-00000000MARFUSHA",
+    "region": "EP",
+    "publisherId": "EP0122"
   },
   {
     "titleId": "PPSA10617_00",
@@ -42803,9 +42843,9 @@
     "titleId": "PPSA10618_00",
     "conceptId": 10005762,
     "name": "Marfusha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP1127-PPSA10618_00-00000000MARFUSHA",
+    "region": "HP",
+    "publisherId": "HP1127"
   },
   {
     "titleId": "PPSA10624_00",
@@ -43238,6 +43278,14 @@
     "contentId": "JP0013-PPSA10729_00-JP0SMILEA0000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA10736_00",
+    "conceptId": 10002211,
+    "name": "XDefiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10741_00",
