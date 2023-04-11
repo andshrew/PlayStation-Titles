@@ -3658,8 +3658,8 @@
   {
     "titleId": "PPSA02227_00",
     "conceptId": 10001789,
-    "name": "EA SPORTS\u2122 PGA TOUR\u2122",
-    "contentId": null,
+    "name": "PGA Tour",
+    "contentId": "UP0006-PPSA02227_00-PGATOURDIGITAL23",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -6006,6 +6006,14 @@
     "contentId": "UP0031-PPSA02721_00-NEPREVERSEGAME01",
     "region": "UP",
     "publisherId": "UP0031"
+  },
+  {
+    "titleId": "PPSA02733_00",
+    "conceptId": 10002211,
+    "name": "XDefiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA02735_00",
