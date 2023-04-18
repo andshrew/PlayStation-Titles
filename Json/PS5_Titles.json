@@ -3666,8 +3666,8 @@
   {
     "titleId": "PPSA02228_00",
     "conceptId": 10001789,
-    "name": "EA SPORTS\u2122 PGA TOUR\u2122",
-    "contentId": null,
+    "name": "PGA Tour",
+    "contentId": "EP0006-PPSA02228_00-PGATOURDIGITAL23",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -4418,16 +4418,16 @@
   {
     "titleId": "PPSA02414_00",
     "conceptId": 10001977,
-    "name": "Curse of the Sea Rats",
-    "contentId": null,
+    "name": "Curse Of The Sea Rats",
+    "contentId": "UP4293-PPSA02414_00-5946354298816402",
     "region": "UP",
     "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA02415_00",
     "conceptId": 10001977,
-    "name": "Curse of the Sea Rats",
-    "contentId": null,
+    "name": "Curse Of The Sea Rats",
+    "contentId": "EP4293-PPSA02415_00-4218207394128976",
     "region": "EP",
     "publisherId": "EP4293"
   },
@@ -6009,6 +6009,14 @@
   },
   {
     "titleId": "PPSA02733_00",
+    "conceptId": 10002211,
+    "name": "XDefiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA02734_00",
     "conceptId": 10002211,
     "name": "XDefiant",
     "contentId": null,
@@ -10442,18 +10450,18 @@
   {
     "titleId": "PPSA03679_00",
     "conceptId": 10001984,
-    "name": "De-Exit \u2013 Eternal Matters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DE-EXIT: Eternal Matters",
+    "contentId": "EP4539-PPSA03679_00-9101330038752264",
+    "region": "EP",
+    "publisherId": "EP4539"
   },
   {
     "titleId": "PPSA03680_00",
     "conceptId": 10001984,
-    "name": "De-Exit \u2013 Eternal Matters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DE-EXIT: Eternal Matters",
+    "contentId": "UP0977-PPSA03680_00-9676957448653284",
+    "region": "UP",
+    "publisherId": "UP0977"
   },
   {
     "titleId": "PPSA03682_00",
@@ -13550,6 +13558,14 @@
     "contentId": "EP1302-PPSA04312_00-NAHEULBEUK000000",
     "region": "EP",
     "publisherId": "EP1302"
+  },
+  {
+    "titleId": "PPSA04314_00",
+    "conceptId": 10003247,
+    "name": "RIDE 5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4356"
   },
   {
     "titleId": "PPSA04315_00",
@@ -23024,6 +23040,22 @@
     "publisherId": "JP0005"
   },
   {
+    "titleId": "PPSA06366_00",
+    "conceptId": 10003139,
+    "name": "The Lord of the Rings: Gollum\u2122 - Standard Edition (Pre-Order)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA06367_00",
+    "conceptId": 10003139,
+    "name": "The Lord of the Rings: Gollum\u2122 - Standard Edition (Pre-Order)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
     "titleId": "PPSA06368_00",
     "conceptId": 232593,
     "name": "The Eternal Cylinder",
@@ -24680,6 +24712,14 @@
     "publisherId": "HP0106"
   },
   {
+    "titleId": "PPSA06711_00",
+    "conceptId": 10001498,
+    "name": "War Mongrels",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06712_00",
     "conceptId": 10004611,
     "name": "JUSTICE SUCKS",
@@ -24766,6 +24806,14 @@
     "contentId": "JP5432-PPSA06727_00-9311721057772944",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA06730_00",
+    "conceptId": 10001498,
+    "name": "War Mongrels",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06731_00",
@@ -26584,6 +26632,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07176_00",
+    "conceptId": 10004828,
+    "name": "8Doors: Arum's Afterlife Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07180_00",
     "conceptId": 10003388,
     "name": "\u6a5f\u6230\u5c11\u5973Alice CS",
@@ -26614,6 +26670,14 @@
     "contentId": "JP6079-PPSA07189_00-YURUKILLJDEMOPS5",
     "region": "JP",
     "publisherId": "JP6079"
+  },
+  {
+    "titleId": "PPSA07191_00",
+    "conceptId": 10004838,
+    "name": "SUPER BOMBERMAN R 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA07192_00",
@@ -26814,6 +26878,22 @@
     "contentId": "EP2005-PPSA07244_00-BOOKQUEST0000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA07247_00",
+    "conceptId": 10004833,
+    "name": "Warhammer 40,000: Boltgun (PS4 & PS5)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4133"
+  },
+  {
+    "titleId": "PPSA07248_00",
+    "conceptId": 10004833,
+    "name": "Warhammer 40,000: Boltgun (PS4 & PS5)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4133"
   },
   {
     "titleId": "PPSA07249_00",
@@ -28398,6 +28478,22 @@
     "contentId": "JP1190-PPSA07604_00-RAGADANDYRANDYDX",
     "region": "JP",
     "publisherId": "JP1190"
+  },
+  {
+    "titleId": "PPSA07608_00",
+    "conceptId": 10005057,
+    "name": "Teslagrad 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07609_00",
+    "conceptId": 10005057,
+    "name": "Teslagrad 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07611_00",
@@ -30418,24 +30514,24 @@
   {
     "titleId": "PPSA08069_00",
     "conceptId": 10005262,
-    "name": "Sherlock Holmes: The Awakened",
-    "contentId": null,
+    "name": "Sherlock Holmes The Awakened",
+    "contentId": "EP5205-PPSA08069_00-SH3THEAWAKENEDUA",
     "region": "EP",
     "publisherId": "EP5205"
   },
   {
     "titleId": "PPSA08070_00",
     "conceptId": 10005262,
-    "name": "Sherlock Holmes: The Awakened",
-    "contentId": null,
+    "name": "Sherlock Holmes The Awakened",
+    "contentId": "UP5025-PPSA08070_00-SH3THEAWAKENEDUA",
     "region": "UP",
     "publisherId": "UP5025"
   },
   {
     "titleId": "PPSA08071_00",
     "conceptId": 10005262,
-    "name": "Sherlock Holmes: The Awakened",
-    "contentId": null,
+    "name": "Sherlock Holmes The Awakened",
+    "contentId": "JP4860-PPSA08071_00-SH3THEAWAKENEDUA",
     "region": "JP",
     "publisherId": "JP4860"
   },
@@ -31264,6 +31360,22 @@
     "publisherId": "HP6054"
   },
   {
+    "titleId": "PPSA08236_00",
+    "conceptId": 10005317,
+    "name": "Immortals of Aveum\u2122",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
+    "titleId": "PPSA08237_00",
+    "conceptId": 10005317,
+    "name": "Immortals of Aveum\u2122",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0006"
+  },
+  {
     "titleId": "PPSA08238_00",
     "conceptId": 10002418,
     "name": "Shredders",
@@ -31595,17 +31707,17 @@
     "titleId": "PPSA08304_00",
     "conceptId": 10005349,
     "name": "Hyper-5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA08304_00-HYPERFIVE0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA08305_00",
     "conceptId": 10005349,
     "name": "Hyper-5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA08305_00-HYPERFIVE0000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA08306_00",
@@ -33880,6 +33992,22 @@
     "publisherId": "JP6412"
   },
   {
+    "titleId": "PPSA08799_00",
+    "conceptId": 10005566,
+    "name": "Smile For Me",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08800_00",
+    "conceptId": 10005566,
+    "name": "Smile For Me",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08801_00",
     "conceptId": 10005567,
     "name": "Moonscars",
@@ -34752,6 +34880,22 @@
     "publisherId": "EP1063"
   },
   {
+    "titleId": "PPSA08949_00",
+    "conceptId": 10005624,
+    "name": "\u307f\u3093\u306a\u5927\u597d\u304d\u584a\u9b42\u30a2\u30f3\u30b3\u30fc\u30eb\uff0b\u738b\u69d8\u30d7\u30c1\u30e1\u30e2\u30ea\u30fc PS4\uff06PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA08950_00",
+    "conceptId": 10005624,
+    "name": "We Love Katamari REROLL+ Royal Reverie PS4\uff06PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA08952_00",
     "conceptId": 10005288,
     "name": "Fairy Elements",
@@ -34782,6 +34926,14 @@
     "contentId": "UP5180-PPSA08957_00-TOGGES00000005US",
     "region": "UP",
     "publisherId": "UP5180"
+  },
+  {
+    "titleId": "PPSA08958_00",
+    "conceptId": 10005631,
+    "name": "Beat The Clock",
+    "contentId": "UP7962-PPSA08958_00-1366343041023214",
+    "region": "UP",
+    "publisherId": "UP7962"
   },
   {
     "titleId": "PPSA08960_00",
@@ -35150,6 +35302,22 @@
     "contentId": "EP2005-PPSA09035_00-MAGGIETHEMAGNET0",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA09039_00",
+    "conceptId": 10005680,
+    "name": "SENSEs: Midnight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09040_00",
+    "conceptId": 10005680,
+    "name": "SENSEs: Midnight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09052_00",
@@ -39387,17 +39555,17 @@
     "titleId": "PPSA09964_00",
     "conceptId": 10004400,
     "name": "Murderous Muses",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4539-PPSA09964_00-8505226620088493",
+    "region": "UP",
+    "publisherId": "UP4539"
   },
   {
     "titleId": "PPSA09965_00",
     "conceptId": 10004400,
     "name": "Murderous Muses",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4716-PPSA09965_00-3676570305012034",
+    "region": "EP",
+    "publisherId": "EP4716"
   },
   {
     "titleId": "PPSA09967_00",
@@ -43722,26 +43890,26 @@
   {
     "titleId": "PPSA10801_00",
     "conceptId": 10005455,
-    "name": "Cannon Dancer - Osman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Osman: Cannon Dancer",
+    "contentId": "EP8204-PPSA10801_00-CANNONDANCERP5EU",
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA10802_00",
     "conceptId": 10005455,
-    "name": "Cannon Dancer - Osman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Osman: Cannon Dancer",
+    "contentId": "UP8012-PPSA10802_00-CANNONDANCERP5US",
+    "region": "UP",
+    "publisherId": "UP8012"
   },
   {
     "titleId": "PPSA10803_00",
     "conceptId": 10005455,
-    "name": "Cannon Dancer - Osman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ad\u30e3\u30ce\u30f3\u30c0\u30f3\u30b5\u30fc\u3000- Osman",
+    "contentId": "JP5849-PPSA10803_00-CANNONDANCERP5JP",
+    "region": "JP",
+    "publisherId": "JP5849"
   },
   {
     "titleId": "PPSA10804_00",
@@ -46240,6 +46408,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11340_00",
+    "conceptId": 10006548,
+    "name": "Row of numbers",
+    "contentId": "JP7309-PPSA11340_00-4077190821892655",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11341_00",
+    "conceptId": 10006548,
+    "name": "Row of numbers",
+    "contentId": "HP7354-PPSA11341_00-1918836884990673",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA11342_00",
     "conceptId": 10006549,
     "name": "Guess the animal",
@@ -46368,6 +46552,14 @@
     "publisherId": "EP7839"
   },
   {
+    "titleId": "PPSA11403_00",
+    "conceptId": 10006351,
+    "name": "Inner Ashes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11406_00",
     "conceptId": 235392,
     "name": "Synth Riders",
@@ -46478,6 +46670,22 @@
     "contentId": "UP6472-PPSA11539_00-SAKURAMMO3000000",
     "region": "UP",
     "publisherId": "UP6472"
+  },
+  {
+    "titleId": "PPSA11542_00",
+    "conceptId": 10006619,
+    "name": "Cavity Busters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11543_00",
+    "conceptId": 10006619,
+    "name": "Cavity Busters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11546_00",
