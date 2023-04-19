@@ -17016,6 +17016,14 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA05061_00",
+    "conceptId": 10000874,
+    "name": "BEYOND ENEMY LINES REMASTERED EDITION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05063_00",
     "conceptId": 10003187,
     "name": "Steelrising",
@@ -18515,9 +18523,9 @@
     "titleId": "PPSA05394_00",
     "conceptId": 10002549,
     "name": "Ayre and the Crystal Comet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA05394_00-AATCCGAME0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA05395_00",
@@ -19195,7 +19203,7 @@
     "titleId": "PPSA05511_00",
     "conceptId": 10000771,
     "name": "Minecraft Legends",
-    "contentId": null,
+    "contentId": "JP0127-PPSA05511_00-6279100536590199",
     "region": "JP",
     "publisherId": "JP0127"
   },
@@ -36650,16 +36658,16 @@
   {
     "titleId": "PPSA09297_00",
     "conceptId": 10002651,
-    "name": "Disney Speedstorm - Standard Founder\u2019s Pack",
-    "contentId": null,
+    "name": "Disney Speedstorm",
+    "contentId": "UP2006-PPSA09297_00-1890663337895584",
     "region": "UP",
     "publisherId": "UP2006"
   },
   {
     "titleId": "PPSA09298_00",
     "conceptId": 10002651,
-    "name": "Disney Speedstorm - Standard Founder\u2019s Pack",
-    "contentId": null,
+    "name": "Disney Speedstorm",
+    "contentId": "EP2006-PPSA09298_00-1368252437716395",
     "region": "EP",
     "publisherId": "EP2006"
   },
@@ -41448,6 +41456,22 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "PPSA10319_00",
+    "conceptId": 10006181,
+    "name": "Weeping Willow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10320_00",
+    "conceptId": 10006181,
+    "name": "Weeping Willow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10323_00",
     "conceptId": 10006182,
     "name": "The Pong P",
@@ -44011,7 +44035,7 @@
     "titleId": "PPSA10821_00",
     "conceptId": 10005216,
     "name": "God of Rock",
-    "contentId": null,
+    "contentId": "UP2080-PPSA10821_00-GODOFROCKBASE000",
     "region": "UP",
     "publisherId": "UP2080"
   },
@@ -44019,7 +44043,7 @@
     "titleId": "PPSA10822_00",
     "conceptId": 10005216,
     "name": "God of Rock",
-    "contentId": null,
+    "contentId": "EP1877-PPSA10822_00-GODOFROCKBASE000",
     "region": "EP",
     "publisherId": "EP1877"
   },
@@ -46614,6 +46638,14 @@
     "contentId": "JP6398-PPSA11417_00-SYBTWBPS500000JP",
     "region": "JP",
     "publisherId": "JP6398"
+  },
+  {
+    "titleId": "PPSA11419_00",
+    "conceptId": 10006576,
+    "name": "Eperon Defend",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11495_00",
