@@ -17018,10 +17018,18 @@
   {
     "titleId": "PPSA05061_00",
     "conceptId": 10000874,
-    "name": "BEYOND ENEMY LINES REMASTERED EDITION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Beyond Enemy Lines - Remastered Edition",
+    "contentId": "EP4902-PPSA05061_00-5935925705003159",
+    "region": "EP",
+    "publisherId": "EP4902"
+  },
+  {
+    "titleId": "PPSA05062_00",
+    "conceptId": 10000874,
+    "name": "Beyond Enemy Lines - Remastered Edition",
+    "contentId": "UP4729-PPSA05062_00-2277021535065990",
+    "region": "UP",
+    "publisherId": "UP4729"
   },
   {
     "titleId": "PPSA05063_00",
@@ -17346,32 +17354,32 @@
   {
     "titleId": "PPSA05158_00",
     "conceptId": 10003741,
-    "name": "The Mageseeker: A League of Legends Story\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "The Mageseeker: A League of Legends Story\u2122",
+    "contentId": "UP6597-PPSA05158_00-MAGESEEKERLOLSUS",
     "region": "UP",
     "publisherId": "UP6597"
   },
   {
     "titleId": "PPSA05159_00",
     "conceptId": 10003741,
-    "name": "The Mageseeker: A League of Legends Story\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "The Mageseeker: A League of Legends Story\u2122",
+    "contentId": "EP6596-PPSA05159_00-MAGESEEKERLOLSEU",
     "region": "EP",
     "publisherId": "EP6596"
   },
   {
     "titleId": "PPSA05160_00",
     "conceptId": 10003741,
-    "name": "\u30e1\u30a4\u30b8\u30b7\u30fc\u30ab\u30fc: \u30ea\u30fc\u30b0\u30fb\u30aa\u30d6\u30fb\u30ec\u30b8\u30a7\u30f3\u30c9 \u30b9\u30c8\u30fc\u30ea\u30fc\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "\u30e1\u30a4\u30b8\u30b7\u30fc\u30ab\u30fc\uff1a\u30ea\u30fc\u30b0\u30fb\u30aa\u30d6\u30fb\u30ec\u30b8\u30a7\u30f3\u30c9 \u30b9\u30c8\u30fc\u30ea\u30fc\u2122",
+    "contentId": "JP6525-PPSA05160_00-MAGESEEKERLOLSJP",
     "region": "JP",
     "publisherId": "JP6525"
   },
   {
     "titleId": "PPSA05161_00",
     "conceptId": 10003741,
-    "name": "The Mageseeker: A League of Legends Story\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "The Mageseeker: A League of Legends Story\u2122",
+    "contentId": "HP6594-PPSA05161_00-MAGESEEKERLOLSAS",
     "region": "HP",
     "publisherId": "HP6594"
   },
@@ -18531,9 +18539,9 @@
     "titleId": "PPSA05395_00",
     "conceptId": 10002549,
     "name": "Ayre and the Crystal Comet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA05395_00-AATCCGAME0000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA05398_00",
@@ -19187,7 +19195,7 @@
     "titleId": "PPSA05509_00",
     "conceptId": 10000771,
     "name": "Minecraft Legends",
-    "contentId": null,
+    "contentId": "UP4433-PPSA05509_00-8852642893808980",
     "region": "UP",
     "publisherId": "UP4433"
   },
@@ -19195,7 +19203,7 @@
     "titleId": "PPSA05510_00",
     "conceptId": 10000771,
     "name": "Minecraft Legends",
-    "contentId": null,
+    "contentId": "EP4433-PPSA05510_00-1296939562310362",
     "region": "EP",
     "publisherId": "EP4433"
   },
@@ -25840,6 +25848,22 @@
     "publisherId": "EP4492"
   },
   {
+    "titleId": "PPSA06982_00",
+    "conceptId": 10004538,
+    "name": "OXENFREE II: Lost Signals",
+    "contentId": null,
+    "region": "UT",
+    "publisherId": "UT0007"
+  },
+  {
+    "titleId": "PPSA06984_00",
+    "conceptId": 10004538,
+    "name": "OXENFREE II: Lost Signals",
+    "contentId": null,
+    "region": "JA",
+    "publisherId": "JA0010"
+  },
+  {
     "titleId": "PPSA06986_00",
     "conceptId": 10001020,
     "name": "Swordsman VR",
@@ -26154,8 +26178,8 @@
   {
     "titleId": "PPSA07051_00",
     "conceptId": 10004780,
-    "name": "\u30b3\u30fc\u30d2\u30fc\u30c8\u30fc\u30af \u30a8\u30d4\u30bd\u30fc\u30c9 2\uff1a \u30cf\u30a4\u30d3\u30b9\u30ab\u30b9 & \u30d0\u30bf\u30d5\u30e9\u30a4",
-    "contentId": null,
+    "name": "\u30b3\u30fc\u30d2\u30fc\u30c8\u30fc\u30af \u30a8\u30d4\u30bd\u30fc\u30c92\uff1a\u30cf\u30a4\u30d3\u30b9\u30ab\u30b9\uff06\u30d0\u30bf\u30d5\u30e9\u30a4",
+    "contentId": "JP0211-PPSA07051_00-5345491085292269",
     "region": "JP",
     "publisherId": "JP0211"
   },
@@ -26171,7 +26195,7 @@
     "titleId": "PPSA07053_00",
     "conceptId": 10004780,
     "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
-    "contentId": null,
+    "contentId": "EP5438-PPSA07053_00-9094929783521714",
     "region": "EP",
     "publisherId": "EP5438"
   },
@@ -28192,6 +28216,22 @@
     "publisherId": "UP8016"
   },
   {
+    "titleId": "PPSA07527_00",
+    "conceptId": 233994,
+    "name": "Ys IX: Monstrum Nox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07528_00",
+    "conceptId": 233994,
+    "name": "Ys IX: Monstrum Nox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07529_00",
     "conceptId": 10003214,
     "name": "Taco Break",
@@ -28491,9 +28531,9 @@
     "titleId": "PPSA07608_00",
     "conceptId": 10005057,
     "name": "Teslagrad 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4735-PPSA07608_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP4735"
   },
   {
     "titleId": "PPSA07609_00",
@@ -44502,6 +44542,38 @@
     "contentId": "HP8005-PPSA10903_00-7109483689404126",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA10905_00",
+    "conceptId": 10006379,
+    "name": "\u30de\u30ea\u30fc\u306e\u30a2\u30c8\u30ea\u30a8 Remake \uff5e\u30b6\u30fc\u30eb\u30d6\u30eb\u30b0\u306e\u932c\u91d1\u8853\u58eb\uff5e",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA10906_00",
+    "conceptId": 10006379,
+    "name": "Atelier Marie Remake: The Alchemist of Salburg",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0106"
+  },
+  {
+    "titleId": "PPSA10907_00",
+    "conceptId": 10006379,
+    "name": "Atelier Marie Remake: The Alchemist of Salburg (PS4 & PS5)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4108"
+  },
+  {
+    "titleId": "PPSA10908_00",
+    "conceptId": 10006379,
+    "name": "Atelier Marie Remake: The Alchemist of Salburg",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10918_00",
