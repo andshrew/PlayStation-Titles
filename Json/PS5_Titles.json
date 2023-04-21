@@ -3480,6 +3480,14 @@
     "publisherId": "HP1994"
   },
   {
+    "titleId": "PPSA02196_00",
+    "conceptId": 10001758,
+    "name": "Trackmania\u00ae",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02198_00",
     "conceptId": 232345,
     "name": "STAR WARS Jedi: Fallen Order\u2122",
@@ -8606,6 +8614,14 @@
     "contentId": "EP6960-PPSA03260_00-1010499476640141",
     "region": "EP",
     "publisherId": "EP6960"
+  },
+  {
+    "titleId": "PPSA03261_00",
+    "conceptId": 10002606,
+    "name": "Company of Heroes 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA03265_00",
@@ -17595,9 +17611,9 @@
     "titleId": "PPSA05202_00",
     "conceptId": 10003733,
     "name": "Stray Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4040-PPSA05202_00-STRAYBLADEPKG000",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA05206_00",
@@ -20022,6 +20038,14 @@
     "contentId": "HP9000-PPSA05686_00-UNCHARTED4R00000",
     "region": "HP",
     "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA05687_00",
+    "conceptId": 10002803,
+    "name": "AWAY: The Survival Series",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA05688_00",
@@ -25856,12 +25880,28 @@
     "publisherId": "UT0007"
   },
   {
+    "titleId": "PPSA06983_00",
+    "conceptId": 10004538,
+    "name": "OXENFREE II: Lost Signals PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4350"
+  },
+  {
     "titleId": "PPSA06984_00",
     "conceptId": 10004538,
     "name": "OXENFREE II: Lost Signals",
     "contentId": null,
     "region": "JA",
     "publisherId": "JA0010"
+  },
+  {
+    "titleId": "PPSA06985_00",
+    "conceptId": 10004538,
+    "name": "OXENFREE II: Lost Signals PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP8906"
   },
   {
     "titleId": "PPSA06986_00",
@@ -26187,7 +26227,7 @@
     "titleId": "PPSA07052_00",
     "conceptId": 10004780,
     "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
-    "contentId": null,
+    "contentId": "UP5258-PPSA07052_00-2240926562133962",
     "region": "UP",
     "publisherId": "UP5258"
   },
@@ -26694,6 +26734,22 @@
     "contentId": "HP0101-PPSA07184_00-TMNTCOWABUNGAXXX",
     "region": "HP",
     "publisherId": "HP0101"
+  },
+  {
+    "titleId": "PPSA07187_00",
+    "conceptId": 10001615,
+    "name": "Street Fighter 6 Demo",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0102"
+  },
+  {
+    "titleId": "PPSA07188_00",
+    "conceptId": 10001615,
+    "name": "Street Fighter 6 Demo",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0102"
   },
   {
     "titleId": "PPSA07189_00",
@@ -28539,9 +28595,9 @@
     "titleId": "PPSA07609_00",
     "conceptId": 10005057,
     "name": "Teslagrad 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4908-PPSA07609_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP4908"
   },
   {
     "titleId": "PPSA07611_00",
@@ -36864,6 +36920,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09338_00",
+    "conceptId": 10005777,
+    "name": "Fuga: Melodies of Steel 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09339_00",
+    "conceptId": 10005777,
+    "name": "Fuga: Melodies of Steel 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09340_00",
+    "conceptId": 10005777,
+    "name": "Fuga: Melodies of Steel 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09341_00",
+    "conceptId": 10005777,
+    "name": "Fuga: Melodies of Steel 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09353_00",
     "conceptId": 10005790,
     "name": "Snow Journey Nitro",
@@ -38414,6 +38502,14 @@
     "contentId": "UP6664-PPSA09712_00-2237490902963690",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09713_00",
+    "conceptId": 10002606,
+    "name": "Company of Heroes 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09715_00",
@@ -41544,6 +41640,22 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA10327_00",
+    "conceptId": 10006183,
+    "name": "Swordbreaker: Origins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10328_00",
+    "conceptId": 10006183,
+    "name": "Swordbreaker: Origins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10331_00",
     "conceptId": 10006146,
     "name": "Stroke The Tortoise",
@@ -44570,10 +44682,10 @@
   {
     "titleId": "PPSA10908_00",
     "conceptId": 10006379,
-    "name": "Atelier Marie Remake: The Alchemist of Salburg",
+    "name": "Atelier Marie Remake: The Alchemist of Salburg (PS4 & PS5)",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4108"
   },
   {
     "titleId": "PPSA10918_00",
@@ -46779,17 +46891,17 @@
     "titleId": "PPSA11542_00",
     "conceptId": 10006619,
     "name": "Cavity Busters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA11542_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA11543_00",
     "conceptId": 10006619,
     "name": "Cavity Busters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA11543_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA11546_00",
