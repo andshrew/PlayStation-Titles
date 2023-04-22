@@ -12896,6 +12896,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA04154_00",
+    "conceptId": 10003097,
+    "name": "XEL",
+    "contentId": "UP5290-PPSA04154_00-0823336720558508",
+    "region": "UP",
+    "publisherId": "UP5290"
+  },
+  {
     "titleId": "PPSA04158_00",
     "conceptId": 10003123,
     "name": "Goat Simulator 3",
@@ -17603,9 +17611,9 @@
     "titleId": "PPSA05201_00",
     "conceptId": 10003733,
     "name": "Stray Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4040-PPSA05201_00-STRAYBLADEPKG000",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA05202_00",
@@ -26736,6 +26744,22 @@
     "publisherId": "HP0101"
   },
   {
+    "titleId": "PPSA07185_00",
+    "conceptId": 10001615,
+    "name": "Street Fighter 6 Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
+    "titleId": "PPSA07186_00",
+    "conceptId": 10001615,
+    "name": "Street Fighter 6 Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0102"
+  },
+  {
     "titleId": "PPSA07187_00",
     "conceptId": 10001615,
     "name": "Street Fighter 6 Demo",
@@ -27443,9 +27467,9 @@
     "titleId": "PPSA07340_00",
     "conceptId": 10004912,
     "name": "Tales of the Neon Sea",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7529-PPSA07340_00-9313915584135818",
+    "region": "EP",
+    "publisherId": "EP7529"
   },
   {
     "titleId": "PPSA07341_00",
@@ -44574,6 +44598,14 @@
     "contentId": "HP7695-PPSA10885_00-6691192982644949",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA10886_00",
+    "conceptId": 234916,
+    "name": "Weird West",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10891_00",
