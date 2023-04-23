@@ -7779,9 +7779,9 @@
     "titleId": "PPSA03099_00",
     "conceptId": 201061,
     "name": "Dead Island 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4062-PPSA03099_00-DEADISLAND000000",
+    "region": "EP",
+    "publisherId": "EP4062"
   },
   {
     "titleId": "PPSA03106_00",
@@ -12902,6 +12902,14 @@
     "contentId": "UP5290-PPSA04154_00-0823336720558508",
     "region": "UP",
     "publisherId": "UP5290"
+  },
+  {
+    "titleId": "PPSA04155_00",
+    "conceptId": 10003097,
+    "name": "XEL",
+    "contentId": "EP5470-PPSA04155_00-7447536313832063",
+    "region": "EP",
+    "publisherId": "EP5470"
   },
   {
     "titleId": "PPSA04158_00",
@@ -44608,6 +44616,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10887_00",
+    "conceptId": 234916,
+    "name": "Weird West",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10891_00",
     "conceptId": 10005360,
     "name": "Flatout Pixel Racing",
@@ -46150,6 +46166,22 @@
     "contentId": "JP6595-PPSA11235_00-8456565075295035",
     "region": "JP",
     "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA11243_00",
+    "conceptId": 10006518,
+    "name": "DoraKone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11246_00",
+    "conceptId": 10006518,
+    "name": "DoraKone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11247_00",
