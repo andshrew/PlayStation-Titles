@@ -16232,6 +16232,14 @@
     "publisherId": "HP0507"
   },
   {
+    "titleId": "PPSA04880_00",
+    "conceptId": 10003604,
+    "name": "Railway Empire 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4365"
+  },
+  {
     "titleId": "PPSA04887_00",
     "conceptId": 10003611,
     "name": "Takorita Meets Fries",
@@ -18667,7 +18675,7 @@
     "titleId": "PPSA05412_00",
     "conceptId": 10003849,
     "name": "Stranded: Alien Dawn",
-    "contentId": null,
+    "contentId": "EP2377-PPSA05412_00-SAD0000000000000",
     "region": "EP",
     "publisherId": "EP2377"
   },
@@ -21265,6 +21273,14 @@
   },
   {
     "titleId": "PPSA05948_00",
+    "conceptId": 10004207,
+    "name": "Bat Boy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05949_00",
     "conceptId": 10004207,
     "name": "Bat Boy",
     "contentId": null,
@@ -24795,9 +24811,9 @@
     "titleId": "PPSA06711_00",
     "conceptId": 10001498,
     "name": "War Mongrels",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1947-PPSA06711_00-WMDCEU2021000001",
+    "region": "EP",
+    "publisherId": "EP1947"
   },
   {
     "titleId": "PPSA06712_00",
@@ -24891,9 +24907,9 @@
     "titleId": "PPSA06730_00",
     "conceptId": 10001498,
     "name": "War Mongrels",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1963-PPSA06730_00-WMDCUS2021000002",
+    "region": "UP",
+    "publisherId": "UP1963"
   },
   {
     "titleId": "PPSA06731_00",
@@ -32330,10 +32346,10 @@
   {
     "titleId": "PPSA08394_00",
     "conceptId": 10001851,
-    "name": "R-Type\u00ae Final 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "R-Type Final 3 Evolved",
+    "contentId": "UP1063-PPSA08394_00-0000000000000001",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA08395_00",
@@ -34163,9 +34179,9 @@
     "titleId": "PPSA08800_00",
     "conceptId": 10005566,
     "name": "Smile For Me",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0600-PPSA08800_00-NDXA5HDTHVLUT8H6",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA08801_00",
@@ -35706,10 +35722,10 @@
   {
     "titleId": "PPSA09091_00",
     "conceptId": 10004532,
-    "name": "Fairy Fencer F Refrain Chord",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fairy Fencer F: Refrain Chord",
+    "contentId": "UP0031-PPSA09091_00-9593727927127698",
+    "region": "UP",
+    "publisherId": "UP0031"
   },
   {
     "titleId": "PPSA09092_00",
@@ -38564,8 +38580,16 @@
     "conceptId": 10002606,
     "name": "Company of Heroes 3",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA09714_00",
+    "conceptId": 10002606,
+    "name": "Company of Heroes 3",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA09715_00",
@@ -41418,10 +41442,10 @@
   {
     "titleId": "PPSA10286_00",
     "conceptId": 10004532,
-    "name": "Fairy Fencer F Refrain Chord",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fairy Fencer F: Refrain Chord",
+    "contentId": "EP4060-PPSA10286_00-6391240082578853",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA10287_00",
@@ -42722,10 +42746,10 @@
   {
     "titleId": "PPSA10513_00",
     "conceptId": 10000337,
-    "name": "TRINITY TRIGGER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trinity Trigger",
+    "contentId": "UP1023-PPSA10513_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA10514_00",
@@ -44046,6 +44070,14 @@
     "contentId": "HP8005-PPSA10783_00-2469224375073013",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA10785_00",
+    "conceptId": 10006209,
+    "name": "Superfidos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10786_00",
@@ -46195,17 +46227,17 @@
     "titleId": "PPSA11243_00",
     "conceptId": 10006518,
     "name": "DoraKone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA11243_00-DORAKONERATALAIK",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA11246_00",
     "conceptId": 10006518,
     "name": "DoraKone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA11246_00-DORAKONERATALAIK",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA11247_00",
