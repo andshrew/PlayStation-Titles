@@ -13936,6 +13936,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA04378_00",
+    "conceptId": 10003271,
+    "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30fb\u30d5\u30a9\u30fc\u30b9",
+    "contentId": "JP1463-PPSA04378_00-3898435431170857",
+    "region": "JP",
+    "publisherId": "JP1463"
+  },
+  {
     "titleId": "PPSA04379_00",
     "conceptId": 10000438,
     "name": "Construction Simulator",
@@ -31298,8 +31306,8 @@
   {
     "titleId": "PPSA08176_00",
     "conceptId": 10005297,
-    "name": "LIVE A LIVE PS4&PS5",
-    "contentId": null,
+    "name": "LIVE A LIVE",
+    "contentId": "JP0082-PPSA08176_00-PS5JP00LIVEALIVE",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -31322,8 +31330,8 @@
   {
     "titleId": "PPSA08179_00",
     "conceptId": 10005297,
-    "name": "LIVE A LIVE PS4&PS5",
-    "contentId": null,
+    "name": "LIVE A LIVE",
+    "contentId": "HP0082-PPSA08179_00-PS5HP00LIVEALIVE",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -31942,6 +31950,14 @@
     "contentId": "UP0977-PPSA08311_00-4462717252188557",
     "region": "UP",
     "publisherId": "UP0977"
+  },
+  {
+    "titleId": "PPSA08312_00",
+    "conceptId": 10005351,
+    "name": "Aliens: Dark Descent",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA08314_00",
@@ -37346,10 +37362,10 @@
   {
     "titleId": "PPSA09425_00",
     "conceptId": 10004805,
-    "name": "Bramble: The Mountain King Demo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bramble The Mountain King",
+    "contentId": "UP1260-PPSA09425_00-0863551605945340",
+    "region": "UP",
+    "publisherId": "UP1260"
   },
   {
     "titleId": "PPSA09426_00",
@@ -37502,6 +37518,14 @@
     "contentId": "UP4312-PPSA09464_00-4360298774505018",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA09465_00",
+    "conceptId": 10005823,
+    "name": "AFL 23",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09468_00",
@@ -44075,9 +44099,9 @@
     "titleId": "PPSA10785_00",
     "conceptId": 10006209,
     "name": "Superfidos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8374-PPSA10785_00-4253368931429937",
+    "region": "EP",
+    "publisherId": "EP8374"
   },
   {
     "titleId": "PPSA10786_00",
