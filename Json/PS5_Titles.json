@@ -8628,8 +8628,8 @@
     "conceptId": 10002606,
     "name": "Company of Heroes 3",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA03265_00",
@@ -16246,6 +16246,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4365"
+  },
+  {
+    "titleId": "PPSA04881_00",
+    "conceptId": 10003604,
+    "name": "Railway Empire 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2060"
   },
   {
     "titleId": "PPSA04887_00",
@@ -25184,6 +25192,14 @@
     "publisherId": "JP5679"
   },
   {
+    "titleId": "PPSA06774_00",
+    "conceptId": 10001815,
+    "name": "ARMORED CORE VI FIRES OF RUBICON",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA06776_00",
     "conceptId": 233251,
     "name": "Bus Simulator 21",
@@ -25563,9 +25579,9 @@
     "titleId": "PPSA06871_00",
     "conceptId": 10003456,
     "name": "A Musical Story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA06871_00-AMUSICALSTORY000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA06872_00",
@@ -26774,6 +26790,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA07178_00",
+    "conceptId": 10004828,
+    "name": "8Doors: Arum's Afterlife Adventure",
+    "contentId": "HP1804-PPSA07178_00-9201806710366558",
+    "region": "HP",
+    "publisherId": "HP1804"
   },
   {
     "titleId": "PPSA07180_00",
@@ -30376,6 +30400,14 @@
     "publisherId": "UP4293"
   },
   {
+    "titleId": "PPSA07976_00",
+    "conceptId": 230658,
+    "name": "World War Z Aftermath",
+    "contentId": "JP1561-PPSA07976_00-WWZTHEGAME2021JP",
+    "region": "JP",
+    "publisherId": "JP1561"
+  },
+  {
     "titleId": "PPSA07977_00",
     "conceptId": 10003359,
     "name": "Gloom and Doom",
@@ -31314,16 +31346,16 @@
   {
     "titleId": "PPSA08177_00",
     "conceptId": 10005297,
-    "name": "LIVE A LIVE PS4&PS5",
-    "contentId": null,
+    "name": "LIVE A LIVE",
+    "contentId": "UP0082-PPSA08177_00-PS5UP00LIVEALIVE",
     "region": "UP",
     "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA08178_00",
     "conceptId": 10005297,
-    "name": "LIVE A LIVE PS4&PS5",
-    "contentId": null,
+    "name": "LIVE A LIVE",
+    "contentId": "EP0082-PPSA08178_00-PS5EP00LIVEALIVE",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -31958,6 +31990,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4133"
+  },
+  {
+    "titleId": "PPSA08313_00",
+    "conceptId": 10005351,
+    "name": "Aliens: Dark Descent",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4133"
   },
   {
     "titleId": "PPSA08314_00",
@@ -37370,10 +37410,10 @@
   {
     "titleId": "PPSA09426_00",
     "conceptId": 10004805,
-    "name": "Bramble: The Mountain King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bramble The Mountain King",
+    "contentId": "EP1121-PPSA09426_00-0313122782250518",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA09429_00",
@@ -44328,6 +44368,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10830_00",
+    "conceptId": 10005010,
+    "name": "Mothmen 1966",
+    "contentId": "EP5438-PPSA10830_00-9961648891367114",
+    "region": "EP",
+    "publisherId": "EP5438"
+  },
+  {
+    "titleId": "PPSA10831_00",
+    "conceptId": 10005010,
+    "name": "\u30e2\u30b9\u30e1\u30f3 1966",
+    "contentId": "JP0211-PPSA10831_00-7317232194139938",
+    "region": "JP",
+    "publisherId": "JP0211"
+  },
+  {
     "titleId": "PPSA10833_00",
     "conceptId": 10006363,
     "name": "The Iron Age",
@@ -46838,6 +46894,22 @@
     "contentId": "EP7333-PPSA11352_00-0611140945540247",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11353_00",
+    "conceptId": 10006551,
+    "name": "Loopy Ball",
+    "contentId": "JP7309-PPSA11353_00-9256425997481366",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11354_00",
+    "conceptId": 10006551,
+    "name": "Loopy Ball",
+    "contentId": "HP7354-PPSA11354_00-9908610901358126",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11356_00",
