@@ -3480,6 +3480,14 @@
     "publisherId": "HP1994"
   },
   {
+    "titleId": "PPSA02194_00",
+    "conceptId": 10001758,
+    "name": "Trackmania\u00ae",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02195_00",
     "conceptId": 10001758,
     "name": "Trackmania\u00ae",
@@ -3758,6 +3766,14 @@
     "contentId": "UP0036-PPSA02268_00-GGSTOBTUS0000100",
     "region": "UP",
     "publisherId": "UP0036"
+  },
+  {
+    "titleId": "PPSA02269_00",
+    "conceptId": 10001815,
+    "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122 PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0506"
   },
   {
     "titleId": "PPSA02270_00",
@@ -25192,6 +25208,22 @@
     "publisherId": "JP5679"
   },
   {
+    "titleId": "PPSA06772_00",
+    "conceptId": 10001815,
+    "name": "ARMORED CORE VI FIRES OF RUBICON PS4\uff06PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA06773_00",
+    "conceptId": 10001815,
+    "name": "ARMORED CORE VI FIRES OF RUBICON PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA06774_00",
     "conceptId": 10001815,
     "name": "ARMORED CORE VI FIRES OF RUBICON",
@@ -26779,17 +26811,25 @@
     "titleId": "PPSA07175_00",
     "conceptId": 10004828,
     "name": "8Doors: Arum's Afterlife Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1685-PPSA07175_00-8054878199970457",
+    "region": "UP",
+    "publisherId": "UP1685"
   },
   {
     "titleId": "PPSA07176_00",
     "conceptId": 10004828,
     "name": "8Doors: Arum's Afterlife Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1672-PPSA07176_00-3203946932099148",
+    "region": "EP",
+    "publisherId": "EP1672"
+  },
+  {
+    "titleId": "PPSA07177_00",
+    "conceptId": 10004828,
+    "name": "8Doors: Arum's Afterlife Adventure",
+    "contentId": "JP1942-PPSA07177_00-2976399128693776",
+    "region": "JP",
+    "publisherId": "JP1942"
   },
   {
     "titleId": "PPSA07178_00",
@@ -29506,16 +29546,16 @@
   {
     "titleId": "PPSA07783_00",
     "conceptId": 10005114,
-    "name": "STAR WARS Jedi: Survivor\u2122 Standard Edition",
-    "contentId": null,
+    "name": "STAR WARS Jedi: Survivor\u2122",
+    "contentId": "UP0006-PPSA07783_00-RESPAWNAPPLEJACK",
     "region": "UP",
     "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA07784_00",
     "conceptId": 10005114,
-    "name": "STAR WARS Jedi: Survivor\u2122 Standard Edition",
-    "contentId": null,
+    "name": "STAR WARS Jedi: Survivor\u2122",
+    "contentId": "EP0006-PPSA07784_00-RESPAWNAPPLEJACK",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -32410,10 +32450,10 @@
   {
     "titleId": "PPSA08395_00",
     "conceptId": 10001851,
-    "name": "R-Type\u00ae Final 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "R-Type Final 3 Evolved",
+    "contentId": "EP1063-PPSA08395_00-0000000000000001",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA08400_00",
@@ -38792,6 +38832,22 @@
     "publisherId": "HP0036"
   },
   {
+    "titleId": "PPSA09753_00",
+    "conceptId": 10003289,
+    "name": "Monster Menu: The Scavenger's Cookbook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09754_00",
+    "conceptId": 10003289,
+    "name": "Monster Menu: The Scavenger's Cookbook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09755_00",
     "conceptId": 10000453,
     "name": "Guilty Gear -Strive- Cross-Platform Open Beta",
@@ -44368,6 +44424,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10829_00",
+    "conceptId": 10005010,
+    "name": "Mothmen 1966",
+    "contentId": "UP5258-PPSA10829_00-2648607830648142",
+    "region": "UP",
+    "publisherId": "UP5258"
+  },
+  {
     "titleId": "PPSA10830_00",
     "conceptId": 10005010,
     "name": "Mothmen 1966",
@@ -47134,5 +47198,13 @@
     "contentId": "EP7099-PPSA11547_00-PPGEMFCRONOSTASE",
     "region": "EP",
     "publisherId": "EP7099"
+  },
+  {
+    "titleId": "PPSA11657_00",
+    "conceptId": 10006658,
+    "name": "Panic House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
