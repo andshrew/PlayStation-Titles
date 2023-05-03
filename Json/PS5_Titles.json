@@ -22216,6 +22216,14 @@
     "publisherId": "UP2514"
   },
   {
+    "titleId": "PPSA06141_00",
+    "conceptId": 10004282,
+    "name": "Super Mega Baseball\u2122 4 Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA06146_00",
     "conceptId": 217102,
     "name": "Furi",
@@ -26158,6 +26166,22 @@
     "contentId": "UP0700-PPSA07007_00-GUNDAMEVOLUTION0",
     "region": "UP",
     "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA07008_00",
+    "conceptId": 10004752,
+    "name": "TORINTO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07009_00",
+    "conceptId": 10004752,
+    "name": "TORINTO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07011_00",
@@ -37304,6 +37328,14 @@
     "publisherId": "UP3639"
   },
   {
+    "titleId": "PPSA09385_00",
+    "conceptId": 228694,
+    "name": "The Caligula Effect: Overdose",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09388_00",
     "conceptId": 10002670,
     "name": "Neptunia: Sisters VS Sisters Digital Art Book",
@@ -37366,6 +37398,38 @@
     "contentId": "EP8017-PPSA09410_00-3047017824246059",
     "region": "EP",
     "publisherId": "EP8017"
+  },
+  {
+    "titleId": "PPSA09411_00",
+    "conceptId": 10005808,
+    "name": "Reverie: Sweet As Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09412_00",
+    "conceptId": 10005808,
+    "name": "Reverie: Sweet As Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09413_00",
+    "conceptId": 10005808,
+    "name": "Reverie: Sweet As Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09414_00",
+    "conceptId": 10005808,
+    "name": "Reverie: Sweet As Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09415_00",
@@ -39078,6 +39142,22 @@
     "contentId": "UP8089-PPSA09800_00-6956344800398007",
     "region": "UP",
     "publisherId": "UP8089"
+  },
+  {
+    "titleId": "PPSA09801_00",
+    "conceptId": 10006008,
+    "name": "F1\u00ae 23",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09802_00",
+    "conceptId": 10006008,
+    "name": "F1\u00ae 23",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09803_00",
@@ -41803,9 +41883,25 @@
     "titleId": "PPSA10320_00",
     "conceptId": 10006181,
     "name": "Weeping Willow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA10320_00-SYPS5WEEPINGWILL",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA10321_00",
+    "conceptId": 10006181,
+    "name": "Weeping Willow",
+    "contentId": "JP1932-PPSA10321_00-SYPS5WEEPINGWILL",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA10322_00",
+    "conceptId": 10006181,
+    "name": "Weeping Willow",
+    "contentId": "HP1792-PPSA10322_00-SYPS5WEEPINGWILL",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA10323_00",
