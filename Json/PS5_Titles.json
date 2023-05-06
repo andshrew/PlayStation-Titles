@@ -20712,12 +20712,28 @@
     "publisherId": "UP2006"
   },
   {
+    "titleId": "PPSA05826_00",
+    "conceptId": 10004095,
+    "name": "Grindstone",
+    "contentId": "UP2003-PPSA05826_00-GRINDSTONE000000",
+    "region": "UP",
+    "publisherId": "UP2003"
+  },
+  {
     "titleId": "PPSA05827_00",
     "conceptId": 10003353,
     "name": "Dakar Desert Rally",
     "contentId": "UP6856-PPSA05827_00-DKRGAMEPS50000US",
     "region": "UP",
     "publisherId": "UP6856"
+  },
+  {
+    "titleId": "PPSA05828_00",
+    "conceptId": 10004095,
+    "name": "Grindstone",
+    "contentId": "EP2003-PPSA05828_00-GRINDSTONE000000",
+    "region": "EP",
+    "publisherId": "EP2003"
   },
   {
     "titleId": "PPSA05829_00",
@@ -22222,6 +22238,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0006"
+  },
+  {
+    "titleId": "PPSA06142_00",
+    "conceptId": 10004282,
+    "name": "Super Mega Baseball\u2122 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06146_00",
@@ -25240,6 +25264,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA06775_00",
+    "conceptId": 233251,
+    "name": "Bus Simulator 21",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06776_00",
     "conceptId": 233251,
     "name": "Bus Simulator 21",
@@ -28019,7 +28051,7 @@
     "titleId": "PPSA07433_00",
     "conceptId": 10004957,
     "name": "Age of Wonders 4",
-    "contentId": null,
+    "contentId": "EP4139-PPSA07433_00-AOW4BG00000001EU",
     "region": "EP",
     "publisherId": "EP4139"
   },
@@ -28027,7 +28059,7 @@
     "titleId": "PPSA07434_00",
     "conceptId": 10004957,
     "name": "Age of Wonders 4",
-    "contentId": null,
+    "contentId": "UP4139-PPSA07434_00-AOW4BG00000001NA",
     "region": "UP",
     "publisherId": "UP4139"
   },
@@ -37328,6 +37360,14 @@
     "publisherId": "UP3639"
   },
   {
+    "titleId": "PPSA09384_00",
+    "conceptId": 228694,
+    "name": "The Caligula Effect: Overdose",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09385_00",
     "conceptId": 228694,
     "name": "The Caligula Effect: Overdose",
@@ -37592,6 +37632,22 @@
     "publisherId": "EP5938"
   },
   {
+    "titleId": "PPSA09441_00",
+    "conceptId": 10005462,
+    "name": "DRIFTCE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09442_00",
+    "conceptId": 10005462,
+    "name": "DRIFTCE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09443_00",
     "conceptId": 10002670,
     "name": "Neptunia: Sisters VS Sisters",
@@ -37667,9 +37723,17 @@
     "titleId": "PPSA09465_00",
     "conceptId": 10005823,
     "name": "AFL 23",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6665-PPSA09465_00-AFL2300000000000",
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA09466_00",
+    "conceptId": 10005823,
+    "name": "AFL 23",
+    "contentId": "UP6665-PPSA09466_00-AFL2300000000000",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA09468_00",
@@ -39146,18 +39210,18 @@
   {
     "titleId": "PPSA09801_00",
     "conceptId": 10006008,
-    "name": "F1\u00ae 23",
+    "name": "F1\u00ae 23 Standard Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA09802_00",
     "conceptId": 10006008,
-    "name": "F1\u00ae 23",
+    "name": "F1\u00ae 23 Standard Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0006"
   },
   {
     "titleId": "PPSA09803_00",
@@ -41875,9 +41939,9 @@
     "titleId": "PPSA10319_00",
     "conceptId": 10006181,
     "name": "Weeping Willow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA10319_00-SYPS5WEEPINGWILL",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA10320_00",
@@ -41939,17 +42003,25 @@
     "titleId": "PPSA10327_00",
     "conceptId": 10006183,
     "name": "Swordbreaker: Origins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA10327_00-SYPS5SWORDORIGIN",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA10328_00",
     "conceptId": 10006183,
     "name": "Swordbreaker: Origins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA10328_00-SYPS5SWORDORIGIN",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA10330_00",
+    "conceptId": 10006183,
+    "name": "Swordbreaker: Origins",
+    "contentId": "HP1792-PPSA10330_00-SYPS5SWORDORIGIN",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA10331_00",
@@ -43670,6 +43742,22 @@
     "contentId": "EP7182-PPSA10681_00-2244758333959402",
     "region": "EP",
     "publisherId": "EP7182"
+  },
+  {
+    "titleId": "PPSA10682_00",
+    "conceptId": 10006305,
+    "name": "MotoGP\u212223 PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4356"
+  },
+  {
+    "titleId": "PPSA10683_00",
+    "conceptId": 10006305,
+    "name": "MotoGP\u212223 PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1981"
   },
   {
     "titleId": "PPSA10686_00",
@@ -47264,6 +47352,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA11541_00",
+    "conceptId": 10006487,
+    "name": "Story of Seasons : A Wonderful life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11542_00",
     "conceptId": 10006619,
     "name": "Cavity Busters",
@@ -47302,5 +47398,21 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA11659_00",
+    "conceptId": 10006658,
+    "name": "Panic House",
+    "contentId": "JP7309-PPSA11659_00-2799306642805443",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11661_00",
+    "conceptId": 10006658,
+    "name": "Panic House",
+    "contentId": "HP7354-PPSA11661_00-8904854878652675",
+    "region": "HP",
+    "publisherId": "HP7354"
   }
 ]
