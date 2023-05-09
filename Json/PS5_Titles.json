@@ -33224,6 +33224,14 @@
     "publisherId": "JP4236"
   },
   {
+    "titleId": "PPSA08558_00",
+    "conceptId": 10005448,
+    "name": "Robolt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08570_00",
     "conceptId": 10005456,
     "name": "The Jumping Fries: TURBO",
@@ -34238,6 +34246,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA08779_00",
+    "conceptId": 10002761,
+    "name": "Evil Dead: The Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08781_00",
@@ -38000,6 +38016,14 @@
     "publisherId": "UP5180"
   },
   {
+    "titleId": "PPSA09522_00",
+    "conceptId": 10005847,
+    "name": "Killer Frequency",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09524_00",
     "conceptId": 10005831,
     "name": "The Last Spell",
@@ -38958,6 +38982,14 @@
     "contentId": "HP0036-PPSA09740_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP0036"
+  },
+  {
+    "titleId": "PPSA09743_00",
+    "conceptId": 10005964,
+    "name": "PokerStars VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09753_00",
@@ -44995,17 +45027,17 @@
     "titleId": "PPSA10886_00",
     "conceptId": 234916,
     "name": "Weird West",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3643-PPSA10886_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA10887_00",
     "conceptId": 234916,
     "name": "Weird West",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3643-PPSA10887_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3643"
   },
   {
     "titleId": "PPSA10891_00",
