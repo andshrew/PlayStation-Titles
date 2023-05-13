@@ -22987,9 +22987,9 @@
     "titleId": "PPSA06314_00",
     "conceptId": 10004302,
     "name": "Despot's Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0097-PPSA06314_00-2107942670243185",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA06315_00",
@@ -28547,9 +28547,9 @@
     "titleId": "PPSA07528_00",
     "conceptId": 233994,
     "name": "Ys IX: Monstrum Nox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA07528_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA07529_00",
@@ -34458,16 +34458,16 @@
   {
     "titleId": "PPSA08810_00",
     "conceptId": 10005573,
-    "name": "TT Isle Of Man 3 - Standard Edition Pre-order",
-    "contentId": null,
+    "name": "TT Isle of Man: Ride on the Edge 3",
+    "contentId": "EP6665-PPSA08810_00-TT30000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA08811_00",
     "conceptId": 10005573,
-    "name": "TT Isle Of Man 3 - Standard Edition Pre-order",
-    "contentId": null,
+    "name": "TT Isle of Man: Ride on the Edge 3",
+    "contentId": "UP6665-PPSA08811_00-TT30000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -44174,6 +44174,14 @@
     "contentId": "JP0013-PPSA10729_00-JP0SMILEA0000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA10734_00",
+    "conceptId": 10002211,
+    "name": "XDefiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10736_00",
