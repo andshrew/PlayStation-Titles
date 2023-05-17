@@ -11075,9 +11075,9 @@
     "titleId": "PPSA03788_00",
     "conceptId": 233011,
     "name": "HUMANITY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0748-PPSA03788_00-HUMANITYGAME0001",
+    "region": "EP",
+    "publisherId": "EP0748"
   },
   {
     "titleId": "PPSA03789_00",
@@ -11091,9 +11091,9 @@
     "titleId": "PPSA03790_00",
     "conceptId": 233011,
     "name": "HUMANITY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0797-PPSA03790_00-HUMANITYGAME0001",
+    "region": "HP",
+    "publisherId": "HP0797"
   },
   {
     "titleId": "PPSA03791_00",
@@ -13312,6 +13312,14 @@
     "publisherId": "UP7013"
   },
   {
+    "titleId": "PPSA04256_00",
+    "conceptId": 10002919,
+    "name": "Infini",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04259_00",
     "conceptId": 232216,
     "name": "Dungeons Of Sundaria",
@@ -13342,6 +13350,22 @@
     "contentId": "UP1952-PPSA04262_00-8372473865253094",
     "region": "UP",
     "publisherId": "UP1952"
+  },
+  {
+    "titleId": "PPSA04263_00",
+    "conceptId": 201930,
+    "name": "Grand Theft Auto V (PlayStation\u00ae5)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA04264_00",
+    "conceptId": 201930,
+    "name": "Grand Theft Auto V (PlayStation\u00ae5)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA04266_00",
@@ -20688,6 +20712,14 @@
     "publisherId": "EP6083"
   },
   {
+    "titleId": "PPSA05811_00",
+    "conceptId": 10004136,
+    "name": "Kargast",
+    "contentId": "UP5155-PPSA05811_00-KARGAST000000000",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
     "titleId": "PPSA05813_00",
     "conceptId": 10004123,
     "name": "The Quarry",
@@ -22662,6 +22694,14 @@
     "contentId": "JP0108-PPSA06215_00-OUTWARDDEFJP0000",
     "region": "JP",
     "publisherId": "JP0108"
+  },
+  {
+    "titleId": "PPSA06217_00",
+    "conceptId": 10004322,
+    "name": "Miasma Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06220_00",
@@ -25314,10 +25354,26 @@
   {
     "titleId": "PPSA06776_00",
     "conceptId": 233251,
-    "name": "Bus Simulator 21",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bus Simulator 21 Next Stop",
+    "contentId": "EP2430-PPSA06776_00-BUSSIMXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP2430"
+  },
+  {
+    "titleId": "PPSA06782_00",
+    "conceptId": 10004651,
+    "name": "Syphon Filter: Logan's Shadow",
+    "contentId": "UP9000-PPSA06782_00-UCUS986060000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA06783_00",
+    "conceptId": 10004651,
+    "name": "Syphon Filter: Logan's Shadow",
+    "contentId": "EP9000-PPSA06783_00-UCES007100000000",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA06785_00",
@@ -31928,6 +31984,14 @@
     "publisherId": "HP7517"
   },
   {
+    "titleId": "PPSA08266_00",
+    "conceptId": 10005325,
+    "name": "Budget Cuts Ultimate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08268_00",
     "conceptId": 10002381,
     "name": "Tanks vs Tanks",
@@ -32664,7 +32728,31 @@
     "publisherId": "UP5180"
   },
   {
+    "titleId": "PPSA08416_00",
+    "conceptId": 10003139,
+    "name": "The Lord of the Rings: Gollum\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08417_00",
+    "conceptId": 10003139,
+    "name": "The Lord of the Rings: Gollum\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08418_00",
+    "conceptId": 10003139,
+    "name": "The Lord of the Rings: Gollum\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08419_00",
     "conceptId": 10003139,
     "name": "The Lord of the Rings: Gollum\u2122",
     "contentId": null,
@@ -35326,6 +35414,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA08951_00",
+    "conceptId": 10005624,
+    "name": "We Love Katamari REROLL+ Royal Reverie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08952_00",
@@ -39754,34 +39850,34 @@
   {
     "titleId": "PPSA09874_00",
     "conceptId": 10001615,
-    "name": "Street Fighter 6",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Street Fighter 6 - Open Beta",
+    "contentId": "UP0102-PPSA09874_00-SF6BETA000000000",
+    "region": "UP",
+    "publisherId": "UP0102"
   },
   {
     "titleId": "PPSA09875_00",
     "conceptId": 10001615,
-    "name": "Street Fighter 6",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Street Fighter 6 - Open Beta",
+    "contentId": "EP0102-PPSA09875_00-SF6BETA000000000",
+    "region": "EP",
+    "publisherId": "EP0102"
   },
   {
     "titleId": "PPSA09876_00",
     "conceptId": 10001615,
-    "name": "Street Fighter 6",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Street Fighter 6 - Open Beta",
+    "contentId": "JP0102-PPSA09876_00-SF6BETA000000000",
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA09877_00",
     "conceptId": 10001615,
-    "name": "Street Fighter 6",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Street Fighter 6 - Open Beta",
+    "contentId": "HP0102-PPSA09877_00-SF6BETA000000000",
+    "region": "HP",
+    "publisherId": "HP0102"
   },
   {
     "titleId": "PPSA09886_00",
@@ -43720,6 +43816,30 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA10609_00",
+    "conceptId": 10006276,
+    "name": "Pursuit Force",
+    "contentId": "UP9000-PPSA10609_00-UCUS986400000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA10610_00",
+    "conceptId": 10006276,
+    "name": "Pursuit Force",
+    "contentId": "EP9000-PPSA10610_00-UCES000190000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA10611_00",
+    "conceptId": 10006276,
+    "name": "Pursuit Force",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10616_00",
     "conceptId": 10005762,
     "name": "Marfusha",
@@ -44193,6 +44313,14 @@
   },
   {
     "titleId": "PPSA10734_00",
+    "conceptId": 10002211,
+    "name": "XDefiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10735_00",
     "conceptId": 10002211,
     "name": "XDefiant",
     "contentId": null,
@@ -45066,10 +45194,10 @@
   {
     "titleId": "PPSA10866_00",
     "conceptId": 10000337,
-    "name": "TRINITY TRIGGER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trinity Trigger",
+    "contentId": "EP4492-PPSA10866_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA10867_00",
@@ -45851,17 +45979,17 @@
     "titleId": "PPSA11047_00",
     "conceptId": 10003872,
     "name": "Warlander",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8268-PPSA11047_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP8268"
   },
   {
     "titleId": "PPSA11051_00",
     "conceptId": 10003872,
     "name": "Warlander",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8459-PPSA11051_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP8459"
   },
   {
     "titleId": "PPSA11053_00",
@@ -45870,6 +45998,14 @@
     "contentId": "JP5432-PPSA11053_00-0781273966214245",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA11058_00",
+    "conceptId": 10006452,
+    "name": "Pool Blitz",
+    "contentId": "UP4068-PPSA11058_00-POOLBLITZCPG0001",
+    "region": "UP",
+    "publisherId": "UP4068"
   },
   {
     "titleId": "PPSA11059_00",
@@ -46272,6 +46408,38 @@
     "publisherId": "HP9000"
   },
   {
+    "titleId": "PPSA11137_00",
+    "conceptId": 10006483,
+    "name": "Blade Dancer: Lineage of Light",
+    "contentId": "UP9000-PPSA11137_00-ULUS101240000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA11138_00",
+    "conceptId": 10006483,
+    "name": "Blade Dancer: Lineage of Light",
+    "contentId": "EP9000-PPSA11138_00-ULES005410000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA11139_00",
+    "conceptId": 10006483,
+    "name": "\u30d6\u30ec\u30a4\u30c9\u30c0\u30f3\u30b5\u30fc \u5343\u5e74\u306e\u7d04\u675f",
+    "contentId": "JP9000-PPSA11139_00-UCJS100210000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA11140_00",
+    "conceptId": 10006483,
+    "name": "Blade Dancer: Lineage of Light",
+    "contentId": "HP9000-PPSA11140_00-UCAS400640000000",
+    "region": "HP",
+    "publisherId": "HP9000"
+  },
+  {
     "titleId": "PPSA11147_00",
     "conceptId": 10005479,
     "name": "Shark Pinball",
@@ -46494,6 +46662,14 @@
     "contentId": "HP7354-PPSA11190_00-6683424423260025",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA11192_00",
+    "conceptId": 10006276,
+    "name": "\u30d1\u30fc\u30b9\u30fc\u30c8\u30d5\u30a9\u30fc\u30b9 \uff5e\u5927\u8ffd\u8de1\uff5e",
+    "contentId": "JP9000-PPSA11192_00-ULJM050970000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA11198_00",
