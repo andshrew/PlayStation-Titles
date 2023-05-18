@@ -7707,9 +7707,9 @@
     "titleId": "PPSA03079_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4382-PPSA03079_00-TINHEARTS0000000",
+    "region": "EP",
+    "publisherId": "EP4382"
   },
   {
     "titleId": "PPSA03080_00",
@@ -11083,9 +11083,9 @@
     "titleId": "PPSA03789_00",
     "conceptId": 233011,
     "name": "HUMANITY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1049-PPSA03789_00-HUMANITYGAME0001",
+    "region": "JP",
+    "publisherId": "JP1049"
   },
   {
     "titleId": "PPSA03790_00",
@@ -11747,6 +11747,14 @@
     "titleId": "PPSA03928_00",
     "conceptId": 10002872,
     "name": "Star+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA03930_00",
+    "conceptId": 10002624,
+    "name": "Gibbon: Beyond the Trees PS4 & PS5",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -20720,6 +20728,14 @@
     "publisherId": "UP5155"
   },
   {
+    "titleId": "PPSA05812_00",
+    "conceptId": 10004136,
+    "name": "Kargast",
+    "contentId": "EP5335-PPSA05812_00-KARGAST000000000",
+    "region": "EP",
+    "publisherId": "EP5335"
+  },
+  {
     "titleId": "PPSA05813_00",
     "conceptId": 10004123,
     "name": "The Quarry",
@@ -22718,6 +22734,22 @@
     "contentId": "EP7333-PPSA06221_00-3194702650505323",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA06222_00",
+    "conceptId": 10004322,
+    "name": "Miasma Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06223_00",
+    "conceptId": 10004322,
+    "name": "Miasma Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06225_00",
@@ -25346,10 +25378,10 @@
   {
     "titleId": "PPSA06775_00",
     "conceptId": 233251,
-    "name": "Bus Simulator 21",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bus Simulator 21 Next Stop",
+    "contentId": "UP2565-PPSA06775_00-BUSSIMXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP2565"
   },
   {
     "titleId": "PPSA06776_00",
@@ -32726,6 +32758,14 @@
     "contentId": "UP5180-PPSA08411_00-CURSEDTOGOLFP5US",
     "region": "UP",
     "publisherId": "UP5180"
+  },
+  {
+    "titleId": "PPSA08412_00",
+    "conceptId": 10002388,
+    "name": "Super Toy Cars Offroad",
+    "contentId": "JP1134-PPSA08412_00-2840414859550744",
+    "region": "JP",
+    "publisherId": "JP1134"
   },
   {
     "titleId": "PPSA08416_00",
@@ -44099,9 +44139,9 @@
     "titleId": "PPSA10699_00",
     "conceptId": 10004444,
     "name": "Trifox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA10699_00-TRIFOX0000000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA10701_00",
