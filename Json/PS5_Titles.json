@@ -13307,9 +13307,9 @@
     "titleId": "PPSA04247_00",
     "conceptId": 10002919,
     "name": "Infini",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4467-PPSA04247_00-INFINIPS5AMERICA",
+    "region": "UP",
+    "publisherId": "UP4467"
   },
   {
     "titleId": "PPSA04248_00",
@@ -13369,6 +13369,14 @@
   },
   {
     "titleId": "PPSA04264_00",
+    "conceptId": 201930,
+    "name": "Grand Theft Auto V (PlayStation\u00ae5)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA04265_00",
     "conceptId": 201930,
     "name": "Grand Theft Auto V (PlayStation\u00ae5)",
     "contentId": null,
@@ -32768,6 +32776,14 @@
     "publisherId": "JP1134"
   },
   {
+    "titleId": "PPSA08413_00",
+    "conceptId": 10002388,
+    "name": "Super Toy Cars Offroad",
+    "contentId": "HP0980-PPSA08413_00-4113566600533613",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA08416_00",
     "conceptId": 10003139,
     "name": "The Lord of the Rings: Gollum\u2122",
@@ -46118,6 +46134,14 @@
     "contentId": "JP5134-PPSA11076_00-MELONJOURNEY2JPN",
     "region": "JP",
     "publisherId": "JP5134"
+  },
+  {
+    "titleId": "PPSA11080_00",
+    "conceptId": 10006465,
+    "name": "Ed-0: Zombie Uprising",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0367"
   },
   {
     "titleId": "PPSA11085_00",
