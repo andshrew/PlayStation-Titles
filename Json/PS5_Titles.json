@@ -7715,9 +7715,9 @@
     "titleId": "PPSA03080_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4382-PPSA03080_00-TINHEARTS0000000",
+    "region": "UP",
+    "publisherId": "UP4382"
   },
   {
     "titleId": "PPSA03083_00",
@@ -10987,9 +10987,9 @@
     "titleId": "PPSA03771_00",
     "conceptId": 233011,
     "name": "HUMANITY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0751-PPSA03771_00-HUMANITYGAME0001",
+    "region": "UP",
+    "publisherId": "UP0751"
   },
   {
     "titleId": "PPSA03772_00",
@@ -11753,6 +11753,14 @@
   },
   {
     "titleId": "PPSA03930_00",
+    "conceptId": 10002624,
+    "name": "Gibbon: Beyond the Trees PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA03931_00",
     "conceptId": 10002624,
     "name": "Gibbon: Beyond the Trees PS4 & PS5",
     "contentId": null,
@@ -13323,9 +13331,9 @@
     "titleId": "PPSA04256_00",
     "conceptId": 10002919,
     "name": "Infini",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1032-PPSA04256_00-INFINIPS5EUROPE0",
+    "region": "EP",
+    "publisherId": "EP1032"
   },
   {
     "titleId": "PPSA04259_00",
@@ -26592,6 +26600,14 @@
     "publisherId": "UP5756"
   },
   {
+    "titleId": "PPSA07064_00",
+    "conceptId": 10002848,
+    "name": "Lords of the Fallen",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4321"
+  },
+  {
     "titleId": "PPSA07067_00",
     "conceptId": 10004738,
     "name": "Saint Patrick's Day Break 2 Head to Head",
@@ -31690,8 +31706,8 @@
   {
     "titleId": "PPSA08187_00",
     "conceptId": 10003091,
-    "name": "LEGO\u00ae 2K Drive Cross-Gen Standard Edition",
-    "contentId": null,
+    "name": "LEGO\u00ae 2K Drive",
+    "contentId": "EP1001-PPSA08187_00-00000ARTEMISSIEE",
     "region": "EP",
     "publisherId": "EP1001"
   },
@@ -46134,6 +46150,14 @@
     "contentId": "JP5134-PPSA11076_00-MELONJOURNEY2JPN",
     "region": "JP",
     "publisherId": "JP5134"
+  },
+  {
+    "titleId": "PPSA11079_00",
+    "conceptId": 10006465,
+    "name": "Ed-0: Zombie Uprising",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0367"
   },
   {
     "titleId": "PPSA11080_00",
