@@ -3490,10 +3490,10 @@
   {
     "titleId": "PPSA02195_00",
     "conceptId": 10001758,
-    "name": "Trackmania\u00ae",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trackmania",
+    "contentId": "EP0001-PPSA02195_00-GAME000000000000",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA02196_00",
@@ -10256,6 +10256,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA03641_00",
+    "conceptId": 10002848,
+    "name": "Lords of the Fallen",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4321"
+  },
+  {
     "titleId": "PPSA03642_00",
     "conceptId": 10002811,
     "name": "Among Us",
@@ -12354,8 +12362,8 @@
   {
     "titleId": "PPSA04048_00",
     "conceptId": 10003091,
-    "name": "LEGO\u00ae 2K Drive Cross-Gen Standard Edition",
-    "contentId": null,
+    "name": "LEGO\u00ae 2K Drive",
+    "contentId": "UP1001-PPSA04048_00-00000ARTEMISSIEA",
     "region": "UP",
     "publisherId": "UP1001"
   },
@@ -28798,6 +28806,22 @@
     "contentId": "EP3678-PPSA07565_00-1396336079738365",
     "region": "EP",
     "publisherId": "EP3678"
+  },
+  {
+    "titleId": "PPSA07570_00",
+    "conceptId": 10004911,
+    "name": "Mortal Kombat 1",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1018"
+  },
+  {
+    "titleId": "PPSA07571_00",
+    "conceptId": 10004911,
+    "name": "Mortal Kombat 1",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1018"
   },
   {
     "titleId": "PPSA07574_00",
