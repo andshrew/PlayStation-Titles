@@ -3482,10 +3482,10 @@
   {
     "titleId": "PPSA02194_00",
     "conceptId": 10001758,
-    "name": "Trackmania\u00ae",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trackmania",
+    "contentId": "UP0001-PPSA02194_00-GAME000000000000",
+    "region": "UP",
+    "publisherId": "UP0001"
   },
   {
     "titleId": "PPSA02195_00",
@@ -22275,7 +22275,7 @@
     "titleId": "PPSA06130_00",
     "conceptId": 10004220,
     "name": "\u30b3\u30f3\u30d0\u30fc\u30b8\u30a7\u30f3\u30b9\uff1a\u30ea\u30fc\u30b0\u30fb\u30aa\u30d6\u30fb\u30ec\u30b8\u30a7\u30f3\u30c9 \u30b9\u30c8\u30fc\u30ea\u30fc\u2122",
-    "contentId": null,
+    "contentId": "JP6525-PPSA06130_00-CONVERGENCELOLJP",
     "region": "JP",
     "publisherId": "JP6525"
   },
@@ -26355,9 +26355,9 @@
     "titleId": "PPSA07008_00",
     "conceptId": 10004752,
     "name": "TORINTO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA07008_00-TORINTO000000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA07009_00",
@@ -27362,16 +27362,16 @@
   {
     "titleId": "PPSA07247_00",
     "conceptId": 10004833,
-    "name": "Warhammer 40,000: Boltgun (PS4 & PS5)",
-    "contentId": null,
+    "name": "Warhammer 40,000: Boltgun",
+    "contentId": "EP4133-PPSA07247_00-000000000BOLTGUN",
     "region": "EP",
     "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA07248_00",
     "conceptId": 10004833,
-    "name": "Warhammer 40,000: Boltgun (PS4 & PS5)",
-    "contentId": null,
+    "name": "Warhammer 40,000: Boltgun",
+    "contentId": "UP4133-PPSA07248_00-000000000BOLTGUN",
     "region": "UP",
     "publisherId": "UP4133"
   },
@@ -39291,9 +39291,9 @@
     "titleId": "PPSA09753_00",
     "conceptId": 10003289,
     "name": "Monster Menu: The Scavenger's Cookbook",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1063-PPSA09753_00-000000UNDEREATER",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA09754_00",
