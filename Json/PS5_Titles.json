@@ -20170,10 +20170,10 @@
   {
     "titleId": "PPSA05687_00",
     "conceptId": 10002803,
-    "name": "AWAY: The Survival Series",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Away: The Survival Series",
+    "contentId": "JP0530-PPSA05687_00-AWAY0000ASIA0PS5",
+    "region": "JP",
+    "publisherId": "JP0530"
   },
   {
     "titleId": "PPSA05688_00",
@@ -21403,25 +21403,25 @@
     "titleId": "PPSA05948_00",
     "conceptId": 10004207,
     "name": "Bat Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8052-PPSA05948_00-0940238972202271",
+    "region": "UP",
+    "publisherId": "UP8052"
   },
   {
     "titleId": "PPSA05949_00",
     "conceptId": 10004207,
     "name": "Bat Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8244-PPSA05949_00-3511704431968926",
+    "region": "EP",
+    "publisherId": "EP8244"
   },
   {
     "titleId": "PPSA05950_00",
     "conceptId": 10004207,
     "name": "Bat Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5889-PPSA05950_00-5380183821587398",
+    "region": "JP",
+    "publisherId": "JP5889"
   },
   {
     "titleId": "PPSA05953_00",
@@ -22258,16 +22258,16 @@
   {
     "titleId": "PPSA06128_00",
     "conceptId": 10004220,
-    "name": "CONVERGENCE: A League of Legends Story\u2122",
-    "contentId": null,
+    "name": "CONV/RGENCE: A League of Legends Story\u2122",
+    "contentId": "UP6597-PPSA06128_00-CONVERGENCELOLUS",
     "region": "UP",
     "publisherId": "UP6597"
   },
   {
     "titleId": "PPSA06129_00",
     "conceptId": 10004220,
-    "name": "CONVERGENCE: A League of Legends Story\u2122",
-    "contentId": null,
+    "name": "CONV/RGENCE: A League of Legends Story\u2122",
+    "contentId": "EP6596-PPSA06129_00-CONVERGENCELOLEU",
     "region": "EP",
     "publisherId": "EP6596"
   },
@@ -22282,8 +22282,8 @@
   {
     "titleId": "PPSA06131_00",
     "conceptId": 10004220,
-    "name": "CONVERGENCE: A League of Legends Story\u2122",
-    "contentId": null,
+    "name": "CONV/RGENCE: A League of Legends Story\u2122",
+    "contentId": "HP6594-PPSA06131_00-CONVERGENCELOLAS",
     "region": "HP",
     "publisherId": "HP6594"
   },
@@ -22739,9 +22739,9 @@
     "titleId": "PPSA06217_00",
     "conceptId": 10004322,
     "name": "Miasma Chronicles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4040-PPSA06217_00-MIASMA0000000000",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA06220_00",
@@ -22763,17 +22763,17 @@
     "titleId": "PPSA06222_00",
     "conceptId": 10004322,
     "name": "Miasma Chronicles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4040-PPSA06222_00-MIASMA0000000000",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA06223_00",
     "conceptId": 10004322,
     "name": "Miasma Chronicles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0114-PPSA06223_00-MIASMA0000000000",
+    "region": "JP",
+    "publisherId": "JP0114"
   },
   {
     "titleId": "PPSA06225_00",
@@ -23338,16 +23338,16 @@
   {
     "titleId": "PPSA06366_00",
     "conceptId": 10003139,
-    "name": "The Lord of the Rings: Gollum\u2122 - Standard Edition (Pre-Order)",
-    "contentId": null,
+    "name": "The Lord of the Rings: Gollum\u2122",
+    "contentId": "EP6665-PPSA06366_00-LRG0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA06367_00",
     "conceptId": 10003139,
-    "name": "The Lord of the Rings: Gollum\u2122 - Standard Edition (Pre-Order)",
-    "contentId": null,
+    "name": "The Lord of the Rings: Gollum\u2122",
+    "contentId": "UP6665-PPSA06367_00-LRG0000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -26363,9 +26363,9 @@
     "titleId": "PPSA07009_00",
     "conceptId": 10004752,
     "name": "TORINTO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA07009_00-TORINTO000000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA07011_00",
@@ -27278,6 +27278,30 @@
     "contentId": "UP3004-PPSA07227_00-CATANBOARDGAMEPS",
     "region": "UP",
     "publisherId": "UP3004"
+  },
+  {
+    "titleId": "PPSA07230_00",
+    "conceptId": 10004865,
+    "name": "Assassin's Creed\u00ae Mirage",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0001"
+  },
+  {
+    "titleId": "PPSA07231_00",
+    "conceptId": 10004865,
+    "name": "Assassin's Creed\u00ae Mirage",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0001"
+  },
+  {
+    "titleId": "PPSA07232_00",
+    "conceptId": 10004865,
+    "name": "Assassin's Creed\u00ae Mirage",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA07233_00",
@@ -30555,17 +30579,17 @@
     "titleId": "PPSA07948_00",
     "conceptId": 10003563,
     "name": "After Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4581-PPSA07948_00-AFUS00000000SIEA",
+    "region": "UP",
+    "publisherId": "UP4581"
   },
   {
     "titleId": "PPSA07949_00",
     "conceptId": 10003563,
     "name": "After Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4829-PPSA07949_00-AFUS00000000SIEE",
+    "region": "EP",
+    "publisherId": "EP4829"
   },
   {
     "titleId": "PPSA07950_00",
@@ -32826,10 +32850,10 @@
   {
     "titleId": "PPSA08416_00",
     "conceptId": 10003139,
-    "name": "The Lord of the Rings: Gollum\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Lord of the Rings: Gollum\u2122 - Art Exhibition",
+    "contentId": "EP6665-PPSA08416_00-LRG00ARTBOOK0000",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA08417_00",
@@ -32842,18 +32866,18 @@
   {
     "titleId": "PPSA08418_00",
     "conceptId": 10003139,
-    "name": "The Lord of the Rings: Gollum\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Lord of the Rings: Gollum\u2122 - Original Soundtrack",
+    "contentId": "EP6665-PPSA08418_00-LRG00SOUNDTRACK0",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA08419_00",
     "conceptId": 10003139,
-    "name": "The Lord of the Rings: Gollum\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Lord of the Rings: Gollum\u2122 - Original Soundtrack",
+    "contentId": "UP6665-PPSA08419_00-LRG00SOUNDTRACK0",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA08420_00",
@@ -33318,6 +33342,22 @@
     "contentId": "EP4625-PPSA08527_00-BALDURSGATEDARK2",
     "region": "EP",
     "publisherId": "EP4625"
+  },
+  {
+    "titleId": "PPSA08528_00",
+    "conceptId": 10003948,
+    "name": "Dordogne",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08529_00",
+    "conceptId": 10003948,
+    "name": "Dordogne",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08530_00",
@@ -35534,6 +35574,14 @@
     "contentId": "EP2363-PPSA08953_00-EU0FAIRYE0000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA08954_00",
+    "conceptId": 10005624,
+    "name": "We Love Katamari REROLL+ Royal Reverie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08955_00",
@@ -39286,6 +39334,38 @@
     "contentId": "UP5501-PPSA09743_00-0624751739548719",
     "region": "UP",
     "publisherId": "UP5501"
+  },
+  {
+    "titleId": "PPSA09749_00",
+    "conceptId": 10005979,
+    "name": "Homebody",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09750_00",
+    "conceptId": 10005979,
+    "name": "Homebody",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09751_00",
+    "conceptId": 10005979,
+    "name": "Homebody",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09752_00",
+    "conceptId": 10005979,
+    "name": "Homebody",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09753_00",
@@ -46114,16 +46194,16 @@
   {
     "titleId": "PPSA11060_00",
     "conceptId": 10006454,
-    "name": "Hello Neighbor: Search and Rescue",
-    "contentId": null,
+    "name": "Hello Neighbor Search and Rescue",
+    "contentId": "UP0097-PPSA11060_00-9427917386056492",
     "region": "UP",
     "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA11061_00",
     "conceptId": 10006454,
-    "name": "Hello Neighbor: Search and Rescue",
-    "contentId": null,
+    "name": "Hello Neighbor Search and Rescue",
+    "contentId": "EP0096-PPSA11061_00-0611129579815390",
     "region": "EP",
     "publisherId": "EP0096"
   },
@@ -47762,10 +47842,10 @@
   {
     "titleId": "PPSA11410_00",
     "conceptId": 233226,
-    "name": "Warhammer: Chaosbane",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Warhammer: Chaosbane - Slayer Edition",
+    "contentId": "JP0075-PPSA11410_00-WHCB000000000000",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA11411_00",
