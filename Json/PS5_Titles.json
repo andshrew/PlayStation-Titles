@@ -16323,7 +16323,7 @@
     "titleId": "PPSA04880_00",
     "conceptId": 10003604,
     "name": "Railway Empire 2",
-    "contentId": null,
+    "contentId": "EP4365-PPSA04880_00-00RAILWAYEMPIRE2",
     "region": "EP",
     "publisherId": "EP4365"
   },
@@ -16331,7 +16331,7 @@
     "titleId": "PPSA04881_00",
     "conceptId": 10003604,
     "name": "Railway Empire 2",
-    "contentId": null,
+    "contentId": "UP2060-PPSA04881_00-00RAILWAYEMPIRE2",
     "region": "UP",
     "publisherId": "UP2060"
   },
@@ -31384,6 +31384,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA08135_00",
+    "conceptId": 10005283,
+    "name": "Alone in the Dark",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA08136_00",
     "conceptId": 10004765,
     "name": "Overrogue",
@@ -31926,6 +31934,22 @@
     "contentId": "UP6878-PPSA08238_00-0000000SHREDDERS",
     "region": "UP",
     "publisherId": "UP6878"
+  },
+  {
+    "titleId": "PPSA08240_00",
+    "conceptId": 10005283,
+    "name": "Alone in the Dark",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
+    "titleId": "PPSA08241_00",
+    "conceptId": 10005283,
+    "name": "Alone in the Dark",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2880"
   },
   {
     "titleId": "PPSA08242_00",
@@ -32858,10 +32882,10 @@
   {
     "titleId": "PPSA08417_00",
     "conceptId": 10003139,
-    "name": "The Lord of the Rings: Gollum\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Lord of the Rings: Gollum\u2122 - Art Exhibition",
+    "contentId": "UP6665-PPSA08417_00-LRG00ARTBOOK0000",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA08418_00",
@@ -38056,6 +38080,14 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA09454_00",
+    "conceptId": 10005547,
+    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
     "titleId": "PPSA09463_00",
     "conceptId": 10005825,
     "name": "Beaver Run",
@@ -38118,6 +38150,14 @@
     "contentId": "HP7695-PPSA09471_00-4630489708537391",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA09472_00",
+    "conceptId": 10005826,
+    "name": "Tux and Fanny",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09473_00",
@@ -38422,6 +38462,14 @@
     "contentId": "EP3111-PPSA09548_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA09549_00",
+    "conceptId": 10005826,
+    "name": "Tux and Fanny",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09551_00",
@@ -39379,9 +39427,9 @@
     "titleId": "PPSA09754_00",
     "conceptId": 10003289,
     "name": "Monster Menu: The Scavenger's Cookbook",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA09754_00-000000UNDEREATER",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA09755_00",
