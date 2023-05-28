@@ -5320,6 +5320,14 @@
     "publisherId": "EP1464"
   },
   {
+    "titleId": "PPSA02571_00",
+    "conceptId": 10002065,
+    "name": "Alan Wake 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1477"
+  },
+  {
     "titleId": "PPSA02575_00",
     "conceptId": 10002096,
     "name": "Heavenly Bodies",
@@ -7734,6 +7742,14 @@
     "contentId": "EP8925-PPSA03084_00-UZVIDIGPS5SIEE00",
     "region": "EP",
     "publisherId": "EP8925"
+  },
+  {
+    "titleId": "PPSA03085_00",
+    "conceptId": 10002497,
+    "name": "The Light in the Darkness",
+    "contentId": "UP1594-PPSA03085_00-2246034328277599",
+    "region": "UP",
+    "publisherId": "UP1594"
   },
   {
     "titleId": "PPSA03086_00",
@@ -10806,6 +10822,14 @@
     "contentId": "EP0600-PPSA03733_00-DOKIDOKILITCLUBP",
     "region": "EP",
     "publisherId": "EP0600"
+  },
+  {
+    "titleId": "PPSA03738_00",
+    "conceptId": 10002497,
+    "name": "The Light in the Darkness",
+    "contentId": "EP1580-PPSA03738_00-0997665260652753",
+    "region": "EP",
+    "publisherId": "EP1580"
   },
   {
     "titleId": "PPSA03739_00",
@@ -28264,6 +28288,14 @@
     "publisherId": "UP5180"
   },
   {
+    "titleId": "PPSA07432_00",
+    "conceptId": 10004427,
+    "name": "Mordhau",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07433_00",
     "conceptId": 10004957,
     "name": "Age of Wonders 4",
@@ -34464,6 +34496,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA08752_00",
+    "conceptId": 10005547,
+    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA08755_00",
     "conceptId": 10005308,
     "name": "Pinball FX",
@@ -38078,6 +38118,22 @@
     "contentId": "JP0078-PPSA09451_00-PACHIPACHITWO000",
     "region": "JP",
     "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA09452_00",
+    "conceptId": 10005547,
+    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA09453_00",
+    "conceptId": 10005547,
+    "name": "\u30a4\u30f3\u30d5\u30a3\u30cb\u30c6\u30a3 \u30b9\u30c8\u30e9\u30c3\u30b7\u30e5\u3000\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8 \u30c0\u30a4\u306e\u5927\u5192\u967a PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA09454_00",
