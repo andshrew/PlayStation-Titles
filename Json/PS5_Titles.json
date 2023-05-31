@@ -27504,6 +27504,14 @@
     "publisherId": "HP6885"
   },
   {
+    "titleId": "PPSA07265_00",
+    "conceptId": 10004877,
+    "name": "LAYERS OF FEAR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07267_00",
     "conceptId": 10004878,
     "name": "Fort Boyard 2022",
@@ -33832,6 +33840,14 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA08618_00",
+    "conceptId": 10005398,
+    "name": "Puzzle Quest 3",
+    "contentId": "EP4040-PPSA08618_00-MATCHTHREEPQ3PS5",
+    "region": "EP",
+    "publisherId": "EP4040"
+  },
+  {
     "titleId": "PPSA08619_00",
     "conceptId": 10005380,
     "name": "Lump Jump",
@@ -34206,6 +34222,14 @@
     "contentId": "UP6664-PPSA08679_00-1497106378342094",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA08681_00",
+    "conceptId": 10004877,
+    "name": "LAYERS OF FEAR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08683_00",
@@ -39283,7 +39307,7 @@
     "titleId": "PPSA09713_00",
     "conceptId": 10002606,
     "name": "Company of Heroes 3",
-    "contentId": null,
+    "contentId": "UP0177-PPSA09713_00-COMPANYOFHEROES3",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -39291,7 +39315,7 @@
     "titleId": "PPSA09714_00",
     "conceptId": 10002606,
     "name": "Company of Heroes 3",
-    "contentId": null,
+    "contentId": "JP0177-PPSA09714_00-COMPANYOFHEROES3",
     "region": "JP",
     "publisherId": "JP0177"
   },
@@ -43162,10 +43186,10 @@
   {
     "titleId": "PPSA10413_00",
     "conceptId": 10002255,
-    "name": "A Plague Tale: Requiem",
+    "name": "\u30d7\u30ec\u30a4\u30b0 \u30c6\u30a4\u30eb -\u30ec\u30af\u30a4\u30a8\u30e0-",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA10416_00",
@@ -43579,17 +43603,17 @@
     "titleId": "PPSA10518_00",
     "conceptId": 10006245,
     "name": "LASERPITIUM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA10518_00-LASERPITIUM00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA10519_00",
     "conceptId": 10006245,
     "name": "LASERPITIUM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA10519_00-LASERPITIUM00000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA10524_00",
@@ -45187,6 +45211,14 @@
     "titleId": "PPSA10824_00",
     "conceptId": 225261,
     "name": "Nubla 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10828_00",
+    "conceptId": 10003342,
+    "name": "THE HOUSE OF THE DEAD: Remake",
     "contentId": null,
     "region": null,
     "publisherId": null
