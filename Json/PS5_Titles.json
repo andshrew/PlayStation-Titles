@@ -5618,8 +5618,8 @@
   {
     "titleId": "PPSA02635_00",
     "conceptId": 10001615,
-    "name": "Street Fighter\u2122 6",
-    "contentId": null,
+    "name": "Street Fighter 6",
+    "contentId": "HP0102-PPSA02635_00-STREETFIGHTER006",
     "region": "HP",
     "publisherId": "HP0102"
   },
@@ -11802,10 +11802,10 @@
   {
     "titleId": "PPSA03931_00",
     "conceptId": 10002624,
-    "name": "Gibbon: Beyond the Trees PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gibbon: Beyond the Trees",
+    "contentId": "UP3141-PPSA03931_00-USPS500000GIBBON",
+    "region": "UP",
+    "publisherId": "UP3141"
   },
   {
     "titleId": "PPSA03933_00",
@@ -22378,8 +22378,8 @@
   {
     "titleId": "PPSA06141_00",
     "conceptId": 10004282,
-    "name": "Super Mega Baseball\u2122 4 Standard Edition",
-    "contentId": null,
+    "name": "Super Mega Baseball 4",
+    "contentId": "UP0006-PPSA06141_00-SMB4PS5GAME00000",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -22824,6 +22824,14 @@
     "publisherId": "JP0230"
   },
   {
+    "titleId": "PPSA06227_00",
+    "conceptId": 10004308,
+    "name": "The Expanse: A Telltale Series",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5844"
+  },
+  {
     "titleId": "PPSA06228_00",
     "conceptId": 10004335,
     "name": "Disgaea 6 Complete",
@@ -22838,6 +22846,14 @@
     "contentId": "EP1063-PPSA06229_00-DISGAEA6COMPLETE",
     "region": "EP",
     "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA06230_00",
+    "conceptId": 10004308,
+    "name": "The Expanse: A Telltale Series",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8036"
   },
   {
     "titleId": "PPSA06233_00",
@@ -26182,6 +26198,14 @@
     "contentId": "UP2194-PPSA06970_00-PRODEEROUTWEST01",
     "region": "UP",
     "publisherId": "UP2194"
+  },
+  {
+    "titleId": "PPSA06971_00",
+    "conceptId": 235344,
+    "name": "Winter Ember",
+    "contentId": "JP6342-PPSA06971_00-WINTEREMBER00000",
+    "region": "JP",
+    "publisherId": "JP6342"
   },
   {
     "titleId": "PPSA06973_00",
@@ -34944,6 +34968,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08825_00",
+    "conceptId": 10005577,
+    "name": "EchoBlade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08826_00",
     "conceptId": 10001203,
     "name": "\u30e2\u30ce\u30af\u30ed\u30fc\u30e0\u30e1\u30d3\u30a6\u30b9 \u523b\u30ce\u4ee3\u8d16 \u4f53\u9a13\u7248",
@@ -35318,6 +35350,14 @@
     "contentId": "HP7695-PPSA08887_00-7372500913679894",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA08889_00",
+    "conceptId": 10005607,
+    "name": "99 Moves",
+    "contentId": "UP6927-PPSA08889_00-9651393086138966",
+    "region": "UP",
+    "publisherId": "UP6927"
   },
   {
     "titleId": "PPSA08890_00",
@@ -35723,9 +35763,9 @@
     "titleId": "PPSA08954_00",
     "conceptId": 10005624,
     "name": "We Love Katamari REROLL+ Royal Reverie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0700-PPSA08954_00-WELOVEKINGJR0000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA08955_00",
@@ -37899,9 +37939,9 @@
     "titleId": "PPSA09385_00",
     "conceptId": 228694,
     "name": "The Caligula Effect: Overdose",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA09385_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA09388_00",
@@ -38952,6 +38992,22 @@
     "publisherId": "EP1095"
   },
   {
+    "titleId": "PPSA09601_00",
+    "conceptId": 10005913,
+    "name": "Sea Horizon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09602_00",
+    "conceptId": 10005913,
+    "name": "Sea Horizon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09605_00",
     "conceptId": 10005917,
     "name": "Mrs.Cat Between Worlds",
@@ -39563,9 +39619,9 @@
     "titleId": "PPSA09750_00",
     "conceptId": 10005979,
     "name": "Homebody",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6162-PPSA09750_00-7798186334823127",
+    "region": "EP",
+    "publisherId": "EP6162"
   },
   {
     "titleId": "PPSA09751_00",
@@ -48168,6 +48224,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA11540_00",
+    "conceptId": 10006487,
+    "name": "Story of Seasons : A Wonderful life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11541_00",
     "conceptId": 10006487,
     "name": "Story of Seasons : A Wonderful life",
@@ -48862,6 +48926,14 @@
     "contentId": "EP1457-PPSA12504_00-8657374785059540",
     "region": "EP",
     "publisherId": "EP1457"
+  },
+  {
+    "titleId": "PPSA12507_00",
+    "conceptId": 10006846,
+    "name": "Synapse",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4114"
   },
   {
     "titleId": "PPSA12508_00",
@@ -50416,6 +50488,14 @@
     "publisherId": "EP2363"
   },
   {
+    "titleId": "PPSA13628_00",
+    "conceptId": 10006846,
+    "name": "Synapse",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2985"
+  },
+  {
     "titleId": "PPSA13629_00",
     "conceptId": 10007275,
     "name": "Citizen Sleeper",
@@ -51640,6 +51720,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14035_00",
+    "conceptId": 10006038,
+    "name": "Nocturnal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14036_00",
     "conceptId": 10004709,
     "name": "\u7267\u5834\u306e\u60d1\u661f",
@@ -52603,17 +52691,17 @@
     "titleId": "PPSA14306_00",
     "conceptId": 10007595,
     "name": "Kuroi Tsubasa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA14306_00-KUROITSUBASARATG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA14307_00",
     "conceptId": 10007595,
     "name": "Kuroi Tsubasa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA14307_00-KUROITSUBASARATG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA14309_00",
@@ -53275,6 +53363,14 @@
     "titleId": "PPSA15293_00",
     "conceptId": 10007932,
     "name": "Mighty Mage",
+    "contentId": "UP8511-PPSA15293_00-0581393647893155",
+    "region": "UP",
+    "publisherId": "UP8511"
+  },
+  {
+    "titleId": "PPSA15294_00",
+    "conceptId": 10007932,
+    "name": "Mighty Mage",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -53283,17 +53379,17 @@
     "titleId": "PPSA15295_00",
     "conceptId": 10007932,
     "name": "Mighty Mage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA15295_00-0402150462123215",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA15296_00",
     "conceptId": 10007932,
     "name": "Mighty Mage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA15296_00-0391034538161606",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA15297_00",
@@ -53366,6 +53462,14 @@
     "contentId": "EP2005-PPSA15346_00-PG2048STRIKEGAME",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA15352_00",
+    "conceptId": 10007970,
+    "name": "To Hell With The Ugly",
+    "contentId": "EP7658-PPSA15352_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP7658"
   },
   {
     "titleId": "PPSA15363_00",
@@ -53744,6 +53848,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15630_00",
+    "conceptId": 10007970,
+    "name": "To Hell With The Ugly",
+    "contentId": "UP7660-PPSA15630_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP7660"
+  },
+  {
     "titleId": "PPSA15648_00",
     "conceptId": 10007229,
     "name": "Red Matter 2",
@@ -53912,12 +54024,20 @@
     "publisherId": "UP7137"
   },
   {
+    "titleId": "PPSA15822_00",
+    "conceptId": 10007124,
+    "name": "Sports Pinball",
+    "contentId": "UP6927-PPSA15822_00-0648460851249905",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA15823_00",
     "conceptId": 10007124,
-    "name": "Sports Pinball Bundle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sports Pinball",
+    "contentId": "EP6922-PPSA15823_00-0229673707901096",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA15827_00",
@@ -54006,6 +54126,14 @@
     "contentId": "UP4459-PPSA15877_00-MATDPPS5SIEA0000",
     "region": "UP",
     "publisherId": "UP4459"
+  },
+  {
+    "titleId": "PPSA15888_00",
+    "conceptId": 10006052,
+    "name": "Lies of P",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15889_00",
@@ -54304,6 +54432,38 @@
     "publisherId": "HP7990"
   },
   {
+    "titleId": "PPSA16066_00",
+    "conceptId": 10007986,
+    "name": "Stay Out of the House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16069_00",
+    "conceptId": 10007986,
+    "name": "Stay Out of the House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16070_00",
+    "conceptId": 10007986,
+    "name": "Stay Out of the House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16071_00",
+    "conceptId": 10007986,
+    "name": "Stay Out of the House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16072_00",
     "conceptId": 10007269,
     "name": "No One Lives Under the Lighthouse",
@@ -54488,6 +54648,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16356_00",
+    "conceptId": 10005377,
+    "name": "Adrian's Tale",
+    "contentId": "EP1555-PPSA16356_00-0577835053750500",
+    "region": "EP",
+    "publisherId": "EP1555"
+  },
+  {
     "titleId": "PPSA16392_00",
     "conceptId": 10008359,
     "name": "A Painter's Tale: Curon, 1950",
@@ -54518,6 +54686,14 @@
     "contentId": "EP8070-PPSA16449_00-0757249798726734",
     "region": "EP",
     "publisherId": "EP8070"
+  },
+  {
+    "titleId": "PPSA16463_00",
+    "conceptId": 10008378,
+    "name": "Cat Ping Pong",
+    "contentId": "UP4312-PPSA16463_00-0285183943821716",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA16464_00",
@@ -54622,6 +54798,14 @@
     "contentId": "EP8070-PPSA16651_00-0468623914130376",
     "region": "EP",
     "publisherId": "EP8070"
+  },
+  {
+    "titleId": "PPSA16664_00",
+    "conceptId": 10005921,
+    "name": "Savannah Runnah",
+    "contentId": "UP7940-PPSA16664_00-0475202754990649",
+    "region": "UP",
+    "publisherId": "UP7940"
   },
   {
     "titleId": "PPSA16668_00",
