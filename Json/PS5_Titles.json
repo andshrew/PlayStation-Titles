@@ -5594,16 +5594,16 @@
   {
     "titleId": "PPSA02632_00",
     "conceptId": 10001615,
-    "name": "Street Fighter\u2122 6",
-    "contentId": null,
+    "name": "Street Fighter 6",
+    "contentId": "UP0102-PPSA02632_00-STREETFIGHTER006",
     "region": "UP",
     "publisherId": "UP0102"
   },
   {
     "titleId": "PPSA02633_00",
     "conceptId": 10001615,
-    "name": "Street Fighter\u2122 6",
-    "contentId": null,
+    "name": "Street Fighter 6",
+    "contentId": "EP0102-PPSA02633_00-STREETFIGHTER006",
     "region": "EP",
     "publisherId": "EP0102"
   },
@@ -11794,10 +11794,10 @@
   {
     "titleId": "PPSA03930_00",
     "conceptId": 10002624,
-    "name": "Gibbon: Beyond the Trees PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gibbon: Beyond the Trees",
+    "contentId": "EP3000-PPSA03930_00-EUPS500000GIBBON",
+    "region": "EP",
+    "publisherId": "EP3000"
   },
   {
     "titleId": "PPSA03931_00",
@@ -22386,10 +22386,10 @@
   {
     "titleId": "PPSA06142_00",
     "conceptId": 10004282,
-    "name": "Super Mega Baseball\u2122 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Super Mega Baseball 4",
+    "contentId": "EP0006-PPSA06142_00-SMB4PS5GAME00000",
+    "region": "EP",
+    "publisherId": "EP0006"
   },
   {
     "titleId": "PPSA06146_00",
@@ -23486,6 +23486,22 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA06381_00",
+    "conceptId": 10004424,
+    "name": "Crime Boss: Rockay City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06382_00",
+    "conceptId": 10004424,
+    "name": "Crime Boss: Rockay City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06387_00",
@@ -25472,6 +25488,22 @@
     "publisherId": "EP2430"
   },
   {
+    "titleId": "PPSA06780_00",
+    "conceptId": 10004650,
+    "name": "Gunfire Reborn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06781_00",
+    "conceptId": 10004650,
+    "name": "Gunfire Reborn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06782_00",
     "conceptId": 10004651,
     "name": "Syphon Filter: Logan's Shadow",
@@ -25958,6 +25990,14 @@
     "contentId": "JP5134-PPSA06886_00-MULTIVERSEJAPAN2",
     "region": "JP",
     "publisherId": "JP5134"
+  },
+  {
+    "titleId": "PPSA06887_00",
+    "conceptId": 10000794,
+    "name": "Edge Of Eternity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06894_00",
@@ -31891,17 +31931,17 @@
     "titleId": "PPSA08202_00",
     "conceptId": 10005306,
     "name": "Shantae",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2053-PPSA08202_00-6782436307761092",
+    "region": "UP",
+    "publisherId": "UP2053"
   },
   {
     "titleId": "PPSA08203_00",
     "conceptId": 10005306,
     "name": "Shantae",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8916-PPSA08203_00-2123500959731409",
+    "region": "EP",
+    "publisherId": "EP8916"
   },
   {
     "titleId": "PPSA08204_00",
@@ -33754,8 +33794,8 @@
   {
     "titleId": "PPSA08595_00",
     "conceptId": 231761,
-    "name": "Diablo\u00ae IV - Standard Edition",
-    "contentId": null,
+    "name": "Diablo IV",
+    "contentId": "EP0002-PPSA08595_00-DIABLOIVFULLPS50",
     "region": "EP",
     "publisherId": "EP0002"
   },
@@ -36163,17 +36203,17 @@
     "titleId": "PPSA09039_00",
     "conceptId": 10005680,
     "name": "SENSEs: Midnight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA09039_00-SENSESMIDNIGHT00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA09040_00",
     "conceptId": 10005680,
     "name": "SENSEs: Midnight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA09040_00-SENSESMIDNIGHT00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA09052_00",
@@ -36318,6 +36358,14 @@
     "contentId": "JP0013-PPSA09073_00-JP0SNORNIR000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA09074_00",
+    "conceptId": 10005674,
+    "name": "Valthirian Arc: Hero School Story 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09076_00",
@@ -42280,6 +42328,22 @@
     "publisherId": "EP7177"
   },
   {
+    "titleId": "PPSA10248_00",
+    "conceptId": 10006160,
+    "name": "Viewfinder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10249_00",
+    "conceptId": 10006160,
+    "name": "Viewfinder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10250_00",
     "conceptId": 10006162,
     "name": "The Basketball Quiz",
@@ -42438,6 +42502,22 @@
     "contentId": "HP7354-PPSA10290_00-5063337553043834",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA10291_00",
+    "conceptId": 10006179,
+    "name": "The Bookwalker: Thief of Tales",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10292_00",
+    "conceptId": 10006179,
+    "name": "The Bookwalker: Thief of Tales",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10293_00",
@@ -43710,6 +43790,14 @@
     "contentId": "HP6661-PPSA10507_00-3795434429060782",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA10508_00",
+    "conceptId": 10006239,
+    "name": "Madden NFL 24 Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA10511_00",
@@ -47816,6 +47904,22 @@
     "publisherId": "EP7666"
   },
   {
+    "titleId": "PPSA11307_00",
+    "conceptId": 10003228,
+    "name": "The Legend of Heroes: Trails into Reverie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11308_00",
+    "conceptId": 10003228,
+    "name": "The Legend of Heroes: Trails into Reverie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11310_00",
     "conceptId": 10006538,
     "name": "Flipy",
@@ -48166,6 +48270,22 @@
     "contentId": "EP7333-PPSA11419_00-0446849452309503",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11423_00",
+    "conceptId": 10006577,
+    "name": "Funny Alphabet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11427_00",
+    "conceptId": 10006578,
+    "name": "Rocket Lift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11495_00",
@@ -49112,6 +49232,14 @@
     "publisherId": "HP6885"
   },
   {
+    "titleId": "PPSA12576_00",
+    "conceptId": 10004650,
+    "name": "Gunfire Reborn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12579_00",
     "conceptId": 10006943,
     "name": "Falling Blocks",
@@ -49746,18 +49874,18 @@
   {
     "titleId": "PPSA13355_00",
     "conceptId": 231761,
-    "name": "\u30c7\u30a3\u30a2\u30d6\u30ed IV - \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
-    "contentId": null,
+    "name": "\u30c7\u30a3\u30a2\u30d6\u30ed IV",
+    "contentId": "JP5636-PPSA13355_00-DIABLOIVFULLPS50",
     "region": "JP",
     "publisherId": "JP5636"
   },
   {
     "titleId": "PPSA13356_00",
     "conceptId": 10003798,
-    "name": "Raiden III \u00d7 MIKADO MANIAX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Raiden III x MIKADO MANIAX",
+    "contentId": "UP1063-PPSA13356_00-RAIDENXMIKADOPS5",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA13357_00",
@@ -50398,6 +50526,22 @@
     "contentId": "UP1309-PPSA13574_00-REVITAPS5SIEA000",
     "region": "UP",
     "publisherId": "UP1309"
+  },
+  {
+    "titleId": "PPSA13592_00",
+    "conceptId": 10007267,
+    "name": "NOOB - The Factionless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13593_00",
+    "conceptId": 10007267,
+    "name": "NOOB - The Factionless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13594_00",
@@ -51096,6 +51240,14 @@
     "publisherId": "UP4912"
   },
   {
+    "titleId": "PPSA13817_00",
+    "conceptId": 10004424,
+    "name": "Crime Boss: Rockay City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13819_00",
     "conceptId": 10004787,
     "name": "\u9b54\u754c\u6230\u8a18 DISGAEA 7 (\u9ad4\u9a57\u7248)",
@@ -51123,17 +51275,17 @@
     "titleId": "PPSA13845_00",
     "conceptId": 10007380,
     "name": "BREAK STUFF VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3279-PPSA13845_00-0530752884354149",
+    "region": "UP",
+    "publisherId": "UP3279"
   },
   {
     "titleId": "PPSA13846_00",
     "conceptId": 10007380,
     "name": "BREAK STUFF VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3138-PPSA13846_00-0752733924585654",
+    "region": "EP",
+    "publisherId": "EP3138"
   },
   {
     "titleId": "PPSA13850_00",
@@ -51656,6 +51808,22 @@
     "publisherId": "EP3383"
   },
   {
+    "titleId": "PPSA14003_00",
+    "conceptId": 10007465,
+    "name": "Dr. Fetus\u2019 Mean Meat Machine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14004_00",
+    "conceptId": 10007465,
+    "name": "Dr. Fetus\u2019 Mean Meat Machine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14005_00",
     "conceptId": 10006490,
     "name": "Unplugged",
@@ -51715,17 +51883,17 @@
     "titleId": "PPSA14034_00",
     "conceptId": 10006038,
     "name": "Nocturnal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA14034_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA14035_00",
     "conceptId": 10006038,
     "name": "Nocturnal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA14035_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA14036_00",
@@ -53096,6 +53264,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14644_00",
+    "conceptId": 10006239,
+    "name": "Madden NFL 24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14648_00",
+    "conceptId": 10006239,
+    "name": "Madden NFL 24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14650_00",
     "conceptId": 10007663,
     "name": "Afterlife VR",
@@ -53210,18 +53394,18 @@
   {
     "titleId": "PPSA14745_00",
     "conceptId": 10007776,
-    "name": "Toodee and Topdee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Toodee And Topdee",
+    "contentId": "UP5155-PPSA14745_00-TOODEEANDTOPDEE0",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA14746_00",
     "conceptId": 10007776,
-    "name": "Toodee and Topdee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Toodee And Topdee",
+    "contentId": "EP5335-PPSA14746_00-TOODEEANDTOPDEE0",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA14749_00",
@@ -53371,9 +53555,9 @@
     "titleId": "PPSA15294_00",
     "conceptId": 10007932,
     "name": "Mighty Mage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA15294_00-0568054696148076",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA15295_00",
@@ -53528,6 +53712,22 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA15400_00",
+    "conceptId": 10007982,
+    "name": "Agriculture",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15401_00",
+    "conceptId": 10007982,
+    "name": "Agriculture",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15407_00",
     "conceptId": 10005837,
     "name": "ALTAIR BREAKER",
@@ -53592,6 +53792,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15454_00",
+    "conceptId": 10007995,
+    "name": "Cat Souls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15455_00",
+    "conceptId": 10007995,
+    "name": "Cat Souls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15460_00",
     "conceptId": 10007998,
     "name": "Ultra Pixel Survive",
@@ -53638,6 +53854,22 @@
     "contentId": "UP0891-PPSA15468_00-CYBERCITIZENSHRG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA15480_00",
+    "conceptId": 10008015,
+    "name": "F1\u00ae Manager 2023",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2377"
+  },
+  {
+    "titleId": "PPSA15481_00",
+    "conceptId": 10008015,
+    "name": "F1\u00ae Manager 2023",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2514"
   },
   {
     "titleId": "PPSA15488_00",
@@ -54227,22 +54459,30 @@
     "titleId": "PPSA15935_00",
     "conceptId": 10005680,
     "name": "SENSEs: Midnight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA15935_00-SENSESMIDNIGHT00",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA15949_00",
     "conceptId": 10005680,
     "name": "SENSEs: Midnight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA15949_00-SENSESMIDNIGHT00",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA15950_00",
     "conceptId": 10006619,
     "name": "Cavity Busters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15957_00",
+    "conceptId": 10007758,
+    "name": "Super Trunko Go",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -54480,6 +54720,14 @@
     "publisherId": "HP6784"
   },
   {
+    "titleId": "PPSA16104_00",
+    "conceptId": 10004424,
+    "name": "Crime Boss: Rockay City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16118_00",
     "conceptId": 10006269,
     "name": "Redemption Reapers",
@@ -54502,6 +54750,14 @@
     "contentId": "UP6492-PPSA16120_00-0071872720621500",
     "region": "UP",
     "publisherId": "UP6492"
+  },
+  {
+    "titleId": "PPSA16130_00",
+    "conceptId": 10008239,
+    "name": "TRIPP: A New Way to Meditate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16164_00",
@@ -54635,17 +54891,17 @@
     "titleId": "PPSA16321_00",
     "conceptId": 10007380,
     "name": "BREAK STUFF VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3226-PPSA16321_00-0086053455746046",
+    "region": "HP",
+    "publisherId": "HP3226"
   },
   {
     "titleId": "PPSA16322_00",
     "conceptId": 10007380,
     "name": "BREAK STUFF VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3318-PPSA16322_00-0445151558977314",
+    "region": "JP",
+    "publisherId": "JP3318"
   },
   {
     "titleId": "PPSA16356_00",
@@ -54686,6 +54942,14 @@
     "contentId": "EP8070-PPSA16449_00-0757249798726734",
     "region": "EP",
     "publisherId": "EP8070"
+  },
+  {
+    "titleId": "PPSA16462_00",
+    "conceptId": 10008378,
+    "name": "Cat Ping Pong",
+    "contentId": "EP4312-PPSA16462_00-0272350222226369",
+    "region": "EP",
+    "publisherId": "EP4312"
   },
   {
     "titleId": "PPSA16463_00",
@@ -54816,17 +55080,81 @@
     "publisherId": "JP1734"
   },
   {
+    "titleId": "PPSA16669_00",
+    "conceptId": 10007776,
+    "name": "Toodee And Topdee Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
+    "titleId": "PPSA16670_00",
+    "conceptId": 10008475,
+    "name": "Do Not Crash",
+    "contentId": "UP7977-PPSA16670_00-0294291795655244",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
     "titleId": "PPSA16671_00",
     "conceptId": 10008475,
     "name": "Do Not Crash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7975-PPSA16671_00-0137662474984514",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA16672_00",
+    "conceptId": 10008475,
+    "name": "Do Not Crash",
+    "contentId": "JP7958-PPSA16672_00-0922977835729921",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA16673_00",
+    "conceptId": 10008475,
+    "name": "Do Not Crash",
+    "contentId": "HP8005-PPSA16673_00-0620403129358984",
+    "region": "HP",
+    "publisherId": "HP8005"
   },
   {
     "titleId": "PPSA16681_00",
     "conceptId": 229879,
     "name": "ALVO VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16689_00",
+    "conceptId": 10007776,
+    "name": "Toodee And Topdee Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5335"
+  },
+  {
+    "titleId": "PPSA16690_00",
+    "conceptId": 229879,
+    "name": "ALVO VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16693_00",
+    "conceptId": 10007471,
+    "name": "Hack and Shoot Heroes",
+    "contentId": "UP7543-PPSA16693_00-0840331872184699",
+    "region": "UP",
+    "publisherId": "UP7543"
+  },
+  {
+    "titleId": "PPSA16694_00",
+    "conceptId": 10007471,
+    "name": "Hack and Shoot Heroes",
     "contentId": null,
     "region": null,
     "publisherId": null
