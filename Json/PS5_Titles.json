@@ -24984,6 +24984,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA06694_00",
+    "conceptId": 10004544,
+    "name": "Remnant II - Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1965"
+  },
+  {
     "titleId": "PPSA06695_00",
     "conceptId": 10004603,
     "name": "Syphon Filter 2",
@@ -25491,9 +25499,9 @@
     "titleId": "PPSA06780_00",
     "conceptId": 10004650,
     "name": "Gunfire Reborn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4040-PPSA06780_00-GUNFIREREBORNPS5",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA06781_00",
@@ -43800,6 +43808,14 @@
     "publisherId": "UP0006"
   },
   {
+    "titleId": "PPSA10509_00",
+    "conceptId": 10006239,
+    "name": "Madden NFL 24 Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0006"
+  },
+  {
     "titleId": "PPSA10511_00",
     "conceptId": 234860,
     "name": "Sky Q",
@@ -44400,6 +44416,14 @@
     "publisherId": "HP1127"
   },
   {
+    "titleId": "PPSA10622_00",
+    "conceptId": 10006052,
+    "name": "Lies of P",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP1942"
+  },
+  {
     "titleId": "PPSA10624_00",
     "conceptId": 10006281,
     "name": "Driverio 3",
@@ -44570,16 +44594,16 @@
   {
     "titleId": "PPSA10682_00",
     "conceptId": 10006305,
-    "name": "MotoGP\u212223 PS4 & PS5",
-    "contentId": null,
+    "name": "MotoGP\u212223",
+    "contentId": "EP4356-PPSA10682_00-MOTOGP23FULLGAME",
     "region": "EP",
     "publisherId": "EP4356"
   },
   {
     "titleId": "PPSA10683_00",
     "conceptId": 10006305,
-    "name": "MotoGP\u212223 PS4 & PS5",
-    "contentId": null,
+    "name": "MotoGP\u212223",
+    "contentId": "UP1981-PPSA10683_00-MOTOGP23FULLGAME",
     "region": "UP",
     "publisherId": "UP1981"
   },
@@ -48584,6 +48608,22 @@
     "publisherId": "UP4729"
   },
   {
+    "titleId": "PPSA12342_00",
+    "conceptId": 10006833,
+    "name": "Harmony: The Fall of Reverie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12343_00",
+    "conceptId": 10006833,
+    "name": "Harmony: The Fall of Reverie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12348_00",
     "conceptId": 10005072,
     "name": "C-SMASH VRS Demo",
@@ -49254,6 +49294,14 @@
     "contentId": "EP7333-PPSA12580_00-0858912076831128",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12582_00",
+    "conceptId": 10006943,
+    "name": "Falling Blocks",
+    "contentId": "HP7354-PPSA12582_00-0809627457673901",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA12583_00",
@@ -50054,6 +50102,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0319"
+  },
+  {
+    "titleId": "PPSA13416_00",
+    "conceptId": 10007202,
+    "name": "Hubris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13431_00",
@@ -52595,17 +52651,17 @@
     "titleId": "PPSA14198_00",
     "conceptId": 10007452,
     "name": "Tour de France 2023",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6665-PPSA14198_00-TDF2300000000000",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA14199_00",
     "conceptId": 10007452,
     "name": "Tour de France 2023",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6665-PPSA14199_00-TDF2300000000000",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA14202_00",
@@ -53786,18 +53842,18 @@
   {
     "titleId": "PPSA15446_00",
     "conceptId": 10006052,
-    "name": "Lies of P",
+    "name": "Lies of P Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1685"
   },
   {
     "titleId": "PPSA15454_00",
     "conceptId": 10007995,
     "name": "Cat Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15454_00-CATSOULSRATGAMES",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15455_00",
@@ -54283,9 +54339,9 @@
     "titleId": "PPSA15828_00",
     "conceptId": 232984,
     "name": "Cave Digger: Riches",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5279-PPSA15828_00-ZZZZZZZZZZZZZZZZ",
+    "region": "EP",
+    "publisherId": "EP5279"
   },
   {
     "titleId": "PPSA15834_00",
@@ -54362,26 +54418,26 @@
   {
     "titleId": "PPSA15888_00",
     "conceptId": 10006052,
-    "name": "Lies of P",
+    "name": "Lies of P Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP1672"
   },
   {
     "titleId": "PPSA15889_00",
     "conceptId": 10006052,
-    "name": "Lies of P",
+    "name": "Lies of P Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP1942"
   },
   {
     "titleId": "PPSA15890_00",
     "conceptId": 10006052,
-    "name": "Lies of P",
+    "name": "Lies of P Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "HP",
+    "publisherId": "HP1804"
   },
   {
     "titleId": "PPSA15895_00",
@@ -54755,9 +54811,33 @@
     "titleId": "PPSA16130_00",
     "conceptId": 10008239,
     "name": "TRIPP: A New Way to Meditate",
+    "contentId": "UP5956-PPSA16130_00-2160HX0304000000",
+    "region": "UP",
+    "publisherId": "UP5956"
+  },
+  {
+    "titleId": "PPSA16131_00",
+    "conceptId": 10008239,
+    "name": "TRIPP: A New Way to Meditate",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA16132_00",
+    "conceptId": 10008239,
+    "name": "TRIPP: A New Way to Meditate",
+    "contentId": "JP5794-PPSA16132_00-2160HX0304000000",
+    "region": "JP",
+    "publisherId": "JP5794"
+  },
+  {
+    "titleId": "PPSA16133_00",
+    "conceptId": 10008239,
+    "name": "TRIPP: A New Way to Meditate",
+    "contentId": "HP5856-PPSA16133_00-2160HX0304000000",
+    "region": "HP",
+    "publisherId": "HP5856"
   },
   {
     "titleId": "PPSA16164_00",
@@ -54864,6 +54944,30 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA16268_00",
+    "conceptId": 10008306,
+    "name": "Like a Dragon Gaiden: The Man Who Erased His Name PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA16269_00",
+    "conceptId": 10008306,
+    "name": "Like a Dragon Gaiden: The Man Who Erased His Name PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
+  },
+  {
+    "titleId": "PPSA16275_00",
+    "conceptId": 10004544,
+    "name": "Remnant II - Standard Edition",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0550"
+  },
+  {
     "titleId": "PPSA16292_00",
     "conceptId": 231761,
     "name": "Diablo\u00ae IV",
@@ -54883,6 +54987,14 @@
     "titleId": "PPSA16294_00",
     "conceptId": 231761,
     "name": "Diablo\u00ae IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16308_00",
+    "conceptId": 10008034,
+    "name": "THRONE AND LIBERTY",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -54915,17 +55027,17 @@
     "titleId": "PPSA16392_00",
     "conceptId": 10008359,
     "name": "A Painter's Tale: Curon, 1950",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4802-PPSA16392_00-0033509183288028",
+    "region": "UP",
+    "publisherId": "UP4802"
   },
   {
     "titleId": "PPSA16393_00",
     "conceptId": 10008359,
     "name": "A Painter's Tale: Curon, 1950",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4977-PPSA16393_00-0914930957454001",
+    "region": "EP",
+    "publisherId": "EP4977"
   },
   {
     "titleId": "PPSA16448_00",
@@ -54982,6 +55094,22 @@
     "contentId": "EP2363-PPSA16489_00-EU0ONIGOH0000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA16490_00",
+    "conceptId": 10006160,
+    "name": "Viewfinder Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5360"
+  },
+  {
+    "titleId": "PPSA16491_00",
+    "conceptId": 10006160,
+    "name": "Viewfinder Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5180"
   },
   {
     "titleId": "PPSA16513_00",
@@ -55155,9 +55283,9 @@
     "titleId": "PPSA16694_00",
     "conceptId": 10007471,
     "name": "Hack and Shoot Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7541-PPSA16694_00-0570704549626821",
+    "region": "EP",
+    "publisherId": "EP7541"
   },
   {
     "titleId": "PPSA16704_00",
@@ -55251,6 +55379,14 @@
     "titleId": "PPSA16802_00",
     "conceptId": 10003851,
     "name": "Walkabout Mini Golf",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16893_00",
+    "conceptId": 10007204,
+    "name": "Greyhill Incident",
     "contentId": null,
     "region": null,
     "publisherId": null
