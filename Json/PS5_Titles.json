@@ -5611,7 +5611,7 @@
     "titleId": "PPSA02634_00",
     "conceptId": 10001615,
     "name": "Street Fighter 6",
-    "contentId": null,
+    "contentId": "JP0102-PPSA02634_00-STREETFIGHTER006",
     "region": "JP",
     "publisherId": "JP0102"
   },
@@ -24984,6 +24984,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA06693_00",
+    "conceptId": 10004544,
+    "name": "Remnant II - Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1980"
+  },
+  {
     "titleId": "PPSA06694_00",
     "conceptId": 10004544,
     "name": "Remnant II - Standard Edition",
@@ -25507,9 +25515,9 @@
     "titleId": "PPSA06781_00",
     "conceptId": 10004650,
     "name": "Gunfire Reborn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4040-PPSA06781_00-GUNFIREREBORNPS5",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA06782_00",
@@ -38603,17 +38611,17 @@
     "titleId": "PPSA09508_00",
     "conceptId": 10002787,
     "name": "System of Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA09508_00-5074011590920011",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA09509_00",
     "conceptId": 10002787,
     "name": "System of Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA09509_00-4748046787364626",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA09510_00",
@@ -42416,6 +42424,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA10261_00",
+    "conceptId": 10006052,
+    "name": "Lies of P",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1685"
+  },
+  {
     "titleId": "PPSA10262_00",
     "conceptId": 10003143,
     "name": "Anno 1800\u2122 Console Edition",
@@ -44416,12 +44432,28 @@
     "publisherId": "HP1127"
   },
   {
+    "titleId": "PPSA10621_00",
+    "conceptId": 10006052,
+    "name": "Lies of P",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1672"
+  },
+  {
     "titleId": "PPSA10622_00",
     "conceptId": 10006052,
     "name": "Lies of P",
     "contentId": null,
     "region": "JP",
     "publisherId": "JP1942"
+  },
+  {
+    "titleId": "PPSA10623_00",
+    "conceptId": 10006052,
+    "name": "Lies of P",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP1804"
   },
   {
     "titleId": "PPSA10624_00",
@@ -49275,9 +49307,9 @@
     "titleId": "PPSA12576_00",
     "conceptId": 10004650,
     "name": "Gunfire Reborn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0114-PPSA12576_00-GUNFIREREBORNPS5",
+    "region": "JP",
+    "publisherId": "JP0114"
   },
   {
     "titleId": "PPSA12579_00",
@@ -49294,6 +49326,14 @@
     "contentId": "EP7333-PPSA12580_00-0858912076831128",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12581_00",
+    "conceptId": 10006943,
+    "name": "Falling Blocks",
+    "contentId": "JP7309-PPSA12581_00-0641179004270158",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA12582_00",
@@ -49938,10 +49978,10 @@
   {
     "titleId": "PPSA13357_00",
     "conceptId": 10003798,
-    "name": "Raiden III \u00d7 MIKADO MANIAX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Raiden III x MIKADO MANIAX",
+    "contentId": "EP1063-PPSA13357_00-RAIDENXMIKADOPS5",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA13367_00",
@@ -52856,6 +52896,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14280_00",
+    "conceptId": 10003516,
+    "name": "Crash Team Rumble\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14287_00",
     "conceptId": 10000894,
     "name": "THE KING OF FIGHTERS XV \u4f53\u9a13\u7248",
@@ -53859,9 +53907,9 @@
     "titleId": "PPSA15455_00",
     "conceptId": 10007995,
     "name": "Cat Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15455_00-CATSOULSRATGAMES",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15460_00",
@@ -54819,9 +54867,9 @@
     "titleId": "PPSA16131_00",
     "conceptId": 10008239,
     "name": "TRIPP: A New Way to Meditate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8149-PPSA16131_00-2160HX0304000000",
+    "region": "EP",
+    "publisherId": "EP8149"
   },
   {
     "titleId": "PPSA16132_00",
@@ -54942,6 +54990,14 @@
     "contentId": "UP6472-PPSA16203_00-WAIFUSPACECONQUE",
     "region": "UP",
     "publisherId": "UP6472"
+  },
+  {
+    "titleId": "PPSA16265_00",
+    "conceptId": 10008306,
+    "name": "\u9f8d\u304c\u5982\u304f\uff17\u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537\u3000PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA16268_00",
@@ -55174,6 +55230,38 @@
     "contentId": "HP6691-PPSA16552_00-HIDDENBUNNYPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA16605_00",
+    "conceptId": 10007202,
+    "name": "Hubris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16606_00",
+    "conceptId": 10007202,
+    "name": "Hubris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16607_00",
+    "conceptId": 10007202,
+    "name": "Hubris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16622_00",
+    "conceptId": 10007309,
+    "name": "The Creepy Syndrome",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16650_00",
