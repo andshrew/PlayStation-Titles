@@ -6656,6 +6656,14 @@
     "publisherId": "EP3024"
   },
   {
+    "titleId": "PPSA02839_00",
+    "conceptId": 10002313,
+    "name": "The Crew\u2122 Motorfest - Cross-Gen Bundle",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0001"
+  },
+  {
     "titleId": "PPSA02841_00",
     "conceptId": 10001116,
     "name": "Mr. DRILLER DrillLand",
@@ -13195,6 +13203,14 @@
     "titleId": "PPSA04207_00",
     "conceptId": 10002150,
     "name": "Bassmaster\u00ae Fishing 2022 PS4\u2122 and PS5\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA04208_00",
+    "conceptId": 10001483,
+    "name": "The Valiant",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -24176,6 +24192,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA06533_00",
+    "conceptId": 10000455,
+    "name": "Blackwind",
+    "contentId": "JP6342-PPSA06533_00-8686283058726629",
+    "region": "JP",
+    "publisherId": "JP6342"
+  },
+  {
     "titleId": "PPSA06534_00",
     "conceptId": 225700,
     "name": "SKULL AND BONES\u2122",
@@ -28696,6 +28720,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA07497_00",
+    "conceptId": 235179,
+    "name": "Avatar: Frontiers of Pandora\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07498_00",
     "conceptId": 234766,
     "name": "Asterix & Obelix XXL 3",
@@ -32272,6 +32304,14 @@
     "publisherId": "EP1069"
   },
   {
+    "titleId": "PPSA08270_00",
+    "conceptId": 10004814,
+    "name": "Eternights",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6847"
+  },
+  {
     "titleId": "PPSA08271_00",
     "conceptId": 10004778,
     "name": "Final Vendetta",
@@ -33432,6 +33472,22 @@
     "publisherId": "UP0977"
   },
   {
+    "titleId": "PPSA08512_00",
+    "conceptId": 10001483,
+    "name": "The Valiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08513_00",
+    "conceptId": 10001483,
+    "name": "The Valiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08514_00",
     "conceptId": 10005266,
     "name": "Breakers Collection",
@@ -33523,17 +33579,17 @@
     "titleId": "PPSA08528_00",
     "conceptId": 10003948,
     "name": "Dordogne",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4133-PPSA08528_00-DORDOGNEGAME0000",
+    "region": "EP",
+    "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA08529_00",
     "conceptId": 10003948,
     "name": "Dordogne",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4133-PPSA08529_00-DORDOGNEGAME0000",
+    "region": "UP",
+    "publisherId": "UP4133"
   },
   {
     "titleId": "PPSA08530_00",
@@ -41224,6 +41280,14 @@
     "publisherId": "EP8936"
   },
   {
+    "titleId": "PPSA10067_00",
+    "conceptId": 10005985,
+    "name": "Prince of Persia The Lost Crown",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0001"
+  },
+  {
     "titleId": "PPSA10068_00",
     "conceptId": 10006106,
     "name": "Halloween Candy Fun",
@@ -43912,6 +43976,22 @@
     "publisherId": "EP2363"
   },
   {
+    "titleId": "PPSA10528_00",
+    "conceptId": 10005985,
+    "name": "Prince of Persia The Lost Crown",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0001"
+  },
+  {
+    "titleId": "PPSA10529_00",
+    "conceptId": 10005985,
+    "name": "\u30d7\u30ea\u30f3\u30b9 \u30aa\u30d6 \u30da\u30eb\u30b7\u30e3 \u5931\u308f\u308c\u305f\u738b\u51a0",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0001"
+  },
+  {
     "titleId": "PPSA10533_00",
     "conceptId": 10006247,
     "name": "Quiz Thiz United Kingdom",
@@ -45506,10 +45586,10 @@
   {
     "titleId": "PPSA10828_00",
     "conceptId": 10003342,
-    "name": "THE HOUSE OF THE DEAD: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b6\u30fb\u30cf\u30a6\u30b9\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30c7\u30c3\u30c9\uff1a\u30ea\u30e1\u30a4\u30af Z\u30d0\u30fc\u30b8\u30e7\u30f3",
+    "contentId": "JP4138-PPSA10828_00-5351086777147329",
+    "region": "JP",
+    "publisherId": "JP4138"
   },
   {
     "titleId": "PPSA10829_00",
@@ -48328,12 +48408,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11422_00",
+    "conceptId": 10006577,
+    "name": "Funny Alphabet",
+    "contentId": "UP7335-PPSA11422_00-1449432589763122",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA11423_00",
     "conceptId": 10006577,
     "name": "Funny Alphabet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11423_00-3408381085293759",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA11427_00",
@@ -48430,6 +48518,22 @@
     "contentId": "EP3111-PPSA11543_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA11544_00",
+    "conceptId": 10006626,
+    "name": "Gord",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4064"
+  },
+  {
+    "titleId": "PPSA11545_00",
+    "conceptId": 10006626,
+    "name": "Gord",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4064"
   },
   {
     "titleId": "PPSA11546_00",
@@ -48664,6 +48768,14 @@
     "publisherId": "EP7577"
   },
   {
+    "titleId": "PPSA12350_00",
+    "conceptId": 10004521,
+    "name": "Delivery Driver - The Simulation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12361_00",
     "conceptId": 10006507,
     "name": "Transport Fever 2: Console Edition",
@@ -48790,6 +48902,30 @@
     "contentId": "UP0295-PPSA12384_00-BIRDGOCHEEPCHEEP",
     "region": "UP",
     "publisherId": "UP0295"
+  },
+  {
+    "titleId": "PPSA12391_00",
+    "conceptId": 10006867,
+    "name": "Power The Light",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12392_00",
+    "conceptId": 10006867,
+    "name": "Power The Light",
+    "contentId": "JP7943-PPSA12392_00-3868857896419875",
+    "region": "JP",
+    "publisherId": "JP7943"
+  },
+  {
+    "titleId": "PPSA12393_00",
+    "conceptId": 10006867,
+    "name": "Power The Light",
+    "contentId": "HP7989-PPSA12393_00-8020692766721687",
+    "region": "HP",
+    "publisherId": "HP7989"
   },
   {
     "titleId": "PPSA12394_00",
@@ -49560,6 +49696,22 @@
     "publisherId": "JP5134"
   },
   {
+    "titleId": "PPSA12764_00",
+    "conceptId": 10006997,
+    "name": "SCARF",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12765_00",
+    "conceptId": 10006997,
+    "name": "SCARF",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12768_00",
     "conceptId": 10001404,
     "name": "Syberia - The World Before - Demo",
@@ -49952,6 +50104,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13347_00",
+    "conceptId": 10004357,
+    "name": "Urban Flow",
+    "contentId": "HP6274-PPSA13347_00-0582684480768559",
+    "region": "HP",
+    "publisherId": "HP6274"
+  },
+  {
     "titleId": "PPSA13352_00",
     "conceptId": 10005251,
     "name": "Cuties Hacked",
@@ -50216,6 +50376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13440_00",
+    "conceptId": 10004357,
+    "name": "Urban Flow",
+    "contentId": "JP6207-PPSA13440_00-0894305920032928",
+    "region": "JP",
+    "publisherId": "JP6207"
+  },
+  {
     "titleId": "PPSA13441_00",
     "conceptId": 10007211,
     "name": "emoji Kart Racer",
@@ -50458,8 +50626,8 @@
   {
     "titleId": "PPSA13544_00",
     "conceptId": 10003604,
-    "name": "\u30ec\u30a4\u30eb\u30a6\u30a7\u30a4 \u30a8\u30f3\u30d1\u30a4\u30a2 2",
-    "contentId": null,
+    "name": "Railway Empire 2",
+    "contentId": "JP7213-PPSA13544_00-00RAILWAYEMPIRE2",
     "region": "JP",
     "publisherId": "JP7213"
   },
@@ -50483,9 +50651,9 @@
     "titleId": "PPSA13548_00",
     "conceptId": 10007204,
     "name": "Greyhill Incident",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA13548_00-0623709050588818",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA13549_00",
@@ -50515,25 +50683,25 @@
     "titleId": "PPSA13553_00",
     "conceptId": 10007204,
     "name": "Greyhill Incident",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA13553_00-0298234468325416",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA13554_00",
     "conceptId": 10007204,
     "name": "Greyhill Incident",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3631-PPSA13554_00-0096364450378365",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA13555_00",
     "conceptId": 10007204,
     "name": "Greyhill Incident",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA13555_00-0733616970054914",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA13560_00",
@@ -51322,10 +51490,34 @@
   {
     "titleId": "PPSA13801_00",
     "conceptId": 10002100,
-    "name": "FINAL FANTASY XVI",
+    "name": "FINAL FANTASY XVI DEMO",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA13802_00",
+    "conceptId": 10002100,
+    "name": "FINAL FANTASY XVI DEMO",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA13803_00",
+    "conceptId": 10002100,
+    "name": "FINAL FANTASY XVI DEMO",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA13804_00",
+    "conceptId": 10002100,
+    "name": "FINAL FANTASY XVI DEMO",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA13807_00",
@@ -53176,12 +53368,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14410_00",
+    "conceptId": 10007263,
+    "name": "PAYDAY 3: Pre-order Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP8268"
+  },
+  {
+    "titleId": "PPSA14411_00",
+    "conceptId": 10007263,
+    "name": "PAYDAY 3: Pre-order Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8459"
+  },
+  {
     "titleId": "PPSA14412_00",
     "conceptId": 10007263,
     "name": "PAYDAY 3: Pre-order Edition",
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0108"
+  },
+  {
+    "titleId": "PPSA14413_00",
+    "conceptId": 10007263,
+    "name": "PAYDAY 3: Pre-order Edition",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP4062"
   },
   {
     "titleId": "PPSA14414_00",
@@ -53472,6 +53688,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA14723_00",
+    "conceptId": 10002313,
+    "name": "The Crew Motorfest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14727_00",
     "conceptId": 234877,
     "name": "Syzygy: The Power of the Eclipse",
@@ -53568,6 +53792,22 @@
     "publisherId": "EP5067"
   },
   {
+    "titleId": "PPSA15070_00",
+    "conceptId": 10007860,
+    "name": "The Fairy's Song",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15071_00",
+    "conceptId": 10007860,
+    "name": "The Fairy's Song",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15172_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
@@ -53635,17 +53875,17 @@
     "titleId": "PPSA15222_00",
     "conceptId": 10007910,
     "name": "Brave Soldier - Invasion of Cyborgs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA15222_00-BRAVESOLDIER0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA15223_00",
     "conceptId": 10007910,
     "name": "Brave Soldier - Invasion of Cyborgs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA15223_00-BRAVESOLDIER0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA15255_00",
@@ -54504,6 +54744,14 @@
     "publisherId": "HP1804"
   },
   {
+    "titleId": "PPSA15893_00",
+    "conceptId": 10004814,
+    "name": "Eternights",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6844"
+  },
+  {
     "titleId": "PPSA15895_00",
     "conceptId": 227163,
     "name": "Late Shift",
@@ -54595,9 +54843,9 @@
     "titleId": "PPSA15950_00",
     "conceptId": 10006619,
     "name": "Cavity Busters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA15950_00-CAVITYBUSTERS000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA15957_00",
@@ -54728,6 +54976,22 @@
     "publisherId": "JP6421"
   },
   {
+    "titleId": "PPSA16049_00",
+    "conceptId": 10006227,
+    "name": "Army of Ruin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16050_00",
+    "conceptId": 10006227,
+    "name": "Army of Ruin",
+    "contentId": "UP0903-PPSA16050_00-ARMYOFRUINPS5USD",
+    "region": "UP",
+    "publisherId": "UP0903"
+  },
+  {
     "titleId": "PPSA16055_00",
     "conceptId": 10008210,
     "name": "Travel The Words Demo",
@@ -54838,6 +55102,38 @@
     "contentId": "HP6784-PPSA16073_00-0326421282652440",
     "region": "HP",
     "publisherId": "HP6784"
+  },
+  {
+    "titleId": "PPSA16100_00",
+    "conceptId": 10008234,
+    "name": "I'LL KILL HER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16101_00",
+    "conceptId": 10008234,
+    "name": "I'LL KILL HER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16102_00",
+    "conceptId": 10008234,
+    "name": "I'LL KILL HER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16103_00",
+    "conceptId": 10008234,
+    "name": "I'LL KILL HER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16104_00",
@@ -55112,6 +55408,22 @@
     "publisherId": "EP4977"
   },
   {
+    "titleId": "PPSA16409_00",
+    "conceptId": 10008119,
+    "name": "Raging Bytes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16418_00",
+    "conceptId": 10007257,
+    "name": "discovery+ | Stream TV Shows",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16448_00",
     "conceptId": 234601,
     "name": "DreamingCanvas",
@@ -55184,6 +55496,22 @@
     "publisherId": "UP5180"
   },
   {
+    "titleId": "PPSA16506_00",
+    "conceptId": 10004877,
+    "name": "LAYERS OF FEAR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16507_00",
+    "conceptId": 10004877,
+    "name": "LAYERS OF FEAR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16513_00",
     "conceptId": 10008401,
     "name": "#Wish Travel, Super Puzzles Dream",
@@ -55246,6 +55574,22 @@
     "contentId": "HP6691-PPSA16552_00-HIDDENBUNNYPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA16593_00",
+    "conceptId": 10008119,
+    "name": "Raging Bytes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16594_00",
+    "conceptId": 10008119,
+    "name": "Raging Bytes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16605_00",
@@ -55440,6 +55784,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16733_00",
+    "conceptId": 232640,
+    "name": "Cities: Skylines II",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4139"
+  },
+  {
+    "titleId": "PPSA16734_00",
+    "conceptId": 232640,
+    "name": "Cities: Skylines II",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4139"
+  },
+  {
     "titleId": "PPSA16759_00",
     "conceptId": 10008433,
     "name": "Cubic Figures 2",
@@ -55488,12 +55848,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16892_00",
+    "conceptId": 10007204,
+    "name": "Greyhill Incident",
+    "contentId": "UP3589-PPSA16892_00-0073295541029295",
+    "region": "UP",
+    "publisherId": "UP3589"
+  },
+  {
     "titleId": "PPSA16893_00",
     "conceptId": 10007204,
     "name": "Greyhill Incident",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA16893_00-0020401816518241",
+    "region": "EP",
+    "publisherId": "EP3446"
+  },
+  {
+    "titleId": "PPSA16895_00",
+    "conceptId": 10007204,
+    "name": "Greyhill Incident",
+    "contentId": "JP3631-PPSA16895_00-0270337973268760",
+    "region": "JP",
+    "publisherId": "JP3631"
+  },
+  {
+    "titleId": "PPSA16896_00",
+    "conceptId": 10007204,
+    "name": "Greyhill Incident",
+    "contentId": "HP3536-PPSA16896_00-0067707665496321",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA16956_00",
@@ -55510,5 +55894,13 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17104_00",
+    "conceptId": 10005377,
+    "name": "Adrian's Tale",
+    "contentId": "UP1570-PPSA17104_00-0524791403384676",
+    "region": "UP",
+    "publisherId": "UP1570"
   }
 ]
