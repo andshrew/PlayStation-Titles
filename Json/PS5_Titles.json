@@ -1088,6 +1088,14 @@
     "publisherId": "EP2187"
   },
   {
+    "titleId": "PPSA01576_00",
+    "conceptId": 235179,
+    "name": "Avatar: Frontiers of Pandora\u2122",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0001"
+  },
+  {
     "titleId": "PPSA01577_00",
     "conceptId": 10000177,
     "name": "Sackboy: A Big Adventure",
@@ -1102,6 +1110,14 @@
     "contentId": "EP9000-PPSA01578_00-MAYHEMTHB0000001",
     "region": "EP",
     "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA01579_00",
+    "conceptId": 235179,
+    "name": "\u30a2\u30d0\u30bf\u30fc\uff1a\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30fb\u30aa\u30d6\u30fb\u30d1\u30f3\u30c9\u30e9",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA01580_00",
@@ -1475,7 +1491,7 @@
     "titleId": "PPSA01683_00",
     "conceptId": 10001225,
     "name": "Park Beyond",
-    "contentId": null,
+    "contentId": "EP0700-PPSA01683_00-PARKBEYOND000001",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -6656,12 +6672,28 @@
     "publisherId": "EP3024"
   },
   {
+    "titleId": "PPSA02838_00",
+    "conceptId": 10002313,
+    "name": "The Crew\u2122 Motorfest - Cross-Gen Bundle",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0001"
+  },
+  {
     "titleId": "PPSA02839_00",
     "conceptId": 10002313,
     "name": "The Crew\u2122 Motorfest - Cross-Gen Bundle",
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0001"
+  },
+  {
+    "titleId": "PPSA02840_00",
+    "conceptId": 10002313,
+    "name": "\u30b6 \u30af\u30eb\u30fc\uff1a\u30e2\u30fc\u30bf\u30fc\u30d5\u30a7\u30b9 - Cross-Gen\u30d0\u30f3\u30c9\u30eb",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA02841_00",
@@ -7486,6 +7518,14 @@
     "contentId": "EP1245-PPSA03014_00-2142726775891179",
     "region": "EP",
     "publisherId": "EP1245"
+  },
+  {
+    "titleId": "PPSA03016_00",
+    "conceptId": 10002456,
+    "name": "Marvel\u2019s Spider-Man 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA03022_00",
@@ -15312,6 +15352,14 @@
     "publisherId": "EP3948"
   },
   {
+    "titleId": "PPSA04651_00",
+    "conceptId": 10003342,
+    "name": "THE HOUSE OF THE DEAD: Remake",
+    "contentId": "JP4138-PPSA04651_00-4676708207788631",
+    "region": "JP",
+    "publisherId": "JP4138"
+  },
+  {
     "titleId": "PPSA04652_00",
     "conceptId": 10002585,
     "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN TRIAL VERSION 2",
@@ -17955,7 +18003,7 @@
     "titleId": "PPSA05236_00",
     "conceptId": 10001225,
     "name": "Park Beyond",
-    "contentId": null,
+    "contentId": "UP0700-PPSA05236_00-PARKBEYOND000001",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -18392,6 +18440,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA05317_00",
+    "conceptId": 10002719,
+    "name": "The Texas Chain Saw Massacre",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2165"
+  },
+  {
     "titleId": "PPSA05321_00",
     "conceptId": 229250,
     "name": "Omen of Sorrow",
@@ -18438,6 +18494,14 @@
     "contentId": "JP0177-PPSA05326_00-SONICORIGINS0000",
     "region": "JP",
     "publisherId": "JP0177"
+  },
+  {
+    "titleId": "PPSA05328_00",
+    "conceptId": 10002719,
+    "name": "The Texas Chain Saw Massacre",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2165"
   },
   {
     "titleId": "PPSA05329_00",
@@ -18531,7 +18595,7 @@
     "titleId": "PPSA05344_00",
     "conceptId": 10001225,
     "name": "Park Beyond",
-    "contentId": null,
+    "contentId": "HP5028-PPSA05344_00-PARKBEYOND000001",
     "region": "HP",
     "publisherId": "HP5028"
   },
@@ -23507,17 +23571,17 @@
     "titleId": "PPSA06381_00",
     "conceptId": 10004424,
     "name": "Crime Boss: Rockay City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4040-PPSA06381_00-UPSIEACAREXBEARX",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA06382_00",
     "conceptId": 10004424,
     "name": "Crime Boss: Rockay City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4040-PPSA06382_00-EPSIEECAREXBEARX",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA06387_00",
@@ -23534,6 +23598,14 @@
     "contentId": "JP0177-PPSA06388_00-SONICRANGERS0000",
     "region": "JP",
     "publisherId": "JP0177"
+  },
+  {
+    "titleId": "PPSA06392_00",
+    "conceptId": 10004357,
+    "name": "Urban Flow",
+    "contentId": "EP6290-PPSA06392_00-9626119839367500",
+    "region": "EP",
+    "publisherId": "EP6290"
   },
   {
     "titleId": "PPSA06394_00",
@@ -23827,17 +23899,17 @@
     "titleId": "PPSA06458_00",
     "conceptId": 10004481,
     "name": "Fall of Porcupine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5290-PPSA06458_00-2313102725172726",
+    "region": "UP",
+    "publisherId": "UP5290"
   },
   {
     "titleId": "PPSA06459_00",
     "conceptId": 10004481,
     "name": "Fall of Porcupine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5470-PPSA06459_00-9286785990628302",
+    "region": "EP",
+    "publisherId": "EP5470"
   },
   {
     "titleId": "PPSA06460_00",
@@ -27626,10 +27698,10 @@
   {
     "titleId": "PPSA07265_00",
     "conceptId": 10004877,
-    "name": "LAYERS OF FEAR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Layers of Fear",
+    "contentId": "EP4176-PPSA07265_00-LAYERSOFFEAR0000",
+    "region": "EP",
+    "publisherId": "EP4176"
   },
   {
     "titleId": "PPSA07267_00",
@@ -29403,7 +29475,7 @@
     "titleId": "PPSA07658_00",
     "conceptId": 10001225,
     "name": "Park Beyond",
-    "contentId": null,
+    "contentId": "JP0700-PPSA07658_00-PARKBEYOND000001",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -31328,6 +31400,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA08087_00",
+    "conceptId": 10004427,
+    "name": "Mordhau",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08098_00",
     "conceptId": 10004978,
     "name": "Gigapocalypse",
@@ -32672,6 +32752,30 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA08338_00",
+    "conceptId": 10002456,
+    "name": "Marvel\u2019s Spider-Man 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA08339_00",
+    "conceptId": 10002456,
+    "name": "Marvel\u2019s Spider-Man 2",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA08340_00",
+    "conceptId": 10002456,
+    "name": "Marvel\u2019s Spider-Man 2",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP9000"
+  },
+  {
     "titleId": "PPSA08341_00",
     "conceptId": 10005358,
     "name": "The Czech Run",
@@ -33763,9 +33867,9 @@
     "titleId": "PPSA08558_00",
     "conceptId": 10005448,
     "name": "Robolt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA08558_00-ROBOLT0000000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA08559_00",
@@ -34402,10 +34506,10 @@
   {
     "titleId": "PPSA08681_00",
     "conceptId": 10004877,
-    "name": "LAYERS OF FEAR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Layers of Fear",
+    "contentId": "UP4176-PPSA08681_00-LAYERSOFFEAR0000",
+    "region": "UP",
+    "publisherId": "UP4176"
   },
   {
     "titleId": "PPSA08683_00",
@@ -36433,6 +36537,14 @@
   },
   {
     "titleId": "PPSA09074_00",
+    "conceptId": 10005674,
+    "name": "Valthirian Arc: Hero School Story 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09075_00",
     "conceptId": 10005674,
     "name": "Valthirian Arc: Hero School Story 2",
     "contentId": null,
@@ -40010,16 +40122,16 @@
   {
     "titleId": "PPSA09801_00",
     "conceptId": 10006008,
-    "name": "F1\u00ae 23 Standard Edition",
-    "contentId": null,
+    "name": "F1\u00ae 23",
+    "contentId": "UP0006-PPSA09801_00-F12023PS5GAME000",
     "region": "UP",
     "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA09802_00",
     "conceptId": 10006008,
-    "name": "F1\u00ae 23 Standard Edition",
-    "contentId": null,
+    "name": "F1\u00ae 23",
+    "contentId": "EP0006-PPSA09802_00-F12023PS5GAME000",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -44344,6 +44456,22 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA10581_00",
+    "conceptId": 10006261,
+    "name": "The Last Hero of Nostalgaia",
+    "contentId": "UP2680-PPSA10581_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP2680"
+  },
+  {
+    "titleId": "PPSA10582_00",
+    "conceptId": 10006261,
+    "name": "The Last Hero of Nostalgaia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10583_00",
     "conceptId": 10006262,
     "name": "Animal Lover",
@@ -47136,6 +47264,22 @@
     "publisherId": "HP9000"
   },
   {
+    "titleId": "PPSA11142_00",
+    "conceptId": 10006484,
+    "name": "Killzone: Liberation",
+    "contentId": "EP9000-PPSA11142_00-UCES002790000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA11144_00",
+    "conceptId": 10006487,
+    "name": "Story of Seasons : A Wonderful life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11147_00",
     "conceptId": 10005479,
     "name": "Shark Pinball",
@@ -48432,6 +48576,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA11494_00",
+    "conceptId": 231180,
+    "name": "Warhammer 40,000: Inquisitor - Martyr",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11495_00",
     "conceptId": 10006599,
     "name": "Kingdom of Aurelia: Mystery of the Poisoned Dagger Premium Edition",
@@ -48904,12 +49056,20 @@
     "publisherId": "UP0295"
   },
   {
+    "titleId": "PPSA12390_00",
+    "conceptId": 10006867,
+    "name": "Power The Light",
+    "contentId": "UP7962-PPSA12390_00-6782100983800978",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
     "titleId": "PPSA12391_00",
     "conceptId": 10006867,
     "name": "Power The Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7960-PPSA12391_00-5401280702877151",
+    "region": "EP",
+    "publisherId": "EP7960"
   },
   {
     "titleId": "PPSA12392_00",
@@ -49816,6 +49976,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13225_00",
+    "conceptId": 10004312,
+    "name": "Venba",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13226_00",
+    "conceptId": 10004312,
+    "name": "Venba",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13232_00",
     "conceptId": 10004960,
     "name": "Melon Journey: Bittersweet Memories",
@@ -49902,6 +50078,22 @@
     "contentId": "UP1181-PPSA13263_00-0093894355472769",
     "region": "UP",
     "publisherId": "UP1181"
+  },
+  {
+    "titleId": "PPSA13271_00",
+    "conceptId": 10001308,
+    "name": "MUNDAUN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13272_00",
+    "conceptId": 10001308,
+    "name": "MUNDAUN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13275_00",
@@ -50102,6 +50294,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA13346_00",
+    "conceptId": 10004357,
+    "name": "Urban Flow",
+    "contentId": "UP6291-PPSA13346_00-0295827992839630",
+    "region": "UP",
+    "publisherId": "UP6291"
   },
   {
     "titleId": "PPSA13347_00",
@@ -50478,6 +50678,14 @@
     "contentId": "HP0874-PPSA13487_00-0827439407259149",
     "region": "HP",
     "publisherId": "HP0874"
+  },
+  {
+    "titleId": "PPSA13488_00",
+    "conceptId": 10006484,
+    "name": "Killzone: Liberation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13495_00",
@@ -50954,8 +51162,8 @@
   {
     "titleId": "PPSA13651_00",
     "conceptId": 10003516,
-    "name": "\u30af\u30e9\u30c3\u30b7\u30e5\u30fb\u30c1\u30fc\u30e0\u30fb\u30e9\u30f3\u30d6\u30eb\u2122: \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u7248",
-    "contentId": null,
+    "name": "\u30af\u30e9\u30c3\u30b7\u30e5\u30c1\u30fc\u30e0\u30e9\u30f3\u30d6\u30eb\u2122",
+    "contentId": "JP0088-PPSA13651_00-CRASHTEAMRUMBLE0",
     "region": "JP",
     "publisherId": "JP0088"
   },
@@ -51539,9 +51747,9 @@
     "titleId": "PPSA13817_00",
     "conceptId": 10004424,
     "name": "Crime Boss: Rockay City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0114-PPSA13817_00-JPSIEJCAREXBEARX",
+    "region": "JP",
+    "publisherId": "JP0114"
   },
   {
     "titleId": "PPSA13819_00",
@@ -51550,6 +51758,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0404"
+  },
+  {
+    "titleId": "PPSA13824_00",
+    "conceptId": 10007364,
+    "name": "Firefight!",
+    "contentId": "UP8158-PPSA13824_00-FIREFIGHTXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP8158"
   },
   {
     "titleId": "PPSA13840_00",
@@ -51904,7 +52120,23 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA13921_00",
+    "conceptId": 10007328,
+    "name": "SOULVARS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13922_00",
+    "conceptId": 10007328,
+    "name": "SOULVARS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13923_00",
     "conceptId": 10007328,
     "name": "SOULVARS",
     "contentId": null,
@@ -52960,6 +53192,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14226_00",
+    "conceptId": 10007563,
+    "name": "\u30b7\u30ab\u30c8\u30ea\u30b9\u4f53\u9a13\u7248",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
     "titleId": "PPSA14227_00",
     "conceptId": 10005187,
     "name": "Vernal Edge",
@@ -53046,6 +53286,22 @@
     "contentId": "UP7137-PPSA14248_00-0492146559940438",
     "region": "UP",
     "publisherId": "UP7137"
+  },
+  {
+    "titleId": "PPSA14256_00",
+    "conceptId": 10003517,
+    "name": "SURV1V3",
+    "contentId": "UP7324-PPSA14256_00-SURV1V3XXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP7324"
+  },
+  {
+    "titleId": "PPSA14257_00",
+    "conceptId": 10003517,
+    "name": "SURV1V3",
+    "contentId": "EP7322-PPSA14257_00-SURV1V3XXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP7322"
   },
   {
     "titleId": "PPSA14265_00",
@@ -53356,8 +53612,8 @@
     "conceptId": 10001902,
     "name": "Evil West",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA14385_00",
@@ -53795,17 +54051,17 @@
     "titleId": "PPSA15070_00",
     "conceptId": 10007860,
     "name": "The Fairy's Song",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15070_00-THEFAIRYSSONGRAG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15071_00",
     "conceptId": 10007860,
     "name": "The Fairy's Song",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15071_00-THEFAIRYSSONGRAG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15172_00",
@@ -54200,6 +54456,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA15464_00",
+    "conceptId": 10000591,
+    "name": "Until You Fall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15467_00",
     "conceptId": 10008001,
     "name": "Cyber Citizen Shockman",
@@ -54320,6 +54584,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15520_00",
+    "conceptId": 10007547,
+    "name": "SWOON!EARTH ESCAPE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15521_00",
+    "conceptId": 10007547,
+    "name": "SWOON!EARTH ESCAPE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15541_00",
     "conceptId": 10008045,
     "name": "Little Disaster",
@@ -54432,6 +54712,30 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA15610_00",
+    "conceptId": 10000591,
+    "name": "Until You Fall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15611_00",
+    "conceptId": 10000591,
+    "name": "Until You Fall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15612_00",
+    "conceptId": 10000591,
+    "name": "Until You Fall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15620_00",
     "conceptId": 231481,
     "name": "Rakuten TV",
@@ -54446,6 +54750,22 @@
     "contentId": "UP7660-PPSA15630_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP7660"
+  },
+  {
+    "titleId": "PPSA15631_00",
+    "conceptId": 10008082,
+    "name": "Ghost Files: The Face of Guilt",
+    "contentId": "EP1667-PPSA15631_00-GF1000523PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
+  },
+  {
+    "titleId": "PPSA15632_00",
+    "conceptId": 10008082,
+    "name": "Ghost Files: The Face of Guilt",
+    "contentId": "UP1681-PPSA15632_00-GF1000523PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA15648_00",
@@ -54819,9 +55139,9 @@
     "titleId": "PPSA15918_00",
     "conceptId": 10008172,
     "name": "Pixel Ripped 1978",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0182-PPSA15918_00-0453997602748542",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA15935_00",
@@ -54859,9 +55179,9 @@
     "titleId": "PPSA15959_00",
     "conceptId": 10008172,
     "name": "Pixel Ripped 1978",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0182-PPSA15959_00-0362411899323745",
+    "region": "EP",
+    "publisherId": "EP0182"
   },
   {
     "titleId": "PPSA15966_00",
@@ -54979,9 +55299,9 @@
     "titleId": "PPSA16049_00",
     "conceptId": 10006227,
     "name": "Army of Ruin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0856-PPSA16049_00-ARMYOFRUINEUPS5D",
+    "region": "EP",
+    "publisherId": "EP0856"
   },
   {
     "titleId": "PPSA16050_00",
@@ -55059,33 +55379,33 @@
     "titleId": "PPSA16066_00",
     "conceptId": 10007986,
     "name": "Stay Out of the House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6778-PPSA16066_00-0402998367639834",
+    "region": "UP",
+    "publisherId": "UP6778"
   },
   {
     "titleId": "PPSA16069_00",
     "conceptId": 10007986,
     "name": "Stay Out of the House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6776-PPSA16069_00-0315649913749025",
+    "region": "EP",
+    "publisherId": "EP6776"
   },
   {
     "titleId": "PPSA16070_00",
     "conceptId": 10007986,
-    "name": "Stay Out of the House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "STAY OUT OF THE HOUSE",
+    "contentId": "JP6727-PPSA16070_00-0818392400050218",
+    "region": "JP",
+    "publisherId": "JP6727"
   },
   {
     "titleId": "PPSA16071_00",
     "conceptId": 10007986,
     "name": "Stay Out of the House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6784-PPSA16071_00-0223968504364736",
+    "region": "HP",
+    "publisherId": "HP6784"
   },
   {
     "titleId": "PPSA16072_00",
@@ -55139,9 +55459,9 @@
     "titleId": "PPSA16104_00",
     "conceptId": 10004424,
     "name": "Crime Boss: Rockay City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP1390-PPSA16104_00-HPSIEJCAREXBEARX",
+    "region": "HP",
+    "publisherId": "HP1390"
   },
   {
     "titleId": "PPSA16118_00",
@@ -55498,18 +55818,18 @@
   {
     "titleId": "PPSA16506_00",
     "conceptId": 10004877,
-    "name": "LAYERS OF FEAR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Layers of Fear Bonus Content",
+    "contentId": "UP4176-PPSA16506_00-LOFBCUS000000000",
+    "region": "UP",
+    "publisherId": "UP4176"
   },
   {
     "titleId": "PPSA16507_00",
     "conceptId": 10004877,
-    "name": "LAYERS OF FEAR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Layers of Fear Bonus Content",
+    "contentId": "EP4176-PPSA16507_00-LOFBCEU000000000",
+    "region": "EP",
+    "publisherId": "EP4176"
   },
   {
     "titleId": "PPSA16513_00",
@@ -55526,6 +55846,22 @@
     "contentId": "UP8121-PPSA16514_00-0496784447132718",
     "region": "UP",
     "publisherId": "UP8121"
+  },
+  {
+    "titleId": "PPSA16545_00",
+    "conceptId": 10008423,
+    "name": "BlackJack Waifu Tour",
+    "contentId": "UP6718-PPSA16545_00-0237507461311418",
+    "region": "UP",
+    "publisherId": "UP6718"
+  },
+  {
+    "titleId": "PPSA16546_00",
+    "conceptId": 10008423,
+    "name": "BlackJack Waifu Tour",
+    "contentId": "EP6718-PPSA16546_00-0546640489233445",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA16547_00",
@@ -55638,6 +55974,22 @@
     "contentId": "EP8070-PPSA16651_00-0468623914130376",
     "region": "EP",
     "publisherId": "EP8070"
+  },
+  {
+    "titleId": "PPSA16661_00",
+    "conceptId": 10005482,
+    "name": "Moonshine Inc.",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16662_00",
+    "conceptId": 10005482,
+    "name": "Moonshine Inc.",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16664_00",
@@ -55770,18 +56122,18 @@
   {
     "titleId": "PPSA16727_00",
     "conceptId": 10006908,
-    "name": "Speed or death",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Speed or Death",
+    "contentId": "UP6718-PPSA16727_00-0033766796484101",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA16728_00",
     "conceptId": 10006908,
-    "name": "Speed or death",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Speed or Death",
+    "contentId": "EP6718-PPSA16728_00-0593965184868146",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA16733_00",
