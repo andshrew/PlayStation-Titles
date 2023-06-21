@@ -24896,18 +24896,34 @@
     "publisherId": "EP3470"
   },
   {
+    "titleId": "PPSA06656_00",
+    "conceptId": 10004437,
+    "name": "POST VOID",
+    "contentId": "EP6930-PPSA06656_00-APP0990000000022",
+    "region": "EP",
+    "publisherId": "EP6930"
+  },
+  {
+    "titleId": "PPSA06657_00",
+    "conceptId": 10004437,
+    "name": "POST VOID",
+    "contentId": "UP6935-PPSA06657_00-APP0990000000022",
+    "region": "UP",
+    "publisherId": "UP6935"
+  },
+  {
     "titleId": "PPSA06659_00",
     "conceptId": 10003516,
-    "name": "Crash Team Rumble\u2122 - Standard Edition",
-    "contentId": null,
+    "name": "Crash Team Rumble\u2122",
+    "contentId": "UP0002-PPSA06659_00-CRASHTEAMRUMBLE0",
     "region": "UP",
     "publisherId": "UP0002"
   },
   {
     "titleId": "PPSA06660_00",
     "conceptId": 10003516,
-    "name": "Crash Team Rumble\u2122 - Standard Edition",
-    "contentId": null,
+    "name": "Crash Team Rumble\u2122",
+    "contentId": "EP0002-PPSA06660_00-CRASHTEAMRUMBLE0",
     "region": "EP",
     "publisherId": "EP0002"
   },
@@ -27912,6 +27928,22 @@
     "publisherId": "EP3540"
   },
   {
+    "titleId": "PPSA07306_00",
+    "conceptId": 10004898,
+    "name": "Worms",
+    "contentId": "EP4064-PPSA07306_00-SLES001190000000",
+    "region": "EP",
+    "publisherId": "EP4064"
+  },
+  {
+    "titleId": "PPSA07307_00",
+    "conceptId": 10004898,
+    "name": "Worms",
+    "contentId": "UP4064-PPSA07307_00-SLUS003360000000",
+    "region": "UP",
+    "publisherId": "UP4064"
+  },
+  {
     "titleId": "PPSA07308_00",
     "conceptId": 10004899,
     "name": "Worms Armageddon",
@@ -28974,6 +29006,14 @@
     "contentId": "UP4040-PPSA07532_00-ROGUESPIRIT00000",
     "region": "UP",
     "publisherId": "UP4040"
+  },
+  {
+    "titleId": "PPSA07535_00",
+    "conceptId": 10005027,
+    "name": "Coded Soul",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07536_00",
@@ -32611,7 +32651,7 @@
     "titleId": "PPSA08313_00",
     "conceptId": 10005351,
     "name": "Aliens: Dark Descent",
-    "contentId": null,
+    "contentId": "UP4133-PPSA08313_00-ALIENSDARKDESCEN",
     "region": "UP",
     "publisherId": "UP4133"
   },
@@ -32806,6 +32846,14 @@
     "contentId": "EP7333-PPSA08344_00-7085190024290364",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA08346_00",
+    "conceptId": 10005364,
+    "name": "Tower of Fantasy",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5337"
   },
   {
     "titleId": "PPSA08349_00",
@@ -33238,6 +33286,14 @@
     "contentId": "JP1190-PPSA08435_00-RGAVENGINGSPIRIT",
     "region": "JP",
     "publisherId": "JP1190"
+  },
+  {
+    "titleId": "PPSA08437_00",
+    "conceptId": 10005027,
+    "name": "Coded Soul",
+    "contentId": "HP9000-PPSA08437_00-UCAS401800000000",
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA08438_00",
@@ -44467,9 +44523,9 @@
     "titleId": "PPSA10582_00",
     "conceptId": 10006261,
     "name": "The Last Hero of Nostalgaia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8936-PPSA10582_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP8936"
   },
   {
     "titleId": "PPSA10583_00",
@@ -47262,6 +47318,14 @@
     "contentId": "HP9000-PPSA11140_00-UCAS400640000000",
     "region": "HP",
     "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA11141_00",
+    "conceptId": 10006484,
+    "name": "Killzone: Liberation",
+    "contentId": "UP9000-PPSA11141_00-UCUS986460000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA11142_00",
@@ -53624,6 +53688,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14390_00",
+    "conceptId": 10007636,
+    "name": "Herc's Adventures",
+    "contentId": "UP1082-PPSA14390_00-SLUS002980000000",
+    "region": "UP",
+    "publisherId": "UP1082"
+  },
+  {
+    "titleId": "PPSA14391_00",
+    "conceptId": 10007636,
+    "name": "Herc's Adventures",
+    "contentId": "EP1006-PPSA14391_00-SLES006530000000",
+    "region": "EP",
+    "publisherId": "EP1006"
+  },
+  {
     "titleId": "PPSA14410_00",
     "conceptId": 10007263,
     "name": "PAYDAY 3: Pre-order Edition",
@@ -53830,6 +53910,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA14640_00",
+    "conceptId": 10007636,
+    "name": "Herc's Adventures",
+    "contentId": "JP1780-PPSA14640_00-SLPS010610000000",
+    "region": "JP",
+    "publisherId": "JP1780"
   },
   {
     "titleId": "PPSA14641_00",
@@ -54075,9 +54163,9 @@
     "titleId": "PPSA15173_00",
     "conceptId": 10007723,
     "name": "Rogue Legacy 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4488-PPSA15173_00-0338975894246736",
+    "region": "UP",
+    "publisherId": "UP4488"
   },
   {
     "titleId": "PPSA15189_00",
@@ -54547,9 +54635,9 @@
     "titleId": "PPSA15506_00",
     "conceptId": 10007723,
     "name": "Rogue Legacy 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4488-PPSA15506_00-0843633431123623",
+    "region": "EP",
+    "publisherId": "EP4488"
   },
   {
     "titleId": "PPSA15509_00",
@@ -54646,6 +54734,14 @@
     "contentId": "JP0013-PPSA15567_00-JP0IHANASHI00PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA15590_00",
+    "conceptId": 10008064,
+    "name": "Masternoid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15591_00",
@@ -54934,6 +55030,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP7137"
+  },
+  {
+    "titleId": "PPSA15799_00",
+    "conceptId": 10008064,
+    "name": "Masternoid",
+    "contentId": "EP8689-PPSA15799_00-0228466884056247",
+    "region": "EP",
+    "publisherId": "EP8689"
   },
   {
     "titleId": "PPSA15822_00",
@@ -55262,6 +55366,38 @@
     "contentId": "UP1643-PPSA16005_00-RUBBERDUCK0PS5US",
     "region": "UP",
     "publisherId": "UP1643"
+  },
+  {
+    "titleId": "PPSA16016_00",
+    "conceptId": 10004911,
+    "name": "Mortal Kombat 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16017_00",
+    "conceptId": 10004911,
+    "name": "Mortal Kombat 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16018_00",
+    "conceptId": 10008153,
+    "name": "Double Dragon Gaiden: Rise of the Dragons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16019_00",
+    "conceptId": 10008153,
+    "name": "Double Dragon Gaiden: Rise of the Dragons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16026_00",
@@ -55736,9 +55872,65 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16414_00",
+    "conceptId": 10008363,
+    "name": "Archers Dream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16415_00",
+    "conceptId": 10008363,
+    "name": "Archers Dream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16416_00",
+    "conceptId": 10008363,
+    "name": "Archers Dream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16417_00",
+    "conceptId": 10008363,
+    "name": "Archers Dream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16418_00",
     "conceptId": 10007257,
     "name": "discovery+ | Stream TV Shows",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16438_00",
+    "conceptId": 10007755,
+    "name": "FRONT MISSION 1st: Remake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16439_00",
+    "conceptId": 10007755,
+    "name": "FRONT MISSION 1st: Remake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16440_00",
+    "conceptId": 10007755,
+    "name": "FRONT MISSION 1st: Remake",
     "contentId": null,
     "region": null,
     "publisherId": null
