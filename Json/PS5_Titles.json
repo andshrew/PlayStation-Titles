@@ -1088,6 +1088,14 @@
     "publisherId": "EP2187"
   },
   {
+    "titleId": "PPSA01575_00",
+    "conceptId": 235179,
+    "name": "Avatar: Frontiers of Pandora\u2122",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0001"
+  },
+  {
     "titleId": "PPSA01576_00",
     "conceptId": 235179,
     "name": "Avatar: Frontiers of Pandora\u2122",
@@ -6090,10 +6098,10 @@
   {
     "titleId": "PPSA02735_00",
     "conceptId": 10002211,
-    "name": "XDefiant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "XDefiant\u00ae",
+    "contentId": "JP0001-PPSA02735_00-XDEFIANTGAME0001",
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA02739_00",
@@ -29008,6 +29016,14 @@
     "publisherId": "UP4040"
   },
   {
+    "titleId": "PPSA07534_00",
+    "conceptId": 10005027,
+    "name": "Coded Soul \uff0d\u53d7\u3051\u7d99\u304c\u308c\u3057\u30a4\u30c7\u30a2\uff0d",
+    "contentId": "JP9000-PPSA07534_00-UCJS100610000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA07535_00",
     "conceptId": 10005027,
     "name": "Coded Soul",
@@ -31179,7 +31195,7 @@
     "titleId": "PPSA08030_00",
     "conceptId": 10002100,
     "name": "FINAL FANTASY XVI",
-    "contentId": null,
+    "contentId": "JP0082-PPSA08030_00-FF16000000000000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -31550,6 +31566,22 @@
     "contentId": "EP6922-PPSA08114_00-2875335729762424",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA08115_00",
+    "conceptId": 10005240,
+    "name": "Gloomhaven Mercenaries Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4744"
+  },
+  {
+    "titleId": "PPSA08116_00",
+    "conceptId": 10005240,
+    "name": "Gloomhaven Mercenaries Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4917"
   },
   {
     "titleId": "PPSA08117_00",
@@ -32643,7 +32675,7 @@
     "titleId": "PPSA08312_00",
     "conceptId": 10005351,
     "name": "Aliens: Dark Descent",
-    "contentId": null,
+    "contentId": "EP4133-PPSA08312_00-ALIENSDARKDESCEN",
     "region": "EP",
     "publisherId": "EP4133"
   },
@@ -32854,6 +32886,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP5337"
+  },
+  {
+    "titleId": "PPSA08348_00",
+    "conceptId": 10005364,
+    "name": "Tower of Fantasy",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5518"
   },
   {
     "titleId": "PPSA08349_00",
@@ -33931,9 +33971,9 @@
     "titleId": "PPSA08559_00",
     "conceptId": 10005448,
     "name": "Robolt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA08559_00-ROBOLT0000000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA08570_00",
@@ -35272,6 +35312,22 @@
     "publisherId": "UP1440"
   },
   {
+    "titleId": "PPSA08829_00",
+    "conceptId": 10005578,
+    "name": "The Dragoness: Command of the Flame",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08830_00",
+    "conceptId": 10005578,
+    "name": "The Dragoness: Command of the Flame",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08832_00",
     "conceptId": 10003754,
     "name": "Raiden IV \u00d7 MIKADO remix",
@@ -36595,9 +36651,9 @@
     "titleId": "PPSA09074_00",
     "conceptId": 10005674,
     "name": "Valthirian Arc: Hero School Story 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA09074_00-7941327591229035",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA09075_00",
@@ -39702,6 +39758,14 @@
     "contentId": "JP5905-PPSA09705_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP5905"
+  },
+  {
+    "titleId": "PPSA09706_00",
+    "conceptId": 10005896,
+    "name": "\u30da\u30eb\u30bd\u30ca\uff15 \u30bf\u30af\u30c6\u30a3\u30ab PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0005"
   },
   {
     "titleId": "PPSA09709_00",
@@ -44843,7 +44907,7 @@
     "titleId": "PPSA10665_00",
     "conceptId": 10002100,
     "name": "FINAL FANTASY XVI",
-    "contentId": null,
+    "contentId": "EP0082-PPSA10665_00-FF16000000000000",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -44851,7 +44915,7 @@
     "titleId": "PPSA10666_00",
     "conceptId": 10002100,
     "name": "FINAL FANTASY XVI",
-    "contentId": null,
+    "contentId": "HP0082-PPSA10666_00-FF16000000000000",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -47338,10 +47402,10 @@
   {
     "titleId": "PPSA11144_00",
     "conceptId": 10006487,
-    "name": "Story of Seasons : A Wonderful life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u7267\u5834\u7269\u8a9e Welcome\uff01\u30ef\u30f3\u30c0\u30d5\u30eb\u30e9\u30a4\u30d5",
+    "contentId": "JP0507-PPSA11144_00-WONDERFULLIFE000",
+    "region": "JP",
+    "publisherId": "JP0507"
   },
   {
     "titleId": "PPSA11147_00",
@@ -48987,9 +49051,9 @@
     "titleId": "PPSA12350_00",
     "conceptId": 10004521,
     "name": "Delivery Driver - The Simulation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4902-PPSA12350_00-7642279534306664",
+    "region": "EP",
+    "publisherId": "EP4902"
   },
   {
     "titleId": "PPSA12361_00",
@@ -50206,6 +50270,38 @@
     "contentId": "EP3643-PPSA13287_00-ZZZZZZZZZZZZZZZZ",
     "region": "EP",
     "publisherId": "EP3643"
+  },
+  {
+    "titleId": "PPSA13288_00",
+    "conceptId": 10007136,
+    "name": "Square Enix Digital Content Viewer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13289_00",
+    "conceptId": 10007136,
+    "name": "Square Enix Digital Content Viewer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13290_00",
+    "conceptId": 10007136,
+    "name": "Square Enix Digital Content Viewer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13291_00",
+    "conceptId": 10007136,
+    "name": "Square Enix Digital Content Viewer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13292_00",
@@ -51430,6 +51526,22 @@
     "contentId": "HP0953-PPSA13709_00-0791513915797950",
     "region": "HP",
     "publisherId": "HP0953"
+  },
+  {
+    "titleId": "PPSA13713_00",
+    "conceptId": 10007308,
+    "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA13717_00",
+    "conceptId": 10007308,
+    "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA13724_00",
@@ -53640,6 +53752,14 @@
     "publisherId": "EP6325"
   },
   {
+    "titleId": "PPSA14363_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0101"
+  },
+  {
     "titleId": "PPSA14370_00",
     "conceptId": 10007552,
     "name": "\u30de\u30fc\u30bb\u30ca\u30ea\u30fc\u30ba\u30e9\u30e1\u30f3\u30c8",
@@ -54739,9 +54859,9 @@
     "titleId": "PPSA15590_00",
     "conceptId": 10008064,
     "name": "Masternoid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8499-PPSA15590_00-0579807395960850",
+    "region": "UP",
+    "publisherId": "UP8499"
   },
   {
     "titleId": "PPSA15591_00",
@@ -55728,6 +55848,14 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA16195_00",
+    "conceptId": 10005896,
+    "name": "Persona 5 Tactica PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
+  },
+  {
     "titleId": "PPSA16200_00",
     "conceptId": 232211,
     "name": "Honor and Duty: D-Day",
@@ -55952,6 +56080,22 @@
     "publisherId": "EP8070"
   },
   {
+    "titleId": "PPSA16450_00",
+    "conceptId": 10004932,
+    "name": "Casino Roulette Royal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16451_00",
+    "conceptId": 10004932,
+    "name": "Casino Roulette Royal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16462_00",
     "conceptId": 10008378,
     "name": "Cat Ping Pong",
@@ -56038,6 +56182,14 @@
     "contentId": "UP8121-PPSA16514_00-0496784447132718",
     "region": "UP",
     "publisherId": "UP8121"
+  },
+  {
+    "titleId": "PPSA16520_00",
+    "conceptId": 10005896,
+    "name": "Persona 5 Tactica PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA16545_00",
@@ -56435,6 +56587,14 @@
     "titleId": "PPSA16957_00",
     "conceptId": 10006846,
     "name": "Synapse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17076_00",
+    "conceptId": 10008646,
+    "name": "Boat Trip",
     "contentId": null,
     "region": null,
     "publisherId": null
