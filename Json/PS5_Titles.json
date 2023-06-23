@@ -8384,6 +8384,14 @@
     "publisherId": "EP1018"
   },
   {
+    "titleId": "PPSA03192_00",
+    "conceptId": 10002088,
+    "name": "Cozy Grove",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03194_00",
     "conceptId": 234823,
     "name": "Tales of Arise Demo Version",
@@ -22358,6 +22366,14 @@
     "contentId": "UP6927-PPSA06122_00-1423229766602457",
     "region": "UP",
     "publisherId": "UP6927"
+  },
+  {
+    "titleId": "PPSA06123_00",
+    "conceptId": 10004276,
+    "name": "LISA: Definitive Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06125_00",
@@ -42826,10 +42842,10 @@
   {
     "titleId": "PPSA10291_00",
     "conceptId": 10006179,
-    "name": "The Bookwalker: Thief of Tales",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Bookwalker",
+    "contentId": "UP0097-PPSA10291_00-0094789907692300",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA10292_00",
@@ -44899,7 +44915,7 @@
     "titleId": "PPSA10664_00",
     "conceptId": 10002100,
     "name": "FINAL FANTASY XVI",
-    "contentId": null,
+    "contentId": "UP0082-PPSA10664_00-FF16000000000000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -48504,6 +48520,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11350_00",
+    "conceptId": 10006550,
+    "name": "Match Master",
+    "contentId": "HP7354-PPSA11350_00-5389391014354594",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA11351_00",
     "conceptId": 10006551,
     "name": "Loopy Ball",
@@ -49027,17 +49051,17 @@
     "titleId": "PPSA12342_00",
     "conceptId": 10006833,
     "name": "Harmony: The Fall of Reverie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8091-PPSA12342_00-2061137180566574",
+    "region": "EP",
+    "publisherId": "EP8091"
   },
   {
     "titleId": "PPSA12343_00",
     "conceptId": 10006833,
     "name": "Harmony: The Fall of Reverie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5898-PPSA12343_00-9238197137927800",
+    "region": "UP",
+    "publisherId": "UP5898"
   },
   {
     "titleId": "PPSA12348_00",
@@ -49094,6 +49118,14 @@
     "contentId": "HP3536-PPSA12365_00-0970050513219522",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA12368_00",
+    "conceptId": 10004521,
+    "name": "Delivery Driver - The Simulation",
+    "contentId": "UP4729-PPSA12368_00-1047597058429103",
+    "region": "UP",
+    "publisherId": "UP4729"
   },
   {
     "titleId": "PPSA12371_00",
@@ -49411,6 +49443,14 @@
     "titleId": "PPSA12461_00",
     "conceptId": 10004698,
     "name": "Thirsty Suitors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12462_00",
+    "conceptId": 10004276,
+    "name": "LISA: Definitive Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -50890,10 +50930,10 @@
   {
     "titleId": "PPSA13506_00",
     "conceptId": 10006487,
-    "name": "Story of Seasons : A Wonderful life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u7267\u5834\u7269\u8a9e Welcome\uff01\u7f8e\u9e97\u4eba\u751f",
+    "contentId": "HP0177-PPSA13506_00-WONDERFULLIFE000",
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA13507_00",
@@ -51534,6 +51574,22 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA13715_00",
+    "conceptId": 10007308,
+    "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA13716_00",
+    "conceptId": 10007308,
+    "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA13717_00",
@@ -52320,6 +52376,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13924_00",
+    "conceptId": 10007328,
+    "name": "SOULVARS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13943_00",
+    "conceptId": 10005337,
+    "name": "9-Ball Pocket",
+    "contentId": "JP5432-PPSA13943_00-0293892902165598",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA13944_00",
     "conceptId": 10007422,
     "name": "Moe Waifu H",
@@ -52514,18 +52586,18 @@
   {
     "titleId": "PPSA14003_00",
     "conceptId": 10007465,
-    "name": "Dr. Fetus\u2019 Mean Meat Machine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dr. Fetus' Mean Meat Machine",
+    "contentId": "EP5360-PPSA14003_00-FETUSMEATPS5SIEE",
+    "region": "EP",
+    "publisherId": "EP5360"
   },
   {
     "titleId": "PPSA14004_00",
     "conceptId": 10007465,
-    "name": "Dr. Fetus\u2019 Mean Meat Machine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dr. Fetus' Mean Meat Machine",
+    "contentId": "UP5180-PPSA14004_00-FETUSMEATPS5SIEA",
+    "region": "UP",
+    "publisherId": "UP5180"
   },
   {
     "titleId": "PPSA14005_00",
@@ -53752,12 +53824,28 @@
     "publisherId": "EP6325"
   },
   {
+    "titleId": "PPSA14362_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA14363_00",
     "conceptId": 10007607,
     "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0101"
+  },
+  {
+    "titleId": "PPSA14364_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA14370_00",
@@ -53771,9 +53859,9 @@
     "titleId": "PPSA14371_00",
     "conceptId": 10007624,
     "name": "Neko Secret Homecoming Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA14371_00-NEKOHOMECOMING00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA14372_00",
@@ -53934,6 +54022,14 @@
     "contentId": "JP8438-PPSA14476_00-0375827293840417",
     "region": "JP",
     "publisherId": "JP8438"
+  },
+  {
+    "titleId": "PPSA14477_00",
+    "conceptId": 10007664,
+    "name": "Tricks Magician",
+    "contentId": "EP0896-PPSA14477_00-TRICKSMAGICIANRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA14486_00",
@@ -54200,6 +54296,38 @@
     "publisherId": "UP4882"
   },
   {
+    "titleId": "PPSA14737_00",
+    "conceptId": 10007773,
+    "name": "Vision Soft Reset",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14738_00",
+    "conceptId": 10007773,
+    "name": "Vision Soft Reset",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14740_00",
+    "conceptId": 10007774,
+    "name": "A Tale For Anna",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14741_00",
+    "conceptId": 10007774,
+    "name": "A Tale For Anna",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14745_00",
     "conceptId": 10007776,
     "name": "Toodee And Topdee",
@@ -54214,6 +54342,22 @@
     "contentId": "EP5335-PPSA14746_00-TOODEEANDTOPDEE0",
     "region": "EP",
     "publisherId": "EP5335"
+  },
+  {
+    "titleId": "PPSA14747_00",
+    "conceptId": 10007777,
+    "name": "The Lost and The Wicked",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14748_00",
+    "conceptId": 10007777,
+    "name": "The Lost and The Wicked",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14749_00",
@@ -54434,16 +54578,16 @@
   {
     "titleId": "PPSA15313_00",
     "conceptId": 10005072,
-    "name": "C-Smash VRS",
-    "contentId": null,
+    "name": "C-SMASH VRS",
+    "contentId": "JP7561-PPSA15313_00-0989337340145503",
     "region": "JP",
     "publisherId": "JP7561"
   },
   {
     "titleId": "PPSA15314_00",
     "conceptId": 10005072,
-    "name": "C-Smash VRS",
-    "contentId": null,
+    "name": "C-SMASH VRS",
+    "contentId": "HP7606-PPSA15314_00-0573791743989856",
     "region": "HP",
     "publisherId": "HP7606"
   },
@@ -54667,9 +54811,9 @@
     "titleId": "PPSA15464_00",
     "conceptId": 10000591,
     "name": "Until You Fall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0937-PPSA15464_00-SIEAZZZZZZZZZZZZ",
+    "region": "UP",
+    "publisherId": "UP0937"
   },
   {
     "titleId": "PPSA15467_00",
@@ -54931,25 +55075,25 @@
     "titleId": "PPSA15610_00",
     "conceptId": 10000591,
     "name": "Until You Fall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0941-PPSA15610_00-SIEEZZZZZZZZZZZZ",
+    "region": "EP",
+    "publisherId": "EP0941"
   },
   {
     "titleId": "PPSA15611_00",
     "conceptId": 10000591,
     "name": "Until You Fall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1236-PPSA15611_00-SIEJAJAPANZZZZZZ",
+    "region": "JP",
+    "publisherId": "JP1236"
   },
   {
     "titleId": "PPSA15612_00",
     "conceptId": 10000591,
     "name": "Until You Fall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP1095-PPSA15612_00-SIEJAASIAZZZZZZZ",
+    "region": "HP",
+    "publisherId": "HP1095"
   },
   {
     "titleId": "PPSA15620_00",
@@ -55248,6 +55392,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA15853_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0101"
+  },
+  {
     "titleId": "PPSA15876_00",
     "conceptId": 10006967,
     "name": "Mia and the Dragon Princess",
@@ -55342,6 +55494,38 @@
     "contentId": "UP4459-PPSA15900_00-FIVEDATESPS5SIEA",
     "region": "UP",
     "publisherId": "UP4459"
+  },
+  {
+    "titleId": "PPSA15903_00",
+    "conceptId": 10008142,
+    "name": "Zombie Soup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15904_00",
+    "conceptId": 10008142,
+    "name": "Zombie Soup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15905_00",
+    "conceptId": 10008142,
+    "name": "Zombie Soup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15906_00",
+    "conceptId": 10008142,
+    "name": "Zombie Soup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15907_00",
@@ -55856,6 +56040,14 @@
     "publisherId": "UP0177"
   },
   {
+    "titleId": "PPSA16196_00",
+    "conceptId": 10005896,
+    "name": "Persona 5 Tactica PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
+  },
+  {
     "titleId": "PPSA16200_00",
     "conceptId": 232211,
     "name": "Honor and Duty: D-Day",
@@ -56275,25 +56467,25 @@
     "titleId": "PPSA16605_00",
     "conceptId": 10007202,
     "name": "Hubris",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5883-PPSA16605_00-0516469932656514",
+    "region": "UP",
+    "publisherId": "UP5883"
   },
   {
     "titleId": "PPSA16606_00",
     "conceptId": 10007202,
     "name": "Hubris",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5721-PPSA16606_00-0379414564834397",
+    "region": "JP",
+    "publisherId": "JP5721"
   },
   {
     "titleId": "PPSA16607_00",
     "conceptId": 10007202,
     "name": "Hubris",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5783-PPSA16607_00-0110455739991936",
+    "region": "HP",
+    "publisherId": "HP5783"
   },
   {
     "titleId": "PPSA16622_00",
@@ -56574,6 +56766,22 @@
     "contentId": "HP3536-PPSA16896_00-0067707665496321",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA16939_00",
+    "conceptId": 10008546,
+    "name": "Donuts in Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16942_00",
+    "conceptId": 10008546,
+    "name": "Donuts in Space",
+    "contentId": "JP0089-PPSA16942_00-0757757007683257",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA16956_00",
