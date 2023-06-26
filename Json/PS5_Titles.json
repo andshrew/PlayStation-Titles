@@ -8384,12 +8384,20 @@
     "publisherId": "EP1018"
   },
   {
+    "titleId": "PPSA03191_00",
+    "conceptId": 10002088,
+    "name": "Cozy Grove",
+    "contentId": "UP2199-PPSA03191_00-COZYGROVEPS5NA00",
+    "region": "UP",
+    "publisherId": "UP2199"
+  },
+  {
     "titleId": "PPSA03192_00",
     "conceptId": 10002088,
     "name": "Cozy Grove",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1430-PPSA03192_00-COZYGROVEPS5EU00",
+    "region": "EP",
+    "publisherId": "EP1430"
   },
   {
     "titleId": "PPSA03194_00",
@@ -33616,6 +33624,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA08499_00",
+    "conceptId": 221982,
+    "name": "Rain World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08500_00",
     "conceptId": 221982,
     "name": "Rain World",
@@ -55406,6 +55422,22 @@
     "contentId": "EP5279-PPSA15828_00-ZZZZZZZZZZZZZZZZ",
     "region": "EP",
     "publisherId": "EP5279"
+  },
+  {
+    "titleId": "PPSA15830_00",
+    "conceptId": 10008147,
+    "name": "Garlic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15831_00",
+    "conceptId": 10008147,
+    "name": "Garlic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15834_00",
