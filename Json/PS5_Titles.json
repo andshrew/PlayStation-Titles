@@ -38411,17 +38411,17 @@
     "titleId": "PPSA09413_00",
     "conceptId": 10005808,
     "name": "Reverie: Sweet As Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA09413_00-1999788790674133",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA09414_00",
     "conceptId": 10005808,
     "name": "Reverie: Sweet As Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA09414_00-0686275291382185",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA09415_00",
@@ -42822,6 +42822,22 @@
     "contentId": "UP3165-PPSA10281_00-MOORHUHNKART02US",
     "region": "UP",
     "publisherId": "UP3165"
+  },
+  {
+    "titleId": "PPSA10282_00",
+    "conceptId": 10006175,
+    "name": "The Red Exile - Survival Horror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10283_00",
+    "conceptId": 10006175,
+    "name": "The Red Exile - Survival Horror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10286_00",
@@ -48834,18 +48850,18 @@
   {
     "titleId": "PPSA11540_00",
     "conceptId": 10006487,
-    "name": "Story of Seasons : A Wonderful life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "STORY OF SEASONS: A Wonderful Life",
+    "contentId": "UP1023-PPSA11540_00-WONDERFULLIFE000",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA11541_00",
     "conceptId": 10006487,
-    "name": "Story of Seasons : A Wonderful life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "STORY OF SEASONS: A Wonderful Life",
+    "contentId": "EP4492-PPSA11541_00-WONDERFULLIFE000",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA11542_00",
@@ -50216,6 +50232,22 @@
     "publisherId": "UP1023"
   },
   {
+    "titleId": "PPSA13234_00",
+    "conceptId": 10007122,
+    "name": "Neko Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13235_00",
+    "conceptId": 10007122,
+    "name": "Neko Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13238_00",
     "conceptId": 10005120,
     "name": "UFC Fight Pass",
@@ -51062,6 +51094,22 @@
     "contentId": "HP4062-PPSA13523_00-0778279276933191",
     "region": "HP",
     "publisherId": "HP4062"
+  },
+  {
+    "titleId": "PPSA13526_00",
+    "conceptId": 10007169,
+    "name": "GYLT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13527_00",
+    "conceptId": 10007169,
+    "name": "GYLT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13536_00",
@@ -52403,33 +52451,33 @@
     "titleId": "PPSA13921_00",
     "conceptId": 10007328,
     "name": "SOULVARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7916-PPSA13921_00-0729740889813709",
+    "region": "JP",
+    "publisherId": "JP7916"
   },
   {
     "titleId": "PPSA13922_00",
     "conceptId": 10007328,
     "name": "SOULVARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7935-PPSA13922_00-0980915556548619",
+    "region": "UP",
+    "publisherId": "UP7935"
   },
   {
     "titleId": "PPSA13923_00",
     "conceptId": 10007328,
     "name": "SOULVARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7933-PPSA13923_00-0729740889813709",
+    "region": "EP",
+    "publisherId": "EP7933"
   },
   {
     "titleId": "PPSA13924_00",
     "conceptId": 10007328,
     "name": "SOULVARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7962-PPSA13924_00-0729740889813709",
+    "region": "HP",
+    "publisherId": "HP7962"
   },
   {
     "titleId": "PPSA13943_00",
@@ -54768,6 +54816,46 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA15384_00",
+    "conceptId": 10007361,
+    "name": "Math World VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15386_00",
+    "conceptId": 10007361,
+    "name": "Math World VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15387_00",
+    "conceptId": 10007361,
+    "name": "Math World VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15396_00",
+    "conceptId": 10007981,
+    "name": "Fluffy Milo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15397_00",
+    "conceptId": 10007981,
+    "name": "Fluffy Milo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15400_00",
     "conceptId": 10007982,
     "name": "Agriculture",
@@ -55078,6 +55166,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0546"
+  },
+  {
+    "titleId": "PPSA15554_00",
+    "conceptId": 231053,
+    "name": "Dead Cells",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15567_00",
@@ -55435,6 +55531,22 @@
     "titleId": "PPSA15831_00",
     "conceptId": 10008147,
     "name": "Garlic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15832_00",
+    "conceptId": 10008148,
+    "name": "ChronoBreach Ultra",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15833_00",
+    "conceptId": 10008148,
+    "name": "ChronoBreach Ultra",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -55968,6 +56080,22 @@
     "publisherId": "HP6784"
   },
   {
+    "titleId": "PPSA16088_00",
+    "conceptId": 10007981,
+    "name": "Fluffy Milo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16089_00",
+    "conceptId": 10007981,
+    "name": "Fluffy Milo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16100_00",
     "conceptId": 10008234,
     "name": "I'LL KILL HER",
@@ -56062,6 +56190,38 @@
     "contentId": "HP5856-PPSA16133_00-2160HX0304000000",
     "region": "HP",
     "publisherId": "HP5856"
+  },
+  {
+    "titleId": "PPSA16134_00",
+    "conceptId": 10006270,
+    "name": "TEKKEN 8",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16135_00",
+    "conceptId": 10006270,
+    "name": "TEKKEN 8",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16139_00",
+    "conceptId": 10008242,
+    "name": "City Limits",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16140_00",
+    "conceptId": 10008242,
+    "name": "City Limits",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16164_00",
@@ -56322,10 +56482,10 @@
   {
     "titleId": "PPSA16409_00",
     "conceptId": 10008119,
-    "name": "Raging Bytes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30be\u30f3\u30d3\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30c9\u30c3\u30c8",
+    "contentId": "JP0013-PPSA16409_00-JP0RAGINGB000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA16414_00",
@@ -56411,9 +56571,9 @@
     "titleId": "PPSA16450_00",
     "conceptId": 10004932,
     "name": "Casino Roulette Royal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA16450_00-0762556730583791",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA16451_00",
@@ -56520,6 +56680,22 @@
     "publisherId": "HP0177"
   },
   {
+    "titleId": "PPSA16522_00",
+    "conceptId": 10008408,
+    "name": "Feeble Light",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16523_00",
+    "conceptId": 10008408,
+    "name": "Feeble Light",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16545_00",
     "conceptId": 10008423,
     "name": "BlackJack Waifu Tour",
@@ -56587,17 +56763,17 @@
     "titleId": "PPSA16593_00",
     "conceptId": 10008119,
     "name": "Raging Bytes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2500-PPSA16593_00-US0RAGINGB000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA16594_00",
     "conceptId": 10008119,
     "name": "Raging Bytes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA16594_00-EU0RAGINGB000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA16605_00",
@@ -56651,17 +56827,17 @@
     "titleId": "PPSA16661_00",
     "conceptId": 10005482,
     "name": "Moonshine Inc.",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4713-PPSA16661_00-0330140076085024",
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA16662_00",
     "conceptId": 10005482,
     "name": "Moonshine Inc.",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4886-PPSA16662_00-0822909442408128",
+    "region": "EP",
+    "publisherId": "EP4886"
   },
   {
     "titleId": "PPSA16664_00",
@@ -56856,6 +57032,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA16794_00",
+    "conceptId": 10008294,
+    "name": "Placid Plastic Duck Simulator",
+    "contentId": "UP8523-PPSA16794_00-0054374462386862",
+    "region": "UP",
+    "publisherId": "UP8523"
+  },
+  {
     "titleId": "PPSA16801_00",
     "conceptId": 10003851,
     "name": "Walkabout Mini Golf",
@@ -56870,6 +57054,30 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA16863_00",
+    "conceptId": 10008294,
+    "name": "Placid Plastic Duck Simulator",
+    "contentId": "EP8713-PPSA16863_00-0823305185324089",
+    "region": "EP",
+    "publisherId": "EP8713"
+  },
+  {
+    "titleId": "PPSA16864_00",
+    "conceptId": 10008294,
+    "name": "Placid Plastic Duck Simulator",
+    "contentId": "JP8428-PPSA16864_00-0644157200290972",
+    "region": "JP",
+    "publisherId": "JP8428"
+  },
+  {
+    "titleId": "PPSA16865_00",
+    "conceptId": 10008294,
+    "name": "Placid Plastic Duck Simulator",
+    "contentId": "HP8474-PPSA16865_00-0807707822461405",
+    "region": "HP",
+    "publisherId": "HP8474"
   },
   {
     "titleId": "PPSA16892_00",
