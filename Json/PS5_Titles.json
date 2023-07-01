@@ -5416,6 +5416,22 @@
     "publisherId": "UP0001"
   },
   {
+    "titleId": "PPSA02590_00",
+    "conceptId": 10002104,
+    "name": "DREAMERS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA02591_00",
+    "conceptId": 10002104,
+    "name": "DREAMERS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02592_00",
     "conceptId": 233248,
     "name": "The Ascent",
@@ -26376,6 +26392,38 @@
     "publisherId": "UP1024"
   },
   {
+    "titleId": "PPSA06956_00",
+    "conceptId": 10004721,
+    "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30e9\u30b9\u30c8 \u30ea\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA06957_00",
+    "conceptId": 10004721,
+    "name": "SWORD ART ONLINE Last Recollection - Ultimate Edition PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA06958_00",
+    "conceptId": 10004721,
+    "name": "SWORD ART ONLINE Last Recollection PS4\u2122 & PS5\u2122",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA06959_00",
+    "conceptId": 10004721,
+    "name": "SWORD ART ONLINE Last Recollection PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA06968_00",
     "conceptId": 10003302,
     "name": "Yurukill",
@@ -35067,9 +35115,9 @@
     "titleId": "PPSA08779_00",
     "conceptId": 10002761,
     "name": "Evil Dead: The Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1561-PPSA08779_00-EDJP000000000002",
+    "region": "JP",
+    "publisherId": "JP1561"
   },
   {
     "titleId": "PPSA08781_00",
@@ -38107,7 +38155,7 @@
     "titleId": "PPSA09350_00",
     "conceptId": 10005440,
     "name": "AEW: Fight Forever",
-    "contentId": null,
+    "contentId": "JP2880-PPSA09350_00-AEWRESTLINGPS5JP",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -38115,7 +38163,7 @@
     "titleId": "PPSA09351_00",
     "conceptId": 10005440,
     "name": "AEW: Fight Forever",
-    "contentId": null,
+    "contentId": "UP4389-PPSA09351_00-AEWRESTLINGPS5US",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -38123,7 +38171,7 @@
     "titleId": "PPSA09352_00",
     "conceptId": 10005440,
     "name": "AEW: Fight Forever",
-    "contentId": null,
+    "contentId": "EP4389-PPSA09352_00-AEWRESTLINGPS5EU",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -38395,17 +38443,17 @@
     "titleId": "PPSA09411_00",
     "conceptId": 10005808,
     "name": "Reverie: Sweet As Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA09411_00-9376436529397520",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA09412_00",
     "conceptId": 10005808,
     "name": "Reverie: Sweet As Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA09412_00-3094167673235688",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA09413_00",
@@ -43786,8 +43834,8 @@
   {
     "titleId": "PPSA10413_00",
     "conceptId": 10002255,
-    "name": "\u30d7\u30ec\u30a4\u30b0 \u30c6\u30a4\u30eb -\u30ec\u30af\u30a4\u30a8\u30e0-",
-    "contentId": null,
+    "name": "\u30d7\u30ec\u30a4\u30b0\u30c6\u30a4\u30eb\u30ec\u30af\u30a4\u30a8\u30e0",
+    "contentId": "JP0075-PPSA10413_00-APLAGUEOUTBURST0",
     "region": "JP",
     "publisherId": "JP0075"
   },
@@ -44982,6 +45030,22 @@
     "contentId": "JP0078-PPSA10667_00-ASTRONITE0000000",
     "region": "JP",
     "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA10676_00",
+    "conceptId": 10006297,
+    "name": "Gravity Circuit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10677_00",
+    "conceptId": 10006297,
+    "name": "Gravity Circuit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10679_00",
@@ -46888,6 +46952,14 @@
     "publisherId": "EP7624"
   },
   {
+    "titleId": "PPSA11026_00",
+    "conceptId": 10001817,
+    "name": "You Suck at Parking",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11028_00",
     "conceptId": 10003336,
     "name": "Shahid",
@@ -48675,9 +48747,9 @@
     "titleId": "PPSA11403_00",
     "conceptId": 10006351,
     "name": "Inner Ashes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6325-PPSA11403_00-3574675554550013",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA11406_00",
@@ -48768,12 +48840,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11426_00",
+    "conceptId": 10006578,
+    "name": "Rocket Lift",
+    "contentId": "UP7335-PPSA11426_00-7895472316492145",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA11427_00",
     "conceptId": 10006578,
     "name": "Rocket Lift",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11427_00-6490084390558282",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA11431_00",
@@ -49251,9 +49331,9 @@
     "titleId": "PPSA12379_00",
     "conceptId": 10006351,
     "name": "Inner Ashes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6326-PPSA12379_00-4048959180355327",
+    "region": "UP",
+    "publisherId": "UP6326"
   },
   {
     "titleId": "PPSA12381_00",
@@ -49270,6 +49350,14 @@
     "contentId": "UP0295-PPSA12384_00-BIRDGOCHEEPCHEEP",
     "region": "UP",
     "publisherId": "UP0295"
+  },
+  {
+    "titleId": "PPSA12385_00",
+    "conceptId": 10006865,
+    "name": "Underdog Detective",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12390_00",
@@ -50330,18 +50418,34 @@
   {
     "titleId": "PPSA13271_00",
     "conceptId": 10001308,
-    "name": "MUNDAUN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mundaun",
+    "contentId": "UP2470-PPSA13271_00-MUNDAUN000000000",
+    "region": "UP",
+    "publisherId": "UP2470"
   },
   {
     "titleId": "PPSA13272_00",
     "conceptId": 10001308,
-    "name": "MUNDAUN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mundaun",
+    "contentId": "EP2333-PPSA13272_00-MUNDAUN000000000",
+    "region": "EP",
+    "publisherId": "EP2333"
+  },
+  {
+    "titleId": "PPSA13273_00",
+    "conceptId": 10001308,
+    "name": "Mundaun",
+    "contentId": "JP2517-PPSA13273_00-MUNDAUN000000000",
+    "region": "JP",
+    "publisherId": "JP2517"
+  },
+  {
+    "titleId": "PPSA13274_00",
+    "conceptId": 10001308,
+    "name": "Mundaun",
+    "contentId": "HP2418-PPSA13274_00-MUNDAUN000000000",
+    "region": "HP",
+    "publisherId": "HP2418"
   },
   {
     "titleId": "PPSA13275_00",
@@ -50558,6 +50662,14 @@
     "contentId": "EP2005-PPSA13319_00-BURROWFALLENBEAR",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA13324_00",
+    "conceptId": 10007151,
+    "name": "\u30af\u30e9\u30a4\u30de\u30ad\u30ca\uff0fCRYMACHINA",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0536"
   },
   {
     "titleId": "PPSA13340_00",
@@ -51299,17 +51411,17 @@
     "titleId": "PPSA13592_00",
     "conceptId": 10007267,
     "name": "NOOB - The Factionless",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4295-PPSA13592_00-NOOBPS50000000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA13593_00",
     "conceptId": 10007267,
     "name": "NOOB - The Factionless",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1475-PPSA13593_00-NOOBPS50000000US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA13594_00",
@@ -51986,18 +52098,18 @@
   {
     "titleId": "PPSA13796_00",
     "conceptId": 10007285,
-    "name": "Goodbye World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "GOODBYE WORLD",
+    "contentId": "UP2011-PPSA13796_00-0475824107230502",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA13797_00",
     "conceptId": 10007285,
-    "name": "Goodbye World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "GOODBYE WORLD",
+    "contentId": "EP2011-PPSA13797_00-0798356104880767",
+    "region": "EP",
+    "publisherId": "EP2011"
   },
   {
     "titleId": "PPSA13798_00",
@@ -52010,10 +52122,10 @@
   {
     "titleId": "PPSA13799_00",
     "conceptId": 10007285,
-    "name": "Goodbye World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "GOODBYE WORLD",
+    "contentId": "JP6412-PPSA13799_00-0846466811461377",
+    "region": "JP",
+    "publisherId": "JP6412"
   },
   {
     "titleId": "PPSA13800_00",
@@ -52864,6 +52976,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA14061_00",
+    "conceptId": 10006865,
+    "name": "\u795e\u90fd\u4e0d\u826f\u63a2",
+    "contentId": "HP3984-PPSA14061_00-UNDERDOGDETECTIV",
+    "region": "HP",
+    "publisherId": "HP3984"
+  },
+  {
     "titleId": "PPSA14062_00",
     "conceptId": 10004480,
     "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0\uff01 \u6975 \u30d0\u30c8\u30eb\u4f53\u9a13\u7248",
@@ -53528,6 +53648,22 @@
     "publisherId": "EP0177"
   },
   {
+    "titleId": "PPSA14213_00",
+    "conceptId": 10007557,
+    "name": "Magic Exposure - Yuri Visual Novel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14214_00",
+    "conceptId": 10007557,
+    "name": "Magic Exposure - Yuri Visual Novel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14218_00",
     "conceptId": 10003526,
     "name": "Puzzling Places",
@@ -53546,10 +53682,10 @@
   {
     "titleId": "PPSA14225_00",
     "conceptId": 10007563,
-    "name": "Xicatrice",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b7\u30ab\u30c8\u30ea\u30b9",
+    "contentId": "JP0404-PPSA14225_00-XICATRICE0000000",
+    "region": "JP",
+    "publisherId": "JP0404"
   },
   {
     "titleId": "PPSA14226_00",
@@ -54419,33 +54555,33 @@
     "titleId": "PPSA14737_00",
     "conceptId": 10007773,
     "name": "Vision Soft Reset",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5155-PPSA14737_00-VSR0000000000000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA14738_00",
     "conceptId": 10007773,
     "name": "Vision Soft Reset",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5335-PPSA14738_00-VSR0000000000000",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA14740_00",
     "conceptId": 10007774,
     "name": "A Tale For Anna",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5155-PPSA14740_00-TALEFORANNA00000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA14741_00",
     "conceptId": 10007774,
     "name": "A Tale For Anna",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5335-PPSA14741_00-TALEFORANNA00000",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA14745_00",
@@ -54466,18 +54602,18 @@
   {
     "titleId": "PPSA14747_00",
     "conceptId": 10007777,
-    "name": "The Lost and The Wicked",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Lost And The Wicked",
+    "contentId": "UP5155-PPSA14747_00-LOSTANDTHEWICKED",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA14748_00",
     "conceptId": 10007777,
-    "name": "The Lost and The Wicked",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Lost And The Wicked",
+    "contentId": "EP5335-PPSA14748_00-LOSTANDTHEWICKED",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA14749_00",
@@ -54582,6 +54718,14 @@
     "contentId": "UP4312-PPSA15204_00-0596979542370476",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA15206_00",
+    "conceptId": 10007151,
+    "name": "CRYMACHINA Standard Edition",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0036"
   },
   {
     "titleId": "PPSA15215_00",
@@ -54784,6 +54928,22 @@
     "publisherId": "HP7916"
   },
   {
+    "titleId": "PPSA15370_00",
+    "conceptId": 10007976,
+    "name": "Punch Club 2: Fast Forward",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15371_00",
+    "conceptId": 10007976,
+    "name": "Punch Club 2: Fast Forward",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15380_00",
     "conceptId": 10007979,
     "name": "Sister",
@@ -54819,6 +54979,14 @@
     "titleId": "PPSA15384_00",
     "conceptId": 10007361,
     "name": "Math World VR",
+    "contentId": "UP8431-PPSA15384_00-0346250840714293",
+    "region": "UP",
+    "publisherId": "UP8431"
+  },
+  {
+    "titleId": "PPSA15385_00",
+    "conceptId": 10007361,
+    "name": "Math World VR",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -54835,9 +55003,9 @@
     "titleId": "PPSA15387_00",
     "conceptId": 10007361,
     "name": "Math World VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8381-PPSA15387_00-0490314779350592",
+    "region": "HP",
+    "publisherId": "HP8381"
   },
   {
     "titleId": "PPSA15396_00",
@@ -55160,6 +55328,14 @@
     "publisherId": "UP2158"
   },
   {
+    "titleId": "PPSA15552_00",
+    "conceptId": 231053,
+    "name": "Dead Cells",
+    "contentId": "UP4016-PPSA15552_00-DEADCELLS0000000",
+    "region": "UP",
+    "publisherId": "UP4016"
+  },
+  {
     "titleId": "PPSA15553_00",
     "conceptId": 10005266,
     "name": "Breakers Collection Demo",
@@ -55171,9 +55347,9 @@
     "titleId": "PPSA15554_00",
     "conceptId": 231053,
     "name": "Dead Cells",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3862-PPSA15554_00-DEADCELLS0000000",
+    "region": "EP",
+    "publisherId": "EP3862"
   },
   {
     "titleId": "PPSA15567_00",
@@ -55539,17 +55715,17 @@
     "titleId": "PPSA15832_00",
     "conceptId": 10008148,
     "name": "ChronoBreach Ultra",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15832_00-CHRONOBREACHULRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15833_00",
     "conceptId": 10008148,
     "name": "ChronoBreach Ultra",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15833_00-CHRONOBREACHULRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15834_00",
@@ -56099,33 +56275,33 @@
     "titleId": "PPSA16100_00",
     "conceptId": 10008234,
     "name": "I'LL KILL HER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA16100_00-ILLKILLHER0PS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA16101_00",
     "conceptId": 10008234,
     "name": "I'LL KILL HER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA16101_00-ILLKILLHER0PS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA16102_00",
     "conceptId": 10008234,
     "name": "I'LL KILL HER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA16102_00-ILLKILLHER0PS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA16103_00",
     "conceptId": 10008234,
     "name": "I'LL KILL HER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA16103_00-ILLKILLHER0PS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA16104_00",
@@ -56201,6 +56377,14 @@
   },
   {
     "titleId": "PPSA16135_00",
+    "conceptId": 10006270,
+    "name": "TEKKEN 8",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16136_00",
     "conceptId": 10006270,
     "name": "TEKKEN 8",
     "contentId": null,
@@ -56368,6 +56552,22 @@
     "publisherId": "EP0177"
   },
   {
+    "titleId": "PPSA16270_00",
+    "conceptId": 10007557,
+    "name": "Magic Exposure - Yuri Visual Novel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16271_00",
+    "conceptId": 10007557,
+    "name": "Magic Exposure - Yuri Visual Novel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16275_00",
     "conceptId": 10004544,
     "name": "Remnant II - Standard Edition",
@@ -56480,6 +56680,22 @@
     "publisherId": "EP4977"
   },
   {
+    "titleId": "PPSA16402_00",
+    "conceptId": 10004639,
+    "name": "Warhammer Age of Sigmar: Realms of Ruin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16403_00",
+    "conceptId": 10004639,
+    "name": "Warhammer Age of Sigmar: Realms of Ruin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16409_00",
     "conceptId": 10008119,
     "name": "\u30be\u30f3\u30d3\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30c9\u30c3\u30c8",
@@ -56491,33 +56707,33 @@
     "titleId": "PPSA16414_00",
     "conceptId": 10008363,
     "name": "Archers Dream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA16414_00-0975582739247010",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA16415_00",
     "conceptId": 10008363,
     "name": "Archers Dream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA16415_00-0397127468343204",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA16416_00",
     "conceptId": 10008363,
     "name": "Archers Dream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA16416_00-0135224883900802",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA16417_00",
     "conceptId": 10008363,
     "name": "Archers Dream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA16417_00-0426835252961933",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA16418_00",
@@ -56530,26 +56746,26 @@
   {
     "titleId": "PPSA16438_00",
     "conceptId": 10007755,
-    "name": "FRONT MISSION 1st: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Front Mission 1st: Remake",
+    "contentId": "EP3948-PPSA16438_00-0270903348118061",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA16439_00",
     "conceptId": 10007755,
-    "name": "FRONT MISSION 1st: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Front Mission 1st: Remake",
+    "contentId": "UP4199-PPSA16439_00-0187379972939315",
+    "region": "UP",
+    "publisherId": "UP4199"
   },
   {
     "titleId": "PPSA16440_00",
     "conceptId": 10007755,
-    "name": "FRONT MISSION 1st: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d5\u30ed\u30f3\u30c8\u30df\u30c3\u30b7\u30e7\u30f3\u3000\u30b6\u30fb\u30d5\u30a1\u30fc\u30b9\u30c8:\u30ea\u30e1\u30a4\u30af",
+    "contentId": "JP4138-PPSA16440_00-0913462071571245",
+    "region": "JP",
+    "publisherId": "JP4138"
   },
   {
     "titleId": "PPSA16448_00",
@@ -56579,9 +56795,9 @@
     "titleId": "PPSA16451_00",
     "conceptId": 10004932,
     "name": "Casino Roulette Royal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA16451_00-0773259744714302",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA16462_00",
@@ -56760,6 +56976,30 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA16553_00",
+    "conceptId": 10006865,
+    "name": "Underdog Detective",
+    "contentId": "UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
+    "region": "UP",
+    "publisherId": "UP1496"
+  },
+  {
+    "titleId": "PPSA16580_00",
+    "conceptId": 10008434,
+    "name": "Time Of War,Arkano'90",
+    "contentId": "EP8311-PPSA16580_00-0708417340643749",
+    "region": "EP",
+    "publisherId": "EP8311"
+  },
+  {
+    "titleId": "PPSA16581_00",
+    "conceptId": 10008434,
+    "name": "Time Of War,Arkano'90",
+    "contentId": "UP8121-PPSA16581_00-0431766361275903",
+    "region": "UP",
+    "publisherId": "UP8121"
+  },
+  {
     "titleId": "PPSA16593_00",
     "conceptId": 10008119,
     "name": "Raging Bytes",
@@ -56798,6 +57038,22 @@
     "contentId": "HP5783-PPSA16607_00-0110455739991936",
     "region": "HP",
     "publisherId": "HP5783"
+  },
+  {
+    "titleId": "PPSA16612_00",
+    "conceptId": 10008443,
+    "name": "Burnhouse Lane",
+    "contentId": "UP3528-PPSA16612_00-BHL0000000000000",
+    "region": "UP",
+    "publisherId": "UP3528"
+  },
+  {
+    "titleId": "PPSA16613_00",
+    "conceptId": 10008443,
+    "name": "Burnhouse Lane",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16622_00",
@@ -57032,6 +57288,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA16770_00",
+    "conceptId": 233440,
+    "name": "The True",
+    "contentId": "EP1555-PPSA16770_00-0194435416951209",
+    "region": "EP",
+    "publisherId": "EP1555"
+  },
+  {
     "titleId": "PPSA16794_00",
     "conceptId": 10008294,
     "name": "Placid Plastic Duck Simulator",
@@ -57152,6 +57416,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17009_00",
+    "conceptId": 10006865,
+    "name": "Underdog Detective",
+    "contentId": "EP3892-PPSA17009_00-UNDOGDETECTIVEUK",
+    "region": "EP",
+    "publisherId": "EP3892"
+  },
+  {
     "titleId": "PPSA17059_00",
     "conceptId": 221982,
     "name": "Rain World",
@@ -57206,6 +57478,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17314_00",
+    "conceptId": 10008598,
+    "name": "Aliens Attack",
+    "contentId": "EP4312-PPSA17314_00-0853322197381697",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA17315_00",
+    "conceptId": 10008598,
+    "name": "Aliens Attack",
+    "contentId": "UP4312-PPSA17315_00-0201382059354721",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA17355_00",
