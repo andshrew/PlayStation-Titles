@@ -33252,16 +33252,16 @@
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA08405_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA08406_00",
@@ -37968,6 +37968,22 @@
     "publisherId": "EP2006"
   },
   {
+    "titleId": "PPSA09301_00",
+    "conceptId": 10001963,
+    "name": "American Hero",
+    "contentId": "UP6261-PPSA09301_00-AMERICANHERO0000",
+    "region": "UP",
+    "publisherId": "UP6261"
+  },
+  {
+    "titleId": "PPSA09302_00",
+    "conceptId": 10001963,
+    "name": "American Hero",
+    "contentId": "EP6260-PPSA09302_00-AMERICANHERO0000",
+    "region": "EP",
+    "publisherId": "EP6260"
+  },
+  {
     "titleId": "PPSA09305_00",
     "conceptId": 10005773,
     "name": "Innocence Island",
@@ -39176,6 +39192,30 @@
     "publisherId": "EP1185"
   },
   {
+    "titleId": "PPSA09559_00",
+    "conceptId": 10005893,
+    "name": "Frank and Drake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09560_00",
+    "conceptId": 10005893,
+    "name": "Frank and Drake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09561_00",
+    "conceptId": 10005893,
+    "name": "Frank and Drake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09562_00",
     "conceptId": 10005894,
     "name": "Halloween Pinball",
@@ -39956,16 +39996,16 @@
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP1111"
   },
   {
     "titleId": "PPSA09723_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "HP",
+    "publisherId": "HP0957"
   },
   {
     "titleId": "PPSA09726_00",
@@ -47632,6 +47672,22 @@
     "publisherId": "UP9000"
   },
   {
+    "titleId": "PPSA11173_00",
+    "conceptId": 10006495,
+    "name": "Spirit Hunters: Infinite Horde",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11174_00",
+    "conceptId": 10006495,
+    "name": "Spirit Hunters: Infinite Horde",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11175_00",
     "conceptId": 10006496,
     "name": "The Zebra Z",
@@ -47766,6 +47822,22 @@
     "contentId": "JP9000-PPSA11192_00-ULJM050970000000",
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA11195_00",
+    "conceptId": 10006495,
+    "name": "Spirit Hunters: Infinite Horde",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11196_00",
+    "conceptId": 10006495,
+    "name": "Spirit Hunters: Infinite Horde",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11198_00",
@@ -49730,8 +49802,8 @@
   {
     "titleId": "PPSA12507_00",
     "conceptId": 10006846,
-    "name": "Synapse",
-    "contentId": null,
+    "name": "Synapse\u00ae",
+    "contentId": "EP4114-PPSA12507_00-4397472491277281",
     "region": "EP",
     "publisherId": "EP4114"
   },
@@ -51514,8 +51586,8 @@
   {
     "titleId": "PPSA13628_00",
     "conceptId": 10006846,
-    "name": "Synapse",
-    "contentId": null,
+    "name": "Synapse\u00ae",
+    "contentId": "UP2985-PPSA13628_00-0558420118704168",
     "region": "UP",
     "publisherId": "UP2985"
   },
@@ -55104,6 +55176,22 @@
     "publisherId": "UP1685"
   },
   {
+    "titleId": "PPSA15447_00",
+    "conceptId": 10007993,
+    "name": "Necrosmith",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15448_00",
+    "conceptId": 10007993,
+    "name": "Necrosmith",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15454_00",
     "conceptId": 10007995,
     "name": "Cat Souls",
@@ -55678,6 +55766,22 @@
     "contentId": "EP6922-PPSA15823_00-0229673707901096",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA15824_00",
+    "conceptId": 10008120,
+    "name": "Adventure Pinball",
+    "contentId": "JP5432-PPSA15824_00-0649844612035023",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA15825_00",
+    "conceptId": 10007124,
+    "name": "Sports Pinball",
+    "contentId": "JP5432-PPSA15825_00-0947412926008136",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA15827_00",
@@ -56536,6 +56640,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA16219_00",
+    "conceptId": 10004500,
+    "name": "Operation Wolf Returns: First Mission VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16265_00",
     "conceptId": 10008306,
     "name": "\u9f8d\u304c\u5982\u304f\uff17\u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537\u3000PS4 & PS5",
@@ -56638,6 +56750,14 @@
     "contentId": "UP8316-PPSA16298_00-0156210636867185",
     "region": "UP",
     "publisherId": "UP8316"
+  },
+  {
+    "titleId": "PPSA16303_00",
+    "conceptId": 10004500,
+    "name": "Operation Wolf Returns: First Mission VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16308_00",
@@ -57088,6 +57208,22 @@
     "publisherId": "EP8070"
   },
   {
+    "titleId": "PPSA16654_00",
+    "conceptId": 233596,
+    "name": "Human Anatomy VR",
+    "contentId": "EP5449-PPSA16654_00-0973769081146090",
+    "region": "EP",
+    "publisherId": "EP5449"
+  },
+  {
+    "titleId": "PPSA16655_00",
+    "conceptId": 233596,
+    "name": "Human Anatomy VR",
+    "contentId": "UP5269-PPSA16655_00-0939463913547729",
+    "region": "UP",
+    "publisherId": "UP5269"
+  },
+  {
     "titleId": "PPSA16661_00",
     "conceptId": 10005482,
     "name": "Moonshine Inc.",
@@ -57523,32 +57659,32 @@
     "titleId": "PPSA17389_00",
     "conceptId": 10007305,
     "name": "Cubic Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA17389_00-CUBICLIGHT0PS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA17390_00",
     "conceptId": 10007305,
     "name": "Cubic Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA17390_00-CUBICLIGHT0PS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA17391_00",
     "conceptId": 10007305,
     "name": "Cubic Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA17391_00-CUBICLIGHT0PS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA17392_00",
     "conceptId": 10007305,
     "name": "Cubic Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA17392_00-CUBICLIGHT0PS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   }
 ]
