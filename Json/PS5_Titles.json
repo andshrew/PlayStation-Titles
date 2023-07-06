@@ -32224,6 +32224,22 @@
     "publisherId": "EP1006"
   },
   {
+    "titleId": "PPSA08206_00",
+    "conceptId": 10005309,
+    "name": "Moving Out 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08207_00",
+    "conceptId": 10005309,
+    "name": "Moving Out 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08213_00",
     "conceptId": 10005312,
     "name": "The Jumping Taco",
@@ -35363,17 +35379,17 @@
     "titleId": "PPSA08824_00",
     "conceptId": 10005577,
     "name": "EchoBlade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA08824_00-ECHOBLADE0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA08825_00",
     "conceptId": 10005577,
     "name": "EchoBlade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA08825_00-ECHOBLADE0000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA08826_00",
@@ -40206,6 +40222,14 @@
     "contentId": "EP7960-PPSA09767_00-6062255526267830",
     "region": "EP",
     "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA09768_00",
+    "conceptId": 10005987,
+    "name": "LEGEND BOWL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09772_00",
@@ -50288,6 +50312,14 @@
     "publisherId": "UP0964"
   },
   {
+    "titleId": "PPSA13191_00",
+    "conceptId": 10006996,
+    "name": "Cross Tails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13199_00",
     "conceptId": 10004532,
     "name": "Fairy Fencer F Refrain Chord",
@@ -50974,6 +51006,22 @@
     "contentId": "EP8076-PPSA13416_00-HUBRISVR00000000",
     "region": "EP",
     "publisherId": "EP8076"
+  },
+  {
+    "titleId": "PPSA13425_00",
+    "conceptId": 234820,
+    "name": "The Room VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13426_00",
+    "conceptId": 234820,
+    "name": "The Room VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13431_00",
@@ -55192,6 +55240,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15450_00",
+    "conceptId": 10007993,
+    "name": "Necrosmith",
+    "contentId": "JP5639-PPSA15450_00-0327491080398687",
+    "region": "JP",
+    "publisherId": "JP5639"
+  },
+  {
+    "titleId": "PPSA15452_00",
+    "conceptId": 10007993,
+    "name": "Necrosmith",
+    "contentId": "HP0852-PPSA15452_00-0537780599237967",
+    "region": "HP",
+    "publisherId": "HP0852"
+  },
+  {
     "titleId": "PPSA15454_00",
     "conceptId": 10007995,
     "name": "Cat Souls",
@@ -55728,6 +55792,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15785_00",
+    "conceptId": 10007206,
+    "name": "B99 Overclocked",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15793_00",
     "conceptId": 10003684,
     "name": "Ragnarock Demo",
@@ -55894,6 +55966,22 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0101"
+  },
+  {
+    "titleId": "PPSA15867_00",
+    "conceptId": 10008158,
+    "name": "Oaken",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15868_00",
+    "conceptId": 10008158,
+    "name": "Oaken",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15876_00",
@@ -56150,6 +56238,38 @@
     "contentId": "JP0089-PPSA15990_00-0649206197294887",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA15996_00",
+    "conceptId": 10006464,
+    "name": "Dark Deception Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0299"
+  },
+  {
+    "titleId": "PPSA15997_00",
+    "conceptId": 10006464,
+    "name": "Dark Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15998_00",
+    "conceptId": 10006464,
+    "name": "Dark Deception Demo",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0559"
+  },
+  {
+    "titleId": "PPSA15999_00",
+    "conceptId": 10006464,
+    "name": "Dark Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16004_00",
@@ -57576,9 +57696,41 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17075_00",
+    "conceptId": 10008646,
+    "name": "Boat Trip",
+    "contentId": "UP7977-PPSA17075_00-0078529098113688",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
     "titleId": "PPSA17076_00",
     "conceptId": 10008646,
     "name": "Boat Trip",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17077_00",
+    "conceptId": 10008646,
+    "name": "Boat Trip",
+    "contentId": "JP7958-PPSA17077_00-0930653451726522",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA17078_00",
+    "conceptId": 10008646,
+    "name": "Boat Trip",
+    "contentId": "HP8005-PPSA17078_00-0414840001719834",
+    "region": "HP",
+    "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA17089_00",
+    "conceptId": 10008158,
+    "name": "Oaken",
     "contentId": null,
     "region": null,
     "publisherId": null
