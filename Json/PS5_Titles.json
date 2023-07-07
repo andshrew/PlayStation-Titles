@@ -37888,6 +37888,14 @@
     "publisherId": "HP7045"
   },
   {
+    "titleId": "PPSA09282_00",
+    "conceptId": 235179,
+    "name": "Avatar: Frontiers of Pandora\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09284_00",
     "conceptId": 10005758,
     "name": "Tentacular",
@@ -40225,6 +40233,14 @@
   },
   {
     "titleId": "PPSA09768_00",
+    "conceptId": 10005987,
+    "name": "LEGEND BOWL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09769_00",
     "conceptId": 10005987,
     "name": "LEGEND BOWL",
     "contentId": null,
@@ -48792,6 +48808,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11359_00",
+    "conceptId": 10006552,
+    "name": "Zen Pong",
+    "contentId": "JP7309-PPSA11359_00-8959666897473224",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11360_00",
+    "conceptId": 10006552,
+    "name": "Zen Pong",
+    "contentId": "HP7354-PPSA11360_00-7331353124715707",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA11369_00",
     "conceptId": 10006556,
     "name": "Learn the letters",
@@ -50274,18 +50306,18 @@
   {
     "titleId": "PPSA12764_00",
     "conceptId": 10006997,
-    "name": "SCARF",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Scarf",
+    "contentId": "EP4539-PPSA12764_00-0340506045518755",
+    "region": "EP",
+    "publisherId": "EP4539"
   },
   {
     "titleId": "PPSA12765_00",
     "conceptId": 10006997,
-    "name": "SCARF",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Scarf",
+    "contentId": "UP0977-PPSA12765_00-0340506045518755",
+    "region": "UP",
+    "publisherId": "UP0977"
   },
   {
     "titleId": "PPSA12768_00",
@@ -51331,17 +51363,17 @@
     "titleId": "PPSA13526_00",
     "conceptId": 10007169,
     "name": "GYLT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2972-PPSA13526_00-0535917431123032",
+    "region": "EP",
+    "publisherId": "EP2972"
   },
   {
     "titleId": "PPSA13527_00",
     "conceptId": 10007169,
     "name": "GYLT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3113-PPSA13527_00-0098752466302456",
+    "region": "UP",
+    "publisherId": "UP3113"
   },
   {
     "titleId": "PPSA13536_00",
@@ -52942,6 +52974,22 @@
     "contentId": "UP3535-PPSA14010_00-ANOTHERFISHERMAN",
     "region": "UP",
     "publisherId": "UP3535"
+  },
+  {
+    "titleId": "PPSA14011_00",
+    "conceptId": 10007363,
+    "name": "Elypse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14012_00",
+    "conceptId": 10007363,
+    "name": "Elypse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14015_00",
@@ -55227,17 +55275,17 @@
     "titleId": "PPSA15447_00",
     "conceptId": 10007993,
     "name": "Necrosmith",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1260-PPSA15447_00-0106033937905340",
+    "region": "UP",
+    "publisherId": "UP1260"
   },
   {
     "titleId": "PPSA15448_00",
     "conceptId": 10007993,
     "name": "Necrosmith",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1121-PPSA15448_00-0770010216681888",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA15450_00",
@@ -55875,9 +55923,9 @@
     "titleId": "PPSA15830_00",
     "conceptId": 10008147,
     "name": "Garlic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15830_00-GARLICRATALAIKAG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15831_00",
@@ -56250,10 +56298,10 @@
   {
     "titleId": "PPSA15997_00",
     "conceptId": 10006464,
-    "name": "Dark Deception",
+    "name": "Dark Deception Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0297"
   },
   {
     "titleId": "PPSA15998_00",
@@ -56266,10 +56314,10 @@
   {
     "titleId": "PPSA15999_00",
     "conceptId": 10006464,
-    "name": "Dark Deception",
+    "name": "Dark Deception Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "HP",
+    "publisherId": "HP0332"
   },
   {
     "titleId": "PPSA16004_00",
@@ -56627,17 +56675,33 @@
     "titleId": "PPSA16139_00",
     "conceptId": 10008242,
     "name": "City Limits",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA16139_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA16140_00",
     "conceptId": 10008242,
     "name": "City Limits",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA16140_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA16142_00",
+    "conceptId": 10008242,
+    "name": "City Limits",
+    "contentId": "JP3291-PPSA16142_00-JANDUSOFT0000001",
+    "region": "JP",
+    "publisherId": "JP3291"
+  },
+  {
+    "titleId": "PPSA16143_00",
+    "conceptId": 10008242,
+    "name": "City Limits",
+    "contentId": "HP3199-PPSA16143_00-JANDUSOFT0000001",
+    "region": "HP",
+    "publisherId": "HP3199"
   },
   {
     "titleId": "PPSA16164_00",
@@ -57147,9 +57211,9 @@
     "titleId": "PPSA16522_00",
     "conceptId": 10008408,
     "name": "Feeble Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA16522_00-FEEBLELIGHT00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA16523_00",
@@ -57246,6 +57310,14 @@
     "contentId": "UP8121-PPSA16581_00-0431766361275903",
     "region": "UP",
     "publisherId": "UP8121"
+  },
+  {
+    "titleId": "PPSA16591_00",
+    "conceptId": 10004405,
+    "name": "NARAKA:BLADEPOINT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16593_00",
@@ -57707,9 +57779,9 @@
     "titleId": "PPSA17076_00",
     "conceptId": 10008646,
     "name": "Boat Trip",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7975-PPSA17076_00-0926148147577641",
+    "region": "EP",
+    "publisherId": "EP7975"
   },
   {
     "titleId": "PPSA17077_00",
@@ -57730,10 +57802,18 @@
   {
     "titleId": "PPSA17089_00",
     "conceptId": 10008158,
+    "name": "Oaken - Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5098"
+  },
+  {
+    "titleId": "PPSA17090_00",
+    "conceptId": 10008158,
     "name": "Oaken",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA17104_00",
@@ -57790,6 +57870,14 @@
     "contentId": "UP4312-PPSA17315_00-0201382059354721",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA17316_00",
+    "conceptId": 10008598,
+    "name": "Aliens Attack",
+    "contentId": "JP0089-PPSA17316_00-0068202387184232",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA17355_00",
