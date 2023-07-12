@@ -26522,16 +26522,16 @@
   {
     "titleId": "PPSA06984_00",
     "conceptId": 10004538,
-    "name": "OXENFREE II: Lost Signals",
-    "contentId": null,
+    "name": "Oxenfree II: Lost Signals",
+    "contentId": "JA0010-PPSA06984_00-OXEN2PS5SIEJ0007",
     "region": "JA",
     "publisherId": "JA0010"
   },
   {
     "titleId": "PPSA06985_00",
     "conceptId": 10004538,
-    "name": "OXENFREE II: Lost Signals PS4 & PS5",
-    "contentId": null,
+    "name": "Oxenfree II: Lost Signals",
+    "contentId": "HP8906-PPSA06985_00-OXEN2PS5SIEJ0008",
     "region": "HP",
     "publisherId": "HP8906"
   },
@@ -30160,6 +30160,22 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA07771_00",
+    "conceptId": 10005130,
+    "name": "The Silent Swan",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07772_00",
+    "conceptId": 10005130,
+    "name": "The Silent Swan",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07773_00",
     "conceptId": 221898,
     "name": "HBO MAX",
@@ -33715,9 +33731,9 @@
     "titleId": "PPSA08500_00",
     "conceptId": 221982,
     "name": "Rain World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3245-PPSA08500_00-RAINWORLD0000000",
+    "region": "EP",
+    "publisherId": "EP3245"
   },
   {
     "titleId": "PPSA08503_00",
@@ -33795,9 +33811,9 @@
     "titleId": "PPSA08512_00",
     "conceptId": 10001483,
     "name": "The Valiant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4389-PPSA08512_00-RITTERTHEVALIANT",
+    "region": "UP",
+    "publisherId": "UP4389"
   },
   {
     "titleId": "PPSA08513_00",
@@ -37912,6 +37928,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09283_00",
+    "conceptId": 235179,
+    "name": "Avatar: Frontiers of Pandora\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09284_00",
     "conceptId": 10005758,
     "name": "Tentacular",
@@ -39515,9 +39539,9 @@
     "titleId": "PPSA09602_00",
     "conceptId": 10005913,
     "name": "Sea Horizon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA09602_00-SEAHORIZON000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA09605_00",
@@ -52464,6 +52488,22 @@
     "publisherId": "UP1594"
   },
   {
+    "titleId": "PPSA13857_00",
+    "conceptId": 10007383,
+    "name": "Black Skylands: Founders Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0097"
+  },
+  {
+    "titleId": "PPSA13858_00",
+    "conceptId": 10007383,
+    "name": "Black Skylands: Founders Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0096"
+  },
+  {
     "titleId": "PPSA13859_00",
     "conceptId": 10004636,
     "name": "Wonder Boy Anniversary Collection",
@@ -55083,9 +55123,9 @@
     "titleId": "PPSA15336_00",
     "conceptId": 10004427,
     "name": "Mordhau",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6619-PPSA15336_00-MORDHAUSIEJAPAN0",
+    "region": "JP",
+    "publisherId": "JP6619"
   },
   {
     "titleId": "PPSA15337_00",
@@ -55336,6 +55376,14 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA15449_00",
+    "conceptId": 10007992,
+    "name": "Spectrolite",
+    "contentId": "UP6718-PPSA15449_00-0799676796055298",
+    "region": "UP",
+    "publisherId": "UP6718"
+  },
+  {
     "titleId": "PPSA15450_00",
     "conceptId": 10007993,
     "name": "Necrosmith",
@@ -55422,6 +55470,14 @@
     "contentId": "UP0891-PPSA15468_00-CYBERCITIZENSHRG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA15470_00",
+    "conceptId": 10008002,
+    "name": "Sephonie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15480_00",
@@ -57112,6 +57168,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16420_00",
+    "conceptId": 10001483,
+    "name": "The Valiant - Demo",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2880"
+  },
+  {
+    "titleId": "PPSA16421_00",
+    "conceptId": 10001483,
+    "name": "The Valiant - Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
+    "titleId": "PPSA16422_00",
+    "conceptId": 10001483,
+    "name": "The Valiant - Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA16438_00",
     "conceptId": 10007755,
     "name": "Front Mission 1st: Remake",
@@ -57166,6 +57246,30 @@
     "contentId": "EP6718-PPSA16451_00-0773259744714302",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA16452_00",
+    "conceptId": 10008376,
+    "name": "Super Dark Deception Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0299"
+  },
+  {
+    "titleId": "PPSA16455_00",
+    "conceptId": 10008376,
+    "name": "Super Dark Deception Demo",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0332"
+  },
+  {
+    "titleId": "PPSA16460_00",
+    "conceptId": 10008376,
+    "name": "Super Dark Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16462_00",
@@ -57350,6 +57454,14 @@
     "contentId": "UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
     "region": "UP",
     "publisherId": "UP1496"
+  },
+  {
+    "titleId": "PPSA16562_00",
+    "conceptId": 10004831,
+    "name": "Unimime - Unicycle Madness",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16580_00",
@@ -57563,6 +57675,14 @@
     "titleId": "PPSA16690_00",
     "conceptId": 229879,
     "name": "ALVO VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16692_00",
+    "conceptId": 10008313,
+    "name": "Rocket Car : Ultimate Ball League Machines",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -57819,9 +57939,9 @@
     "titleId": "PPSA17059_00",
     "conceptId": 221982,
     "name": "Rain World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3425-PPSA17059_00-RAINWORLD0000000",
+    "region": "JP",
+    "publisherId": "JP3425"
   },
   {
     "titleId": "PPSA17075_00",
@@ -57982,5 +58102,37 @@
     "contentId": "HP6691-PPSA17392_00-CUBICLIGHT0PS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17480_00",
+    "conceptId": 10006400,
+    "name": "Cubic Parking",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17481_00",
+    "conceptId": 10006400,
+    "name": "Cubic Parking",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17482_00",
+    "conceptId": 10006400,
+    "name": "Cubic Parking",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17483_00",
+    "conceptId": 10006400,
+    "name": "Cubic Parking",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
