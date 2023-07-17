@@ -12896,6 +12896,14 @@
     "publisherId": "UP4139"
   },
   {
+    "titleId": "PPSA04122_00",
+    "conceptId": 10003113,
+    "name": "Oceanhorn 2: Knights of the Lost Realm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04123_00",
     "conceptId": 10003113,
     "name": "Oceanhorn 2: Knights of the Lost Realm",
@@ -19705,6 +19713,14 @@
   },
   {
     "titleId": "PPSA05546_00",
+    "conceptId": 10003324,
+    "name": "PixelJunk Scrappers Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05547_00",
     "conceptId": 10003324,
     "name": "PixelJunk Scrappers Deluxe",
     "contentId": null,
@@ -30558,6 +30574,14 @@
     "contentId": "UP4338-PPSA07845_00-34378257LOTPS5NA",
     "region": "UP",
     "publisherId": "UP4338"
+  },
+  {
+    "titleId": "PPSA07849_00",
+    "conceptId": 10005173,
+    "name": "Scorn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07850_00",
@@ -54696,6 +54720,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA14488_00",
+    "conceptId": 10007675,
+    "name": "UltraGoodness",
+    "contentId": "UP0891-PPSA14488_00-ULTRAGOODNESSRAG",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
     "titleId": "PPSA14496_00",
     "conceptId": 10007677,
     "name": "After You",
@@ -54888,6 +54920,14 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA14698_00",
+    "conceptId": 10007748,
+    "name": "Stray Gods: The Roleplaying Musical",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14699_00",
     "conceptId": 10007748,
     "name": "Stray Gods: The Roleplaying Musical",
@@ -54950,6 +54990,30 @@
     "contentId": "EP6958-PPSA14730_00-0566536348693266",
     "region": "EP",
     "publisherId": "EP6958"
+  },
+  {
+    "titleId": "PPSA14731_00",
+    "conceptId": 10007768,
+    "name": "TrinityS",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP5905"
+  },
+  {
+    "titleId": "PPSA14732_00",
+    "conceptId": 10007768,
+    "name": "TrinityS",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP8068"
+  },
+  {
+    "titleId": "PPSA14733_00",
+    "conceptId": 10007768,
+    "name": "TrinityS",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8260"
   },
   {
     "titleId": "PPSA14734_00",
@@ -55166,6 +55230,14 @@
     "contentId": "EP2005-PPSA15223_00-BRAVESOLDIER0000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA15226_00",
+    "conceptId": 10004405,
+    "name": "NARAKA: BLADEPOINT",
+    "contentId": "UP7564-PPSA15226_00-0384294780456823",
+    "region": "UP",
+    "publisherId": "UP7564"
   },
   {
     "titleId": "PPSA15239_00",
@@ -56094,6 +56166,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0811"
+  },
+  {
+    "titleId": "PPSA15738_00",
+    "conceptId": 10001016,
+    "name": "The Many Pieces of Mr. Coo Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA15739_00",
@@ -57304,6 +57384,14 @@
     "publisherId": "JP3318"
   },
   {
+    "titleId": "PPSA16326_00",
+    "conceptId": 10004239,
+    "name": "Frightence",
+    "contentId": "UP5877-PPSA16326_00-0827302672451898",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA16327_00",
     "conceptId": 10004239,
     "name": "Frightence",
@@ -57710,6 +57798,14 @@
     "contentId": "UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
     "region": "UP",
     "publisherId": "UP1496"
+  },
+  {
+    "titleId": "PPSA16560_00",
+    "conceptId": 10004831,
+    "name": "Unimime - Unicycle Madness",
+    "contentId": "JP7640-PPSA16560_00-UNIMIME0JA000000",
+    "region": "JP",
+    "publisherId": "JP7640"
   },
   {
     "titleId": "PPSA16561_00",
@@ -58408,12 +58504,28 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17364_00",
+    "conceptId": 10008765,
+    "name": "Pure Mini Golf",
+    "contentId": "UB0008-PPSA17364_00-0616688547175720",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA17365_00",
     "conceptId": 10008765,
     "name": "Pure Mini Golf",
     "contentId": "EB0198-PPSA17365_00-0176971236415472",
     "region": "EB",
     "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA17366_00",
+    "conceptId": 10008153,
+    "name": "Double Dragon Gaiden: Rise of the Dragons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17389_00",
@@ -58446,6 +58558,30 @@
     "contentId": "HP6691-PPSA17392_00-CUBICLIGHT0PS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17414_00",
+    "conceptId": 10008785,
+    "name": "Plumber Puzzles",
+    "contentId": "UB0008-PPSA17414_00-0936472533993790",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA17415_00",
+    "conceptId": 10008785,
+    "name": "Plumber Puzzles",
+    "contentId": "EB0198-PPSA17415_00-0000178309307320",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA17418_00",
+    "conceptId": 229319,
+    "name": "Lows of Machine",
+    "contentId": "EP1555-PPSA17418_00-0124037965840251",
+    "region": "EP",
+    "publisherId": "EP1555"
   },
   {
     "titleId": "PPSA17480_00",
