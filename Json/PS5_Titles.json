@@ -27288,6 +27288,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA07143_00",
+    "conceptId": 10004820,
+    "name": "Skabma - Snowfall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07144_00",
     "conceptId": 10004822,
     "name": "Hourglass",
@@ -42915,17 +42923,17 @@
     "titleId": "PPSA10248_00",
     "conceptId": 10006160,
     "name": "Viewfinder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5360-PPSA10248_00-VIEWFINDER0005EU",
+    "region": "EP",
+    "publisherId": "EP5360"
   },
   {
     "titleId": "PPSA10249_00",
     "conceptId": 10006160,
     "name": "Viewfinder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5180-PPSA10249_00-VIEWFINDER0005US",
+    "region": "UP",
+    "publisherId": "UP5180"
   },
   {
     "titleId": "PPSA10250_00",
@@ -47843,9 +47851,9 @@
     "titleId": "PPSA11173_00",
     "conceptId": 10006495,
     "name": "Spirit Hunters: Infinite Horde",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6013-PPSA11173_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP6013"
   },
   {
     "titleId": "PPSA11174_00",
@@ -47994,18 +48002,18 @@
   {
     "titleId": "PPSA11195_00",
     "conceptId": 10006495,
-    "name": "Spirit Hunters: Infinite Horde",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b9\u30d4\u30ea\u30c3\u30c8\u30cf\u30f3\u30bf\u30fc\u30ba: \u30a4\u30f3\u30d5\u30a3\u30cb\u30c3\u30c8\u30db\u30fc\u30c9",
+    "contentId": "JP5928-PPSA11195_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP5928"
   },
   {
     "titleId": "PPSA11196_00",
     "conceptId": 10006495,
     "name": "Spirit Hunters: Infinite Horde",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5990-PPSA11196_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP5990"
   },
   {
     "titleId": "PPSA11198_00",
@@ -49752,6 +49760,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA12433_00",
+    "conceptId": 10006845,
+    "name": "Koa and the Five Pirates of Mara",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12436_00",
     "conceptId": 10006884,
     "name": "Rush Hour Deluxe",
@@ -49866,10 +49882,18 @@
   {
     "titleId": "PPSA12462_00",
     "conceptId": 10004276,
-    "name": "LISA: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LISA: The Joyful - Definitive Edition",
+    "contentId": "UP0604-PPSA12462_00-2073143061450968",
+    "region": "UP",
+    "publisherId": "UP0604"
+  },
+  {
+    "titleId": "PPSA12463_00",
+    "conceptId": 10004276,
+    "name": "LISA: The Joyful - Definitive Edition",
+    "contentId": "EP0600-PPSA12463_00-5260024804971868",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA12465_00",
@@ -50147,6 +50171,14 @@
     "titleId": "PPSA12553_00",
     "conceptId": 200880,
     "name": "Crunchyroll",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12560_00",
+    "conceptId": 10006932,
+    "name": "Patrick's Parabox",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -51414,6 +51446,30 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA13496_00",
+    "conceptId": 10007237,
+    "name": "Gravity Crash Portable",
+    "contentId": "UP9000-PPSA13496_00-NPUG803210000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA13497_00",
+    "conceptId": 10007237,
+    "name": "GRAVITY CRASH PORTABLE",
+    "contentId": "JP9000-PPSA13497_00-NPJG000440000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA13498_00",
+    "conceptId": 10007237,
+    "name": "Gravity Crash Portable",
+    "contentId": "EP9000-PPSA13498_00-NPEG000200000000",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA13499_00",
@@ -55555,9 +55611,9 @@
     "titleId": "PPSA15400_00",
     "conceptId": 10007982,
     "name": "Agriculture",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA15400_00-AGRICULTURE00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA15401_00",
@@ -57536,6 +57592,38 @@
     "publisherId": "EP4389"
   },
   {
+    "titleId": "PPSA16427_00",
+    "conceptId": 10008366,
+    "name": "Twisted Metal",
+    "contentId": "UP9000-PPSA16427_00-SCUS943040000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA16428_00",
+    "conceptId": 10008366,
+    "name": "Twisted Metal",
+    "contentId": "JP9000-PPSA16428_00-SIPS600070000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA16429_00",
+    "conceptId": 10008368,
+    "name": "Twisted Metal World Tour",
+    "contentId": "UP9000-PPSA16429_00-SCUS943060000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA16430_00",
+    "conceptId": 10008368,
+    "name": "Twisted Metal EX",
+    "contentId": "JP9000-PPSA16430_00-SIPS600210000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA16438_00",
     "conceptId": 10007755,
     "name": "Front Mission 1st: Remake",
@@ -58246,6 +58334,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA16836_00",
+    "conceptId": 10008338,
+    "name": "Mirror 2 - Console Edition Demo",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP8266"
+  },
+  {
+    "titleId": "PPSA16837_00",
+    "conceptId": 10008338,
+    "name": "Mirror 2 - Console Edition Demo",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP8221"
+  },
+  {
+    "titleId": "PPSA16838_00",
+    "conceptId": 10008338,
+    "name": "Mirror 2 - Console Edition Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8506"
+  },
+  {
+    "titleId": "PPSA16839_00",
+    "conceptId": 10008338,
+    "name": "Mirror 2 - Console Edition Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP8316"
   },
   {
     "titleId": "PPSA16862_00",
