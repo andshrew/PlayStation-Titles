@@ -22442,10 +22442,18 @@
   {
     "titleId": "PPSA06123_00",
     "conceptId": 10004276,
-    "name": "LISA: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LISA: The Painful - Definitive Edition",
+    "contentId": "UP0604-PPSA06123_00-6809576227903655",
+    "region": "UP",
+    "publisherId": "UP0604"
+  },
+  {
+    "titleId": "PPSA06124_00",
+    "conceptId": 10004276,
+    "name": "LISA: The Painful - Definitive Edition",
+    "contentId": "EP0600-PPSA06124_00-1911517829330125",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA06125_00",
@@ -27286,6 +27294,14 @@
     "contentId": "JP9000-PPSA07137_00-NPJG000130000000",
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA07142_00",
+    "conceptId": 10004820,
+    "name": "Skabma - Snowfall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07143_00",
@@ -37256,6 +37272,22 @@
     "publisherId": "EP8925"
   },
   {
+    "titleId": "PPSA09147_00",
+    "conceptId": 10005721,
+    "name": "Die After Sunset",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09148_00",
+    "conceptId": 10005721,
+    "name": "Die After Sunset",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09149_00",
     "conceptId": 235159,
     "name": "The Crown Of Wu",
@@ -39346,10 +39378,10 @@
   {
     "titleId": "PPSA09561_00",
     "conceptId": 10005893,
-    "name": "Frank and Drake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d5\u30e9\u30f3\u30af&\u30c9\u30ec\u30a4\u30af",
+    "contentId": "JP0211-PPSA09561_00-1793876680565826",
+    "region": "JP",
+    "publisherId": "JP0211"
   },
   {
     "titleId": "PPSA09562_00",
@@ -47859,9 +47891,9 @@
     "titleId": "PPSA11174_00",
     "conceptId": 10006495,
     "name": "Spirit Hunters: Infinite Horde",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6012-PPSA11174_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP6012"
   },
   {
     "titleId": "PPSA11175_00",
@@ -50083,9 +50115,9 @@
     "titleId": "PPSA12524_00",
     "conceptId": 10006608,
     "name": "Sailing Era",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6797-PPSA12524_00-SIEEPS500000GAME",
+    "region": "EP",
+    "publisherId": "EP6797"
   },
   {
     "titleId": "PPSA12525_00",
@@ -50177,6 +50209,14 @@
   },
   {
     "titleId": "PPSA12560_00",
+    "conceptId": 10006932,
+    "name": "Patrick's Parabox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12561_00",
     "conceptId": 10006932,
     "name": "Patrick's Parabox",
     "contentId": null,
@@ -50522,10 +50562,10 @@
   {
     "titleId": "PPSA13191_00",
     "conceptId": 10006996,
-    "name": "Cross Tails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30af\u30ed\u30b9\u30c6\u30a4\u30eb\u30ba",
+    "contentId": "JP0013-PPSA13191_00-JP0CROSST0000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA13199_00",
@@ -51616,6 +51656,14 @@
     "publisherId": "UP3113"
   },
   {
+    "titleId": "PPSA13528_00",
+    "conceptId": 10007246,
+    "name": "Agatha Christie - Hercule Poirot: The London Case",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4295"
+  },
+  {
     "titleId": "PPSA13536_00",
     "conceptId": 10005251,
     "name": "\u30ad\u30e5\u30fc\u30c6\u30a3\u30fc \u30cf\u30c3\u30af",
@@ -52514,18 +52562,18 @@
   {
     "titleId": "PPSA13792_00",
     "conceptId": 10007175,
-    "name": "The Spirit and the Mouse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Spirit And The Mouse",
+    "contentId": "UP2775-PPSA13792_00-0527233068679195",
+    "region": "UP",
+    "publisherId": "UP2775"
   },
   {
     "titleId": "PPSA13793_00",
     "conceptId": 10007175,
-    "name": "The Spirit and the Mouse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Spirit And The Mouse",
+    "contentId": "EP2638-PPSA13793_00-0985160747296927",
+    "region": "EP",
+    "publisherId": "EP2638"
   },
   {
     "titleId": "PPSA13796_00",
@@ -54611,7 +54659,7 @@
     "titleId": "PPSA14380_00",
     "conceptId": 10001902,
     "name": "Evil West",
-    "contentId": null,
+    "contentId": "JP0075-PPSA14380_00-EVILWESTGAME0000",
     "region": "JP",
     "publisherId": "JP0075"
   },
@@ -55619,9 +55667,9 @@
     "titleId": "PPSA15401_00",
     "conceptId": 10007982,
     "name": "Agriculture",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA15401_00-AGRICULTURE00000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA15407_00",
@@ -57200,6 +57248,38 @@
     "publisherId": "HP3199"
   },
   {
+    "titleId": "PPSA16146_00",
+    "conceptId": 205331,
+    "name": "WWE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16147_00",
+    "conceptId": 205331,
+    "name": "WWE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16148_00",
+    "conceptId": 205331,
+    "name": "WWE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16149_00",
+    "conceptId": 205331,
+    "name": "WWE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16164_00",
     "conceptId": 10008249,
     "name": "RUN MAN",
@@ -57592,6 +57672,22 @@
     "publisherId": "EP4389"
   },
   {
+    "titleId": "PPSA16424_00",
+    "conceptId": 10007951,
+    "name": "Adore",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16425_00",
+    "conceptId": 10007951,
+    "name": "Adore",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16427_00",
     "conceptId": 10008366,
     "name": "Twisted Metal",
@@ -57738,10 +57834,10 @@
   {
     "titleId": "PPSA16470_00",
     "conceptId": 10007175,
-    "name": "The Spirit and the Mouse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "the Spirit & the Mouse \uff5e\u7cbe\u970a\u3068\u30cd\u30ba\u30df\u306e\u304a\u306f\u306a\u3057\uff5e",
+    "contentId": "JP0098-PPSA16470_00-0527233068679195",
+    "region": "JP",
+    "publisherId": "JP0098"
   },
   {
     "titleId": "PPSA16488_00",
@@ -58019,9 +58115,9 @@
     "titleId": "PPSA16622_00",
     "conceptId": 10007309,
     "name": "The Creepy Syndrome",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA16622_00-CREEPYSYNDROME00",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA16636_00",
@@ -58256,6 +58352,14 @@
     "publisherId": "UP4139"
   },
   {
+    "titleId": "PPSA16748_00",
+    "conceptId": 10007246,
+    "name": "\u30a2\u30ac\u30b5\u30fb\u30af\u30ea\u30b9\u30c6\u30a3\uff1a\u30a8\u30eb\u30ad\u30e5\u30fc\u30eb\u30fb\u30dd\u30a2\u30ed - \u30ed\u30f3\u30c9\u30f3\u4e8b\u4ef6\u7c3f",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP6398"
+  },
+  {
     "titleId": "PPSA16759_00",
     "conceptId": 10008433,
     "name": "Cubic Figures 2",
@@ -58302,6 +58406,14 @@
     "contentId": "UP8523-PPSA16794_00-0054374462386862",
     "region": "UP",
     "publisherId": "UP8523"
+  },
+  {
+    "titleId": "PPSA16795_00",
+    "conceptId": 10007246,
+    "name": "Agatha Christie - Hercule Poirot: The London Case",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP4295"
   },
   {
     "titleId": "PPSA16801_00",
