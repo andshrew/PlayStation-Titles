@@ -1299,7 +1299,7 @@
     "titleId": "PPSA01622_00",
     "conceptId": 10001095,
     "name": "Exoprimal",
-    "contentId": null,
+    "contentId": "UP0102-PPSA01622_00-EXOPRIMAL2023000",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -1307,7 +1307,7 @@
     "titleId": "PPSA01623_00",
     "conceptId": 10001095,
     "name": "Exoprimal",
-    "contentId": null,
+    "contentId": "EP0102-PPSA01623_00-EXOPRIMAL2023000",
     "region": "EP",
     "publisherId": "EP0102"
   },
@@ -21656,6 +21656,38 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA05961_00",
+    "conceptId": 10003761,
+    "name": "Firewall\u2122 Ultra",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA05962_00",
+    "conceptId": 10003761,
+    "name": "Firewall\u2122 Ultra",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA05963_00",
+    "conceptId": 10003761,
+    "name": "Firewall\u2122 Ultra",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA05964_00",
+    "conceptId": 10003761,
+    "name": "Firewall\u2122 Ultra",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA05969_00",
     "conceptId": 10003936,
     "name": "SushiRun",
@@ -39363,17 +39395,17 @@
     "titleId": "PPSA09559_00",
     "conceptId": 10005893,
     "name": "Frank and Drake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5258-PPSA09559_00-7976846746147217",
+    "region": "UP",
+    "publisherId": "UP5258"
   },
   {
     "titleId": "PPSA09560_00",
     "conceptId": 10005893,
     "name": "Frank and Drake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5438-PPSA09560_00-9082029541397054",
+    "region": "EP",
+    "publisherId": "EP5438"
   },
   {
     "titleId": "PPSA09561_00",
@@ -50123,9 +50155,9 @@
     "titleId": "PPSA12525_00",
     "conceptId": 10006608,
     "name": "Sailing Era",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5999-PPSA12525_00-SIEAPS500000GAME",
+    "region": "UP",
+    "publisherId": "UP5999"
   },
   {
     "titleId": "PPSA12536_00",
@@ -50310,6 +50342,22 @@
     "contentId": "EP7333-PPSA12584_00-0166620134011137",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12585_00",
+    "conceptId": 10006944,
+    "name": "Hungry Monster",
+    "contentId": "JP7309-PPSA12585_00-0946959720204268",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA12586_00",
+    "conceptId": 10006944,
+    "name": "Hungry Monster",
+    "contentId": "HP7354-PPSA12586_00-0483958009308877",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA12587_00",
@@ -51664,6 +51712,14 @@
     "publisherId": "EP4295"
   },
   {
+    "titleId": "PPSA13529_00",
+    "conceptId": 10007246,
+    "name": "Agatha Christie - Hercule Poirot: The London Case",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1475"
+  },
+  {
     "titleId": "PPSA13536_00",
     "conceptId": 10005251,
     "name": "\u30ad\u30e5\u30fc\u30c6\u30a3\u30fc \u30cf\u30c3\u30af",
@@ -51963,17 +52019,17 @@
     "titleId": "PPSA13613_00",
     "conceptId": 10006996,
     "name": "Cross Tails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2500-PPSA13613_00-US0CROSST0000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA13614_00",
     "conceptId": 10006996,
     "name": "Cross Tails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA13614_00-EU0CROSST0000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA13628_00",
@@ -52110,6 +52166,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP6018"
+  },
+  {
+    "titleId": "PPSA13676_00",
+    "conceptId": 202819,
+    "name": "MLB",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13683_00",
@@ -55074,10 +55138,10 @@
   {
     "titleId": "PPSA14727_00",
     "conceptId": 234877,
-    "name": "Syzygy: The Power of the Eclipse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Syzygy: The Power of Eclipse",
+    "contentId": "EP0811-PPSA14727_00-0989964358013023",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA14728_00",
@@ -55563,9 +55627,9 @@
     "titleId": "PPSA15370_00",
     "conceptId": 10007976,
     "name": "Punch Club 2: Fast Forward",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0097-PPSA15370_00-0864734995899140",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA15371_00",
@@ -55851,9 +55915,9 @@
     "titleId": "PPSA15469_00",
     "conceptId": 10008002,
     "name": "Sephonie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15469_00-SEPHONIERATAGAME",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15470_00",
@@ -56563,17 +56627,17 @@
     "titleId": "PPSA15867_00",
     "conceptId": 10008158,
     "name": "Oaken",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5098-PPSA15867_00-0868629929703708",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA15868_00",
     "conceptId": 10008158,
     "name": "Oaken",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4912-PPSA15868_00-0732258547545763",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA15876_00",
@@ -58240,6 +58304,14 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA16675_00",
+    "conceptId": 10008465,
+    "name": "The Helper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16681_00",
     "conceptId": 229879,
     "name": "ALVO VR",
@@ -58584,6 +58656,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16986_00",
+    "conceptId": 10007151,
+    "name": "CRYMACHINA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17009_00",
     "conceptId": 10006865,
     "name": "Underdog Detective",
@@ -58675,49 +58755,49 @@
     "titleId": "PPSA17155_00",
     "conceptId": 10008679,
     "name": "MetaDude",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA17155_00-METADUDE000PS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA17156_00",
     "conceptId": 10008679,
     "name": "MetaDude",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA17156_00-METADUDE000PS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA17157_00",
     "conceptId": 10008679,
     "name": "MetaDude",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA17157_00-METADUDE000PS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA17158_00",
     "conceptId": 10008679,
     "name": "MetaDude",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA17158_00-METADUDE000PS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA17259_00",
     "conceptId": 10008726,
-    "name": "Otoko Cross: Pretty Boys Breakup!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u7537\u30af\u30ed\u30b9\uff1a\u30d6\u30ec\u30fc\u30af\u30a2\u30c3\u30d7\uff01",
+    "contentId": "UP2005-PPSA17259_00-OTOKOBREAKUP0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17260_00",
     "conceptId": 10008726,
     "name": "Otoko Cross: Pretty Boys Breakup!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17260_00-OTOKOBREAKUP0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17261_00",
@@ -58844,6 +58924,14 @@
     "conceptId": 10008785,
     "name": "Plumber Puzzles",
     "contentId": "EB0198-PPSA17415_00-0000178309307320",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA17417_00",
+    "conceptId": 10008786,
+    "name": "Shadow Samurai Revenge",
+    "contentId": "EB0198-PPSA17417_00-0715875266570013",
     "region": "EB",
     "publisherId": "EB0198"
   },
