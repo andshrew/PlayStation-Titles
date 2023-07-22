@@ -51912,6 +51912,22 @@
     "publisherId": "UP1309"
   },
   {
+    "titleId": "PPSA13579_00",
+    "conceptId": 10007264,
+    "name": "Blasphemous 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13580_00",
+    "conceptId": 10007264,
+    "name": "Blasphemous 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13592_00",
     "conceptId": 10007267,
     "name": "NOOB - The Factionless",
@@ -55146,10 +55162,10 @@
   {
     "titleId": "PPSA14728_00",
     "conceptId": 234877,
-    "name": "Syzygy: The Power of the Eclipse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Syzygy: The Power of Eclipse",
+    "contentId": "UP0814-PPSA14728_00-0253868145764391",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA14729_00",
@@ -55635,9 +55651,9 @@
     "titleId": "PPSA15371_00",
     "conceptId": 10007976,
     "name": "Punch Club 2: Fast Forward",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0096-PPSA15371_00-0913919440006596",
+    "region": "EP",
+    "publisherId": "EP0096"
   },
   {
     "titleId": "PPSA15380_00",
@@ -55923,9 +55939,9 @@
     "titleId": "PPSA15470_00",
     "conceptId": 10008002,
     "name": "Sephonie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15470_00-SEPHONIERATAGAME",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15480_00",
@@ -58304,6 +58320,14 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA16674_00",
+    "conceptId": 10008465,
+    "name": "The Helper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16675_00",
     "conceptId": 10008465,
     "name": "The Helper",
@@ -58926,6 +58950,14 @@
     "contentId": "EB0198-PPSA17415_00-0000178309307320",
     "region": "EB",
     "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA17416_00",
+    "conceptId": 10008786,
+    "name": "Shadow Samurai Revenge",
+    "contentId": "UB0008-PPSA17416_00-0839734017803527",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA17417_00",
