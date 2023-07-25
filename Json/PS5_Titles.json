@@ -49080,6 +49080,22 @@
     "publisherId": "EP6325"
   },
   {
+    "titleId": "PPSA11404_00",
+    "conceptId": 10006567,
+    "name": "Death Becomes You",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11405_00",
+    "conceptId": 10006567,
+    "name": "Death Becomes You",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11406_00",
     "conceptId": 235392,
     "name": "Synth Riders",
@@ -51643,9 +51659,9 @@
     "titleId": "PPSA13514_00",
     "conceptId": 10007242,
     "name": "Mr. Run and Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0182-PPSA13514_00-0195490966626555",
+    "region": "EP",
+    "publisherId": "EP0182"
   },
   {
     "titleId": "PPSA13515_00",
@@ -53411,9 +53427,9 @@
     "titleId": "PPSA14012_00",
     "conceptId": 10007363,
     "name": "Elypse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA14012_00-0990443520728722",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA14015_00",
@@ -54392,6 +54408,14 @@
     "publisherId": "UP7137"
   },
   {
+    "titleId": "PPSA14255_00",
+    "conceptId": 10007550,
+    "name": "Mediaset Infinity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14256_00",
     "conceptId": 10003517,
     "name": "SURV1V3",
@@ -55112,6 +55136,22 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA14682_00",
+    "conceptId": 10007744,
+    "name": "Working Hard Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14683_00",
+    "conceptId": 10007744,
+    "name": "Working Hard Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14698_00",
     "conceptId": 10007748,
     "name": "Stray Gods: The Roleplaying Musical",
@@ -55806,6 +55846,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15426_00",
+    "conceptId": 10004226,
+    "name": "Sea of Stars Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3463"
   },
   {
     "titleId": "PPSA15435_00",
@@ -57539,17 +57587,17 @@
     "titleId": "PPSA16270_00",
     "conceptId": 10007557,
     "name": "Magic Exposure - Yuri Visual Novel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA16270_00-MAGICEXPOSURE000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA16271_00",
     "conceptId": 10007557,
     "name": "Magic Exposure - Yuri Visual Novel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA16271_00-MAGICEXPOSURE000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA16275_00",
