@@ -19706,10 +19706,10 @@
   {
     "titleId": "PPSA05545_00",
     "conceptId": 10003324,
-    "name": "PixelJunk Scrappers Deluxe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "PixelJunk\u2122 Scrappers Deluxe",
+    "contentId": "UP0743-PPSA05545_00-QPS01QPS01QPS01Q",
+    "region": "UP",
+    "publisherId": "UP0743"
   },
   {
     "titleId": "PPSA05546_00",
@@ -47912,6 +47912,14 @@
     "publisherId": "EP3392"
   },
   {
+    "titleId": "PPSA11150_00",
+    "conceptId": 10005379,
+    "name": "REZZIL PLAYER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11155_00",
     "conceptId": 10006491,
     "name": "Monster Truck Journey",
@@ -51187,9 +51195,9 @@
     "titleId": "PPSA13337_00",
     "conceptId": 10005659,
     "name": "on Sunday",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7938-PPSA13337_00-0643960483354340",
+    "region": "EP",
+    "publisherId": "EP7938"
   },
   {
     "titleId": "PPSA13340_00",
@@ -55315,9 +55323,9 @@
     "titleId": "PPSA14683_00",
     "conceptId": 10007744,
     "name": "Working Hard Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA14683_00-WORKINGHARDCOLRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA14698_00",
@@ -55672,6 +55680,14 @@
     "publisherId": "UP7543"
   },
   {
+    "titleId": "PPSA15266_00",
+    "conceptId": 10007911,
+    "name": "Granblue Fantasy Versus: Rising - Beta",
+    "contentId": "JP0178-PPSA15266_00-GBVS2BETA0000001",
+    "region": "JP",
+    "publisherId": "JP0178"
+  },
+  {
     "titleId": "PPSA15274_00",
     "conceptId": 10007933,
     "name": "Days of Doom",
@@ -55886,6 +55902,14 @@
     "contentId": "EP7576-PPSA15372_00-0045085025795047",
     "region": "EP",
     "publisherId": "EP7576"
+  },
+  {
+    "titleId": "PPSA15373_00",
+    "conceptId": 10007977,
+    "name": "Super Box Delivery: Beyond the Horizon",
+    "contentId": "UP7578-PPSA15373_00-0863639290448140",
+    "region": "UP",
+    "publisherId": "UP7578"
   },
   {
     "titleId": "PPSA15380_00",
@@ -57310,6 +57334,30 @@
     "contentId": "JP6421-PPSA16029_00-0331559264099244",
     "region": "JP",
     "publisherId": "JP6421"
+  },
+  {
+    "titleId": "PPSA16046_00",
+    "conceptId": 10007911,
+    "name": "Granblue Fantasy Versus: Rising - Beta",
+    "contentId": "UP5460-PPSA16046_00-GBVS2BETA0000001",
+    "region": "UP",
+    "publisherId": "UP5460"
+  },
+  {
+    "titleId": "PPSA16047_00",
+    "conceptId": 10007911,
+    "name": "Granblue Fantasy Versus: Rising - Beta",
+    "contentId": "EP5641-PPSA16047_00-GBVS2BETA0000001",
+    "region": "EP",
+    "publisherId": "EP5641"
+  },
+  {
+    "titleId": "PPSA16048_00",
+    "conceptId": 10007911,
+    "name": "Granblue Fantasy Versus: Rising - Beta",
+    "contentId": "HP8902-PPSA16048_00-GBVS2BETA0000001",
+    "region": "HP",
+    "publisherId": "HP8902"
   },
   {
     "titleId": "PPSA16049_00",
@@ -59131,9 +59179,17 @@
     "titleId": "PPSA17125_00",
     "conceptId": 10008666,
     "name": "UnderDungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8279-PPSA17125_00-0499724678866063",
+    "region": "EP",
+    "publisherId": "EP8279"
+  },
+  {
+    "titleId": "PPSA17126_00",
+    "conceptId": 10008666,
+    "name": "UnderDungeon",
+    "contentId": "UP8089-PPSA17126_00-0005322348169741",
+    "region": "UP",
+    "publisherId": "UP8089"
   },
   {
     "titleId": "PPSA17155_00",
@@ -59296,6 +59352,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA17412_00",
+    "conceptId": 10008784,
+    "name": "Pocket Soccer",
+    "contentId": "UB0008-PPSA17412_00-0367853223089522",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA17413_00",
     "conceptId": 10008784,
     "name": "Pocket Soccer",
@@ -59347,25 +59411,25 @@
     "titleId": "PPSA17480_00",
     "conceptId": 10006400,
     "name": "Cubic Parking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA17480_00-CUBICPARKINPS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA17481_00",
     "conceptId": 10006400,
     "name": "Cubic Parking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA17481_00-CUBICPARKINPS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA17482_00",
     "conceptId": 10006400,
     "name": "Cubic Parking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA17482_00-CUBICPARKINPS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA17483_00",
