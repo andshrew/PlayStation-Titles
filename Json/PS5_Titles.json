@@ -31584,6 +31584,38 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08055_00",
+    "conceptId": 10005244,
+    "name": "Under The Waves",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1628"
+  },
+  {
+    "titleId": "PPSA08056_00",
+    "conceptId": 10005244,
+    "name": "Under The Waves",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1642"
+  },
+  {
+    "titleId": "PPSA08057_00",
+    "conceptId": 10005244,
+    "name": "Under The Waves",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP1759"
+  },
+  {
+    "titleId": "PPSA08058_00",
+    "conceptId": 10005244,
+    "name": "Under The Waves",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP1899"
+  },
+  {
     "titleId": "PPSA08060_00",
     "conceptId": 10004928,
     "name": "LOST EPIC",
@@ -43187,9 +43219,9 @@
     "titleId": "PPSA10282_00",
     "conceptId": 10006175,
     "name": "The Red Exile - Survival Horror",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA10282_00-THEREDEXILE00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA10283_00",
@@ -49648,6 +49680,22 @@
     "publisherId": "EP4902"
   },
   {
+    "titleId": "PPSA12357_00",
+    "conceptId": 10006844,
+    "name": "Iron Danger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12358_00",
+    "conceptId": 10006844,
+    "name": "Iron Danger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12361_00",
     "conceptId": 10006507,
     "name": "Transport Fever 2: Console Edition",
@@ -50819,17 +50867,17 @@
     "titleId": "PPSA13225_00",
     "conceptId": 10004312,
     "name": "Venba",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7535-PPSA13225_00-VENBAXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP7535"
   },
   {
     "titleId": "PPSA13226_00",
     "conceptId": 10004312,
     "name": "Venba",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7533-PPSA13226_00-VENBAXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP7533"
   },
   {
     "titleId": "PPSA13232_00",
@@ -51966,6 +52014,38 @@
     "contentId": "HP3536-PPSA13555_00-0733616970054914",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA13556_00",
+    "conceptId": 10007230,
+    "name": "VR Skater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13557_00",
+    "conceptId": 10007230,
+    "name": "VR Skater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13558_00",
+    "conceptId": 10007230,
+    "name": "VR Skater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13559_00",
+    "conceptId": 10007230,
+    "name": "VR Skater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13560_00",
@@ -53177,6 +53257,14 @@
   },
   {
     "titleId": "PPSA13895_00",
+    "conceptId": 10005071,
+    "name": "Shadow Gambit: The Cursed Crew",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13896_00",
     "conceptId": 10005071,
     "name": "Shadow Gambit: The Cursed Crew",
     "contentId": null,
@@ -54648,6 +54736,30 @@
     "publisherId": "UP4496"
   },
   {
+    "titleId": "PPSA14274_00",
+    "conceptId": 10007533,
+    "name": "Trine 5: A Clockwork Conspiracy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14275_00",
+    "conceptId": 10007533,
+    "name": "Trine 5: A Clockwork Conspiracy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14276_00",
+    "conceptId": 10007533,
+    "name": "Trine 5: A Clockwork Conspiracy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14279_00",
     "conceptId": 231761,
     "name": "Diablo\u00ae IV",
@@ -55568,6 +55680,22 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA15156_00",
+    "conceptId": 10007882,
+    "name": "Astro Flame: Starfighter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15157_00",
+    "conceptId": 10007882,
+    "name": "Astro Flame: Starfighter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15172_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
@@ -56259,7 +56387,7 @@
     "titleId": "PPSA15480_00",
     "conceptId": 10008015,
     "name": "F1\u00ae Manager 2023",
-    "contentId": null,
+    "contentId": "EP2377-PPSA15480_00-F1MANAGER2300000",
     "region": "EP",
     "publisherId": "EP2377"
   },
@@ -56267,7 +56395,7 @@
     "titleId": "PPSA15481_00",
     "conceptId": 10008015,
     "name": "F1\u00ae Manager 2023",
-    "contentId": null,
+    "contentId": "UP2514-PPSA15481_00-F1MANAGER2300000",
     "region": "UP",
     "publisherId": "UP2514"
   },
@@ -56438,6 +56566,22 @@
     "contentId": "EP3862-PPSA15554_00-DEADCELLS0000000",
     "region": "EP",
     "publisherId": "EP3862"
+  },
+  {
+    "titleId": "PPSA15565_00",
+    "conceptId": 10008052,
+    "name": "Acceptance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15566_00",
+    "conceptId": 10008052,
+    "name": "Acceptance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15567_00",
@@ -57118,6 +57262,22 @@
     "contentId": "UP0182-PPSA15918_00-0453997602748542",
     "region": "UP",
     "publisherId": "UP0182"
+  },
+  {
+    "titleId": "PPSA15919_00",
+    "conceptId": 10008173,
+    "name": "Creepy Tale: Ingrid Penance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15920_00",
+    "conceptId": 10008173,
+    "name": "Creepy Tale: Ingrid Penance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15935_00",
@@ -57862,6 +58022,14 @@
     "contentId": "EP4295-PPSA16219_00-OPWOLFVRPS5000EU",
     "region": "EP",
     "publisherId": "EP4295"
+  },
+  {
+    "titleId": "PPSA16228_00",
+    "conceptId": 10005318,
+    "name": "The First Descendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16265_00",
@@ -59096,6 +59264,14 @@
     "publisherId": "EP3892"
   },
   {
+    "titleId": "PPSA17044_00",
+    "conceptId": 10008289,
+    "name": "Super Death Game SHOW! VR",
+    "contentId": "EP8652-PPSA17044_00-0767355899027985",
+    "region": "EP",
+    "publisherId": "EP8652"
+  },
+  {
     "titleId": "PPSA17059_00",
     "conceptId": 221982,
     "name": "Rain World",
@@ -59134,6 +59310,14 @@
     "contentId": "HP8005-PPSA17078_00-0414840001719834",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA17086_00",
+    "conceptId": 10008289,
+    "name": "Super Death Game SHOW! VR",
+    "contentId": "UP8462-PPSA17086_00-0799460596400382",
+    "region": "UP",
+    "publisherId": "UP8462"
   },
   {
     "titleId": "PPSA17089_00",
