@@ -36088,6 +36088,14 @@
     "publisherId": "EP4902"
   },
   {
+    "titleId": "PPSA08894_00",
+    "conceptId": 10001817,
+    "name": "You Suck at Parking",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08895_00",
     "conceptId": 10005608,
     "name": "Hindsight",
@@ -47080,6 +47088,22 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA10947_00",
+    "conceptId": 10006404,
+    "name": "Rhapsody: Marl Kingdom Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10948_00",
+    "conceptId": 10006404,
+    "name": "Rhapsody: Marl Kingdom Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10949_00",
     "conceptId": 10006405,
     "name": "The Rex T",
@@ -49219,9 +49243,9 @@
     "titleId": "PPSA11404_00",
     "conceptId": 10006567,
     "name": "Death Becomes You",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA11404_00-DEATHBECOMESYORG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA11405_00",
@@ -50568,6 +50592,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12589_00",
+    "conceptId": 10006945,
+    "name": "Try to fit",
+    "contentId": "JP7309-PPSA12589_00-0914780964573208",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA12590_00",
+    "conceptId": 10006945,
+    "name": "Try to fit",
+    "contentId": "HP7354-PPSA12590_00-0216598170326764",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA12591_00",
     "conceptId": 10006946,
     "name": "Space Defend",
@@ -50638,6 +50678,14 @@
     "contentId": "UP7234-PPSA12607_00-0663568412671490",
     "region": "UP",
     "publisherId": "UP7234"
+  },
+  {
+    "titleId": "PPSA12609_00",
+    "conceptId": 10006951,
+    "name": "Zoo Leap",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12610_00",
@@ -52059,25 +52107,25 @@
     "titleId": "PPSA13557_00",
     "conceptId": 10007230,
     "name": "VR Skater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA13557_00-0534820917967230",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA13558_00",
     "conceptId": 10007230,
     "name": "VR Skater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3631-PPSA13558_00-0171109427990394",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA13559_00",
     "conceptId": 10007230,
     "name": "VR Skater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA13559_00-0952544592348769",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA13560_00",
@@ -53699,9 +53747,9 @@
     "titleId": "PPSA14011_00",
     "conceptId": 10007363,
     "name": "Elypse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA14011_00-0620048428044620",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA14012_00",
@@ -54430,6 +54478,14 @@
     "contentId": "UP5869-PPSA14149_00-0869730996058803",
     "region": "UP",
     "publisherId": "UP5869"
+  },
+  {
+    "titleId": "PPSA14154_00",
+    "conceptId": 10007543,
+    "name": "CELEBRITIES HACKED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14155_00",
@@ -56984,6 +57040,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA15759_00",
+    "conceptId": 10007617,
+    "name": "Somerville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15782_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
@@ -57158,6 +57222,14 @@
     "contentId": "EP6470-PPSA15845_00-WOULDYOULIKETOR3",
     "region": "EP",
     "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA15846_00",
+    "conceptId": 10008155,
+    "name": "Would you like to run an idol cafe? 3",
+    "contentId": "UP6472-PPSA15846_00-WOULDYOULIKETOR3",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA15847_00",
@@ -58387,9 +58459,9 @@
     "titleId": "PPSA16424_00",
     "conceptId": 10007951,
     "name": "Adore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA16424_00-QUBYTEADOREPS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA16425_00",
@@ -58920,6 +58992,14 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA16663_00",
+    "conceptId": 10007617,
+    "name": "Somerville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16664_00",
     "conceptId": 10005921,
     "name": "Savannah Runnah",
@@ -59211,6 +59291,14 @@
     "titleId": "PPSA16814_00",
     "conceptId": 10007176,
     "name": "EA SPORTS FC\u2122 24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16832_00",
+    "conceptId": 10005806,
+    "name": "Shotgun King: The Final Checkmate",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -59510,6 +59598,14 @@
     "contentId": "HP6691-PPSA17158_00-METADUDE000PS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17194_00",
+    "conceptId": 10008696,
+    "name": "Quantum: Recharged",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17259_00",
