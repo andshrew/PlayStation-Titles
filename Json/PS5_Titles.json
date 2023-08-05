@@ -12899,17 +12899,17 @@
     "titleId": "PPSA04122_00",
     "conceptId": 10003113,
     "name": "Oceanhorn 2: Knights of the Lost Realm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0757-PPSA04122_00-OCEANHORN2000001",
+    "region": "EP",
+    "publisherId": "EP0757"
   },
   {
     "titleId": "PPSA04123_00",
     "conceptId": 10003113,
     "name": "Oceanhorn 2: Knights of the Lost Realm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0760-PPSA04123_00-OCEANHORN2000001",
+    "region": "UP",
+    "publisherId": "UP0760"
   },
   {
     "titleId": "PPSA04124_00",
@@ -14230,6 +14230,14 @@
     "contentId": "UP1001-PPSA04390_00-00000PGATOUR2K23",
     "region": "UP",
     "publisherId": "UP1001"
+  },
+  {
+    "titleId": "PPSA04395_00",
+    "conceptId": 10003280,
+    "name": "Wild Card Football",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6853"
   },
   {
     "titleId": "PPSA04400_00",
@@ -49251,9 +49259,9 @@
     "titleId": "PPSA11405_00",
     "conceptId": 10006567,
     "name": "Death Becomes You",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA11405_00-DEATHBECOMESYORG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA11406_00",
@@ -52099,9 +52107,9 @@
     "titleId": "PPSA13556_00",
     "conceptId": 10007230,
     "name": "VR Skater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA13556_00-0200571616901376",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA13557_00",
@@ -54482,10 +54490,10 @@
   {
     "titleId": "PPSA14154_00",
     "conceptId": 10007543,
-    "name": "CELEBRITIES HACKED",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Celebrities Hacked",
+    "contentId": "EP2402-PPSA14154_00-CELEBRITIESEUPS5",
+    "region": "EP",
+    "publisherId": "EP2402"
   },
   {
     "titleId": "PPSA14155_00",
@@ -55360,6 +55368,14 @@
     "publisherId": "UP0964"
   },
   {
+    "titleId": "PPSA14508_00",
+    "conceptId": 10006845,
+    "name": "Koa and the Five Pirates of Mara",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14509_00",
     "conceptId": 10006222,
     "name": "VCS: RUNNER OST",
@@ -55542,6 +55558,14 @@
     "contentId": "UP0891-PPSA14683_00-WORKINGHARDCOLRG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA14691_00",
+    "conceptId": 10007543,
+    "name": "Celebrities Hacked",
+    "contentId": "UP2538-PPSA14691_00-CELEBRITIESUSPS5",
+    "region": "UP",
+    "publisherId": "UP2538"
   },
   {
     "titleId": "PPSA14698_00",
@@ -57800,6 +57824,22 @@
     "publisherId": "UP6778"
   },
   {
+    "titleId": "PPSA16067_00",
+    "conceptId": 10008222,
+    "name": "Alchemy Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16068_00",
+    "conceptId": 10008222,
+    "name": "Alchemy Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16069_00",
     "conceptId": 10007986,
     "name": "Stay Out of the House",
@@ -59601,6 +59641,14 @@
   },
   {
     "titleId": "PPSA17194_00",
+    "conceptId": 10008696,
+    "name": "Quantum: Recharged",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17195_00",
     "conceptId": 10008696,
     "name": "Quantum: Recharged",
     "contentId": null,
