@@ -33251,7 +33251,7 @@
     "titleId": "PPSA08346_00",
     "conceptId": 10005364,
     "name": "Tower of Fantasy",
-    "contentId": null,
+    "contentId": "UP5337-PPSA08346_00-HOTTA00000000001",
     "region": "UP",
     "publisherId": "UP5337"
   },
@@ -33259,7 +33259,7 @@
     "titleId": "PPSA08348_00",
     "conceptId": 10005364,
     "name": "Tower of Fantasy",
-    "contentId": null,
+    "contentId": "EP5518-PPSA08348_00-HOTTA00000000001",
     "region": "EP",
     "publisherId": "EP5518"
   },
@@ -37782,6 +37782,22 @@
     "contentId": "UP4139-PPSA09193_00-CITIESSKYLINESNA",
     "region": "UP",
     "publisherId": "UP4139"
+  },
+  {
+    "titleId": "PPSA09194_00",
+    "conceptId": 10005730,
+    "name": "Baby Shark\u2122: Sing & Swim Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09195_00",
+    "conceptId": 10005730,
+    "name": "Baby Shark\u2122: Sing & Swim Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09196_00",
@@ -46214,6 +46230,22 @@
     "contentId": "JP0089-PPSA10792_00-8837605581079659",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA10795_00",
+    "conceptId": 10005927,
+    "name": "Paleo Pines PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2080"
+  },
+  {
+    "titleId": "PPSA10796_00",
+    "conceptId": 10005927,
+    "name": "Paleo Pines PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1877"
   },
   {
     "titleId": "PPSA10797_00",
@@ -55640,6 +55672,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA14717_00",
+    "conceptId": 10007685,
+    "name": "My Time at Sandrock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14723_00",
     "conceptId": 10002313,
     "name": "The Crew Motorfest",
@@ -57160,6 +57200,14 @@
     "publisherId": "EP8689"
   },
   {
+    "titleId": "PPSA15801_00",
+    "conceptId": 229797,
+    "name": "Kentucky Route Zero: TV Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15802_00",
     "conceptId": 229797,
     "name": "Kentucky Route Zero: TV Edition",
@@ -57169,6 +57217,14 @@
   },
   {
     "titleId": "PPSA15803_00",
+    "conceptId": 229797,
+    "name": "Kentucky Route Zero: TV Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15804_00",
     "conceptId": 229797,
     "name": "Kentucky Route Zero: TV Edition",
     "contentId": null,
@@ -57939,17 +57995,17 @@
     "titleId": "PPSA16088_00",
     "conceptId": 10007981,
     "name": "Fluffy Milo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA16088_00-FLUFFYMILO000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA16089_00",
     "conceptId": 10007981,
     "name": "Fluffy Milo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA16089_00-FLUFFYMILO000000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA16100_00",
