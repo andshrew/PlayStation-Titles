@@ -6912,6 +6912,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA02884_00",
+    "conceptId": 10001683,
+    "name": "Nour: Play With Your Food",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02891_00",
     "conceptId": 10001193,
     "name": "On The Road",
@@ -40578,10 +40586,10 @@
   {
     "titleId": "PPSA09768_00",
     "conceptId": 10005987,
-    "name": "LEGEND BOWL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Legend Bowl",
+    "contentId": "UP5155-PPSA09768_00-LEGENDBOWL000000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA09769_00",
@@ -49440,12 +49448,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11450_00",
+    "conceptId": 10006584,
+    "name": "All Mighty Tower",
+    "contentId": "UP7335-PPSA11450_00-4122682322324324",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA11451_00",
     "conceptId": 10006584,
     "name": "All Mighty Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11451_00-6346026585220890",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA11494_00",
@@ -51192,6 +51208,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13280_00",
+    "conceptId": 10007142,
+    "name": "\u8d85\u6b21\u5143\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30cc GameMaker R:Evolution",
+    "contentId": "JP0031-PPSA13280_00-CHNEPMAKERSBR001",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
+    "titleId": "PPSA13284_00",
+    "conceptId": 10007142,
+    "name": "\u8d85\u6b21\u5143\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30cc GameMaker R:Evolution \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0031-PPSA13284_00-DXCONTENTSND0001",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
+    "titleId": "PPSA13285_00",
+    "conceptId": 10007142,
+    "name": "\u8d85\u6b21\u5143\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30cc GameMaker R:Evolution \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
+    "contentId": "JP0031-PPSA13285_00-DXCONTENTART0001",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
     "titleId": "PPSA13286_00",
     "conceptId": 10002805,
     "name": "Carrion",
@@ -52418,10 +52458,10 @@
   {
     "titleId": "PPSA13622_00",
     "conceptId": 10007271,
-    "name": "Sven \u2013 completely screwed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sven - Completely Screwed",
+    "contentId": "EP3024-PPSA13622_00-SVENBOMWOLLENEU5",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA13623_00",
@@ -55442,10 +55482,10 @@
   {
     "titleId": "PPSA14508_00",
     "conceptId": 10006845,
-    "name": "Koa and the Five Pirates of Mara",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b3\u30a2\u3068\u30de\u30fc\u30e9\u306e5\u4eba\u306e\u6d77\u8cca",
+    "contentId": "JP1392-PPSA14508_00-KOA5PIRATESPS5JP",
+    "region": "JP",
+    "publisherId": "JP1392"
   },
   {
     "titleId": "PPSA14509_00",
@@ -55675,6 +55715,22 @@
     "titleId": "PPSA14717_00",
     "conceptId": 10007685,
     "name": "My Time at Sandrock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14720_00",
+    "conceptId": 10007146,
+    "name": "BQM \u30d6\u30ed\u30c3\u30af\u30af\u30a8\u30b9\u30c8\u30fb\u30e1\u30fc\u30ab\u30fc Remastered",
+    "contentId": "JP2043-PPSA14720_00-0115706329262644",
+    "region": "JP",
+    "publisherId": "JP2043"
+  },
+  {
+    "titleId": "PPSA14722_00",
+    "conceptId": 10007146,
+    "name": "BQM - BlockQuest Maker: Remastered",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -55918,6 +55974,22 @@
     "contentId": "UP4488-PPSA15173_00-0338975894246736",
     "region": "UP",
     "publisherId": "UP4488"
+  },
+  {
+    "titleId": "PPSA15174_00",
+    "conceptId": 10001203,
+    "name": "MONOCHROME MBOBIUS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15175_00",
+    "conceptId": 10001203,
+    "name": "MONOCHROME MBOBIUS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15189_00",
@@ -56347,17 +56419,17 @@
     "titleId": "PPSA15396_00",
     "conceptId": 10007981,
     "name": "Fluffy Milo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA15396_00-FLUFFYMILO000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA15397_00",
     "conceptId": 10007981,
     "name": "Fluffy Milo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA15397_00-FLUFFYMILO000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA15400_00",
@@ -57064,6 +57136,22 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA15723_00",
+    "conceptId": 10008121,
+    "name": "Chess Royal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15724_00",
+    "conceptId": 10008121,
+    "name": "Chess Royal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15737_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo Demo",
@@ -57522,18 +57610,18 @@
   {
     "titleId": "PPSA15905_00",
     "conceptId": 10008142,
-    "name": "Zombie Soup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30be\u30f3\u30d3\u30b9\u30fc\u30d7",
+    "contentId": "JP7769-PPSA15905_00-ZOMBIESOUPJP0000",
+    "region": "JP",
+    "publisherId": "JP7769"
   },
   {
     "titleId": "PPSA15906_00",
     "conceptId": 10008142,
     "name": "Zombie Soup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7815-PPSA15906_00-ZOMBIESOUPJA0000",
+    "region": "HP",
+    "publisherId": "HP7815"
   },
   {
     "titleId": "PPSA15907_00",
@@ -59432,6 +59520,22 @@
     "publisherId": "EP1555"
   },
   {
+    "titleId": "PPSA16783_00",
+    "conceptId": 10005987,
+    "name": "Legend Bowl Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
+    "titleId": "PPSA16784_00",
+    "conceptId": 10005987,
+    "name": "Legend Bowl Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5335"
+  },
+  {
     "titleId": "PPSA16794_00",
     "conceptId": 10008294,
     "name": "Placid Plastic Duck Simulator",
@@ -59624,6 +59728,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16973_00",
+    "conceptId": 10008576,
+    "name": "Virgo Versus The Zodiac",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16975_00",
+    "conceptId": 10008576,
+    "name": "Virgo Versus The Zodiac",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16986_00",
     "conceptId": 10007151,
     "name": "CRYMACHINA \u615f\u54ed\u5947\u6a5f \u6578\u4f4d\u7248\u7f8e\u8853\u8a2d\u5b9a\u96c6",
@@ -59790,6 +59910,22 @@
     "contentId": "HP6691-PPSA17158_00-METADUDE000PS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17184_00",
+    "conceptId": 10008694,
+    "name": "Duck Race",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17185_00",
+    "conceptId": 10008694,
+    "name": "Duck Race",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17194_00",
