@@ -27378,18 +27378,18 @@
   {
     "titleId": "PPSA07142_00",
     "conceptId": 10004820,
-    "name": "Skabma - Snowfall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sk\u00e1bma\u2122 - Snowfall",
+    "contentId": "UP1309-PPSA07142_00-6795614752132151",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA07143_00",
     "conceptId": 10004820,
-    "name": "Skabma - Snowfall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sk\u00e1bma\u2122 - Snowfall",
+    "contentId": "EP1302-PPSA07143_00-0278752010533682",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA07144_00",
@@ -29502,6 +29502,14 @@
     "contentId": "UP3763-PPSA07585_00-ROAD96MILE0USPS5",
     "region": "UP",
     "publisherId": "UP3763"
+  },
+  {
+    "titleId": "PPSA07586_00",
+    "conceptId": 10004226,
+    "name": "Sea of Stars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07588_00",
@@ -35715,17 +35723,17 @@
     "titleId": "PPSA08829_00",
     "conceptId": 10005578,
     "name": "The Dragoness: Command of the Flame",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4293-PPSA08829_00-DRAGPS5SIEE00000",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA08830_00",
     "conceptId": 10005578,
     "name": "The Dragoness: Command of the Flame",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA08830_00-DRAGPS5SIEA00000",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA08832_00",
@@ -37248,6 +37256,14 @@
     "publisherId": "EP7960"
   },
   {
+    "titleId": "PPSA09115_00",
+    "conceptId": 10004102,
+    "name": "Green Hell VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09116_00",
     "conceptId": 10005708,
     "name": "Snow Journey",
@@ -38712,6 +38728,14 @@
     "publisherId": "EP7551"
   },
   {
+    "titleId": "PPSA09374_00",
+    "conceptId": 10005391,
+    "name": "Let's Sing 2024",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09377_00",
     "conceptId": 201061,
     "name": "DEAD ISLAND 2",
@@ -39222,6 +39246,22 @@
     "contentId": "HP7354-PPSA09476_00-7843609864392156",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA09477_00",
+    "conceptId": 10005715,
+    "name": "Quake II",
+    "contentId": "UP1003-PPSA09477_00-QUAKE20000000000",
+    "region": "UP",
+    "publisherId": "UP1003"
+  },
+  {
+    "titleId": "PPSA09478_00",
+    "conceptId": 10005715,
+    "name": "Quake II",
+    "contentId": "EP1003-PPSA09478_00-QUAKE20000000000",
+    "region": "EP",
+    "publisherId": "EP1003"
   },
   {
     "titleId": "PPSA09479_00",
@@ -40594,10 +40634,10 @@
   {
     "titleId": "PPSA09769_00",
     "conceptId": 10005987,
-    "name": "LEGEND BOWL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Legend Bowl",
+    "contentId": "EP5335-PPSA09769_00-LEGENDBOWL000000",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA09772_00",
@@ -52096,6 +52136,30 @@
     "publisherId": "UP1475"
   },
   {
+    "titleId": "PPSA13530_00",
+    "conceptId": 10006834,
+    "name": "Food Truck Tycoon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13532_00",
+    "conceptId": 10006834,
+    "name": "Food Truck Tycoon",
+    "contentId": "HP6274-PPSA13532_00-0801505754970531",
+    "region": "HP",
+    "publisherId": "HP6274"
+  },
+  {
+    "titleId": "PPSA13533_00",
+    "conceptId": 10006834,
+    "name": "Food Truck Tycoon",
+    "contentId": "JP6207-PPSA13533_00-0983707732188794",
+    "region": "JP",
+    "publisherId": "JP6207"
+  },
+  {
     "titleId": "PPSA13536_00",
     "conceptId": 10005251,
     "name": "\u30ad\u30e5\u30fc\u30c6\u30a3\u30fc \u30cf\u30c3\u30af",
@@ -52466,10 +52530,10 @@
   {
     "titleId": "PPSA13623_00",
     "conceptId": 10007271,
-    "name": "Sven \u2013 completely screwed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sven - Completely Screwed",
+    "contentId": "UP3165-PPSA13623_00-SVENBOMWOLLENUS5",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA13628_00",
@@ -53996,8 +54060,8 @@
     "conceptId": 10004796,
     "name": "Smurfs Kart",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA14051_00",
@@ -54880,6 +54944,22 @@
     "publisherId": "UP7137"
   },
   {
+    "titleId": "PPSA14249_00",
+    "conceptId": 10004102,
+    "name": "Green Hell VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14250_00",
+    "conceptId": 10004102,
+    "name": "Green Hell VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14255_00",
     "conceptId": 10007550,
     "name": "Mediaset Infinity",
@@ -55683,17 +55763,17 @@
     "titleId": "PPSA14698_00",
     "conceptId": 10007748,
     "name": "Stray Gods: The Roleplaying Musical",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3864-PPSA14698_00-STRAYGODSPS500NA",
+    "region": "UP",
+    "publisherId": "UP3864"
   },
   {
     "titleId": "PPSA14699_00",
     "conceptId": 10007748,
     "name": "Stray Gods: The Roleplaying Musical",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3717-PPSA14699_00-STRAYGODSPS500EU",
+    "region": "EP",
+    "publisherId": "EP3717"
   },
   {
     "titleId": "PPSA14711_00",
@@ -55728,12 +55808,20 @@
     "publisherId": "JP2043"
   },
   {
+    "titleId": "PPSA14721_00",
+    "conceptId": 10007146,
+    "name": "BQM - BlockQuest Maker: Remastered",
+    "contentId": "UP1790-PPSA14721_00-0451462013594164",
+    "region": "UP",
+    "publisherId": "UP1790"
+  },
+  {
     "titleId": "PPSA14722_00",
     "conceptId": 10007146,
     "name": "BQM - BlockQuest Maker: Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1773-PPSA14722_00-0772576817021090",
+    "region": "EP",
+    "publisherId": "EP1773"
   },
   {
     "titleId": "PPSA14723_00",
@@ -57595,17 +57683,17 @@
     "titleId": "PPSA15903_00",
     "conceptId": 10008142,
     "name": "Zombie Soup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7788-PPSA15903_00-ZOMBIESOUPUS0000",
+    "region": "UP",
+    "publisherId": "UP7788"
   },
   {
     "titleId": "PPSA15904_00",
     "conceptId": 10008142,
     "name": "Zombie Soup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7786-PPSA15904_00-ZOMBIESOUPEU0000",
+    "region": "EP",
+    "publisherId": "EP7786"
   },
   {
     "titleId": "PPSA15905_00",
@@ -57638,6 +57726,14 @@
     "contentId": "EP4886-PPSA15908_00-0137544498260848",
     "region": "EP",
     "publisherId": "EP4886"
+  },
+  {
+    "titleId": "PPSA15909_00",
+    "conceptId": 10008167,
+    "name": "Gravity Oddity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15918_00",
@@ -58291,6 +58387,22 @@
     "titleId": "PPSA16149_00",
     "conceptId": 205331,
     "name": "WWE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16150_00",
+    "conceptId": 10008243,
+    "name": "No Place Like Home",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16151_00",
+    "conceptId": 10008243,
+    "name": "No Place Like Home",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -59216,6 +59328,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16648_00",
+    "conceptId": 10007274,
+    "name": "The Isle Tide Hotel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16649_00",
+    "conceptId": 10007274,
+    "name": "The Isle Tide Hotel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16650_00",
     "conceptId": 10000870,
     "name": "MemoryLane",
@@ -59246,6 +59374,14 @@
     "contentId": "UP5269-PPSA16655_00-0939463913547729",
     "region": "UP",
     "publisherId": "UP5269"
+  },
+  {
+    "titleId": "PPSA16656_00",
+    "conceptId": 10007274,
+    "name": "The Isle Tide Hotel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16661_00",
@@ -59422,6 +59558,14 @@
     "contentId": "HP6691-PPSA16707_00-CUBIFIGURESPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA16719_00",
+    "conceptId": 10005578,
+    "name": "The Dragoness: Command of the Flame",
+    "contentId": "HP6394-PPSA16719_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP6394"
   },
   {
     "titleId": "PPSA16727_00",
@@ -59736,6 +59880,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16974_00",
+    "conceptId": 10008576,
+    "name": "Virgo Versus The Zodiac",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16975_00",
     "conceptId": 10008576,
     "name": "Virgo Versus The Zodiac",
@@ -59758,6 +59910,14 @@
     "contentId": "EP3892-PPSA17009_00-UNDOGDETECTIVEUK",
     "region": "EP",
     "publisherId": "EP3892"
+  },
+  {
+    "titleId": "PPSA17010_00",
+    "conceptId": 10008167,
+    "name": "Gravity Oddity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17044_00",
@@ -59915,17 +60075,17 @@
     "titleId": "PPSA17184_00",
     "conceptId": 10008694,
     "name": "Duck Race",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4802-PPSA17184_00-0207240641548203",
+    "region": "UP",
+    "publisherId": "UP4802"
   },
   {
     "titleId": "PPSA17185_00",
     "conceptId": 10008694,
     "name": "Duck Race",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4977-PPSA17185_00-0777364511680350",
+    "region": "EP",
+    "publisherId": "EP4977"
   },
   {
     "titleId": "PPSA17194_00",
