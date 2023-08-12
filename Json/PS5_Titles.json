@@ -9355,7 +9355,7 @@
     "titleId": "PPSA03388_00",
     "conceptId": 10002689,
     "name": "Atlas Fallen",
-    "contentId": null,
+    "contentId": "EP4133-PPSA03388_00-ATLASFALLEN00000",
     "region": "EP",
     "publisherId": "EP4133"
   },
@@ -9363,7 +9363,7 @@
     "titleId": "PPSA03390_00",
     "conceptId": 10002689,
     "name": "Atlas Fallen",
-    "contentId": null,
+    "contentId": "UP4133-PPSA03390_00-ATLASFALLEN00000",
     "region": "UP",
     "publisherId": "UP4133"
   },
@@ -37256,6 +37256,14 @@
     "publisherId": "EP7960"
   },
   {
+    "titleId": "PPSA09114_00",
+    "conceptId": 10004102,
+    "name": "Green Hell VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09115_00",
     "conceptId": 10004102,
     "name": "Green Hell VR",
@@ -52139,9 +52147,17 @@
     "titleId": "PPSA13530_00",
     "conceptId": 10006834,
     "name": "Food Truck Tycoon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6290-PPSA13530_00-0265072268187706",
+    "region": "EP",
+    "publisherId": "EP6290"
+  },
+  {
+    "titleId": "PPSA13531_00",
+    "conceptId": 10006834,
+    "name": "Food Truck Tycoon",
+    "contentId": "UP6291-PPSA13531_00-0404501670143935",
+    "region": "UP",
+    "publisherId": "UP6291"
   },
   {
     "titleId": "PPSA13532_00",
@@ -55028,24 +55044,24 @@
     "conceptId": 10007533,
     "name": "Trine 5: A Clockwork Conspiracy",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP2880"
   },
   {
     "titleId": "PPSA14275_00",
     "conceptId": 10007533,
     "name": "Trine 5: A Clockwork Conspiracy",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4389"
   },
   {
     "titleId": "PPSA14276_00",
     "conceptId": 10007533,
     "name": "Trine 5: A Clockwork Conspiracy",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA14279_00",
@@ -55990,6 +56006,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP7182"
+  },
+  {
+    "titleId": "PPSA14953_00",
+    "conceptId": 10007830,
+    "name": "PARAGON: THE OVERPRIME",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14971_00",
@@ -56971,17 +56995,17 @@
     "titleId": "PPSA15565_00",
     "conceptId": 10008052,
     "name": "Acceptance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15565_00-ACCEPTANCERATAGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15566_00",
     "conceptId": 10008052,
     "name": "Acceptance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15566_00-ACCEPTANCERATAGA",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15567_00",
