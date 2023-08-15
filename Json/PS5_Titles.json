@@ -48008,6 +48008,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA11128_00",
+    "conceptId": 10006481,
+    "name": "Ape Escape P",
+    "contentId": "EP9000-PPSA11128_00-UCES000450000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA11129_00",
+    "conceptId": 10006481,
+    "name": "\u30b5\u30eb\u30b2\u30c3\u30c1\u30e5P!",
+    "contentId": "JP9000-PPSA11129_00-UCJS100040000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA11132_00",
     "conceptId": 10006482,
     "name": "Ape Academy 2",
@@ -53362,8 +53378,8 @@
   {
     "titleId": "PPSA13858_00",
     "conceptId": 10007383,
-    "name": "Black Skylands: Founders Edition",
-    "contentId": null,
+    "name": "Black Skylands",
+    "contentId": "EP0096-PPSA13858_00-0848998198634618",
     "region": "EP",
     "publisherId": "EP0096"
   },
@@ -54010,8 +54026,8 @@
   {
     "titleId": "PPSA14033_00",
     "conceptId": 10007472,
-    "name": "EVERSPACE 2",
-    "contentId": null,
+    "name": "Everspace 2",
+    "contentId": "EP1547-PPSA14033_00-0169394001813237",
     "region": "EP",
     "publisherId": "EP1547"
   },
@@ -56088,6 +56104,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15160_00",
+    "conceptId": 10007882,
+    "name": "Astro Flame: Starfighter",
+    "contentId": "JP1932-PPSA15160_00-SYPS5ASTROFLAMES",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA15163_00",
+    "conceptId": 10007882,
+    "name": "Astro Flame: Starfighter",
+    "contentId": "HP1792-PPSA15163_00-SYPS5ASTROFLAMES",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA15172_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
@@ -56211,6 +56243,30 @@
     "titleId": "PPSA15230_00",
     "conceptId": 10007914,
     "name": "How 2 Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15231_00",
+    "conceptId": 10007915,
+    "name": "Pandaty",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15232_00",
+    "conceptId": 10007915,
+    "name": "Pandaty",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15233_00",
+    "conceptId": 10007915,
+    "name": "Pandaty",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -57803,6 +57859,22 @@
     "titleId": "PPSA15920_00",
     "conceptId": 10008173,
     "name": "Creepy Tale: Ingrid Penance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15929_00",
+    "conceptId": 10008170,
+    "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15930_00",
+    "conceptId": 10008170,
+    "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -60371,6 +60443,38 @@
     "titleId": "PPSA17487_00",
     "conceptId": 10008727,
     "name": "Otoko Cross: Pretty Boys Dropout!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17490_00",
+    "conceptId": 10008814,
+    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17491_00",
+    "conceptId": 10008814,
+    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17492_00",
+    "conceptId": 10008814,
+    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17493_00",
+    "conceptId": 10008814,
+    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
     "contentId": null,
     "region": null,
     "publisherId": null
