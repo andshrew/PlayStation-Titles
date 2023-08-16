@@ -29360,6 +29360,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA07551_00",
+    "conceptId": 10005032,
+    "name": "MediEvil: Resurrection",
+    "contentId": "EP9000-PPSA07551_00-UCES000060000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
     "titleId": "PPSA07556_00",
     "conceptId": 10005034,
     "name": "No Heroes Allowed!",
@@ -32515,17 +32523,17 @@
     "titleId": "PPSA08206_00",
     "conceptId": 10005309,
     "name": "Moving Out 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4064-PPSA08206_00-1007908867100773",
+    "region": "EP",
+    "publisherId": "EP4064"
   },
   {
     "titleId": "PPSA08207_00",
     "conceptId": 10005309,
     "name": "Moving Out 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4064-PPSA08207_00-1718605728771034",
+    "region": "UP",
+    "publisherId": "UP4064"
   },
   {
     "titleId": "PPSA08208_00",
@@ -35120,6 +35128,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08697_00",
+    "conceptId": 10005512,
+    "name": "Pursuit Force: Extreme Justice",
+    "contentId": "EP9000-PPSA08697_00-UCES006940000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
     "titleId": "PPSA08698_00",
     "conceptId": 10005513,
     "name": "Wild Arms 2",
@@ -37267,17 +37283,17 @@
     "titleId": "PPSA09114_00",
     "conceptId": 10004102,
     "name": "Green Hell VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7080-PPSA09114_00-GREENHELLVR00000",
+    "region": "EP",
+    "publisherId": "EP7080"
   },
   {
     "titleId": "PPSA09115_00",
     "conceptId": 10004102,
     "name": "Green Hell VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7084-PPSA09115_00-GREENHELLVR00000",
+    "region": "UP",
+    "publisherId": "UP7084"
   },
   {
     "titleId": "PPSA09116_00",
@@ -40235,6 +40251,14 @@
     "titleId": "PPSA09679_00",
     "conceptId": 10001609,
     "name": "Suicide Squad: Kill the Justice League",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09681_00",
+    "conceptId": 10005891,
+    "name": "Crossfire: Sierra Squad",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -48008,6 +48032,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA11127_00",
+    "conceptId": 10006481,
+    "name": "Ape Escape: On The Loose",
+    "contentId": "UP9000-PPSA11127_00-UCUS986090000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA11128_00",
     "conceptId": 10006481,
     "name": "Ape Escape P",
@@ -48022,6 +48054,14 @@
     "contentId": "JP9000-PPSA11129_00-UCJS100040000000",
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA11131_00",
+    "conceptId": 10006481,
+    "name": "Ape Escape P",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11132_00",
@@ -53370,8 +53410,8 @@
   {
     "titleId": "PPSA13857_00",
     "conceptId": 10007383,
-    "name": "Black Skylands: Founders Edition",
-    "contentId": null,
+    "name": "Black Skylands",
+    "contentId": "UP0097-PPSA13857_00-0384782198093985",
     "region": "UP",
     "publisherId": "UP0097"
   },
@@ -54987,17 +55027,17 @@
     "titleId": "PPSA14249_00",
     "conceptId": 10004102,
     "name": "Green Hell VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7051-PPSA14249_00-GREENHELLVR00000",
+    "region": "JP",
+    "publisherId": "JP7051"
   },
   {
     "titleId": "PPSA14250_00",
     "conceptId": 10004102,
     "name": "Green Hell VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7099-PPSA14250_00-GREENHELLVR00000",
+    "region": "HP",
+    "publisherId": "HP7099"
   },
   {
     "titleId": "PPSA14255_00",
@@ -56091,17 +56131,17 @@
     "titleId": "PPSA15156_00",
     "conceptId": 10007882,
     "name": "Astro Flame: Starfighter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA15156_00-SYPS5ASTROFLAMES",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA15157_00",
     "conceptId": 10007882,
     "name": "Astro Flame: Starfighter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA15157_00-SYPS5ASTROFLAMES",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA15160_00",
@@ -56251,25 +56291,25 @@
     "titleId": "PPSA15231_00",
     "conceptId": 10007915,
     "name": "Pandaty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7656-PPSA15231_00-0942828338497185",
+    "region": "UP",
+    "publisherId": "UP7656"
   },
   {
     "titleId": "PPSA15232_00",
     "conceptId": 10007915,
     "name": "Pandaty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7654-PPSA15232_00-0400055876215662",
+    "region": "EP",
+    "publisherId": "EP7654"
   },
   {
     "titleId": "PPSA15233_00",
     "conceptId": 10007915,
     "name": "Pandaty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7637-PPSA15233_00-0989641317845427",
+    "region": "JP",
+    "publisherId": "JP7637"
   },
   {
     "titleId": "PPSA15239_00",
@@ -57016,6 +57056,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15525_00",
+    "conceptId": 10008037,
+    "name": "The Making of Karateka PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15541_00",
     "conceptId": 10008045,
     "name": "Little Disaster",
@@ -57250,8 +57298,8 @@
   {
     "titleId": "PPSA15671_00",
     "conceptId": 10007472,
-    "name": "EVERSPACE 2",
-    "contentId": null,
+    "name": "Everspace 2",
+    "contentId": "UP1562-PPSA15671_00-0169394001813237",
     "region": "UP",
     "publisherId": "UP1562"
   },
@@ -57864,6 +57912,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15921_00",
+    "conceptId": 10008173,
+    "name": "Creepy Tale: Ingrid Penance",
+    "contentId": "JP1932-PPSA15921_00-SYPS5CREEPYTALE3",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA15922_00",
+    "conceptId": 10008173,
+    "name": "Creepy Tale: Ingrid Penance",
+    "contentId": "HP1792-PPSA15922_00-SYPS5CREEPYTALE3",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA15929_00",
     "conceptId": 10008170,
     "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
@@ -58062,6 +58126,22 @@
     "contentId": "EP2955-PPSA16019_00-DDGBASEGAME00000",
     "region": "EP",
     "publisherId": "EP2955"
+  },
+  {
+    "titleId": "PPSA16020_00",
+    "conceptId": 10004911,
+    "name": "Mortal Kombat 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16021_00",
+    "conceptId": 10004911,
+    "name": "Mortal Kombat 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16026_00",
@@ -59452,16 +59532,16 @@
     "conceptId": 10007274,
     "name": "The Isle Tide Hotel",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4459"
   },
   {
     "titleId": "PPSA16649_00",
     "conceptId": 10007274,
     "name": "The Isle Tide Hotel",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA16650_00",
@@ -59500,8 +59580,8 @@
     "conceptId": 10007274,
     "name": "The Isle Tide Hotel",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "HP",
+    "publisherId": "HP4459"
   },
   {
     "titleId": "PPSA16661_00",
