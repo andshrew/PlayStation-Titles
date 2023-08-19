@@ -18587,7 +18587,7 @@
     "titleId": "PPSA05328_00",
     "conceptId": 10002719,
     "name": "The Texas Chain Saw Massacre",
-    "contentId": null,
+    "contentId": "EP2165-PPSA05328_00-BBQGAME000000000",
     "region": "EP",
     "publisherId": "EP2165"
   },
@@ -30139,9 +30139,9 @@
     "titleId": "PPSA07721_00",
     "conceptId": 10005071,
     "name": "Shadow Gambit: The Cursed Crew",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7643-PPSA07721_00-MIMISKAREU000000",
+    "region": "EP",
+    "publisherId": "EP7643"
   },
   {
     "titleId": "PPSA07726_00",
@@ -44746,16 +44746,16 @@
   {
     "titleId": "PPSA10508_00",
     "conceptId": 10006239,
-    "name": "Madden NFL 24 Standard Edition",
-    "contentId": null,
+    "name": "Madden NFL 24",
+    "contentId": "UP0006-PPSA10508_00-MADDENNFL24GAME1",
     "region": "UP",
     "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA10509_00",
     "conceptId": 10006239,
-    "name": "Madden NFL 24 Standard Edition",
-    "contentId": null,
+    "name": "Madden NFL 24",
+    "contentId": "EP0006-PPSA10509_00-MADDENNFL24GAME1",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -51267,9 +51267,9 @@
     "titleId": "PPSA13235_00",
     "conceptId": 10007122,
     "name": "Neko Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA13235_00-NEKOJOURNEY00000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA13238_00",
@@ -51706,10 +51706,10 @@
   {
     "titleId": "PPSA13360_00",
     "conceptId": 229879,
-    "name": "ALVO VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Alvo",
+    "contentId": "EP5971-PPSA13360_00-0816866921226432",
+    "region": "EP",
+    "publisherId": "EP5971"
   },
   {
     "titleId": "PPSA13367_00",
@@ -53714,10 +53714,10 @@
   {
     "titleId": "PPSA13895_00",
     "conceptId": 10005071,
-    "name": "Shadow Gambit: The Cursed Crew",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow Gambit: \u30ab\u30ea\u30d6\u306e\u546a\u3044",
+    "contentId": "JP7626-PPSA13895_00-MIMISKARJP000000",
+    "region": "JP",
+    "publisherId": "JP7626"
   },
   {
     "titleId": "PPSA13896_00",
@@ -53886,6 +53886,14 @@
     "contentId": "HP7962-PPSA13924_00-0729740889813709",
     "region": "HP",
     "publisherId": "HP7962"
+  },
+  {
+    "titleId": "PPSA13939_00",
+    "conceptId": 10005437,
+    "name": "I'm in Love With Your Dead Grandmother",
+    "contentId": "EP7603-PPSA13939_00-0432732773951897",
+    "region": "EP",
+    "publisherId": "EP7603"
   },
   {
     "titleId": "PPSA13943_00",
@@ -56296,6 +56304,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA15089_00",
+    "conceptId": 10007866,
+    "name": "Embraced By Autumn",
+    "contentId": "UP0891-PPSA15089_00-EMBRACEDBYAUTURG",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
     "titleId": "PPSA15156_00",
     "conceptId": 10007882,
     "name": "Astro Flame: Starfighter",
@@ -57331,17 +57347,25 @@
     "titleId": "PPSA15562_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0141-PPSA15562_00-0331335934095464",
+    "region": "JP",
+    "publisherId": "JP0141"
+  },
+  {
+    "titleId": "PPSA15563_00",
+    "conceptId": 10002172,
+    "name": "Wayfinder",
+    "contentId": "HP2097-PPSA15563_00-0016377481173066",
+    "region": "HP",
+    "publisherId": "HP2097"
   },
   {
     "titleId": "PPSA15564_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2097-PPSA15564_00-0309737416345332",
+    "region": "EP",
+    "publisherId": "EP2097"
   },
   {
     "titleId": "PPSA15565_00",
@@ -57494,6 +57518,22 @@
     "contentId": "UP1681-PPSA15632_00-GF1000523PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA15633_00",
+    "conceptId": 10008069,
+    "name": "Lost Eidolons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15634_00",
+    "conceptId": 10008069,
+    "name": "Lost Eidolons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15648_00",
@@ -57704,12 +57744,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15766_00",
+    "conceptId": 10005667,
+    "name": "DarkPlague",
+    "contentId": "UP5877-PPSA15766_00-0905114999115851",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA15767_00",
     "conceptId": 10005667,
-    "name": "Black Death : A Tragic Dirge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DarkPlague",
+    "contentId": "EP8070-PPSA15767_00-0812240768159230",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA15782_00",
@@ -57947,9 +57995,17 @@
     "titleId": "PPSA15849_00",
     "conceptId": 10008157,
     "name": "Sable's Grimoire: Man And Elf",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA15849_00-SABLESGRIMOIREME",
+    "region": "EP",
+    "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA15850_00",
+    "conceptId": 10008157,
+    "name": "Sable's Grimoire: Man And Elf",
+    "contentId": "UP6472-PPSA15850_00-SABLESGRIMOIREME",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA15853_00",
@@ -58938,18 +58994,18 @@
   {
     "titleId": "PPSA16200_00",
     "conceptId": 232211,
-    "name": "Honor and Duty: D-Day",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "D-Day Enhanced",
+    "contentId": "UP2181-PPSA16200_00-SIEADDEBETA28382",
+    "region": "UP",
+    "publisherId": "UP2181"
   },
   {
     "titleId": "PPSA16201_00",
     "conceptId": 232211,
-    "name": "Honor and Duty: D-Day",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "D-Day Enhanced",
+    "contentId": "EP3150-PPSA16201_00-SIEEDDEBETA28382",
+    "region": "EP",
+    "publisherId": "EP3150"
   },
   {
     "titleId": "PPSA16202_00",
@@ -59294,6 +59350,14 @@
     "contentId": "JP9000-PPSA16430_00-SIPS600210000000",
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA16435_00",
+    "conceptId": 229879,
+    "name": "ALVO VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16438_00",
@@ -60467,17 +60531,17 @@
     "titleId": "PPSA17087_00",
     "conceptId": 10007828,
     "name": "Chrome Wolf",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2500-PPSA17087_00-US0CHROMEW000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA17088_00",
     "conceptId": 10007828,
     "name": "Chrome Wolf",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA17088_00-EU0CHROMEW000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA17089_00",
@@ -60923,6 +60987,318 @@
     "titleId": "PPSA17493_00",
     "conceptId": 10008814,
     "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17503_00",
+    "conceptId": 10008817,
+    "name": "Paint Ball",
+    "contentId": "UP7543-PPSA17503_00-0772623383640056",
+    "region": "UP",
+    "publisherId": "UP7543"
+  },
+  {
+    "titleId": "PPSA17504_00",
+    "conceptId": 10008817,
+    "name": "Paint Ball",
+    "contentId": "EP7541-PPSA17504_00-0270084816951260",
+    "region": "EP",
+    "publisherId": "EP7541"
+  },
+  {
+    "titleId": "PPSA17542_00",
+    "conceptId": 10008666,
+    "name": "UnderDungeon",
+    "contentId": "JP7993-PPSA17542_00-0569813249666595",
+    "region": "JP",
+    "publisherId": "JP7993"
+  },
+  {
+    "titleId": "PPSA17560_00",
+    "conceptId": 10007151,
+    "name": "CRYMACHINA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17591_00",
+    "conceptId": 10008766,
+    "name": "Whispike Survivors",
+    "contentId": "UP6486-PPSA17591_00-GRIMORIOOFGAMES0",
+    "region": "UP",
+    "publisherId": "UP6486"
+  },
+  {
+    "titleId": "PPSA17592_00",
+    "conceptId": 10008766,
+    "name": "Whispike Survivors",
+    "contentId": "EP6484-PPSA17592_00-GRIMORIOOFGAMES0",
+    "region": "EP",
+    "publisherId": "EP6484"
+  },
+  {
+    "titleId": "PPSA17593_00",
+    "conceptId": 10008766,
+    "name": "Whispike Survivors",
+    "contentId": "JP6413-PPSA17593_00-GRIMORIOOFGAMES0",
+    "region": "JP",
+    "publisherId": "JP6413"
+  },
+  {
+    "titleId": "PPSA17594_00",
+    "conceptId": 10008766,
+    "name": "Whispike Survivors",
+    "contentId": "HP6478-PPSA17594_00-GRIMORIOOFGAMES0",
+    "region": "HP",
+    "publisherId": "HP6478"
+  },
+  {
+    "titleId": "PPSA17658_00",
+    "conceptId": 10006283,
+    "name": "CubicBan",
+    "contentId": "EP6694-PPSA17658_00-CUBICBAN00PS50EU",
+    "region": "EP",
+    "publisherId": "EP6694"
+  },
+  {
+    "titleId": "PPSA17659_00",
+    "conceptId": 10006283,
+    "name": "CubicBan",
+    "contentId": "UP6695-PPSA17659_00-CUBICBAN00PS50NA",
+    "region": "UP",
+    "publisherId": "UP6695"
+  },
+  {
+    "titleId": "PPSA17660_00",
+    "conceptId": 10006283,
+    "name": "CubicBan",
+    "contentId": "JP6627-PPSA17660_00-CUBICBAN00PS50JP",
+    "region": "JP",
+    "publisherId": "JP6627"
+  },
+  {
+    "titleId": "PPSA17661_00",
+    "conceptId": 10006283,
+    "name": "CubicBan",
+    "contentId": "HP6691-PPSA17661_00-CUBICBAN00PS50AS",
+    "region": "HP",
+    "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17664_00",
+    "conceptId": 10007262,
+    "name": "Defend the Rook",
+    "contentId": "UP4713-PPSA17664_00-0350013113594921",
+    "region": "UP",
+    "publisherId": "UP4713"
+  },
+  {
+    "titleId": "PPSA17665_00",
+    "conceptId": 10007262,
+    "name": "Defend the Rook",
+    "contentId": "EP4886-PPSA17665_00-0930099870275631",
+    "region": "EP",
+    "publisherId": "EP4886"
+  },
+  {
+    "titleId": "PPSA17727_00",
+    "conceptId": 10005806,
+    "name": "Shotgun King: The Final Checkmate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17761_00",
+    "conceptId": 10000361,
+    "name": "Potata: Fairy Flower",
+    "contentId": "HP1792-PPSA17761_00-SYPS5POTATAFAIRY",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA17778_00",
+    "conceptId": 10002182,
+    "name": "HAWKED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17796_00",
+    "conceptId": 229319,
+    "name": "Laws of Machine",
+    "contentId": "UP1570-PPSA17796_00-0642459221292714",
+    "region": "UP",
+    "publisherId": "UP1570"
+  },
+  {
+    "titleId": "PPSA17824_00",
+    "conceptId": 10008831,
+    "name": "Drift City",
+    "contentId": "EP4312-PPSA17824_00-0196368782095052",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA17826_00",
+    "conceptId": 10008831,
+    "name": "Drift City",
+    "contentId": "UP4312-PPSA17826_00-0363677044666471",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA17827_00",
+    "conceptId": 10008831,
+    "name": "Drift City",
+    "contentId": "JP0089-PPSA17827_00-0159199168838830",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA17828_00",
+    "conceptId": 10008913,
+    "name": "Sushi Blast",
+    "contentId": "EP4312-PPSA17828_00-0471566755544543",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA17829_00",
+    "conceptId": 10008913,
+    "name": "Sushi Blast",
+    "contentId": "UP4312-PPSA17829_00-0687074866691485",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA17830_00",
+    "conceptId": 10008913,
+    "name": "Sushi Blast",
+    "contentId": "JP0089-PPSA17830_00-0276276746220891",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA17875_00",
+    "conceptId": 10005164,
+    "name": "Cubic Lines",
+    "contentId": "EP6694-PPSA17875_00-CUBICLINES0PS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
+  },
+  {
+    "titleId": "PPSA17876_00",
+    "conceptId": 10005164,
+    "name": "Cubic Lines",
+    "contentId": "UP6695-PPSA17876_00-CUBICLINES0PS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
+  },
+  {
+    "titleId": "PPSA17877_00",
+    "conceptId": 10005164,
+    "name": "Cubic Lines",
+    "contentId": "JP6627-PPSA17877_00-CUBICLINES0PS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
+  },
+  {
+    "titleId": "PPSA17878_00",
+    "conceptId": 10005164,
+    "name": "Cubic Lines",
+    "contentId": "HP6691-PPSA17878_00-CUBICLINES0PS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17890_00",
+    "conceptId": 10005437,
+    "name": "I'm in Love With Your Dead Grandmother",
+    "contentId": "UP7605-PPSA17890_00-0768750179768252",
+    "region": "UP",
+    "publisherId": "UP7605"
+  },
+  {
+    "titleId": "PPSA17903_00",
+    "conceptId": 10000886,
+    "name": "Horizon Forbidden West",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17931_00",
+    "conceptId": 233596,
+    "name": "Human Anatomy VR",
+    "contentId": "UP5269-PPSA17931_00-0461305816740622",
+    "region": "UP",
+    "publisherId": "UP5269"
+  },
+  {
+    "titleId": "PPSA17932_00",
+    "conceptId": 233596,
+    "name": "Human Anatomy VR",
+    "contentId": "EP5449-PPSA17932_00-0531458130008589",
+    "region": "EP",
+    "publisherId": "EP5449"
+  },
+  {
+    "titleId": "PPSA17960_00",
+    "conceptId": 10008878,
+    "name": "Kitty Krawler",
+    "contentId": "EP7938-PPSA17960_00-0216019864727543",
+    "region": "EP",
+    "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA18061_00",
+    "conceptId": 10005659,
+    "name": "on Sunday",
+    "contentId": "HP7967-PPSA18061_00-0526410829688509",
+    "region": "HP",
+    "publisherId": "HP7967"
+  },
+  {
+    "titleId": "PPSA18162_00",
+    "conceptId": 10005667,
+    "name": "DarkPlague",
+    "contentId": "JP5715-PPSA18162_00-0549575735792320",
+    "region": "JP",
+    "publisherId": "JP5715"
+  },
+  {
+    "titleId": "PPSA18163_00",
+    "conceptId": 10005667,
+    "name": "DarkPlague",
+    "contentId": "HP5777-PPSA18163_00-0219800660635739",
+    "region": "HP",
+    "publisherId": "HP5777"
+  },
+  {
+    "titleId": "PPSA18357_00",
+    "conceptId": 10008878,
+    "name": "Kitty Krawler",
+    "contentId": "UP7940-PPSA18357_00-0310819042908125",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA18422_00",
+    "conceptId": 233596,
+    "name": "Human Anatomy VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18423_00",
+    "conceptId": 233596,
+    "name": "Human Anatomy VR",
     "contentId": null,
     "region": null,
     "publisherId": null
