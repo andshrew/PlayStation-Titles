@@ -24986,18 +24986,18 @@
   {
     "titleId": "PPSA06634_00",
     "conceptId": 10004561,
-    "name": "WrestleQuest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wrestle Quest",
+    "contentId": "UP2908-PPSA06634_00-WRESTLEQUESTP5NA",
+    "region": "UP",
+    "publisherId": "UP2908"
   },
   {
     "titleId": "PPSA06635_00",
     "conceptId": 10004561,
-    "name": "WrestleQuest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wrestle Quest",
+    "contentId": "EP2770-PPSA06635_00-WRESTLEQUESTP5EU",
+    "region": "EP",
+    "publisherId": "EP2770"
   },
   {
     "titleId": "PPSA06636_00",
@@ -26656,12 +26656,28 @@
     "publisherId": "EP4492"
   },
   {
+    "titleId": "PPSA06978_00",
+    "conceptId": 10004744,
+    "name": "NARUTO X BORUTO \u30ca\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\u30b9\u30c8\u30fc\u30e0\u30b3\u30cd\u30af\u30b7\u30e7\u30f3\u30ba PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA06980_00",
     "conceptId": 10004744,
     "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS PS4 & PS5",
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA06981_00",
+    "conceptId": 10004744,
+    "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA06982_00",
@@ -37864,6 +37880,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA09189_00",
+    "conceptId": 10005670,
+    "name": "PAW Patrol World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09192_00",
     "conceptId": 10005732,
     "name": "Cities: Skylines Remastered",
@@ -41390,6 +41414,14 @@
     "contentId": "UP7876-PPSA09910_00-POSTAL4NOREGERTS",
     "region": "UP",
     "publisherId": "UP7876"
+  },
+  {
+    "titleId": "PPSA09911_00",
+    "conceptId": 10005977,
+    "name": "Ghostrunner 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA09912_00",
@@ -45318,6 +45350,14 @@
     "contentId": "UP0891-PPSA10591_00-RATALAGABILLY101",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA10595_00",
+    "conceptId": 10006270,
+    "name": "TEKKEN 8",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA10596_00",
@@ -51688,6 +51728,14 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA13339_00",
+    "conceptId": 10005891,
+    "name": "Crossfire: Sierra Squad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13340_00",
     "conceptId": 10006597,
     "name": "SIMPLE\u30b7\u30ea\u30fc\u30baG4U Vol.2 THE \u30c6\u30fc\u30d6\u30eb\u30b2\u30fc\u30e0 Deluxe Pack",
@@ -54331,7 +54379,7 @@
     "titleId": "PPSA14050_00",
     "conceptId": 10004796,
     "name": "Smurfs Kart",
-    "contentId": null,
+    "contentId": "EP4295-PPSA14050_00-SMURFKARTPS500EU",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -54339,9 +54387,9 @@
     "titleId": "PPSA14051_00",
     "conceptId": 10004796,
     "name": "Smurfs Kart",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1475-PPSA14051_00-SMURFKARTPS500US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA14052_00",
@@ -55643,17 +55691,17 @@
     "titleId": "PPSA14373_00",
     "conceptId": 10007627,
     "name": "Fort Solis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA14373_00-FORTSOLISPS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA14374_00",
     "conceptId": 10007627,
     "name": "Fort Solis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA14374_00-FORTSOLISPS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA14377_00",
@@ -56760,6 +56808,14 @@
     "publisherId": "EP7658"
   },
   {
+    "titleId": "PPSA15354_00",
+    "conceptId": 10007665,
+    "name": "Mirrored Souls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15363_00",
     "conceptId": 10005856,
     "name": "Omega Strikers",
@@ -57274,10 +57330,10 @@
   {
     "titleId": "PPSA15502_00",
     "conceptId": 10004561,
-    "name": "WrestleQuest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wrestle Quest",
+    "contentId": "HP2854-PPSA15502_00-WRESTLEQUESTP5AS",
+    "region": "HP",
+    "publisherId": "HP2854"
   },
   {
     "titleId": "PPSA15506_00",
@@ -57462,6 +57518,14 @@
     "contentId": "JP0013-PPSA15567_00-JP0IHANASHI00PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA15587_00",
+    "conceptId": 10008053,
+    "name": "Wild Seas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15590_00",
@@ -57726,6 +57790,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15729_00",
+    "conceptId": 10008114,
+    "name": "Train Sim World\u00ae 4: Standard Edition PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2866"
+  },
+  {
+    "titleId": "PPSA15730_00",
+    "conceptId": 10008114,
+    "name": "Train Sim World\u00ae 4: Standard Edition PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3004"
   },
   {
     "titleId": "PPSA15737_00",
@@ -61256,6 +61336,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17735_00",
+    "conceptId": 10007627,
+    "name": "Fort Solis Extras",
+    "contentId": "EP1302-PPSA17735_00-FORTSOLISARTSIEE",
+    "region": "EP",
+    "publisherId": "EP1302"
+  },
+  {
+    "titleId": "PPSA17736_00",
+    "conceptId": 10007627,
+    "name": "Fort Solis Extras",
+    "contentId": "UP1309-PPSA17736_00-FORTSOLISARTSIEA",
+    "region": "UP",
+    "publisherId": "UP1309"
+  },
+  {
     "titleId": "PPSA17761_00",
     "conceptId": 10000361,
     "name": "Potata: Fairy Flower",
@@ -61416,12 +61512,28 @@
     "publisherId": "EP5449"
   },
   {
+    "titleId": "PPSA17938_00",
+    "conceptId": 10008993,
+    "name": "Fly the Plane",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17960_00",
     "conceptId": 10008878,
     "name": "Kitty Krawler",
     "contentId": "EP7938-PPSA17960_00-0216019864727543",
     "region": "EP",
     "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA18006_00",
+    "conceptId": 10007130,
+    "name": "Ghostbusters: Rise of the Ghost Lord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18061_00",
@@ -61456,20 +61568,28 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA18369_00",
+    "conceptId": 10008677,
+    "name": "Bulletstorm VR",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2083"
+  },
+  {
     "titleId": "PPSA18422_00",
     "conceptId": 233596,
     "name": "Human Anatomy VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5165-PPSA18422_00-0011667978859355",
+    "region": "HP",
+    "publisherId": "HP5165"
   },
   {
     "titleId": "PPSA18423_00",
     "conceptId": 233596,
     "name": "Human Anatomy VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5101-PPSA18423_00-0179212592586644",
+    "region": "JP",
+    "publisherId": "JP5101"
   },
   {
     "titleId": "PPSA18522_00",
@@ -61502,5 +61622,13 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA18532_00",
+    "conceptId": 10008677,
+    "name": "Bulletstorm VR",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6913"
   }
 ]
