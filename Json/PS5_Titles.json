@@ -14664,6 +14664,14 @@
     "publisherId": "EP1464"
   },
   {
+    "titleId": "PPSA04479_00",
+    "conceptId": 10001343,
+    "name": "Quantum Error",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04481_00",
     "conceptId": 10002301,
     "name": "Bishoujo Battle Mahjong Solitaire",
@@ -26344,6 +26352,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06889_00",
+    "conceptId": 10004658,
+    "name": "SONIC SUPERSTARS",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
+  },
+  {
     "titleId": "PPSA06894_00",
     "conceptId": 232153,
     "name": "Tarot Readings Premium",
@@ -26558,6 +26574,14 @@
     "contentId": "UP1024-PPSA06953_00-UNDERNAUTSLBYOMI",
     "region": "UP",
     "publisherId": "UP1024"
+  },
+  {
+    "titleId": "PPSA06955_00",
+    "conceptId": 229066,
+    "name": "Granblue Fantasy: Relink Standard Edition PS5 & PS4",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5641"
   },
   {
     "titleId": "PPSA06956_00",
@@ -32682,16 +32706,16 @@
   {
     "titleId": "PPSA08236_00",
     "conceptId": 10005317,
-    "name": "Immortals of Aveum\u2122",
-    "contentId": null,
+    "name": "Immortals of Aveum",
+    "contentId": "UP0006-PPSA08236_00-ARTEMISGAME00000",
     "region": "UP",
     "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA08237_00",
     "conceptId": 10005317,
-    "name": "Immortals of Aveum\u2122",
-    "contentId": null,
+    "name": "Immortals of Aveum",
+    "contentId": "EP0006-PPSA08237_00-ARTEMISGAME00000",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -37888,6 +37912,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09190_00",
+    "conceptId": 10005670,
+    "name": "PAW Patrol World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09192_00",
     "conceptId": 10005732,
     "name": "Cities: Skylines Remastered",
@@ -40560,6 +40592,14 @@
     "publisherId": "EP3597"
   },
   {
+    "titleId": "PPSA09730_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0177"
+  },
+  {
     "titleId": "PPSA09731_00",
     "conceptId": 10000453,
     "name": "GUILTY GEAR -STRIVE- Cross-Platform Open Beta",
@@ -41966,6 +42006,14 @@
     "contentId": "HP6661-PPSA09999_00-7882764758520955",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA10001_00",
+    "conceptId": 10006089,
+    "name": "The Gap",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2764"
   },
   {
     "titleId": "PPSA10002_00",
@@ -45352,6 +45400,30 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA10592_00",
+    "conceptId": 10006270,
+    "name": "\u9244\u62f38",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA10593_00",
+    "conceptId": 10006270,
+    "name": "TEKKEN 8",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA10594_00",
+    "conceptId": 10006270,
+    "name": "TEKKEN 8",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA10595_00",
     "conceptId": 10006270,
     "name": "TEKKEN 8",
@@ -46950,6 +47022,14 @@
     "contentId": "UP4312-PPSA10870_00-3497169629373233",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA10873_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA10878_00",
@@ -51056,12 +51136,20 @@
     "publisherId": "UP7234"
   },
   {
+    "titleId": "PPSA12608_00",
+    "conceptId": 10006951,
+    "name": "Zoo Leap",
+    "contentId": "UP7335-PPSA12608_00-0726900121158304",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA12609_00",
     "conceptId": 10006951,
     "name": "Zoo Leap",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA12609_00-0630619285601955",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA12610_00",
@@ -54024,12 +54112,28 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA13946_00",
+    "conceptId": 10007423,
+    "name": "\u30ed\u30b8\u30ab\u30eb\u771f\u738b",
+    "contentId": "JP0536-PPSA13946_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA13947_00",
     "conceptId": 10006603,
     "name": "Dice Legacy",
     "contentId": "UP7778-PPSA13947_00-DICELEGACYPS5USA",
     "region": "UP",
     "publisherId": "UP7778"
+  },
+  {
+    "titleId": "PPSA13949_00",
+    "conceptId": 10007423,
+    "name": "LogiKing",
+    "contentId": "EP2640-PPSA13949_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP2640"
   },
   {
     "titleId": "PPSA13951_00",
@@ -56808,12 +56912,20 @@
     "publisherId": "EP7658"
   },
   {
+    "titleId": "PPSA15353_00",
+    "conceptId": 10007665,
+    "name": "Mirrored Souls",
+    "contentId": "UP0785-PPSA15353_00-0289658705573678",
+    "region": "UP",
+    "publisherId": "UP0785"
+  },
+  {
     "titleId": "PPSA15354_00",
     "conceptId": 10007665,
     "name": "Mirrored Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0782-PPSA15354_00-0791263987014074",
+    "region": "EP",
+    "publisherId": "EP0782"
   },
   {
     "titleId": "PPSA15363_00",
@@ -57520,7 +57632,31 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA15586_00",
+    "conceptId": 10008053,
+    "name": "Wild Seas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15587_00",
+    "conceptId": 10008053,
+    "name": "Wild Seas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15588_00",
+    "conceptId": 10008053,
+    "name": "Wild Seas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15589_00",
     "conceptId": 10008053,
     "name": "Wild Seas",
     "contentId": null,
@@ -57688,6 +57824,22 @@
     "publisherId": "UP7671"
   },
   {
+    "titleId": "PPSA15658_00",
+    "conceptId": 10008054,
+    "name": "Sokomage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15661_00",
+    "conceptId": 10008054,
+    "name": "Sokomage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15662_00",
     "conceptId": 10007176,
     "name": "EA SPORTS FC\u2122 24",
@@ -57790,6 +57942,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15725_00",
+    "conceptId": 10008121,
+    "name": "Chess Royal",
+    "contentId": "JP6954-PPSA15725_00-0733968181377349",
+    "region": "JP",
+    "publisherId": "JP6954"
+  },
+  {
+    "titleId": "PPSA15726_00",
+    "conceptId": 10008121,
+    "name": "Chess Royal",
+    "contentId": "HP0874-PPSA15726_00-0897402468141913",
+    "region": "HP",
+    "publisherId": "HP0874"
   },
   {
     "titleId": "PPSA15729_00",
@@ -60491,9 +60659,9 @@
     "titleId": "PPSA16832_00",
     "conceptId": 10005806,
     "name": "Shotgun King: The Final Checkmate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5649-PPSA16832_00-0209092530187543",
+    "region": "EP",
+    "publisherId": "EP5649"
   },
   {
     "titleId": "PPSA16836_00",
@@ -60635,9 +60803,9 @@
     "titleId": "PPSA16973_00",
     "conceptId": 10008576,
     "name": "Virgo Versus The Zodiac",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0067-PPSA16973_00-0318386289274421",
+    "region": "UB",
+    "publisherId": "UB0067"
   },
   {
     "titleId": "PPSA16974_00",
@@ -60651,9 +60819,17 @@
     "titleId": "PPSA16975_00",
     "conceptId": 10008576,
     "name": "Virgo Versus The Zodiac",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8773-PPSA16975_00-0024276048624761",
+    "region": "JP",
+    "publisherId": "JP8773"
+  },
+  {
+    "titleId": "PPSA16976_00",
+    "conceptId": 10008576,
+    "name": "Virgo Versus The Zodiac",
+    "contentId": "HB0017-PPSA16976_00-0133043616499406",
+    "region": "HB",
+    "publisherId": "HB0017"
   },
   {
     "titleId": "PPSA16986_00",
