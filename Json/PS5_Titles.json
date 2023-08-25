@@ -14672,6 +14672,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA04480_00",
+    "conceptId": 10001343,
+    "name": "Quantum Error",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04481_00",
     "conceptId": 10002301,
     "name": "Bishoujo Battle Mahjong Solitaire",
@@ -21738,16 +21746,16 @@
   {
     "titleId": "PPSA05963_00",
     "conceptId": 10003761,
-    "name": "Firewall\u2122 Ultra",
-    "contentId": null,
+    "name": "Firewall Ultra",
+    "contentId": "HP9000-PPSA05963_00-FIREWALL20200000",
     "region": "HP",
     "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA05964_00",
     "conceptId": 10003761,
-    "name": "Firewall\u2122 Ultra",
-    "contentId": null,
+    "name": "Firewall Ultra",
+    "contentId": "JP9000-PPSA05964_00-FIREWALL20200000",
     "region": "JP",
     "publisherId": "JP9000"
   },
@@ -22866,8 +22874,8 @@
   {
     "titleId": "PPSA06186_00",
     "conceptId": 10004309,
-    "name": "HUMANKIND\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "Humankind",
+    "contentId": "EP0177-PPSA06186_00-HUMANKINDEU00000",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -23762,8 +23770,8 @@
   {
     "titleId": "PPSA06380_00",
     "conceptId": 10004309,
-    "name": "HUMANKIND\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "Humankind",
+    "contentId": "UP0177-PPSA06380_00-HUMANKINDNA00000",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -26488,6 +26496,14 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA06927_00",
+    "conceptId": 10004639,
+    "name": "Warhammer Age of Sigmar: Realms of Ruin",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2514"
+  },
+  {
     "titleId": "PPSA06929_00",
     "conceptId": 10003340,
     "name": "DEADCRAFT",
@@ -26574,6 +26590,14 @@
     "contentId": "UP1024-PPSA06953_00-UNDERNAUTSLBYOMI",
     "region": "UP",
     "publisherId": "UP1024"
+  },
+  {
+    "titleId": "PPSA06954_00",
+    "conceptId": 229066,
+    "name": "Granblue Fantasy: Relink Standard Edition PS5 & PS4",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5460"
   },
   {
     "titleId": "PPSA06955_00",
@@ -26686,6 +26710,14 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA06979_00",
+    "conceptId": 10004744,
+    "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS PS4\u2122 & PS5\u00ae",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA06980_00",
@@ -29880,6 +29912,14 @@
     "publisherId": "UP1715"
   },
   {
+    "titleId": "PPSA07651_00",
+    "conceptId": 10001555,
+    "name": "\u30da\u30eb\u30bd\u30ca\uff13 \u30ea\u30ed\u30fc\u30c9PS4\uff06PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0005"
+  },
+  {
     "titleId": "PPSA07652_00",
     "conceptId": 10004255,
     "name": "Oxide Room 104",
@@ -30828,8 +30868,8 @@
     "conceptId": 10005173,
     "name": "Scorn",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP7579"
   },
   {
     "titleId": "PPSA07853_00",
@@ -37032,6 +37072,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA09048_00",
+    "conceptId": 10004402,
+    "name": "Boxville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09052_00",
     "conceptId": 10004326,
     "name": "Wayward Strand",
@@ -42008,6 +42056,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA10000_00",
+    "conceptId": 10006089,
+    "name": "The Gap",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2627"
+  },
+  {
     "titleId": "PPSA10001_00",
     "conceptId": 10006089,
     "name": "The Gap",
@@ -43478,6 +43534,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA10263_00",
+    "conceptId": 10006168,
+    "name": "Jusant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10264_00",
+    "conceptId": 10006168,
+    "name": "Jusant",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8091"
   },
   {
     "titleId": "PPSA10276_00",
@@ -47022,6 +47094,14 @@
     "contentId": "UP4312-PPSA10870_00-3497169629373233",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA10872_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA10873_00",
@@ -52763,7 +52843,7 @@
     "titleId": "PPSA13579_00",
     "conceptId": 10007264,
     "name": "Blasphemous 2",
-    "contentId": null,
+    "contentId": "EP4064-PPSA13579_00-BLASPHEMOUS20000",
     "region": "EP",
     "publisherId": "EP4064"
   },
@@ -52771,7 +52851,7 @@
     "titleId": "PPSA13580_00",
     "conceptId": 10007264,
     "name": "Blasphemous 2",
-    "contentId": null,
+    "contentId": "UP4064-PPSA13580_00-BLASPHEMOUS20000",
     "region": "UP",
     "publisherId": "UP4064"
   },
@@ -53192,6 +53272,22 @@
     "publisherId": "HP0953"
   },
   {
+    "titleId": "PPSA13710_00",
+    "conceptId": 10007311,
+    "name": "Dolphin Spirit - Ocean Mission",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13711_00",
+    "conceptId": 10007311,
+    "name": "Dolphin Spirit - Ocean Mission",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13713_00",
     "conceptId": 10007308,
     "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
@@ -53518,6 +53614,22 @@
     "contentId": "EP3717-PPSA13784_00-SUPRALANDSIUP5EU",
     "region": "EP",
     "publisherId": "EP3717"
+  },
+  {
+    "titleId": "PPSA13790_00",
+    "conceptId": 10007360,
+    "name": "NASCAR Arcade Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13791_00",
+    "conceptId": 10007360,
+    "name": "NASCAR Arcade Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13792_00",
@@ -54128,12 +54240,28 @@
     "publisherId": "UP7778"
   },
   {
+    "titleId": "PPSA13948_00",
+    "conceptId": 10007423,
+    "name": "LogiKing",
+    "contentId": "UP2777-PPSA13948_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP2777"
+  },
+  {
     "titleId": "PPSA13949_00",
     "conceptId": 10007423,
     "name": "LogiKing",
     "contentId": "EP2640-PPSA13949_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP2640"
+  },
+  {
+    "titleId": "PPSA13950_00",
+    "conceptId": 10007423,
+    "name": "LogiKing",
+    "contentId": "HP2723-PPSA13950_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP2723"
   },
   {
     "titleId": "PPSA13951_00",
@@ -56595,7 +56723,7 @@
     "titleId": "PPSA15190_00",
     "conceptId": 10003247,
     "name": "RIDE 5",
-    "contentId": null,
+    "contentId": "UP1981-PPSA15190_00-RIDE5FULLGAME000",
     "region": "UP",
     "publisherId": "UP1981"
   },
@@ -57315,9 +57443,9 @@
     "titleId": "PPSA15465_00",
     "conceptId": 10008000,
     "name": "Ashina: The Red Witch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15465_00-ASHINAREDWITCHRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15466_00",
@@ -57795,9 +57923,9 @@
     "titleId": "PPSA15633_00",
     "conceptId": 10008069,
     "name": "Lost Eidolons",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA15633_00-0797359782165231",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA15634_00",
@@ -57825,6 +57953,22 @@
   },
   {
     "titleId": "PPSA15658_00",
+    "conceptId": 10008054,
+    "name": "Sokomage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15659_00",
+    "conceptId": 10008054,
+    "name": "Sokomage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15660_00",
     "conceptId": 10008054,
     "name": "Sokomage",
     "contentId": null,
@@ -57931,17 +58075,17 @@
     "titleId": "PPSA15723_00",
     "conceptId": 10008121,
     "name": "Chess Royal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA15723_00-0126362427465181",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA15724_00",
     "conceptId": 10008121,
     "name": "Chess Royal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA15724_00-0336932786244541",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA15725_00",
@@ -59288,6 +59432,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA16188_00",
+    "conceptId": 10008260,
+    "name": "Wild Pinball",
+    "contentId": "JP5432-PPSA16188_00-0460893587707410",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA16191_00",
     "conceptId": 10008263,
     "name": "Octo Curse",
@@ -59816,6 +59968,14 @@
     "publisherId": "JP0098"
   },
   {
+    "titleId": "PPSA16475_00",
+    "conceptId": 10007940,
+    "name": "Truth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16488_00",
     "conceptId": 10008132,
     "name": "Onigo Hunter",
@@ -59982,6 +60142,14 @@
     "contentId": "UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
     "region": "UP",
     "publisherId": "UP1496"
+  },
+  {
+    "titleId": "PPSA16559_00",
+    "conceptId": 10008427,
+    "name": "Horror Pinball",
+    "contentId": "JP5432-PPSA16559_00-0765977478332770",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA16560_00",
@@ -60784,6 +60952,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA16954_00",
+    "conceptId": 10008590,
+    "name": "\u63a2\u3057\u3082\u306e\u306f\u3001\u590f\u3067\u3059\u304b\u3002",
+    "contentId": "JP0013-PPSA16954_00-JP0SAGANATSU0PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA16956_00",
     "conceptId": 10006846,
     "name": "Synapse",
@@ -60811,9 +60987,9 @@
     "titleId": "PPSA16974_00",
     "conceptId": 10008576,
     "name": "Virgo Versus The Zodiac",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0257-PPSA16974_00-0756413134423686",
+    "region": "EB",
+    "publisherId": "EB0257"
   },
   {
     "titleId": "PPSA16975_00",
@@ -61014,6 +61190,22 @@
     "contentId": "HP6691-PPSA17158_00-METADUDE000PS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17163_00",
+    "conceptId": 10008081,
+    "name": "Jets'N'Guns 2",
+    "contentId": "EP5098-PPSA17163_00-0959201449924357",
+    "region": "EP",
+    "publisherId": "EP5098"
+  },
+  {
+    "titleId": "PPSA17164_00",
+    "conceptId": 10008081,
+    "name": "Jets'n'Guns 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17172_00",
@@ -61507,9 +61699,9 @@
     "titleId": "PPSA17727_00",
     "conceptId": 10005806,
     "name": "Shotgun King: The Final Checkmate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5468-PPSA17727_00-BANGBANGBANGKING",
+    "region": "UP",
+    "publisherId": "UP5468"
   },
   {
     "titleId": "PPSA17735_00",
@@ -61688,12 +61880,36 @@
     "publisherId": "EP5449"
   },
   {
+    "titleId": "PPSA17937_00",
+    "conceptId": 10008993,
+    "name": "Fly the Plane",
+    "contentId": "UP7977-PPSA17937_00-0704824848211715",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
     "titleId": "PPSA17938_00",
     "conceptId": 10008993,
     "name": "Fly the Plane",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7975-PPSA17938_00-0606851536754183",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA17939_00",
+    "conceptId": 10008993,
+    "name": "Fly the Plane",
+    "contentId": "JP7958-PPSA17939_00-0792337940490241",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA17940_00",
+    "conceptId": 10008993,
+    "name": "Fly the Plane",
+    "contentId": "HP8005-PPSA17940_00-0118136921017879",
+    "region": "HP",
+    "publisherId": "HP8005"
   },
   {
     "titleId": "PPSA17960_00",
@@ -61702,6 +61918,14 @@
     "contentId": "EP7938-PPSA17960_00-0216019864727543",
     "region": "EP",
     "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA18003_00",
+    "conceptId": 10007130,
+    "name": "Ghostbusters: Rise of the Ghost Lord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18006_00",
