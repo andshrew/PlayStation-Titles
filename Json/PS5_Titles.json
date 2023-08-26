@@ -21738,8 +21738,8 @@
   {
     "titleId": "PPSA05962_00",
     "conceptId": 10003761,
-    "name": "Firewall\u2122 Ultra",
-    "contentId": null,
+    "name": "Firewall Ultra",
+    "contentId": "EP9000-PPSA05962_00-FIREWALL20200000",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -25810,8 +25810,8 @@
   {
     "titleId": "PPSA06772_00",
     "conceptId": 10001815,
-    "name": "ARMORED CORE VI FIRES OF RUBICON PS4\uff06PS5",
-    "contentId": null,
+    "name": "\u6a5f\u6230\u50ad\u5175\u2122VI \u5883\u754c\u5929\u706b\u2122",
+    "contentId": "HP0700-PPSA06772_00-ARMOREDCORE60000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -26360,12 +26360,28 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06888_00",
+    "conceptId": 10004658,
+    "name": "SONIC SUPERSTARS",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
+  },
+  {
     "titleId": "PPSA06889_00",
     "conceptId": 10004658,
     "name": "SONIC SUPERSTARS",
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0177"
+  },
+  {
+    "titleId": "PPSA06890_00",
+    "conceptId": 10004658,
+    "name": "\u30bd\u30cb\u30c3\u30af\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc\u30ba PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA06894_00",
@@ -26494,6 +26510,14 @@
     "contentId": "UP1681-PPSA06923_00-9CLUE2022PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA06926_00",
+    "conceptId": 10004639,
+    "name": "Warhammer Age of Sigmar: Realms of Ruin",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2377"
   },
   {
     "titleId": "PPSA06927_00",
@@ -30860,8 +30884,8 @@
     "conceptId": 10005173,
     "name": "Scorn",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP7581"
   },
   {
     "titleId": "PPSA07850_00",
@@ -33992,6 +34016,30 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08457_00",
+    "conceptId": 10005275,
+    "name": "Honkai: Star Rail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08458_00",
+    "conceptId": 10005275,
+    "name": "Honkai: Star Rail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08459_00",
+    "conceptId": 10005275,
+    "name": "Honkai: Star Rail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08460_00",
     "conceptId": 10005410,
     "name": "Kid Ball Adventure",
@@ -35126,6 +35174,14 @@
     "contentId": "UP6664-PPSA08679_00-1497106378342094",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA08680_00",
+    "conceptId": 229066,
+    "name": "Granblue Fantasy: Relink Standard Edition PS4\uff06PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA08681_00",
@@ -37073,6 +37129,30 @@
   },
   {
     "titleId": "PPSA09048_00",
+    "conceptId": 10004402,
+    "name": "Boxville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09049_00",
+    "conceptId": 10004402,
+    "name": "Boxville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09050_00",
+    "conceptId": 10004402,
+    "name": "Boxville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09051_00",
     "conceptId": 10004402,
     "name": "Boxville",
     "contentId": null,
@@ -43540,8 +43620,8 @@
     "conceptId": 10006168,
     "name": "Jusant",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP5898"
   },
   {
     "titleId": "PPSA10264_00",
@@ -49470,6 +49550,14 @@
     "contentId": "UP1681-PPSA11322_00-CRIMSEC22PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA11326_00",
+    "conceptId": 10004602,
+    "name": "Bomb Rush Cyberfunk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11334_00",
@@ -57451,9 +57539,9 @@
     "titleId": "PPSA15466_00",
     "conceptId": 10008000,
     "name": "Ashina: The Red Witch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15466_00-ASHINAREDWITCHRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15467_00",
@@ -57931,9 +58019,9 @@
     "titleId": "PPSA15634_00",
     "conceptId": 10008069,
     "name": "Lost Eidolons",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA15634_00-0412556424625266",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA15648_00",
@@ -58699,6 +58787,38 @@
     "titleId": "PPSA15930_00",
     "conceptId": 10008170,
     "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15931_00",
+    "conceptId": 10004716,
+    "name": "Ad Infinitum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15932_00",
+    "conceptId": 10004716,
+    "name": "Ad Infinitum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15933_00",
+    "conceptId": 10004716,
+    "name": "Ad Infinitum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15934_00",
+    "conceptId": 10004716,
+    "name": "Ad Infinitum",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -59952,6 +60072,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA16468_00",
+    "conceptId": 10007940,
+    "name": "Truth",
+    "contentId": "UP7592-PPSA16468_00-0291886757328509",
+    "region": "UP",
+    "publisherId": "UP7592"
+  },
+  {
     "titleId": "PPSA16469_00",
     "conceptId": 10008232,
     "name": "TOSS!",
@@ -59971,9 +60099,9 @@
     "titleId": "PPSA16475_00",
     "conceptId": 10007940,
     "name": "Truth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7590-PPSA16475_00-0511046296383656",
+    "region": "EP",
+    "publisherId": "EP7590"
   },
   {
     "titleId": "PPSA16488_00",
@@ -61008,6 +61136,14 @@
     "publisherId": "HB0017"
   },
   {
+    "titleId": "PPSA16985_00",
+    "conceptId": 10008222,
+    "name": "Alchemy Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16986_00",
     "conceptId": 10007151,
     "name": "CRYMACHINA \u615f\u54ed\u5947\u6a5f \u6578\u4f4d\u7248\u7f8e\u8853\u8a2d\u5b9a\u96c6",
@@ -61202,10 +61338,10 @@
   {
     "titleId": "PPSA17164_00",
     "conceptId": 10008081,
-    "name": "Jets'n'Guns 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Jets'N'Guns 2",
+    "contentId": "UP4912-PPSA17164_00-0390842487618036",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA17172_00",
@@ -61734,6 +61870,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17786_00",
+    "conceptId": 10008920,
+    "name": "Remorse: The List",
+    "contentId": "UP3528-PPSA17786_00-REMORSETHELIST00",
+    "region": "UP",
+    "publisherId": "UP3528"
+  },
+  {
+    "titleId": "PPSA17787_00",
+    "conceptId": 10008920,
+    "name": "Remorse: The List",
+    "contentId": "EP3385-PPSA17787_00-REMORSETHELIST00",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA17788_00",
+    "conceptId": 10008920,
+    "name": "Remorse: The List",
+    "contentId": "JP3568-PPSA17788_00-REMORSETHELIST00",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
+    "titleId": "PPSA17789_00",
+    "conceptId": 10008920,
+    "name": "Remorse: The List",
+    "contentId": "HP3473-PPSA17789_00-REMORSETHELIST00",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA17796_00",
