@@ -25312,6 +25312,14 @@
     "publisherId": "EP1703"
   },
   {
+    "titleId": "PPSA06690_00",
+    "conceptId": 10004602,
+    "name": "Bomb Rush Cyberfunk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06691_00",
     "conceptId": 10004555,
     "name": "Valentine Candy Break 2",
@@ -31787,7 +31795,7 @@
     "titleId": "PPSA08056_00",
     "conceptId": 10005244,
     "name": "Under The Waves",
-    "contentId": null,
+    "contentId": "UP1642-PPSA08056_00-SUB0000000000001",
     "region": "UP",
     "publisherId": "UP1642"
   },
@@ -31803,7 +31811,7 @@
     "titleId": "PPSA08058_00",
     "conceptId": 10005244,
     "name": "Under The Waves",
-    "contentId": null,
+    "contentId": "JP1899-PPSA08058_00-SUB0000000000001",
     "region": "JP",
     "publisherId": "JP1899"
   },
@@ -40506,10 +40514,10 @@
   {
     "titleId": "PPSA09681_00",
     "conceptId": 10005891,
-    "name": "Crossfire: Sierra Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CROSSFIRE: Sierra Squad",
+    "contentId": "UP1219-PPSA09681_00-CROSSFIRE0000001",
+    "region": "UP",
+    "publisherId": "UP1219"
   },
   {
     "titleId": "PPSA09684_00",
@@ -42342,6 +42350,14 @@
     "contentId": "UP8016-PPSA10050_00-SOSIN00GAMEUSA01",
     "region": "UP",
     "publisherId": "UP8016"
+  },
+  {
+    "titleId": "PPSA10054_00",
+    "conceptId": 10006098,
+    "name": "Banishers: Ghosts of New Eden",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4133"
   },
   {
     "titleId": "PPSA10057_00",
@@ -47760,6 +47776,14 @@
     "publisherId": "UP0379"
   },
   {
+    "titleId": "PPSA10986_00",
+    "conceptId": 10005731,
+    "name": "The Crackpet Show: Happy Tree Friends Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10992_00",
     "conceptId": 10006430,
     "name": "The Redress of Mira",
@@ -51994,10 +52018,10 @@
   {
     "titleId": "PPSA13339_00",
     "conceptId": 10005891,
-    "name": "Crossfire: Sierra Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CROSSFIRE: Sierra Squad",
+    "contentId": "EP3364-PPSA13339_00-CROSSFIRE0000001",
+    "region": "EP",
+    "publisherId": "EP3364"
   },
   {
     "titleId": "PPSA13340_00",
@@ -52675,7 +52699,7 @@
     "titleId": "PPSA13529_00",
     "conceptId": 10007246,
     "name": "Agatha Christie - Hercule Poirot: The London Case",
-    "contentId": null,
+    "contentId": "UP1475-PPSA13529_00-ACYP2PS5000000US",
     "region": "UP",
     "publisherId": "UP1475"
   },
@@ -55426,18 +55450,18 @@
   {
     "titleId": "PPSA14188_00",
     "conceptId": 10006433,
-    "name": "The Bridge Curse: Road to Salvation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Bridge Curse - Road to Salvation",
+    "contentId": "JP0078-PPSA14188_00-THEBRIDGECURSE00",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA14189_00",
     "conceptId": 10006433,
-    "name": "The Bridge Curse: Road to Salvation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Bridge Curse - Road to Salvation",
+    "contentId": "HP2005-PPSA14189_00-THEBRIDGECURSE00",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA14198_00",
@@ -56134,6 +56158,14 @@
     "contentId": "UP4459-PPSA14460_00-TENDATESPS5SIEE0",
     "region": "UP",
     "publisherId": "UP4459"
+  },
+  {
+    "titleId": "PPSA14462_00",
+    "conceptId": 10007653,
+    "name": "This Way Madness Lies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14463_00",
@@ -57296,6 +57328,38 @@
     "publisherId": "EP2886"
   },
   {
+    "titleId": "PPSA15391_00",
+    "conceptId": 10007473,
+    "name": "The Big Con - GRIFT OF THE YEAR EDITION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15392_00",
+    "conceptId": 10007473,
+    "name": "The Big Con - GRIFT OF THE YEAR EDITION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15393_00",
+    "conceptId": 10007980,
+    "name": "Mystic Gate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15394_00",
+    "conceptId": 10007980,
+    "name": "Mystic Gate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15396_00",
     "conceptId": 10007981,
     "name": "Fluffy Milo",
@@ -57738,15 +57802,47 @@
   {
     "titleId": "PPSA15524_00",
     "conceptId": 10008037,
-    "name": "The Making of Karateka PS4 & PS5",
+    "name": "The Making of Karateka",
+    "contentId": "UP7818-PPSA15524_00-MAKINGOFKARATEKA",
+    "region": "UP",
+    "publisherId": "UP7818"
+  },
+  {
+    "titleId": "PPSA15525_00",
+    "conceptId": 10008037,
+    "name": "\u30e1\u30a4\u30ad\u30f3\u30b0\u30fb\u30aa\u30d6\u30fb\u30ab\u30e9\u30c6\u30ab",
+    "contentId": "EP7816-PPSA15525_00-MAKINGOFKARATEKA",
+    "region": "EP",
+    "publisherId": "EP7816"
+  },
+  {
+    "titleId": "PPSA15532_00",
+    "conceptId": 10008041,
+    "name": "Betomis",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA15525_00",
-    "conceptId": 10008037,
-    "name": "The Making of Karateka PS4 & PS5",
+    "titleId": "PPSA15533_00",
+    "conceptId": 10008041,
+    "name": "Betomis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15534_00",
+    "conceptId": 10008042,
+    "name": "Rayland 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15535_00",
+    "conceptId": 10008042,
+    "name": "Rayland 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -59659,28 +59755,52 @@
     "titleId": "PPSA16241_00",
     "conceptId": 10007198,
     "name": "Goodbye Volcano High",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0399-PPSA16241_00-GOODBYEVOLCANOHI",
+    "region": "UP",
+    "publisherId": "UP0399"
   },
   {
     "titleId": "PPSA16242_00",
     "conceptId": 10007198,
     "name": "Goodbye Volcano High",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0396-PPSA16242_00-GOODBYEVOLCANOHI",
+    "region": "EP",
+    "publisherId": "EP0396"
   },
   {
     "titleId": "PPSA16243_00",
     "conceptId": 10007198,
     "name": "Goodbye Volcano High",
+    "contentId": "JP0676-PPSA16243_00-GOODBYEVOLCANOHI",
+    "region": "JP",
+    "publisherId": "JP0676"
+  },
+  {
+    "titleId": "PPSA16251_00",
+    "conceptId": 10008112,
+    "name": "Night At the Gates of Hell",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
     "titleId": "PPSA16252_00",
+    "conceptId": 10008112,
+    "name": "Night At the Gates of Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16253_00",
+    "conceptId": 10008112,
+    "name": "Night At the Gates of Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16254_00",
     "conceptId": 10008112,
     "name": "Night At the Gates of Hell",
     "contentId": null,
@@ -60522,10 +60642,10 @@
   {
     "titleId": "PPSA16646_00",
     "conceptId": 10005891,
-    "name": "Crossfire: Sierra Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CROSSFIRE: Sierra Squad",
+    "contentId": "JP3546-PPSA16646_00-CROSSFIRE0000001",
+    "region": "JP",
+    "publisherId": "JP3546"
   },
   {
     "titleId": "PPSA16648_00",
@@ -61200,6 +61320,14 @@
     "publisherId": "HP0036"
   },
   {
+    "titleId": "PPSA16992_00",
+    "conceptId": 10008604,
+    "name": "Kalinur",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17009_00",
     "conceptId": 10006865,
     "name": "Underdog Detective",
@@ -61222,6 +61350,22 @@
     "contentId": "EP8652-PPSA17044_00-0767355899027985",
     "region": "EP",
     "publisherId": "EP8652"
+  },
+  {
+    "titleId": "PPSA17055_00",
+    "conceptId": 10007946,
+    "name": "Inspector Gadget - MAD Time Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17056_00",
+    "conceptId": 10007946,
+    "name": "Inspector Gadget - MAD Time Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17059_00",
@@ -61342,6 +61486,38 @@
     "contentId": "UP8089-PPSA17126_00-0005322348169741",
     "region": "UP",
     "publisherId": "UP8089"
+  },
+  {
+    "titleId": "PPSA17143_00",
+    "conceptId": 10008675,
+    "name": "Enchanted Portals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17144_00",
+    "conceptId": 10008675,
+    "name": "Enchanted Portals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17145_00",
+    "conceptId": 10008675,
+    "name": "Enchanted Portals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17146_00",
+    "conceptId": 10008675,
+    "name": "Enchanted Portals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17155_00",
@@ -61480,6 +61656,22 @@
     "publisherId": "EP0182"
   },
   {
+    "titleId": "PPSA17206_00",
+    "conceptId": 10002182,
+    "name": "Hawked",
+    "contentId": "UP2282-PPSA17206_00-0738967681956918",
+    "region": "UP",
+    "publisherId": "UP2282"
+  },
+  {
+    "titleId": "PPSA17207_00",
+    "conceptId": 10002182,
+    "name": "Hawked",
+    "contentId": "EP2134-PPSA17207_00-0275681394041213",
+    "region": "EP",
+    "publisherId": "EP2134"
+  },
+  {
     "titleId": "PPSA17259_00",
     "conceptId": 10008726,
     "name": "\u7537\u30af\u30ed\u30b9\uff1a\u30d6\u30ec\u30fc\u30af\u30a2\u30c3\u30d7\uff01",
@@ -61510,6 +61702,14 @@
     "contentId": "UP1570-PPSA17282_00-0175086900392972",
     "region": "UP",
     "publisherId": "UP1570"
+  },
+  {
+    "titleId": "PPSA17306_00",
+    "conceptId": 10007364,
+    "name": "Firefight!",
+    "contentId": "EP8348-PPSA17306_00-FIREFIGHTXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP8348"
   },
   {
     "titleId": "PPSA17311_00",
@@ -62243,9 +62443,9 @@
     "titleId": "PPSA18525_00",
     "conceptId": 10005723,
     "name": "Robby's Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA18525_00-ROBBYADVENTPS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA18532_00",
