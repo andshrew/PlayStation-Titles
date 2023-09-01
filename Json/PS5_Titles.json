@@ -2832,6 +2832,14 @@
     "publisherId": "UP2203"
   },
   {
+    "titleId": "PPSA02039_00",
+    "conceptId": 229066,
+    "name": "GRANBLUE FANTASY: Relink Standard Edition PS5 & PS4",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0178"
+  },
+  {
     "titleId": "PPSA02046_00",
     "conceptId": 235172,
     "name": "Life is Strange: True Colors\u2122",
@@ -19736,6 +19744,14 @@
     "publisherId": "EP6958"
   },
   {
+    "titleId": "PPSA05537_00",
+    "conceptId": 10003945,
+    "name": "Call of the Wild: The Angler",
+    "contentId": "EP3359-PPSA05537_00-TORTOISE00000000",
+    "region": "EP",
+    "publisherId": "EP3359"
+  },
+  {
     "titleId": "PPSA05539_00",
     "conceptId": 10001949,
     "name": "Crazy Athletics - Summer Sports and Games",
@@ -22430,6 +22446,14 @@
     "contentId": "UP5397-PPSA06094_00-9152601786774628",
     "region": "UP",
     "publisherId": "UP5397"
+  },
+  {
+    "titleId": "PPSA06095_00",
+    "conceptId": 10004241,
+    "name": "Runner Heroes - The Curse of Night and Day",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06097_00",
@@ -29683,17 +29707,17 @@
     "titleId": "PPSA07586_00",
     "conceptId": 10004226,
     "name": "Sea of Stars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3463-PPSA07586_00-8119804844737273",
+    "region": "UP",
+    "publisherId": "UP3463"
   },
   {
     "titleId": "PPSA07587_00",
     "conceptId": 10004226,
     "name": "Sea of Stars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3323-PPSA07587_00-9928046179063726",
+    "region": "EP",
+    "publisherId": "EP3323"
   },
   {
     "titleId": "PPSA07588_00",
@@ -39446,6 +39470,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA09461_00",
+    "conceptId": 233559,
+    "name": "Paper Beast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09463_00",
@@ -52224,12 +52256,36 @@
     "publisherId": "UP3918"
   },
   {
+    "titleId": "PPSA13391_00",
+    "conceptId": 10007176,
+    "name": "EA SPORTS FC\u2122 24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13392_00",
+    "conceptId": 10007176,
+    "name": "EA SPORTS FC\u2122 24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13393_00",
     "conceptId": 10007176,
     "name": "EA SPORTS FC\u2122 24 Ultimate Edition PS4\u2122 & PS5\u2122",
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0006"
+  },
+  {
+    "titleId": "PPSA13394_00",
+    "conceptId": 10007176,
+    "name": "EA SPORTS FC\u2122 24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13396_00",
@@ -55819,7 +55875,7 @@
     "titleId": "PPSA14274_00",
     "conceptId": 10007533,
     "name": "Trine 5: A Clockwork Conspiracy",
-    "contentId": null,
+    "contentId": "JP2880-PPSA14274_00-TRINE50000000000",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -55827,7 +55883,7 @@
     "titleId": "PPSA14275_00",
     "conceptId": 10007533,
     "name": "Trine 5: A Clockwork Conspiracy",
-    "contentId": null,
+    "contentId": "UP4389-PPSA14275_00-TRINE50000000000",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -55835,7 +55891,7 @@
     "titleId": "PPSA14276_00",
     "conceptId": 10007533,
     "name": "Trine 5: A Clockwork Conspiracy",
-    "contentId": null,
+    "contentId": "EP4389-PPSA14276_00-TRINE50000000000",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -57019,9 +57075,9 @@
     "titleId": "PPSA15229_00",
     "conceptId": 10007914,
     "name": "How 2 Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8208-PPSA15229_00-HOW2E00GAMEEUR01",
+    "region": "EP",
+    "publisherId": "EP8208"
   },
   {
     "titleId": "PPSA15230_00",
@@ -57418,18 +57474,18 @@
   {
     "titleId": "PPSA15391_00",
     "conceptId": 10007473,
-    "name": "The Big Con - GRIFT OF THE YEAR EDITION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Big Con",
+    "contentId": "UP4401-PPSA15391_00-THEBIGCONXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP4401"
   },
   {
     "titleId": "PPSA15392_00",
     "conceptId": 10007473,
     "name": "The Big Con - GRIFT OF THE YEAR EDITION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4630-PPSA15392_00-THEBIGCONXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP4630"
   },
   {
     "titleId": "PPSA15393_00",
@@ -57643,9 +57699,9 @@
     "titleId": "PPSA15456_00",
     "conceptId": 10007996,
     "name": "Gastro Force",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15456_00-GASTROFORCERATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15457_00",
@@ -57902,6 +57958,22 @@
     "contentId": "EP7816-PPSA15525_00-MAKINGOFKARATEKA",
     "region": "EP",
     "publisherId": "EP7816"
+  },
+  {
+    "titleId": "PPSA15526_00",
+    "conceptId": 10008039,
+    "name": "RedRaptor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15527_00",
+    "conceptId": 10008039,
+    "name": "RedRaptor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15532_00",
@@ -58491,9 +58563,9 @@
     "titleId": "PPSA15759_00",
     "conceptId": 10007617,
     "name": "Somerville",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6659-PPSA15759_00-0503971843791555",
+    "region": "EP",
+    "publisherId": "EP6659"
   },
   {
     "titleId": "PPSA15766_00",
@@ -59832,6 +59904,22 @@
     "publisherId": "EP4295"
   },
   {
+    "titleId": "PPSA16222_00",
+    "conceptId": 10008307,
+    "name": "Ball laB II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16223_00",
+    "conceptId": 10008307,
+    "name": "Ball laB II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16228_00",
     "conceptId": 10005318,
     "name": "The First Descendant",
@@ -59843,6 +59931,22 @@
     "titleId": "PPSA16229_00",
     "conceptId": 10005318,
     "name": "The First Descendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16236_00",
+    "conceptId": 10008315,
+    "name": "Terraformers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16237_00",
+    "conceptId": 10008315,
+    "name": "Terraformers",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -60214,6 +60318,30 @@
     "contentId": "JP9000-PPSA16430_00-SIPS600210000000",
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA16432_00",
+    "conceptId": 10008364,
+    "name": "Vampire: The Masquerade - Justice",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2907"
+  },
+  {
+    "titleId": "PPSA16433_00",
+    "conceptId": 10008364,
+    "name": "Vampire: The Masquerade - Justice",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP3083"
+  },
+  {
+    "titleId": "PPSA16434_00",
+    "conceptId": 10008364,
+    "name": "Vampire: The Masquerade - Justice",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP2993"
   },
   {
     "titleId": "PPSA16435_00",
@@ -60819,9 +60947,9 @@
     "titleId": "PPSA16663_00",
     "conceptId": 10007617,
     "name": "Somerville",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6659-PPSA16663_00-0205179158808650",
+    "region": "UP",
+    "publisherId": "UP6659"
   },
   {
     "titleId": "PPSA16664_00",
@@ -61059,17 +61187,17 @@
     "titleId": "PPSA16749_00",
     "conceptId": 233028,
     "name": "A Fisherman's Tale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3392-PPSA16749_00-AAFISHERMANSTALE",
+    "region": "EP",
+    "publisherId": "EP3392"
   },
   {
     "titleId": "PPSA16750_00",
     "conceptId": 233028,
     "name": "A Fisherman's Tale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3535-PPSA16750_00-AAFISHERMANSTALE",
+    "region": "UP",
+    "publisherId": "UP3535"
   },
   {
     "titleId": "PPSA16751_00",
@@ -61320,6 +61448,22 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA16923_00",
+    "conceptId": 10005505,
+    "name": "Wildmender",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16932_00",
+    "conceptId": 10005505,
+    "name": "Wildmender",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16939_00",
     "conceptId": 10008546,
     "name": "Donuts in Space",
@@ -61563,17 +61707,17 @@
     "titleId": "PPSA17113_00",
     "conceptId": 10007674,
     "name": "Tenebris Pictura",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1055-PPSA17113_00-0131337821641716",
+    "region": "EP",
+    "publisherId": "EP1055"
   },
   {
     "titleId": "PPSA17114_00",
     "conceptId": 10007674,
     "name": "Tenebris Pictura",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1060-PPSA17114_00-0524781665241148",
+    "region": "UP",
+    "publisherId": "UP1060"
   },
   {
     "titleId": "PPSA17125_00",
@@ -61794,10 +61938,10 @@
   {
     "titleId": "PPSA17261_00",
     "conceptId": 10008727,
-    "name": "Otoko Cross: Pretty Boys Dropout!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u7537\u30af\u30ed\u30b9\uff1a\u30c9\u30ed\u30c3\u30d7\u30a2\u30a6\u30c8\uff01",
+    "contentId": "UP2005-PPSA17261_00-OTOKODROPOUT0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17282_00",
@@ -61883,9 +62027,25 @@
     "titleId": "PPSA17358_00",
     "conceptId": 10008764,
     "name": "Colorful Boi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA17358_00-0805387011674799",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA17359_00",
+    "conceptId": 10008764,
+    "name": "Colorful Boi",
+    "contentId": "JP7309-PPSA17359_00-0255279479531843",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA17360_00",
+    "conceptId": 10008764,
+    "name": "Colorful Boi",
+    "contentId": "HP7354-PPSA17360_00-0829223856219071",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA17364_00",
@@ -62144,6 +62304,22 @@
     "publisherId": "HP6478"
   },
   {
+    "titleId": "PPSA17638_00",
+    "conceptId": 10008795,
+    "name": "Borderlands Collection: Pandora's Box",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17639_00",
+    "conceptId": 10008795,
+    "name": "Borderlands Collection: Pandora's Box",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17658_00",
     "conceptId": 10006283,
     "name": "CubicBan",
@@ -62216,6 +62392,22 @@
     "publisherId": "UP1309"
   },
   {
+    "titleId": "PPSA17748_00",
+    "conceptId": 10008906,
+    "name": "Swapshot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17749_00",
+    "conceptId": 10008906,
+    "name": "Swapshot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17761_00",
     "conceptId": 10000361,
     "name": "Potata: Fairy Flower",
@@ -62262,6 +62454,22 @@
     "contentId": "HP3473-PPSA17789_00-REMORSETHELIST00",
     "region": "HP",
     "publisherId": "HP3473"
+  },
+  {
+    "titleId": "PPSA17790_00",
+    "conceptId": 10008921,
+    "name": "No Son of Mine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17791_00",
+    "conceptId": 10008921,
+    "name": "No Son of Mine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17796_00",
@@ -62472,6 +62680,22 @@
     "publisherId": "HP7967"
   },
   {
+    "titleId": "PPSA18086_00",
+    "conceptId": 10009039,
+    "name": "Detective Inspector: Mysterious Clues",
+    "contentId": "EB0198-PPSA18086_00-0717596080793051",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA18108_00",
+    "conceptId": 10009046,
+    "name": "Troopers",
+    "contentId": "UP7543-PPSA18108_00-0179345765069080",
+    "region": "UP",
+    "publisherId": "UP7543"
+  },
+  {
     "titleId": "PPSA18109_00",
     "conceptId": 10009046,
     "name": "Troopers",
@@ -62502,6 +62726,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA18214_00",
+    "conceptId": 10007206,
+    "name": "B99 Overclocked",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18218_00",
+    "conceptId": 10009086,
+    "name": "Idle Zoo Park",
+    "contentId": "EP1411-PPSA18218_00-0448899060540447",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18330_00",
+    "conceptId": 10009079,
+    "name": "Legions",
+    "contentId": "EP4312-PPSA18330_00-0861356778188509",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA18332_00",
+    "conceptId": 10009079,
+    "name": "Legions",
+    "contentId": "JP0089-PPSA18332_00-0167424833034320",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA18357_00",
