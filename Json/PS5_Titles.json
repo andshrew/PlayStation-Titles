@@ -3802,8 +3802,8 @@
   {
     "titleId": "PPSA02269_00",
     "conceptId": 10001815,
-    "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122",
+    "contentId": "JP0506-PPSA02269_00-ARMOREDCORE60000",
     "region": "JP",
     "publisherId": "JP0506"
   },
@@ -18432,6 +18432,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA05284_00",
+    "conceptId": 10003802,
+    "name": "Escape from Terror City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05286_00",
     "conceptId": 10003804,
     "name": "Breakneck City",
@@ -18454,6 +18462,14 @@
     "contentId": "HP2005-PPSA05288_00-BREAKNECKCITY000",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA05291_00",
+    "conceptId": 10003805,
+    "name": "Diorama Dungeoncrawl - Master of the Living Castle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA05292_00",
@@ -20614,6 +20630,14 @@
     "contentId": "EP5125-PPSA05723_00-MEETYOURMAKER000",
     "region": "EP",
     "publisherId": "EP5125"
+  },
+  {
+    "titleId": "PPSA05725_00",
+    "conceptId": 10003945,
+    "name": "Call of the Wild: The Angler",
+    "contentId": "UP3501-PPSA05725_00-TORTOISE00000000",
+    "region": "UP",
+    "publisherId": "UP3501"
   },
   {
     "titleId": "PPSA05726_00",
@@ -23982,6 +24006,14 @@
     "contentId": "UP0891-PPSA06413_00-RAGROYALFRONTIER",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA06416_00",
+    "conceptId": 10004448,
+    "name": "Wizard with a Gun",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA06421_00",
@@ -37194,34 +37226,34 @@
   {
     "titleId": "PPSA09048_00",
     "conceptId": 10004402,
-    "name": "Boxville",
+    "name": "Boxville Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP7351"
   },
   {
     "titleId": "PPSA09049_00",
     "conceptId": 10004402,
-    "name": "Boxville",
+    "name": "Boxville Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP7349"
   },
   {
     "titleId": "PPSA09050_00",
     "conceptId": 10004402,
-    "name": "Boxville",
+    "name": "Boxville Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP7327"
   },
   {
     "titleId": "PPSA09051_00",
     "conceptId": 10004402,
-    "name": "Boxville",
+    "name": "Boxville Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "HP",
+    "publisherId": "HP7371"
   },
   {
     "titleId": "PPSA09052_00",
@@ -40824,6 +40856,14 @@
     "publisherId": "UP0036"
   },
   {
+    "titleId": "PPSA09733_00",
+    "conceptId": 10005505,
+    "name": "Wildmender",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09736_00",
     "conceptId": 10004042,
     "name": "The Dark Pictures: Switchback VR",
@@ -41406,6 +41446,22 @@
     "contentId": "HP0874-PPSA09848_00-7119983838265385",
     "region": "HP",
     "publisherId": "HP0874"
+  },
+  {
+    "titleId": "PPSA09849_00",
+    "conceptId": 10006027,
+    "name": "Overpass 2 - Standard Edition (Pre-order)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA09850_00",
+    "conceptId": 10006027,
+    "name": "Overpass 2 - Standard Edition (Pre-order)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA09852_00",
@@ -49659,9 +49715,17 @@
     "titleId": "PPSA11326_00",
     "conceptId": 10004602,
     "name": "Bomb Rush Cyberfunk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2557-PPSA11326_00-BOMBRUSHCYBRFUNK",
+    "region": "UP",
+    "publisherId": "UP2557"
+  },
+  {
+    "titleId": "PPSA11327_00",
+    "conceptId": 10004602,
+    "name": "Bomb Rush Cyberfunk",
+    "contentId": "HP2505-PPSA11327_00-BOMBRUSHCYBRFUNK",
+    "region": "HP",
+    "publisherId": "HP2505"
   },
   {
     "titleId": "PPSA11334_00",
@@ -52254,6 +52318,14 @@
     "contentId": "UP3918-PPSA13386_00-CLOCKWORK0000001",
     "region": "UP",
     "publisherId": "UP3918"
+  },
+  {
+    "titleId": "PPSA13390_00",
+    "conceptId": 10007176,
+    "name": "EA SPORTS FC\u2122 24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13391_00",
@@ -56280,6 +56352,22 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA14425_00",
+    "conceptId": 229969,
+    "name": "Mineko's Night Market",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14426_00",
+    "conceptId": 229969,
+    "name": "Mineko's Night Market",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14429_00",
     "conceptId": 10002154,
     "name": "NFL ProERA '22 (Demo Version)",
@@ -57707,9 +57795,9 @@
     "titleId": "PPSA15457_00",
     "conceptId": 10007996,
     "name": "Gastro Force",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15457_00-GASTROFORCERATGA",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15460_00",
@@ -58390,6 +58478,14 @@
     "contentId": "HP3536-PPSA15689_00-A000000000000001",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA15699_00",
+    "conceptId": 10002494,
+    "name": "Tin Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15704_00",
@@ -59592,6 +59688,14 @@
     "publisherId": "HP1390"
   },
   {
+    "titleId": "PPSA16111_00",
+    "conceptId": 221802,
+    "name": "Whitestone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16118_00",
     "conceptId": 10006269,
     "name": "Redemption Reapers",
@@ -60320,6 +60424,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA16431_00",
+    "conceptId": 10008364,
+    "name": "Vampire: The Masquerade - Justice",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3046"
+  },
+  {
     "titleId": "PPSA16432_00",
     "conceptId": 10008364,
     "name": "Vampire: The Masquerade - Justice",
@@ -60582,6 +60694,14 @@
     "contentId": "EP2005-PPSA16523_00-FEEBLELIGHT00000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA16527_00",
+    "conceptId": 10003866,
+    "name": "SpongeBob SquarePants: The Cosmic Shake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16538_00",
@@ -62024,6 +62144,14 @@
     "publisherId": "EP1661"
   },
   {
+    "titleId": "PPSA17357_00",
+    "conceptId": 10008764,
+    "name": "Colorful Boi",
+    "contentId": "UP7335-PPSA17357_00-0649491617829333",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA17358_00",
     "conceptId": 10008764,
     "name": "Colorful Boi",
@@ -62195,9 +62323,9 @@
     "titleId": "PPSA17487_00",
     "conceptId": 10008727,
     "name": "Otoko Cross: Pretty Boys Dropout!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17487_00-OTOKODROPOUT0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17490_00",
@@ -62680,6 +62808,14 @@
     "publisherId": "HP7967"
   },
   {
+    "titleId": "PPSA18085_00",
+    "conceptId": 10009039,
+    "name": "Detective Inspector: Mysterious Clues",
+    "contentId": "UB0008-PPSA18085_00-0631947299273722",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA18086_00",
     "conceptId": 10009039,
     "name": "Detective Inspector: Mysterious Clues",
@@ -62731,9 +62867,9 @@
     "titleId": "PPSA18214_00",
     "conceptId": 10007206,
     "name": "B99 Overclocked",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8566-PPSA18214_00-0207758032000932",
+    "region": "EP",
+    "publisherId": "EP8566"
   },
   {
     "titleId": "PPSA18218_00",
@@ -62744,12 +62880,28 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA18219_00",
+    "conceptId": 10009086,
+    "name": "Idle Zoo Park",
+    "contentId": "UP1421-PPSA18219_00-0625284455839001",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA18330_00",
     "conceptId": 10009079,
     "name": "Legions",
     "contentId": "EP4312-PPSA18330_00-0861356778188509",
     "region": "EP",
     "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA18331_00",
+    "conceptId": 10009079,
+    "name": "Legions",
+    "contentId": "UP4312-PPSA18331_00-0464298234547277",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA18332_00",
