@@ -18464,6 +18464,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA05289_00",
+    "conceptId": 10003805,
+    "name": "Diorama Dungeoncrawl - Master of the Living Castle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05291_00",
     "conceptId": 10003805,
     "name": "Diorama Dungeoncrawl - Master of the Living Castle",
@@ -24016,6 +24024,14 @@
     "publisherId": "UP3643"
   },
   {
+    "titleId": "PPSA06417_00",
+    "conceptId": 10004448,
+    "name": "Wizard with a Gun",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP3643"
+  },
+  {
     "titleId": "PPSA06421_00",
     "conceptId": 10000864,
     "name": "Eternal Kingdom Battle Peak",
@@ -25403,9 +25419,9 @@
     "titleId": "PPSA06690_00",
     "conceptId": 10004602,
     "name": "Bomb Rush Cyberfunk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2422-PPSA06690_00-BOMBRUSHCYBRFUNK",
+    "region": "EP",
+    "publisherId": "EP2422"
   },
   {
     "titleId": "PPSA06691_00",
@@ -26450,10 +26466,10 @@
   {
     "titleId": "PPSA06887_00",
     "conceptId": 10000794,
-    "name": "Edge Of Eternity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EdgeOfEternity",
+    "contentId": "JP0075-PPSA06887_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA06888_00",
@@ -47747,9 +47763,9 @@
     "titleId": "PPSA10948_00",
     "conceptId": 10006404,
     "name": "Rhapsody: Marl Kingdom Chronicles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA10948_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA10949_00",
@@ -49712,6 +49728,14 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA11325_00",
+    "conceptId": 10004602,
+    "name": "Bomb Rush Cyberfunk",
+    "contentId": "JP2602-PPSA11325_00-BOMBRUSHCYBRFUNK",
+    "region": "JP",
+    "publisherId": "JP2602"
+  },
+  {
     "titleId": "PPSA11326_00",
     "conceptId": 10004602,
     "name": "Bomb Rush Cyberfunk",
@@ -51526,6 +51550,14 @@
     "contentId": "EP7333-PPSA12628_00-0992380907082737",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12636_00",
+    "conceptId": 10006957,
+    "name": "Dodge It",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12640_00",
@@ -62982,5 +63014,13 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP6913"
+  },
+  {
+    "titleId": "PPSA18700_00",
+    "conceptId": 221802,
+    "name": "Whitestone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
