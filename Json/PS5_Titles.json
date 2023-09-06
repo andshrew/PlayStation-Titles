@@ -5427,17 +5427,17 @@
     "titleId": "PPSA02590_00",
     "conceptId": 10002104,
     "name": "DREAMERS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2921-PPSA02590_00-0000000000000005",
+    "region": "EP",
+    "publisherId": "EP2921"
   },
   {
     "titleId": "PPSA02591_00",
     "conceptId": 10002104,
     "name": "DREAMERS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3061-PPSA02591_00-0000000000000006",
+    "region": "UP",
+    "publisherId": "UP3061"
   },
   {
     "titleId": "PPSA02592_00",
@@ -27232,6 +27232,22 @@
     "publisherId": "UP4912"
   },
   {
+    "titleId": "PPSA07043_00",
+    "conceptId": 10004776,
+    "name": "Agatha Christie - Murder on the Orient Express",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07044_00",
+    "conceptId": 10004776,
+    "name": "Agatha Christie - Murder on the Orient Express",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07045_00",
     "conceptId": 10003303,
     "name": "Deathrun TV",
@@ -27270,6 +27286,14 @@
     "contentId": "EP5438-PPSA07053_00-9094929783521714",
     "region": "EP",
     "publisherId": "EP5438"
+  },
+  {
+    "titleId": "PPSA07055_00",
+    "conceptId": 234471,
+    "name": "CoffeeTalk",
+    "contentId": "JP0211-PPSA07055_00-0842489021226335",
+    "region": "JP",
+    "publisherId": "JP0211"
   },
   {
     "titleId": "PPSA07058_00",
@@ -30086,6 +30110,14 @@
     "contentId": "EP3877-PPSA07653_00-OXIDE104BASEGAME",
     "region": "EP",
     "publisherId": "EP3877"
+  },
+  {
+    "titleId": "PPSA07655_00",
+    "conceptId": 10005079,
+    "name": "The Grinch: Christmas Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07658_00",
@@ -53472,6 +53504,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13679_00",
+    "conceptId": 10007295,
+    "name": "Summum Aeterna",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13680_00",
     "conceptId": 10007296,
     "name": "Lempo",
@@ -53526,6 +53566,22 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4389"
+  },
+  {
+    "titleId": "PPSA13688_00",
+    "conceptId": 10007299,
+    "name": "Waltz of the Wizard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13689_00",
+    "conceptId": 10007299,
+    "name": "Waltz of the Wizard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13690_00",
@@ -54150,6 +54206,22 @@
     "contentId": "UP8121-PPSA13841_00-0074221520084845",
     "region": "UP",
     "publisherId": "UP8121"
+  },
+  {
+    "titleId": "PPSA13843_00",
+    "conceptId": 10004787,
+    "name": "Disgaea 7: Vows of the Virtueless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13844_00",
+    "conceptId": 10004787,
+    "name": "Disgaea 7: Vows of the Virtueless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13845_00",
@@ -56443,9 +56515,9 @@
     "titleId": "PPSA14462_00",
     "conceptId": 10007653,
     "name": "This Way Madness Lies",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0707-PPSA14462_00-0731123154822554",
+    "region": "UP",
+    "publisherId": "UP0707"
   },
   {
     "titleId": "PPSA14463_00",
@@ -57114,10 +57186,10 @@
   {
     "titleId": "PPSA15174_00",
     "conceptId": 10001203,
-    "name": "MONOCHROME MBOBIUS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Monochrome Mobius: Rights and Wrongs Forgotten",
+    "contentId": "UP1063-PPSA15174_00-MMTOKINOTAIKA000",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA15175_00",
@@ -57456,6 +57528,14 @@
     "publisherId": "EP4064"
   },
   {
+    "titleId": "PPSA15350_00",
+    "conceptId": 10007968,
+    "name": "Trepang2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4064"
+  },
+  {
     "titleId": "PPSA15352_00",
     "conceptId": 10007970,
     "name": "To Hell With The Ugly",
@@ -57678,6 +57758,14 @@
     "contentId": "EP2005-PPSA15401_00-AGRICULTURE00000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA15405_00",
+    "conceptId": 228694,
+    "name": "The Caligula Effect: Overdose",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15407_00",
@@ -58456,36 +58544,60 @@
     "publisherId": "UP7671"
   },
   {
-    "titleId": "PPSA15658_00",
-    "conceptId": 10008054,
-    "name": "Sokomage",
+    "titleId": "PPSA15653_00",
+    "conceptId": 10008088,
+    "name": "Air Twister",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15654_00",
+    "conceptId": 10008088,
+    "name": "Air Twister",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15655_00",
+    "conceptId": 10008088,
+    "name": "Air Twister",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15658_00",
+    "conceptId": 10008054,
+    "name": "Sokomage",
+    "contentId": "UP8511-PPSA15658_00-0395718628075611",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA15659_00",
     "conceptId": 10008054,
     "name": "Sokomage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA15659_00-0050468363229174",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA15660_00",
     "conceptId": 10008054,
     "name": "Sokomage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA15660_00-0605747527562228",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA15661_00",
     "conceptId": 10008054,
     "name": "Sokomage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA15661_00-0271587117811449",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA15662_00",
@@ -59286,6 +59398,22 @@
     "contentId": "EP0182-PPSA15959_00-0362411899323745",
     "region": "EP",
     "publisherId": "EP0182"
+  },
+  {
+    "titleId": "PPSA15961_00",
+    "conceptId": 10008182,
+    "name": "AK-xolotl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15962_00",
+    "conceptId": 10008182,
+    "name": "AK-xolotl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15966_00",
@@ -61520,6 +61648,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16830_00",
+    "conceptId": 10008534,
+    "name": "Strike Force 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16831_00",
+    "conceptId": 10008534,
+    "name": "Strike Force 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16832_00",
     "conceptId": 10005806,
     "name": "Shotgun King: The Final Checkmate",
@@ -61558,6 +61702,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP8316"
+  },
+  {
+    "titleId": "PPSA16840_00",
+    "conceptId": 10008539,
+    "name": "Touhou: New World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16862_00",
@@ -62650,10 +62802,10 @@
   {
     "titleId": "PPSA17791_00",
     "conceptId": 10008921,
-    "name": "No Son of Mine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "No Son Of Mine",
+    "contentId": "EP3385-PPSA17791_00-0248967303479729",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA17796_00",
@@ -63043,6 +63195,38 @@
     "titleId": "PPSA18700_00",
     "conceptId": 221802,
     "name": "Whitestone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18702_00",
+    "conceptId": 10003471,
+    "name": "Blind Postman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18703_00",
+    "conceptId": 10003471,
+    "name": "Blind Postman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18704_00",
+    "conceptId": 10003471,
+    "name": "Blind Postman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18705_00",
+    "conceptId": 10003471,
+    "name": "Blind Postman",
     "contentId": null,
     "region": null,
     "publisherId": null
