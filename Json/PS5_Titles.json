@@ -18435,9 +18435,9 @@
     "titleId": "PPSA05284_00",
     "conceptId": 10003802,
     "name": "Escape from Terror City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA05284_00-ESCAPEFROMTERROR",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA05286_00",
@@ -22478,6 +22478,14 @@
     "contentId": "JP0425-PPSA06091_00-EDKURONOKISEKI01",
     "region": "JP",
     "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA06092_00",
+    "conceptId": 10004258,
+    "name": "WRC Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0006"
   },
   {
     "titleId": "PPSA06094_00",
@@ -34000,6 +34008,14 @@
     "publisherId": "EP3678"
   },
   {
+    "titleId": "PPSA08429_00",
+    "conceptId": 10005330,
+    "name": "Funtasia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08433_00",
     "conceptId": 10005397,
     "name": "Avenging Spirit",
@@ -40875,7 +40891,7 @@
     "titleId": "PPSA09723_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
-    "contentId": null,
+    "contentId": "HP0957-PPSA09723_00-1409116869451629",
     "region": "HP",
     "publisherId": "HP0957"
   },
@@ -51600,12 +51616,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12635_00",
+    "conceptId": 10006957,
+    "name": "Dodge It",
+    "contentId": "UP7335-PPSA12635_00-0456557673841974",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA12636_00",
     "conceptId": 10006957,
     "name": "Dodge It",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA12636_00-0457049464314441",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA12640_00",
@@ -54858,16 +54882,16 @@
   {
     "titleId": "PPSA14001_00",
     "conceptId": 10007460,
-    "name": "Baldur's Gate 3 - Digital Deluxe Edition",
-    "contentId": null,
+    "name": "Baldur's Gate 3",
+    "contentId": "UP3526-PPSA14001_00-0507384846053057",
     "region": "UP",
     "publisherId": "UP3526"
   },
   {
     "titleId": "PPSA14002_00",
     "conceptId": 10007460,
-    "name": "Baldur's Gate 3 - Digital Deluxe Edition",
-    "contentId": null,
+    "name": "Baldur's Gate 3",
+    "contentId": "EP3383-PPSA14002_00-0872837811678079",
     "region": "EP",
     "publisherId": "EP3383"
   },
@@ -56160,6 +56184,14 @@
     "publisherId": "UP1191"
   },
   {
+    "titleId": "PPSA14305_00",
+    "conceptId": 10007295,
+    "name": "Summum Aeterna",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14306_00",
     "conceptId": 10007595,
     "name": "Kuroi Tsubasa",
@@ -56586,8 +56618,8 @@
   {
     "titleId": "PPSA14486_00",
     "conceptId": 10007460,
-    "name": "Baldur's Gate 3 - Digital Deluxe Edition",
-    "contentId": null,
+    "name": "Baldur's Gate 3",
+    "contentId": "HP3470-PPSA14486_00-0137097724824368",
     "region": "HP",
     "publisherId": "HP3470"
   },
@@ -57763,9 +57795,9 @@
     "titleId": "PPSA15405_00",
     "conceptId": 228694,
     "name": "The Caligula Effect: Overdose",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0036-PPSA15405_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP0036"
   },
   {
     "titleId": "PPSA15407_00",
@@ -60416,6 +60448,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16310_00",
+    "conceptId": 10008034,
+    "name": "THRONE AND LIBERTY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16321_00",
     "conceptId": 10007380,
     "name": "BREAK STUFF VR",
@@ -61651,9 +61691,9 @@
     "titleId": "PPSA16830_00",
     "conceptId": 10008534,
     "name": "Strike Force 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4902-PPSA16830_00-0725707444965441",
+    "region": "EP",
+    "publisherId": "EP4902"
   },
   {
     "titleId": "PPSA16831_00",
@@ -61870,6 +61910,14 @@
     "contentId": "HB0017-PPSA16976_00-0133043616499406",
     "region": "HB",
     "publisherId": "HB0017"
+  },
+  {
+    "titleId": "PPSA16980_00",
+    "conceptId": 10008595,
+    "name": "Mai Daikon",
+    "contentId": "JP4792-PPSA16980_00-0698747458378822",
+    "region": "JP",
+    "publisherId": "JP4792"
   },
   {
     "titleId": "PPSA16985_00",
@@ -62704,6 +62752,14 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA17721_00",
+    "conceptId": 10006015,
+    "name": "WildTrax Racing",
+    "contentId": "JP5432-PPSA17721_00-0255546144919502",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA17727_00",
     "conceptId": 10005806,
     "name": "Shotgun King: The Final Checkmate",
@@ -62794,10 +62850,10 @@
   {
     "titleId": "PPSA17790_00",
     "conceptId": 10008921,
-    "name": "No Son of Mine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "No Son Of Mine",
+    "contentId": "UP3528-PPSA17790_00-0248967303479729",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA17791_00",
