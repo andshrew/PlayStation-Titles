@@ -9960,6 +9960,14 @@
     "publisherId": "UP1470"
   },
   {
+    "titleId": "PPSA03540_00",
+    "conceptId": 10002788,
+    "name": "UFC\u00ae 5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA03544_00",
     "conceptId": 10002794,
     "name": "Aliens: Fireteam Elite (PS5)",
@@ -18427,9 +18435,9 @@
     "titleId": "PPSA05283_00",
     "conceptId": 10003802,
     "name": "Escape from Terror City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA05283_00-ESCAPEFROMTERROR",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA05284_00",
@@ -22486,6 +22494,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0006"
+  },
+  {
+    "titleId": "PPSA06093_00",
+    "conceptId": 10004258,
+    "name": "WRC Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA06094_00",
@@ -30128,6 +30144,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07656_00",
+    "conceptId": 10005079,
+    "name": "The Grinch: Christmas Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07658_00",
     "conceptId": 10001225,
     "name": "Park Beyond",
@@ -33883,7 +33907,7 @@
     "titleId": "PPSA08404_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
-    "contentId": null,
+    "contentId": "EP0811-PPSA08404_00-9990144616832358",
     "region": "EP",
     "publisherId": "EP0811"
   },
@@ -34014,6 +34038,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA08430_00",
+    "conceptId": 10005330,
+    "name": "Funtasia",
+    "contentId": "JP6636-PPSA08430_00-7397228291302458",
+    "region": "JP",
+    "publisherId": "JP6636"
   },
   {
     "titleId": "PPSA08433_00",
@@ -34350,6 +34382,14 @@
     "contentId": "EP3245-PPSA08500_00-RAINWORLD0000000",
     "region": "EP",
     "publisherId": "EP3245"
+  },
+  {
+    "titleId": "PPSA08502_00",
+    "conceptId": 10002788,
+    "name": "UFC\u00ae 5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08503_00",
@@ -35750,6 +35790,30 @@
     "contentId": "EP0006-PPSA08764_00-NHLPS5TECHTEST23",
     "region": "EP",
     "publisherId": "EP0006"
+  },
+  {
+    "titleId": "PPSA08765_00",
+    "conceptId": 10005446,
+    "name": "COCOON",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08766_00",
+    "conceptId": 10005446,
+    "name": "COCOON",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08767_00",
+    "conceptId": 10005446,
+    "name": "COCOON",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08772_00",
@@ -40883,7 +40947,7 @@
     "titleId": "PPSA09722_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
-    "contentId": null,
+    "contentId": "JP1111-PPSA09722_00-3234574781725543",
     "region": "JP",
     "publisherId": "JP1111"
   },
@@ -49792,6 +49856,14 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA11323_00",
+    "conceptId": 10006542,
+    "name": "Seduce Me - The Complete Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11325_00",
     "conceptId": 10004602,
     "name": "Bomb Rush Cyberfunk",
@@ -53539,17 +53611,17 @@
     "titleId": "PPSA13680_00",
     "conceptId": 10007296,
     "name": "Lempo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA13680_00-ONETRICKELEMPO23",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA13681_00",
     "conceptId": 10007296,
     "name": "Lempo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA13681_00-ONETRICKELEMPO23",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA13683_00",
@@ -58411,9 +58483,9 @@
     "titleId": "PPSA15589_00",
     "conceptId": 10008053,
     "name": "Wild Seas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA15589_00-0152949502818971",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA15590_00",
@@ -59787,17 +59859,17 @@
     "titleId": "PPSA16067_00",
     "conceptId": 10008222,
     "name": "Alchemy Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA16067_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA16068_00",
     "conceptId": 10008222,
     "name": "Alchemy Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA16068_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA16069_00",
@@ -59859,9 +59931,9 @@
     "titleId": "PPSA16099_00",
     "conceptId": 10008232,
     "name": "TOSS!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3392-PPSA16099_00-0852952590324702",
+    "region": "EP",
+    "publisherId": "EP3392"
   },
   {
     "titleId": "PPSA16100_00",
@@ -60448,6 +60520,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16309_00",
+    "conceptId": 10008034,
+    "name": "THRONE AND LIBERTY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16310_00",
     "conceptId": 10008034,
     "name": "THRONE AND LIBERTY",
@@ -60576,6 +60656,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16419_00",
+    "conceptId": 10007385,
+    "name": "RUINSMAGUS: COMPLETE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16420_00",
     "conceptId": 10001483,
     "name": "The Valiant - Demo",
@@ -60598,6 +60686,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4389"
+  },
+  {
+    "titleId": "PPSA16423_00",
+    "conceptId": 10007385,
+    "name": "RUINSMAGUS: COMPLETE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16424_00",
@@ -60811,9 +60907,9 @@
     "titleId": "PPSA16469_00",
     "conceptId": 10008232,
     "name": "TOSS!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3535-PPSA16469_00-0384275468741037",
+    "region": "UP",
+    "publisherId": "UP3535"
   },
   {
     "titleId": "PPSA16470_00",
@@ -61699,9 +61795,9 @@
     "titleId": "PPSA16831_00",
     "conceptId": 10008534,
     "name": "Strike Force 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4729-PPSA16831_00-0218478258043884",
+    "region": "UP",
+    "publisherId": "UP4729"
   },
   {
     "titleId": "PPSA16832_00",
@@ -61745,6 +61841,14 @@
   },
   {
     "titleId": "PPSA16840_00",
+    "conceptId": 10008539,
+    "name": "Touhou: New World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16841_00",
     "conceptId": 10008539,
     "name": "Touhou: New World",
     "contentId": null,
@@ -61864,6 +61968,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA16955_00",
+    "conceptId": 10008591,
+    "name": "The Myth Seekers: The Legacy of Vulcan",
+    "contentId": "EP1667-PPSA16955_00-TMS1V0023PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
+  },
+  {
     "titleId": "PPSA16956_00",
     "conceptId": 10006846,
     "name": "Synapse",
@@ -61875,6 +61987,14 @@
     "titleId": "PPSA16957_00",
     "conceptId": 10006846,
     "name": "Synapse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16958_00",
+    "conceptId": 10008591,
+    "name": "The Myth Seekers: The Legacy of Vulkan",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -62123,25 +62243,25 @@
     "titleId": "PPSA17144_00",
     "conceptId": 10008675,
     "name": "Enchanted Portals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA17144_00-0968446461238286",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA17145_00",
     "conceptId": 10008675,
     "name": "Enchanted Portals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3631-PPSA17145_00-0606185313397736",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA17146_00",
     "conceptId": 10008675,
     "name": "Enchanted Portals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA17146_00-0067063927261081",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA17155_00",
@@ -62922,10 +63042,10 @@
   {
     "titleId": "PPSA17872_00",
     "conceptId": 10007658,
-    "name": "Kittengumi: The Sakabato's Thief",
+    "name": "Kittengumi: The Sakabato's Thief Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA17873_00",
@@ -62938,10 +63058,10 @@
   {
     "titleId": "PPSA17874_00",
     "conceptId": 10007658,
-    "name": "Kittengumi: The Sakabato's Thief",
+    "name": "Kittengumi: The Sakabato's Thief Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP1111"
   },
   {
     "titleId": "PPSA17875_00",
