@@ -18427,9 +18427,9 @@
     "titleId": "PPSA05282_00",
     "conceptId": 10003802,
     "name": "Escape from Terror City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA05282_00-ESCAPEFROMTERROR",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA05283_00",
@@ -22514,10 +22514,10 @@
   {
     "titleId": "PPSA06095_00",
     "conceptId": 10004241,
-    "name": "Runner Heroes - The Curse of Night and Day",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Runner Heroes",
+    "contentId": "EP4681-PPSA06095_00-RUNNERHEROES0000",
+    "region": "EP",
+    "publisherId": "EP4681"
   },
   {
     "titleId": "PPSA06096_00",
@@ -32866,18 +32866,18 @@
   {
     "titleId": "PPSA08208_00",
     "conceptId": 10005310,
-    "name": "Warstride Challenges",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Warstride: Challenges",
+    "contentId": "EP4133-PPSA08208_00-WARSTRIDECHALLEN",
+    "region": "EP",
+    "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA08209_00",
     "conceptId": 10005310,
-    "name": "Warstride Challenges",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Warstride: Challenges",
+    "contentId": "UP4133-PPSA08209_00-WARSTRIDECHALLEN",
+    "region": "UP",
+    "publisherId": "UP4133"
   },
   {
     "titleId": "PPSA08213_00",
@@ -34032,6 +34032,14 @@
     "publisherId": "EP3678"
   },
   {
+    "titleId": "PPSA08428_00",
+    "conceptId": 10005330,
+    "name": "Funtasia",
+    "contentId": "UP6705-PPSA08428_00-8537346595762036",
+    "region": "UP",
+    "publisherId": "UP6705"
+  },
+  {
     "titleId": "PPSA08429_00",
     "conceptId": 10005330,
     "name": "Funtasia",
@@ -34046,6 +34054,14 @@
     "contentId": "JP6636-PPSA08430_00-7397228291302458",
     "region": "JP",
     "publisherId": "JP6636"
+  },
+  {
+    "titleId": "PPSA08431_00",
+    "conceptId": 10005330,
+    "name": "Funtasia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08433_00",
@@ -48024,6 +48040,14 @@
     "publisherId": "UP8121"
   },
   {
+    "titleId": "PPSA10972_00",
+    "conceptId": 10006417,
+    "name": "Another Crusade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10974_00",
     "conceptId": 10006418,
     "name": "BROK the InvestiGator",
@@ -49859,9 +49883,17 @@
     "titleId": "PPSA11323_00",
     "conceptId": 10006542,
     "name": "Seduce Me - The Complete Story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA11323_00-SEDUCEMERATALAIK",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA11324_00",
+    "conceptId": 10006542,
+    "name": "Seduce Me - The Complete Story",
+    "contentId": "UP0891-PPSA11324_00-SEDUCEMERATALAIK",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA11325_00",
@@ -57298,10 +57330,10 @@
   {
     "titleId": "PPSA15175_00",
     "conceptId": 10001203,
-    "name": "MONOCHROME MBOBIUS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Monochrome Mobius: Rights and Wrongs Forgotten",
+    "contentId": "EP1063-PPSA15175_00-MMTOKINOTAIKA000",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA15189_00",
@@ -57538,16 +57570,16 @@
   {
     "titleId": "PPSA15301_00",
     "conceptId": 10007788,
-    "name": "NBA 2K24 Kobe Bryant Edition for PS5\u2122",
-    "contentId": null,
+    "name": "NBA 2K24",
+    "contentId": "UP1001-PPSA15301_00-NBA2K24000000000",
     "region": "UP",
     "publisherId": "UP1001"
   },
   {
     "titleId": "PPSA15302_00",
     "conceptId": 10007788,
-    "name": "NBA 2K24 Kobe Bryant Edition for PS5\u2122",
-    "contentId": null,
+    "name": "NBA 2K24",
+    "contentId": "EP1001-PPSA15302_00-NBA2K24000000000",
     "region": "EP",
     "publisherId": "EP1001"
   },
@@ -58459,25 +58491,25 @@
     "titleId": "PPSA15586_00",
     "conceptId": 10008053,
     "name": "Wild Seas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA15586_00-0957415692001573",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA15587_00",
     "conceptId": 10008053,
     "name": "Wild Seas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA15587_00-0692120502783627",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA15588_00",
     "conceptId": 10008053,
     "name": "Wild Seas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA15588_00-0702687850989193",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA15589_00",
@@ -59584,6 +59616,22 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA15993_00",
+    "conceptId": 10002788,
+    "name": "UFC\u00ae 5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15994_00",
+    "conceptId": 10002788,
+    "name": "UFC\u00ae 5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15996_00",
     "conceptId": 10006464,
     "name": "Dark Deception Demo",
@@ -59979,9 +60027,9 @@
     "titleId": "PPSA16111_00",
     "conceptId": 221802,
     "name": "Whitestone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0312-PPSA16111_00-0682193792279945",
+    "region": "UP",
+    "publisherId": "UP0312"
   },
   {
     "titleId": "PPSA16118_00",
@@ -60370,34 +60418,34 @@
   {
     "titleId": "PPSA16251_00",
     "conceptId": 10008112,
-    "name": "Night At the Gates of Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Night at the Gates of Hell",
+    "contentId": "UP6778-PPSA16251_00-0870935000377135",
+    "region": "UP",
+    "publisherId": "UP6778"
   },
   {
     "titleId": "PPSA16252_00",
     "conceptId": 10008112,
-    "name": "Night At the Gates of Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Night at the Gates of Hell",
+    "contentId": "EP6776-PPSA16252_00-0457863793614345",
+    "region": "EP",
+    "publisherId": "EP6776"
   },
   {
     "titleId": "PPSA16253_00",
     "conceptId": 10008112,
-    "name": "Night At the Gates of Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Night at the Gates of Hell",
+    "contentId": "JP6727-PPSA16253_00-0748945861318546",
+    "region": "JP",
+    "publisherId": "JP6727"
   },
   {
     "titleId": "PPSA16254_00",
     "conceptId": 10008112,
-    "name": "Night At the Gates of Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Night at the Gates of Hell",
+    "contentId": "HP6784-PPSA16254_00-0756200372278859",
+    "region": "HP",
+    "publisherId": "HP6784"
   },
   {
     "titleId": "PPSA16265_00",
@@ -60710,6 +60758,14 @@
     "contentId": "EP0546-PPSA16425_00-QUBYTEADOREPS5EU",
     "region": "EP",
     "publisherId": "EP0546"
+  },
+  {
+    "titleId": "PPSA16426_00",
+    "conceptId": 10007385,
+    "name": "RUINSMAGUS: COMPLETE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16427_00",
@@ -61784,6 +61840,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16828_00",
+    "conceptId": 10008533,
+    "name": "Fresh Start",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16829_00",
+    "conceptId": 10008533,
+    "name": "Fresh Start",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16830_00",
     "conceptId": 10008534,
     "name": "Strike Force 3",
@@ -61994,10 +62066,10 @@
   {
     "titleId": "PPSA16958_00",
     "conceptId": 10008591,
-    "name": "The Myth Seekers: The Legacy of Vulkan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Myth Seekers: The Legacy of Vulcan",
+    "contentId": "UP1681-PPSA16958_00-TMS1V0023PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA16973_00",
@@ -62054,6 +62126,14 @@
     "contentId": "HP0036-PPSA16986_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP0036"
+  },
+  {
+    "titleId": "PPSA16988_00",
+    "conceptId": 10008517,
+    "name": "Mudness Offroad 2 - Runner 4x4 Mud Challange Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16991_00",
@@ -62235,9 +62315,9 @@
     "titleId": "PPSA17143_00",
     "conceptId": 10008675,
     "name": "Enchanted Portals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA17143_00-0766945843410766",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA17144_00",
@@ -62730,10 +62810,10 @@
   {
     "titleId": "PPSA17493_00",
     "conceptId": 10008814,
-    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mr. Hibbl: The Lost Levels",
+    "contentId": "HP6661-PPSA17493_00-0303525401872824",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA17503_00",
@@ -62822,6 +62902,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17653_00",
+    "conceptId": 10008764,
+    "name": "Colorful Boi - DEMO",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA17654_00",
+    "conceptId": 10008764,
+    "name": "Colorful Boi - DEMO",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA17655_00",
+    "conceptId": 10008764,
+    "name": "Colorful Boi - DEMO",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA17656_00",
+    "conceptId": 10008764,
+    "name": "Colorful Boi - DEMO",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA17658_00",
@@ -63050,10 +63162,10 @@
   {
     "titleId": "PPSA17873_00",
     "conceptId": 10007658,
-    "name": "Kittengumi: The Sakabato's Thief",
+    "name": "Kittengumi: The Sakabato's Thief Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA17874_00",
@@ -63304,6 +63416,14 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA18362_00",
+    "conceptId": 10008069,
+    "name": "Lost Eidolons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18369_00",
     "conceptId": 10008677,
     "name": "Bulletstorm VR",
@@ -63368,12 +63488,44 @@
     "publisherId": "UP6913"
   },
   {
-    "titleId": "PPSA18700_00",
-    "conceptId": 221802,
-    "name": "Whitestone",
+    "titleId": "PPSA18646_00",
+    "conceptId": 10009259,
+    "name": "The Jumping Food Memory",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA18647_00",
+    "conceptId": 10009259,
+    "name": "The Jumping Food Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18648_00",
+    "conceptId": 10009259,
+    "name": "The Jumping Food Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18649_00",
+    "conceptId": 10009259,
+    "name": "The Jumping Food Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18700_00",
+    "conceptId": 221802,
+    "name": "Whitestone",
+    "contentId": "EP0310-PPSA18700_00-WHITESTONEHUMORE",
+    "region": "EP",
+    "publisherId": "EP0310"
   },
   {
     "titleId": "PPSA18702_00",
