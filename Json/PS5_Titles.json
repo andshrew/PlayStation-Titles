@@ -22522,10 +22522,10 @@
   {
     "titleId": "PPSA06096_00",
     "conceptId": 10004241,
-    "name": "Runner Heroes - The Curse of Night and Day",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Runner Heroes",
+    "contentId": "UP4480-PPSA06096_00-RUNNERHEROES0000",
+    "region": "UP",
+    "publisherId": "UP4480"
   },
   {
     "titleId": "PPSA06097_00",
@@ -27190,6 +27190,14 @@
     "contentId": "JP0013-PPSA07027_00-JP0INFINITEL0PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA07028_00",
+    "conceptId": 10002685,
+    "name": "Catie in MeowmeowLand",
+    "contentId": "HP6409-PPSA07028_00-6646265863389966",
+    "region": "HP",
+    "publisherId": "HP6409"
   },
   {
     "titleId": "PPSA07029_00",
@@ -33915,7 +33923,7 @@
     "titleId": "PPSA08405_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo",
-    "contentId": null,
+    "contentId": "UP0814-PPSA08405_00-9359373677649934",
     "region": "UP",
     "publisherId": "UP0814"
   },
@@ -34043,9 +34051,9 @@
     "titleId": "PPSA08429_00",
     "conceptId": 10005330,
     "name": "Funtasia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6704-PPSA08429_00-2797030545681902",
+    "region": "EP",
+    "publisherId": "EP6704"
   },
   {
     "titleId": "PPSA08430_00",
@@ -35825,6 +35833,14 @@
   },
   {
     "titleId": "PPSA08767_00",
+    "conceptId": 10005446,
+    "name": "COCOON",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08768_00",
     "conceptId": 10005446,
     "name": "COCOON",
     "contentId": null,
@@ -48041,6 +48057,14 @@
   },
   {
     "titleId": "PPSA10972_00",
+    "conceptId": 10006417,
+    "name": "Another Crusade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10973_00",
     "conceptId": 10006417,
     "name": "Another Crusade",
     "contentId": null,
@@ -62128,12 +62152,20 @@
     "publisherId": "HP0036"
   },
   {
+    "titleId": "PPSA16987_00",
+    "conceptId": 10008517,
+    "name": "Mudness Offroad 2 - Runner 4x4 Mud Challange Simulator",
+    "contentId": "UP6327-PPSA16987_00-0265352003805465",
+    "region": "UP",
+    "publisherId": "UP6327"
+  },
+  {
     "titleId": "PPSA16988_00",
     "conceptId": 10008517,
     "name": "Mudness Offroad 2 - Runner 4x4 Mud Challange Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6326-PPSA16988_00-0864080963254278",
+    "region": "EP",
+    "publisherId": "EP6326"
   },
   {
     "titleId": "PPSA16991_00",
@@ -62688,6 +62720,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA17411_00",
+    "conceptId": 10008783,
+    "name": "Sky Races",
+    "contentId": "EB0198-PPSA17411_00-0490970126533617",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
     "titleId": "PPSA17412_00",
     "conceptId": 10008784,
     "name": "Pocket Soccer",
@@ -62786,26 +62826,26 @@
   {
     "titleId": "PPSA17490_00",
     "conceptId": 10008814,
-    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mr. Hibbl: The Lost Levels",
+    "contentId": "EP6664-PPSA17490_00-0495493896195765",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA17491_00",
     "conceptId": 10008814,
-    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mr. Hibbl: The Lost Levels",
+    "contentId": "UP6664-PPSA17491_00-0410001106586959",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA17492_00",
     "conceptId": 10008814,
-    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mr. Hibbl: The Lost Levels",
+    "contentId": "JP6595-PPSA17492_00-0622970469070920",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA17493_00",
