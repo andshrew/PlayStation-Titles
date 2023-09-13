@@ -27912,6 +27912,14 @@
     "publisherId": "JP6079"
   },
   {
+    "titleId": "PPSA07190_00",
+    "conceptId": 10004838,
+    "name": "SUPER BOMBERMAN R 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07191_00",
     "conceptId": 10004838,
     "name": "SUPER BOMBERMAN R 2",
@@ -31534,6 +31542,14 @@
     "contentId": "HP3640-PPSA07936_00-MEDIEVALDYNPS5AS",
     "region": "HP",
     "publisherId": "HP3640"
+  },
+  {
+    "titleId": "PPSA07937_00",
+    "conceptId": 10005136,
+    "name": "Dungeons 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07942_00",
@@ -52043,17 +52059,17 @@
     "titleId": "PPSA13247_00",
     "conceptId": 10007127,
     "name": "Word Web by POWGI",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3743-PPSA13247_00-WORDWEBBYPOWGI00",
+    "region": "UP",
+    "publisherId": "UP3743"
   },
   {
     "titleId": "PPSA13248_00",
     "conceptId": 10007127,
     "name": "Word Web by POWGI",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3597-PPSA13248_00-WORDWEBBYPOWGI00",
+    "region": "EP",
+    "publisherId": "EP3597"
   },
   {
     "titleId": "PPSA13249_00",
@@ -54910,6 +54926,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA13955_00",
+    "conceptId": 10004787,
+    "name": "Disgaea 7: Vows of the Virtueless Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA13960_00",
@@ -57923,9 +57947,9 @@
     "titleId": "PPSA15393_00",
     "conceptId": 10007980,
     "name": "Mystic Gate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA15393_00-MYSTICGATE000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA15394_00",
@@ -59046,6 +59070,14 @@
     "contentId": "EP6659-PPSA15759_00-0503971843791555",
     "region": "EP",
     "publisherId": "EP6659"
+  },
+  {
+    "titleId": "PPSA15760_00",
+    "conceptId": 10008128,
+    "name": "Football Manager 2024 Console",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA15766_00",
@@ -61451,7 +61483,7 @@
     "titleId": "PPSA16648_00",
     "conceptId": 10007274,
     "name": "The Isle Tide Hotel",
-    "contentId": null,
+    "contentId": "UP4459-PPSA16648_00-TITHPS5SIEA00000",
     "region": "UP",
     "publisherId": "UP4459"
   },
@@ -61459,7 +61491,7 @@
     "titleId": "PPSA16649_00",
     "conceptId": 10007274,
     "name": "The Isle Tide Hotel",
-    "contentId": null,
+    "contentId": "EP4459-PPSA16649_00-TITHPS5SIEE00000",
     "region": "EP",
     "publisherId": "EP4459"
   },
@@ -61499,7 +61531,7 @@
     "titleId": "PPSA16656_00",
     "conceptId": 10007274,
     "name": "The Isle Tide Hotel",
-    "contentId": null,
+    "contentId": "HP4459-PPSA16656_00-TITHPS5SIEJAASIA",
     "region": "HP",
     "publisherId": "HP4459"
   },
@@ -62003,9 +62035,9 @@
     "titleId": "PPSA16841_00",
     "conceptId": 10008539,
     "name": "Touhou: New World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1023-PPSA16841_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP1023"
   },
   {
     "titleId": "PPSA16862_00",
@@ -62088,6 +62120,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16938_00",
+    "conceptId": 10008581,
+    "name": "Bilkins' Folly",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16939_00",
     "conceptId": 10008546,
     "name": "Donuts in Space",
@@ -62150,6 +62190,14 @@
     "contentId": "UP1681-PPSA16958_00-TMS1V0023PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA16969_00",
+    "conceptId": 10008581,
+    "name": "Bilkins' Folly",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16973_00",
@@ -62606,6 +62654,14 @@
     "contentId": "UP2005-PPSA17261_00-OTOKODROPOUT0000",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA17272_00",
+    "conceptId": 10008128,
+    "name": "Football Manager 2024 Console",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA17282_00",
@@ -63667,6 +63723,46 @@
     "titleId": "PPSA18705_00",
     "conceptId": 10003471,
     "name": "Blind Postman",
+    "contentId": "HP6691-PPSA18705_00-BLINPOSTMANPS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA18803_00",
+    "conceptId": 10004332,
+    "name": "Broken Pipe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18804_00",
+    "conceptId": 10004332,
+    "name": "Broken Pipe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18805_00",
+    "conceptId": 10004332,
+    "name": "Broken Pipe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18807_00",
+    "conceptId": 10005404,
+    "name": "Cube Decider",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18809_00",
+    "conceptId": 10005404,
+    "name": "Cube Decider",
     "contentId": null,
     "region": null,
     "publisherId": null
