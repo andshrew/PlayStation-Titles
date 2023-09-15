@@ -9984,6 +9984,22 @@
     "publisherId": "EP4133"
   },
   {
+    "titleId": "PPSA03545_00",
+    "conceptId": 10002733,
+    "name": "DownAndOut",
+    "contentId": "UP6904-PPSA03545_00-5160344740168485",
+    "region": "UP",
+    "publisherId": "UP6904"
+  },
+  {
+    "titleId": "PPSA03547_00",
+    "conceptId": 10002733,
+    "name": "DownAndOut",
+    "contentId": "HP6919-PPSA03547_00-0907371809077450",
+    "region": "HP",
+    "publisherId": "HP6919"
+  },
+  {
     "titleId": "PPSA03548_00",
     "conceptId": 10002355,
     "name": "Trails and Traces: The Tomb of Thomas Tew",
@@ -27915,9 +27931,9 @@
     "titleId": "PPSA07190_00",
     "conceptId": 10004838,
     "name": "SUPER BOMBERMAN R 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0101-PPSA07190_00-SUPERBOMBERMANR2",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA07191_00",
@@ -40288,6 +40304,14 @@
     "publisherId": "JP2880"
   },
   {
+    "titleId": "PPSA09569_00",
+    "conceptId": 10005890,
+    "name": "Jagged Alliance 3",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
     "titleId": "PPSA09570_00",
     "conceptId": 10005900,
     "name": "The Jumping Coffee",
@@ -40302,6 +40326,14 @@
     "contentId": "UP6664-PPSA09571_00-4141601019965013",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA09572_00",
+    "conceptId": 10005890,
+    "name": "Jagged Alliance 3",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA09573_00",
@@ -45995,7 +46027,7 @@
     "titleId": "PPSA10600_00",
     "conceptId": 10004716,
     "name": "Ad Infinitum",
-    "contentId": null,
+    "contentId": "EP6665-PPSA10600_00-AIF0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -46003,7 +46035,7 @@
     "titleId": "PPSA10601_00",
     "conceptId": 10004716,
     "name": "Ad Infinitum",
-    "contentId": null,
+    "contentId": "UP6665-PPSA10601_00-AIF0000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -47782,6 +47814,22 @@
     "contentId": "UP4108-PPSA10908_00-APPA01REMAKE0000",
     "region": "UP",
     "publisherId": "UP4108"
+  },
+  {
+    "titleId": "PPSA10916_00",
+    "conceptId": 10006392,
+    "name": "Mechs V Kaijus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10917_00",
+    "conceptId": 10006392,
+    "name": "Mechs V Kaijus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10918_00",
@@ -51808,6 +51856,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12629_00",
+    "conceptId": 10006955,
+    "name": "Descending",
+    "contentId": "JP7309-PPSA12629_00-0010228028131409",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA12630_00",
+    "conceptId": 10006955,
+    "name": "Descending",
+    "contentId": "HP7354-PPSA12630_00-0174098707360505",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA12635_00",
     "conceptId": 10006957,
     "name": "Dodge It",
@@ -52454,6 +52518,30 @@
     "contentId": "JP0536-PPSA13324_00-CRYMACHINAGAME00",
     "region": "JP",
     "publisherId": "JP0536"
+  },
+  {
+    "titleId": "PPSA13332_00",
+    "conceptId": 10007130,
+    "name": "Ghostbusters: Rise of the Ghost Lord",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP3295"
+  },
+  {
+    "titleId": "PPSA13333_00",
+    "conceptId": 10007130,
+    "name": "Ghostbusters: Rise of the Ghost Lord",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP8825"
+  },
+  {
+    "titleId": "PPSA13335_00",
+    "conceptId": 10007130,
+    "name": "Ghostbusters: Rise of the Ghost Lord",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP3384"
   },
   {
     "titleId": "PPSA13337_00",
@@ -54419,9 +54507,9 @@
     "titleId": "PPSA13826_00",
     "conceptId": 10007373,
     "name": "Behind the Frame: The Finest Scenery VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3245-PPSA13826_00-0511013769070323",
+    "region": "EP",
+    "publisherId": "EP3245"
   },
   {
     "titleId": "PPSA13840_00",
@@ -56050,18 +56138,18 @@
   {
     "titleId": "PPSA14200_00",
     "conceptId": 10007555,
-    "name": "Heavy Duty Challenge - The Off-Road Truck Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Heavy Duty Challenge",
+    "contentId": "EP2865-PPSA14200_00-0000000000000001",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA14201_00",
     "conceptId": 10007555,
-    "name": "Heavy Duty Challenge - The Off-Road Truck Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Heavy Duty Challenge",
+    "contentId": "UP3003-PPSA14201_00-0000000000000001",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA14202_00",
@@ -56272,6 +56360,22 @@
     "publisherId": "EP7322"
   },
   {
+    "titleId": "PPSA14263_00",
+    "conceptId": 10007577,
+    "name": "TRANSFORMERS: EARTHSPARK - Expedition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14264_00",
+    "conceptId": 10007577,
+    "name": "TRANSFORMERS: EARTHSPARK - Expedition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14265_00",
     "conceptId": 10005073,
     "name": "Remoteness",
@@ -56411,9 +56515,9 @@
     "titleId": "PPSA14305_00",
     "conceptId": 10007295,
     "name": "Summum Aeterna",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7013-PPSA14305_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP7013"
   },
   {
     "titleId": "PPSA14306_00",
@@ -56448,12 +56552,28 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA14313_00",
+    "conceptId": 10007597,
+    "name": "We Were Here Expeditions: The FriendShip",
+    "contentId": "EP4697-PPSA14313_00-0894432012665778",
+    "region": "EP",
+    "publisherId": "EP4697"
+  },
+  {
     "titleId": "PPSA14314_00",
     "conceptId": 10007558,
     "name": "Truck Driver: The American Dream",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA14315_00",
+    "conceptId": 10007597,
+    "name": "We Were Here Expeditions: The FriendShip",
+    "contentId": "UP6535-PPSA14315_00-0617172676292630",
+    "region": "UP",
+    "publisherId": "UP6535"
   },
   {
     "titleId": "PPSA14317_00",
@@ -57675,17 +57795,17 @@
     "titleId": "PPSA15298_00",
     "conceptId": 10007938,
     "name": "Labyrinth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA15298_00-DVLABYRINTHPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA15299_00",
     "conceptId": 10007938,
     "name": "Labyrinth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3165-PPSA15299_00-DVLABYRINTHPS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA15300_00",
@@ -58190,6 +58310,14 @@
     "contentId": "JP5639-PPSA15450_00-0327491080398687",
     "region": "JP",
     "publisherId": "JP5639"
+  },
+  {
+    "titleId": "PPSA15451_00",
+    "conceptId": 10007992,
+    "name": "Spectrolite",
+    "contentId": "EP6718-PPSA15451_00-0197224296538448",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA15452_00",
@@ -58904,6 +59032,22 @@
     "publisherId": "UP1562"
   },
   {
+    "titleId": "PPSA15683_00",
+    "conceptId": 10005977,
+    "name": "Ghostrunner 2 Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4040"
+  },
+  {
+    "titleId": "PPSA15685_00",
+    "conceptId": 10005977,
+    "name": "Ghostrunner 2 Demo",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0114"
+  },
+  {
     "titleId": "PPSA15686_00",
     "conceptId": 10008096,
     "name": "Death or Treat",
@@ -59186,10 +59330,18 @@
   {
     "titleId": "PPSA15791_00",
     "conceptId": 10000366,
-    "name": "Crisis Brigade 2 reloaded",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crisis Brigade 2 reloaded PS VR2",
+    "contentId": "EP4826-PPSA15791_00-0714271977090140",
+    "region": "EP",
+    "publisherId": "EP4826"
+  },
+  {
+    "titleId": "PPSA15792_00",
+    "conceptId": 10000366,
+    "name": "Crisis Brigade 2 reloaded PS VR2",
+    "contentId": "UP4654-PPSA15792_00-0294189142232583",
+    "region": "UP",
+    "publisherId": "UP4654"
   },
   {
     "titleId": "PPSA15793_00",
@@ -59658,34 +59810,34 @@
   {
     "titleId": "PPSA15931_00",
     "conceptId": 10004716,
-    "name": "Ad Infinitum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ad Infinitum Original Soundtrack",
+    "contentId": "EP6665-PPSA15931_00-AIF00SOUNDTRACK0",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA15932_00",
     "conceptId": 10004716,
-    "name": "Ad Infinitum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ad Infinitum Original Soundtrack",
+    "contentId": "UP6665-PPSA15932_00-AIF00SOUNDTRACK0",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA15933_00",
     "conceptId": 10004716,
-    "name": "Ad Infinitum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ad Infinitum Artbook",
+    "contentId": "EP6665-PPSA15933_00-AIF00ARTBOOK0000",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA15934_00",
     "conceptId": 10004716,
-    "name": "Ad Infinitum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ad Infinitum Artbook",
+    "contentId": "UP6665-PPSA15934_00-AIF00ARTBOOK0000",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA15935_00",
@@ -59731,17 +59883,17 @@
     "titleId": "PPSA15961_00",
     "conceptId": 10008182,
     "name": "AK-xolotl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3639-PPSA15961_00-0305768140863711",
+    "region": "UP",
+    "publisherId": "UP3639"
   },
   {
     "titleId": "PPSA15962_00",
     "conceptId": 10008182,
     "name": "AK-xolotl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3495-PPSA15962_00-0552197005709136",
+    "region": "EP",
+    "publisherId": "EP3495"
   },
   {
     "titleId": "PPSA15966_00",
@@ -60400,6 +60552,14 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA16162_00",
+    "conceptId": 10007906,
+    "name": "Saltsea Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16164_00",
     "conceptId": 10008249,
     "name": "RUN MAN",
@@ -60454,6 +60614,14 @@
     "contentId": "JP0013-PPSA16185_00-JP0ONIGOH0000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA16187_00",
+    "conceptId": 10008260,
+    "name": "Wild Pinball Bundle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16188_00",
@@ -60808,6 +60976,38 @@
     "publisherId": "EP8070"
   },
   {
+    "titleId": "PPSA16351_00",
+    "conceptId": 10007308,
+    "name": "STAR OCEAN THE SECOND STORY R - DEMO",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA16352_00",
+    "conceptId": 10007308,
+    "name": "STAR OCEAN THE SECOND STORY R - DEMO",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA16353_00",
+    "conceptId": 10007308,
+    "name": "STAR OCEAN THE SECOND STORY R - DEMO",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA16355_00",
+    "conceptId": 10007308,
+    "name": "STAR OCEAN THE SECOND STORY R - DEMO",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
     "titleId": "PPSA16356_00",
     "conceptId": 10005377,
     "name": "Adrian's Tale",
@@ -61026,10 +61226,10 @@
   {
     "titleId": "PPSA16435_00",
     "conceptId": 229879,
-    "name": "ALVO VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Alvo",
+    "contentId": "UP5789-PPSA16435_00-0622671042969327",
+    "region": "UP",
+    "publisherId": "UP5789"
   },
   {
     "titleId": "PPSA16438_00",
@@ -62043,9 +62243,9 @@
     "titleId": "PPSA16829_00",
     "conceptId": 10008533,
     "name": "Fresh Start",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1121-PPSA16829_00-FRESHSTART000000",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA16830_00",
@@ -62182,6 +62382,14 @@
     "contentId": "HP3536-PPSA16896_00-0067707665496321",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA16901_00",
+    "conceptId": 10008568,
+    "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1032"
   },
   {
     "titleId": "PPSA16923_00",
@@ -62403,9 +62611,9 @@
     "titleId": "PPSA17056_00",
     "conceptId": 10007946,
     "name": "Inspector Gadget - MAD Time Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1475-PPSA17056_00-GADGETPARTYPS5US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA17059_00",
@@ -63088,6 +63296,14 @@
     "publisherId": "JP7993"
   },
   {
+    "titleId": "PPSA17552_00",
+    "conceptId": 10008782,
+    "name": "\u7570\u4e16\u754c\u8f2a\u821e \uff5e\u5fa1\u793e\u3082\u7570\u4e16\u754c\u3082\u30d6\u30e9\u30c3\u30af\u306a\u306e\u3067\u3053\u3053\u304b\u3089\u5148\u306f\u30db\u30ef\u30a4\u30c8\u30e9\u30a4\u30d5\u3092\u76ee\u6307\u3057\u307e\u3059\uff01\uff5e",
+    "contentId": "JP0013-PPSA17552_00-JP0ISEKAIR000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA17560_00",
     "conceptId": 10007151,
     "name": "CRYMACHINA",
@@ -63408,6 +63624,22 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA17832_00",
+    "conceptId": 10008782,
+    "name": "Isekai Rondo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17833_00",
+    "conceptId": 10008782,
+    "name": "Isekai Rondo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17872_00",
     "conceptId": 10007658,
     "name": "Kittengumi: The Sakabato's Thief Demo",
@@ -63539,9 +63771,9 @@
     "titleId": "PPSA18000_00",
     "conceptId": 10007127,
     "name": "Word Web by POWGI",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA18000_00-WORDWEBBYPOWGI00",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA18003_00",
@@ -63648,6 +63880,46 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA18220_00",
+    "conceptId": 10009087,
+    "name": "Mahjong Woods",
+    "contentId": "EP1411-PPSA18220_00-0499003931030376",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18221_00",
+    "conceptId": 10009087,
+    "name": "Mahjong Woods",
+    "contentId": "UP1421-PPSA18221_00-0952569318787343",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA18222_00",
+    "conceptId": 10009087,
+    "name": "Mahjong Woods",
+    "contentId": "JP1681-PPSA18222_00-0906692783443587",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA18223_00",
+    "conceptId": 10009087,
+    "name": "Mahjong Woods",
+    "contentId": "HP1546-PPSA18223_00-0436537653310157",
+    "region": "HP",
+    "publisherId": "HP1546"
+  },
+  {
+    "titleId": "PPSA18252_00",
+    "conceptId": 10009102,
+    "name": "Super Brawl Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18330_00",
     "conceptId": 10009079,
     "name": "Legions",
@@ -63750,6 +64022,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP6913"
+  },
+  {
+    "titleId": "PPSA18533_00",
+    "conceptId": 10006448,
+    "name": "Metaball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18582_00",
