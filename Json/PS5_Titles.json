@@ -29952,6 +29952,14 @@
     "publisherId": "JP1190"
   },
   {
+    "titleId": "PPSA07606_00",
+    "conceptId": 10005049,
+    "name": "Haunted House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07608_00",
     "conceptId": 10005057,
     "name": "Teslagrad 2",
@@ -33251,7 +33259,7 @@
     "titleId": "PPSA08270_00",
     "conceptId": 10004814,
     "name": "Eternights",
-    "contentId": null,
+    "contentId": "UP6847-PPSA08270_00-ETERNIGHTS0PS5US",
     "region": "UP",
     "publisherId": "UP6847"
   },
@@ -35438,6 +35446,38 @@
     "contentId": "HP7354-PPSA08663_00-5657760964595635",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08664_00",
+    "conceptId": 10003999,
+    "name": "FINAL FANTASY VII REBIRTH",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA08666_00",
+    "conceptId": 10003999,
+    "name": "FINAL FANTASY VII REBIRTH",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA08668_00",
+    "conceptId": 10003999,
+    "name": "FINAL FANTASY VII REBIRTH",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA08670_00",
+    "conceptId": 10003999,
+    "name": "FINAL FANTASY VII REBIRTH (TC/SC/KR ver)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA08676_00",
@@ -38394,18 +38434,18 @@
   {
     "titleId": "PPSA09194_00",
     "conceptId": 10005730,
-    "name": "Baby Shark\u2122: Sing & Swim Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Baby Shark: Sing & Swim Party",
+    "contentId": "UP3824-PPSA09194_00-4108253252472511",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA09195_00",
     "conceptId": 10005730,
-    "name": "Baby Shark\u2122: Sing & Swim Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Baby Shark: Sing & Swim Party",
+    "contentId": "EP3678-PPSA09195_00-0554872908244963",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA09196_00",
@@ -48171,17 +48211,17 @@
     "titleId": "PPSA10972_00",
     "conceptId": 10006417,
     "name": "Another Crusade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6893-PPSA10972_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP6893"
   },
   {
     "titleId": "PPSA10973_00",
     "conceptId": 10006417,
     "name": "Another Crusade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6890-PPSA10973_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6890"
   },
   {
     "titleId": "PPSA10974_00",
@@ -52016,6 +52056,14 @@
     "publisherId": "UP0964"
   },
   {
+    "titleId": "PPSA13190_00",
+    "conceptId": 10006921,
+    "name": "\u58a8\u306e\u97fb",
+    "contentId": "HP8083-PPSA13190_00-0713895700441780",
+    "region": "HP",
+    "publisherId": "HP8083"
+  },
+  {
     "titleId": "PPSA13191_00",
     "conceptId": 10006996,
     "name": "\u30af\u30ed\u30b9\u30c6\u30a4\u30eb\u30ba",
@@ -52534,6 +52582,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP8825"
+  },
+  {
+    "titleId": "PPSA13334_00",
+    "conceptId": 10007130,
+    "name": "Ghostbusters: Rise of the Ghost Lord",
+    "contentId": null,
+    "region": "JA",
+    "publisherId": "JA0022"
   },
   {
     "titleId": "PPSA13335_00",
@@ -54347,17 +54403,17 @@
     "titleId": "PPSA13790_00",
     "conceptId": 10007360,
     "name": "NASCAR Arcade Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0283-PPSA13790_00-NASCARARCADERUSH",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA13791_00",
     "conceptId": 10007360,
     "name": "NASCAR Arcade Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0281-PPSA13791_00-NASCARARCADERUSH",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA13792_00",
@@ -59040,6 +59096,14 @@
     "publisherId": "UP4040"
   },
   {
+    "titleId": "PPSA15684_00",
+    "conceptId": 10005977,
+    "name": "Ghostrunner 2 Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4040"
+  },
+  {
     "titleId": "PPSA15685_00",
     "conceptId": 10005977,
     "name": "Ghostrunner 2 Demo",
@@ -59358,6 +59422,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP7137"
+  },
+  {
+    "titleId": "PPSA15795_00",
+    "conceptId": 10008134,
+    "name": "Paperman: Adventure Delivered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15799_00",
@@ -60552,6 +60624,14 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA16161_00",
+    "conceptId": 10007906,
+    "name": "Saltsea Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16162_00",
     "conceptId": 10007906,
     "name": "Saltsea Chronicles",
@@ -60616,12 +60696,20 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA16186_00",
+    "conceptId": 10008260,
+    "name": "Wild Pinball",
+    "contentId": "UP6927-PPSA16186_00-0753595298861588",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA16187_00",
     "conceptId": 10008260,
-    "name": "Wild Pinball Bundle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wild Pinball",
+    "contentId": "EP6922-PPSA16187_00-0254801365237891",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA16188_00",
@@ -61014,6 +61102,22 @@
     "contentId": "EP1555-PPSA16356_00-0577835053750500",
     "region": "EP",
     "publisherId": "EP1555"
+  },
+  {
+    "titleId": "PPSA16376_00",
+    "conceptId": 10008355,
+    "name": "The Jackbox Party Pack 10",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16377_00",
+    "conceptId": 10008355,
+    "name": "The Jackbox Party Pack 10",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16392_00",
@@ -62392,6 +62496,14 @@
     "publisherId": "UP1032"
   },
   {
+    "titleId": "PPSA16902_00",
+    "conceptId": 10008568,
+    "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1875"
+  },
+  {
     "titleId": "PPSA16923_00",
     "conceptId": 10005505,
     "name": "Wildmender",
@@ -63627,17 +63739,17 @@
     "titleId": "PPSA17832_00",
     "conceptId": 10008782,
     "name": "Isekai Rondo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2500-PPSA17832_00-US0ISEKAIR000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA17833_00",
     "conceptId": 10008782,
     "name": "Isekai Rondo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA17833_00-EU0ISEKAIR000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA17872_00",
@@ -63915,9 +64027,17 @@
     "titleId": "PPSA18252_00",
     "conceptId": 10009102,
     "name": "Super Brawl Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA18252_00-SUPERBRAWLRUSHRG",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA18253_00",
+    "conceptId": 10009102,
+    "name": "Super Brawl Rush",
+    "contentId": "UP0891-PPSA18253_00-SUPERBRAWLRUSHRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA18330_00",
@@ -63982,6 +64102,14 @@
     "contentId": "JP5101-PPSA18423_00-0179212592586644",
     "region": "JP",
     "publisherId": "JP5101"
+  },
+  {
+    "titleId": "PPSA18503_00",
+    "conceptId": 10005251,
+    "name": "CUTIES HACKED: Oh no someone stole my photos!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18522_00",
