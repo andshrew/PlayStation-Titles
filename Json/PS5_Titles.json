@@ -6706,8 +6706,8 @@
   {
     "titleId": "PPSA02838_00",
     "conceptId": 10002313,
-    "name": "The Crew\u2122 Motorfest - Cross-Gen Bundle",
-    "contentId": null,
+    "name": "THE CREW\u2122 MOTORFEST",
+    "contentId": "UP0001-PPSA02838_00-THECREWORL000000",
     "region": "UP",
     "publisherId": "UP0001"
   },
@@ -6722,8 +6722,8 @@
   {
     "titleId": "PPSA02840_00",
     "conceptId": 10002313,
-    "name": "\u30b6 \u30af\u30eb\u30fc\uff1a\u30e2\u30fc\u30bf\u30fc\u30d5\u30a7\u30b9 - Cross-Gen\u30d0\u30f3\u30c9\u30eb",
-    "contentId": null,
+    "name": "\u30b6 \u30af\u30eb\u30fc\uff1a\u30e2\u30fc\u30bf\u30fc\u30d5\u30a7\u30b9",
+    "contentId": "JP0001-PPSA02840_00-THECREWORL000000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -6915,9 +6915,9 @@
     "titleId": "PPSA02883_00",
     "conceptId": 10001683,
     "name": "Nour: Play With Your Food",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3971-PPSA02883_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP3971"
   },
   {
     "titleId": "PPSA02884_00",
@@ -9990,6 +9990,14 @@
     "contentId": "UP6904-PPSA03545_00-5160344740168485",
     "region": "UP",
     "publisherId": "UP6904"
+  },
+  {
+    "titleId": "PPSA03546_00",
+    "conceptId": 10002733,
+    "name": "DownAndOut",
+    "contentId": "EP6901-PPSA03546_00-1964183880513097",
+    "region": "EP",
+    "publisherId": "EP6901"
   },
   {
     "titleId": "PPSA03547_00",
@@ -21958,6 +21966,22 @@
     "contentId": "UP4312-PPSA05984_00-9530196533995278",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA05987_00",
+    "conceptId": 10004229,
+    "name": "SUPER CRAZY RHYTHM CASTLE",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0101"
+  },
+  {
+    "titleId": "PPSA05989_00",
+    "conceptId": 10004229,
+    "name": "SUPER CRAZY RHYTHM CASTLE",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0101"
   },
   {
     "titleId": "PPSA05992_00",
@@ -34324,16 +34348,16 @@
     "conceptId": 10005275,
     "name": "Honkai: Star Rail",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP7476"
   },
   {
     "titleId": "PPSA08459_00",
     "conceptId": 10005275,
     "name": "Honkai: Star Rail",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP7478"
   },
   {
     "titleId": "PPSA08460_00",
@@ -59425,6 +59449,14 @@
   },
   {
     "titleId": "PPSA15795_00",
+    "conceptId": 10008134,
+    "name": "Paperman: Adventure Delivered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15796_00",
     "conceptId": 10008134,
     "name": "Paperman: Adventure Delivered",
     "contentId": null,
