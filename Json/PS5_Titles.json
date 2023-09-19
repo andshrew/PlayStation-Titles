@@ -27332,8 +27332,8 @@
     "conceptId": 10004776,
     "name": "Agatha Christie - Murder on the Orient Express",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA07045_00",
@@ -32386,8 +32386,8 @@
   {
     "titleId": "PPSA08116_00",
     "conceptId": 10005240,
-    "name": "Gloomhaven Mercenaries Edition",
-    "contentId": null,
+    "name": "Gloomhaven",
+    "contentId": "EP4917-PPSA08116_00-5568944282281398",
     "region": "EP",
     "publisherId": "EP4917"
   },
@@ -48360,6 +48360,14 @@
     "publisherId": "EP1430"
   },
   {
+    "titleId": "PPSA11010_00",
+    "conceptId": 10006440,
+    "name": "CyberTD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11013_00",
     "conceptId": 10006441,
     "name": "Tractor Journey",
@@ -57040,6 +57048,30 @@
     "publisherId": "JP4345"
   },
   {
+    "titleId": "PPSA14467_00",
+    "conceptId": 10007658,
+    "name": "Kittengumi: The Sakabato's Thief",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14468_00",
+    "conceptId": 10007658,
+    "name": "Kittengumi: The Sakabato's Thief",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14469_00",
+    "conceptId": 10007658,
+    "name": "Kittengumi: The Sakabato's Thief",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14474_00",
     "conceptId": 10007660,
     "name": "Right and Down",
@@ -60875,17 +60907,17 @@
     "titleId": "PPSA16228_00",
     "conceptId": 10005318,
     "name": "The First Descendant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3685-PPSA16228_00-0099893634886525",
+    "region": "UP",
+    "publisherId": "UP3685"
   },
   {
     "titleId": "PPSA16229_00",
     "conceptId": 10005318,
     "name": "The First Descendant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3539-PPSA16229_00-0824364543424135",
+    "region": "EP",
+    "publisherId": "EP3539"
   },
   {
     "titleId": "PPSA16236_00",
@@ -61322,10 +61354,10 @@
   {
     "titleId": "PPSA16426_00",
     "conceptId": 10007385,
-    "name": "RUINSMAGUS: COMPLETE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RUINSMAGUS",
+    "contentId": "JP8256-PPSA16426_00-RUINSMAGUSVRJAPA",
+    "region": "JP",
+    "publisherId": "JP8256"
   },
   {
     "titleId": "PPSA16427_00",
@@ -62320,6 +62352,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA16765_00",
+    "conceptId": 10008423,
+    "name": "BlackJack Waifu Tour",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16770_00",
     "conceptId": 233440,
     "name": "The True",
@@ -63120,6 +63160,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA17270_00",
+    "conceptId": 10008728,
+    "name": "\u30da\u30eb\u30b7\u30e3\u3068\u9b54\u6cd5\u306e\u8ff7\u5bae\u5854 \u301c\u30a2\u30e9\u30d3\u30a2\u30f3\u30cb\u30e3\u30a4\u30c8\u7de8\u301c",
+    "contentId": "JP1557-PPSA17270_00-PMPPS5SIEJAJP000",
+    "region": "JP",
+    "publisherId": "JP1557"
+  },
+  {
     "titleId": "PPSA17272_00",
     "conceptId": 10008128,
     "name": "Football Manager 2024 Console",
@@ -63454,6 +63502,14 @@
     "contentId": "EP7541-PPSA17504_00-0270084816951260",
     "region": "EP",
     "publisherId": "EP7541"
+  },
+  {
+    "titleId": "PPSA17510_00",
+    "conceptId": 10008728,
+    "name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17533_00",
@@ -63880,6 +63936,14 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA17899_00",
+    "conceptId": 10008966,
+    "name": "Warm Snow",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1475"
+  },
+  {
     "titleId": "PPSA17903_00",
     "conceptId": 10000886,
     "name": "Horizon Forbidden West",
@@ -64150,6 +64214,22 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP2083"
+  },
+  {
+    "titleId": "PPSA18395_00",
+    "conceptId": 10009148,
+    "name": "Cyber Citizen Shockman 2: A New Menace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18396_00",
+    "conceptId": 10009148,
+    "name": "Cyber Citizen Shockman 2: A New Menace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18422_00",
