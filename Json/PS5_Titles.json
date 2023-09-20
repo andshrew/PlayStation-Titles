@@ -6923,9 +6923,9 @@
     "titleId": "PPSA02884_00",
     "conceptId": 10001683,
     "name": "Nour: Play With Your Food",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3825-PPSA02884_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3825"
   },
   {
     "titleId": "PPSA02891_00",
@@ -27324,8 +27324,8 @@
     "conceptId": 10004776,
     "name": "Agatha Christie - Murder on the Orient Express",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA07044_00",
@@ -29786,8 +29786,8 @@
   {
     "titleId": "PPSA07570_00",
     "conceptId": 10004911,
-    "name": "Mortal Kombat 1",
-    "contentId": null,
+    "name": "Mortal Kombat\u2122 1",
+    "contentId": "UP1018-PPSA07570_00-MKONE00000000000",
     "region": "UP",
     "publisherId": "UP1018"
   },
@@ -36738,10 +36738,10 @@
   {
     "titleId": "PPSA08894_00",
     "conceptId": 10001817,
-    "name": "You Suck at Parking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "You Suck At Parking",
+    "contentId": "EP6286-PPSA08894_00-7976729485038552",
+    "region": "EP",
+    "publisherId": "EP6286"
   },
   {
     "titleId": "PPSA08895_00",
@@ -44107,7 +44107,7 @@
     "titleId": "PPSA10261_00",
     "conceptId": 10006052,
     "name": "Lies of P",
-    "contentId": null,
+    "contentId": "UP1685-PPSA10261_00-4396566144501976",
     "region": "UP",
     "publisherId": "UP1685"
   },
@@ -46227,7 +46227,7 @@
     "titleId": "PPSA10621_00",
     "conceptId": 10006052,
     "name": "Lies of P",
-    "contentId": null,
+    "contentId": "EP1672-PPSA10621_00-9137597337715830",
     "region": "EP",
     "publisherId": "EP1672"
   },
@@ -46235,7 +46235,7 @@
     "titleId": "PPSA10622_00",
     "conceptId": 10006052,
     "name": "Lies of P",
-    "contentId": null,
+    "contentId": "JP1942-PPSA10622_00-5834631560217967",
     "region": "JP",
     "publisherId": "JP1942"
   },
@@ -46243,7 +46243,7 @@
     "titleId": "PPSA10623_00",
     "conceptId": 10006052,
     "name": "Lies of P",
-    "contentId": null,
+    "contentId": "HP1804-PPSA10623_00-6700122691247574",
     "region": "HP",
     "publisherId": "HP1804"
   },
@@ -48450,10 +48450,18 @@
   {
     "titleId": "PPSA11026_00",
     "conceptId": 10001817,
-    "name": "You Suck at Parking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "You Suck At Parking",
+    "contentId": "JP6203-PPSA11026_00-7946566576550720",
+    "region": "JP",
+    "publisherId": "JP6203"
+  },
+  {
+    "titleId": "PPSA11027_00",
+    "conceptId": 10001817,
+    "name": "You Suck At Parking",
+    "contentId": "HP6270-PPSA11027_00-2581464238507955",
+    "region": "HP",
+    "publisherId": "HP6270"
   },
   {
     "titleId": "PPSA11028_00",
@@ -58787,17 +58795,17 @@
     "titleId": "PPSA15534_00",
     "conceptId": 10008042,
     "name": "Rayland 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA15534_00-RAYLAND200000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA15535_00",
     "conceptId": 10008042,
     "name": "Rayland 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA15535_00-RAYLAND200000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA15541_00",
@@ -61298,10 +61306,10 @@
   {
     "titleId": "PPSA16419_00",
     "conceptId": 10007385,
-    "name": "RUINSMAGUS: COMPLETE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RUINSMAGUS",
+    "contentId": "UP8351-PPSA16419_00-RUINSMAGUSPSVRNA",
+    "region": "UP",
+    "publisherId": "UP8351"
   },
   {
     "titleId": "PPSA16420_00",
@@ -61330,10 +61338,10 @@
   {
     "titleId": "PPSA16423_00",
     "conceptId": 10007385,
-    "name": "RUINSMAGUS: COMPLETE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RUINSMAGUS",
+    "contentId": "EP8541-PPSA16423_00-RUINSMAGUSPSVREU",
+    "region": "EP",
+    "publisherId": "EP8541"
   },
   {
     "titleId": "PPSA16424_00",
@@ -62371,7 +62379,7 @@
     "titleId": "PPSA16771_00",
     "conceptId": 10005007,
     "name": "Broken Edge",
-    "contentId": null,
+    "contentId": "UP4773-PPSA16771_00-0683240041941835",
     "region": "UP",
     "publisherId": "UP4773"
   },
@@ -62808,6 +62816,38 @@
     "publisherId": "UP8303"
   },
   {
+    "titleId": "PPSA17013_00",
+    "conceptId": 10008624,
+    "name": "Ghost Signal: A Stellaris Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17014_00",
+    "conceptId": 10008624,
+    "name": "Ghost Signal: A Stellaris Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17015_00",
+    "conceptId": 10008624,
+    "name": "Ghost Signal: A Stellaris Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17016_00",
+    "conceptId": 10008624,
+    "name": "Ghost Signal: A Stellaris Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17044_00",
     "conceptId": 10008289,
     "name": "Super Death Game SHOW! VR",
@@ -62870,6 +62910,14 @@
     "contentId": "HP8005-PPSA17078_00-0414840001719834",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA17083_00",
+    "conceptId": 10008650,
+    "name": "Long Gone Days",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17086_00",
@@ -63083,7 +63131,7 @@
     "titleId": "PPSA17186_00",
     "conceptId": 10005007,
     "name": "Broken Edge",
-    "contentId": null,
+    "contentId": "EP4946-PPSA17186_00-0949818967871134",
     "region": "EP",
     "publisherId": "EP4946"
   },
@@ -63091,7 +63139,7 @@
     "titleId": "PPSA17187_00",
     "conceptId": 10005007,
     "name": "Broken Edge",
-    "contentId": null,
+    "contentId": "JP4613-PPSA17187_00-0697925309123998",
     "region": "JP",
     "publisherId": "JP4613"
   },
@@ -63099,7 +63147,7 @@
     "titleId": "PPSA17188_00",
     "conceptId": 10005007,
     "name": "Broken Edge",
-    "contentId": null,
+    "contentId": "HP4625-PPSA17188_00-0127933821581501",
     "region": "HP",
     "publisherId": "HP4625"
   },
@@ -63134,6 +63182,22 @@
     "contentId": "EP2134-PPSA17207_00-0275681394041213",
     "region": "EP",
     "publisherId": "EP2134"
+  },
+  {
+    "titleId": "PPSA17236_00",
+    "conceptId": 10008704,
+    "name": "Cry Babies Magic Tears: The Big Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17237_00",
+    "conceptId": 10008704,
+    "name": "Cry Babies Magic Tears: The Big Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17259_00",
@@ -63230,6 +63294,22 @@
     "contentId": "JP0089-PPSA17316_00-0068202387184232",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA17347_00",
+    "conceptId": 204305,
+    "name": "Slender: The Arrival",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2205"
+  },
+  {
+    "titleId": "PPSA17348_00",
+    "conceptId": 204305,
+    "name": "Slender: The Arrival",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8003"
   },
   {
     "titleId": "PPSA17353_00",
@@ -63504,12 +63584,28 @@
     "publisherId": "EP7541"
   },
   {
+    "titleId": "PPSA17509_00",
+    "conceptId": 10008728,
+    "name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
+    "contentId": "UP1298-PPSA17509_00-PMPPS5SIEA000000",
+    "region": "UP",
+    "publisherId": "UP1298"
+  },
+  {
     "titleId": "PPSA17510_00",
     "conceptId": 10008728,
     "name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1291-PPSA17510_00-PMPPS5SIEE000000",
+    "region": "EP",
+    "publisherId": "EP1291"
+  },
+  {
+    "titleId": "PPSA17511_00",
+    "conceptId": 10008728,
+    "name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
+    "contentId": "HP1419-PPSA17511_00-PMPPS5SIEJAASIA0",
+    "region": "HP",
+    "publisherId": "HP1419"
   },
   {
     "titleId": "PPSA17533_00",
@@ -63934,6 +64030,14 @@
     "contentId": "UP7605-PPSA17890_00-0768750179768252",
     "region": "UP",
     "publisherId": "UP7605"
+  },
+  {
+    "titleId": "PPSA17898_00",
+    "conceptId": 10008966,
+    "name": "Warm Snow",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA17899_00",
