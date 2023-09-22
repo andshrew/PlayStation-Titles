@@ -15800,6 +15800,14 @@
     "publisherId": "JP0001"
   },
   {
+    "titleId": "PPSA04722_00",
+    "conceptId": 10003484,
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4040"
+  },
+  {
     "titleId": "PPSA04727_00",
     "conceptId": 10002692,
     "name": "Castle Of Pixel Skulls",
@@ -24208,6 +24216,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA06433_00",
+    "conceptId": 10004462,
+    "name": "\u9f8d\u304c\u5982\u304f\uff18\u3000PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0177"
+  },
+  {
     "titleId": "PPSA06435_00",
     "conceptId": 10004462,
     "name": "Like a Dragon: Infinite Wealth PS4 & PS5",
@@ -24466,10 +24482,10 @@
   {
     "titleId": "PPSA06490_00",
     "conceptId": 10004500,
-    "name": "Operation Wolf Returns: First Mission VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Operation Wolf Returns: First Mission",
+    "contentId": "EP4295-PPSA06490_00-OPWOLFPS500000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA06491_00",
@@ -29802,8 +29818,8 @@
   {
     "titleId": "PPSA07571_00",
     "conceptId": 10004911,
-    "name": "Mortal Kombat 1",
-    "contentId": null,
+    "name": "Mortal Kombat\u2122 1",
+    "contentId": "EP1018-PPSA07571_00-MKONE00000000000",
     "region": "EP",
     "publisherId": "EP1018"
   },
@@ -32386,8 +32402,8 @@
   {
     "titleId": "PPSA08115_00",
     "conceptId": 10005240,
-    "name": "Gloomhaven Mercenaries Edition",
-    "contentId": null,
+    "name": "Gloomhaven",
+    "contentId": "UP4744-PPSA08115_00-0359207573241737",
     "region": "UP",
     "publisherId": "UP4744"
   },
@@ -50544,6 +50560,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11420_00",
+    "conceptId": 10006576,
+    "name": "Eperon Defend",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11421_00",
+    "conceptId": 10006576,
+    "name": "Eperon Defend",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11422_00",
     "conceptId": 10006577,
     "name": "Funny Alphabet",
@@ -53547,7 +53579,7 @@
     "titleId": "PPSA13547_00",
     "conceptId": 10007254,
     "name": "Hellsweeper VR",
-    "contentId": null,
+    "contentId": "EP3392-PPSA13547_00-0285899491916921",
     "region": "EP",
     "publisherId": "EP3392"
   },
@@ -54544,6 +54576,14 @@
     "publisherId": "EP3717"
   },
   {
+    "titleId": "PPSA13785_00",
+    "conceptId": 10007346,
+    "name": "Mon-yu",
+    "contentId": "UP1024-PPSA13785_00-MONYUPS500000000",
+    "region": "UP",
+    "publisherId": "UP1024"
+  },
+  {
     "titleId": "PPSA13790_00",
     "conceptId": 10007360,
     "name": "NASCAR Arcade Rush",
@@ -54691,17 +54731,17 @@
     "titleId": "PPSA13820_00",
     "conceptId": 10007365,
     "name": "HammerHelm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA13820_00-0806338586547076",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA13821_00",
     "conceptId": 10007365,
     "name": "HammerHelm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA13821_00-0806338586547076",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA13822_00",
@@ -54862,6 +54902,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA13865_00",
+    "conceptId": 10007386,
+    "name": "CUSTOM MECH WARS -\u30ab\u30b9\u30bf\u30e0\u30e1\u30c3\u30af\u30a6\u30a9\u30fc\u30ba-",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0367"
   },
   {
     "titleId": "PPSA13866_00",
@@ -56307,7 +56355,7 @@
     "titleId": "PPSA14169_00",
     "conceptId": 10007254,
     "name": "Hellsweeper VR",
-    "contentId": null,
+    "contentId": "UP3535-PPSA14169_00-0325990934687311",
     "region": "UP",
     "publisherId": "UP3535"
   },
@@ -56960,6 +57008,14 @@
     "publisherId": "EP0101"
   },
   {
+    "titleId": "PPSA14367_00",
+    "conceptId": 10007386,
+    "name": "CUSTOM MECH WARS",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3177"
+  },
+  {
     "titleId": "PPSA14368_00",
     "conceptId": 10007386,
     "name": "CUSTOM MECH WARS",
@@ -57050,16 +57106,16 @@
   {
     "titleId": "PPSA14410_00",
     "conceptId": 10007263,
-    "name": "PAYDAY 3: Pre-order Edition",
-    "contentId": null,
+    "name": "PAYDAY 3",
+    "contentId": "UP8268-PPSA14410_00-PAYDAY3000000000",
     "region": "UP",
     "publisherId": "UP8268"
   },
   {
     "titleId": "PPSA14411_00",
     "conceptId": 10007263,
-    "name": "PAYDAY 3: Pre-order Edition",
-    "contentId": null,
+    "name": "PAYDAY 3",
+    "contentId": "EP8459-PPSA14411_00-PAYDAY3000000000",
     "region": "EP",
     "publisherId": "EP8459"
   },
@@ -57987,9 +58043,9 @@
     "titleId": "PPSA15274_00",
     "conceptId": 10007933,
     "name": "Days of Doom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0182-PPSA15274_00-00DAYSOFDOOM2023",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA15275_00",
@@ -59635,9 +59691,9 @@
     "titleId": "PPSA15796_00",
     "conceptId": 10008134,
     "name": "Paperman: Adventure Delivered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4196-PPSA15796_00-PAPERMANADVENTUR",
+    "region": "UP",
+    "publisherId": "UP4196"
   },
   {
     "titleId": "PPSA15797_00",
@@ -61224,12 +61280,20 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA16300_00",
+    "conceptId": 10006996,
+    "name": "Cross Tails Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA16301_00",
     "conceptId": 10006996,
-    "name": "Cross Tails",
+    "name": "Cross Tails Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA16303_00",
@@ -63355,17 +63419,17 @@
     "titleId": "PPSA17236_00",
     "conceptId": 10008704,
     "name": "Cry Babies Magic Tears: The Big Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1260-PPSA17236_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP1260"
   },
   {
     "titleId": "PPSA17237_00",
     "conceptId": 10008704,
     "name": "Cry Babies Magic Tears: The Big Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1121-PPSA17237_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA17259_00",
@@ -63776,6 +63840,14 @@
     "publisherId": "HP1419"
   },
   {
+    "titleId": "PPSA17519_00",
+    "conceptId": 10007346,
+    "name": "Mon-Yu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17533_00",
     "conceptId": 10008836,
     "name": "RTBF Auvio",
@@ -64059,17 +64131,17 @@
     "titleId": "PPSA17797_00",
     "conceptId": 10008929,
     "name": "Earthshine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA17797_00-SYPS5EARTHSHINE0",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA17798_00",
     "conceptId": 10008929,
     "name": "Earthshine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA17798_00-SYPS5EARTHSHINE0",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA17799_00",
@@ -64238,6 +64310,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17930_00",
+    "conceptId": 10000385,
+    "name": "Venatrix",
+    "contentId": "EP8070-PPSA17930_00-0337079664242141",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA17931_00",
@@ -64560,6 +64640,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18412_00",
+    "conceptId": 10009152,
+    "name": "UFIGHT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18414_00",
     "conceptId": 10009152,
     "name": "UFIGHT",
@@ -64643,9 +64731,9 @@
     "titleId": "PPSA18533_00",
     "conceptId": 10006448,
     "name": "Metaball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7609-PPSA18533_00-0564626899608961",
+    "region": "EP",
+    "publisherId": "EP7609"
   },
   {
     "titleId": "PPSA18569_00",
