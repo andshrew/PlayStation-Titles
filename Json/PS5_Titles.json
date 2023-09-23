@@ -14034,10 +14034,10 @@
   {
     "titleId": "PPSA04341_00",
     "conceptId": 10003264,
-    "name": "Avatar The Last Airbender: Quest for Balance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Avatar: The Last Airbender - Quest for Balance",
+    "contentId": "EP0281-PPSA04341_00-8088311817253850",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA04342_00",
@@ -15798,6 +15798,14 @@
     "contentId": "JP0001-PPSA04720_00-ANNO1800PS000000",
     "region": "JP",
     "publisherId": "JP0001"
+  },
+  {
+    "titleId": "PPSA04721_00",
+    "conceptId": 10003484,
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA04722_00",
@@ -22136,6 +22144,14 @@
     "publisherId": "EP1063"
   },
   {
+    "titleId": "PPSA06020_00",
+    "conceptId": 10000657,
+    "name": "HELLDIVERS\u2122 2",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP9000"
+  },
+  {
     "titleId": "PPSA06023_00",
     "conceptId": 232209,
     "name": "The Mooseman",
@@ -24232,6 +24248,14 @@
     "publisherId": "UP0177"
   },
   {
+    "titleId": "PPSA06436_00",
+    "conceptId": 10004462,
+    "name": "Like a Dragon: Infinite Wealth PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
+  },
+  {
     "titleId": "PPSA06437_00",
     "conceptId": 10004466,
     "name": "Let's Build A Zoo",
@@ -24490,10 +24514,10 @@
   {
     "titleId": "PPSA06491_00",
     "conceptId": 10004500,
-    "name": "Operation Wolf Returns: First Mission VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Operation Wolf Returns: First Mission",
+    "contentId": "UP1475-PPSA06491_00-OPWOLFPS500000US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA06492_00",
@@ -37494,6 +37518,14 @@
     "contentId": "EP6809-PPSA09022_00-8183496413263954",
     "region": "EP",
     "publisherId": "EP6809"
+  },
+  {
+    "titleId": "PPSA09024_00",
+    "conceptId": 10003484,
+    "name": "\u767e\u82f1\u96c4\u4f1d",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0114"
   },
   {
     "titleId": "PPSA09027_00",
@@ -52970,10 +53002,10 @@
   {
     "titleId": "PPSA13392_00",
     "conceptId": 10007176,
-    "name": "EA SPORTS FC\u2122 24",
+    "name": "EA SPORTS FC 24",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0006"
   },
   {
     "titleId": "PPSA13393_00",
@@ -60139,17 +60171,17 @@
     "titleId": "PPSA15929_00",
     "conceptId": 10008170,
     "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8204-PPSA15929_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA15930_00",
     "conceptId": 10008170,
     "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8012-PPSA15930_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP8012"
   },
   {
     "titleId": "PPSA15931_00",
@@ -60646,6 +60678,38 @@
     "contentId": "HP6784-PPSA16073_00-0326421282652440",
     "region": "HP",
     "publisherId": "HP6784"
+  },
+  {
+    "titleId": "PPSA16081_00",
+    "conceptId": 10008227,
+    "name": "Sokolab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16082_00",
+    "conceptId": 10008227,
+    "name": "Sokolab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16083_00",
+    "conceptId": 10008227,
+    "name": "Sokolab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16084_00",
+    "conceptId": 10008227,
+    "name": "Sokolab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16088_00",
@@ -64312,6 +64376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17929_00",
+    "conceptId": 10000385,
+    "name": "Venatrix",
+    "contentId": "UP5877-PPSA17929_00-0738964950698820",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA17930_00",
     "conceptId": 10000385,
     "name": "Venatrix",
@@ -64627,17 +64699,17 @@
     "titleId": "PPSA18395_00",
     "conceptId": 10009148,
     "name": "Cyber Citizen Shockman 2: A New Menace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA18395_00-CYBERCITIZENS2RG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA18396_00",
     "conceptId": 10009148,
     "name": "Cyber Citizen Shockman 2: A New Menace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA18396_00-CYBERCITIZENS2RG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA18412_00",
@@ -64674,10 +64746,18 @@
   {
     "titleId": "PPSA18503_00",
     "conceptId": 10005251,
-    "name": "CUTIES HACKED: Oh no someone stole my photos!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Cuties Hacked",
+    "contentId": "EP2402-PPSA18503_00-CUTIESHGAMEPS5EU",
+    "region": "EP",
+    "publisherId": "EP2402"
+  },
+  {
+    "titleId": "PPSA18505_00",
+    "conceptId": 10005251,
+    "name": "Cuties Hacked",
+    "contentId": "UP2538-PPSA18505_00-CUTIESHGAMEPS5US",
+    "region": "UP",
+    "publisherId": "UP2538"
   },
   {
     "titleId": "PPSA18507_00",
@@ -64779,9 +64859,9 @@
     "titleId": "PPSA18649_00",
     "conceptId": 10009259,
     "name": "The Jumping Food Memory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA18649_00-0924966978377873",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA18700_00",
