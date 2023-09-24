@@ -31680,6 +31680,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07939_00",
+    "conceptId": 10005136,
+    "name": "Dungeons 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07942_00",
     "conceptId": 10003036,
     "name": "Soulstice Artbook & OST",
@@ -34096,6 +34104,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08409_00",
+    "conceptId": 10005383,
+    "name": "Backgammon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08410_00",
     "conceptId": 10004926,
     "name": "Cursed to Golf",
@@ -34570,18 +34586,18 @@
   {
     "titleId": "PPSA08503_00",
     "conceptId": 10005424,
-    "name": "RAINBOW HIGH\u2122: RUNWAY RUSH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RAINBOW HIGH\u2122 RUNWAY RUSH",
+    "contentId": "UP3824-PPSA08503_00-0000000000000001",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA08504_00",
     "conceptId": 10005424,
-    "name": "RAINBOW HIGH\u2122: RUNWAY RUSH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RAINBOW HIGH\u2122 RUNWAY RUSH",
+    "contentId": "EP3678-PPSA08504_00-0000000000000001",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA08505_00",
@@ -53140,8 +53156,8 @@
     "conceptId": 10003186,
     "name": "Archetype Arcadia",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA13422_00",
@@ -59896,6 +59912,22 @@
     "publisherId": "JP8438"
   },
   {
+    "titleId": "PPSA15843_00",
+    "conceptId": 10008154,
+    "name": "Sakura MMO Extra",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15844_00",
+    "conceptId": 10008154,
+    "name": "Sakura MMO Extra",
+    "contentId": "UP6472-PPSA15844_00-SAKURAMMOEXTRA00",
+    "region": "UP",
+    "publisherId": "UP6472"
+  },
+  {
     "titleId": "PPSA15845_00",
     "conceptId": 10008155,
     "name": "Would you like to run an idol cafe? 3",
@@ -64835,25 +64867,25 @@
     "titleId": "PPSA18646_00",
     "conceptId": 10009259,
     "name": "The Jumping Food Memory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA18646_00-0037188289280537",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA18647_00",
     "conceptId": 10009259,
     "name": "The Jumping Food Memory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA18647_00-0782308589525116",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA18648_00",
     "conceptId": 10009259,
     "name": "The Jumping Food Memory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA18648_00-0489453734719408",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA18649_00",
