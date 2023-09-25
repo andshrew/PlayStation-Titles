@@ -14026,10 +14026,10 @@
   {
     "titleId": "PPSA04340_00",
     "conceptId": 10003264,
-    "name": "Avatar The Last Airbender: Quest for Balance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Avatar: The Last Airbender - Quest for Balance",
+    "contentId": "UP0283-PPSA04340_00-6295996030780486",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA04341_00",
@@ -22126,6 +22126,22 @@
     "contentId": "EP2005-PPSA06007_00-QUINTUSABSENTTRU",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA06016_00",
+    "conceptId": 10000657,
+    "name": "HELLDIVERS\u2122 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06017_00",
+    "conceptId": 10000657,
+    "name": "HELLDIVERS\u2122 2",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA06018_00",
@@ -53164,8 +53180,8 @@
     "conceptId": 10003186,
     "name": "Archetype Arcadia",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA13425_00",
@@ -59472,6 +59488,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15712_00",
+    "conceptId": 10007628,
+    "name": "Indoor Kickball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15714_00",
     "conceptId": 10007402,
     "name": "Death, Soul & Robots",
@@ -59915,9 +59939,9 @@
     "titleId": "PPSA15843_00",
     "conceptId": 10008154,
     "name": "Sakura MMO Extra",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA15843_00-SAKURAMMOEXTRA00",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA15844_00",
@@ -64894,6 +64918,30 @@
     "contentId": "HP6661-PPSA18649_00-0924966978377873",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA18661_00",
+    "conceptId": 10009211,
+    "name": "Zombiezz",
+    "contentId": "EP4312-PPSA18661_00-0258661650114610",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA18662_00",
+    "conceptId": 10009211,
+    "name": "Zombiezz",
+    "contentId": "UP4312-PPSA18662_00-0141406624802137",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA18663_00",
+    "conceptId": 10009211,
+    "name": "Zombiezz",
+    "contentId": "JP0089-PPSA18663_00-0926673522893393",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA18700_00",
