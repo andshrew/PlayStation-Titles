@@ -18984,6 +18984,14 @@
     "publisherId": "UP2047"
   },
   {
+    "titleId": "PPSA05386_00",
+    "conceptId": 10003023,
+    "name": "Kona II: Brume",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05389_00",
     "conceptId": 205354,
     "name": "Uncharted\u2122: Legacy of Thieves Collection",
@@ -47282,16 +47290,16 @@
   {
     "titleId": "PPSA10795_00",
     "conceptId": 10005927,
-    "name": "Paleo Pines PS4 & PS5",
-    "contentId": null,
+    "name": "Paleo Pines",
+    "contentId": "UP2080-PPSA10795_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP2080"
   },
   {
     "titleId": "PPSA10796_00",
     "conceptId": 10005927,
-    "name": "Paleo Pines PS4 & PS5",
-    "contentId": null,
+    "name": "Paleo Pines",
+    "contentId": "EP1877-PPSA10796_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP1877"
   },
@@ -51128,6 +51136,14 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA12366_00",
+    "conceptId": 10006582,
+    "name": "Inescapable: No Rules, No Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12367_00",
     "conceptId": 10006582,
     "name": "Inescapable: No Rules, No Rescue",
@@ -54776,6 +54792,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA13806_00",
+    "conceptId": 10007362,
+    "name": "Cactus Cowboy - Desert Warfare",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13807_00",
     "conceptId": 10002411,
     "name": "Skautfold: Shrouded in Sanity",
@@ -56931,9 +56955,9 @@
     "titleId": "PPSA14314_00",
     "conceptId": 10007558,
     "name": "Truck Driver: The American Dream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1470-PPSA14314_00-AMERICANDREAMUS0",
+    "region": "UP",
+    "publisherId": "UP1470"
   },
   {
     "titleId": "PPSA14315_00",
@@ -57422,6 +57446,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA14492_00",
+    "conceptId": 10004721,
+    "name": "SWORD ART ONLINE Last Recollection DEMO",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA14496_00",
@@ -58792,6 +58824,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA15459_00",
+    "conceptId": 10007997,
+    "name": "The Sisters 2 - Road to Fame",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15460_00",
     "conceptId": 10007998,
     "name": "Ultra Pixel Survive",
@@ -59059,9 +59099,9 @@
     "titleId": "PPSA15532_00",
     "conceptId": 10008041,
     "name": "Betomis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA15532_00-BETOMIS000000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA15533_00",
@@ -59626,16 +59666,16 @@
   {
     "titleId": "PPSA15729_00",
     "conceptId": 10008114,
-    "name": "Train Sim World\u00ae 4: Standard Edition PS4 & PS5",
-    "contentId": null,
+    "name": "Train Sim World 4",
+    "contentId": "EP2866-PPSA15729_00-TRAINSIMWORLD4DG",
     "region": "EP",
     "publisherId": "EP2866"
   },
   {
     "titleId": "PPSA15730_00",
     "conceptId": 10008114,
-    "name": "Train Sim World\u00ae 4: Standard Edition PS4 & PS5",
-    "contentId": null,
+    "name": "Train Sim World 4",
+    "contentId": "UP3004-PPSA15730_00-TRAINSIMWORLD4DG",
     "region": "UP",
     "publisherId": "UP3004"
   },
@@ -61291,17 +61331,17 @@
     "titleId": "PPSA16236_00",
     "conceptId": 10008315,
     "name": "Terraformers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4713-PPSA16236_00-0773142665973507",
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA16237_00",
     "conceptId": 10008315,
     "name": "Terraformers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4886-PPSA16237_00-0007726507084681",
+    "region": "EP",
+    "publisherId": "EP4886"
   },
   {
     "titleId": "PPSA16241_00",
@@ -61594,34 +61634,34 @@
   {
     "titleId": "PPSA16368_00",
     "conceptId": 10008352,
-    "name": "Mimi the cat: Mimi's Scratcher",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mimi the cat: Mimi's the Scratcher",
+    "contentId": "UP8511-PPSA16368_00-0248695858135708",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA16369_00",
     "conceptId": 10008352,
-    "name": "Mimi the cat: Mimi's Scratcher",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mimi the cat: Mimi's the Scratcher",
+    "contentId": "EP8701-PPSA16369_00-0823473963942893",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA16370_00",
     "conceptId": 10008352,
-    "name": "Mimi the cat: Mimi's Scratcher",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mimi the cat: Mimi's the Scratcher",
+    "contentId": "JP8416-PPSA16370_00-0210240457657068",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA16371_00",
     "conceptId": 10008352,
-    "name": "Mimi the cat: Mimi's Scratcher",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mimi the cat: Mimi's the Scratcher",
+    "contentId": "HP8462-PPSA16371_00-0847913929642164",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA16376_00",
@@ -62088,6 +62128,22 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA16525_00",
+    "conceptId": 10003866,
+    "name": "SpongeBob SquarePants: The Cosmic Shake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16526_00",
+    "conceptId": 10003866,
+    "name": "SpongeBob SquarePants: The Cosmic Shake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16527_00",
     "conceptId": 10003866,
     "name": "SpongeBob SquarePants: The Cosmic Shake",
@@ -62470,6 +62526,22 @@
     "contentId": "UP7940-PPSA16664_00-0475202754990649",
     "region": "UP",
     "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA16665_00",
+    "conceptId": 10008469,
+    "name": "Worldless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16666_00",
+    "conceptId": 10008469,
+    "name": "Worldless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16668_00",
@@ -63038,6 +63110,14 @@
     "contentId": "HP3536-PPSA16896_00-0067707665496321",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA16897_00",
+    "conceptId": 10007997,
+    "name": "The Sisters 2 - Road to Fame",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16901_00",
@@ -63942,6 +64022,22 @@
     "contentId": "EP1555-PPSA17418_00-0124037965840251",
     "region": "EP",
     "publisherId": "EP1555"
+  },
+  {
+    "titleId": "PPSA17454_00",
+    "conceptId": 10008374,
+    "name": "Lil Gator Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17455_00",
+    "conceptId": 10008374,
+    "name": "Lil Gator Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17480_00",
