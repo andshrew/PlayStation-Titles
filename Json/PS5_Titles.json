@@ -18984,6 +18984,14 @@
     "publisherId": "UP2047"
   },
   {
+    "titleId": "PPSA05385_00",
+    "conceptId": 10003023,
+    "name": "Kona II: Brume",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05386_00",
     "conceptId": 10003023,
     "name": "Kona II: Brume",
@@ -30192,6 +30200,14 @@
     "publisherId": "EP8915"
   },
   {
+    "titleId": "PPSA07638_00",
+    "conceptId": 10004946,
+    "name": "A Boy and His Blob: Retro Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07641_00",
     "conceptId": 10001571,
     "name": "Pistol Whip",
@@ -30342,6 +30358,14 @@
     "contentId": "UP4312-PPSA07662_00-7005563833687418",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA07663_00",
+    "conceptId": 10003735,
+    "name": "Forest Grove",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07664_00",
@@ -37640,6 +37664,22 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA09044_00",
+    "conceptId": 10004402,
+    "name": "Boxville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09047_00",
+    "conceptId": 10004402,
+    "name": "Boxville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09048_00",
     "conceptId": 10004402,
     "name": "Boxville Demo",
@@ -38891,9 +38931,9 @@
     "titleId": "PPSA09244_00",
     "conceptId": 10005731,
     "name": "The Crackpet Show: Happy Tree Friends Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7490-PPSA09244_00-9381115121629930",
+    "region": "UP",
+    "publisherId": "UP7490"
   },
   {
     "titleId": "PPSA09245_00",
@@ -39914,26 +39954,26 @@
   {
     "titleId": "PPSA09453_00",
     "conceptId": 10005547,
-    "name": "\u30a4\u30f3\u30d5\u30a3\u30cb\u30c6\u30a3 \u30b9\u30c8\u30e9\u30c3\u30b7\u30e5\u3000\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8 \u30c0\u30a4\u306e\u5927\u5192\u967a PS4 & PS5",
-    "contentId": null,
+    "name": "\u30a4\u30f3\u30d5\u30a3\u30cb\u30c6\u30a3 \u30b9\u30c8\u30e9\u30c3\u30b7\u30e5\u3000\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8 \u30c0\u30a4\u306e\u5927\u5192\u967a",
+    "contentId": "JP0082-PPSA09453_00-STRASHSEJPS50001",
     "region": "JP",
     "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA09454_00",
     "conceptId": 10005547,
-    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai PS4 & PS5",
-    "contentId": null,
+    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
+    "contentId": "HP0082-PPSA09454_00-STRASHSEAPS50001",
     "region": "HP",
     "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA09461_00",
     "conceptId": 233559,
-    "name": "Paper Beast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Paper Beast Enhanced Edition",
+    "contentId": "EP3265-PPSA09461_00-PAPERBEASTQA002A",
+    "region": "EP",
+    "publisherId": "EP3265"
   },
   {
     "titleId": "PPSA09463_00",
@@ -48427,9 +48467,9 @@
     "titleId": "PPSA10986_00",
     "conceptId": 10005731,
     "name": "The Crackpet Show: Happy Tree Friends Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7488-PPSA10986_00-7895471801529719",
+    "region": "EP",
+    "publisherId": "EP7488"
   },
   {
     "titleId": "PPSA10992_00",
@@ -53186,8 +53226,8 @@
   {
     "titleId": "PPSA13414_00",
     "conceptId": 10007199,
-    "name": "\u30a4\u30fc\u30b9X -NORDICS- (PS5 & PS4)",
-    "contentId": null,
+    "name": "\u30a4\u30fc\u30b9\u2169 -NORDICS-",
+    "contentId": "JP0425-PPSA13414_00-YS10NORDICS00000",
     "region": "JP",
     "publisherId": "JP0425"
   },
@@ -54608,6 +54648,38 @@
     "publisherId": "EP4312"
   },
   {
+    "titleId": "PPSA13765_00",
+    "conceptId": 10007337,
+    "name": "SIDE BULLET",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13768_00",
+    "conceptId": 10007337,
+    "name": "SIDE BULLET",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13769_00",
+    "conceptId": 10007337,
+    "name": "SIDE BULLET",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13770_00",
+    "conceptId": 10007337,
+    "name": "SIDE BULLET",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13771_00",
     "conceptId": 10007338,
     "name": "Party Bingo",
@@ -54790,6 +54862,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA13805_00",
+    "conceptId": 10007362,
+    "name": "Cactus Cowboy - Desert Warfare",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13806_00",
@@ -57280,6 +57360,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14428_00",
+    "conceptId": 10007151,
+    "name": "CRYMACHINA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14429_00",
     "conceptId": 10002154,
     "name": "NFL ProERA '22 (Demo Version)",
@@ -58168,6 +58256,22 @@
     "publisherId": "JP7637"
   },
   {
+    "titleId": "PPSA15234_00",
+    "conceptId": 235352,
+    "name": "Pixel Ripped 1995",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15235_00",
+    "conceptId": 235352,
+    "name": "Pixel Ripped 1995",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15239_00",
     "conceptId": 10004405,
     "name": "NARAKA: BLADEPOINT",
@@ -58824,6 +58928,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA15458_00",
+    "conceptId": 10007997,
+    "name": "The Sisters 2 - Road to Fame",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15459_00",
     "conceptId": 10007997,
     "name": "The Sisters 2 - Road to Fame",
@@ -59107,9 +59219,9 @@
     "titleId": "PPSA15533_00",
     "conceptId": 10008041,
     "name": "Betomis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA15533_00-BETOMIS000000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA15534_00",
@@ -59611,9 +59723,9 @@
     "titleId": "PPSA15719_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5249-PPSA15719_00-0942113618876530",
+    "region": "HP",
+    "publisherId": "HP5249"
   },
   {
     "titleId": "PPSA15721_00",
@@ -59942,6 +60054,14 @@
     "contentId": "JP5432-PPSA15825_00-0947412926008136",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA15826_00",
+    "conceptId": 10008009,
+    "name": "Angry Birds VR: Isle of Pigs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15827_00",
@@ -62960,6 +63080,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16822_00",
+    "conceptId": 10008514,
+    "name": "Harmony's Odyssey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16825_00",
+    "conceptId": 10008514,
+    "name": "Harmony's Odyssey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16828_00",
     "conceptId": 10008533,
     "name": "Fresh Start",
@@ -63448,6 +63584,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17084_00",
+    "conceptId": 10000791,
+    "name": "The Caligula Effect 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17086_00",
     "conceptId": 10008289,
     "name": "Super Death Game SHOW! VR",
@@ -63592,6 +63736,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA17162_00",
+    "conceptId": 10008009,
+    "name": "Angry Birds VR: Isle of Pigs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17163_00",
     "conceptId": 10008081,
     "name": "Jets'N'Guns 2",
@@ -63610,8 +63762,8 @@
   {
     "titleId": "PPSA17172_00",
     "conceptId": 10007199,
-    "name": "Ys X: Nordics (PS4 & PS5)",
-    "contentId": null,
+    "name": "\u4f0a\u8607X -\u5317\u5883\u6b77\u96aa-",
+    "contentId": "HP5846-PPSA17172_00-YS10NORDICS00000",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -64624,6 +64776,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17907_00",
+    "conceptId": 10000886,
+    "name": "Horizon Forbidden West",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17929_00",
     "conceptId": 10000385,
     "name": "Venatrix",
@@ -64744,6 +64904,14 @@
     "publisherId": "EB0198"
   },
   {
+    "titleId": "PPSA18087_00",
+    "conceptId": 10004021,
+    "name": "FOAMSTARS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18108_00",
     "conceptId": 10009046,
     "name": "Troopers",
@@ -64758,6 +64926,30 @@
     "contentId": "EP7541-PPSA18109_00-0307382644791238",
     "region": "EP",
     "publisherId": "EP7541"
+  },
+  {
+    "titleId": "PPSA18125_00",
+    "conceptId": 10004021,
+    "name": "FOAMSTARS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18130_00",
+    "conceptId": 10004021,
+    "name": "FOAMSTARS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18131_00",
+    "conceptId": 10004021,
+    "name": "FOAMSTARS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18162_00",
@@ -64776,6 +64968,14 @@
     "publisherId": "HP5777"
   },
   {
+    "titleId": "PPSA18185_00",
+    "conceptId": 10008939,
+    "name": "\u6771\u4eac\u30b5\u30a4\u30b3\u30c7\u30df\u30c3\u30af\u3000\uff5e\u516c\u5b89\u8abf\u67fb\u5e81\u7279\u5225\u4e8b\u8c61\u79d1\u5b66\u60c5\u5831\u5206\u6790\u5ba4\u3000\u7279\u6b8a\u635c\u67fb\u4e8b\u4ef6\u7c3f\uff5e DEMO",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP7583"
+  },
+  {
     "titleId": "PPSA18190_00",
     "conceptId": 10008937,
     "name": "\u795e\u7bb1 - Mythology of Cube - DEMO",
@@ -64786,10 +64986,10 @@
   {
     "titleId": "PPSA18210_00",
     "conceptId": 233559,
-    "name": "Paper Beast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Paper Beast Enhanced Edition",
+    "contentId": "UP3405-PPSA18210_00-PAPERBEASTQA002A",
+    "region": "UP",
+    "publisherId": "UP3405"
   },
   {
     "titleId": "PPSA18214_00",
@@ -65179,65 +65379,65 @@
     "titleId": "PPSA18802_00",
     "conceptId": 10004332,
     "name": "Broken Pipe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA18802_00-BROKENPIPE0PS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA18803_00",
     "conceptId": 10004332,
     "name": "Broken Pipe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA18803_00-BROKENPIPE0PS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA18804_00",
     "conceptId": 10004332,
     "name": "Broken Pipe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA18804_00-BROKENPIPE0PS5JA",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA18805_00",
     "conceptId": 10004332,
     "name": "Broken Pipe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA18805_00-BROKENPIPE0PS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA18806_00",
     "conceptId": 10005404,
     "name": "Cube Decider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA18806_00-CUBEDECIDERPS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA18807_00",
     "conceptId": 10005404,
     "name": "Cube Decider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA18807_00-CUBEDECIDERPS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA18808_00",
     "conceptId": 10005404,
     "name": "Cube Decider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA18808_00-CUBEDECIDERPS5JA",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA18809_00",
     "conceptId": 10005404,
     "name": "Cube Decider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA18809_00-CUBEDECIDERPS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA18813_00",
