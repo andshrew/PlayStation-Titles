@@ -28384,6 +28384,22 @@
     "publisherId": "EP1018"
   },
   {
+    "titleId": "PPSA07258_00",
+    "conceptId": 10004875,
+    "name": "Headbangers: Rhythm Royale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07259_00",
+    "conceptId": 10004875,
+    "name": "Headbangers: Rhythm Royale Digital Deluxe Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4064"
+  },
+  {
     "titleId": "PPSA07260_00",
     "conceptId": 10004595,
     "name": "Ultra Mission",
@@ -29072,6 +29088,14 @@
     "publisherId": "EP6667"
   },
   {
+    "titleId": "PPSA07397_00",
+    "conceptId": 10004946,
+    "name": "A Boy and His Blob: Retro Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07404_00",
     "conceptId": 10004557,
     "name": "Bright Memory: Infinite",
@@ -29187,7 +29211,7 @@
     "titleId": "PPSA07424_00",
     "conceptId": 10004920,
     "name": "Fate/Samurai Remnant",
-    "contentId": null,
+    "contentId": "JP0106-PPSA07424_00-GAME000000000000",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -31675,9 +31699,9 @@
     "titleId": "PPSA07928_00",
     "conceptId": 10005202,
     "name": "Harvest Moon: The Winds of Anthos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1014-PPSA07928_00-HMLETTER000PS5US",
+    "region": "UP",
+    "publisherId": "UP1014"
   },
   {
     "titleId": "PPSA07929_00",
@@ -35691,9 +35715,9 @@
     "titleId": "PPSA08682_00",
     "conceptId": 10005505,
     "name": "Wildmender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6959-PPSA08682_00-WILDMENDERSIEE00",
+    "region": "EP",
+    "publisherId": "EP6959"
   },
   {
     "titleId": "PPSA08683_00",
@@ -36002,8 +36026,8 @@
   {
     "titleId": "PPSA08752_00",
     "conceptId": 10005547,
-    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai PS4 & PS5",
-    "contentId": null,
+    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
+    "contentId": "UP0082-PPSA08752_00-STRASHSEUPS50001",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -37392,6 +37416,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08978_00",
+    "conceptId": 10004449,
+    "name": "Jumanji: Wild Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08980_00",
     "conceptId": 10005541,
     "name": "Catmaze",
@@ -37665,6 +37697,22 @@
   },
   {
     "titleId": "PPSA09044_00",
+    "conceptId": 10004402,
+    "name": "Boxville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09045_00",
+    "conceptId": 10004402,
+    "name": "Boxville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09046_00",
     "conceptId": 10004402,
     "name": "Boxville",
     "contentId": null,
@@ -39946,8 +39994,8 @@
   {
     "titleId": "PPSA09452_00",
     "conceptId": 10005547,
-    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai PS4 & PS5",
-    "contentId": null,
+    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
+    "contentId": "EP0082-PPSA09452_00-STRASHSEEPS50001",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -41371,9 +41419,9 @@
     "titleId": "PPSA09733_00",
     "conceptId": 10005505,
     "name": "Wildmender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6964-PPSA09733_00-WILDMENDERSIEA00",
+    "region": "UP",
+    "publisherId": "UP6964"
   },
   {
     "titleId": "PPSA09736_00",
@@ -41515,9 +41563,9 @@
     "titleId": "PPSA09760_00",
     "conceptId": 10005887,
     "name": "Everhood: Eternity Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7652-PPSA09760_00-EVERHOOD000PS5EU",
+    "region": "EP",
+    "publisherId": "EP7652"
   },
   {
     "titleId": "PPSA09762_00",
@@ -48074,18 +48122,18 @@
   {
     "titleId": "PPSA10916_00",
     "conceptId": 10006392,
-    "name": "Mechs V Kaijus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mech V Kaijus",
+    "contentId": "UP3252-PPSA10916_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA10917_00",
     "conceptId": 10006392,
-    "name": "Mechs V Kaijus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mech V Kaijus",
+    "contentId": "EP3111-PPSA10917_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA10918_00",
@@ -48547,9 +48595,25 @@
     "titleId": "PPSA11010_00",
     "conceptId": 10006440,
     "name": "CyberTD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8073-PPSA11010_00-CYBERTD000000000",
+    "region": "EP",
+    "publisherId": "EP8073"
+  },
+  {
+    "titleId": "PPSA11011_00",
+    "conceptId": 10006440,
+    "name": "CyberTD",
+    "contentId": "JP5718-PPSA11011_00-CYBERTD000000000",
+    "region": "JP",
+    "publisherId": "JP5718"
+  },
+  {
+    "titleId": "PPSA11012_00",
+    "conceptId": 10006440,
+    "name": "CyberTD",
+    "contentId": "HP5780-PPSA11012_00-CYBERTD000000000",
+    "region": "HP",
+    "publisherId": "HP5780"
   },
   {
     "titleId": "PPSA11013_00",
@@ -50699,9 +50763,9 @@
     "titleId": "PPSA11421_00",
     "conceptId": 10006576,
     "name": "Eperon Defend",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA11421_00-8519880699807538",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11422_00",
@@ -52560,6 +52624,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13253_00",
+    "conceptId": 10007131,
+    "name": "GeoJelly",
+    "contentId": "EP6878-PPSA13253_00-0673071003693784",
+    "region": "EP",
+    "publisherId": "EP6878"
+  },
+  {
     "titleId": "PPSA13255_00",
     "conceptId": 10006995,
     "name": "\u30ad\u30f3\u30b0\u30ba\u30c7\u30a3\u30bb\u30f3\u30c8",
@@ -53115,7 +53187,7 @@
     "titleId": "PPSA13392_00",
     "conceptId": 10007176,
     "name": "EA SPORTS FC 24",
-    "contentId": null,
+    "contentId": "EP0006-PPSA13392_00-EASPORTSFC2024BG",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -54379,17 +54451,17 @@
     "titleId": "PPSA13710_00",
     "conceptId": 10007311,
     "name": "Dolphin Spirit - Ocean Mission",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4295-PPSA13710_00-DOLPHINPS50000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA13711_00",
     "conceptId": 10007311,
     "name": "Dolphin Spirit - Ocean Mission",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1475-PPSA13711_00-DOLPHINPS50000US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA13713_00",
@@ -57184,6 +57256,14 @@
     "publisherId": "EP6325"
   },
   {
+    "titleId": "PPSA14357_00",
+    "conceptId": 10007611,
+    "name": "Ninja Kidz: Through Time",
+    "contentId": "EP6325-PPSA14357_00-0635193746642528",
+    "region": "EP",
+    "publisherId": "EP6325"
+  },
+  {
     "titleId": "PPSA14362_00",
     "conceptId": 10007607,
     "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
@@ -57304,6 +57384,30 @@
     "publisherId": "EP1006"
   },
   {
+    "titleId": "PPSA14394_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14403_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14406_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14410_00",
     "conceptId": 10007263,
     "name": "PAYDAY 3",
@@ -57355,6 +57459,14 @@
     "titleId": "PPSA14426_00",
     "conceptId": 229969,
     "name": "Mineko's Night Market",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14427_00",
+    "conceptId": 10007151,
+    "name": "CRYMACHINA",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -58483,17 +58595,17 @@
     "titleId": "PPSA15347_00",
     "conceptId": 10007967,
     "name": "Pizza Possum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2320-PPSA15347_00-PIZZAPOSSUMOMNOM",
+    "region": "UP",
+    "publisherId": "UP2320"
   },
   {
     "titleId": "PPSA15348_00",
     "conceptId": 10007967,
     "name": "Pizza Possum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2187-PPSA15348_00-PIZZAPOSSUMOMNOM",
+    "region": "EP",
+    "publisherId": "EP2187"
   },
   {
     "titleId": "PPSA15349_00",
@@ -59112,12 +59224,44 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15500_00",
+    "conceptId": 10003574,
+    "name": "The Foglands",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4273"
+  },
+  {
     "titleId": "PPSA15502_00",
     "conceptId": 10004561,
     "name": "Wrestle Quest",
     "contentId": "HP2854-PPSA15502_00-WRESTLEQUESTP5AS",
     "region": "HP",
     "publisherId": "HP2854"
+  },
+  {
+    "titleId": "PPSA15503_00",
+    "conceptId": 10003574,
+    "name": "The Foglands",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4033"
+  },
+  {
+    "titleId": "PPSA15504_00",
+    "conceptId": 10003574,
+    "name": "The Foglands",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP4207"
+  },
+  {
+    "titleId": "PPSA15505_00",
+    "conceptId": 10003574,
+    "name": "The Foglands",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP4157"
   },
   {
     "titleId": "PPSA15506_00",
@@ -59238,6 +59382,14 @@
     "contentId": "EP2005-PPSA15535_00-RAYLAND200000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA15536_00",
+    "conceptId": 10008043,
+    "name": "Skull Island: Rise of Kong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15541_00",
@@ -59697,6 +59849,14 @@
   },
   {
     "titleId": "PPSA15712_00",
+    "conceptId": 10007628,
+    "name": "Indoor Kickball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15713_00",
     "conceptId": 10007628,
     "name": "Indoor Kickball",
     "contentId": null,
@@ -61520,6 +61680,14 @@
     "publisherId": "HP6784"
   },
   {
+    "titleId": "PPSA16255_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16265_00",
     "conceptId": 10008306,
     "name": "\u9f8d\u304c\u5982\u304f\uff17\u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537\u3000PS4 & PS5",
@@ -63216,6 +63384,22 @@
     "publisherId": "HP8474"
   },
   {
+    "titleId": "PPSA16889_00",
+    "conceptId": 10008562,
+    "name": "Memorrha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16890_00",
+    "conceptId": 10008562,
+    "name": "Memorrha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16892_00",
     "conceptId": 10007204,
     "name": "Greyhill Incident",
@@ -63275,17 +63459,17 @@
     "titleId": "PPSA16923_00",
     "conceptId": 10005505,
     "name": "Wildmender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6928-PPSA16923_00-WILDMENDERSIEJ00",
+    "region": "JP",
+    "publisherId": "JP6928"
   },
   {
     "titleId": "PPSA16932_00",
     "conceptId": 10005505,
     "name": "Wildmender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6979-PPSA16932_00-WILDMENDERASIA00",
+    "region": "HP",
+    "publisherId": "HP6979"
   },
   {
     "titleId": "PPSA16938_00",
@@ -63976,6 +64160,22 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA17329_00",
+    "conceptId": 10008746,
+    "name": "RollerCoaster Tycoon Adventures Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17330_00",
+    "conceptId": 10008746,
+    "name": "RollerCoaster Tycoon Adventures Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17347_00",
     "conceptId": 204305,
     "name": "Slender: The Arrival",
@@ -64307,9 +64507,9 @@
     "titleId": "PPSA17519_00",
     "conceptId": 10007346,
     "name": "Mon-Yu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5938-PPSA17519_00-00677MONYUEURPS5",
+    "region": "EP",
+    "publisherId": "EP5938"
   },
   {
     "titleId": "PPSA17533_00",
@@ -65115,33 +65315,33 @@
     "titleId": "PPSA18390_00",
     "conceptId": 10009147,
     "name": "Afterdream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA18390_00-0172093136074034",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA18391_00",
     "conceptId": 10009147,
     "name": "Afterdream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA18391_00-0776653725666847",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA18392_00",
     "conceptId": 10009147,
     "name": "Afterdream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA18392_00-0710461104642865",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA18393_00",
     "conceptId": 10009147,
     "name": "Afterdream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA18393_00-0887357760622763",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA18395_00",
@@ -65162,10 +65362,10 @@
   {
     "titleId": "PPSA18412_00",
     "conceptId": 10009152,
-    "name": "UFIGHT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "UFIGHT - Fighting Game",
+    "contentId": "UP8600-PPSA18412_00-0378673503528600",
+    "region": "UP",
+    "publisherId": "UP8600"
   },
   {
     "titleId": "PPSA18414_00",
