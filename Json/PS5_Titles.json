@@ -376,6 +376,14 @@
     "publisherId": "EP2034"
   },
   {
+    "titleId": "PPSA01413_00",
+    "conceptId": 10000657,
+    "name": "HELLDIVERS\u2122 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA01416_00",
     "conceptId": 10000668,
     "name": "MLB\u00ae The Show\u2122 21",
@@ -17360,6 +17368,14 @@
     "publisherId": "UP6714"
   },
   {
+    "titleId": "PPSA05041_00",
+    "conceptId": 10003674,
+    "name": "Love Kuesuto",
+    "contentId": "UP0891-PPSA05041_00-RATAGLOVEKUESUTO",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
     "titleId": "PPSA05045_00",
     "conceptId": 10001919,
     "name": "Hotel Transylvania Scary-Tale Adventures",
@@ -17438,6 +17454,14 @@
     "contentId": "UP6665-PPSA05058_00-CLASH00000000000",
     "region": "UP",
     "publisherId": "UP6665"
+  },
+  {
+    "titleId": "PPSA05059_00",
+    "conceptId": 10003485,
+    "name": "RoboCop: Rogue City - Standard Pre-Order",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA05061_00",
@@ -27928,6 +27952,14 @@
     "publisherId": "EP1703"
   },
   {
+    "titleId": "PPSA07167_00",
+    "conceptId": 10001734,
+    "name": "Synergia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07169_00",
     "conceptId": 10004836,
     "name": "NBA 2K23",
@@ -31756,8 +31788,8 @@
     "conceptId": 10005136,
     "name": "Dungeons 4",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP2060"
   },
   {
     "titleId": "PPSA07939_00",
@@ -37416,6 +37448,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08977_00",
+    "conceptId": 10004449,
+    "name": "Jumanji: Wild Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08978_00",
     "conceptId": 10004449,
     "name": "Jumanji: Wild Adventures",
@@ -37934,6 +37974,14 @@
     "contentId": "UP4064-PPSA09077_00-0441220012296936",
     "region": "UP",
     "publisherId": "UP4064"
+  },
+  {
+    "titleId": "PPSA09079_00",
+    "conceptId": 10005694,
+    "name": "Frontball Planet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09080_00",
@@ -38635,17 +38683,17 @@
     "titleId": "PPSA09189_00",
     "conceptId": 10005670,
     "name": "PAW Patrol World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA09189_00-0884984015825227",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA09190_00",
     "conceptId": 10005670,
     "name": "PAW Patrol World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA09190_00-7409034077921786",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA09192_00",
@@ -39601,6 +39649,14 @@
   },
   {
     "titleId": "PPSA09374_00",
+    "conceptId": 10005391,
+    "name": "Let's Sing 2024",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09375_00",
     "conceptId": 10005391,
     "name": "Let's Sing 2024",
     "contentId": null,
@@ -41555,9 +41611,9 @@
     "titleId": "PPSA09759_00",
     "conceptId": 10005887,
     "name": "Everhood: Eternity Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7654-PPSA09759_00-EVERHOOD000PS5NA",
+    "region": "UP",
+    "publisherId": "UP7654"
   },
   {
     "titleId": "PPSA09760_00",
@@ -42026,8 +42082,8 @@
   {
     "titleId": "PPSA09849_00",
     "conceptId": 10006027,
-    "name": "Overpass 2 - Standard Edition (Pre-order)",
-    "contentId": null,
+    "name": "Overpass 2",
+    "contentId": "EP6665-PPSA09849_00-OP20000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -48587,9 +48643,9 @@
     "titleId": "PPSA11009_00",
     "conceptId": 10006440,
     "name": "CyberTD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5880-PPSA11009_00-CYBERTD000000000",
+    "region": "UP",
+    "publisherId": "UP5880"
   },
   {
     "titleId": "PPSA11010_00",
@@ -50755,9 +50811,9 @@
     "titleId": "PPSA11420_00",
     "conceptId": 10006576,
     "name": "Eperon Defend",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA11420_00-0718295355140272",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA11421_00",
@@ -53146,8 +53202,8 @@
   {
     "titleId": "PPSA13385_00",
     "conceptId": 10007176,
-    "name": "EA SPORTS FC\u2122 24 Ultimate Edition PS4\u2122 & PS5\u2122",
-    "contentId": null,
+    "name": "EA SPORTS FC 24",
+    "contentId": "EP0006-PPSA13385_00-EASPORTSFC2024BG",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -53194,8 +53250,8 @@
   {
     "titleId": "PPSA13393_00",
     "conceptId": 10007176,
-    "name": "EA SPORTS FC\u2122 24 Ultimate Edition PS4\u2122 & PS5\u2122",
-    "contentId": null,
+    "name": "EA SPORTS FC 24",
+    "contentId": "UP0006-PPSA13393_00-EASPORTSFC2024BG",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -55488,6 +55544,14 @@
     "publisherId": "HP7962"
   },
   {
+    "titleId": "PPSA13935_00",
+    "conceptId": 10004685,
+    "name": "Spirit of the Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13939_00",
     "conceptId": 10005437,
     "name": "I'm in Love With Your Dead Grandmother",
@@ -57256,6 +57320,14 @@
     "publisherId": "EP6325"
   },
   {
+    "titleId": "PPSA14356_00",
+    "conceptId": 10007611,
+    "name": "Ninja Kidz: Through Time",
+    "contentId": "UP6326-PPSA14356_00-0782485270648343",
+    "region": "UP",
+    "publisherId": "UP6326"
+  },
+  {
     "titleId": "PPSA14357_00",
     "conceptId": 10007611,
     "name": "Ninja Kidz: Through Time",
@@ -57392,6 +57464,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14396_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14399_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14403_00",
     "conceptId": 10007607,
     "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
@@ -57400,7 +57488,39 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14404_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14405_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14406_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14407_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14408_00",
     "conceptId": 10007607,
     "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
     "contentId": null,
@@ -57913,6 +58033,14 @@
   },
   {
     "titleId": "PPSA14717_00",
+    "conceptId": 10007685,
+    "name": "My Time at Sandrock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14718_00",
     "conceptId": 10007685,
     "name": "My Time at Sandrock",
     "contentId": null,
@@ -59851,17 +59979,17 @@
     "titleId": "PPSA15712_00",
     "conceptId": 10007628,
     "name": "Indoor Kickball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8278-PPSA15712_00-0020611661142297",
+    "region": "UP",
+    "publisherId": "UP8278"
   },
   {
     "titleId": "PPSA15713_00",
     "conceptId": 10007628,
     "name": "Indoor Kickball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8469-PPSA15713_00-0758007286289524",
+    "region": "EP",
+    "publisherId": "EP8469"
   },
   {
     "titleId": "PPSA15714_00",
@@ -60382,6 +60510,30 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0101"
+  },
+  {
+    "titleId": "PPSA15854_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15855_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15856_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15867_00",
@@ -61681,6 +61833,30 @@
   },
   {
     "titleId": "PPSA16255_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16256_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16257_00",
+    "conceptId": 10007607,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16258_00",
     "conceptId": 10007607,
     "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
     "contentId": null,
@@ -64120,6 +64296,14 @@
     "publisherId": "EP8348"
   },
   {
+    "titleId": "PPSA17307_00",
+    "conceptId": 10007131,
+    "name": "GeoJelly",
+    "contentId": "UP6881-PPSA17307_00-0290807864097366",
+    "region": "UP",
+    "publisherId": "UP6881"
+  },
+  {
     "titleId": "PPSA17311_00",
     "conceptId": 10007314,
     "name": "Born Of Bread Demo",
@@ -64422,6 +64606,14 @@
     "contentId": "HP6691-PPSA17483_00-CUBICPARKINPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17484_00",
+    "conceptId": 10005308,
+    "name": "Pinball FX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17487_00",
@@ -65138,18 +65330,18 @@
   {
     "titleId": "PPSA18130_00",
     "conceptId": 10004021,
-    "name": "FOAMSTARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FOAMSTARS OPEN BETA PARTY",
+    "contentId": "EP0082-PPSA18130_00-FOAMSTARSOBPARTY",
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA18131_00",
     "conceptId": 10004021,
-    "name": "FOAMSTARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FOAMSTARS OPEN BETA PARTY",
+    "contentId": "HP0082-PPSA18131_00-FOAMSTARSOBPARTY",
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA18162_00",
@@ -65370,10 +65562,10 @@
   {
     "titleId": "PPSA18414_00",
     "conceptId": 10009152,
-    "name": "UFIGHT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "UFIGHT - Fighting Game",
+    "contentId": "EP8790-PPSA18414_00-0324886673595791",
+    "region": "EP",
+    "publisherId": "EP8790"
   },
   {
     "titleId": "PPSA18422_00",
