@@ -17368,6 +17368,14 @@
     "publisherId": "UP6714"
   },
   {
+    "titleId": "PPSA05040_00",
+    "conceptId": 10003674,
+    "name": "Love Kuesuto",
+    "contentId": "EP0896-PPSA05040_00-RATAGLOVEKUESUTO",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA05041_00",
     "conceptId": 10003674,
     "name": "Love Kuesuto",
@@ -24528,6 +24536,22 @@
     "publisherId": "UP7592"
   },
   {
+    "titleId": "PPSA06484_00",
+    "conceptId": 10004497,
+    "name": "SteamWorld Build",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06485_00",
+    "conceptId": 10004497,
+    "name": "SteamWorld Build",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06486_00",
     "conceptId": 10004495,
     "name": "Vegas Tales",
@@ -27952,6 +27976,14 @@
     "publisherId": "EP1703"
   },
   {
+    "titleId": "PPSA07166_00",
+    "conceptId": 10001734,
+    "name": "Synergia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07167_00",
     "conceptId": 10001734,
     "name": "Synergia",
@@ -29227,7 +29259,7 @@
     "titleId": "PPSA07422_00",
     "conceptId": 10004920,
     "name": "Fate/Samurai Remnant",
-    "contentId": null,
+    "contentId": "EP4108-PPSA07422_00-GAME000000000000",
     "region": "EP",
     "publisherId": "EP4108"
   },
@@ -29235,7 +29267,7 @@
     "titleId": "PPSA07423_00",
     "conceptId": 10004920,
     "name": "Fate/Samurai Remnant",
-    "contentId": null,
+    "contentId": "HP0106-PPSA07423_00-GAME000000000000",
     "region": "HP",
     "publisherId": "HP0106"
   },
@@ -31794,10 +31826,10 @@
   {
     "titleId": "PPSA07939_00",
     "conceptId": 10005136,
-    "name": "Dungeons 4",
+    "name": "\u30c0\u30f3\u30b8\u30e7\u30f3\u30ba 4",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP7213"
   },
   {
     "titleId": "PPSA07942_00",
@@ -37974,6 +38006,14 @@
     "contentId": "UP4064-PPSA09077_00-0441220012296936",
     "region": "UP",
     "publisherId": "UP4064"
+  },
+  {
+    "titleId": "PPSA09078_00",
+    "conceptId": 10005694,
+    "name": "Frontball Planet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09079_00",
@@ -45550,6 +45590,14 @@
     "contentId": "JP0507-PPSA10451_00-ARTBOOKPS5000000",
     "region": "JP",
     "publisherId": "JP0507"
+  },
+  {
+    "titleId": "PPSA10460_00",
+    "conceptId": 10006010,
+    "name": "Sunshine Manor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10469_00",
@@ -61267,33 +61315,33 @@
     "titleId": "PPSA16081_00",
     "conceptId": 10008227,
     "name": "Sokolab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA16081_00-0901951638812986",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA16082_00",
     "conceptId": 10008227,
     "name": "Sokolab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA16082_00-0285125623664267",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA16083_00",
     "conceptId": 10008227,
     "name": "Sokolab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA16083_00-0513392992287818",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA16084_00",
     "conceptId": 10008227,
     "name": "Sokolab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA16084_00-0293033466338322",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA16088_00",
@@ -63006,6 +63054,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA16667_00",
+    "conceptId": 10003491,
+    "name": "VERY BAD DREAMS - DO NOT FALL INTO MADNESS",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4730"
   },
   {
     "titleId": "PPSA16668_00",
@@ -65298,10 +65354,10 @@
   {
     "titleId": "PPSA18087_00",
     "conceptId": 10004021,
-    "name": "FOAMSTARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FOAMSTARS OPEN BETA PARTY",
+    "contentId": "JP0082-PPSA18087_00-FOAMSTARSOBPARTY",
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA18108_00",
@@ -65322,10 +65378,10 @@
   {
     "titleId": "PPSA18125_00",
     "conceptId": 10004021,
-    "name": "FOAMSTARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FOAMSTARS OPEN BETA PARTY",
+    "contentId": "UP0082-PPSA18125_00-FOAMSTARSOBPARTY",
+    "region": "UP",
+    "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA18130_00",
@@ -65454,6 +65510,14 @@
     "contentId": "UP0891-PPSA18253_00-SUPERBRAWLRUSHRG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA18260_00",
+    "conceptId": 10003491,
+    "name": "VERY BAD DREAMS - DO NOT FALL INTO MADNESS",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4556"
   },
   {
     "titleId": "PPSA18330_00",
