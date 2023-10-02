@@ -17472,6 +17472,14 @@
     "publisherId": "EP6665"
   },
   {
+    "titleId": "PPSA05060_00",
+    "conceptId": 10003485,
+    "name": "RoboCop: Rogue City - Standard Pre-Order",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
     "titleId": "PPSA05061_00",
     "conceptId": 10000874,
     "name": "Beyond Enemy Lines - Remastered Edition",
@@ -28450,10 +28458,10 @@
   {
     "titleId": "PPSA07258_00",
     "conceptId": 10004875,
-    "name": "Headbangers: Rhythm Royale",
+    "name": "Headbangers: Rhythm Royale Digital Deluxe Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4064"
   },
   {
     "titleId": "PPSA07259_00",
@@ -29251,7 +29259,7 @@
     "titleId": "PPSA07421_00",
     "conceptId": 10004920,
     "name": "Fate/Samurai Remnant",
-    "contentId": null,
+    "contentId": "UP4108-PPSA07421_00-GAME000000000000",
     "region": "UP",
     "publisherId": "UP4108"
   },
@@ -29582,6 +29590,22 @@
     "contentId": "EP8915-PPSA07483_00-JBGPARTYSTARTPS5",
     "region": "EP",
     "publisherId": "EP8915"
+  },
+  {
+    "titleId": "PPSA07484_00",
+    "conceptId": 10000702,
+    "name": "Project Wingman: Frontline 59",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07485_00",
+    "conceptId": 10000702,
+    "name": "Project Wingman: Frontline 59",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07486_00",
@@ -31812,8 +31836,8 @@
     "conceptId": 10005136,
     "name": "Dungeons 4",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4365"
   },
   {
     "titleId": "PPSA07938_00",
@@ -36170,26 +36194,26 @@
   {
     "titleId": "PPSA08766_00",
     "conceptId": 10005446,
-    "name": "COCOON",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Cocoon",
+    "contentId": "EP2333-PPSA08766_00-COCOONSIEE000000",
+    "region": "EP",
+    "publisherId": "EP2333"
   },
   {
     "titleId": "PPSA08767_00",
     "conceptId": 10005446,
-    "name": "COCOON",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Cocoon",
+    "contentId": "JP2517-PPSA08767_00-COCOONSIEJ000000",
+    "region": "JP",
+    "publisherId": "JP2517"
   },
   {
     "titleId": "PPSA08768_00",
     "conceptId": 10005446,
-    "name": "COCOON",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Cocoon",
+    "contentId": "HP2418-PPSA08768_00-COCOONSIEJASIA00",
+    "region": "HP",
+    "publisherId": "HP2418"
   },
   {
     "titleId": "PPSA08772_00",
@@ -45593,6 +45617,14 @@
   },
   {
     "titleId": "PPSA10460_00",
+    "conceptId": 10006010,
+    "name": "Sunshine Manor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10461_00",
     "conceptId": 10006010,
     "name": "Sunshine Manor",
     "contentId": null,
@@ -65217,6 +65249,14 @@
   },
   {
     "titleId": "PPSA17903_00",
+    "conceptId": 10000886,
+    "name": "Horizon Forbidden West",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17905_00",
     "conceptId": 10000886,
     "name": "Horizon Forbidden West",
     "contentId": null,
