@@ -36186,10 +36186,10 @@
   {
     "titleId": "PPSA08765_00",
     "conceptId": 10005446,
-    "name": "COCOON",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Cocoon",
+    "contentId": "UP2470-PPSA08765_00-COCOONSIEA000000",
+    "region": "UP",
+    "publisherId": "UP2470"
   },
   {
     "titleId": "PPSA08766_00",
@@ -54128,6 +54128,22 @@
     "publisherId": "UP4064"
   },
   {
+    "titleId": "PPSA13581_00",
+    "conceptId": 10007265,
+    "name": "Kingdom Eighties",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13582_00",
+    "conceptId": 10007265,
+    "name": "Kingdom Eighties",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13592_00",
     "conceptId": 10007267,
     "name": "NOOB - The Factionless",
@@ -58752,6 +58768,14 @@
     "publisherId": "HP7606"
   },
   {
+    "titleId": "PPSA15318_00",
+    "conceptId": 217373,
+    "name": "UNO\u00ae",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15328_00",
     "conceptId": 10007253,
     "name": "Shame Legacy",
@@ -58819,7 +58843,7 @@
     "titleId": "PPSA15349_00",
     "conceptId": 10007968,
     "name": "Trepang2",
-    "contentId": null,
+    "contentId": "EP4064-PPSA15349_00-TREPANG200000000",
     "region": "EP",
     "publisherId": "EP4064"
   },
@@ -58827,7 +58851,7 @@
     "titleId": "PPSA15350_00",
     "conceptId": 10007968,
     "name": "Trepang2",
-    "contentId": null,
+    "contentId": "UP4064-PPSA15350_00-TREPANG200000000",
     "region": "UP",
     "publisherId": "UP4064"
   },
@@ -59593,6 +59617,14 @@
   },
   {
     "titleId": "PPSA15536_00",
+    "conceptId": 10008043,
+    "name": "Skull Island: Rise of Kong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15537_00",
     "conceptId": 10008043,
     "name": "Skull Island: Rise of Kong",
     "contentId": null,
@@ -60646,6 +60678,14 @@
     "contentId": "UP4459-PPSA15877_00-MATDPPS5SIEA0000",
     "region": "UP",
     "publisherId": "UP4459"
+  },
+  {
+    "titleId": "PPSA15878_00",
+    "conceptId": 10008161,
+    "name": "Propagation: Paradise Hotel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15886_00",
@@ -63739,9 +63779,9 @@
     "titleId": "PPSA16938_00",
     "conceptId": 10008581,
     "name": "Bilkins' Folly",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2775-PPSA16938_00-0553353247198132",
+    "region": "UP",
+    "publisherId": "UP2775"
   },
   {
     "titleId": "PPSA16939_00",
@@ -63811,9 +63851,9 @@
     "titleId": "PPSA16969_00",
     "conceptId": 10008581,
     "name": "Bilkins' Folly",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2638-PPSA16969_00-0957975942987606",
+    "region": "EP",
+    "publisherId": "EP2638"
   },
   {
     "titleId": "PPSA16973_00",
@@ -65608,6 +65648,14 @@
     "publisherId": "EP2083"
   },
   {
+    "titleId": "PPSA18389_00",
+    "conceptId": 10001945,
+    "name": "Optus Sport",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18390_00",
     "conceptId": 10009147,
     "name": "Afterdream",
@@ -65832,6 +65880,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA18682_00",
+    "conceptId": 231761,
+    "name": "Diablo\u00ae IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18700_00",
     "conceptId": 221802,
     "name": "Whitestone",
@@ -65950,5 +66006,13 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP7600"
+  },
+  {
+    "titleId": "PPSA18998_00",
+    "conceptId": 10007404,
+    "name": "Mars Base",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
