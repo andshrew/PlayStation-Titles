@@ -18579,9 +18579,9 @@
     "titleId": "PPSA05291_00",
     "conceptId": 10003805,
     "name": "Diorama Dungeoncrawl - Master of the Living Castle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA05291_00-DIORAMADUNGEONCR",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA05292_00",
@@ -27986,10 +27986,10 @@
   {
     "titleId": "PPSA07166_00",
     "conceptId": 10001734,
-    "name": "Synergia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Synergia - NextGen Edition",
+    "contentId": "UP5155-PPSA07166_00-SYNERGIA00000000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA07167_00",
@@ -31387,7 +31387,7 @@
     "titleId": "PPSA07850_00",
     "conceptId": 10005173,
     "name": "Scorn",
-    "contentId": null,
+    "contentId": "EP7579-PPSA07850_00-SCORN000000PS5EU",
     "region": "EP",
     "publisherId": "EP7579"
   },
@@ -54491,17 +54491,17 @@
     "titleId": "PPSA13688_00",
     "conceptId": 10007299,
     "name": "Waltz of the Wizard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1452-PPSA13688_00-0654141461021455",
+    "region": "UP",
+    "publisherId": "UP1452"
   },
   {
     "titleId": "PPSA13689_00",
     "conceptId": 10007299,
     "name": "Waltz of the Wizard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1441-PPSA13689_00-0848791529458369",
+    "region": "EP",
+    "publisherId": "EP1441"
   },
   {
     "titleId": "PPSA13690_00",
@@ -55211,9 +55211,9 @@
     "titleId": "PPSA13843_00",
     "conceptId": 10004787,
     "name": "Disgaea 7: Vows of the Virtueless",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1063-PPSA13843_00-DISGAEA700000002",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA13844_00",
@@ -58595,17 +58595,17 @@
     "titleId": "PPSA15234_00",
     "conceptId": 235352,
     "name": "Pixel Ripped 1995",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4906-PPSA15234_00-0885970695077912",
+    "region": "UP",
+    "publisherId": "UP4906"
   },
   {
     "titleId": "PPSA15235_00",
     "conceptId": 235352,
     "name": "Pixel Ripped 1995",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5091-PPSA15235_00-0996124895138717",
+    "region": "EP",
+    "publisherId": "EP5091"
   },
   {
     "titleId": "PPSA15239_00",
@@ -59379,17 +59379,17 @@
     "titleId": "PPSA15478_00",
     "conceptId": 10008014,
     "name": "Survivor - Castaway Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1475-PPSA15478_00-SURVIVORPS5000US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA15479_00",
     "conceptId": 10008014,
     "name": "Survivor - Castaway Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4295-PPSA15479_00-SURVIVORPS5000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA15480_00",
@@ -60526,6 +60526,22 @@
     "contentId": "UP0891-PPSA15835_00-REPLIKATORRATGAM",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA15836_00",
+    "conceptId": 10008086,
+    "name": "Pickleball Smash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15837_00",
+    "conceptId": 10008086,
+    "name": "Pickleball Smash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15838_00",
@@ -62672,6 +62688,22 @@
     "publisherId": "EP4176"
   },
   {
+    "titleId": "PPSA16508_00",
+    "conceptId": 233114,
+    "name": "Red Matter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16509_00",
+    "conceptId": 233114,
+    "name": "Red Matter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16513_00",
     "conceptId": 10008401,
     "name": "#Wish Travel, Super Puzzles Dream",
@@ -64120,6 +64152,14 @@
     "publisherId": "UP4912"
   },
   {
+    "titleId": "PPSA17094_00",
+    "conceptId": 10004658,
+    "name": "Sonic Superstars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17104_00",
     "conceptId": 10005377,
     "name": "Adrian's Tale",
@@ -64350,6 +64390,30 @@
     "contentId": "EP2134-PPSA17207_00-0275681394041213",
     "region": "EP",
     "publisherId": "EP2134"
+  },
+  {
+    "titleId": "PPSA17229_00",
+    "conceptId": 10008526,
+    "name": "SpellForce: Conquest of Eo",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2880"
+  },
+  {
+    "titleId": "PPSA17230_00",
+    "conceptId": 10008526,
+    "name": "SpellForce: Conquest of Eo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
+    "titleId": "PPSA17231_00",
+    "conceptId": 10008526,
+    "name": "SpellForce: Conquest of Eo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA17236_00",
@@ -65598,6 +65662,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP4556"
+  },
+  {
+    "titleId": "PPSA18266_00",
+    "conceptId": 10009053,
+    "name": "Nexus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18330_00",
