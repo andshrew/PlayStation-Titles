@@ -26978,8 +26978,8 @@
   {
     "titleId": "PPSA06956_00",
     "conceptId": 10004721,
-    "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30e9\u30b9\u30c8 \u30ea\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 PS4 & PS5",
-    "contentId": null,
+    "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30e9\u30b9\u30c8 \u30ea\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+    "contentId": "JP0700-PPSA06956_00-SAOLRMAINGAME000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -28299,7 +28299,7 @@
     "titleId": "PPSA07232_00",
     "conceptId": 10004865,
     "name": "Assassin's Creed\u00ae Mirage",
-    "contentId": null,
+    "contentId": "JP0001-PPSA07232_00-GAME000000000000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -29594,10 +29594,10 @@
   {
     "titleId": "PPSA07484_00",
     "conceptId": 10000702,
-    "name": "Project Wingman: Frontline 59",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Project Wingman",
+    "contentId": "UP3864-PPSA07484_00-PROJECTWINGMAN0A",
+    "region": "UP",
+    "publisherId": "UP3864"
   },
   {
     "titleId": "PPSA07485_00",
@@ -37795,9 +37795,9 @@
     "titleId": "PPSA09044_00",
     "conceptId": 10004402,
     "name": "Boxville",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7351-PPSA09044_00-1877487804161870",
+    "region": "UP",
+    "publisherId": "UP7351"
   },
   {
     "titleId": "PPSA09045_00",
@@ -52352,6 +52352,22 @@
     "publisherId": "EP7231"
   },
   {
+    "titleId": "PPSA12613_00",
+    "conceptId": 10006952,
+    "name": "Alien Returns",
+    "contentId": "UP7335-PPSA12613_00-0117790268826879",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA12614_00",
+    "conceptId": 10006952,
+    "name": "Alien Returns",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12620_00",
     "conceptId": 10006953,
     "name": "Rocket Swing",
@@ -53624,6 +53640,14 @@
     "publisherId": "EP8576"
   },
   {
+    "titleId": "PPSA13475_00",
+    "conceptId": 10006463,
+    "name": "GAZZLERS",
+    "contentId": "EP7520-PPSA13475_00-GAZZLERSGAMEVR01",
+    "region": "EP",
+    "publisherId": "EP7520"
+  },
+  {
     "titleId": "PPSA13484_00",
     "conceptId": 10007229,
     "name": "Red Matter 2",
@@ -54891,9 +54915,9 @@
     "titleId": "PPSA13769_00",
     "conceptId": 10007337,
     "name": "SIDE BULLET",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6331-PPSA13769_00-0226847199966507",
+    "region": "HP",
+    "publisherId": "HP6331"
   },
   {
     "titleId": "PPSA13770_00",
@@ -55640,6 +55664,14 @@
     "publisherId": "HP7962"
   },
   {
+    "titleId": "PPSA13934_00",
+    "conceptId": 10004685,
+    "name": "Spirit of the Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13935_00",
     "conceptId": 10004685,
     "name": "Spirit of the Island",
@@ -55766,6 +55798,22 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA13957_00",
+    "conceptId": 10007443,
+    "name": "Life of Delta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13958_00",
+    "conceptId": 10007443,
+    "name": "Life of Delta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13960_00",
@@ -58654,6 +58702,38 @@
     "contentId": "JP4236-PPSA15277_00-TRFE200000000000",
     "region": "JP",
     "publisherId": "JP4236"
+  },
+  {
+    "titleId": "PPSA15278_00",
+    "conceptId": 10007934,
+    "name": "SNWBRD: Freestyle Snowboarding",
+    "contentId": "UP8600-PPSA15278_00-0311624013363120",
+    "region": "UP",
+    "publisherId": "UP8600"
+  },
+  {
+    "titleId": "PPSA15279_00",
+    "conceptId": 10007934,
+    "name": "SNWBRD: Freestyle Snowboarding",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15280_00",
+    "conceptId": 10007934,
+    "name": "SNWBRD: Freestyle Snowboarding",
+    "contentId": "JP8505-PPSA15280_00-0400493512480993",
+    "region": "JP",
+    "publisherId": "JP8505"
+  },
+  {
+    "titleId": "PPSA15281_00",
+    "conceptId": 10007934,
+    "name": "SNWBRD: Freestyle Snowboarding",
+    "contentId": "HP8551-PPSA15281_00-0419876196248093",
+    "region": "HP",
+    "publisherId": "HP8551"
   },
   {
     "titleId": "PPSA15293_00",
@@ -62192,6 +62272,22 @@
     "publisherId": "EP8070"
   },
   {
+    "titleId": "PPSA16342_00",
+    "conceptId": 10008264,
+    "name": "Cricket 24",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA16343_00",
+    "conceptId": 10008264,
+    "name": "Cricket 24",
+    "contentId": "UP6665-PPSA16343_00-C240000000000000",
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
     "titleId": "PPSA16351_00",
     "conceptId": 10007308,
     "name": "STAR OCEAN THE SECOND STORY R - DEMO",
@@ -62726,6 +62822,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0177"
+  },
+  {
+    "titleId": "PPSA16521_00",
+    "conceptId": 10006463,
+    "name": "GAZZLERS",
+    "contentId": "UP7522-PPSA16521_00-GAZZLERSGAMEVR01",
+    "region": "UP",
+    "publisherId": "UP7522"
   },
   {
     "titleId": "PPSA16522_00",
@@ -63331,9 +63435,9 @@
     "titleId": "PPSA16718_00",
     "conceptId": 10007760,
     "name": "Knight vs Giant: The Broken Excalibur",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6394-PPSA16718_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP6394"
   },
   {
     "titleId": "PPSA16719_00",
@@ -63499,9 +63603,9 @@
     "titleId": "PPSA16765_00",
     "conceptId": 10008423,
     "name": "BlackJack Waifu Tour",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA16765_00-BLACKJACKWAIFU00",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA16770_00",
@@ -64150,6 +64254,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP4912"
+  },
+  {
+    "titleId": "PPSA17093_00",
+    "conceptId": 10004658,
+    "name": "Sonic Superstars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17094_00",
@@ -65806,6 +65918,30 @@
     "contentId": "JP5101-PPSA18423_00-0179212592586644",
     "region": "JP",
     "publisherId": "JP5101"
+  },
+  {
+    "titleId": "PPSA18499_00",
+    "conceptId": 10009184,
+    "name": "Dinobreak",
+    "contentId": "UP6088-PPSA18499_00-0383883698921276",
+    "region": "UP",
+    "publisherId": "UP6088"
+  },
+  {
+    "titleId": "PPSA18500_00",
+    "conceptId": 10009184,
+    "name": "Dinobreak",
+    "contentId": "EP6087-PPSA18500_00-0740107014520966",
+    "region": "EP",
+    "publisherId": "EP6087"
+  },
+  {
+    "titleId": "PPSA18501_00",
+    "conceptId": 10003477,
+    "name": "The Chase: Cop Pursuit",
+    "contentId": "EP7303-PPSA18501_00-0556563314973018",
+    "region": "EP",
+    "publisherId": "EP7303"
   },
   {
     "titleId": "PPSA18503_00",
