@@ -14722,18 +14722,18 @@
   {
     "titleId": "PPSA04479_00",
     "conceptId": 10001343,
-    "name": "Quantum Error",
+    "name": "QUANTUM ERROR",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP5503"
   },
   {
     "titleId": "PPSA04480_00",
     "conceptId": 10001343,
     "name": "Quantum Error",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP5684"
   },
   {
     "titleId": "PPSA04481_00",
@@ -18571,9 +18571,9 @@
     "titleId": "PPSA05290_00",
     "conceptId": 10003805,
     "name": "Diorama Dungeoncrawl - Master of the Living Castle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA05290_00-DIORAMADUNGEONCR",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA05291_00",
@@ -28283,7 +28283,7 @@
     "titleId": "PPSA07230_00",
     "conceptId": 10004865,
     "name": "Assassin's Creed\u00ae Mirage",
-    "contentId": null,
+    "contentId": "UP0001-PPSA07230_00-GAME000000000000",
     "region": "UP",
     "publisherId": "UP0001"
   },
@@ -31379,7 +31379,7 @@
     "titleId": "PPSA07849_00",
     "conceptId": 10005173,
     "name": "Scorn",
-    "contentId": null,
+    "contentId": "UP7581-PPSA07849_00-SCORN000000PS5US",
     "region": "UP",
     "publisherId": "UP7581"
   },
@@ -37803,17 +37803,17 @@
     "titleId": "PPSA09045_00",
     "conceptId": 10004402,
     "name": "Boxville",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7349-PPSA09045_00-4797433476356354",
+    "region": "EP",
+    "publisherId": "EP7349"
   },
   {
     "titleId": "PPSA09046_00",
     "conceptId": 10004402,
     "name": "Boxville",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7327-PPSA09046_00-7033955088305932",
+    "region": "JP",
+    "publisherId": "JP7327"
   },
   {
     "titleId": "PPSA09047_00",
@@ -39130,10 +39130,18 @@
   {
     "titleId": "PPSA09255_00",
     "conceptId": 10005683,
-    "name": "Gangs of Sherwood",
+    "name": "Gangs of Sherwood Pre-order",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA09256_00",
+    "conceptId": 10005683,
+    "name": "Gangs of Sherwood Pre-order",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA09262_00",
@@ -50176,6 +50184,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA11263_00",
+    "conceptId": 10006524,
+    "name": "Hellboy Web of Wyrd",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11265_00",
     "conceptId": 10006526,
     "name": "Frogo 3",
@@ -52363,9 +52379,9 @@
     "titleId": "PPSA12614_00",
     "conceptId": 10006952,
     "name": "Alien Returns",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA12614_00-0412941673965995",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA12620_00",
@@ -54899,17 +54915,17 @@
     "titleId": "PPSA13765_00",
     "conceptId": 10007337,
     "name": "SIDE BULLET",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6348-PPSA13765_00-0896915468707892",
+    "region": "UP",
+    "publisherId": "UP6348"
   },
   {
     "titleId": "PPSA13768_00",
     "conceptId": 10007337,
     "name": "SIDE BULLET",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6347-PPSA13768_00-0371925690029414",
+    "region": "EP",
+    "publisherId": "EP6347"
   },
   {
     "titleId": "PPSA13769_00",
@@ -54922,10 +54938,10 @@
   {
     "titleId": "PPSA13770_00",
     "conceptId": 10007337,
-    "name": "SIDE BULLET",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b5\u30a4\u30c9\u30d6\u30ec\u30c3\u30c8",
+    "contentId": "JP6264-PPSA13770_00-0164353990524571",
+    "region": "JP",
+    "publisherId": "JP6264"
   },
   {
     "titleId": "PPSA13771_00",
@@ -58715,9 +58731,9 @@
     "titleId": "PPSA15279_00",
     "conceptId": 10007934,
     "name": "SNWBRD: Freestyle Snowboarding",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8790-PPSA15279_00-0516201763345779",
+    "region": "EP",
+    "publisherId": "EP8790"
   },
   {
     "titleId": "PPSA15280_00",
@@ -59355,17 +59371,17 @@
     "titleId": "PPSA15458_00",
     "conceptId": 10007997,
     "name": "The Sisters 2 - Road to Fame",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4295-PPSA15458_00-SISTERS2PS5000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA15459_00",
     "conceptId": 10007997,
     "name": "The Sisters 2 - Road to Fame",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1475-PPSA15459_00-SISTERS2PS5000US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA15460_00",
@@ -59454,6 +59470,14 @@
     "contentId": "UP0891-PPSA15470_00-SEPHONIERATAGAME",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA15477_00",
+    "conceptId": 10008008,
+    "name": "From Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15478_00",
@@ -59731,6 +59755,14 @@
     "titleId": "PPSA15549_00",
     "conceptId": 10002079,
     "name": "Sky X",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15550_00",
+    "conceptId": 10008008,
+    "name": "From Space",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -60147,9 +60179,9 @@
     "titleId": "PPSA15693_00",
     "conceptId": 10005202,
     "name": "Harvest Moon: The Winds of Anthos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1014-PPSA15693_00-HMLETTER000PS5EU",
+    "region": "EP",
+    "publisherId": "EP1014"
   },
   {
     "titleId": "PPSA15699_00",
@@ -61763,17 +61795,17 @@
     "titleId": "PPSA16154_00",
     "conceptId": 10007760,
     "name": "Knight vs Giant: The Broken Excalibur",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA16154_00-KVSG00000SIEAPS5",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA16155_00",
     "conceptId": 10007760,
     "name": "Knight vs Giant: The Broken Excalibur",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4293-PPSA16155_00-KVSG00000SIEEPS5",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA16161_00",
@@ -62275,7 +62307,7 @@
     "titleId": "PPSA16342_00",
     "conceptId": 10008264,
     "name": "Cricket 24",
-    "contentId": null,
+    "contentId": "EP6665-PPSA16342_00-C240000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -62371,6 +62403,22 @@
     "titleId": "PPSA16377_00",
     "conceptId": 10008355,
     "name": "The Jackbox Party Pack 10",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16390_00",
+    "conceptId": 10008358,
+    "name": "Animal Kart Racer 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16391_00",
+    "conceptId": 10008358,
+    "name": "Animal Kart Racer 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -62787,9 +62835,9 @@
     "titleId": "PPSA16508_00",
     "conceptId": 233114,
     "name": "Red Matter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3405-PPSA16508_00-0000000REDMATTER",
+    "region": "EP",
+    "publisherId": "EP3405"
   },
   {
     "titleId": "PPSA16509_00",
@@ -63419,14 +63467,30 @@
     "titleId": "PPSA16709_00",
     "conceptId": 10008371,
     "name": "Asterix & Obelix: Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6665-PPSA16709_00-AOH0000000000000",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA16710_00",
     "conceptId": 10008371,
     "name": "Asterix & Obelix: Heroes",
+    "contentId": "UP6665-PPSA16710_00-AOH0000000000000",
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
+    "titleId": "PPSA16716_00",
+    "conceptId": 10008485,
+    "name": "The Smurfs 2 - The Prisoner of the Green Stone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16717_00",
+    "conceptId": 10008485,
+    "name": "The Smurfs 2 - The Prisoner of the Green Stone",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -64099,33 +64163,33 @@
     "titleId": "PPSA17013_00",
     "conceptId": 10008624,
     "name": "Ghost Signal: A Stellaris Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2907-PPSA17013_00-GHOSTSIGNALVN110",
+    "region": "EP",
+    "publisherId": "EP2907"
   },
   {
     "titleId": "PPSA17014_00",
     "conceptId": 10008624,
     "name": "Ghost Signal: A Stellaris Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3046-PPSA17014_00-GHOSTSIGNALVN110",
+    "region": "UP",
+    "publisherId": "UP3046"
   },
   {
     "titleId": "PPSA17015_00",
     "conceptId": 10008624,
     "name": "Ghost Signal: A Stellaris Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3083-PPSA17015_00-GHOSTSIGNALVN110",
+    "region": "JP",
+    "publisherId": "JP3083"
   },
   {
     "titleId": "PPSA17016_00",
     "conceptId": 10008624,
     "name": "Ghost Signal: A Stellaris Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2993-PPSA17016_00-GHOSTSIGNALVN110",
+    "region": "HP",
+    "publisherId": "HP2993"
   },
   {
     "titleId": "PPSA17044_00",
@@ -64294,6 +64358,14 @@
     "contentId": "UP1060-PPSA17114_00-0524781665241148",
     "region": "UP",
     "publisherId": "UP1060"
+  },
+  {
+    "titleId": "PPSA17118_00",
+    "conceptId": 10004179,
+    "name": "VR Pigeons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17125_00",
@@ -65008,6 +65080,14 @@
     "publisherId": "EP5938"
   },
   {
+    "titleId": "PPSA17521_00",
+    "conceptId": 10008827,
+    "name": "Pirates on Target",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17533_00",
     "conceptId": 10008836,
     "name": "RTBF Auvio",
@@ -65320,6 +65400,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA17819_00",
+    "conceptId": 10007311,
+    "name": "Dolphin Spirit - Ocean Mission",
+    "contentId": "JP6398-PPSA17819_00-DOLPHINPS50000JP",
+    "region": "JP",
+    "publisherId": "JP6398"
+  },
+  {
     "titleId": "PPSA17824_00",
     "conceptId": 10008831,
     "name": "Drift City",
@@ -65467,9 +65555,9 @@
     "titleId": "PPSA17903_00",
     "conceptId": 10000886,
     "name": "Horizon Forbidden West",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP9000-PPSA17903_00-HFWCE00000000000",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA17905_00",
@@ -65483,9 +65571,9 @@
     "titleId": "PPSA17907_00",
     "conceptId": 10000886,
     "name": "Horizon Forbidden West",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP9000-PPSA17907_00-HFWCE00000000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA17929_00",
@@ -65584,6 +65672,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18016_00",
+    "conceptId": 10008014,
+    "name": "Survivor - Castaway Island",
+    "contentId": "JP6398-PPSA18016_00-SURVIVORPS5000JP",
+    "region": "JP",
+    "publisherId": "JP6398"
+  },
+  {
+    "titleId": "PPSA18017_00",
+    "conceptId": 10008264,
+    "name": "Cricket 24 Compendium",
+    "contentId": "EP6665-PPSA18017_00-C2400ARTBOOK0000",
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA18018_00",
+    "conceptId": 10008264,
+    "name": "Cricket 24 Compendium",
+    "contentId": "UP6665-PPSA18018_00-C2400ARTBOOK0000",
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
     "titleId": "PPSA18061_00",
     "conceptId": 10005659,
     "name": "on Sunday",
@@ -65654,6 +65766,22 @@
     "contentId": "HP0082-PPSA18131_00-FOAMSTARSOBPARTY",
     "region": "HP",
     "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA18143_00",
+    "conceptId": 10003295,
+    "name": "Postal: Brain Damaged",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18144_00",
+    "conceptId": 10003295,
+    "name": "Postal: Brain Damaged",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18162_00",
@@ -65750,6 +65878,14 @@
     "contentId": "HP1546-PPSA18223_00-0436537653310157",
     "region": "HP",
     "publisherId": "HP1546"
+  },
+  {
+    "titleId": "PPSA18242_00",
+    "conceptId": 10009098,
+    "name": "Fantasy Tower Defense",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18252_00",
@@ -65944,6 +66080,14 @@
     "publisherId": "EP7303"
   },
   {
+    "titleId": "PPSA18502_00",
+    "conceptId": 10003477,
+    "name": "The Chase: Cop Pursuit",
+    "contentId": "UP7305-PPSA18502_00-0141778171491961",
+    "region": "UP",
+    "publisherId": "UP7305"
+  },
+  {
     "titleId": "PPSA18503_00",
     "conceptId": 10005251,
     "name": "Cuties Hacked",
@@ -66030,6 +66174,30 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA18611_00",
+    "conceptId": 10009207,
+    "name": "SteampunkVoyage",
+    "contentId": "EP8070-PPSA18611_00-0231235249333279",
+    "region": "EP",
+    "publisherId": "EP8070"
+  },
+  {
+    "titleId": "PPSA18612_00",
+    "conceptId": 10009207,
+    "name": "SteampunkVoyage",
+    "contentId": "JP5715-PPSA18612_00-0575973393194974",
+    "region": "JP",
+    "publisherId": "JP5715"
+  },
+  {
+    "titleId": "PPSA18613_00",
+    "conceptId": 10009207,
+    "name": "SteampunkVoyage",
+    "contentId": "HP5777-PPSA18613_00-0768508145221613",
+    "region": "HP",
+    "publisherId": "HP5777"
   },
   {
     "titleId": "PPSA18646_00",
@@ -66214,6 +66382,38 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP7600"
+  },
+  {
+    "titleId": "PPSA18852_00",
+    "conceptId": 10008624,
+    "name": "Ghost Signal: A Stellaris Game Demo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2907"
+  },
+  {
+    "titleId": "PPSA18853_00",
+    "conceptId": 10008624,
+    "name": "Ghost Signal: A Stellaris Game Demo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3046"
+  },
+  {
+    "titleId": "PPSA18871_00",
+    "conceptId": 10008624,
+    "name": "Ghost Signal: A Stellaris Game Demo",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP3083"
+  },
+  {
+    "titleId": "PPSA18872_00",
+    "conceptId": 10008624,
+    "name": "Ghost Signal: A Stellaris Game Demo",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP2993"
   },
   {
     "titleId": "PPSA18998_00",
