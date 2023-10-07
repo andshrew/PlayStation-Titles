@@ -27994,10 +27994,10 @@
   {
     "titleId": "PPSA07167_00",
     "conceptId": 10001734,
-    "name": "Synergia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Synergia - NextGen Edition",
+    "contentId": "EP5335-PPSA07167_00-3874482353677667",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA07169_00",
@@ -28291,7 +28291,7 @@
     "titleId": "PPSA07231_00",
     "conceptId": 10004865,
     "name": "Assassin's Creed\u00ae Mirage",
-    "contentId": null,
+    "contentId": "EP0001-PPSA07231_00-GAME000000000000",
     "region": "EP",
     "publisherId": "EP0001"
   },
@@ -37819,9 +37819,9 @@
     "titleId": "PPSA09047_00",
     "conceptId": 10004402,
     "name": "Boxville",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7371-PPSA09047_00-0914679445287331",
+    "region": "HP",
+    "publisherId": "HP7371"
   },
   {
     "titleId": "PPSA09048_00",
@@ -45627,17 +45627,17 @@
     "titleId": "PPSA10460_00",
     "conceptId": 10006010,
     "name": "Sunshine Manor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6605-PPSA10460_00-SUNSHINEMANOR003",
+    "region": "UP",
+    "publisherId": "UP6605"
   },
   {
     "titleId": "PPSA10461_00",
     "conceptId": 10006010,
     "name": "Sunshine Manor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6604-PPSA10461_00-SUNSHINEMANOR004",
+    "region": "EP",
+    "publisherId": "EP6604"
   },
   {
     "titleId": "PPSA10469_00",
@@ -49746,8 +49746,8 @@
   {
     "titleId": "PPSA11194_00",
     "conceptId": 10006500,
-    "name": "NHL\u00ae 24 Standard Edition PS5\u2122",
-    "contentId": null,
+    "name": "NHL 24",
+    "contentId": "EP0006-PPSA11194_00-NHLPS5HOCKEY2024",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -50185,6 +50185,14 @@
   },
   {
     "titleId": "PPSA11263_00",
+    "conceptId": 10006524,
+    "name": "Hellboy Web of Wyrd",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11264_00",
     "conceptId": 10006524,
     "name": "Hellboy Web of Wyrd",
     "contentId": null,
@@ -54560,6 +54568,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13694_00",
+    "conceptId": 10007255,
+    "name": "Animal Hospital",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13695_00",
+    "conceptId": 10007255,
+    "name": "Animal Hospital",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13696_00",
     "conceptId": 10005812,
     "name": "Backbeat Demo",
@@ -55259,9 +55283,9 @@
     "titleId": "PPSA13844_00",
     "conceptId": 10004787,
     "name": "Disgaea 7: Vows of the Virtueless",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA13844_00-DISGAEA700000002",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA13845_00",
@@ -55678,6 +55702,22 @@
     "contentId": "HP7962-PPSA13924_00-0729740889813709",
     "region": "HP",
     "publisherId": "HP7962"
+  },
+  {
+    "titleId": "PPSA13927_00",
+    "conceptId": 10007416,
+    "name": "Tintin Reporter - Cigars of the Pharaoh",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4295"
+  },
+  {
+    "titleId": "PPSA13928_00",
+    "conceptId": 10007416,
+    "name": "Tintin Reporter - Cigars of the Pharaoh",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA13934_00",
@@ -62843,6 +62883,14 @@
     "titleId": "PPSA16509_00",
     "conceptId": 233114,
     "name": "Red Matter",
+    "contentId": "UP3548-PPSA16509_00-0000000REDMATTER",
+    "region": "UP",
+    "publisherId": "UP3548"
+  },
+  {
+    "titleId": "PPSA16510_00",
+    "conceptId": 233114,
+    "name": "Red Matter",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -64192,6 +64240,22 @@
     "publisherId": "HP2993"
   },
   {
+    "titleId": "PPSA17019_00",
+    "conceptId": 10008625,
+    "name": "The 7th Guest VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17020_00",
+    "conceptId": 10008625,
+    "name": "The 7th Guest VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17044_00",
     "conceptId": 10008289,
     "name": "Super Death Game SHOW! VR",
@@ -64360,12 +64424,20 @@
     "publisherId": "UP1060"
   },
   {
+    "titleId": "PPSA17117_00",
+    "conceptId": 10004179,
+    "name": "VRPigeons",
+    "contentId": "UP5099-PPSA17117_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP5099"
+  },
+  {
     "titleId": "PPSA17118_00",
     "conceptId": 10004179,
-    "name": "VR Pigeons",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "VRPigeons",
+    "contentId": "EP5279-PPSA17118_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP5279"
   },
   {
     "titleId": "PPSA17125_00",
@@ -65072,6 +65144,30 @@
     "publisherId": "HP1419"
   },
   {
+    "titleId": "PPSA17512_00",
+    "conceptId": 10008634,
+    "name": "DINOSAURS: Mission Dino Camp",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17513_00",
+    "conceptId": 10008634,
+    "name": "DINOSAURS: Mission Dino Camp",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17514_00",
+    "conceptId": 10008634,
+    "name": "DINOSAURS: Mission Dino Camp",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17519_00",
     "conceptId": 10007346,
     "name": "Mon-Yu",
@@ -65083,9 +65179,17 @@
     "titleId": "PPSA17521_00",
     "conceptId": 10008827,
     "name": "Pirates on Target",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA17521_00-RGPIRATESONTARGE",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA17522_00",
+    "conceptId": 10008827,
+    "name": "Pirates on Target",
+    "contentId": "UP0891-PPSA17522_00-RGPIRATESONTARGE",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA17533_00",
@@ -65563,9 +65667,9 @@
     "titleId": "PPSA17905_00",
     "conceptId": 10000886,
     "name": "Horizon Forbidden West",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP9000-PPSA17905_00-HFWCE00000000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA17907_00",
@@ -65646,6 +65750,22 @@
     "contentId": "EP7938-PPSA17960_00-0216019864727543",
     "region": "EP",
     "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA17967_00",
+    "conceptId": 10004875,
+    "name": "Headbangers: Rhythm Royale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17968_00",
+    "conceptId": 10004875,
+    "name": "Headbangers: Rhythm Royale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18000_00",
@@ -65883,9 +66003,17 @@
     "titleId": "PPSA18242_00",
     "conceptId": 10009098,
     "name": "Fantasy Tower Defense",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1411-PPSA18242_00-0160836376768532",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18243_00",
+    "conceptId": 10009098,
+    "name": "Fantasy Tower Defense",
+    "contentId": "UP1421-PPSA18243_00-0077532406135408",
+    "region": "UP",
+    "publisherId": "UP1421"
   },
   {
     "titleId": "PPSA18252_00",
@@ -66174,6 +66302,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA18610_00",
+    "conceptId": 10009207,
+    "name": "SteampunkVoyage",
+    "contentId": "UP5877-PPSA18610_00-0243559839940538",
+    "region": "UP",
+    "publisherId": "UP5877"
   },
   {
     "titleId": "PPSA18611_00",
