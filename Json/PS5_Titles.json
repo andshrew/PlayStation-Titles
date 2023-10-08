@@ -18563,9 +18563,9 @@
     "titleId": "PPSA05289_00",
     "conceptId": 10003805,
     "name": "Diorama Dungeoncrawl - Master of the Living Castle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA05289_00-DIORAMADUNGEONCR",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA05290_00",
@@ -21598,6 +21598,14 @@
     "contentId": "HP0082-PPSA05886_00-DFCDEMO00000005A",
     "region": "HP",
     "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA05887_00",
+    "conceptId": 10004172,
+    "name": "The Talos Principle 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA05893_00",
@@ -26986,8 +26994,8 @@
   {
     "titleId": "PPSA06957_00",
     "conceptId": 10004721,
-    "name": "SWORD ART ONLINE Last Recollection - Ultimate Edition PS4 & PS5",
-    "contentId": null,
+    "name": "\u5200\u528d\u795e\u57df \u7570\u7d46\u96c6\u7d50",
+    "contentId": "HP0700-PPSA06957_00-SAOLRMAINGAME000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -27002,8 +27010,8 @@
   {
     "titleId": "PPSA06959_00",
     "conceptId": 10004721,
-    "name": "SWORD ART ONLINE Last Recollection PS4 & PS5",
-    "contentId": null,
+    "name": "SWORD ART ONLINE Last Recollection",
+    "contentId": "UP0700-PPSA06959_00-SAOLRMAINGAME000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -28592,6 +28600,14 @@
     "publisherId": "EP4338"
   },
   {
+    "titleId": "PPSA07282_00",
+    "conceptId": 10004888,
+    "name": "Quern - Undying thoughts",
+    "contentId": "EP3544-PPSA07282_00-7869073193382623",
+    "region": "EP",
+    "publisherId": "EP3544"
+  },
+  {
     "titleId": "PPSA07286_00",
     "conceptId": 10004891,
     "name": "Road of Death",
@@ -29128,6 +29144,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07388_00",
+    "conceptId": 10002253,
+    "name": "Hotel: A Resort Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07389_00",
+    "conceptId": 10002253,
+    "name": "Hotel: A Resort Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07390_00",
     "conceptId": 10001709,
     "name": "Chef Life : A Restaurant Simulator",
@@ -29602,10 +29634,10 @@
   {
     "titleId": "PPSA07485_00",
     "conceptId": 10000702,
-    "name": "Project Wingman: Frontline 59",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Project Wingman",
+    "contentId": "EP3717-PPSA07485_00-PROJECTWINGMAN0E",
+    "region": "EP",
+    "publisherId": "EP3717"
   },
   {
     "titleId": "PPSA07486_00",
@@ -49738,8 +49770,8 @@
   {
     "titleId": "PPSA11193_00",
     "conceptId": 10006500,
-    "name": "NHL\u00ae 24 Standard Edition PS5\u2122",
-    "contentId": null,
+    "name": "NHL\u00ae 24",
+    "contentId": "UP0006-PPSA11193_00-NHLPS5HOCKEY2024",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -61094,6 +61126,22 @@
     "contentId": "HP2005-PPSA15935_00-SENSESMIDNIGHT00",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA15936_00",
+    "conceptId": 10008176,
+    "name": "Hidden Cats in London",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15937_00",
+    "conceptId": 10008176,
+    "name": "Hidden Cats in London",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15949_00",
