@@ -21608,6 +21608,14 @@
     "publisherId": "UP3643"
   },
   {
+    "titleId": "PPSA05888_00",
+    "conceptId": 10004172,
+    "name": "The Talos Principle 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP3643"
+  },
+  {
     "titleId": "PPSA05893_00",
     "conceptId": 10004175,
     "name": "Guardian of Lore",
@@ -27002,8 +27010,8 @@
   {
     "titleId": "PPSA06958_00",
     "conceptId": 10004721,
-    "name": "SWORD ART ONLINE Last Recollection PS4\u2122 & PS5\u2122",
-    "contentId": null,
+    "name": "SWORD ART ONLINE Last Recollection",
+    "contentId": "EP0700-PPSA06958_00-SAOLRMAINGAME000",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -35070,6 +35078,14 @@
     "contentId": "HP7354-PPSA08545_00-3348425664990990",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08546_00",
+    "conceptId": 10005443,
+    "name": "Flashback 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08548_00",
@@ -63982,6 +63998,22 @@
     "contentId": "HP8474-PPSA16865_00-0807707822461405",
     "region": "HP",
     "publisherId": "HP8474"
+  },
+  {
+    "titleId": "PPSA16887_00",
+    "conceptId": 10008440,
+    "name": "Mage and Monsters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16888_00",
+    "conceptId": 10008440,
+    "name": "Mage & Monsters",
+    "contentId": "UP8799-PPSA16888_00-0268028815044196",
+    "region": "UP",
+    "publisherId": "UP8799"
   },
   {
     "titleId": "PPSA16889_00",
