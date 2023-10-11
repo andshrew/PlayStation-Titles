@@ -14331,7 +14331,7 @@
     "titleId": "PPSA04395_00",
     "conceptId": 10003280,
     "name": "Wild Card Football",
-    "contentId": null,
+    "contentId": "EP6853-PPSA04395_00-DSYGAMEPS50000EU",
     "region": "EP",
     "publisherId": "EP6853"
   },
@@ -34635,7 +34635,7 @@
     "titleId": "PPSA08458_00",
     "conceptId": 10005275,
     "name": "Honkai: Star Rail",
-    "contentId": null,
+    "contentId": "EP7476-PPSA08458_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP7476"
   },
@@ -53291,9 +53291,9 @@
     "titleId": "PPSA13363_00",
     "conceptId": 10007172,
     "name": "BLINNK and the Vacuum of Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8557-PPSA13363_00-0104945272753881",
+    "region": "EP",
+    "publisherId": "EP8557"
   },
   {
     "titleId": "PPSA13367_00",
@@ -53331,17 +53331,17 @@
     "titleId": "PPSA13376_00",
     "conceptId": 10007173,
     "name": "Farworld Pioneers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0097-PPSA13376_00-0944907986599879",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA13377_00",
     "conceptId": 10007173,
     "name": "Farworld Pioneers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0096-PPSA13377_00-0134071212675868",
+    "region": "EP",
+    "publisherId": "EP0096"
   },
   {
     "titleId": "PPSA13382_00",
@@ -53387,9 +53387,9 @@
     "titleId": "PPSA13387_00",
     "conceptId": 10007172,
     "name": "BLINNK and the Vacuum of Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8367-PPSA13387_00-0991999775223398",
+    "region": "UP",
+    "publisherId": "UP8367"
   },
   {
     "titleId": "PPSA13390_00",
@@ -59811,9 +59811,9 @@
     "titleId": "PPSA15526_00",
     "conceptId": 10008039,
     "name": "RedRaptor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA15526_00-REDRAPTOR0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA15527_00",
@@ -60715,9 +60715,9 @@
     "titleId": "PPSA15826_00",
     "conceptId": 10008009,
     "name": "Angry Birds VR: Isle of Pigs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5430-PPSA15826_00-ABVRISLEOFPIGS01",
+    "region": "UP",
+    "publisherId": "UP5430"
   },
   {
     "titleId": "PPSA15827_00",
@@ -64467,17 +64467,17 @@
     "titleId": "PPSA17082_00",
     "conceptId": 10008650,
     "name": "Long Gone Days",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0604-PPSA17082_00-0317064295534294",
+    "region": "UP",
+    "publisherId": "UP0604"
   },
   {
     "titleId": "PPSA17083_00",
     "conceptId": 10008650,
     "name": "Long Gone Days",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0600-PPSA17083_00-0753692234024359",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA17084_00",
@@ -64537,6 +64537,14 @@
   },
   {
     "titleId": "PPSA17094_00",
+    "conceptId": 10004658,
+    "name": "Sonic Superstars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17095_00",
     "conceptId": 10004658,
     "name": "Sonic Superstars",
     "contentId": null,
@@ -64675,9 +64683,9 @@
     "titleId": "PPSA17162_00",
     "conceptId": 10008009,
     "name": "Angry Birds VR: Isle of Pigs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5611-PPSA17162_00-0995412342681013",
+    "region": "EP",
+    "publisherId": "EP5611"
   },
   {
     "titleId": "PPSA17163_00",
@@ -65163,17 +65171,25 @@
     "titleId": "PPSA17454_00",
     "conceptId": 10008374,
     "name": "Lil Gator Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1057-PPSA17454_00-0784781726538735",
+    "region": "UP",
+    "publisherId": "UP1057"
   },
   {
     "titleId": "PPSA17455_00",
     "conceptId": 10008374,
     "name": "Lil Gator Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1053-PPSA17455_00-0099906695056532",
+    "region": "EP",
+    "publisherId": "EP1053"
+  },
+  {
+    "titleId": "PPSA17477_00",
+    "conceptId": 10007160,
+    "name": "United Assault - World War 2",
+    "contentId": "EP4902-PPSA17477_00-0575167303898507",
+    "region": "EP",
+    "publisherId": "EP4902"
   },
   {
     "titleId": "PPSA17480_00",
@@ -66678,6 +66694,14 @@
     "contentId": "HP6691-PPSA18809_00-CUBEDECIDERPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA18812_00",
+    "conceptId": 10008399,
+    "name": "RaiPlay",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18813_00",
