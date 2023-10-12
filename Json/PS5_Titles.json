@@ -22891,7 +22891,7 @@
     "titleId": "PPSA06132_00",
     "conceptId": 10002027,
     "name": "\u6625\u3086\u304d\u3066\u30ec\u30c8\u30ed\u30c1\u30ab \u4f53\u9a13\u7248",
-    "contentId": null,
+    "contentId": "JP0082-PPSA06132_00-SHIJIMASTORYDEMO",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -23219,7 +23219,7 @@
     "titleId": "PPSA06195_00",
     "conceptId": 235242,
     "name": "ONE PIECE ODYSSEY(\u4f53\u9a13\u7248)",
-    "contentId": null,
+    "contentId": "JP0700-PPSA06195_00-KIZOKTRIAL000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -26665,6 +26665,14 @@
   },
   {
     "titleId": "PPSA06878_00",
+    "conceptId": 10004698,
+    "name": "Thirsty Suitors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06879_00",
     "conceptId": 10004698,
     "name": "Thirsty Suitors",
     "contentId": null,
@@ -30995,7 +31003,7 @@
     "titleId": "PPSA07758_00",
     "conceptId": 10002044,
     "name": "\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u7267\u5834\u7269\u8a9e \u5927\u81ea\u7136\u306e\u738b\u56fd\u3068\u307f\u3093\u306a\u306e\u5bb6 \u4f53\u9a13\u7248",
-    "contentId": null,
+    "contentId": "JP0700-PPSA07758_00-DRFM2TRI00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -35084,8 +35092,16 @@
     "conceptId": 10005443,
     "name": "Flashback 2",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
+  },
+  {
+    "titleId": "PPSA08547_00",
+    "conceptId": 10005443,
+    "name": "Flashback 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA08548_00",
@@ -37883,7 +37899,7 @@
     "titleId": "PPSA09049_00",
     "conceptId": 10004402,
     "name": "Boxville Demo",
-    "contentId": null,
+    "contentId": "EP7349-PPSA09049_00-2928552136950764",
     "region": "EP",
     "publisherId": "EP7349"
   },
@@ -38555,7 +38571,7 @@
     "titleId": "PPSA09156_00",
     "conceptId": 10003868,
     "name": "Destroy All Humans! 2 - Reprobed Demo",
-    "contentId": null,
+    "contentId": "UP4389-PPSA09156_00-DAH2REPRODBEDUS0",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -40576,6 +40592,38 @@
     "publisherId": "EP6513"
   },
   {
+    "titleId": "PPSA09533_00",
+    "conceptId": 10005862,
+    "name": "\u546a\u8853\u5efb\u6226 \u6226\u83ef\u53cc\u4e71  PS4\u00ae & PS5\u00ae",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA09534_00",
+    "conceptId": 10005862,
+    "name": "Jujutsu Kaisen Cursed Clash PS4\u2122 & PS5\u00ae",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA09535_00",
+    "conceptId": 10005862,
+    "name": "Jujutsu Kaisen Cursed Clash",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA09536_00",
+    "conceptId": 10005862,
+    "name": "Jujutsu Kaisen Cursed Clash PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA09538_00",
     "conceptId": 10005117,
     "name": "Safari Pinball",
@@ -42171,7 +42219,7 @@
     "titleId": "PPSA09837_00",
     "conceptId": 10003289,
     "name": "Monster Menu The Scavenger's Cookbook Demo",
-    "contentId": null,
+    "contentId": "EP1063-PPSA09837_00-8299608167090171",
     "region": "EP",
     "publisherId": "EP1063"
   },
@@ -44347,7 +44395,7 @@
     "titleId": "PPSA10233_00",
     "conceptId": 10004699,
     "name": "[\u30c7\u30e2] \u30b9\u30bf\u30fc\u30fb\u30a6\u30a9\u30fc\u30ba\uff1a\u30c6\u30fc\u30eb\u30ba\u30fb\u30d5\u30ed\u30e0\u30fb\u30b6\u30fb\u30ae\u30e3\u30e9\u30af\u30b7\u30fc\u30ba\u30fb\u30a8\u30c3\u30b8 - \u62e1\u5f35\u7248",
-    "contentId": null,
+    "contentId": "JP1780-PPSA10233_00-CHALUPA000000000",
     "region": "JP",
     "publisherId": "JP1780"
   },
@@ -44355,7 +44403,7 @@
     "titleId": "PPSA10234_00",
     "conceptId": 10004699,
     "name": "[DEMO] Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
-    "contentId": null,
+    "contentId": "HP1082-PPSA10234_00-CHALUPA000000000",
     "region": "HP",
     "publisherId": "HP1082"
   },
@@ -47651,7 +47699,7 @@
     "titleId": "PPSA10805_00",
     "conceptId": 10005126,
     "name": "OCTOPATH TRAVELER II Prologue Demo",
-    "contentId": null,
+    "contentId": "UP0082-PPSA10805_00-OCTOPATH2PS5NPD0",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -47667,7 +47715,7 @@
     "titleId": "PPSA10807_00",
     "conceptId": 10005126,
     "name": "OCTOPATH TRAVELER II Prologue Demo",
-    "contentId": null,
+    "contentId": "HP0082-PPSA10807_00-OCTOPATH2PS5APD0",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -51043,9 +51091,9 @@
     "titleId": "PPSA11494_00",
     "conceptId": 231180,
     "name": "Warhammer 40,000: Inquisitor - Martyr",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA11494_00-WH40KIM000000000",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA11495_00",
@@ -51763,7 +51811,7 @@
     "titleId": "PPSA12452_00",
     "conceptId": 10004600,
     "name": "Cosmonious High Demo",
-    "contentId": null,
+    "contentId": "UP0503-PPSA12452_00-2863309401078551",
     "region": "UP",
     "publisherId": "UP0503"
   },
@@ -52075,7 +52123,7 @@
     "titleId": "PPSA12537_00",
     "conceptId": 10004600,
     "name": "Cosmonious High Demo",
-    "contentId": null,
+    "contentId": "EP0500-PPSA12537_00-7617633380835109",
     "region": "EP",
     "publisherId": "EP0500"
   },
@@ -53531,7 +53579,7 @@
     "titleId": "PPSA13415_00",
     "conceptId": 10002254,
     "name": "Song in the Smoke Rekindled Demo",
-    "contentId": null,
+    "contentId": "UP0319-PPSA13415_00-0123456789171727",
     "region": "UP",
     "publisherId": "UP0319"
   },
@@ -53803,7 +53851,7 @@
     "titleId": "PPSA13502_00",
     "conceptId": 10004596,
     "name": "\u82f1\u96c4\u50b3\u8aaa \u9ece\u4e4b\u8ecc\u8de1\u2161 -\u7dcb\u7d05\u539f\u7f6a- \u6230\u9b25\u9ad4\u9a57\u7248",
-    "contentId": null,
+    "contentId": "HP5846-PPSA13502_00-EDKURO2BTLDEMO01",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -54179,7 +54227,7 @@
     "titleId": "PPSA13567_00",
     "conceptId": 235159,
     "name": "The Crown Of Wu Demo",
-    "contentId": null,
+    "contentId": "UP0814-PPSA13567_00-0466079439269146",
     "region": "UP",
     "publisherId": "UP0814"
   },
@@ -54467,7 +54515,7 @@
     "titleId": "PPSA13656_00",
     "conceptId": 10004473,
     "name": "Resident Evil 4 Chainsaw Demo",
-    "contentId": null,
+    "contentId": "UP0102-PPSA13656_00-RE4RDEMO00000000",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -54475,7 +54523,7 @@
     "titleId": "PPSA13657_00",
     "conceptId": 10004473,
     "name": "Resident Evil 4 Chainsaw Demo",
-    "contentId": null,
+    "contentId": "EP0102-PPSA13657_00-RE4RDEMO00000000",
     "region": "EP",
     "publisherId": "EP0102"
   },
@@ -54483,7 +54531,7 @@
     "titleId": "PPSA13658_00",
     "conceptId": 10004473,
     "name": "BIOHAZARD RE:4 Chainsaw Demo",
-    "contentId": null,
+    "contentId": "JP0102-PPSA13658_00-RE4RDEMO00000000",
     "region": "JP",
     "publisherId": "JP0102"
   },
@@ -54499,7 +54547,7 @@
     "titleId": "PPSA13660_00",
     "conceptId": 10005812,
     "name": "Backbeat Demo",
-    "contentId": null,
+    "contentId": "EP6045-PPSA13660_00-0514662647101736",
     "region": "EP",
     "publisherId": "EP6045"
   },
@@ -54523,7 +54571,7 @@
     "titleId": "PPSA13675_00",
     "conceptId": 10000658,
     "name": "TUESDAY MORNING\u3002- Demo",
-    "contentId": null,
+    "contentId": "UP6018-PPSA13675_00-0875991201828874",
     "region": "UP",
     "publisherId": "UP6018"
   },
@@ -54579,7 +54627,7 @@
     "titleId": "PPSA13685_00",
     "conceptId": 10005283,
     "name": "Alone in the Dark Prologue",
-    "contentId": null,
+    "contentId": "JP2880-PPSA13685_00-AITDDEMOPRODUCT0",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -54595,7 +54643,7 @@
     "titleId": "PPSA13687_00",
     "conceptId": 10005283,
     "name": "Alone in the Dark Prologue",
-    "contentId": null,
+    "contentId": "EP4389-PPSA13687_00-AITDDEMOPRODUCT0",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -54931,7 +54979,7 @@
     "titleId": "PPSA13750_00",
     "conceptId": 235235,
     "name": "Resident Evil Village VR Mode Gameplay Demo",
-    "contentId": null,
+    "contentId": "UP0102-PPSA13750_00-DEMOVILLAGEVR004",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -55187,7 +55235,7 @@
     "titleId": "PPSA13801_00",
     "conceptId": 10002100,
     "name": "FINAL FANTASY XVI DEMO",
-    "contentId": null,
+    "contentId": "JP0082-PPSA13801_00-FF16DEMO00000000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -55203,7 +55251,7 @@
     "titleId": "PPSA13803_00",
     "conceptId": 10002100,
     "name": "FINAL FANTASY XVI DEMO",
-    "contentId": null,
+    "contentId": "EP0082-PPSA13803_00-FF16DEMO00000000",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -55211,7 +55259,7 @@
     "titleId": "PPSA13804_00",
     "conceptId": 10002100,
     "name": "FINAL FANTASY XVI DEMO",
-    "contentId": null,
+    "contentId": "HP0082-PPSA13804_00-FF16DEMO00000000",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -55267,7 +55315,7 @@
     "titleId": "PPSA13819_00",
     "conceptId": 10004787,
     "name": "\u9b54\u754c\u6230\u8a18 DISGAEA 7 (\u9ad4\u9a57\u7248)",
-    "contentId": null,
+    "contentId": "HP0404-PPSA13819_00-DISGAEA700000001",
     "region": "HP",
     "publisherId": "HP0404"
   },
@@ -55659,7 +55707,7 @@
     "titleId": "PPSA13907_00",
     "conceptId": 10005297,
     "name": "LIVE A LIVE: Demo Version",
-    "contentId": null,
+    "contentId": "JP0082-PPSA13907_00-PS5JPDMLIVEALIVE",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -55667,7 +55715,7 @@
     "titleId": "PPSA13908_00",
     "conceptId": 10005297,
     "name": "LIVE A LIVE: Demo Version",
-    "contentId": null,
+    "contentId": "UP0082-PPSA13908_00-PS5UPDMLIVEALIVE",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -55795,6 +55843,22 @@
     "titleId": "PPSA13935_00",
     "conceptId": 10004685,
     "name": "Spirit of the Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13937_00",
+    "conceptId": 10007419,
+    "name": "In Stars and Time",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13938_00",
+    "conceptId": 10007419,
+    "name": "In Stars and Time",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -56139,7 +56203,7 @@
     "titleId": "PPSA14015_00",
     "conceptId": 10006907,
     "name": "Drums Rock Demo",
-    "contentId": null,
+    "contentId": "EP7588-PPSA14015_00-0293605655743320",
     "region": "EP",
     "publisherId": "EP7588"
   },
@@ -57043,7 +57107,7 @@
     "titleId": "PPSA14205_00",
     "conceptId": 10004480,
     "name": "Like a Dragon: Ishin! Combat Demo",
-    "contentId": null,
+    "contentId": "EP0177-PPSA14205_00-DEMO000000000000",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -57091,7 +57155,7 @@
     "titleId": "PPSA14226_00",
     "conceptId": 10007563,
     "name": "\u30b7\u30ab\u30c8\u30ea\u30b9\u4f53\u9a13\u7248",
-    "contentId": null,
+    "contentId": "JP0404-PPSA14226_00-XICATRICE0000000",
     "region": "JP",
     "publisherId": "JP0404"
   },
@@ -57331,7 +57395,7 @@
     "titleId": "PPSA14288_00",
     "conceptId": 10000894,
     "name": "THE KING OF FIGHTERS XV DEMO",
-    "contentId": null,
+    "contentId": "UP0576-PPSA14288_00-KOF15DEMO0000000",
     "region": "UP",
     "publisherId": "UP0576"
   },
@@ -57808,6 +57872,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14409_00",
+    "conceptId": 228694,
+    "name": "Caligula Overdose/\u30ab\u30ea\u30ae\u30e5\u30e9 \u30aa\u30fc\u30d0\u30fc\u30c9\u30fc\u30ba",
+    "contentId": "JP0536-PPSA14409_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA14410_00",
     "conceptId": 10007263,
     "name": "PAYDAY 3",
@@ -57883,7 +57955,7 @@
     "titleId": "PPSA14429_00",
     "conceptId": 10002154,
     "name": "NFL ProERA '22 (Demo Version)",
-    "contentId": null,
+    "contentId": "UP6514-PPSA14429_00-0801457669656113",
     "region": "UP",
     "publisherId": "UP6514"
   },
@@ -58027,7 +58099,7 @@
     "titleId": "PPSA14489_00",
     "conceptId": 10004721,
     "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30e9\u30b9\u30c8 \u30ea\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 DEMO",
-    "contentId": null,
+    "contentId": "JP0700-PPSA14489_00-SAOLRDEMO0000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -58035,7 +58107,7 @@
     "titleId": "PPSA14490_00",
     "conceptId": 10004721,
     "name": "\u5200\u528d\u795e\u57df \u7570\u7d46\u96c6\u7d50 DEMO",
-    "contentId": null,
+    "contentId": "HP0700-PPSA14490_00-SAOLRDEMO0000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -58051,7 +58123,7 @@
     "titleId": "PPSA14492_00",
     "conceptId": 10004721,
     "name": "SWORD ART ONLINE Last Recollection DEMO",
-    "contentId": null,
+    "contentId": "UP0700-PPSA14492_00-SAOLRDEMO0000000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -58515,7 +58587,7 @@
     "titleId": "PPSA14749_00",
     "conceptId": 10004634,
     "name": "Plunder Panic Demo",
-    "contentId": null,
+    "contentId": "UP7185-PPSA14749_00-0759117362366646",
     "region": "UP",
     "publisherId": "UP7185"
   },
@@ -59371,7 +59443,7 @@
     "titleId": "PPSA15427_00",
     "conceptId": 10004226,
     "name": "Sea of Stars Demo",
-    "contentId": null,
+    "contentId": "EP3323-PPSA15427_00-0455692261698172",
     "region": "EP",
     "publisherId": "EP3323"
   },
@@ -59819,9 +59891,9 @@
     "titleId": "PPSA15527_00",
     "conceptId": 10008039,
     "name": "RedRaptor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA15527_00-REDRAPTOR0000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA15532_00",
@@ -59907,7 +59979,7 @@
     "titleId": "PPSA15551_00",
     "conceptId": 10005266,
     "name": "Breakers Collection Demo",
-    "contentId": null,
+    "contentId": "UP2158-PPSA15551_00-BREAKERDEMOPS5NA",
     "region": "UP",
     "publisherId": "UP2158"
   },
@@ -60176,6 +60248,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15641_00",
+    "conceptId": 10004938,
+    "name": "Stray Souls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15648_00",
     "conceptId": 10007229,
     "name": "Red Matter 2",
@@ -60267,7 +60347,7 @@
     "titleId": "PPSA15683_00",
     "conceptId": 10005977,
     "name": "Ghostrunner 2 Demo",
-    "contentId": null,
+    "contentId": "UP4040-PPSA15683_00-GHOSTRUN2DEMOUS0",
     "region": "UP",
     "publisherId": "UP4040"
   },
@@ -60283,7 +60363,7 @@
     "titleId": "PPSA15685_00",
     "conceptId": 10005977,
     "name": "Ghostrunner 2 Demo",
-    "contentId": null,
+    "contentId": "JP0114-PPSA15685_00-GHOSTRUN2DEMOJP0",
     "region": "JP",
     "publisherId": "JP0114"
   },
@@ -60331,9 +60411,9 @@
     "titleId": "PPSA15699_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5187-PPSA15699_00-0887777285393928",
+    "region": "JP",
+    "publisherId": "JP5187"
   },
   {
     "titleId": "PPSA15704_00",
@@ -60459,7 +60539,7 @@
     "titleId": "PPSA15738_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo Demo",
-    "contentId": null,
+    "contentId": "UP0814-PPSA15738_00-0423213892083478",
     "region": "UP",
     "publisherId": "UP0814"
   },
@@ -60467,7 +60547,7 @@
     "titleId": "PPSA15739_00",
     "conceptId": 10001016,
     "name": "The Many Pieces of Mr. Coo Demo",
-    "contentId": null,
+    "contentId": "JP1111-PPSA15739_00-0954195863997364",
     "region": "JP",
     "publisherId": "JP1111"
   },
@@ -60611,7 +60691,7 @@
     "titleId": "PPSA15794_00",
     "conceptId": 10003684,
     "name": "Ragnarock Demo",
-    "contentId": null,
+    "contentId": "UP7137-PPSA15794_00-0294970088007024",
     "region": "UP",
     "publisherId": "UP7137"
   },
@@ -61112,6 +61192,38 @@
     "publisherId": "EP8493"
   },
   {
+    "titleId": "PPSA15910_00",
+    "conceptId": 10008168,
+    "name": "Tennis On-Court",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15911_00",
+    "conceptId": 10008168,
+    "name": "Tennis On-Court",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15912_00",
+    "conceptId": 10008168,
+    "name": "Tennis On-Court",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15913_00",
+    "conceptId": 10008168,
+    "name": "Tennis On-Court",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15918_00",
     "conceptId": 10008172,
     "name": "Pixel Ripped 1978",
@@ -61275,7 +61387,7 @@
     "titleId": "PPSA15966_00",
     "conceptId": 10006418,
     "name": "BROK the InvestiGator Demo",
-    "contentId": null,
+    "contentId": "UP1778-PPSA15966_00-BROKDEMOPS500000",
     "region": "UP",
     "publisherId": "UP1778"
   },
@@ -61363,7 +61475,7 @@
     "titleId": "PPSA15997_00",
     "conceptId": 10006464,
     "name": "Dark Deception Demo",
-    "contentId": null,
+    "contentId": "EP0297-PPSA15997_00-0693591260380558",
     "region": "EP",
     "publisherId": "EP0297"
   },
@@ -61371,7 +61483,7 @@
     "titleId": "PPSA15998_00",
     "conceptId": 10006464,
     "name": "Dark Deception Demo",
-    "contentId": null,
+    "contentId": "JP0559-PPSA15998_00-0445564403603447",
     "region": "JP",
     "publisherId": "JP0559"
   },
@@ -61563,7 +61675,7 @@
     "titleId": "PPSA16057_00",
     "conceptId": 10008210,
     "name": "Travel The Words Demo",
-    "contentId": null,
+    "contentId": "EP7961-PPSA16057_00-0263983312666669",
     "region": "EP",
     "publisherId": "EP7961"
   },
@@ -61571,7 +61683,7 @@
     "titleId": "PPSA16058_00",
     "conceptId": 10008210,
     "name": "Travel The Words Demo",
-    "contentId": null,
+    "contentId": "JP7944-PPSA16058_00-0774931898889008",
     "region": "JP",
     "publisherId": "JP7944"
   },
@@ -62387,7 +62499,7 @@
     "titleId": "PPSA16299_00",
     "conceptId": 10006996,
     "name": "\u30af\u30ed\u30b9\u30c6\u30a4\u30eb\u30ba \u4f53\u9a13\u7248",
-    "contentId": null,
+    "contentId": "JP0013-PPSA16299_00-JP0CROSST000DPS5",
     "region": "JP",
     "publisherId": "JP0013"
   },
@@ -62395,7 +62507,7 @@
     "titleId": "PPSA16300_00",
     "conceptId": 10006996,
     "name": "Cross Tails Demo",
-    "contentId": null,
+    "contentId": "UP2500-PPSA16300_00-US0CROSST000DPS5",
     "region": "UP",
     "publisherId": "UP2500"
   },
@@ -62403,7 +62515,7 @@
     "titleId": "PPSA16301_00",
     "conceptId": 10006996,
     "name": "Cross Tails Demo",
-    "contentId": null,
+    "contentId": "EP2363-PPSA16301_00-EU0CROSST000DPS5",
     "region": "EP",
     "publisherId": "EP2363"
   },
@@ -62491,7 +62603,7 @@
     "titleId": "PPSA16351_00",
     "conceptId": 10007308,
     "name": "STAR OCEAN THE SECOND STORY R - DEMO",
-    "contentId": null,
+    "contentId": "JP0082-PPSA16351_00-STAROCEAN2DEMOJP",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -62499,7 +62611,7 @@
     "titleId": "PPSA16352_00",
     "conceptId": 10007308,
     "name": "STAR OCEAN THE SECOND STORY R - DEMO",
-    "contentId": null,
+    "contentId": "UP0082-PPSA16352_00-STAROCEAN2DEMOUP",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -62574,6 +62686,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA16381_00",
+    "conceptId": 10000791,
+    "name": "Caligula2",
+    "contentId": "JP0536-PPSA16381_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
+    "titleId": "PPSA16382_00",
+    "conceptId": 10000791,
+    "name": "Caligula2 \u30c7\u30b8\u30bf\u30eb\u30c7\u30e9\u30c3\u30af\u30b9\u7279\u5178\u30a2\u30d7\u30ea",
+    "contentId": "JP0536-PPSA16382_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
   },
   {
     "titleId": "PPSA16390_00",
@@ -62691,7 +62819,7 @@
     "titleId": "PPSA16421_00",
     "conceptId": 10001483,
     "name": "The Valiant - Demo",
-    "contentId": null,
+    "contentId": "UP4389-PPSA16421_00-THEVALIANTMPDEMO",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -62699,7 +62827,7 @@
     "titleId": "PPSA16422_00",
     "conceptId": 10001483,
     "name": "The Valiant - Demo",
-    "contentId": null,
+    "contentId": "EP4389-PPSA16422_00-THEVALIANTMPDEMO",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -62867,7 +62995,7 @@
     "titleId": "PPSA16452_00",
     "conceptId": 10008376,
     "name": "Super Dark Deception Demo",
-    "contentId": null,
+    "contentId": "UP0299-PPSA16452_00-0786881326940567",
     "region": "UP",
     "publisherId": "UP0299"
   },
@@ -62891,7 +63019,7 @@
     "titleId": "PPSA16460_00",
     "conceptId": 10008376,
     "name": "Super Dark Deception Demo",
-    "contentId": null,
+    "contentId": "EP0297-PPSA16460_00-0991170087406775",
     "region": "EP",
     "publisherId": "EP0297"
   },
@@ -62971,7 +63099,7 @@
     "titleId": "PPSA16490_00",
     "conceptId": 10006160,
     "name": "Viewfinder Demo",
-    "contentId": null,
+    "contentId": "EP5360-PPSA16490_00-VIEWFINDERDEMOEU",
     "region": "EP",
     "publisherId": "EP5360"
   },
@@ -63507,7 +63635,7 @@
     "titleId": "PPSA16669_00",
     "conceptId": 10007776,
     "name": "Toodee And Topdee Demo",
-    "contentId": null,
+    "contentId": "UP5155-PPSA16669_00-0824786916942809",
     "region": "UP",
     "publisherId": "UP5155"
   },
@@ -63995,7 +64123,7 @@
     "titleId": "PPSA16837_00",
     "conceptId": 10008338,
     "name": "Mirror 2 - Console Edition Demo",
-    "contentId": null,
+    "contentId": "JP8221-PPSA16837_00-0323661588499920",
     "region": "JP",
     "publisherId": "JP8221"
   },
@@ -64011,7 +64139,7 @@
     "titleId": "PPSA16839_00",
     "conceptId": 10008338,
     "name": "Mirror 2 - Console Edition Demo",
-    "contentId": null,
+    "contentId": "UP8316-PPSA16839_00-0628175400094310",
     "region": "UP",
     "publisherId": "UP8316"
   },
@@ -64483,9 +64611,9 @@
     "titleId": "PPSA17084_00",
     "conceptId": 10000791,
     "name": "The Caligula Effect 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5846-PPSA17084_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP5846"
   },
   {
     "titleId": "PPSA17086_00",
@@ -64515,7 +64643,7 @@
     "titleId": "PPSA17089_00",
     "conceptId": 10008158,
     "name": "Oaken - Demo",
-    "contentId": null,
+    "contentId": "EP5098-PPSA17089_00-0087759935586663",
     "region": "EP",
     "publisherId": "EP5098"
   },
@@ -65192,6 +65320,14 @@
     "publisherId": "EP4902"
   },
   {
+    "titleId": "PPSA17478_00",
+    "conceptId": 10007160,
+    "name": "United Assault - World War 2",
+    "contentId": "UP4729-PPSA17478_00-0599016371887991",
+    "region": "UP",
+    "publisherId": "UP4729"
+  },
+  {
     "titleId": "PPSA17480_00",
     "conceptId": 10006400,
     "name": "Cubic Parking",
@@ -65467,7 +65603,7 @@
     "titleId": "PPSA17654_00",
     "conceptId": 10008764,
     "name": "Colorful Boi - DEMO",
-    "contentId": null,
+    "contentId": "EP7333-PPSA17654_00-0248315056464792",
     "region": "EP",
     "publisherId": "EP7333"
   },
@@ -65475,7 +65611,7 @@
     "titleId": "PPSA17655_00",
     "conceptId": 10008764,
     "name": "Colorful Boi - DEMO",
-    "contentId": null,
+    "contentId": "JP7309-PPSA17655_00-0084786894527865",
     "region": "JP",
     "publisherId": "JP7309"
   },
@@ -65779,7 +65915,7 @@
     "titleId": "PPSA17874_00",
     "conceptId": 10007658,
     "name": "Kittengumi: The Sakabato's Thief Demo",
-    "contentId": null,
+    "contentId": "JP1111-PPSA17874_00-0074729270936304",
     "region": "JP",
     "publisherId": "JP1111"
   },
@@ -65814,6 +65950,14 @@
     "contentId": "HP6691-PPSA17878_00-CUBICLINES0PS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17883_00",
+    "conceptId": 10007552,
+    "name": "Mercenaries Lament: Requiem of the Silver Wolf",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17890_00",
@@ -65894,6 +66038,14 @@
     "contentId": "EP5449-PPSA17932_00-0531458130008589",
     "region": "EP",
     "publisherId": "EP5449"
+  },
+  {
+    "titleId": "PPSA17936_00",
+    "conceptId": 10008966,
+    "name": "Warm Snow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17937_00",
@@ -66048,6 +66200,14 @@
     "publisherId": "EP7541"
   },
   {
+    "titleId": "PPSA18113_00",
+    "conceptId": 10004776,
+    "name": "Agatha Christie - Murder on the Orient Express",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18125_00",
     "conceptId": 10004021,
     "name": "FOAMSTARS OPEN BETA PARTY",
@@ -66107,7 +66267,7 @@
     "titleId": "PPSA18185_00",
     "conceptId": 10008939,
     "name": "\u6771\u4eac\u30b5\u30a4\u30b3\u30c7\u30df\u30c3\u30af\u3000\uff5e\u516c\u5b89\u8abf\u67fb\u5e81\u7279\u5225\u4e8b\u8c61\u79d1\u5b66\u60c5\u5831\u5206\u6790\u5ba4\u3000\u7279\u6b8a\u635c\u67fb\u4e8b\u4ef6\u7c3f\uff5e DEMO",
-    "contentId": null,
+    "contentId": "JP7583-PPSA18185_00-0408753983725823",
     "region": "JP",
     "publisherId": "JP7583"
   },
@@ -66368,12 +66528,36 @@
     "publisherId": "JP5101"
   },
   {
+    "titleId": "PPSA18448_00",
+    "conceptId": 10009165,
+    "name": "Word Space",
+    "contentId": "UP7335-PPSA18448_00-0132594339207246",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA18449_00",
     "conceptId": 10009165,
     "name": "Word Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA18449_00-0956818615510309",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA18450_00",
+    "conceptId": 10009165,
+    "name": "Word Space",
+    "contentId": "JP7309-PPSA18450_00-0782051590467019",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA18451_00",
+    "conceptId": 10009165,
+    "name": "Word Space",
+    "contentId": "HP7354-PPSA18451_00-0227765346914130",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA18499_00",
@@ -66483,7 +66667,7 @@
     "titleId": "PPSA18569_00",
     "conceptId": 10008937,
     "name": "KAMiBAKO - Mythology of Cube - DEMO",
-    "contentId": null,
+    "contentId": "HP7629-PPSA18569_00-0030046053180911",
     "region": "HP",
     "publisherId": "HP7629"
   },
@@ -66707,7 +66891,7 @@
     "titleId": "PPSA18813_00",
     "conceptId": 10008937,
     "name": "KAMiBAKO - Mythology of Cube - DEMO",
-    "contentId": null,
+    "contentId": "UP7602-PPSA18813_00-0682014440866188",
     "region": "UP",
     "publisherId": "UP7602"
   },
@@ -66715,7 +66899,7 @@
     "titleId": "PPSA18814_00",
     "conceptId": 10008937,
     "name": "KAMiBAKO - Mythology of Cube - DEMO",
-    "contentId": null,
+    "contentId": "EP7600-PPSA18814_00-0140413187720821",
     "region": "EP",
     "publisherId": "EP7600"
   },
@@ -66731,7 +66915,7 @@
     "titleId": "PPSA18853_00",
     "conceptId": 10008624,
     "name": "Ghost Signal: A Stellaris Game Demo",
-    "contentId": null,
+    "contentId": "UP3046-PPSA18853_00-GHOSTSIGNALDM110",
     "region": "UP",
     "publisherId": "UP3046"
   },
