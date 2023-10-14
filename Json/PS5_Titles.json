@@ -10443,7 +10443,7 @@
     "titleId": "PPSA03641_00",
     "conceptId": 10002848,
     "name": "Lords of the Fallen",
-    "contentId": null,
+    "contentId": "EP4321-PPSA03641_00-0026114790873430",
     "region": "EP",
     "publisherId": "EP4321"
   },
@@ -14419,7 +14419,7 @@
     "titleId": "PPSA04410_00",
     "conceptId": 10003094,
     "name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8X\u3000\u76ee\u899a\u3081\u3057\u4e94\u3064\u306e\u7a2e\u65cf\u3000\u30aa\u30d5\u30e9\u30a4\u30f3\u3000\u4f53\u9a13\u7248",
-    "contentId": null,
+    "contentId": "JP0082-PPSA04410_00-HOLIDAYDEMO00000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -20675,7 +20675,7 @@
     "titleId": "PPSA05700_00",
     "conceptId": 10000846,
     "name": "Forspoken Demo",
-    "contentId": null,
+    "contentId": "UP0082-PPSA05700_00-ATHIADM000000001",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -20683,7 +20683,7 @@
     "titleId": "PPSA05701_00",
     "conceptId": 10000846,
     "name": "Forspoken Demo",
-    "contentId": null,
+    "contentId": "EP0082-PPSA05701_00-ATHIADM000000002",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -22915,7 +22915,7 @@
     "titleId": "PPSA06134_00",
     "conceptId": 10002027,
     "name": "The Centennial Case: A Shijima Story DEMO",
-    "contentId": null,
+    "contentId": "EP0082-PPSA06134_00-SHIJIMASTORYDEMO",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -26704,6 +26704,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06880_00",
+    "conceptId": 10004698,
+    "name": "Thirsty Suitors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06881_00",
+    "conceptId": 10004698,
+    "name": "Thirsty Suitors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06882_00",
     "conceptId": 10004699,
     "name": "Star Wars: Tales from the Galaxy's Edge - Enhanced Edition",
@@ -28131,7 +28147,7 @@
     "titleId": "PPSA07186_00",
     "conceptId": 10001615,
     "name": "Street Fighter 6 Demo",
-    "contentId": null,
+    "contentId": "EP0102-PPSA07186_00-SF6DEMO000000000",
     "region": "EP",
     "publisherId": "EP0102"
   },
@@ -29194,10 +29210,10 @@
   {
     "titleId": "PPSA07389_00",
     "conceptId": 10002253,
-    "name": "Hotel: A Resort Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hotel Life: A Resort Simulator",
+    "contentId": "UP6665-PPSA07389_00-HLRS000000000000",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA07390_00",
@@ -30251,9 +30267,9 @@
     "titleId": "PPSA07606_00",
     "conceptId": 10005049,
     "name": "Haunted House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0182-PPSA07606_00-0000000000000001",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA07607_00",
@@ -30499,9 +30515,9 @@
     "titleId": "PPSA07655_00",
     "conceptId": 10005079,
     "name": "The Grinch: Christmas Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA07655_00-0123456789ABCDEF",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA07656_00",
@@ -31035,7 +31051,7 @@
     "titleId": "PPSA07759_00",
     "conceptId": 10002044,
     "name": "\u54c6\u5566A\u5922 \u7267\u5834\u7269\u8a9e \u81ea\u7136\u738b\u570b\u8207\u548c\u6a02\u5bb6\u4eba \u9ad4\u9a57\u7248",
-    "contentId": null,
+    "contentId": "HP0700-PPSA07759_00-DRFM2TRI00000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -36571,7 +36587,7 @@
     "titleId": "PPSA08819_00",
     "conceptId": 235235,
     "name": "Resident Evil Village Gold Edition Gameplay Demo",
-    "contentId": null,
+    "contentId": "HP0102-PPSA08819_00-DEMOVILLAGEGE003",
     "region": "HP",
     "publisherId": "HP0102"
   },
@@ -44272,6 +44288,14 @@
     "publisherId": "JP0106"
   },
   {
+    "titleId": "PPSA10205_00",
+    "conceptId": 10006042,
+    "name": "A Perfect Day",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10214_00",
     "conceptId": 10006152,
     "name": "The Burger Quiz",
@@ -51064,6 +51088,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11424_00",
+    "conceptId": 10006577,
+    "name": "Funny Alphabet",
+    "contentId": "JP7309-PPSA11424_00-6404600121665920",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11425_00",
+    "conceptId": 10006577,
+    "name": "Funny Alphabet",
+    "contentId": "HP7354-PPSA11425_00-5173116863768763",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA11426_00",
     "conceptId": 10006578,
     "name": "Rocket Lift",
@@ -51614,6 +51654,14 @@
     "contentId": "UP6326-PPSA12379_00-4048959180355327",
     "region": "UP",
     "publisherId": "UP6326"
+  },
+  {
+    "titleId": "PPSA12380_00",
+    "conceptId": 10006504,
+    "name": "KarmaZoo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12381_00",
@@ -54067,9 +54115,9 @@
     "titleId": "PPSA13535_00",
     "conceptId": 10007248,
     "name": "Chemically Bonded",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA13535_00-RGCHEMICALLYBOND",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA13536_00",
@@ -54462,6 +54510,22 @@
     "contentId": "UP3165-PPSA13623_00-SVENBOMWOLLENUS5",
     "region": "UP",
     "publisherId": "UP3165"
+  },
+  {
+    "titleId": "PPSA13624_00",
+    "conceptId": 10007273,
+    "name": "DreamWorks Trolls Remix Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13625_00",
+    "conceptId": 10007273,
+    "name": "DreamWorks Trolls Remix Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13628_00",
@@ -57315,17 +57379,17 @@
     "titleId": "PPSA14263_00",
     "conceptId": 10007577,
     "name": "TRANSFORMERS: EARTHSPARK - Expedition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA14263_00-0462354757964945",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA14264_00",
     "conceptId": 10007577,
     "name": "TRANSFORMERS: EARTHSPARK - Expedition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA14264_00-0853969716153823",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA14265_00",
@@ -58043,9 +58107,9 @@
     "titleId": "PPSA14468_00",
     "conceptId": 10007658,
     "name": "Kittengumi: The Sakabato's Thief",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA14468_00-0228471554912272",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA14469_00",
@@ -59742,6 +59806,22 @@
     "contentId": "UP2514-PPSA15481_00-F1MANAGER2300000",
     "region": "UP",
     "publisherId": "UP2514"
+  },
+  {
+    "titleId": "PPSA15482_00",
+    "conceptId": 10008016,
+    "name": "DreamWorks All-Star Kart Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15483_00",
+    "conceptId": 10008016,
+    "name": "DreamWorks All-Star Kart Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15488_00",
@@ -63312,6 +63392,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16528_00",
+    "conceptId": 10008411,
+    "name": "Alive Paint",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16529_00",
+    "conceptId": 10008411,
+    "name": "Alive Paint",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16538_00",
     "conceptId": 10004831,
     "name": "Unimime - Unicycle Madness",
@@ -65400,6 +65496,14 @@
     "publisherId": "EP1555"
   },
   {
+    "titleId": "PPSA17440_00",
+    "conceptId": 10007151,
+    "name": "CRYMACHINA DEMO",
+    "contentId": "EP1063-PPSA17440_00-CRYMACHINADEMOEU",
+    "region": "EP",
+    "publisherId": "EP1063"
+  },
+  {
     "titleId": "PPSA17454_00",
     "conceptId": 10008374,
     "name": "Lil Gator Game",
@@ -65782,6 +65886,22 @@
     "contentId": "EP4886-PPSA17665_00-0930099870275631",
     "region": "EP",
     "publisherId": "EP4886"
+  },
+  {
+    "titleId": "PPSA17666_00",
+    "conceptId": 10008883,
+    "name": "Fur Squadron",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17667_00",
+    "conceptId": 10008883,
+    "name": "Fur Squadron",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17721_00",
@@ -66910,6 +67030,14 @@
     "contentId": "EP6470-PPSA18643_00-SAKURAALIEN00000",
     "region": "EP",
     "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA18644_00",
+    "conceptId": 10009258,
+    "name": "Sakura Alien",
+    "contentId": "UP6472-PPSA18644_00-SAKURAALIEN00000",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA18646_00",
