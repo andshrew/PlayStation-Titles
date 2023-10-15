@@ -27635,7 +27635,7 @@
     "titleId": "PPSA07064_00",
     "conceptId": 10002848,
     "name": "Lords of the Fallen",
-    "contentId": null,
+    "contentId": "UP4321-PPSA07064_00-4092020589534297",
     "region": "UP",
     "publisherId": "UP4321"
   },
@@ -28139,7 +28139,7 @@
     "titleId": "PPSA07185_00",
     "conceptId": 10001615,
     "name": "Street Fighter 6 Demo",
-    "contentId": null,
+    "contentId": "UP0102-PPSA07185_00-SF6DEMO000000000",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -29202,10 +29202,10 @@
   {
     "titleId": "PPSA07388_00",
     "conceptId": 10002253,
-    "name": "Hotel: A Resort Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hotel Life: A Resort Simulator",
+    "contentId": "EP6665-PPSA07388_00-HLRS000000000000",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA07389_00",
@@ -30275,9 +30275,9 @@
     "titleId": "PPSA07607_00",
     "conceptId": 10005049,
     "name": "Haunted House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0182-PPSA07607_00-0000000000000001",
+    "region": "EP",
+    "publisherId": "EP0182"
   },
   {
     "titleId": "PPSA07608_00",
@@ -31059,7 +31059,7 @@
     "titleId": "PPSA07760_00",
     "conceptId": 10002044,
     "name": "DORAEMON STORY OF SEASONS: Friends of the Great Kingdom DEMO",
-    "contentId": null,
+    "contentId": "EP0700-PPSA07760_00-DRFM2TRI00000000",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -32851,7 +32851,7 @@
     "titleId": "PPSA08138_00",
     "conceptId": 10004195,
     "name": "STAR OCEAN THE DIVINE FORCE \u4f53\u9a13\u7248",
-    "contentId": null,
+    "contentId": "JP0082-PPSA08138_00-STAROCEAN6PS5001",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -32859,7 +32859,7 @@
     "titleId": "PPSA08139_00",
     "conceptId": 10004195,
     "name": "STAR OCEAN THE DIVINE FORCE DEMO",
-    "contentId": null,
+    "contentId": "UP0082-PPSA08139_00-STAROCEAN6PS5001",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -32867,7 +32867,7 @@
     "titleId": "PPSA08140_00",
     "conceptId": 10004195,
     "name": "STAR OCEAN THE DIVINE FORCE DEMO",
-    "contentId": null,
+    "contentId": "EP0082-PPSA08140_00-STAROCEAN6PS5001",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -32875,7 +32875,7 @@
     "titleId": "PPSA08141_00",
     "conceptId": 10004195,
     "name": "STAR OCEAN THE DIVINE FORCE DEMO",
-    "contentId": null,
+    "contentId": "HP0082-PPSA08141_00-STAROCEAN6PS5001",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -36072,6 +36072,14 @@
     "publisherId": "EP3385"
   },
   {
+    "titleId": "PPSA08717_00",
+    "conceptId": 10005532,
+    "name": "Kill It With Fire VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08722_00",
     "conceptId": 10005535,
     "name": "Rainbow Advanced",
@@ -36579,7 +36587,7 @@
     "titleId": "PPSA08818_00",
     "conceptId": 235235,
     "name": "BIOHAZARD VILLAGE GOLD EDITION Gameplay Demo",
-    "contentId": null,
+    "contentId": "JP0102-PPSA08818_00-DEMOVILLAGEGE003",
     "region": "JP",
     "publisherId": "JP0102"
   },
@@ -36643,7 +36651,7 @@
     "titleId": "PPSA08826_00",
     "conceptId": 10001203,
     "name": "\u30e2\u30ce\u30af\u30ed\u30fc\u30e0\u30e1\u30d3\u30a6\u30b9 \u523b\u30ce\u4ee3\u8d16 \u4f53\u9a13\u7248",
-    "contentId": null,
+    "contentId": "JP0761-PPSA08826_00-MMTOKINOTAIKATRI",
     "region": "JP",
     "publisherId": "JP0761"
   },
@@ -51672,6 +51680,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA12382_00",
+    "conceptId": 10006504,
+    "name": "KarmaZoo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12384_00",
     "conceptId": 10006613,
     "name": "SkateBIRD",
@@ -65496,6 +65512,14 @@
     "publisherId": "EP1555"
   },
   {
+    "titleId": "PPSA17439_00",
+    "conceptId": 10007151,
+    "name": "CRYMACHINA DEMO",
+    "contentId": "UP1063-PPSA17439_00-CRYMACHINADEMONA",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
     "titleId": "PPSA17440_00",
     "conceptId": 10007151,
     "name": "CRYMACHINA DEMO",
@@ -67158,6 +67182,22 @@
     "contentId": "UB0227-PPSA18759_00-FORKLIFTD5A00001",
     "region": "UB",
     "publisherId": "UB0227"
+  },
+  {
+    "titleId": "PPSA18793_00",
+    "conceptId": 10007768,
+    "name": "TrinityS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18795_00",
+    "conceptId": 10007768,
+    "name": "TrinityS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18802_00",
