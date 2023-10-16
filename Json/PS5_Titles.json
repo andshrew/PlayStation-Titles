@@ -20691,7 +20691,7 @@
     "titleId": "PPSA05702_00",
     "conceptId": 10000846,
     "name": "Forspoken Demo",
-    "contentId": null,
+    "contentId": "HP0082-PPSA05702_00-ATHIADM000000003",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -22736,6 +22736,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA06106_00",
+    "conceptId": 10004263,
+    "name": "Hammerwatch II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06107_00",
     "conceptId": 10004263,
     "name": "Hammerwatch II",
@@ -22907,7 +22915,7 @@
     "titleId": "PPSA06133_00",
     "conceptId": 10002027,
     "name": "The Centennial Case: A Shijima Story DEMO",
-    "contentId": null,
+    "contentId": "UP0082-PPSA06133_00-SHIJIMASTORYDEMO",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -23235,7 +23243,7 @@
     "titleId": "PPSA06196_00",
     "conceptId": 235242,
     "name": "ONE PIECE \u6642\u5149\u65c5\u8a69(\u8a66\u73a9\u7248)",
-    "contentId": null,
+    "contentId": "HP0700-PPSA06196_00-KIZOKTRIAL000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -36080,6 +36088,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA08718_00",
+    "conceptId": 10005532,
+    "name": "Kill It With Fire VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08722_00",
     "conceptId": 10005535,
     "name": "Rainbow Advanced",
@@ -36371,7 +36387,7 @@
     "titleId": "PPSA08777_00",
     "conceptId": 10001302,
     "name": "JoJo's Bizarre Adventure: All-Star Battle R Demo version",
-    "contentId": null,
+    "contentId": "EP0700-PPSA08777_00-JOJOASBRDEMO0001",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -36579,7 +36595,7 @@
     "titleId": "PPSA08817_00",
     "conceptId": 235235,
     "name": "Resident Evil Village Gold Edition Gameplay Demo",
-    "contentId": null,
+    "contentId": "EP0102-PPSA08817_00-DEMOVILLAGEGE003",
     "region": "EP",
     "publisherId": "EP0102"
   },
@@ -53344,6 +53360,14 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA13338_00",
+    "conceptId": 10005798,
+    "name": "Repentless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13339_00",
     "conceptId": 10005891,
     "name": "CROSSFIRE: Sierra Squad",
@@ -55238,6 +55262,14 @@
     "contentId": "HP6691-PPSA13778_00-PRINCIPMATTPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA13779_00",
+    "conceptId": 10007341,
+    "name": "Mail Time",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13783_00",
@@ -57622,6 +57654,14 @@
     "contentId": "UP7940-PPSA14317_00-0719045178563881",
     "region": "UP",
     "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA14318_00",
+    "conceptId": 10005798,
+    "name": "Repentless",
+    "contentId": "HP7967-PPSA14318_00-0098557181275796",
+    "region": "HP",
+    "publisherId": "HP7967"
   },
   {
     "titleId": "PPSA14328_00",
@@ -67185,6 +67225,14 @@
   },
   {
     "titleId": "PPSA18793_00",
+    "conceptId": 10007768,
+    "name": "TrinityS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18794_00",
     "conceptId": 10007768,
     "name": "TrinityS",
     "contentId": null,
