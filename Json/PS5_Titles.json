@@ -7288,6 +7288,14 @@
     "publisherId": "EP4837"
   },
   {
+    "titleId": "PPSA02964_00",
+    "conceptId": 10002382,
+    "name": "I Saw Black Clouds",
+    "contentId": "EP4459-PPSA02964_00-ISAWBLACKCLOUDS0",
+    "region": "EP",
+    "publisherId": "EP4459"
+  },
+  {
     "titleId": "PPSA02965_00",
     "conceptId": 233393,
     "name": "Maid of Sker",
@@ -24259,7 +24267,7 @@
     "titleId": "PPSA06417_00",
     "conceptId": 10004448,
     "name": "Wizard with a Gun",
-    "contentId": null,
+    "contentId": "EP3643-PPSA06417_00-3177834950895077",
     "region": "EP",
     "publisherId": "EP3643"
   },
@@ -27928,6 +27936,14 @@
     "publisherId": "EP3717"
   },
   {
+    "titleId": "PPSA07123_00",
+    "conceptId": 10004810,
+    "name": "Ape Academy",
+    "contentId": "UP9000-PPSA07123_00-UCUS986190000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA07135_00",
     "conceptId": 10004813,
     "name": "Super Stardust Portable",
@@ -30830,6 +30846,14 @@
     "contentId": "EP0700-PPSA07704_00-SLUS002130000000",
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA07710_00",
+    "conceptId": 10005102,
+    "name": "Soulcalibur: Broken Destiny",
+    "contentId": "HP0700-PPSA07710_00-ULJS002020000000",
+    "region": "HP",
+    "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA07717_00",
@@ -39848,6 +39872,14 @@
     "publisherId": "UP7237"
   },
   {
+    "titleId": "PPSA09371_00",
+    "conceptId": 10001609,
+    "name": "Suicide Squad: Kill the Justice League",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09372_00",
     "conceptId": 10004303,
     "name": "Colossal Cave",
@@ -42330,8 +42362,8 @@
   {
     "titleId": "PPSA09850_00",
     "conceptId": 10006027,
-    "name": "Overpass 2 - Standard Edition (Pre-order)",
-    "contentId": null,
+    "name": "Overpass 2",
+    "contentId": "UP6665-PPSA09850_00-OP20000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -44321,6 +44353,14 @@
   },
   {
     "titleId": "PPSA10205_00",
+    "conceptId": 10006042,
+    "name": "A Perfect Day",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10209_00",
     "conceptId": 10006042,
     "name": "A Perfect Day",
     "contentId": null,
@@ -49075,9 +49115,9 @@
     "titleId": "PPSA11039_00",
     "conceptId": 10002377,
     "name": "The Caligula Effect 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1063-PPSA11039_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA11040_00",
@@ -52766,6 +52806,14 @@
     "contentId": "EP8916-PPSA12665_00-LUNARK0PS50EU000",
     "region": "EP",
     "publisherId": "EP8916"
+  },
+  {
+    "titleId": "PPSA12671_00",
+    "conceptId": 10006973,
+    "name": "Ball Jumper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12761_00",
@@ -59539,9 +59587,9 @@
     "titleId": "PPSA15399_00",
     "conceptId": 10007964,
     "name": "Box To The Beat VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6406-PPSA15399_00-0627616670876510",
+    "region": "UP",
+    "publisherId": "UP6406"
   },
   {
     "titleId": "PPSA15400_00",
@@ -60122,10 +60170,10 @@
   {
     "titleId": "PPSA15536_00",
     "conceptId": 10008043,
-    "name": "Skull Island: Rise of Kong",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RISE of KONG",
+    "contentId": "UP0283-PPSA15536_00-0610992683510571",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA15537_00",
@@ -61387,9 +61435,9 @@
     "titleId": "PPSA15910_00",
     "conceptId": 10008168,
     "name": "Tennis On-Court",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA15910_00-0000000000TENNIS",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA15911_00",
@@ -61403,14 +61451,46 @@
     "titleId": "PPSA15912_00",
     "conceptId": 10008168,
     "name": "Tennis On-Court",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3631-PPSA15912_00-0000000000TENNIS",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA15913_00",
     "conceptId": 10008168,
     "name": "Tennis On-Court",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15914_00",
+    "conceptId": 10008171,
+    "name": "Fusion Paradox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15915_00",
+    "conceptId": 10008171,
+    "name": "Fusion Paradox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15916_00",
+    "conceptId": 10008171,
+    "name": "Fusion Paradox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15917_00",
+    "conceptId": 10008171,
+    "name": "Fusion Paradox",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -62499,17 +62579,17 @@
     "titleId": "PPSA16222_00",
     "conceptId": 10008307,
     "name": "Ball laB II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA16222_00-BALLLABTWO000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA16223_00",
     "conceptId": 10008307,
     "name": "Ball laB II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA16223_00-BALLLABTWO000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA16228_00",
@@ -64528,6 +64608,22 @@
     "publisherId": "HP8474"
   },
   {
+    "titleId": "PPSA16883_00",
+    "conceptId": 10008238,
+    "name": "Skateboard Drifting with Maxwell Cat: The Game",
+    "contentId": "UP6327-PPSA16883_00-0484861466998949",
+    "region": "UP",
+    "publisherId": "UP6327"
+  },
+  {
+    "titleId": "PPSA16884_00",
+    "conceptId": 10008238,
+    "name": "Skateboard Drifting with Maxwell Cat: The Game",
+    "contentId": "EP6326-PPSA16884_00-0461606150576211",
+    "region": "EP",
+    "publisherId": "EP6326"
+  },
+  {
     "titleId": "PPSA16887_00",
     "conceptId": 10008440,
     "name": "Mage & Monsters",
@@ -65010,26 +65106,26 @@
   {
     "titleId": "PPSA17093_00",
     "conceptId": 10004658,
-    "name": "Sonic Superstars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SONIC SUPERSTARS Digital Art Book with Mini Digital Soundtrack",
+    "contentId": "UP0177-PPSA17093_00-SONICORIONDAS000",
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA17094_00",
     "conceptId": 10004658,
-    "name": "Sonic Superstars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SONIC SUPERSTARS Digital Art Book with Mini Digital Soundtrack",
+    "contentId": "EP0177-PPSA17094_00-SONICORIONDAS000",
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA17095_00",
     "conceptId": 10004658,
-    "name": "Sonic Superstars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SONIC SUPERSTARS \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af\uff06\u30c7\u30b8\u30bf\u30eb\u30df\u30cb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0177-PPSA17095_00-SONICORIONDAS000",
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA17104_00",
@@ -65155,9 +65251,9 @@
     "titleId": "PPSA17161_00",
     "conceptId": 10007964,
     "name": "Box To The Beat VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6405-PPSA17161_00-0295213980218714",
+    "region": "EP",
+    "publisherId": "EP6405"
   },
   {
     "titleId": "PPSA17162_00",
@@ -65898,10 +65994,10 @@
   {
     "titleId": "PPSA17567_00",
     "conceptId": 10007964,
-    "name": "Box To The Beat VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Box To The Beat VR Demo",
+    "contentId": "UP6406-PPSA17567_00-0143146863591416",
+    "region": "UP",
+    "publisherId": "UP6406"
   },
   {
     "titleId": "PPSA17568_00",
@@ -67462,6 +67558,14 @@
     "contentId": "HP2993-PPSA18872_00-GHOSTSIGNALDM110",
     "region": "HP",
     "publisherId": "HP2993"
+  },
+  {
+    "titleId": "PPSA18975_00",
+    "conceptId": 10008939,
+    "name": "TOKYO PSYCHODEMIC DEMO",
+    "contentId": "EP7600-PPSA18975_00-0867485786441187",
+    "region": "EP",
+    "publisherId": "EP7600"
   },
   {
     "titleId": "PPSA18998_00",
