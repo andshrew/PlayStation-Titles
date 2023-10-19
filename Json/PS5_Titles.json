@@ -23896,6 +23896,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA06352_00",
+    "conceptId": 10004412,
+    "name": "Kurushi Final: Mental Blocks",
+    "contentId": "UP9000-PPSA06352_00-SCES020090000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA06354_00",
     "conceptId": 10004412,
     "name": "I.Q Final",
@@ -24259,7 +24267,7 @@
     "titleId": "PPSA06416_00",
     "conceptId": 10004448,
     "name": "Wizard with a Gun",
-    "contentId": null,
+    "contentId": "UP3643-PPSA06416_00-7992194873723757",
     "region": "UP",
     "publisherId": "UP3643"
   },
@@ -26803,7 +26811,7 @@
     "titleId": "PPSA06889_00",
     "conceptId": 10004658,
     "name": "SONIC SUPERSTARS",
-    "contentId": null,
+    "contentId": "EP0177-PPSA06889_00-SONICORION000000",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -27942,6 +27950,14 @@
     "contentId": "UP9000-PPSA07123_00-UCUS986190000000",
     "region": "UP",
     "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA07126_00",
+    "conceptId": 10004810,
+    "name": "Ape Academy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07135_00",
@@ -29282,10 +29298,10 @@
   {
     "titleId": "PPSA07397_00",
     "conceptId": 10004946,
-    "name": "A Boy and His Blob: Retro Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "A Boy and his Blob Retro Collection",
+    "contentId": "UP6261-PPSA07397_00-2269912040644408",
+    "region": "UP",
+    "publisherId": "UP6261"
   },
   {
     "titleId": "PPSA07404_00",
@@ -30848,12 +30864,44 @@
     "publisherId": "EP0700"
   },
   {
+    "titleId": "PPSA07705_00",
+    "conceptId": 10005101,
+    "name": "\u9244\u62f36",
+    "contentId": "JP0700-PPSA07705_00-NPJH501840000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA07707_00",
+    "conceptId": 10005101,
+    "name": "Tekken 6",
+    "contentId": "UP0700-PPSA07707_00-ULUS104660000000",
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA07709_00",
+    "conceptId": 10005102,
+    "name": "\u30bd\u30a6\u30eb\u30ad\u30e3\u30ea\u30d0\u30fc \u30d6\u30ed\u30fc\u30af\u30f3\u30c7\u30b9\u30c6\u30a3\u30cb\u30fc",
+    "contentId": "JP0700-PPSA07709_00-ULJS002020000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA07710_00",
     "conceptId": 10005102,
     "name": "Soulcalibur: Broken Destiny",
     "contentId": "HP0700-PPSA07710_00-ULJS002020000000",
     "region": "HP",
     "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA07712_00",
+    "conceptId": 10005102,
+    "name": "Soulcalibur: Broken Destiny",
+    "contentId": "EP0700-PPSA07712_00-ULES012980000000",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA07717_00",
@@ -36088,6 +36136,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA08702_00",
+    "conceptId": 10005514,
+    "name": "Alpha Particle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08704_00",
     "conceptId": 10005028,
     "name": "Kingdom of Paradise",
@@ -39872,6 +39928,14 @@
     "publisherId": "UP7237"
   },
   {
+    "titleId": "PPSA09370_00",
+    "conceptId": 10001609,
+    "name": "Suicide Squad: Kill the Justice League",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09371_00",
     "conceptId": 10001609,
     "name": "Suicide Squad: Kill the Justice League",
@@ -42934,6 +42998,14 @@
     "contentId": "HP7695-PPSA09954_00-5717900892472751",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA09956_00",
+    "conceptId": 10006070,
+    "name": "Bluey: The Videogame",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09957_00",
@@ -52808,12 +52880,20 @@
     "publisherId": "EP8916"
   },
   {
+    "titleId": "PPSA12670_00",
+    "conceptId": 10006973,
+    "name": "Ball Jumper",
+    "contentId": "UP7335-PPSA12670_00-0069418337758562",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA12671_00",
     "conceptId": 10006973,
     "name": "Ball Jumper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA12671_00-0294374415676430",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA12761_00",
@@ -55336,6 +55416,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13780_00",
+    "conceptId": 10007341,
+    "name": "MailTime",
+    "contentId": "EP6704-PPSA13780_00-0431116301325230",
+    "region": "EP",
+    "publisherId": "EP6704"
+  },
+  {
+    "titleId": "PPSA13781_00",
+    "conceptId": 10007341,
+    "name": "MailTime",
+    "contentId": "JP6636-PPSA13781_00-0720851518937118",
+    "region": "JP",
+    "publisherId": "JP6636"
+  },
+  {
+    "titleId": "PPSA13782_00",
+    "conceptId": 10007341,
+    "name": "Mail Time",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13783_00",
     "conceptId": 10007345,
     "name": "Supraland Six Inches Under",
@@ -56187,17 +56291,17 @@
     "titleId": "PPSA13957_00",
     "conceptId": 10007443,
     "name": "Life of Delta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8923-PPSA13957_00-0047819075114219",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA13958_00",
     "conceptId": 10007443,
     "name": "Life of Delta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1440-PPSA13958_00-0915694740631830",
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA13960_00",
@@ -61443,9 +61547,9 @@
     "titleId": "PPSA15911_00",
     "conceptId": 10008168,
     "name": "Tennis On-Court",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA15911_00-0000000000TENNIS",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA15912_00",
@@ -61459,9 +61563,9 @@
     "titleId": "PPSA15913_00",
     "conceptId": 10008168,
     "name": "Tennis On-Court",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA15913_00-0000000000TENNIS",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA15914_00",
@@ -61606,6 +61710,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15938_00",
+    "conceptId": 10008176,
+    "name": "Hidden Cats in London",
+    "contentId": "JP6954-PPSA15938_00-0505733831222087",
+    "region": "JP",
+    "publisherId": "JP6954"
   },
   {
     "titleId": "PPSA15949_00",
@@ -63738,10 +63850,10 @@
   {
     "titleId": "PPSA16568_00",
     "conceptId": 10005462,
-    "name": "DRIFTCE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DriftCE",
+    "contentId": "JP0075-PPSA16568_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA16580_00",
@@ -64483,9 +64595,9 @@
     "titleId": "PPSA16825_00",
     "conceptId": 10008514,
     "name": "Harmony's Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7592-PPSA16825_00-HARMONYPS5EU0000",
+    "region": "EP",
+    "publisherId": "EP7592"
   },
   {
     "titleId": "PPSA16828_00",
@@ -65547,7 +65659,7 @@
     "titleId": "PPSA17347_00",
     "conceptId": 204305,
     "name": "Slender: The Arrival",
-    "contentId": null,
+    "contentId": "UP2205-PPSA17347_00-0375705504127191",
     "region": "UP",
     "publisherId": "UP2205"
   },
@@ -65555,7 +65667,7 @@
     "titleId": "PPSA17348_00",
     "conceptId": 204305,
     "name": "Slender: The Arrival",
-    "contentId": null,
+    "contentId": "EP8003-PPSA17348_00-0518850184764090",
     "region": "EP",
     "publisherId": "EP8003"
   },
@@ -65976,6 +66088,22 @@
     "publisherId": "JP7993"
   },
   {
+    "titleId": "PPSA17550_00",
+    "conceptId": 10008501,
+    "name": "VISCO Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17551_00",
+    "conceptId": 10008501,
+    "name": "VISCO Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17552_00",
     "conceptId": 10008782,
     "name": "\u7570\u4e16\u754c\u8f2a\u821e \uff5e\u5fa1\u793e\u3082\u7570\u4e16\u754c\u3082\u30d6\u30e9\u30c3\u30af\u306a\u306e\u3067\u3053\u3053\u304b\u3089\u5148\u306f\u30db\u30ef\u30a4\u30c8\u30e9\u30a4\u30d5\u3092\u76ee\u6307\u3057\u307e\u3059\uff01\uff5e",
@@ -66002,10 +66130,10 @@
   {
     "titleId": "PPSA17568_00",
     "conceptId": 10007964,
-    "name": "Box To The Beat VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Box To The Beat VR Demo",
+    "contentId": "EP6405-PPSA17568_00-0233140649287378",
+    "region": "EP",
+    "publisherId": "EP6405"
   },
   {
     "titleId": "PPSA17591_00",
@@ -67248,6 +67376,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18587_00",
+    "conceptId": 10009232,
+    "name": "Finis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18588_00",
+    "conceptId": 10009232,
+    "name": "Finis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18610_00",
     "conceptId": 10009207,
     "name": "SteampunkVoyage",
@@ -67560,12 +67704,28 @@
     "publisherId": "HP2993"
   },
   {
+    "titleId": "PPSA18974_00",
+    "conceptId": 10008939,
+    "name": "TOKYO PSYCHODEMIC DEMO",
+    "contentId": "UP7602-PPSA18974_00-0075677242999072",
+    "region": "UP",
+    "publisherId": "UP7602"
+  },
+  {
     "titleId": "PPSA18975_00",
     "conceptId": 10008939,
     "name": "TOKYO PSYCHODEMIC DEMO",
     "contentId": "EP7600-PPSA18975_00-0867485786441187",
     "region": "EP",
     "publisherId": "EP7600"
+  },
+  {
+    "titleId": "PPSA18976_00",
+    "conceptId": 10008939,
+    "name": "TOKYO PSYCHODEMIC DEMO",
+    "contentId": "HP7629-PPSA18976_00-0559845845510979",
+    "region": "HP",
+    "publisherId": "HP7629"
   },
   {
     "titleId": "PPSA18998_00",
