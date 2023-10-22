@@ -27579,7 +27579,7 @@
     "titleId": "PPSA07044_00",
     "conceptId": 10004776,
     "name": "Agatha Christie - Murder on the Orient Express",
-    "contentId": null,
+    "contentId": "UP1475-PPSA07044_00-AGATHACOEPS500US",
     "region": "UP",
     "publisherId": "UP1475"
   },
@@ -34114,8 +34114,8 @@
   {
     "titleId": "PPSA08338_00",
     "conceptId": 10002456,
-    "name": "Marvel\u2019s Spider-Man 2",
-    "contentId": null,
+    "name": "Marvel's Spider-Man 2",
+    "contentId": "EP9000-PPSA08338_00-MARVELSPIDERMAN2",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -34130,8 +34130,8 @@
   {
     "titleId": "PPSA08340_00",
     "conceptId": 10002456,
-    "name": "Marvel\u2019s Spider-Man 2",
-    "contentId": null,
+    "name": "Marvel's Spider-Man 2",
+    "contentId": "HP9000-PPSA08340_00-MARVELSPIDERMAN2",
     "region": "HP",
     "publisherId": "HP9000"
   },
@@ -49259,9 +49259,9 @@
     "titleId": "PPSA11040_00",
     "conceptId": 10002377,
     "name": "The Caligula Effect 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA11040_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA11042_00",
@@ -58720,6 +58720,14 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA14667_00",
+    "conceptId": 10003763,
+    "name": "Predecessor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14668_00",
     "conceptId": 10004960,
     "name": "Melon Journey: Bittersweet Memories",
@@ -59384,6 +59392,22 @@
     "publisherId": "HP8551"
   },
   {
+    "titleId": "PPSA15290_00",
+    "conceptId": 10007937,
+    "name": "I Love Finding Birds",
+    "contentId": "EP1411-PPSA15290_00-0986589767455815",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA15292_00",
+    "conceptId": 10007937,
+    "name": "I Love Finding Birds",
+    "contentId": "UP1421-PPSA15292_00-0347788969244929",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA15293_00",
     "conceptId": 10007932,
     "name": "Mighty Mage",
@@ -59497,6 +59521,14 @@
   },
   {
     "titleId": "PPSA15316_00",
+    "conceptId": 217373,
+    "name": "UNO\u00ae",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15317_00",
     "conceptId": 217373,
     "name": "UNO\u00ae",
     "contentId": null,
@@ -63342,6 +63374,14 @@
     "contentId": "EP4977-PPSA16393_00-0914930957454001",
     "region": "EP",
     "publisherId": "EP4977"
+  },
+  {
+    "titleId": "PPSA16398_00",
+    "conceptId": 10008018,
+    "name": "Journey to Foundation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16402_00",
@@ -67270,6 +67310,14 @@
     "contentId": "UP1421-PPSA18233_00-0459486718293149",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA18238_00",
+    "conceptId": 10009096,
+    "name": "Zumba Garden",
+    "contentId": "EP1411-PPSA18238_00-0443150123751183",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA18242_00",
