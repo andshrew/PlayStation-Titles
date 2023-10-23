@@ -18064,6 +18064,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA05199_00",
+    "conceptId": 10003763,
+    "name": "Predecessor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05201_00",
     "conceptId": 10003733,
     "name": "Stray Blade",
@@ -63251,33 +63259,33 @@
     "titleId": "PPSA16363_00",
     "conceptId": 10008351,
     "name": "ShapeNeon Chaos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA16363_00-0028014386791211",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA16364_00",
     "conceptId": 10008351,
     "name": "ShapeNeon Chaos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA16364_00-0463015827184775",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA16365_00",
     "conceptId": 10008351,
     "name": "ShapeNeon Chaos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA16365_00-0007148955736426",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA16366_00",
     "conceptId": 10008351,
     "name": "ShapeNeon Chaos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA16366_00-0346349469000228",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA16368_00",
