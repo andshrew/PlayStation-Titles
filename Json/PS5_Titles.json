@@ -51112,6 +51112,14 @@
     "publisherId": "UP7335"
   },
   {
+    "titleId": "PPSA11357_00",
+    "conceptId": 10006547,
+    "name": "Hotline Miami 2: Wrong Number",
+    "contentId": "EP3643-PPSA11357_00-000HOTLINEMIAMI2",
+    "region": "EP",
+    "publisherId": "EP3643"
+  },
+  {
     "titleId": "PPSA11358_00",
     "conceptId": 10006552,
     "name": "Zen Pong",
@@ -58098,8 +58106,8 @@
   {
     "titleId": "PPSA14362_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
-    "contentId": null,
+    "name": "METAL GEAR SOLID (MASTER COLLECTION\u7248)",
+    "contentId": "JP0101-PPSA14362_00-METALGEARSOLID01",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -58234,10 +58242,10 @@
   {
     "titleId": "PPSA14394_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID 2 SONS OF LIBERTY (MASTER COLLECTION\u7248)",
+    "contentId": "JP0101-PPSA14394_00-METALGEARSOLID02",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA14396_00",
@@ -58258,10 +58266,10 @@
   {
     "titleId": "PPSA14403_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID 3 SNAKE EATER (MASTER COLLECTION\u7248)",
+    "contentId": "JP0101-PPSA14403_00-METALGEARSOLID03",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA14404_00",
@@ -58282,10 +58290,10 @@
   {
     "titleId": "PPSA14406_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR & METAL GEAR 2 SOLID SNAKE",
+    "contentId": "JP0101-PPSA14406_00-METALGEAR1AND2PS",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA14407_00",
@@ -61466,34 +61474,34 @@
   {
     "titleId": "PPSA15853_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
-    "contentId": null,
+    "name": "METAL GEAR SOLID - Master Collection Version",
+    "contentId": "HP0101-PPSA15853_00-METALGEARSOLID01",
     "region": "HP",
     "publisherId": "HP0101"
   },
   {
     "titleId": "PPSA15854_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+    "contentId": "HP0101-PPSA15854_00-METALGEARSOLID02",
+    "region": "HP",
+    "publisherId": "HP0101"
   },
   {
     "titleId": "PPSA15855_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+    "contentId": "HP0101-PPSA15855_00-METALGEARSOLID03",
+    "region": "HP",
+    "publisherId": "HP0101"
   },
   {
     "titleId": "PPSA15856_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Metal Gear & Metal Gear 2: Solid Snake",
+    "contentId": "HP0101-PPSA15856_00-METALGEAR1AND2PS",
+    "region": "HP",
+    "publisherId": "HP0101"
   },
   {
     "titleId": "PPSA15867_00",
@@ -62978,10 +62986,10 @@
   {
     "titleId": "PPSA16255_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT",
+    "contentId": "JP0101-PPSA16255_00-MGSBONUSCONTENTS",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA16256_00",
@@ -63002,10 +63010,10 @@
   {
     "titleId": "PPSA16258_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT",
+    "contentId": "HP0101-PPSA16258_00-MGSBONUSCONTENTS",
+    "region": "HP",
+    "publisherId": "HP0101"
   },
   {
     "titleId": "PPSA16265_00",
@@ -63384,7 +63392,47 @@
     "publisherId": "EP4977"
   },
   {
+    "titleId": "PPSA16394_00",
+    "conceptId": 10005683,
+    "name": "Gangs of Sherwood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16395_00",
+    "conceptId": 10005683,
+    "name": "Gangs of Sherwood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16396_00",
+    "conceptId": 10005683,
+    "name": "Gangs of Sherwood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16397_00",
+    "conceptId": 10005683,
+    "name": "Gangs of Sherwood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16398_00",
+    "conceptId": 10008018,
+    "name": "Journey to Foundation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16399_00",
     "conceptId": 10008018,
     "name": "Journey to Foundation",
     "contentId": null,
@@ -63890,26 +63938,26 @@
   {
     "titleId": "PPSA16525_00",
     "conceptId": 10003866,
-    "name": "SpongeBob SquarePants: The Cosmic Shake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b9\u30dd\u30f3\u30b8\u30fb\u30dc\u30d6\uff1a\u30b6 \u30b3\u30ba\u30df\u30c3\u30af \u30b7\u30a7\u30a4\u30af",
+    "contentId": "JP2880-PPSA16525_00-THECOSMICSHAKPS5",
+    "region": "JP",
+    "publisherId": "JP2880"
   },
   {
     "titleId": "PPSA16526_00",
     "conceptId": 10003866,
     "name": "SpongeBob SquarePants: The Cosmic Shake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4389-PPSA16526_00-THECOSMICSHAKPS5",
+    "region": "UP",
+    "publisherId": "UP4389"
   },
   {
     "titleId": "PPSA16527_00",
     "conceptId": 10003866,
     "name": "SpongeBob SquarePants: The Cosmic Shake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4389-PPSA16527_00-THECOSMICSHAKPS5",
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA16528_00",
@@ -65766,6 +65814,38 @@
     "contentId": "EP0182-PPSA17195_00-9956097023502852",
     "region": "EP",
     "publisherId": "EP0182"
+  },
+  {
+    "titleId": "PPSA17196_00",
+    "conceptId": 10008697,
+    "name": "Shield King",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17197_00",
+    "conceptId": 10008697,
+    "name": "Shield King",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17198_00",
+    "conceptId": 10008697,
+    "name": "Shield King",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17199_00",
+    "conceptId": 10008697,
+    "name": "Shield King",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17206_00",
