@@ -27640,6 +27640,14 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA07056_00",
+    "conceptId": 234471,
+    "name": "Coffee Talk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07058_00",
     "conceptId": 10004778,
     "name": "Final Vendetta",
@@ -39832,6 +39840,14 @@
     "publisherId": "HP4578"
   },
   {
+    "titleId": "PPSA09349_00",
+    "conceptId": 10005788,
+    "name": "Spells and Secrets",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09350_00",
     "conceptId": 10005440,
     "name": "AEW: Fight Forever",
@@ -41630,6 +41646,22 @@
     "contentId": "UP1219-PPSA09681_00-CROSSFIRE0000001",
     "region": "UP",
     "publisherId": "UP1219"
+  },
+  {
+    "titleId": "PPSA09682_00",
+    "conceptId": 10005940,
+    "name": "Hotline Miami",
+    "contentId": "UP3643-PPSA09682_00-000HOTLINEMIAMI1",
+    "region": "UP",
+    "publisherId": "UP3643"
+  },
+  {
+    "titleId": "PPSA09683_00",
+    "conceptId": 10005940,
+    "name": "Hotline Miami",
+    "contentId": "EP3643-PPSA09683_00-000HOTLINEMIAMI1",
+    "region": "EP",
+    "publisherId": "EP3643"
   },
   {
     "titleId": "PPSA09684_00",
@@ -51104,6 +51136,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA11355_00",
+    "conceptId": 10006547,
+    "name": "Hotline Miami 2: Wrong Number",
+    "contentId": "UP3643-PPSA11355_00-000HOTLINEMIAMI2",
+    "region": "UP",
+    "publisherId": "UP3643"
+  },
+  {
     "titleId": "PPSA11356_00",
     "conceptId": 10006552,
     "name": "Zen Pong",
@@ -53931,7 +53971,7 @@
     "titleId": "PPSA13421_00",
     "conceptId": 10003186,
     "name": "Archetype Arcadia",
-    "contentId": null,
+    "contentId": "UP4293-PPSA13421_00-AARCADIA0SIEAPS5",
     "region": "UP",
     "publisherId": "UP4293"
   },
@@ -53939,7 +53979,7 @@
     "titleId": "PPSA13422_00",
     "conceptId": 10003186,
     "name": "Archetype Arcadia",
-    "contentId": null,
+    "contentId": "EP4293-PPSA13422_00-AARCADIA0SIEEPS5",
     "region": "EP",
     "publisherId": "EP4293"
   },
@@ -58114,16 +58154,16 @@
   {
     "titleId": "PPSA14363_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
-    "contentId": null,
+    "name": "METAL GEAR SOLID - Master Collection Version",
+    "contentId": "UP0101-PPSA14363_00-METALGEARSOLID01",
     "region": "UP",
     "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA14364_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
-    "contentId": null,
+    "name": "METAL GEAR SOLID - Master Collection Version",
+    "contentId": "EP0101-PPSA14364_00-METALGEARSOLID01",
     "region": "EP",
     "publisherId": "EP0101"
   },
@@ -58250,18 +58290,18 @@
   {
     "titleId": "PPSA14396_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+    "contentId": "UP0101-PPSA14396_00-METALGEARSOLID02",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA14399_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+    "contentId": "EP0101-PPSA14399_00-METALGEARSOLID02",
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA14403_00",
@@ -58274,18 +58314,18 @@
   {
     "titleId": "PPSA14404_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+    "contentId": "UP0101-PPSA14404_00-METALGEARSOLID03",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA14405_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+    "contentId": "EP0101-PPSA14405_00-METALGEARSOLID03",
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA14406_00",
@@ -58298,18 +58338,18 @@
   {
     "titleId": "PPSA14407_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Metal Gear & Metal Gear 2: Solid Snake",
+    "contentId": "UP0101-PPSA14407_00-METALGEAR1AND2PS",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA14408_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Metal Gear & Metal Gear 2: Solid Snake",
+    "contentId": "EP0101-PPSA14408_00-METALGEAR1AND2PS",
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA14409_00",
@@ -58379,9 +58419,9 @@
     "titleId": "PPSA14427_00",
     "conceptId": 10007151,
     "name": "CRYMACHINA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1063-PPSA14427_00-CRYMACHINAGAME00",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA14428_00",
@@ -61371,17 +61411,17 @@
     "titleId": "PPSA15836_00",
     "conceptId": 10008086,
     "name": "Pickleball Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0283-PPSA15836_00-0658692497408213",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA15837_00",
     "conceptId": 10008086,
     "name": "Pickleball Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0281-PPSA15837_00-0763289106187691",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA15838_00",
@@ -62994,18 +63034,18 @@
   {
     "titleId": "PPSA16256_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT",
+    "contentId": "UP0101-PPSA16256_00-MGSBONUSCONTENTS",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA16257_00",
     "conceptId": 10007607,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT",
+    "contentId": "EP0101-PPSA16257_00-MGSBONUSCONTENTS",
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA16258_00",
@@ -66707,17 +66747,17 @@
     "titleId": "PPSA17748_00",
     "conceptId": 10008906,
     "name": "Swapshot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA17748_00-SWAPSHOT00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17749_00",
     "conceptId": 10008906,
     "name": "Swapshot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17749_00-SWAPSHOT00000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17761_00",
@@ -66726,6 +66766,14 @@
     "contentId": "HP1792-PPSA17761_00-SYPS5POTATAFAIRY",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA17763_00",
+    "conceptId": 10008216,
+    "name": "The Forest Cathedral",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17778_00",
@@ -67006,6 +67054,22 @@
     "contentId": "UP1475-PPSA17899_00-WARMSNOWPS5000US",
     "region": "UP",
     "publisherId": "UP1475"
+  },
+  {
+    "titleId": "PPSA17900_00",
+    "conceptId": 10008976,
+    "name": "Excessive Trim",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17901_00",
+    "conceptId": 10008976,
+    "name": "Excessive Trim",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17903_00",
@@ -67488,6 +67552,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18322_00",
+    "conceptId": 10009128,
+    "name": "Lily in Puzzle World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18323_00",
+    "conceptId": 10009128,
+    "name": "Lily in Puzzle World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18330_00",
     "conceptId": 10009079,
     "name": "Legions",
@@ -67520,12 +67600,20 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA18361_00",
+    "conceptId": 10008069,
+    "name": "Lost Eidolons Artbook",
+    "contentId": "UP1309-PPSA18361_00-LOSTEIDARTSIEA00",
+    "region": "UP",
+    "publisherId": "UP1309"
+  },
+  {
     "titleId": "PPSA18362_00",
     "conceptId": 10008069,
-    "name": "Lost Eidolons",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lost Eidolons Artbook",
+    "contentId": "EP1302-PPSA18362_00-LOSTEIDARTSIEE00",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA18369_00",
@@ -67603,9 +67691,9 @@
     "titleId": "PPSA18397_00",
     "conceptId": 10007658,
     "name": "Kittengumi: The Sakabato's Thief",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0957-PPSA18397_00-0326951068012275",
+    "region": "HP",
+    "publisherId": "HP0957"
   },
   {
     "titleId": "PPSA18412_00",
