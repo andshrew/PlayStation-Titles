@@ -9994,8 +9994,8 @@
   {
     "titleId": "PPSA03541_00",
     "conceptId": 10002788,
-    "name": "UFC\u00ae 5",
-    "contentId": null,
+    "name": "EA SPORTS\u2122 UFC\u00ae 5",
+    "contentId": "EP0006-PPSA03541_00-EASPORTSUFC5GAME",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -22096,6 +22096,14 @@
     "publisherId": "UP0101"
   },
   {
+    "titleId": "PPSA05988_00",
+    "conceptId": 10004229,
+    "name": "SUPER CRAZY RHYTHM CASTLE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05989_00",
     "conceptId": 10004229,
     "name": "SUPER CRAZY RHYTHM CASTLE",
@@ -23670,6 +23678,22 @@
     "contentId": "UP7171-PPSA06288_00-2867636400092274",
     "region": "UP",
     "publisherId": "UP7171"
+  },
+  {
+    "titleId": "PPSA06289_00",
+    "conceptId": 10003748,
+    "name": "Calico",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06290_00",
+    "conceptId": 10003748,
+    "name": "Calico",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06291_00",
@@ -25323,17 +25347,25 @@
     "titleId": "PPSA06617_00",
     "conceptId": 10004552,
     "name": "Frog Detective: The Entire Mystery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7604-PPSA06617_00-ZZZZZZZZZZZZZZZZ",
+    "region": "EP",
+    "publisherId": "EP7604"
+  },
+  {
+    "titleId": "PPSA06618_00",
+    "conceptId": 10004552,
+    "name": "Frog Detective: The Entire Mystery",
+    "contentId": "UP7606-PPSA06618_00-ZZZZZZZZZZZZZZZZ",
+    "region": "UP",
+    "publisherId": "UP7606"
   },
   {
     "titleId": "PPSA06619_00",
     "conceptId": 10004552,
     "name": "Frog Detective: The Entire Mystery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7587-PPSA06619_00-ZZZZZZZZZZZZZZZZ",
+    "region": "JP",
+    "publisherId": "JP7587"
   },
   {
     "titleId": "PPSA06620_00",
@@ -39840,6 +39872,14 @@
     "publisherId": "HP4578"
   },
   {
+    "titleId": "PPSA09348_00",
+    "conceptId": 10005788,
+    "name": "Spells and Secrets",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09349_00",
     "conceptId": 10005788,
     "name": "Spells and Secrets",
@@ -42787,7 +42827,7 @@
     "titleId": "PPSA09911_00",
     "conceptId": 10005977,
     "name": "Ghostrunner 2",
-    "contentId": null,
+    "contentId": "UP4040-PPSA09911_00-GHOSTRUNNER2US00",
     "region": "UP",
     "publisherId": "UP4040"
   },
@@ -42795,7 +42835,7 @@
     "titleId": "PPSA09912_00",
     "conceptId": 10005977,
     "name": "Ghostrunner 2",
-    "contentId": null,
+    "contentId": "EP4040-PPSA09912_00-GHOSTRUNNER2EU00",
     "region": "EP",
     "publisherId": "EP4040"
   },
@@ -44531,17 +44571,17 @@
     "titleId": "PPSA10205_00",
     "conceptId": 10006042,
     "name": "A Perfect Day",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4223-PPSA10205_00-6648789013427507",
+    "region": "UP",
+    "publisherId": "UP4223"
   },
   {
     "titleId": "PPSA10209_00",
     "conceptId": 10006042,
     "name": "A Perfect Day",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3970-PPSA10209_00-8662575232160468",
+    "region": "EP",
+    "publisherId": "EP3970"
   },
   {
     "titleId": "PPSA10211_00",
@@ -44854,6 +44894,22 @@
     "contentId": "HP7354-PPSA10257_00-6499480527426236",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA10259_00",
+    "conceptId": 234701,
+    "name": "Barton Lynch Pro Surfing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10260_00",
+    "conceptId": 234701,
+    "name": "Barton Lynch Pro Surfing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10261_00",
@@ -51392,6 +51448,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11428_00",
+    "conceptId": 10006578,
+    "name": "Rocket Lift",
+    "contentId": "JP7309-PPSA11428_00-5781875023354708",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11429_00",
+    "conceptId": 10006578,
+    "name": "Rocket Lift",
+    "contentId": "HP7354-PPSA11429_00-5525324755731058",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA11430_00",
     "conceptId": 10006579,
     "name": "Hit the Color",
@@ -53587,7 +53659,7 @@
     "titleId": "PPSA13332_00",
     "conceptId": 10007130,
     "name": "Ghostbusters: Rise of the Ghost Lord",
-    "contentId": null,
+    "contentId": "EP3295-PPSA13332_00-0251542033116560",
     "region": "EP",
     "publisherId": "EP3295"
   },
@@ -53595,7 +53667,7 @@
     "titleId": "PPSA13333_00",
     "conceptId": 10007130,
     "name": "Ghostbusters: Rise of the Ghost Lord",
-    "contentId": null,
+    "contentId": "UP8825-PPSA13333_00-0569954193530522",
     "region": "UP",
     "publisherId": "UP8825"
   },
@@ -53603,7 +53675,7 @@
     "titleId": "PPSA13334_00",
     "conceptId": 10007130,
     "name": "Ghostbusters: Rise of the Ghost Lord",
-    "contentId": null,
+    "contentId": "JA0022-PPSA13334_00-0508599290242690",
     "region": "JA",
     "publisherId": "JA0022"
   },
@@ -53611,7 +53683,7 @@
     "titleId": "PPSA13335_00",
     "conceptId": 10007130,
     "name": "Ghostbusters: Rise of the Ghost Lord",
-    "contentId": null,
+    "contentId": "HP3384-PPSA13335_00-0714595322119373",
     "region": "HP",
     "publisherId": "HP3384"
   },
@@ -54850,18 +54922,18 @@
   {
     "titleId": "PPSA13624_00",
     "conceptId": 10007273,
-    "name": "DreamWorks Trolls Remix Rescue",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trolls: Remix Rescue",
+    "contentId": "UP0283-PPSA13624_00-TROLLSBASEGAME00",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA13625_00",
     "conceptId": 10007273,
-    "name": "DreamWorks Trolls Remix Rescue",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trolls: Remix Rescue",
+    "contentId": "EP0281-PPSA13625_00-TROLLSBASEGAME00",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA13628_00",
@@ -55763,7 +55835,7 @@
     "titleId": "PPSA13818_00",
     "conceptId": 10005977,
     "name": "Ghostrunner 2",
-    "contentId": null,
+    "contentId": "JP0114-PPSA13818_00-GHOSTRUNNER2JP00",
     "region": "JP",
     "publisherId": "JP0114"
   },
@@ -56240,6 +56312,14 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA13919_00",
+    "conceptId": 10006081,
+    "name": "Barbaria",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13921_00",
     "conceptId": 10007328,
     "name": "SOULVARS",
@@ -56302,6 +56382,14 @@
     "contentId": "UP1309-PPSA13935_00-0832639392306271",
     "region": "UP",
     "publisherId": "UP1309"
+  },
+  {
+    "titleId": "PPSA13936_00",
+    "conceptId": 10006081,
+    "name": "Barbaria",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13937_00",
@@ -58403,17 +58491,17 @@
     "titleId": "PPSA14425_00",
     "conceptId": 229969,
     "name": "Mineko's Night Market",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3864-PPSA14425_00-MINEKOPS5NA00000",
+    "region": "UP",
+    "publisherId": "UP3864"
   },
   {
     "titleId": "PPSA14426_00",
     "conceptId": 229969,
     "name": "Mineko's Night Market",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3717-PPSA14426_00-MINEKOPS5EU00000",
+    "region": "EP",
+    "publisherId": "EP3717"
   },
   {
     "titleId": "PPSA14427_00",
@@ -58427,9 +58515,9 @@
     "titleId": "PPSA14428_00",
     "conceptId": 10007151,
     "name": "CRYMACHINA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA14428_00-CRYMACHINAGAME00",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA14429_00",
@@ -59216,6 +59304,22 @@
     "publisherId": "EP1063"
   },
   {
+    "titleId": "PPSA15181_00",
+    "conceptId": 10006860,
+    "name": "Paintball 3 - Candy Match Factory",
+    "contentId": "UP1715-PPSA15181_00-0666230690091105",
+    "region": "UP",
+    "publisherId": "UP1715"
+  },
+  {
+    "titleId": "PPSA15182_00",
+    "conceptId": 10006860,
+    "name": "Paintball 3 - Candy Match Factory",
+    "contentId": "EP1703-PPSA15182_00-0105898678682262",
+    "region": "EP",
+    "publisherId": "EP1703"
+  },
+  {
     "titleId": "PPSA15189_00",
     "conceptId": 10006958,
     "name": "Nock",
@@ -59358,6 +59462,22 @@
     "contentId": "EP7562-PPSA15239_00-0396466883843847",
     "region": "EP",
     "publisherId": "EP7562"
+  },
+  {
+    "titleId": "PPSA15246_00",
+    "conceptId": 10007904,
+    "name": "Teardown",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15247_00",
+    "conceptId": 10007904,
+    "name": "Teardown",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15255_00",
@@ -59558,6 +59678,14 @@
     "contentId": "UP7579-PPSA15310_00-0037594607376451",
     "region": "UP",
     "publisherId": "UP7579"
+  },
+  {
+    "titleId": "PPSA15311_00",
+    "conceptId": 10005674,
+    "name": "Valthirian Arc: Hero School Story 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15313_00",
@@ -60787,17 +60915,17 @@
     "titleId": "PPSA15640_00",
     "conceptId": 10004938,
     "name": "Stray Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0134-PPSA15640_00-STRAYSOULS000000",
+    "region": "UP",
+    "publisherId": "UP0134"
   },
   {
     "titleId": "PPSA15641_00",
     "conceptId": 10004938,
     "name": "Stray Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0131-PPSA15641_00-STRAYSOULS000000",
+    "region": "EP",
+    "publisherId": "EP0131"
   },
   {
     "titleId": "PPSA15648_00",
@@ -62011,33 +62139,33 @@
     "titleId": "PPSA15979_00",
     "conceptId": 10008196,
     "name": "Hero Survival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA15979_00-SYPS5HEROSURVIVA",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA15980_00",
     "conceptId": 10008196,
     "name": "Hero Survival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA15980_00-SYPS5HEROSURVIVA",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA15981_00",
     "conceptId": 10008196,
     "name": "Hero Survival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1932-PPSA15981_00-SYPS5HEROSURVIVA",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA15982_00",
     "conceptId": 10008196,
     "name": "Hero Survival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP1792-PPSA15982_00-SYPS5HEROSURVIVA",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA15983_00",
@@ -62238,6 +62366,14 @@
     "contentId": "JP6421-PPSA16029_00-0331559264099244",
     "region": "JP",
     "publisherId": "JP6421"
+  },
+  {
+    "titleId": "PPSA16035_00",
+    "conceptId": 10008216,
+    "name": "The Forest Cathedral",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16046_00",
@@ -63403,17 +63539,17 @@
     "titleId": "PPSA16390_00",
     "conceptId": 10008358,
     "name": "Animal Kart Racer 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA16390_00-ANIMALKART2PS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA16391_00",
     "conceptId": 10008358,
     "name": "Animal Kart Racer 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3165-PPSA16391_00-ANIMALKART2PS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA16392_00",
@@ -63467,17 +63603,33 @@
     "titleId": "PPSA16398_00",
     "conceptId": 10008018,
     "name": "Journey to Foundation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1264-PPSA16398_00-RADIANT010000000",
+    "region": "UP",
+    "publisherId": "UP1264"
   },
   {
     "titleId": "PPSA16399_00",
     "conceptId": 10008018,
     "name": "Journey to Foundation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1258-PPSA16399_00-0495253609243459",
+    "region": "EP",
+    "publisherId": "EP1258"
+  },
+  {
+    "titleId": "PPSA16400_00",
+    "conceptId": 10008018,
+    "name": "Journey to Foundation",
+    "contentId": "JP1532-PPSA16400_00-0227884686112442",
+    "region": "JP",
+    "publisherId": "JP1532"
+  },
+  {
+    "titleId": "PPSA16401_00",
+    "conceptId": 10008018,
+    "name": "Journey to Foundation",
+    "contentId": "HP1394-PPSA16401_00-0296682947908371",
+    "region": "HP",
+    "publisherId": "HP1394"
   },
   {
     "titleId": "PPSA16402_00",
@@ -63707,17 +63859,17 @@
     "titleId": "PPSA16442_00",
     "conceptId": 10008372,
     "name": "Strategic Mind: Spirit of Liberty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4713-PPSA16442_00-SPIRITOFLIBERTY0",
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA16443_00",
     "conceptId": 10008372,
     "name": "Strategic Mind: Spirit of Liberty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4886-PPSA16443_00-SPIRITOFLIBERTY0",
+    "region": "EP",
+    "publisherId": "EP4886"
   },
   {
     "titleId": "PPSA16448_00",
@@ -63843,17 +63995,17 @@
     "titleId": "PPSA16478_00",
     "conceptId": 10008382,
     "name": "DESOLATIUM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4541-PPSA16478_00-DESOLATIUMEU0000",
+    "region": "EP",
+    "publisherId": "EP4541"
   },
   {
     "titleId": "PPSA16479_00",
     "conceptId": 10008382,
     "name": "DESOLATIUM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1470-PPSA16479_00-DESOLATIUMUS0000",
+    "region": "UP",
+    "publisherId": "UP1470"
   },
   {
     "titleId": "PPSA16488_00",
@@ -64003,17 +64155,17 @@
     "titleId": "PPSA16528_00",
     "conceptId": 10008411,
     "name": "Alive Paint",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA16528_00-ALIVEPAINT000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA16529_00",
     "conceptId": 10008411,
     "name": "Alive Paint",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA16529_00-ALIVEPAINT000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA16538_00",
@@ -64428,16 +64580,16 @@
     "conceptId": 10008469,
     "name": "Worldless",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP2680"
   },
   {
     "titleId": "PPSA16666_00",
     "conceptId": 10008469,
     "name": "Worldless",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP5360"
   },
   {
     "titleId": "PPSA16667_00",
@@ -64451,7 +64603,7 @@
     "titleId": "PPSA16668_00",
     "conceptId": 10002065,
     "name": "Alan Wake 2",
-    "contentId": null,
+    "contentId": "JP1734-PPSA16668_00-ALANWAKE20000000",
     "region": "JP",
     "publisherId": "JP1734"
   },
@@ -65067,17 +65219,17 @@
     "titleId": "PPSA16889_00",
     "conceptId": 10008562,
     "name": "Memorrha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA16889_00-MEMORRHAPS5EUROP",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA16890_00",
     "conceptId": 10008562,
     "name": "Memorrha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3165-PPSA16890_00-MEMORRHAPS5USAME",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA16892_00",
@@ -65414,6 +65566,22 @@
     "contentId": "UP8303-PPSA17010_00-0447277474670229",
     "region": "UP",
     "publisherId": "UP8303"
+  },
+  {
+    "titleId": "PPSA17011_00",
+    "conceptId": 10008622,
+    "name": "Arizona Sunshine\u00ae 2  Deluxe Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP3392"
+  },
+  {
+    "titleId": "PPSA17012_00",
+    "conceptId": 10008622,
+    "name": "Arizona Sunshine\u00ae 2  Deluxe Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3535"
   },
   {
     "titleId": "PPSA17013_00",
@@ -65779,6 +65947,30 @@
     "titleId": "PPSA17173_00",
     "conceptId": 10007199,
     "name": "Ys X: Nordics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17175_00",
+    "conceptId": 10008688,
+    "name": "Yohane the Parhelion -BLAZE in the DEEPBLUE-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17176_00",
+    "conceptId": 10008688,
+    "name": "Yohane the Parhelion -BLAZE in the DEEPBLUE-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17177_00",
+    "conceptId": 10008688,
+    "name": "Yohane the Parhelion -BLAZE in the DEEPBLUE-",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -66434,26 +66626,26 @@
   {
     "titleId": "PPSA17512_00",
     "conceptId": 10008634,
-    "name": "DINOSAURS: Mission Dino Camp",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DINOSAURS - Mission Dino Camp",
+    "contentId": "UP8026-PPSA17512_00-0938955152269500",
+    "region": "UP",
+    "publisherId": "UP8026"
   },
   {
     "titleId": "PPSA17513_00",
     "conceptId": 10008634,
-    "name": "DINOSAURS: Mission Dino Camp",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DINOSAURS - Mission Dino Camp",
+    "contentId": "EP8218-PPSA17513_00-0198738961784716",
+    "region": "EP",
+    "publisherId": "EP8218"
   },
   {
     "titleId": "PPSA17514_00",
     "conceptId": 10008634,
-    "name": "DINOSAURS: Mission Dino Camp",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DINOSAURS - Mission Dino Camp",
+    "contentId": "JP5863-PPSA17514_00-0377667034039722",
+    "region": "JP",
+    "publisherId": "JP5863"
   },
   {
     "titleId": "PPSA17519_00",
@@ -66499,17 +66691,17 @@
     "titleId": "PPSA17550_00",
     "conceptId": 10008501,
     "name": "VISCO Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA17550_00-VISCOCOLLECPS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA17551_00",
     "conceptId": 10008501,
     "name": "VISCO Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA17551_00-VISCOCOLLECPS5EU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA17552_00",
@@ -66574,6 +66766,22 @@
     "contentId": "HP6478-PPSA17594_00-GRIMORIOOFGAMES0",
     "region": "HP",
     "publisherId": "HP6478"
+  },
+  {
+    "titleId": "PPSA17615_00",
+    "conceptId": 10008868,
+    "name": "Low Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17616_00",
+    "conceptId": 10008868,
+    "name": "Low Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17638_00",
@@ -66683,17 +66891,17 @@
     "titleId": "PPSA17666_00",
     "conceptId": 10008883,
     "name": "Fur Squadron",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA17666_00-0547520676320947",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA17667_00",
     "conceptId": 10008883,
     "name": "Fur Squadron",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA17667_00-0946294498465375",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA17705_00",
@@ -66758,6 +66966,14 @@
     "contentId": "EP2005-PPSA17749_00-SWAPSHOT00000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA17759_00",
+    "conceptId": 10007264,
+    "name": "\u30d6\u30e9\u30b9\u30d5\u30a7\u30de\u30b9 2",
+    "contentId": "JP4875-PPSA17759_00-0498248698981905",
+    "region": "JP",
+    "publisherId": "JP4875"
   },
   {
     "titleId": "PPSA17761_00",
@@ -67240,6 +67456,38 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA18037_00",
+    "conceptId": 10004799,
+    "name": "Star Trek: Resurgence",
+    "contentId": "UP5196-PPSA18037_00-0189565306700696",
+    "region": "UP",
+    "publisherId": "UP5196"
+  },
+  {
+    "titleId": "PPSA18038_00",
+    "conceptId": 10004799,
+    "name": "Star Trek: Resurgence",
+    "contentId": "EP5376-PPSA18038_00-0817355893922519",
+    "region": "EP",
+    "publisherId": "EP5376"
+  },
+  {
+    "titleId": "PPSA18056_00",
+    "conceptId": 10009032,
+    "name": "Smoots Pinball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18057_00",
+    "conceptId": 10009032,
+    "name": "Smoots Pinball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18061_00",
     "conceptId": 10005659,
     "name": "on Sunday",
@@ -67338,18 +67586,18 @@
   {
     "titleId": "PPSA18143_00",
     "conceptId": 10003295,
-    "name": "Postal: Brain Damaged",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "POSTAL: Brain Damaged",
+    "contentId": "EP6170-PPSA18143_00-5POSTALBRAINSIEE",
+    "region": "EP",
+    "publisherId": "EP6170"
   },
   {
     "titleId": "PPSA18144_00",
     "conceptId": 10003295,
-    "name": "Postal: Brain Damaged",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "POSTAL: Brain Damaged",
+    "contentId": "UP6171-PPSA18144_00-5POSTALBRAINSIEA",
+    "region": "UP",
+    "publisherId": "UP6171"
   },
   {
     "titleId": "PPSA18162_00",
@@ -67883,25 +68131,25 @@
     "titleId": "PPSA18587_00",
     "conceptId": 10009232,
     "name": "Finis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA18587_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA18588_00",
     "conceptId": 10009232,
     "name": "Finis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA18588_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA18589_00",
     "conceptId": 10004289,
     "name": "UFL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7452-PPSA18589_00-0346619902770953",
+    "region": "UP",
+    "publisherId": "UP7452"
   },
   {
     "titleId": "PPSA18610_00",
@@ -68016,6 +68264,46 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18683_00",
+    "conceptId": 10009269,
+    "name": "Space Race",
+    "contentId": "EP4312-PPSA18683_00-0111971756483747",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA18684_00",
+    "conceptId": 10009269,
+    "name": "Space Race",
+    "contentId": "UP4312-PPSA18684_00-0996544888608281",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA18685_00",
+    "conceptId": 10009269,
+    "name": "Space Race",
+    "contentId": "JP0089-PPSA18685_00-0013580723305790",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA18694_00",
+    "conceptId": 10009271,
+    "name": "House Of 1000 Doors: Evil Inside",
+    "contentId": "EP1411-PPSA18694_00-0603769916006801",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18695_00",
+    "conceptId": 10009271,
+    "name": "House Of 1000 Doors: Evil Inside",
+    "contentId": "UP1421-PPSA18695_00-0444361797924012",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA18700_00",
     "conceptId": 221802,
     "name": "Whitestone",
@@ -68072,36 +68360,52 @@
     "publisherId": "UB0227"
   },
   {
+    "titleId": "PPSA18779_00",
+    "conceptId": 10006873,
+    "name": "THE FINALS",
+    "contentId": "EP6848-PPSA18779_00-0422256397010637",
+    "region": "EP",
+    "publisherId": "EP6848"
+  },
+  {
+    "titleId": "PPSA18780_00",
+    "conceptId": 10006873,
+    "name": "THE FINALS",
+    "contentId": "UP6851-PPSA18780_00-0426326284338457",
+    "region": "UP",
+    "publisherId": "UP6851"
+  },
+  {
     "titleId": "PPSA18787_00",
     "conceptId": 10009301,
     "name": "Tommy is my hero!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0350-PPSA18787_00-TOMMYHEROPS5SIEA",
+    "region": "UB",
+    "publisherId": "UB0350"
   },
   {
     "titleId": "PPSA18788_00",
     "conceptId": 10009301,
     "name": "Tommy is my hero!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0542-PPSA18788_00-TOMMYHEROPS5SIEE",
+    "region": "EB",
+    "publisherId": "EB0542"
   },
   {
     "titleId": "PPSA18789_00",
     "conceptId": 10009301,
     "name": "Tommy is my hero!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0291-PPSA18789_00-TOMMYHEROPS5SEJA",
+    "region": "JB",
+    "publisherId": "JB0291"
   },
   {
     "titleId": "PPSA18790_00",
     "conceptId": 10009301,
     "name": "Tommy is my hero!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0317-PPSA18790_00-TOMMYHEROPS5ASIA",
+    "region": "HB",
+    "publisherId": "HB0317"
   },
   {
     "titleId": "PPSA18793_00",
@@ -68272,11 +68576,43 @@
     "publisherId": "HP7629"
   },
   {
+    "titleId": "PPSA18983_00",
+    "conceptId": 10008395,
+    "name": "Gunhead Demo",
+    "contentId": "UP4525-PPSA18983_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4525"
+  },
+  {
+    "titleId": "PPSA18990_00",
+    "conceptId": 10008395,
+    "name": "Gunhead Demo",
+    "contentId": "EP4525-PPSA18990_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP4525"
+  },
+  {
+    "titleId": "PPSA18991_00",
+    "conceptId": 10008395,
+    "name": "Gunhead Demo",
+    "contentId": "JP8701-PPSA18991_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP8701"
+  },
+  {
+    "titleId": "PPSA18992_00",
+    "conceptId": 10008395,
+    "name": "Gunhead Demo",
+    "contentId": "HP1200-PPSA18992_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP1200"
+  },
+  {
     "titleId": "PPSA18998_00",
     "conceptId": 10007404,
     "name": "Mars Base",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8435-PPSA18998_00-0275332044735868",
+    "region": "UP",
+    "publisherId": "UP8435"
   }
 ]
