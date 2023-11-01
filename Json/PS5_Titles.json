@@ -5371,7 +5371,7 @@
     "titleId": "PPSA02572_00",
     "conceptId": 10002065,
     "name": "Alan Wake 2",
-    "contentId": null,
+    "contentId": "EP1464-PPSA02572_00-ALANWAKE20000000",
     "region": "EP",
     "publisherId": "EP1464"
   },
@@ -9986,8 +9986,8 @@
   {
     "titleId": "PPSA03540_00",
     "conceptId": 10002788,
-    "name": "UFC\u00ae 5",
-    "contentId": null,
+    "name": "EA SPORTS\u2122 UFC\u00ae 5",
+    "contentId": "UP0006-PPSA03540_00-EASPORTSUFC5GAME",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -10350,6 +10350,22 @@
     "contentId": "JP4860-PPSA03606_00-SHCOFROGWARESUAK",
     "region": "JP",
     "publisherId": "JP4860"
+  },
+  {
+    "titleId": "PPSA03608_00",
+    "conceptId": 10002816,
+    "name": "Astral Ascent",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA03609_00",
+    "conceptId": 10002816,
+    "name": "Astral Ascent",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA03618_00",
@@ -24360,6 +24376,22 @@
     "publisherId": "UP4501"
   },
   {
+    "titleId": "PPSA06425_00",
+    "conceptId": 10002666,
+    "name": "The Invincible",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06426_00",
+    "conceptId": 10002666,
+    "name": "The Invincible",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06427_00",
     "conceptId": 10004454,
     "name": "Magi Trials",
@@ -27078,6 +27110,14 @@
     "contentId": "UP7635-PPSA06940_00-3691394037350850",
     "region": "UP",
     "publisherId": "UP7635"
+  },
+  {
+    "titleId": "PPSA06943_00",
+    "conceptId": 229250,
+    "name": "Omen of Sorrow",
+    "contentId": "JP1324-PPSA06943_00-0601653255098053",
+    "region": "JP",
+    "publisherId": "JP1324"
   },
   {
     "titleId": "PPSA06948_00",
@@ -44931,7 +44971,7 @@
     "titleId": "PPSA10263_00",
     "conceptId": 10006168,
     "name": "Jusant",
-    "contentId": null,
+    "contentId": "UP5898-PPSA10263_00-4289150323068456",
     "region": "UP",
     "publisherId": "UP5898"
   },
@@ -44939,7 +44979,7 @@
     "titleId": "PPSA10264_00",
     "conceptId": 10006168,
     "name": "Jusant",
-    "contentId": null,
+    "contentId": "EP8091-PPSA10264_00-4648066903011525",
     "region": "EP",
     "publisherId": "EP8091"
   },
@@ -53072,6 +53112,14 @@
     "publisherId": "EP8916"
   },
   {
+    "titleId": "PPSA12667_00",
+    "conceptId": 10006972,
+    "name": "Fitting In",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12670_00",
     "conceptId": 10006973,
     "name": "Ball Jumper",
@@ -56094,6 +56142,22 @@
     "contentId": "EP2005-PPSA13873_00-COLORPALS0000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA13878_00",
+    "conceptId": 10007396,
+    "name": "Little Goody Two Shoes",
+    "contentId": "UP0082-PPSA13878_00-0344569418657428",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA13879_00",
+    "conceptId": 10007396,
+    "name": "Little Goody Two Shoes",
+    "contentId": "EP0082-PPSA13879_00-0028864686662491",
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA13885_00",
@@ -59456,6 +59520,22 @@
     "publisherId": "EP5091"
   },
   {
+    "titleId": "PPSA15236_00",
+    "conceptId": 10002154,
+    "name": "NFL PRO ERA II",
+    "contentId": "UP6514-PPSA15236_00-0323940201017245",
+    "region": "UP",
+    "publisherId": "UP6514"
+  },
+  {
+    "titleId": "PPSA15237_00",
+    "conceptId": 10002154,
+    "name": "NFL PRO ERA II",
+    "contentId": "EP6513-PPSA15237_00-0893982439720157",
+    "region": "EP",
+    "publisherId": "EP6513"
+  },
+  {
     "titleId": "PPSA15239_00",
     "conceptId": 10004405,
     "name": "NARAKA: BLADEPOINT",
@@ -60443,7 +60523,7 @@
     "titleId": "PPSA15500_00",
     "conceptId": 10003574,
     "name": "The Foglands",
-    "contentId": null,
+    "contentId": "UP4273-PPSA15500_00-0214067416200640",
     "region": "UP",
     "publisherId": "UP4273"
   },
@@ -60459,7 +60539,7 @@
     "titleId": "PPSA15503_00",
     "conceptId": 10003574,
     "name": "The Foglands",
-    "contentId": null,
+    "contentId": "EP4033-PPSA15503_00-0474708074259622",
     "region": "EP",
     "publisherId": "EP4033"
   },
@@ -60467,7 +60547,7 @@
     "titleId": "PPSA15504_00",
     "conceptId": 10003574,
     "name": "The Foglands",
-    "contentId": null,
+    "contentId": "JP4207-PPSA15504_00-0312080962631755",
     "region": "JP",
     "publisherId": "JP4207"
   },
@@ -60475,7 +60555,7 @@
     "titleId": "PPSA15505_00",
     "conceptId": 10003574,
     "name": "The Foglands",
-    "contentId": null,
+    "contentId": "HP4157-PPSA15505_00-0098168034932649",
     "region": "HP",
     "publisherId": "HP4157"
   },
@@ -61915,9 +61995,9 @@
     "titleId": "PPSA15915_00",
     "conceptId": 10008171,
     "name": "Fusion Paradox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA15915_00-SYPS5FUSIONPARAD",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA15916_00",
@@ -61931,9 +62011,9 @@
     "titleId": "PPSA15917_00",
     "conceptId": 10008171,
     "name": "Fusion Paradox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP1792-PPSA15917_00-SYPS5FUSIONPARAD",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA15918_00",
@@ -63054,6 +63134,22 @@
     "contentId": "EP2005-PPSA16223_00-BALLLABTWO000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA16226_00",
+    "conceptId": 10008310,
+    "name": "Battle Stations Blockade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16227_00",
+    "conceptId": 10008310,
+    "name": "Battle Stations Blockade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16228_00",
@@ -64872,6 +64968,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16744_00",
+    "conceptId": 10008091,
+    "name": "Nickelodeon All-Star Brawl 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16745_00",
+    "conceptId": 10008091,
+    "name": "Nickelodeon All-Star Brawl 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16748_00",
     "conceptId": 10007246,
     "name": "Agatha Christie - Hercule Poirot: The London Case",
@@ -66184,6 +66296,22 @@
     "publisherId": "UP1570"
   },
   {
+    "titleId": "PPSA17285_00",
+    "conceptId": 10008736,
+    "name": "The Traveler's Path",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17286_00",
+    "conceptId": 10008736,
+    "name": "The Traveler's Path",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17306_00",
     "conceptId": 10007364,
     "name": "Firefight!",
@@ -66250,10 +66378,10 @@
   {
     "titleId": "PPSA17330_00",
     "conceptId": 10008746,
-    "name": "RollerCoaster Tycoon Adventures Deluxe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RollerCoaster Tycoon Adventures: Deluxe",
+    "contentId": "EP0182-PPSA17330_00-0606736787546654",
+    "region": "EP",
+    "publisherId": "EP0182"
   },
   {
     "titleId": "PPSA17347_00",
@@ -66920,6 +67048,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA17707_00",
+    "conceptId": 10003686,
+    "name": "Lost Islands",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17721_00",
     "conceptId": 10006015,
     "name": "WildTrax Racing",
@@ -67174,6 +67310,22 @@
     "contentId": "EP2363-PPSA17854_00-EU0ALPHA12000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA17868_00",
+    "conceptId": 10008964,
+    "name": "Hell Well",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17869_00",
+    "conceptId": 10008964,
+    "name": "Hell Well",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17872_00",
@@ -67696,6 +67848,22 @@
     "publisherId": "HP1546"
   },
   {
+    "titleId": "PPSA18226_00",
+    "conceptId": 10009089,
+    "name": "Mr. Supershot",
+    "contentId": "EP1411-PPSA18226_00-0695396149330776",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18227_00",
+    "conceptId": 10009089,
+    "name": "Mr. Supershot",
+    "contentId": "UP1421-PPSA18227_00-0392879269646778",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA18232_00",
     "conceptId": 10009093,
     "name": "Big Adventure: Trip to Europe 4",
@@ -67768,6 +67936,22 @@
     "publisherId": "HP1546"
   },
   {
+    "titleId": "PPSA18249_00",
+    "conceptId": 10009100,
+    "name": "Tennis Pro Tournaments",
+    "contentId": "EP1411-PPSA18249_00-0102098065702394",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18250_00",
+    "conceptId": 10009100,
+    "name": "Tennis Pro Tournaments",
+    "contentId": "UP1421-PPSA18250_00-0025747768592315",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA18252_00",
     "conceptId": 10009102,
     "name": "Super Brawl Rush",
@@ -67795,6 +67979,22 @@
     "titleId": "PPSA18266_00",
     "conceptId": 10009053,
     "name": "Nexus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18320_00",
+    "conceptId": 10009127,
+    "name": "Ravva and the Phantom Library",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18321_00",
+    "conceptId": 10009127,
+    "name": "Ravva and the Phantom Library",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -68152,6 +68352,22 @@
     "publisherId": "UP7452"
   },
   {
+    "titleId": "PPSA18597_00",
+    "conceptId": 10009238,
+    "name": "Ikkarus and the Prince of Sin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18598_00",
+    "conceptId": 10009238,
+    "name": "Ikkarus and the Prince of Sin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18610_00",
     "conceptId": 10009207,
     "name": "SteampunkVoyage",
@@ -68342,6 +68558,22 @@
     "contentId": "HP6691-PPSA18705_00-BLINPOSTMANPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA18734_00",
+    "conceptId": 10009289,
+    "name": "SETTRIS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18735_00",
+    "conceptId": 10009289,
+    "name": "SETTRIS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18758_00",
@@ -68550,6 +68782,22 @@
     "contentId": "HP2993-PPSA18872_00-GHOSTSIGNALDM110",
     "region": "HP",
     "publisherId": "HP2993"
+  },
+  {
+    "titleId": "PPSA18893_00",
+    "conceptId": 10009327,
+    "name": "Shivering Stone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18894_00",
+    "conceptId": 10009327,
+    "name": "Shivering Stone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18974_00",
