@@ -5363,7 +5363,7 @@
     "titleId": "PPSA02571_00",
     "conceptId": 10002065,
     "name": "Alan Wake 2",
-    "contentId": null,
+    "contentId": "UP1477-PPSA02571_00-ALANWAKE20000000",
     "region": "UP",
     "publisherId": "UP1477"
   },
@@ -24692,8 +24692,8 @@
     "conceptId": 10004497,
     "name": "SteamWorld Build",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP5180"
   },
   {
     "titleId": "PPSA06486_00",
@@ -28690,8 +28690,8 @@
   {
     "titleId": "PPSA07259_00",
     "conceptId": 10004875,
-    "name": "Headbangers: Rhythm Royale Digital Deluxe Edition",
-    "contentId": null,
+    "name": "Headbangers: Rhythm Royale",
+    "contentId": "UP4064-PPSA07259_00-1135126504355810",
     "region": "UP",
     "publisherId": "UP4064"
   },
@@ -36275,9 +36275,9 @@
     "titleId": "PPSA08701_00",
     "conceptId": 10005514,
     "name": "Alpha Particle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA08701_00-ALPHAPARTICLE000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA08702_00",
@@ -52064,6 +52064,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA12383_00",
+    "conceptId": 10005786,
+    "name": "Devil Engine: Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12384_00",
     "conceptId": 10006613,
     "name": "SkateBIRD",
@@ -53112,12 +53120,20 @@
     "publisherId": "EP8916"
   },
   {
+    "titleId": "PPSA12666_00",
+    "conceptId": 10006972,
+    "name": "Fitting In",
+    "contentId": "UP7335-PPSA12666_00-0243670234660334",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA12667_00",
     "conceptId": 10006972,
     "name": "Fitting In",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA12667_00-0950478748779987",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA12670_00",
@@ -55338,8 +55354,8 @@
   {
     "titleId": "PPSA13713_00",
     "conceptId": 10007308,
-    "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
-    "contentId": null,
+    "name": "STAR OCEAN THE SECOND STORY R",
+    "contentId": "JP0082-PPSA13713_00-000STAROCEAN2RJP",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -56414,6 +56430,14 @@
     "contentId": "HP7962-PPSA13924_00-0729740889813709",
     "region": "HP",
     "publisherId": "HP7962"
+  },
+  {
+    "titleId": "PPSA13925_00",
+    "conceptId": 10007381,
+    "name": "Phantom Blade: Executioners",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13927_00",
@@ -59787,9 +59811,9 @@
     "titleId": "PPSA15316_00",
     "conceptId": 217373,
     "name": "UNO\u00ae",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0001-PPSA15316_00-UNOPS50000000001",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA15317_00",
@@ -61987,9 +62011,9 @@
     "titleId": "PPSA15914_00",
     "conceptId": 10008171,
     "name": "Fusion Paradox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA15914_00-SYPS5FUSIONPARAD",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA15915_00",
@@ -62003,9 +62027,9 @@
     "titleId": "PPSA15916_00",
     "conceptId": 10008171,
     "name": "Fusion Paradox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1932-PPSA15916_00-SYPS5FUSIONPARAD",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA15917_00",
@@ -62315,6 +62339,14 @@
     "titleId": "PPSA15994_00",
     "conceptId": 10002788,
     "name": "UFC\u00ae 5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15995_00",
+    "conceptId": 10008184,
+    "name": "Popcorn Rocket",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -63666,10 +63698,10 @@
   {
     "titleId": "PPSA16394_00",
     "conceptId": 10005683,
-    "name": "Gangs of Sherwood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gangs of Sherwood - Digital Soundtrack",
+    "contentId": "EP6665-PPSA16394_00-GOS0000000000OST",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA16395_00",
@@ -63682,10 +63714,10 @@
   {
     "titleId": "PPSA16396_00",
     "conceptId": 10005683,
-    "name": "Gangs of Sherwood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gangs of Sherwood - Digital Artbook",
+    "contentId": "EP6665-PPSA16396_00-GOS0000000000ART",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA16397_00",
@@ -63906,16 +63938,16 @@
   {
     "titleId": "PPSA16433_00",
     "conceptId": 10008364,
-    "name": "Vampire: The Masquerade - Justice",
-    "contentId": null,
+    "name": "VAMPIRE: THE MASQUERADE - JUSTICE",
+    "contentId": "JP3083-PPSA16433_00-0530448032975880",
     "region": "JP",
     "publisherId": "JP3083"
   },
   {
     "titleId": "PPSA16434_00",
     "conceptId": 10008364,
-    "name": "Vampire: The Masquerade - Justice",
-    "contentId": null,
+    "name": "VAMPIRE: THE MASQUERADE - JUSTICE",
+    "contentId": "HP2993-PPSA16434_00-0172387340295620",
     "region": "HP",
     "publisherId": "HP2993"
   },
@@ -64520,6 +64552,22 @@
     "publisherId": "EP3385"
   },
   {
+    "titleId": "PPSA16617_00",
+    "conceptId": 10008445,
+    "name": "The Lord of the Rings: Return to Moria\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16618_00",
+    "conceptId": 10008445,
+    "name": "The Lord of the Rings: Return to Moria\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16622_00",
     "conceptId": 10007309,
     "name": "The Creepy Syndrome",
@@ -64874,10 +64922,10 @@
   {
     "titleId": "PPSA16716_00",
     "conceptId": 10008485,
-    "name": "The Smurfs 2 - The Prisoner of the Green Stone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Smurfs 2: The Prisoner of the Green Stone",
+    "contentId": "EP4295-PPSA16716_00-SMURFS2PS50000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA16717_00",
@@ -66163,33 +66211,33 @@
     "titleId": "PPSA17196_00",
     "conceptId": 10008697,
     "name": "Shield King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA17196_00-0846904860770015",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA17197_00",
     "conceptId": 10008697,
     "name": "Shield King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA17197_00-0663396062271113",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA17198_00",
     "conceptId": 10008697,
     "name": "Shield King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA17198_00-0556235083444385",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA17199_00",
     "conceptId": 10008697,
     "name": "Shield King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA17199_00-0603302126016370",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA17206_00",
@@ -66370,10 +66418,10 @@
   {
     "titleId": "PPSA17329_00",
     "conceptId": 10008746,
-    "name": "RollerCoaster Tycoon Adventures Deluxe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RollerCoaster Tycoon Adventures: Deluxe",
+    "contentId": "UP0182-PPSA17329_00-0191342225304695",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA17330_00",
@@ -67400,6 +67448,22 @@
     "publisherId": "EP0881"
   },
   {
+    "titleId": "PPSA17884_00",
+    "conceptId": 10008630,
+    "name": "ThisBedWeMade",
+    "contentId": "UP7666-PPSA17884_00-0193558750092408",
+    "region": "UP",
+    "publisherId": "UP7666"
+  },
+  {
+    "titleId": "PPSA17885_00",
+    "conceptId": 10008630,
+    "name": "ThisBedWeMade",
+    "contentId": "EP7664-PPSA17885_00-0347604013795669",
+    "region": "EP",
+    "publisherId": "EP7664"
+  },
+  {
     "titleId": "PPSA17890_00",
     "conceptId": 10005437,
     "name": "I'm in Love With Your Dead Grandmother",
@@ -68040,6 +68104,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA18351_00",
+    "conceptId": 10003232,
+    "name": "Submerged: Hidden Depths",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18357_00",
     "conceptId": 10008878,
     "name": "Kitty Krawler",
@@ -68174,6 +68246,22 @@
     "contentId": "JP5101-PPSA18423_00-0179212592586644",
     "region": "JP",
     "publisherId": "JP5101"
+  },
+  {
+    "titleId": "PPSA18424_00",
+    "conceptId": 10004391,
+    "name": "Bem Feito",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18425_00",
+    "conceptId": 10004391,
+    "name": "Bem Feito",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18448_00",
@@ -68768,6 +68856,14 @@
     "publisherId": "UP3046"
   },
   {
+    "titleId": "PPSA18866_00",
+    "conceptId": 10009317,
+    "name": "Our Guest Tonight",
+    "contentId": "EB0152-PPSA18866_00-0386081770706067",
+    "region": "EB",
+    "publisherId": "EB0152"
+  },
+  {
     "titleId": "PPSA18871_00",
     "conceptId": 10008624,
     "name": "Ghost Signal: A Stellaris Game Demo",
@@ -68795,6 +68891,14 @@
     "titleId": "PPSA18894_00",
     "conceptId": 10009327,
     "name": "Shivering Stone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18929_00",
+    "conceptId": 10008955,
+    "name": "Roots Of Pacha",
     "contentId": null,
     "region": null,
     "publisherId": null
