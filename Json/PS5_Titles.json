@@ -21643,7 +21643,7 @@
     "titleId": "PPSA05887_00",
     "conceptId": 10004172,
     "name": "The Talos Principle 2",
-    "contentId": null,
+    "contentId": "UP3643-PPSA05887_00-0TALOSPRINCIPLE2",
     "region": "UP",
     "publisherId": "UP3643"
   },
@@ -21651,7 +21651,7 @@
     "titleId": "PPSA05888_00",
     "conceptId": 10004172,
     "name": "The Talos Principle 2",
-    "contentId": null,
+    "contentId": "EP3643-PPSA05888_00-0TALOSPRINCIPLE2",
     "region": "EP",
     "publisherId": "EP3643"
   },
@@ -24684,8 +24684,8 @@
     "conceptId": 10004497,
     "name": "SteamWorld Build",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP5360"
   },
   {
     "titleId": "PPSA06485_00",
@@ -27714,10 +27714,10 @@
   {
     "titleId": "PPSA07056_00",
     "conceptId": 234471,
-    "name": "Coffee Talk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CoffeeTalk",
+    "contentId": "UP5258-PPSA07056_00-5059957550022516",
+    "region": "UP",
+    "publisherId": "UP5258"
   },
   {
     "titleId": "PPSA07058_00",
@@ -36283,9 +36283,9 @@
     "titleId": "PPSA08702_00",
     "conceptId": 10005514,
     "name": "Alpha Particle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA08702_00-ALPHAPARTICLE000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA08704_00",
@@ -55362,24 +55362,24 @@
   {
     "titleId": "PPSA13715_00",
     "conceptId": 10007308,
-    "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
-    "contentId": null,
+    "name": "STAR OCEAN THE SECOND STORY R",
+    "contentId": "UP0082-PPSA13715_00-000STAROCEAN2RUP",
     "region": "UP",
     "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA13716_00",
     "conceptId": 10007308,
-    "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
-    "contentId": null,
+    "name": "STAR OCEAN THE SECOND STORY R",
+    "contentId": "EP0082-PPSA13716_00-000STAROCEAN2REP",
     "region": "EP",
     "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA13717_00",
     "conceptId": 10007308,
-    "name": "STAR OCEAN THE SECOND STORY R - PS4 & PS5",
-    "contentId": null,
+    "name": "STAR OCEAN THE SECOND STORY R",
+    "contentId": "HP0082-PPSA13717_00-000STAROCEAN2RHP",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -55859,17 +55859,17 @@
     "titleId": "PPSA13805_00",
     "conceptId": 10007362,
     "name": "Cactus Cowboy - Desert Warfare",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8437-PPSA13805_00-0469675820300150",
+    "region": "UP",
+    "publisherId": "UP8437"
   },
   {
     "titleId": "PPSA13806_00",
     "conceptId": 10007362,
     "name": "Cactus Cowboy - Desert Warfare",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8627-PPSA13806_00-0465592338083602",
+    "region": "EP",
+    "publisherId": "EP8627"
   },
   {
     "titleId": "PPSA13807_00",
@@ -56434,10 +56434,10 @@
   {
     "titleId": "PPSA13925_00",
     "conceptId": 10007381,
-    "name": "Phantom Blade: Executioners",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Phantom Blade EX HD",
+    "contentId": "EP8618-PPSA13925_00-0254337525324232",
+    "region": "EP",
+    "publisherId": "EP8618"
   },
   {
     "titleId": "PPSA13927_00",
@@ -57416,6 +57416,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA14114_00",
+    "conceptId": 10007517,
+    "name": "Threaded",
+    "contentId": "EP1411-PPSA14114_00-0444369952319319",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA14115_00",
+    "conceptId": 10007517,
+    "name": "Threaded",
+    "contentId": "UP1421-PPSA14115_00-0467297965032087",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA14116_00",
     "conceptId": 10007518,
     "name": "Clutter 1000",
@@ -57432,6 +57448,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA14118_00",
+    "conceptId": 10007519,
+    "name": "Clutter IX: Clutter IXtreme",
+    "contentId": "EP1411-PPSA14118_00-0246629590567677",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA14119_00",
+    "conceptId": 10007519,
+    "name": "Clutter IX: Clutter IXtreme",
+    "contentId": "UP1421-PPSA14119_00-0814439015142022",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA14120_00",
     "conceptId": 10007520,
     "name": "Clutter Evolution: Beyond Xtreme",
@@ -57444,6 +57476,38 @@
     "conceptId": 10007520,
     "name": "Clutter Evolution: Beyond Xtreme",
     "contentId": "UP1421-PPSA14121_00-0164485081499575",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA14122_00",
+    "conceptId": 10007521,
+    "name": "Ki11er Clutter",
+    "contentId": "EP1411-PPSA14122_00-0091868496563890",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA14123_00",
+    "conceptId": 10007521,
+    "name": "Ki11er Clutter",
+    "contentId": "UP1421-PPSA14123_00-0101727230717072",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA14124_00",
+    "conceptId": 10007522,
+    "name": "Clutter 12: It's About Time",
+    "contentId": "EP1411-PPSA14124_00-0566937581656328",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA14125_00",
+    "conceptId": 10007522,
+    "name": "Clutter 12: It's About Time",
+    "contentId": "UP1421-PPSA14125_00-0187166612120187",
     "region": "UP",
     "publisherId": "UP1421"
   },
@@ -57548,6 +57612,38 @@
     "conceptId": 10007529,
     "name": "Jewel Match Solitaire: Winterscapes",
     "contentId": "UP1421-PPSA14138_00-0936814201676899",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA14139_00",
+    "conceptId": 10007530,
+    "name": "Jewel Match Solitaire",
+    "contentId": "EP1411-PPSA14139_00-0299861736811223",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA14140_00",
+    "conceptId": 10007530,
+    "name": "Jewel Match Solitaire",
+    "contentId": "UP1421-PPSA14140_00-0442887583043796",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA14141_00",
+    "conceptId": 10007531,
+    "name": "Nature Escapes",
+    "contentId": "EP1411-PPSA14141_00-0055824478272666",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA14142_00",
+    "conceptId": 10007531,
+    "name": "Nature Escapes",
+    "contentId": "UP1421-PPSA14142_00-0738577481040199",
     "region": "UP",
     "publisherId": "UP1421"
   },
@@ -59051,25 +59147,25 @@
     "titleId": "PPSA14717_00",
     "conceptId": 10007685,
     "name": "My Time at Sandrock",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA14717_00-0297864284132060",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA14718_00",
     "conceptId": 10007685,
     "name": "My Time at Sandrock",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2011-PPSA14718_00-0195772321035412",
+    "region": "EP",
+    "publisherId": "EP2011"
   },
   {
     "titleId": "PPSA14719_00",
     "conceptId": 10007685,
-    "name": "My Time at Sandrock",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u304d\u307f\u306e\u307e\u3061 \u30b5\u30f3\u30c9\u30ed\u30c3\u30af",
+    "contentId": "JP6412-PPSA14719_00-0305201567193039",
+    "region": "JP",
+    "publisherId": "JP6412"
   },
   {
     "titleId": "PPSA14720_00",
@@ -59819,17 +59915,17 @@
     "titleId": "PPSA15317_00",
     "conceptId": 217373,
     "name": "UNO\u00ae",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0001-PPSA15317_00-UNOPS50000000001",
+    "region": "UP",
+    "publisherId": "UP0001"
   },
   {
     "titleId": "PPSA15318_00",
     "conceptId": 217373,
     "name": "UNO\u00ae",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0001-PPSA15318_00-UNOPS50000000001",
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA15328_00",
@@ -61302,6 +61398,22 @@
     "contentId": "UP3004-PPSA15730_00-TRAINSIMWORLD4DG",
     "region": "UP",
     "publisherId": "UP3004"
+  },
+  {
+    "titleId": "PPSA15733_00",
+    "conceptId": 10008021,
+    "name": "Wildshade: Unicorn Champions",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15734_00",
+    "conceptId": 10008021,
+    "name": "Wildshade: Unicorn Champions",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15737_00",
@@ -63922,16 +64034,16 @@
   {
     "titleId": "PPSA16431_00",
     "conceptId": 10008364,
-    "name": "Vampire: The Masquerade - Justice",
-    "contentId": null,
+    "name": "VAMPIRE: THE MASQUERADE - JUSTICE",
+    "contentId": "UP3046-PPSA16431_00-0879685693076129",
     "region": "UP",
     "publisherId": "UP3046"
   },
   {
     "titleId": "PPSA16432_00",
     "conceptId": 10008364,
-    "name": "Vampire: The Masquerade - Justice",
-    "contentId": null,
+    "name": "VAMPIRE: THE MASQUERADE - JUSTICE",
+    "contentId": "EP2907-PPSA16432_00-0641121914828702",
     "region": "EP",
     "publisherId": "EP2907"
   },
@@ -64578,18 +64690,34 @@
   {
     "titleId": "PPSA16624_00",
     "conceptId": 10003485,
-    "name": "RoboCop: Rogue City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Robocop - Digital Artbook",
+    "contentId": "EP6665-PPSA16624_00-ROB0000000000ART",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA16625_00",
     "conceptId": 10003485,
-    "name": "RoboCop: Rogue City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Robocop - Digital Artbook",
+    "contentId": "UP6665-PPSA16625_00-ROB0000000000ART",
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
+    "titleId": "PPSA16626_00",
+    "conceptId": 10004880,
+    "name": "Achilles: Legends Untold",
+    "contentId": "EP7727-PPSA16626_00-0783245746407550",
+    "region": "EP",
+    "publisherId": "EP7727"
+  },
+  {
+    "titleId": "PPSA16629_00",
+    "conceptId": 10004880,
+    "name": "Achilles: Legends Untold",
+    "contentId": "UP7729-PPSA16629_00-0934379819997990",
+    "region": "UP",
+    "publisherId": "UP7729"
   },
   {
     "titleId": "PPSA16632_00",
@@ -64930,10 +65058,10 @@
   {
     "titleId": "PPSA16717_00",
     "conceptId": 10008485,
-    "name": "The Smurfs 2 - The Prisoner of the Green Stone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Smurfs 2: The Prisoner of the Green Stone",
+    "contentId": "UP1475-PPSA16717_00-SMURFS2PS50000US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA16718_00",
@@ -66888,6 +67016,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA17554_00",
+    "conceptId": 10008845,
+    "name": "Rock 'N Racing Off Road & Rally",
+    "contentId": "EP6922-PPSA17554_00-0534603940616975",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA17560_00",
     "conceptId": 10007151,
     "name": "CRYMACHINA",
@@ -68400,6 +68536,14 @@
     "publisherId": "EP7609"
   },
   {
+    "titleId": "PPSA18548_00",
+    "conceptId": 10008485,
+    "name": "\u30b9\u30de\u30fc\u30d52: \u30b0\u30ea\u30fc\u30f3\u30b9\u30c8\u30fc\u30f3\u306e\u56da\u4eba",
+    "contentId": "JP6398-PPSA18548_00-SMURFS2PS50000JP",
+    "region": "JP",
+    "publisherId": "JP6398"
+  },
+  {
     "titleId": "PPSA18569_00",
     "conceptId": 10008937,
     "name": "KAMiBAKO - Mythology of Cube - DEMO",
@@ -68840,6 +68984,14 @@
     "publisherId": "EP7600"
   },
   {
+    "titleId": "PPSA18837_00",
+    "conceptId": 10008955,
+    "name": "Roots Of Pacha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18852_00",
     "conceptId": 10008624,
     "name": "Ghost Signal: A Stellaris Game Demo",
@@ -68854,6 +69006,14 @@
     "contentId": "UP3046-PPSA18853_00-GHOSTSIGNALDM110",
     "region": "UP",
     "publisherId": "UP3046"
+  },
+  {
+    "titleId": "PPSA18865_00",
+    "conceptId": 10009317,
+    "name": "Our Guest Tonight",
+    "contentId": "UP8761-PPSA18865_00-0043013565910966",
+    "region": "UP",
+    "publisherId": "UP8761"
   },
   {
     "titleId": "PPSA18866_00",
@@ -68896,7 +69056,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18928_00",
+    "conceptId": 10008955,
+    "name": "Roots Of Pacha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18929_00",
+    "conceptId": 10008955,
+    "name": "Roots Of Pacha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18930_00",
     "conceptId": 10008955,
     "name": "Roots Of Pacha",
     "contentId": null,
