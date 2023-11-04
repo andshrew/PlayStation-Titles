@@ -22706,8 +22706,8 @@
   {
     "titleId": "PPSA06092_00",
     "conceptId": 10004258,
-    "name": "WRC Standard Edition",
-    "contentId": null,
+    "name": "EA SPORTS\u2122 WRC",
+    "contentId": "EP0006-PPSA06092_00-WRC2023PS5GAME00",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -26811,33 +26811,33 @@
     "titleId": "PPSA06878_00",
     "conceptId": 10004698,
     "name": "Thirsty Suitors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2470-PPSA06878_00-THIRSTYSIEA00000",
+    "region": "UP",
+    "publisherId": "UP2470"
   },
   {
     "titleId": "PPSA06879_00",
     "conceptId": 10004698,
     "name": "Thirsty Suitors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2333-PPSA06879_00-THIRSTYSIEE00000",
+    "region": "EP",
+    "publisherId": "EP2333"
   },
   {
     "titleId": "PPSA06880_00",
     "conceptId": 10004698,
     "name": "Thirsty Suitors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP2517-PPSA06880_00-THIRSTYSIEJ00000",
+    "region": "JP",
+    "publisherId": "JP2517"
   },
   {
     "titleId": "PPSA06881_00",
     "conceptId": 10004698,
     "name": "Thirsty Suitors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2418-PPSA06881_00-THIRSTYSIEJASIA0",
+    "region": "HP",
+    "publisherId": "HP2418"
   },
   {
     "titleId": "PPSA06882_00",
@@ -28682,8 +28682,8 @@
   {
     "titleId": "PPSA07258_00",
     "conceptId": 10004875,
-    "name": "Headbangers: Rhythm Royale Digital Deluxe Edition",
-    "contentId": null,
+    "name": "Headbangers: Rhythm Royale",
+    "contentId": "EP4064-PPSA07258_00-7183413435027164",
     "region": "EP",
     "publisherId": "EP4064"
   },
@@ -31331,9 +31331,9 @@
     "titleId": "PPSA07772_00",
     "conceptId": 10005130,
     "name": "The Silent Swan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA07772_00-3460431174814315",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA07773_00",
@@ -37867,9 +37867,9 @@
     "titleId": "PPSA08977_00",
     "conceptId": 10004449,
     "name": "Jumanji: Wild Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA08977_00-0000005819898985",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA08978_00",
@@ -40734,6 +40734,14 @@
     "contentId": "UP4312-PPSA09490_00-8835554590465520",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA09496_00",
+    "conceptId": 10004930,
+    "name": "Beholgar",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09497_00",
@@ -60579,17 +60587,17 @@
     "titleId": "PPSA15482_00",
     "conceptId": 10008016,
     "name": "DreamWorks All-Star Kart Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0283-PPSA15482_00-0556027350219949",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA15483_00",
     "conceptId": 10008016,
     "name": "DreamWorks All-Star Kart Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0281-PPSA15483_00-0554484255868355",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA15488_00",
@@ -62350,6 +62358,14 @@
     "contentId": "HP2005-PPSA15968_00-BROKDEMOPS500000",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA15974_00",
+    "conceptId": 10004289,
+    "name": "UFL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15979_00",
@@ -66384,6 +66400,30 @@
     "publisherId": "EP2134"
   },
   {
+    "titleId": "PPSA17217_00",
+    "conceptId": 10008710,
+    "name": "Jurassic Park Classic Games Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17225_00",
+    "conceptId": 10008698,
+    "name": "Coral Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17226_00",
+    "conceptId": 10008698,
+    "name": "Coral Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17229_00",
     "conceptId": 10008526,
     "name": "SpellForce: Conquest of Eo",
@@ -67014,6 +67054,14 @@
     "contentId": "JP0013-PPSA17552_00-JP0ISEKAIR000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA17553_00",
+    "conceptId": 10008845,
+    "name": "Rock 'N Racing Off Road & Rally",
+    "contentId": "UP6927-PPSA17553_00-0679631195161865",
+    "region": "UP",
+    "publisherId": "UP6927"
   },
   {
     "titleId": "PPSA17554_00",
@@ -68400,6 +68448,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18435_00",
+    "conceptId": 10009162,
+    "name": "Your Computer Might Be At Risk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18448_00",
     "conceptId": 10009165,
     "name": "Word Space",
@@ -68555,6 +68611,22 @@
     "titleId": "PPSA18582_00",
     "conceptId": 10002456,
     "name": "Marvel\u2019s Spider-Man 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18585_00",
+    "conceptId": 10002494,
+    "name": "Tin Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18586_00",
+    "conceptId": 10002494,
+    "name": "Tin Hearts",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -69006,6 +69078,22 @@
     "contentId": "UP3046-PPSA18853_00-GHOSTSIGNALDM110",
     "region": "UP",
     "publisherId": "UP3046"
+  },
+  {
+    "titleId": "PPSA18855_00",
+    "conceptId": 10009054,
+    "name": "Christmas Massacre",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18856_00",
+    "conceptId": 10009054,
+    "name": "Christmas Massacre",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18865_00",
