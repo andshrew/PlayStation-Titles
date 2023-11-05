@@ -17498,8 +17498,8 @@
   {
     "titleId": "PPSA05059_00",
     "conceptId": 10003485,
-    "name": "RoboCop: Rogue City - Standard Pre-Order",
-    "contentId": null,
+    "name": "Robocop: Rogue City",
+    "contentId": "EP6665-PPSA05059_00-ROB0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -22714,8 +22714,8 @@
   {
     "titleId": "PPSA06093_00",
     "conceptId": 10004258,
-    "name": "WRC Standard Edition",
-    "contentId": null,
+    "name": "EA SPORTS\u2122 WRC",
+    "contentId": "UP0006-PPSA06093_00-WRC2023PS5GAME00",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -31323,9 +31323,9 @@
     "titleId": "PPSA07771_00",
     "conceptId": 10005130,
     "name": "The Silent Swan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA07771_00-6140774580423869",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA07772_00",
@@ -37875,9 +37875,9 @@
     "titleId": "PPSA08978_00",
     "conceptId": 10004449,
     "name": "Jumanji: Wild Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA08978_00-0000005819898985",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA08980_00",
@@ -40734,6 +40734,14 @@
     "contentId": "UP4312-PPSA09490_00-8835554590465520",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA09495_00",
+    "conceptId": 10004930,
+    "name": "Beholgar",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09496_00",
@@ -66408,6 +66416,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17218_00",
+    "conceptId": 10008710,
+    "name": "Jurassic Park Classic Games Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17225_00",
     "conceptId": 10008698,
     "name": "Coral Island",
@@ -68108,6 +68124,38 @@
     "conceptId": 10009089,
     "name": "Mr. Supershot",
     "contentId": "UP1421-PPSA18227_00-0392879269646778",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA18228_00",
+    "conceptId": 10009090,
+    "name": "Puzzle Vacations: Christmas",
+    "contentId": "EP1411-PPSA18228_00-0106999512583972",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18229_00",
+    "conceptId": 10009090,
+    "name": "Puzzle Vacations: Christmas",
+    "contentId": "UP1421-PPSA18229_00-0265238585048748",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA18230_00",
+    "conceptId": 10009092,
+    "name": "Puzzle Vacations: Japan",
+    "contentId": "EP1411-PPSA18230_00-0339963998865383",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18231_00",
+    "conceptId": 10009092,
+    "name": "Puzzle Vacations: Japan",
+    "contentId": "UP1421-PPSA18231_00-0653047674875259",
     "region": "UP",
     "publisherId": "UP1421"
   },
