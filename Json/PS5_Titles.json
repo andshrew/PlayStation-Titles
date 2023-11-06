@@ -14754,8 +14754,8 @@
   {
     "titleId": "PPSA04479_00",
     "conceptId": 10001343,
-    "name": "QUANTUM ERROR",
-    "contentId": null,
+    "name": "Quantum Error",
+    "contentId": "UP5503-PPSA04479_00-6323379341464638",
     "region": "UP",
     "publisherId": "UP5503"
   },
@@ -14763,7 +14763,7 @@
     "titleId": "PPSA04480_00",
     "conceptId": 10001343,
     "name": "Quantum Error",
-    "contentId": null,
+    "contentId": "EP5684-PPSA04480_00-3949909816264155",
     "region": "EP",
     "publisherId": "EP5684"
   },
@@ -17506,8 +17506,8 @@
   {
     "titleId": "PPSA05060_00",
     "conceptId": 10003485,
-    "name": "RoboCop: Rogue City - Standard Pre-Order",
-    "contentId": null,
+    "name": "Robocop: Rogue City",
+    "contentId": "UP6665-PPSA05060_00-ROB0000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -67158,6 +67158,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17626_00",
+    "conceptId": 10008873,
+    "name": "30 sports in 1",
+    "contentId": "EP8208-PPSA17626_00-30SI100GAMEEUR01",
+    "region": "EP",
+    "publisherId": "EP8208"
+  },
+  {
+    "titleId": "PPSA17627_00",
+    "conceptId": 10008873,
+    "name": "30 sports in 1",
+    "contentId": "UP8016-PPSA17627_00-30SI100GAMEUSA01",
+    "region": "UP",
+    "publisherId": "UP8016"
   },
   {
     "titleId": "PPSA17638_00",
