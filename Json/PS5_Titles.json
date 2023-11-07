@@ -22248,6 +22248,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA06014_00",
+    "conceptId": 10003939,
+    "name": "Grotto",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06016_00",
     "conceptId": 10000657,
     "name": "HELLDIVERS\u2122 2",
@@ -24379,9 +24387,9 @@
     "titleId": "PPSA06425_00",
     "conceptId": 10002666,
     "name": "The Invincible",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6520-PPSA06425_00-8440883895336757",
+    "region": "UP",
+    "publisherId": "UP6520"
   },
   {
     "titleId": "PPSA06426_00",
@@ -40115,9 +40123,9 @@
     "titleId": "PPSA09374_00",
     "conceptId": 10005391,
     "name": "Let's Sing 2024",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3617-PPSA09374_00-LS2000EUR00PS500",
+    "region": "EP",
+    "publisherId": "EP3617"
   },
   {
     "titleId": "PPSA09375_00",
@@ -56459,7 +56467,7 @@
     "titleId": "PPSA13927_00",
     "conceptId": 10007416,
     "name": "Tintin Reporter - Cigars of the Pharaoh",
-    "contentId": null,
+    "contentId": "EP4295-PPSA13927_00-TINTINCOPPS500EU",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -61416,6 +61424,22 @@
     "publisherId": "UP3004"
   },
   {
+    "titleId": "PPSA15731_00",
+    "conceptId": 10008113,
+    "name": "The Walking Dead: Destinies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15732_00",
+    "conceptId": 10008113,
+    "name": "The Walking Dead: Destinies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15733_00",
     "conceptId": 10008021,
     "name": "Wildshade: Unicorn Champions",
@@ -65184,6 +65208,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16746_00",
+    "conceptId": 10008504,
+    "name": "Asterix & Obelix Slap Them All! 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16748_00",
     "conceptId": 10007246,
     "name": "Agatha Christie - Hercule Poirot: The London Case",
@@ -65494,6 +65526,22 @@
     "contentId": "HP8474-PPSA16865_00-0807707822461405",
     "region": "HP",
     "publisherId": "HP8474"
+  },
+  {
+    "titleId": "PPSA16875_00",
+    "conceptId": 234013,
+    "name": "Habroxia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16876_00",
+    "conceptId": 234013,
+    "name": "Habroxia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16883_00",
@@ -66514,8 +66562,8 @@
   {
     "titleId": "PPSA17272_00",
     "conceptId": 10008128,
-    "name": "Football Manager 2024 Console",
-    "contentId": null,
+    "name": "Football Manager 2024 Console Edition",
+    "contentId": "UP0177-PPSA17272_00-FM24NA0000000000",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -67387,9 +67435,9 @@
     "titleId": "PPSA17763_00",
     "conceptId": 10008216,
     "name": "The Forest Cathedral",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5403-PPSA17763_00-TFCPS5SIEEFULL00",
+    "region": "EP",
+    "publisherId": "EP5403"
   },
   {
     "titleId": "PPSA17778_00",
@@ -67952,6 +68000,14 @@
     "publisherId": "JP0082"
   },
   {
+    "titleId": "PPSA18104_00",
+    "conceptId": 10009051,
+    "name": "Snake Break",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18106_00",
     "conceptId": 10009052,
     "name": "Racket Fury: Table Tennis VR",
@@ -68126,6 +68182,22 @@
     "contentId": "HP1546-PPSA18223_00-0436537653310157",
     "region": "HP",
     "publisherId": "HP1546"
+  },
+  {
+    "titleId": "PPSA18224_00",
+    "conceptId": 10009088,
+    "name": "So Much Stuff",
+    "contentId": "EP1411-PPSA18224_00-0946079585005196",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18225_00",
+    "conceptId": 10009088,
+    "name": "So Much Stuff",
+    "contentId": "UP1421-PPSA18225_00-0408582929390645",
+    "region": "UP",
+    "publisherId": "UP1421"
   },
   {
     "titleId": "PPSA18226_00",
@@ -68552,6 +68624,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA18463_00",
+    "conceptId": 10007460,
+    "name": "Baldur's Gate 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18499_00",
     "conceptId": 10009184,
     "name": "Dinobreak",
@@ -68926,6 +69006,14 @@
     "contentId": "HP6691-PPSA18705_00-BLINPOSTMANPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA18728_00",
+    "conceptId": 10006908,
+    "name": "Speed or Death",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18734_00",
