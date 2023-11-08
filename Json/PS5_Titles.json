@@ -22256,6 +22256,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06015_00",
+    "conceptId": 10003939,
+    "name": "Grotto",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06016_00",
     "conceptId": 10000657,
     "name": "HELLDIVERS\u2122 2",
@@ -24395,9 +24403,9 @@
     "titleId": "PPSA06426_00",
     "conceptId": 10002666,
     "name": "The Invincible",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6520-PPSA06426_00-8179986038714673",
+    "region": "EP",
+    "publisherId": "EP6520"
   },
   {
     "titleId": "PPSA06427_00",
@@ -51544,6 +51552,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11432_00",
+    "conceptId": 10006579,
+    "name": "Hit the Color",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11433_00",
+    "conceptId": 10006579,
+    "name": "Hit the Color",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11450_00",
     "conceptId": 10006584,
     "name": "All Mighty Tower",
@@ -56475,7 +56499,7 @@
     "titleId": "PPSA13928_00",
     "conceptId": 10007416,
     "name": "Tintin Reporter - Cigars of the Pharaoh",
-    "contentId": null,
+    "contentId": "UP1475-PPSA13928_00-TINTINCOPPS500US",
     "region": "UP",
     "publisherId": "UP1475"
   },
@@ -61546,8 +61570,8 @@
   {
     "titleId": "PPSA15760_00",
     "conceptId": 10008128,
-    "name": "Football Manager 2024 Console",
-    "contentId": null,
+    "name": "Football Manager 2024 Console Edition",
+    "contentId": "EP0177-PPSA15760_00-FM24EU0000000000",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -62507,9 +62531,9 @@
     "titleId": "PPSA15995_00",
     "conceptId": 10008184,
     "name": "Popcorn Rocket",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8697-PPSA15995_00-0682404233789686",
+    "region": "UP",
+    "publisherId": "UP8697"
   },
   {
     "titleId": "PPSA15996_00",
@@ -62643,9 +62667,9 @@
     "titleId": "PPSA16035_00",
     "conceptId": 10008216,
     "name": "The Forest Cathedral",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5223-PPSA16035_00-TFCPS5SIEAFULL00",
+    "region": "UP",
+    "publisherId": "UP5223"
   },
   {
     "titleId": "PPSA16046_00",
@@ -64464,6 +64488,22 @@
     "publisherId": "UP7659"
   },
   {
+    "titleId": "PPSA16543_00",
+    "conceptId": 10008395,
+    "name": "Gunhead",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16544_00",
+    "conceptId": 10008395,
+    "name": "Gunhead",
+    "contentId": "EP4525-PPSA16544_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP4525"
+  },
+  {
     "titleId": "PPSA16545_00",
     "conceptId": 10008423,
     "name": "BlackJack Waifu Tour",
@@ -65195,17 +65235,17 @@
     "titleId": "PPSA16744_00",
     "conceptId": 10008091,
     "name": "Nickelodeon All-Star Brawl 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0283-PPSA16744_00-NALLSTARBRAWLTWO",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA16745_00",
     "conceptId": 10008091,
     "name": "Nickelodeon All-Star Brawl 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0281-PPSA16745_00-NALLSTARBRAWLTWO",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA16746_00",
@@ -66491,7 +66531,7 @@
     "titleId": "PPSA17229_00",
     "conceptId": 10008526,
     "name": "SpellForce: Conquest of Eo",
-    "contentId": null,
+    "contentId": "JP2880-PPSA17229_00-SFCOEOSTANDARD00",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -66499,7 +66539,7 @@
     "titleId": "PPSA17230_00",
     "conceptId": 10008526,
     "name": "SpellForce: Conquest of Eo",
-    "contentId": null,
+    "contentId": "UP4389-PPSA17230_00-SFCOEOSTANDARD00",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -66507,7 +66547,7 @@
     "titleId": "PPSA17231_00",
     "conceptId": 10008526,
     "name": "SpellForce: Conquest of Eo",
-    "contentId": null,
+    "contentId": "EP4389-PPSA17231_00-SFCOEOSTANDARD00",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -67136,6 +67176,30 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA17556_00",
+    "conceptId": 10008838,
+    "name": "Pixel Cafe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17557_00",
+    "conceptId": 10008838,
+    "name": "Pixel Cafe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17558_00",
+    "conceptId": 10008838,
+    "name": "Pixel Cafe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17560_00",
     "conceptId": 10007151,
     "name": "CRYMACHINA",
@@ -67755,9 +67819,9 @@
     "titleId": "PPSA17900_00",
     "conceptId": 10008976,
     "name": "Excessive Trim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA17900_00-EXCESSIVETRIM000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17901_00",
@@ -68270,6 +68334,22 @@
     "contentId": "EP1411-PPSA18238_00-0443150123751183",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18240_00",
+    "conceptId": 10009097,
+    "name": "Pool Pro 2022",
+    "contentId": "EP1411-PPSA18240_00-0643694977417712",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18241_00",
+    "conceptId": 10009097,
+    "name": "Pool Pro 2022",
+    "contentId": "UP1421-PPSA18241_00-0806179997153621",
+    "region": "UP",
+    "publisherId": "UP1421"
   },
   {
     "titleId": "PPSA18242_00",
@@ -69350,6 +69430,22 @@
     "contentId": "UP4525-PPSA18983_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP4525"
+  },
+  {
+    "titleId": "PPSA18988_00",
+    "conceptId": 10008395,
+    "name": "Gunhead",
+    "contentId": "JP8701-PPSA18988_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP8701"
+  },
+  {
+    "titleId": "PPSA18989_00",
+    "conceptId": 10008395,
+    "name": "Gunhead",
+    "contentId": "HP1200-PPSA18989_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP1200"
   },
   {
     "titleId": "PPSA18990_00",
