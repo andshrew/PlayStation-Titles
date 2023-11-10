@@ -32178,8 +32178,8 @@
   {
     "titleId": "PPSA07939_00",
     "conceptId": 10005136,
-    "name": "\u30c0\u30f3\u30b8\u30e7\u30f3\u30ba 4",
-    "contentId": null,
+    "name": "\u30c0\u30f3\u30b8\u30e7\u30f3\u30ba4",
+    "contentId": "JP7213-PPSA07939_00-0000000DUNGEONS4",
     "region": "JP",
     "publisherId": "JP7213"
   },
@@ -36331,9 +36331,9 @@
     "titleId": "PPSA08717_00",
     "conceptId": 10005532,
     "name": "Kill It With Fire VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0097-PPSA08717_00-3745758618311010",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA08718_00",
@@ -39928,12 +39928,28 @@
     "publisherId": "HP4578"
   },
   {
-    "titleId": "PPSA09348_00",
-    "conceptId": 10005788,
-    "name": "Spells and Secrets",
+    "titleId": "PPSA09346_00",
+    "conceptId": 10005554,
+    "name": "The Last Faith",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA09347_00",
+    "conceptId": 10005554,
+    "name": "The Last Faith",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09348_00",
+    "conceptId": 10005788,
+    "name": "Spells & Secrets",
+    "contentId": "EP1121-PPSA09348_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA09349_00",
@@ -42072,6 +42088,14 @@
     "publisherId": "UP5501"
   },
   {
+    "titleId": "PPSA09746_00",
+    "conceptId": 10005786,
+    "name": "Devil Engine",
+    "contentId": "UP0994-PPSA09746_00-6537392836696381",
+    "region": "UP",
+    "publisherId": "UP0994"
+  },
+  {
     "titleId": "PPSA09749_00",
     "conceptId": 10005979,
     "name": "Homebody",
@@ -43841,6 +43865,14 @@
   },
   {
     "titleId": "PPSA10083_00",
+    "conceptId": 10006101,
+    "name": "Akka Arrh",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10084_00",
     "conceptId": 10006101,
     "name": "Akka Arrh",
     "contentId": null,
@@ -51563,9 +51595,9 @@
     "titleId": "PPSA11432_00",
     "conceptId": 10006579,
     "name": "Hit the Color",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA11432_00-5564045335818204",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA11433_00",
@@ -52122,10 +52154,10 @@
   {
     "titleId": "PPSA12383_00",
     "conceptId": 10005786,
-    "name": "Devil Engine: Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Devil Engine",
+    "contentId": "JP5134-PPSA12383_00-DEVILENGINEJAPAN",
+    "region": "JP",
+    "publisherId": "JP5134"
   },
   {
     "titleId": "PPSA12384_00",
@@ -56459,9 +56491,9 @@
     "titleId": "PPSA13919_00",
     "conceptId": 10006081,
     "name": "Barbaria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7914-PPSA13919_00-0203473859375955",
+    "region": "EP",
+    "publisherId": "EP7914"
   },
   {
     "titleId": "PPSA13921_00",
@@ -61227,9 +61259,9 @@
     "titleId": "PPSA15655_00",
     "conceptId": 10008088,
     "name": "Air Twister",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5849-PPSA15655_00-AIRTWISTERPS5JAP",
+    "region": "JP",
+    "publisherId": "JP5849"
   },
   {
     "titleId": "PPSA15658_00",
@@ -61483,17 +61515,17 @@
     "titleId": "PPSA15733_00",
     "conceptId": 10008021,
     "name": "Wildshade: Unicorn Champions",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6665-PPSA15733_00-WS00000000000000",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA15734_00",
     "conceptId": 10008021,
     "name": "Wildshade: Unicorn Champions",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6665-PPSA15734_00-WS00000000000000",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA15737_00",
@@ -63443,9 +63475,9 @@
     "titleId": "PPSA16248_00",
     "conceptId": 10008320,
     "name": "Electrician Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8448-PPSA16248_00-0869329016266039",
+    "region": "UP",
+    "publisherId": "UP8448"
   },
   {
     "titleId": "PPSA16249_00",
@@ -63530,16 +63562,16 @@
   {
     "titleId": "PPSA16268_00",
     "conceptId": 10008306,
-    "name": "Like a Dragon Gaiden: The Man Who Erased His Name PS4 & PS5",
-    "contentId": null,
+    "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "contentId": "UP0177-PPSA16268_00-LIKEADRGNGAIDEN0",
     "region": "UP",
     "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA16269_00",
     "conceptId": 10008306,
-    "name": "Like a Dragon Gaiden: The Man Who Erased His Name PS4 & PS5",
-    "contentId": null,
+    "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "contentId": "EP0177-PPSA16269_00-LIKEADRGNGAIDEN0",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -67704,6 +67736,14 @@
     "publisherId": "EP2363"
   },
   {
+    "titleId": "PPSA17863_00",
+    "conceptId": 10008963,
+    "name": "\u30b0\u30ec\u30a4\u30b9 \u30aa\u30d6 \u30ea\u30c8\u30a2\u30fc\u30eb",
+    "contentId": "JP0013-PPSA17863_00-JP0GLETOILE00PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA17868_00",
     "conceptId": 10008964,
     "name": "Hell Well",
@@ -68091,9 +68131,9 @@
     "titleId": "PPSA18104_00",
     "conceptId": 10009051,
     "name": "Snake Break",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7975-PPSA18104_00-0660526257086740",
+    "region": "EP",
+    "publisherId": "EP7975"
   },
   {
     "titleId": "PPSA18105_00",
@@ -68664,6 +68704,14 @@
     "publisherId": "HP0957"
   },
   {
+    "titleId": "PPSA18411_00",
+    "conceptId": 10009154,
+    "name": "Heads Up! Phones Down Edition",
+    "contentId": "EP1875-PPSA18411_00-HEADSUPPHONEDOWN",
+    "region": "EP",
+    "publisherId": "EP1875"
+  },
+  {
     "titleId": "PPSA18412_00",
     "conceptId": 10009152,
     "name": "UFIGHT - Fighting Game",
@@ -68699,9 +68747,9 @@
     "titleId": "PPSA18424_00",
     "conceptId": 10004391,
     "name": "Bem Feito",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA18424_00-BEMFEITOREGPS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA18425_00",
@@ -68882,10 +68930,10 @@
   {
     "titleId": "PPSA18555_00",
     "conceptId": 10005786,
-    "name": "Devil Engine: Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Devil Engine",
+    "contentId": "EP0995-PPSA18555_00-DEVILENGINEEUROP",
+    "region": "EP",
+    "publisherId": "EP0995"
   },
   {
     "titleId": "PPSA18569_00",
@@ -68908,16 +68956,16 @@
     "conceptId": 10002494,
     "name": "Tin Hearts",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4382"
   },
   {
     "titleId": "PPSA18586_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4382"
   },
   {
     "titleId": "PPSA18587_00",
@@ -69038,6 +69086,14 @@
     "contentId": "HP6661-PPSA18649_00-0924966978377873",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA18659_00",
+    "conceptId": 10009264,
+    "name": "Sakura Alien 2",
+    "contentId": "EP6470-PPSA18659_00-SAKURAALIEN20000",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA18661_00",
