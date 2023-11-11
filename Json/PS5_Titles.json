@@ -28256,6 +28256,14 @@
     "publisherId": "EP1001"
   },
   {
+    "titleId": "PPSA07174_00",
+    "conceptId": 10004837,
+    "name": "Hammerwatch Anniversary Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07175_00",
     "conceptId": 10004828,
     "name": "8Doors: Arum's Afterlife Adventure",
@@ -32171,7 +32179,7 @@
     "titleId": "PPSA07938_00",
     "conceptId": 10005136,
     "name": "Dungeons 4",
-    "contentId": null,
+    "contentId": "UP2060-PPSA07938_00-0000000DUNGEONS4",
     "region": "UP",
     "publisherId": "UP2060"
   },
@@ -38411,17 +38419,17 @@
     "titleId": "PPSA09078_00",
     "conceptId": 10005694,
     "name": "Frontball Planet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA09078_00-8689917059464665",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA09079_00",
     "conceptId": 10005694,
     "name": "Frontball Planet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA09079_00-7377893988458952",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA09080_00",
@@ -39954,10 +39962,10 @@
   {
     "titleId": "PPSA09349_00",
     "conceptId": 10005788,
-    "name": "Spells and Secrets",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Spells & Secrets",
+    "contentId": "UP1260-PPSA09349_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP1260"
   },
   {
     "titleId": "PPSA09350_00",
@@ -40771,17 +40779,17 @@
     "titleId": "PPSA09495_00",
     "conceptId": 10004930,
     "name": "Beholgar",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA09495_00-5359527840123028",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA09496_00",
     "conceptId": 10004930,
     "name": "Beholgar",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA09496_00-9687621770727128",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA09497_00",
@@ -51603,9 +51611,9 @@
     "titleId": "PPSA11433_00",
     "conceptId": 10006579,
     "name": "Hit the Color",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA11433_00-4444107541056918",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11450_00",
@@ -53238,6 +53246,14 @@
     "contentId": "EP7333-PPSA12671_00-0294374415676430",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12679_00",
+    "conceptId": 10006975,
+    "name": "Ziggy Zaggy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12761_00",
@@ -56571,9 +56587,9 @@
     "titleId": "PPSA13936_00",
     "conceptId": 10006081,
     "name": "Barbaria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7916-PPSA13936_00-0063922375662149",
+    "region": "UP",
+    "publisherId": "UP7916"
   },
   {
     "titleId": "PPSA13937_00",
@@ -61243,17 +61259,17 @@
     "titleId": "PPSA15653_00",
     "conceptId": 10008088,
     "name": "Air Twister",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8012-PPSA15653_00-AIRTWISTERPS5NAM",
+    "region": "UP",
+    "publisherId": "UP8012"
   },
   {
     "titleId": "PPSA15654_00",
     "conceptId": 10008088,
     "name": "Air Twister",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8204-PPSA15654_00-AIRTWISTERPS5EUR",
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA15655_00",
@@ -62080,6 +62096,14 @@
     "publisherId": "HP1804"
   },
   {
+    "titleId": "PPSA15892_00",
+    "conceptId": 10007363,
+    "name": "Elypse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15893_00",
     "conceptId": 10004814,
     "name": "Eternights",
@@ -62406,6 +62430,22 @@
     "contentId": "JP0078-PPSA15950_00-CAVITYBUSTERS000",
     "region": "JP",
     "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA15952_00",
+    "conceptId": 10002212,
+    "name": "Cave Digger 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15953_00",
+    "conceptId": 10002212,
+    "name": "Cave Digger 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15957_00",
@@ -68704,6 +68744,14 @@
     "publisherId": "HP0957"
   },
   {
+    "titleId": "PPSA18410_00",
+    "conceptId": 10009154,
+    "name": "Heads Up! Phones Down Edition",
+    "contentId": "UP1032-PPSA18410_00-HEADSUPPHONEDOWN",
+    "region": "UP",
+    "publisherId": "UP1032"
+  },
+  {
     "titleId": "PPSA18411_00",
     "conceptId": 10009154,
     "name": "Heads Up! Phones Down Edition",
@@ -68771,9 +68819,17 @@
     "titleId": "PPSA18435_00",
     "conceptId": 10009162,
     "name": "Your Computer Might Be At Risk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0483-PPSA18435_00-0029011205918235",
+    "region": "EB",
+    "publisherId": "EB0483"
+  },
+  {
+    "titleId": "PPSA18436_00",
+    "conceptId": 10009162,
+    "name": "Your Computer Might Be At Risk",
+    "contentId": "UB0300-PPSA18436_00-0822517423423925",
+    "region": "UB",
+    "publisherId": "UB0300"
   },
   {
     "titleId": "PPSA18448_00",
@@ -68955,7 +69011,7 @@
     "titleId": "PPSA18585_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
-    "contentId": null,
+    "contentId": "UP4382-PPSA18585_00-TINHEARTSVRDEMO0",
     "region": "UP",
     "publisherId": "UP4382"
   },
@@ -68963,7 +69019,7 @@
     "titleId": "PPSA18586_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
-    "contentId": null,
+    "contentId": "EP4382-PPSA18586_00-TINHEARTSVRDEMO0",
     "region": "EP",
     "publisherId": "EP4382"
   },
@@ -69094,6 +69150,14 @@
     "contentId": "EP6470-PPSA18659_00-SAKURAALIEN20000",
     "region": "EP",
     "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA18660_00",
+    "conceptId": 10009264,
+    "name": "Sakura Alien 2",
+    "contentId": "UP6472-PPSA18660_00-SAKURAALIEN20000",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA18661_00",
@@ -69614,5 +69678,429 @@
     "contentId": "UP8435-PPSA18998_00-0275332044735868",
     "region": "UP",
     "publisherId": "UP8435"
+  },
+  {
+    "titleId": "PPSA19003_00",
+    "conceptId": 10007386,
+    "name": "\u30ab\u30b9\u30bf\u30e0 \u30e1\u30c3\u30af \u30a6\u30a9\u30fc\u30ba \u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u7248",
+    "contentId": "JP0367-PPSA19003_00-000000000000DEMO",
+    "region": "JP",
+    "publisherId": "JP0367"
+  },
+  {
+    "titleId": "PPSA19004_00",
+    "conceptId": 10007386,
+    "name": "CUSTOM MECH WARS Prototype Ver.",
+    "contentId": "UP3177-PPSA19004_00-000000000000DEMO",
+    "region": "UP",
+    "publisherId": "UP3177"
+  },
+  {
+    "titleId": "PPSA19005_00",
+    "conceptId": 10007386,
+    "name": "CUSTOM MECH WARS Prototype Ver.",
+    "contentId": "EP3036-PPSA19005_00-000000000000DEMO",
+    "region": "EP",
+    "publisherId": "EP3036"
+  },
+  {
+    "titleId": "PPSA19018_00",
+    "conceptId": 10004500,
+    "name": "Operation Wolf Returns: First Mission",
+    "contentId": "JP6398-PPSA19018_00-OPWOLFPS500000JP",
+    "region": "JP",
+    "publisherId": "JP6398"
+  },
+  {
+    "titleId": "PPSA19024_00",
+    "conceptId": 10009377,
+    "name": "Bob The Elementalist",
+    "contentId": "EP0896-PPSA19024_00-BOBELEMENTALISRG",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA19025_00",
+    "conceptId": 10009377,
+    "name": "Bob The Elementalist",
+    "contentId": "UP0891-PPSA19025_00-BOBELEMENTALISRG",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA19033_00",
+    "conceptId": 10006921,
+    "name": "You, Caligrapher",
+    "contentId": "EP8323-PPSA19033_00-0096522988956206",
+    "region": "EP",
+    "publisherId": "EP8323"
+  },
+  {
+    "titleId": "PPSA19034_00",
+    "conceptId": 10006921,
+    "name": "You, Caligrapher",
+    "contentId": "UP8133-PPSA19034_00-0991356346558542",
+    "region": "UP",
+    "publisherId": "UP8133"
+  },
+  {
+    "titleId": "PPSA19099_00",
+    "conceptId": 10001198,
+    "name": "Peaky Blinders: The King's Ransom",
+    "contentId": "EP8035-PPSA19099_00-0814188394160602",
+    "region": "EP",
+    "publisherId": "EP8035"
+  },
+  {
+    "titleId": "PPSA19100_00",
+    "conceptId": 10001198,
+    "name": "Peaky Blinders: The King's Ransom",
+    "contentId": "UP5843-PPSA19100_00-0535554251073960",
+    "region": "UP",
+    "publisherId": "UP5843"
+  },
+  {
+    "titleId": "PPSA19109_00",
+    "conceptId": 10007404,
+    "name": "\u30de\u30fc\u30ba\u30d9\u30fc\u30b9",
+    "contentId": "JP8340-PPSA19109_00-0174440127409832",
+    "region": "JP",
+    "publisherId": "JP8340"
+  },
+  {
+    "titleId": "PPSA19111_00",
+    "conceptId": 10007404,
+    "name": "Mars Base",
+    "contentId": "EP8625-PPSA19111_00-0553754450477846",
+    "region": "EP",
+    "publisherId": "EP8625"
+  },
+  {
+    "titleId": "PPSA19112_00",
+    "conceptId": 10007404,
+    "name": "Mars Base",
+    "contentId": "HP8385-PPSA19112_00-0806583507111154",
+    "region": "HP",
+    "publisherId": "HP8385"
+  },
+  {
+    "titleId": "PPSA19121_00",
+    "conceptId": 10009165,
+    "name": "Word Space - DEMO",
+    "contentId": "UP7335-PPSA19121_00-0014977524989731",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA19122_00",
+    "conceptId": 10009165,
+    "name": "Word Space - DEMO",
+    "contentId": "EP7333-PPSA19122_00-0255015894407731",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA19123_00",
+    "conceptId": 10009165,
+    "name": "Word Space - DEMO",
+    "contentId": "JP7309-PPSA19123_00-0445349452138729",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA19124_00",
+    "conceptId": 10009165,
+    "name": "Word Space - DEMO",
+    "contentId": "HP7354-PPSA19124_00-0450021214626482",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA19144_00",
+    "conceptId": 10002211,
+    "name": "XDefiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19145_00",
+    "conceptId": 10002211,
+    "name": "XDefiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19147_00",
+    "conceptId": 10007199,
+    "name": "\u30a4\u30fc\u30b9X -NORDICS- \u4f53\u9a13\u7248",
+    "contentId": "JP0425-PPSA19147_00-YS10NORDICSTRIAL",
+    "region": "JP",
+    "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA19174_00",
+    "conceptId": 10009435,
+    "name": "#Halloween, Super Puzzles Dream",
+    "contentId": "EP8311-PPSA19174_00-0421646910657705",
+    "region": "EP",
+    "publisherId": "EP8311"
+  },
+  {
+    "titleId": "PPSA19175_00",
+    "conceptId": 10009435,
+    "name": "#Halloween, Super Puzzles Dream",
+    "contentId": "UP8121-PPSA19175_00-0961125378915448",
+    "region": "UP",
+    "publisherId": "UP8121"
+  },
+  {
+    "titleId": "PPSA19191_00",
+    "conceptId": 10009420,
+    "name": "Berzerk: Recharged",
+    "contentId": "UP0182-PPSA19191_00-BERZERKRECHARGED",
+    "region": "UP",
+    "publisherId": "UP0182"
+  },
+  {
+    "titleId": "PPSA19192_00",
+    "conceptId": 10009420,
+    "name": "Berzerk: Recharged",
+    "contentId": "EP0182-PPSA19192_00-BERZERKRECHARGED",
+    "region": "EP",
+    "publisherId": "EP0182"
+  },
+  {
+    "titleId": "PPSA19194_00",
+    "conceptId": 10009441,
+    "name": "Murder Is Game Over",
+    "contentId": "EP0896-PPSA19194_00-MURDERISGAMEOVRG",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA19195_00",
+    "conceptId": 10009441,
+    "name": "Murder Is Game Over",
+    "contentId": "UP0891-PPSA19195_00-MURDERISGAMEOVRG",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA19197_00",
+    "conceptId": 10009444,
+    "name": "Invasion",
+    "contentId": "EP4312-PPSA19197_00-0997925189279843",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA19198_00",
+    "conceptId": 10009444,
+    "name": "Invasion",
+    "contentId": "UP4312-PPSA19198_00-0571987827817441",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA19199_00",
+    "conceptId": 10009444,
+    "name": "Invasion",
+    "contentId": "JP0089-PPSA19199_00-0076946928684153",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA19279_00",
+    "conceptId": 10009471,
+    "name": "Amabilly",
+    "contentId": "EP0896-PPSA19279_00-AMABILLYRATAGAME",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA19280_00",
+    "conceptId": 10009471,
+    "name": "Amabilly",
+    "contentId": "UP0891-PPSA19280_00-AMABILLYRATAGAME",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA19283_00",
+    "conceptId": 10008814,
+    "name": "Mr. Hibbl: The Lost Levels - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19304_00",
+    "conceptId": 10008963,
+    "name": "Grace of Letoile",
+    "contentId": "UP2500-PPSA19304_00-US0GLETOILE00PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA19305_00",
+    "conceptId": 10008963,
+    "name": "Grace of Letoile",
+    "contentId": "EP2363-PPSA19305_00-EU0GLETOILE00PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA19314_00",
+    "conceptId": 10009483,
+    "name": "Synthetic Lover",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19315_00",
+    "conceptId": 10009483,
+    "name": "Synthetic Lover",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19316_00",
+    "conceptId": 10009483,
+    "name": "Synthetic Lover",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19319_00",
+    "conceptId": 10009392,
+    "name": "Crow Country Demo",
+    "contentId": "EP6092-PPSA19319_00-0733206963627086",
+    "region": "EP",
+    "publisherId": "EP6092"
+  },
+  {
+    "titleId": "PPSA19320_00",
+    "conceptId": 10009392,
+    "name": "Crow Country Demo",
+    "contentId": "UP6093-PPSA19320_00-0067009921549802",
+    "region": "UP",
+    "publisherId": "UP6093"
+  },
+  {
+    "titleId": "PPSA19353_00",
+    "conceptId": 10009498,
+    "name": "Burning Secrets - A Bara Visual Novel",
+    "contentId": "UP2005-PPSA19353_00-BURNINGSECRETS00",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA19354_00",
+    "conceptId": 10009498,
+    "name": "Burning Secrets - A Bara Visual Novel",
+    "contentId": "EP2005-PPSA19354_00-BURNINGSECRETS00",
+    "region": "EP",
+    "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA19355_00",
+    "conceptId": 10009498,
+    "name": "Burning Secrets - A Bara Visual Novel",
+    "contentId": "HP2005-PPSA19355_00-BURNINGSECRETS00",
+    "region": "HP",
+    "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA19373_00",
+    "conceptId": 10008170,
+    "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
+    "contentId": "JP5849-PPSA19373_00-SLAPSBEANS2PS5JP",
+    "region": "JP",
+    "publisherId": "JP5849"
+  },
+  {
+    "titleId": "PPSA19374_00",
+    "conceptId": 10008170,
+    "name": "Bud Spencer & Terence Hill - Slaps And Beans 2",
+    "contentId": "HP5911-PPSA19374_00-SLAPSBEANS2PS5AS",
+    "region": "HP",
+    "publisherId": "HP5911"
+  },
+  {
+    "titleId": "PPSA19438_00",
+    "conceptId": 10004888,
+    "name": "Quern - Undying thoughts",
+    "contentId": "UP3690-PPSA19438_00-0425171013395435",
+    "region": "UP",
+    "publisherId": "UP3690"
+  },
+  {
+    "titleId": "PPSA19547_00",
+    "conceptId": 10009575,
+    "name": "Nature Escapes 2: Collector's Edition",
+    "contentId": "EP1411-PPSA19547_00-0004337342460410",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA19548_00",
+    "conceptId": 10009575,
+    "name": "Nature Escapes 2: Collector's Edition",
+    "contentId": "UP1421-PPSA19548_00-0531810995611471",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA19626_00",
+    "conceptId": 10009161,
+    "name": "Alina Of The Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19775_00",
+    "conceptId": 10004362,
+    "name": "Bunny Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19776_00",
+    "conceptId": 10004362,
+    "name": "Bunny Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19777_00",
+    "conceptId": 10004362,
+    "name": "Bunny Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19778_00",
+    "conceptId": 10004362,
+    "name": "Bunny Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19922_00",
+    "conceptId": 10007682,
+    "name": "Happi Basudei",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
