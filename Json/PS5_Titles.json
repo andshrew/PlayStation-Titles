@@ -22114,16 +22114,16 @@
   {
     "titleId": "PPSA05988_00",
     "conceptId": 10004229,
-    "name": "SUPER CRAZY RHYTHM CASTLE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Super Crazy Rhythm Castle",
+    "contentId": "JP0101-PPSA05988_00-1128006126028589",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA05989_00",
     "conceptId": 10004229,
-    "name": "SUPER CRAZY RHYTHM CASTLE",
-    "contentId": null,
+    "name": "Super Crazy Rhythm Castle",
+    "contentId": "HP0101-PPSA05989_00-0842286176943314",
     "region": "HP",
     "publisherId": "HP0101"
   },
@@ -28254,6 +28254,14 @@
     "contentId": "EP1001-PPSA07170_00-NBA2K23000000000",
     "region": "EP",
     "publisherId": "EP1001"
+  },
+  {
+    "titleId": "PPSA07173_00",
+    "conceptId": 10004837,
+    "name": "Hammerwatch Anniversary Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07174_00",
@@ -70112,12 +70120,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19631_00",
+    "conceptId": 10001734,
+    "name": "Synergia - Demo",
+    "contentId": "UP5155-PPSA19631_00-SYNERGIADEMO0000",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
     "titleId": "PPSA19632_00",
     "conceptId": 10001734,
-    "name": "Synergia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Synergia - NextGen Edition",
+    "contentId": "EP5335-PPSA19632_00-SYNERGIADEMO0000",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA19775_00",
