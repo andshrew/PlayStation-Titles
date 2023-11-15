@@ -22106,8 +22106,8 @@
   {
     "titleId": "PPSA05987_00",
     "conceptId": 10004229,
-    "name": "SUPER CRAZY RHYTHM CASTLE",
-    "contentId": null,
+    "name": "Super Crazy Rhythm Castle",
+    "contentId": "UP0101-PPSA05987_00-0045852453150374",
     "region": "UP",
     "publisherId": "UP0101"
   },
@@ -58626,8 +58626,8 @@
   {
     "titleId": "PPSA14376_00",
     "conceptId": 10007629,
-    "name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves",
-    "contentId": null,
+    "name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
+    "contentId": "UP1475-PPSA14376_00-GOLDORAKPS5000US",
     "region": "UP",
     "publisherId": "UP1475"
   },
@@ -61598,6 +61598,14 @@
     "contentId": "UP0891-PPSA15742_00-GRUTARATALAIKAGA",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA15746_00",
+    "conceptId": 10004850,
+    "name": "Trinity Fusion",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2329"
   },
   {
     "titleId": "PPSA15753_00",
@@ -65363,9 +65371,17 @@
     "titleId": "PPSA16746_00",
     "conceptId": 10008504,
     "name": "Asterix & Obelix Slap Them All! 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4295-PPSA16746_00-AOSTA2PS500000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
+  },
+  {
+    "titleId": "PPSA16747_00",
+    "conceptId": 10008504,
+    "name": "Asterix & Obelix Slap Them All! 2",
+    "contentId": "UP1475-PPSA16747_00-AOSTA2PS500000US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA16748_00",
@@ -66382,6 +66398,22 @@
     "contentId": "HP3536-PPSA17146_00-0067063927261081",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA17149_00",
+    "conceptId": 10004303,
+    "name": "Colossal Cave VR",
+    "contentId": "EP7551-PPSA17149_00-0395519887751994",
+    "region": "EP",
+    "publisherId": "EP7551"
+  },
+  {
+    "titleId": "PPSA17150_00",
+    "conceptId": 10004303,
+    "name": "Colossal Cave VR",
+    "contentId": "JP7532-PPSA17150_00-0421575065541758",
+    "region": "JP",
+    "publisherId": "JP7532"
   },
   {
     "titleId": "PPSA17155_00",
@@ -68635,9 +68667,9 @@
     "titleId": "PPSA18322_00",
     "conceptId": 10009128,
     "name": "Lily in Puzzle World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA18322_00-LILYINPUZZLEWORL",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA18323_00",
@@ -69136,6 +69168,14 @@
     "publisherId": "HP5777"
   },
   {
+    "titleId": "PPSA18628_00",
+    "conceptId": 10009062,
+    "name": "Ariko's Enchanted Forest",
+    "contentId": "EB0178-PPSA18628_00-0637669184450540",
+    "region": "EB",
+    "publisherId": "EB0178"
+  },
+  {
     "titleId": "PPSA18643_00",
     "conceptId": 10009258,
     "name": "Sakura Alien",
@@ -69531,17 +69571,17 @@
     "titleId": "PPSA18840_00",
     "conceptId": 10009118,
     "name": "Tanks, But No Tanks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0284-PPSA18840_00-0419086586176744",
+    "region": "UB",
+    "publisherId": "UB0284"
   },
   {
     "titleId": "PPSA18841_00",
     "conceptId": 10009118,
     "name": "Tanks, But No Tanks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0467-PPSA18841_00-0144561479626972",
+    "region": "EB",
+    "publisherId": "EB0467"
   },
   {
     "titleId": "PPSA18852_00",
@@ -69896,6 +69936,14 @@
     "publisherId": "JP0425"
   },
   {
+    "titleId": "PPSA19173_00",
+    "conceptId": 10009434,
+    "name": "iQIYI",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19174_00",
     "conceptId": 10009435,
     "name": "#Halloween, Super Puzzles Dream",
@@ -70088,6 +70136,14 @@
     "publisherId": "HP5911"
   },
   {
+    "titleId": "PPSA19403_00",
+    "conceptId": 10007409,
+    "name": "Koi-Koi : Love Blossoms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19438_00",
     "conceptId": 10004888,
     "name": "Quern - Undying thoughts",
@@ -70134,6 +70190,38 @@
     "contentId": "EP5335-PPSA19632_00-SYNERGIADEMO0000",
     "region": "EP",
     "publisherId": "EP5335"
+  },
+  {
+    "titleId": "PPSA19648_00",
+    "conceptId": 10007409,
+    "name": "Koi-Koi : Love Blossoms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19649_00",
+    "conceptId": 10007409,
+    "name": "Koi-Koi : Love Blossoms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19652_00",
+    "conceptId": 10007409,
+    "name": "Koi-Koi : Love Blossoms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19653_00",
+    "conceptId": 10007409,
+    "name": "Koi-Koi : Love Blossoms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19775_00",
