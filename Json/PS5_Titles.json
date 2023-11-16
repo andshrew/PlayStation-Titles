@@ -53256,6 +53256,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12678_00",
+    "conceptId": 10006975,
+    "name": "Ziggy Zaggy",
+    "contentId": "UP7335-PPSA12678_00-0748918135667058",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA12679_00",
     "conceptId": 10006975,
     "name": "Ziggy Zaggy",
@@ -56272,6 +56280,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA13875_00",
+    "conceptId": 10007391,
+    "name": "Stickman's Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13878_00",
     "conceptId": 10007396,
     "name": "Little Goody Two Shoes",
@@ -57883,6 +57899,14 @@
     "titleId": "PPSA14170_00",
     "conceptId": 204541,
     "name": "Sky Go",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14183_00",
+    "conceptId": 10007409,
+    "name": "Koi-Koi : Love Blossoms",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -59574,6 +59598,14 @@
     "contentId": "HP1792-PPSA15163_00-SYPS5ASTROFLAMES",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA15168_00",
+    "conceptId": 229931,
+    "name": "Drunkn Bar Fight",
+    "contentId": "UP3542-PPSA15168_00-DRUNKBARFIGHTDBF",
+    "region": "UP",
+    "publisherId": "UP3542"
   },
   {
     "titleId": "PPSA15172_00",
@@ -61606,6 +61638,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP2329"
+  },
+  {
+    "titleId": "PPSA15747_00",
+    "conceptId": 10004850,
+    "name": "Trinity Fusion",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2196"
   },
   {
     "titleId": "PPSA15753_00",
@@ -66400,6 +66440,14 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA17148_00",
+    "conceptId": 10004303,
+    "name": "Colossal Cave VR",
+    "contentId": "UP7553-PPSA17148_00-0159450932476728",
+    "region": "UP",
+    "publisherId": "UP7553"
+  },
+  {
     "titleId": "PPSA17149_00",
     "conceptId": 10004303,
     "name": "Colossal Cave VR",
@@ -66414,6 +66462,14 @@
     "contentId": "JP7532-PPSA17150_00-0421575065541758",
     "region": "JP",
     "publisherId": "JP7532"
+  },
+  {
+    "titleId": "PPSA17151_00",
+    "conceptId": 10004303,
+    "name": "Colossal Cave VR",
+    "contentId": "HP7576-PPSA17151_00-0944589349335326",
+    "region": "HP",
+    "publisherId": "HP7576"
   },
   {
     "titleId": "PPSA17155_00",
@@ -66498,10 +66554,10 @@
   {
     "titleId": "PPSA17175_00",
     "conceptId": 10008688,
-    "name": "Yohane the Parhelion -BLAZE in the DEEPBLUE-",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u5e7b\u65e5\u306e\u30e8\u30cf\u30cd -BLAZE in the DEEPBLUE-",
+    "contentId": "JP1368-PPSA17175_00-YOHANEBDAPPJP000",
+    "region": "JP",
+    "publisherId": "JP1368"
   },
   {
     "titleId": "PPSA17176_00",
@@ -66659,17 +66715,17 @@
     "titleId": "PPSA17225_00",
     "conceptId": 10008698,
     "name": "Coral Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3864-PPSA17225_00-CORALISLANDPS5NA",
+    "region": "UP",
+    "publisherId": "UP3864"
   },
   {
     "titleId": "PPSA17226_00",
     "conceptId": 10008698,
     "name": "Coral Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3717-PPSA17226_00-CORALISLANDPS5EU",
+    "region": "EP",
+    "publisherId": "EP3717"
   },
   {
     "titleId": "PPSA17229_00",
@@ -68200,6 +68256,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18058_00",
+    "conceptId": 10009032,
+    "name": "Smoots Pinball",
+    "contentId": "JP3291-PPSA18058_00-JANDUSOFT0000001",
+    "region": "JP",
+    "publisherId": "JP3291"
+  },
+  {
+    "titleId": "PPSA18059_00",
+    "conceptId": 10009032,
+    "name": "Smoots Pinball",
+    "contentId": "HP3199-PPSA18059_00-JANDUSOFT0000001",
+    "region": "HP",
+    "publisherId": "HP3199"
+  },
+  {
     "titleId": "PPSA18061_00",
     "conceptId": 10005659,
     "name": "on Sunday",
@@ -68675,9 +68747,9 @@
     "titleId": "PPSA18323_00",
     "conceptId": 10009128,
     "name": "Lily in Puzzle World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA18323_00-LILYINPUZZLEWORL",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA18330_00",
@@ -69560,6 +69632,14 @@
     "publisherId": "HP5846"
   },
   {
+    "titleId": "PPSA18835_00",
+    "conceptId": 10005565,
+    "name": "Among Us VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18837_00",
     "conceptId": 10008955,
     "name": "Roots Of Pacha",
@@ -70227,33 +70307,33 @@
     "titleId": "PPSA19775_00",
     "conceptId": 10004362,
     "name": "Bunny Memory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA19775_00-BUNNYMEMORYPS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA19776_00",
     "conceptId": 10004362,
     "name": "Bunny Memory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA19776_00-BUNNYMEMORYPS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA19777_00",
     "conceptId": 10004362,
     "name": "Bunny Memory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA19777_00-BUNNYMEMORYPS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA19778_00",
     "conceptId": 10004362,
     "name": "Bunny Memory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA19778_00-BUNNYMEMORYPS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA19922_00",
@@ -70262,6 +70342,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA19963_00",
+    "conceptId": 10003686,
+    "name": "Lost Islands",
+    "contentId": "UP7161-PPSA19963_00-0941320692356621",
+    "region": "UP",
+    "publisherId": "UP7161"
   },
   {
     "titleId": "PPSA20122_00",
