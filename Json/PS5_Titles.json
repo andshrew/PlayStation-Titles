@@ -3432,6 +3432,14 @@
     "publisherId": "UP0036"
   },
   {
+    "titleId": "PPSA02182_00",
+    "conceptId": 10001609,
+    "name": "Suicide Squad: Kill the Justice League",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1018"
+  },
+  {
     "titleId": "PPSA02183_00",
     "conceptId": 234762,
     "name": "Chivalry 2",
@@ -43259,9 +43267,9 @@
     "titleId": "PPSA09956_00",
     "conceptId": 10006070,
     "name": "Bluey: The Videogame",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA09956_00-BUEYBASEGAME0001",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA09957_00",
@@ -49064,6 +49072,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA10946_00",
+    "conceptId": 10005565,
+    "name": "Among Us VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10947_00",
     "conceptId": 10006404,
     "name": "Rhapsody: Marl Kingdom Chronicles",
@@ -50098,10 +50114,10 @@
   {
     "titleId": "PPSA11150_00",
     "conceptId": 10005379,
-    "name": "REZZIL PLAYER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rezzil Player",
+    "contentId": "UP5928-PPSA11150_00-6843922805488902",
+    "region": "UP",
+    "publisherId": "UP5928"
   },
   {
     "titleId": "PPSA11155_00",
@@ -52155,9 +52171,9 @@
     "titleId": "PPSA12380_00",
     "conceptId": 10006504,
     "name": "KarmaZoo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3643-PPSA12380_00-KZPS5000000000EU",
+    "region": "EP",
+    "publisherId": "EP3643"
   },
   {
     "titleId": "PPSA12381_00",
@@ -52241,6 +52257,14 @@
   },
   {
     "titleId": "PPSA12396_00",
+    "conceptId": 10006870,
+    "name": "Truck and Logistics Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12397_00",
     "conceptId": 10006870,
     "name": "Truck and Logistics Simulator",
     "contentId": null,
@@ -52374,6 +52398,14 @@
     "contentId": "UP6472-PPSA12439_00-FURRYTANGRAMLITE",
     "region": "UP",
     "publisherId": "UP6472"
+  },
+  {
+    "titleId": "PPSA12440_00",
+    "conceptId": 10005271,
+    "name": "Hiveswap Friendsim",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12447_00",
@@ -55048,12 +55080,28 @@
     "publisherId": "HP7267"
   },
   {
+    "titleId": "PPSA13606_00",
+    "conceptId": 10007268,
+    "name": "Hamster On Rails",
+    "contentId": "JP7221-PPSA13606_00-0282949245511597",
+    "region": "JP",
+    "publisherId": "JP7221"
+  },
+  {
     "titleId": "PPSA13607_00",
     "conceptId": 10007268,
     "name": "Hamster On Rails",
     "contentId": "EP7246-PPSA13607_00-0819322670694515",
     "region": "EP",
     "publisherId": "EP7246"
+  },
+  {
+    "titleId": "PPSA13608_00",
+    "conceptId": 10007268,
+    "name": "Hamster On Rails",
+    "contentId": "UP7249-PPSA13608_00-0977616848206763",
+    "region": "UP",
+    "publisherId": "UP7249"
   },
   {
     "titleId": "PPSA13609_00",
@@ -56310,6 +56358,14 @@
     "contentId": "EP2005-PPSA13873_00-COLORPALS0000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA13874_00",
+    "conceptId": 10007391,
+    "name": "Stickman's Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13875_00",
@@ -58046,6 +58102,14 @@
     "contentId": "EP0177-PPSA14205_00-DEMO000000000000",
     "region": "EP",
     "publisherId": "EP0177"
+  },
+  {
+    "titleId": "PPSA14212_00",
+    "conceptId": 10007409,
+    "name": "\u604b\u6765\u3044\u6e29\u6cc9\u7269\u8a9e",
+    "contentId": "JP8360-PPSA14212_00-0000000000000001",
+    "region": "JP",
+    "publisherId": "JP8360"
   },
   {
     "titleId": "PPSA14213_00",
@@ -59883,9 +59947,9 @@
     "titleId": "PPSA15246_00",
     "conceptId": 10007904,
     "name": "Teardown",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6856-PPSA15246_00-TRDNBASE00000000",
+    "region": "UP",
+    "publisherId": "UP6856"
   },
   {
     "titleId": "PPSA15247_00",
@@ -61651,9 +61715,9 @@
     "titleId": "PPSA15732_00",
     "conceptId": 10008113,
     "name": "The Walking Dead: Destinies",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0281-PPSA15732_00-0681758540426963",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA15733_00",
@@ -63514,16 +63578,16 @@
   {
     "titleId": "PPSA16195_00",
     "conceptId": 10005896,
-    "name": "Persona 5 Tactica PS4 & PS5",
-    "contentId": null,
+    "name": "Persona 5 Tactica",
+    "contentId": "UP0177-PPSA16195_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA16196_00",
     "conceptId": 10005896,
-    "name": "Persona 5 Tactica PS4 & PS5",
-    "contentId": null,
+    "name": "Persona 5 Tactica",
+    "contentId": "EP0177-PPSA16196_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -64658,8 +64722,8 @@
   {
     "titleId": "PPSA16520_00",
     "conceptId": 10005896,
-    "name": "Persona 5 Tactica PS4 & PS5",
-    "contentId": null,
+    "name": "Persona 5 Tactica",
+    "contentId": "HP0177-PPSA16520_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP0177"
   },
@@ -67496,6 +67560,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA17555_00",
+    "conceptId": 10008845,
+    "name": "Rock 'N Racing Off Road & Rally",
+    "contentId": "JP5432-PPSA17555_00-0084335702032814",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA17556_00",
     "conceptId": 10008838,
     "name": "Pixel Cafe",
@@ -67579,9 +67651,9 @@
     "titleId": "PPSA17615_00",
     "conceptId": 10008868,
     "name": "Low Story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA17615_00-0080168819362391",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA17616_00",
@@ -67726,6 +67798,22 @@
     "contentId": "EP6718-PPSA17667_00-0946294498465375",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA17696_00",
+    "conceptId": 10008888,
+    "name": "Yatzi",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17697_00",
+    "conceptId": 10008888,
+    "name": "Yatzi",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17705_00",
@@ -68006,6 +68094,14 @@
     "contentId": "EP2363-PPSA17854_00-EU0ALPHA12000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA17862_00",
+    "conceptId": 10005045,
+    "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0036"
   },
   {
     "titleId": "PPSA17863_00",
@@ -68331,17 +68427,17 @@
     "titleId": "PPSA18024_00",
     "conceptId": 10009024,
     "name": "The Myth Seekers 2: The Sunken City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1667-PPSA18024_00-TMS2X2023PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
   },
   {
     "titleId": "PPSA18025_00",
     "conceptId": 10009024,
     "name": "The Myth Seekers 2: The Sunken City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1681-PPSA18025_00-TMS2X2023PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA18037_00",
@@ -68358,6 +68454,22 @@
     "contentId": "EP5376-PPSA18038_00-0817355893922519",
     "region": "EP",
     "publisherId": "EP5376"
+  },
+  {
+    "titleId": "PPSA18052_00",
+    "conceptId": 10008690,
+    "name": "Luto",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18053_00",
+    "conceptId": 10008690,
+    "name": "Luto",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18056_00",
@@ -68498,10 +68610,10 @@
   {
     "titleId": "PPSA18122_00",
     "conceptId": 10009054,
-    "name": "Christmas Massacre",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CHRISTMAS MASSACRE",
+    "contentId": "UP6778-PPSA18122_00-0786894798950615",
+    "region": "UP",
+    "publisherId": "UP6778"
   },
   {
     "titleId": "PPSA18125_00",
@@ -68716,6 +68828,22 @@
     "conceptId": 10009093,
     "name": "Big Adventure: Trip to Europe 4",
     "contentId": "UP1421-PPSA18233_00-0459486718293149",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA18236_00",
+    "conceptId": 10009095,
+    "name": "Detective Agency Gray Tie 2",
+    "contentId": "EP1411-PPSA18236_00-0154737582854672",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA18237_00",
+    "conceptId": 10009095,
+    "name": "Detective Agency Gray Tie 2",
+    "contentId": "UP1421-PPSA18237_00-0681699748160669",
     "region": "UP",
     "publisherId": "UP1421"
   },
@@ -69544,6 +69672,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA18726_00",
+    "conceptId": 10005045,
+    "name": "UNDER NIGHT IN-BIRTH II Sys:Celes - Open\u03b2",
+    "contentId": "JP0036-PPSA18726_00-UNI2OBTJP0000000",
+    "region": "JP",
+    "publisherId": "JP0036"
+  },
+  {
     "titleId": "PPSA18728_00",
     "conceptId": 10006908,
     "name": "Speed or Death",
@@ -69566,6 +69702,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA18738_00",
+    "conceptId": 10005045,
+    "name": "UNDER NIGHT IN-BIRTH II Sys:Celes - Open\u03b2",
+    "contentId": "UP0036-PPSA18738_00-UNI2OBTUS0000000",
+    "region": "UP",
+    "publisherId": "UP0036"
+  },
+  {
+    "titleId": "PPSA18739_00",
+    "conceptId": 10005045,
+    "name": "UNDER NIGHT IN-BIRTH II Sys:Celes - Open\u03b2",
+    "contentId": "EP0036-PPSA18739_00-UNI2OBTEU0000000",
+    "region": "EP",
+    "publisherId": "EP0036"
   },
   {
     "titleId": "PPSA18758_00",
@@ -69802,26 +69954,26 @@
   {
     "titleId": "PPSA18854_00",
     "conceptId": 10009054,
-    "name": "Christmas Massacre",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CHRISTMAS MASSACRE",
+    "contentId": "EP6776-PPSA18854_00-0300698335791204",
+    "region": "EP",
+    "publisherId": "EP6776"
   },
   {
     "titleId": "PPSA18855_00",
     "conceptId": 10009054,
-    "name": "Christmas Massacre",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CHRISTMAS MASSACRE",
+    "contentId": "JP6727-PPSA18855_00-0743118811551594",
+    "region": "JP",
+    "publisherId": "JP6727"
   },
   {
     "titleId": "PPSA18856_00",
     "conceptId": 10009054,
-    "name": "Christmas Massacre",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CHRISTMAS MASSACRE",
+    "contentId": "HP6784-PPSA18856_00-0503666527880958",
+    "region": "HP",
+    "publisherId": "HP6784"
   },
   {
     "titleId": "PPSA18865_00",
@@ -69891,6 +70043,14 @@
     "titleId": "PPSA18930_00",
     "conceptId": 10008955,
     "name": "Roots Of Pacha",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18963_00",
+    "conceptId": 10009351,
+    "name": "Orten Was The Case",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -70006,6 +70166,14 @@
     "contentId": "JP6398-PPSA19018_00-OPWOLFPS500000JP",
     "region": "JP",
     "publisherId": "JP6398"
+  },
+  {
+    "titleId": "PPSA19019_00",
+    "conceptId": 10009375,
+    "name": "Evil Diary",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19024_00",
@@ -70240,6 +70408,14 @@
     "publisherId": "EP6664"
   },
   {
+    "titleId": "PPSA19284_00",
+    "conceptId": 10008814,
+    "name": "Mr. Hibbl: The Lost Levels - DEMO",
+    "contentId": "UP6664-PPSA19284_00-0995232984603648",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA19285_00",
     "conceptId": 10008814,
     "name": "Mr. Hibbl: The Lost Levels - DEMO",
@@ -70278,6 +70454,14 @@
     "contentId": "EP0896-PPSA19306_00-RUNNYKRATALGAMES",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA19307_00",
+    "conceptId": 10009479,
+    "name": "Runnyk",
+    "contentId": "UP0891-PPSA19307_00-RUNNYKRATALGAMES",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19314_00",
@@ -70470,6 +70654,22 @@
     "contentId": "EP8645-PPSA19653_00-0000000000000001",
     "region": "EP",
     "publisherId": "EP8645"
+  },
+  {
+    "titleId": "PPSA19735_00",
+    "conceptId": 10003275,
+    "name": "Weedcraft Inc",
+    "contentId": "UP4713-PPSA19735_00-0984734359663540",
+    "region": "UP",
+    "publisherId": "UP4713"
+  },
+  {
+    "titleId": "PPSA19736_00",
+    "conceptId": 10003275,
+    "name": "Weedcraft Inc",
+    "contentId": "EP4886-PPSA19736_00-0146947043990439",
+    "region": "EP",
+    "publisherId": "EP4886"
   },
   {
     "titleId": "PPSA19775_00",
