@@ -27075,7 +27075,7 @@
     "titleId": "PPSA06927_00",
     "conceptId": 10004639,
     "name": "Warhammer Age of Sigmar: Realms of Ruin",
-    "contentId": null,
+    "contentId": "UP2514-PPSA06927_00-AOSREALMSOFRUIN0",
     "region": "UP",
     "publisherId": "UP2514"
   },
@@ -63296,6 +63296,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA16098_00",
+    "conceptId": 10008233,
+    "name": "\u30b0\u30e9\u30f3\u30c7\u30a3\u30a2",
+    "contentId": "JP0184-PPSA16098_00-SLPS021240000000",
+    "region": "JP",
+    "publisherId": "JP0184"
+  },
+  {
     "titleId": "PPSA16099_00",
     "conceptId": 10008232,
     "name": "TOSS!",
@@ -63704,6 +63712,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA16207_00",
+    "conceptId": 10008233,
+    "name": "Grandia",
+    "contentId": "UP8745-PPSA16207_00-SCUS944570000000",
+    "region": "UP",
+    "publisherId": "UP8745"
+  },
+  {
     "titleId": "PPSA16219_00",
     "conceptId": 10004500,
     "name": "Operation Wolf Returns: First Mission VR",
@@ -63798,6 +63814,14 @@
     "contentId": "JP0676-PPSA16243_00-GOODBYEVOLCANOHI",
     "region": "JP",
     "publisherId": "JP0676"
+  },
+  {
+    "titleId": "PPSA16247_00",
+    "conceptId": 10008318,
+    "name": "Rough Justice: '84",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16248_00",
@@ -64888,12 +64912,36 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA16530_00",
+    "conceptId": 10008412,
+    "name": "Irem Collection Volume 1",
+    "contentId": "EP8204-PPSA16530_00-IREMCOLL000001EU",
+    "region": "EP",
+    "publisherId": "EP8204"
+  },
+  {
     "titleId": "PPSA16531_00",
     "conceptId": 10008412,
-    "name": "Irem Collection Volume 1 PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Irem Collection Volume 1",
+    "contentId": "UP8012-PPSA16531_00-IREMCOLL000001US",
+    "region": "UP",
+    "publisherId": "UP8012"
+  },
+  {
+    "titleId": "PPSA16535_00",
+    "conceptId": 10008415,
+    "name": "Jet Rider",
+    "contentId": "UP9000-PPSA16535_00-SCUS943090000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA16536_00",
+    "conceptId": 10008415,
+    "name": "Jet Moto",
+    "contentId": "JP9000-PPSA16536_00-SIPS600200000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA16538_00",
@@ -65355,7 +65403,7 @@
     "titleId": "PPSA16665_00",
     "conceptId": 10008469,
     "name": "Worldless",
-    "contentId": null,
+    "contentId": "UP2680-PPSA16665_00-WORLDLESSPS50000",
     "region": "UP",
     "publisherId": "UP2680"
   },
@@ -65363,7 +65411,7 @@
     "titleId": "PPSA16666_00",
     "conceptId": 10008469,
     "name": "Worldless",
-    "contentId": null,
+    "contentId": "EP5360-PPSA16666_00-WORLDLESSPS50000",
     "region": "EP",
     "publisherId": "EP5360"
   },
@@ -66011,17 +66059,17 @@
     "titleId": "PPSA16875_00",
     "conceptId": 234013,
     "name": "Habroxia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4836-PPSA16875_00-0583491219047151",
+    "region": "UP",
+    "publisherId": "UP4836"
   },
   {
     "titleId": "PPSA16876_00",
     "conceptId": 234013,
     "name": "Habroxia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5011-PPSA16876_00-0272194607890913",
+    "region": "EP",
+    "publisherId": "EP5011"
   },
   {
     "titleId": "PPSA16881_00",
@@ -66358,6 +66406,22 @@
     "contentId": "JP4792-PPSA16980_00-0698747458378822",
     "region": "JP",
     "publisherId": "JP4792"
+  },
+  {
+    "titleId": "PPSA16981_00",
+    "conceptId": 10008603,
+    "name": "Crashy Laps",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16982_00",
+    "conceptId": 10008603,
+    "name": "Crashy Laps",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16985_00",
@@ -66995,9 +67059,9 @@
     "titleId": "PPSA17218_00",
     "conceptId": 10008710,
     "name": "Jurassic Park Classic Games Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6890-PPSA17218_00-0134285905209436",
+    "region": "EP",
+    "publisherId": "EP6890"
   },
   {
     "titleId": "PPSA17225_00",
@@ -67322,10 +67386,10 @@
   {
     "titleId": "PPSA17388_00",
     "conceptId": 10008412,
-    "name": "Irem Collection Volume 1 PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30a2\u30a4\u30ec\u30e0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Volume 1",
+    "contentId": "JP0045-PPSA17388_00-IREMCOLL000001JP",
+    "region": "JP",
+    "publisherId": "JP0045"
   },
   {
     "titleId": "PPSA17389_00",
@@ -69144,6 +69208,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18298_00",
+    "conceptId": 10009121,
+    "name": "Arcadian Atlas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18320_00",
     "conceptId": 10009127,
     "name": "Ravva and the Phantom Library",
@@ -69174,6 +69246,14 @@
     "contentId": "EP2005-PPSA18323_00-LILYINPUZZLEWORL",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA18328_00",
+    "conceptId": 234277,
+    "name": "Five Nights At Freddy's: Help Wanted",
+    "contentId": "UP0638-PPSA18328_00-FNAFHELPWANTEDVR",
+    "region": "UP",
+    "publisherId": "UP0638"
   },
   {
     "titleId": "PPSA18330_00",
@@ -69434,10 +69514,10 @@
   {
     "titleId": "PPSA18463_00",
     "conceptId": 10007460,
-    "name": "Baldur's Gate 3",
+    "name": "\u30d0\u30eb\u30c0\u30fc\u30ba\u30fb\u30b2\u30fc\u30c83",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP0365"
   },
   {
     "titleId": "PPSA18499_00",
@@ -69867,9 +69947,9 @@
     "titleId": "PPSA18734_00",
     "conceptId": 10009289,
     "name": "SETTRIS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA18734_00-STTRGAME00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA18735_00",
@@ -70232,6 +70312,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18964_00",
+    "conceptId": 10009351,
+    "name": "Orten Was The Case",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18972_00",
+    "conceptId": 10009017,
+    "name": "ToTheSky",
+    "contentId": "EP6681-PPSA18972_00-0550974260220103",
+    "region": "EP",
+    "publisherId": "EP6681"
+  },
+  {
     "titleId": "PPSA18974_00",
     "conceptId": 10008939,
     "name": "TOKYO PSYCHODEMIC DEMO",
@@ -70579,17 +70675,17 @@
     "titleId": "PPSA19269_00",
     "conceptId": 10009383,
     "name": "The Perplexing Orb: Bounce N' Roll",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4947-PPSA19269_00-ORBBOUNCENROLL12",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA19270_00",
     "conceptId": 10009383,
     "name": "The Perplexing Orb: Bounce N' Roll",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5133-PPSA19270_00-ORBBOUNCENROLL12",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA19279_00",
