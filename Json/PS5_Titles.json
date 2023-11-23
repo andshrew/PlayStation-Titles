@@ -27314,8 +27314,8 @@
   {
     "titleId": "PPSA06981_00",
     "conceptId": 10004744,
-    "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS PS4 & PS5",
-    "contentId": null,
+    "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+    "contentId": "UP0700-PPSA06981_00-NARUTOUNSA000000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -56779,9 +56779,9 @@
     "titleId": "PPSA13937_00",
     "conceptId": 10007419,
     "name": "In Stars and Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2638-PPSA13937_00-0987859668857218",
+    "region": "EP",
+    "publisherId": "EP2638"
   },
   {
     "titleId": "PPSA13938_00",
@@ -58830,6 +58830,14 @@
     "contentId": "EP8291-PPSA14377_00-ROLLERDRAPS5SIEE",
     "region": "EP",
     "publisherId": "EP8291"
+  },
+  {
+    "titleId": "PPSA14378_00",
+    "conceptId": 10007630,
+    "name": "Disney\u2022Pixar Up",
+    "contentId": "UP1082-PPSA14378_00-ULUS104300000000",
+    "region": "UP",
+    "publisherId": "UP1082"
   },
   {
     "titleId": "PPSA14380_00",
@@ -63720,6 +63728,14 @@
     "publisherId": "UP8745"
   },
   {
+    "titleId": "PPSA16208_00",
+    "conceptId": 10008233,
+    "name": "Grandia",
+    "contentId": "EP0184-PPSA16208_00-SLES023970000000",
+    "region": "EP",
+    "publisherId": "EP0184"
+  },
+  {
     "titleId": "PPSA16219_00",
     "conceptId": 10004500,
     "name": "Operation Wolf Returns: First Mission VR",
@@ -63814,6 +63830,14 @@
     "contentId": "JP0676-PPSA16243_00-GOODBYEVOLCANOHI",
     "region": "JP",
     "publisherId": "JP0676"
+  },
+  {
+    "titleId": "PPSA16246_00",
+    "conceptId": 10008318,
+    "name": "Rough Justice: '84",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16247_00",
@@ -67051,9 +67075,9 @@
     "titleId": "PPSA17217_00",
     "conceptId": 10008710,
     "name": "Jurassic Park Classic Games Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6893-PPSA17217_00-0023964748574810",
+    "region": "UP",
+    "publisherId": "UP6893"
   },
   {
     "titleId": "PPSA17218_00",
@@ -67158,6 +67182,22 @@
     "contentId": "UP0177-PPSA17272_00-FM24NA0000000000",
     "region": "UP",
     "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA17278_00",
+    "conceptId": 10008732,
+    "name": "While the Iron's Hot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17279_00",
+    "conceptId": 10008732,
+    "name": "While the Iron's Hot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17282_00",
@@ -69208,6 +69248,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18297_00",
+    "conceptId": 10009121,
+    "name": "Arcadian Atlas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18298_00",
     "conceptId": 10009121,
     "name": "Arcadian Atlas",
@@ -69254,6 +69302,14 @@
     "contentId": "UP0638-PPSA18328_00-FNAFHELPWANTEDVR",
     "region": "UP",
     "publisherId": "UP0638"
+  },
+  {
+    "titleId": "PPSA18329_00",
+    "conceptId": 234277,
+    "name": "Five Nights At Freddy's: Help Wanted",
+    "contentId": "EP0634-PPSA18329_00-FNAFHELPWANTEDVR",
+    "region": "EP",
+    "publisherId": "EP0634"
   },
   {
     "titleId": "PPSA18330_00",
@@ -69955,9 +70011,9 @@
     "titleId": "PPSA18735_00",
     "conceptId": 10009289,
     "name": "SETTRIS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA18735_00-STTRGAME00000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA18738_00",
@@ -70400,6 +70456,14 @@
     "publisherId": "HP1200"
   },
   {
+    "titleId": "PPSA18994_00",
+    "conceptId": 10009017,
+    "name": "ToTheSky",
+    "contentId": "UP6682-PPSA18994_00-0790700647112537",
+    "region": "UP",
+    "publisherId": "UP6682"
+  },
+  {
     "titleId": "PPSA18998_00",
     "conceptId": 10007404,
     "name": "Mars Base",
@@ -70488,12 +70552,36 @@
     "publisherId": "UP8133"
   },
   {
+    "titleId": "PPSA19057_00",
+    "conceptId": 10009387,
+    "name": "Guess the Word",
+    "contentId": "UP7335-PPSA19057_00-0353794197455866",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA19058_00",
     "conceptId": 10009387,
     "name": "Guess the Word",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA19058_00-0074390551291210",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA19059_00",
+    "conceptId": 10009387,
+    "name": "Guess the Word",
+    "contentId": "JP7309-PPSA19059_00-0769867431120324",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA19060_00",
+    "conceptId": 10009387,
+    "name": "Guess the Word",
+    "contentId": "HP7354-PPSA19060_00-0075410872638298",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA19099_00",
@@ -70590,6 +70678,22 @@
     "contentId": "JP0425-PPSA19147_00-YS10NORDICSTRIAL",
     "region": "JP",
     "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA19150_00",
+    "conceptId": 10009427,
+    "name": "Towers Watch",
+    "contentId": "UP7738-PPSA19150_00-0307812807584947",
+    "region": "UP",
+    "publisherId": "UP7738"
+  },
+  {
+    "titleId": "PPSA19151_00",
+    "conceptId": 10009427,
+    "name": "Towers Watch",
+    "contentId": "EP7736-PPSA19151_00-0759505571389788",
+    "region": "EP",
+    "publisherId": "EP7736"
   },
   {
     "titleId": "PPSA19173_00",
@@ -70950,6 +71054,22 @@
     "contentId": "EP5335-PPSA19632_00-SYNERGIADEMO0000",
     "region": "EP",
     "publisherId": "EP5335"
+  },
+  {
+    "titleId": "PPSA19635_00",
+    "conceptId": 10009611,
+    "name": "Submarines",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19637_00",
+    "conceptId": 10009611,
+    "name": "Submarines",
+    "contentId": "JP0089-PPSA19637_00-0604016829236134",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA19648_00",
