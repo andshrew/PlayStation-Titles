@@ -69384,6 +69384,14 @@
     "publisherId": "JP6752"
   },
   {
+    "titleId": "PPSA18388_00",
+    "conceptId": 10008237,
+    "name": "Pinball M",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18389_00",
     "conceptId": 10001945,
     "name": "Optus Sport",
@@ -69514,10 +69522,10 @@
   {
     "titleId": "PPSA18434_00",
     "conceptId": 10009161,
-    "name": "Alina Of The Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Alina of the Arena",
+    "contentId": "UP4127-PPSA18434_00-ALINAOTARENAUS00",
+    "region": "UP",
+    "publisherId": "UP4127"
   },
   {
     "titleId": "PPSA18435_00",
@@ -70507,9 +70515,9 @@
     "titleId": "PPSA19019_00",
     "conceptId": 10009375,
     "name": "Evil Diary",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19019_00-EVILDIARYRATAGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA19020_00",
@@ -71034,10 +71042,10 @@
   {
     "titleId": "PPSA19626_00",
     "conceptId": 10009161,
-    "name": "Alina Of The Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Alina of the Arena",
+    "contentId": "EP3919-PPSA19626_00-ALINAOTARENAEU00",
+    "region": "EP",
+    "publisherId": "EP3919"
   },
   {
     "titleId": "PPSA19631_00",
@@ -71059,9 +71067,17 @@
     "titleId": "PPSA19635_00",
     "conceptId": 10009611,
     "name": "Submarines",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA19635_00-0170651414789172",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA19636_00",
+    "conceptId": 10009611,
+    "name": "Submarines",
+    "contentId": "UP4312-PPSA19636_00-0929643594609889",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA19637_00",
