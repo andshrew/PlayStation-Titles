@@ -19888,6 +19888,14 @@
     "publisherId": "HP8918"
   },
   {
+    "titleId": "PPSA05528_00",
+    "conceptId": 10000259,
+    "name": "RISING DUSK",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05531_00",
     "conceptId": 10003942,
     "name": "The Trap Remake",
@@ -51696,6 +51704,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11487_00",
+    "conceptId": 10006593,
+    "name": "Missing parts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11494_00",
     "conceptId": 231180,
     "name": "Warhammer 40,000: Inquisitor - Martyr",
@@ -52318,6 +52334,14 @@
     "contentId": "EP6718-PPSA12399_00-8699178712697377",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA12405_00",
+    "conceptId": 10006873,
+    "name": "THE FINALS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12406_00",
@@ -53115,9 +53139,9 @@
     "titleId": "PPSA12606_00",
     "conceptId": 10006949,
     "name": "Meteor Crusher",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA12606_00-0336997352979066",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA12607_00",
@@ -55054,6 +55078,22 @@
     "contentId": "UP2320-PPSA13582_00-0133071801618436",
     "region": "UP",
     "publisherId": "UP2320"
+  },
+  {
+    "titleId": "PPSA13584_00",
+    "conceptId": 10006602,
+    "name": "Namariel Legends: Iron Lord - Collectors Edition",
+    "contentId": "EP1629-PPSA13584_00-NAMARIELLJDPS5EU",
+    "region": "EP",
+    "publisherId": "EP1629"
+  },
+  {
+    "titleId": "PPSA13585_00",
+    "conceptId": 10006602,
+    "name": "Namariel Legends: Iron Lord - Collectors Edition",
+    "contentId": "UP1643-PPSA13585_00-NAMARIELLJDPS5US",
+    "region": "UP",
+    "publisherId": "UP1643"
   },
   {
     "titleId": "PPSA13592_00",
@@ -70336,12 +70376,36 @@
     "publisherId": "HP2993"
   },
   {
+    "titleId": "PPSA18880_00",
+    "conceptId": 10009323,
+    "name": "White Wings",
+    "contentId": "UP8281-PPSA18880_00-0298585943000738",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
     "titleId": "PPSA18881_00",
     "conceptId": 10009323,
     "name": "White Wings",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8472-PPSA18881_00-0649822017766078",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA18882_00",
+    "conceptId": 10009323,
+    "name": "White Wings \u30db\u30ef\u30a4\u30c8\u30a6\u30a3\u30f3\u30b0\u30b9",
+    "contentId": "JP8187-PPSA18882_00-0603380495535055",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "PPSA18883_00",
+    "conceptId": 10009323,
+    "name": "White Wings",
+    "contentId": "HP8232-PPSA18883_00-0864463556614320",
+    "region": "HP",
+    "publisherId": "HP8232"
   },
   {
     "titleId": "PPSA18893_00",
@@ -71056,6 +71120,14 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA19620_00",
+    "conceptId": 10004680,
+    "name": "Totally Normal Journey : The Interactive Musical",
+    "contentId": "UP7605-PPSA19620_00-0407358614304272",
+    "region": "UP",
+    "publisherId": "UP7605"
+  },
+  {
     "titleId": "PPSA19626_00",
     "conceptId": 10009161,
     "name": "Alina of the Arena",
@@ -71200,6 +71272,22 @@
     "publisherId": "UP7161"
   },
   {
+    "titleId": "PPSA20029_00",
+    "conceptId": 10004680,
+    "name": "Totally Normal Journey : The Interactive Musical",
+    "contentId": "EP7603-PPSA20029_00-0310818337337680",
+    "region": "EP",
+    "publisherId": "EP7603"
+  },
+  {
+    "titleId": "PPSA20030_00",
+    "conceptId": 10004680,
+    "name": "Totally Normal Journey : The Interactive Musical",
+    "contentId": "JP7586-PPSA20030_00-0635286682625553",
+    "region": "JP",
+    "publisherId": "JP7586"
+  },
+  {
     "titleId": "PPSA20122_00",
     "conceptId": 10007682,
     "name": "Happi Basudei",
@@ -71222,5 +71310,13 @@
     "contentId": "HP8504-PPSA20124_00-0197575668903380",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA20125_00",
+    "conceptId": 10004680,
+    "name": "Totally Normal Journey : The Interactive Musical",
+    "contentId": "HP7632-PPSA20125_00-0018353038801016",
+    "region": "HP",
+    "publisherId": "HP7632"
   }
 ]
