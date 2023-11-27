@@ -10363,9 +10363,9 @@
     "titleId": "PPSA03608_00",
     "conceptId": 10002816,
     "name": "Astral Ascent",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6246-PPSA03608_00-ASTRALASCEN00001",
+    "region": "UP",
+    "publisherId": "UP6246"
   },
   {
     "titleId": "PPSA03609_00",
@@ -19889,6 +19889,14 @@
   },
   {
     "titleId": "PPSA05528_00",
+    "conceptId": 10000259,
+    "name": "RISING DUSK",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA05529_00",
     "conceptId": 10000259,
     "name": "RISING DUSK",
     "contentId": null,
@@ -59070,6 +59078,14 @@
     "contentId": "UP6514-PPSA14429_00-0801457669656113",
     "region": "UP",
     "publisherId": "UP6514"
+  },
+  {
+    "titleId": "PPSA14458_00",
+    "conceptId": 10007314,
+    "name": "Born Of Bread",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14459_00",
