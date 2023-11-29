@@ -10371,9 +10371,9 @@
     "titleId": "PPSA03609_00",
     "conceptId": 10002816,
     "name": "Astral Ascent",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6245-PPSA03609_00-ASTRALASCEN00001",
+    "region": "EP",
+    "publisherId": "EP6245"
   },
   {
     "titleId": "PPSA03618_00",
@@ -26734,6 +26734,14 @@
     "contentId": "UP0814-PPSA06832_00-2489292389280146",
     "region": "UP",
     "publisherId": "UP0814"
+  },
+  {
+    "titleId": "PPSA06843_00",
+    "conceptId": 10003459,
+    "name": "Enclave HD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06846_00",
@@ -47392,6 +47400,22 @@
     "publisherId": "HP0874"
   },
   {
+    "titleId": "PPSA10650_00",
+    "conceptId": 10006293,
+    "name": "Hidden Paws",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10651_00",
+    "conceptId": 10006293,
+    "name": "Hidden Paws",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10652_00",
     "conceptId": 10006293,
     "name": "Hidden Paws",
@@ -49238,6 +49262,14 @@
     "contentId": "UP1475-PPSA10960_00-SYBERIA4PS50000U",
     "region": "UP",
     "publisherId": "UP1475"
+  },
+  {
+    "titleId": "PPSA10962_00",
+    "conceptId": 10006295,
+    "name": "The Inquisitor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10966_00",
@@ -64296,6 +64328,14 @@
     "publisherId": "EB0015"
   },
   {
+    "titleId": "PPSA16361_00",
+    "conceptId": 10007449,
+    "name": "Bear and Breakfast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16363_00",
     "conceptId": 10008351,
     "name": "ShapeNeon Chaos",
@@ -65206,6 +65246,14 @@
     "contentId": "JP0075-PPSA16568_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP0075"
+  },
+  {
+    "titleId": "PPSA16571_00",
+    "conceptId": 10008431,
+    "name": "8 & 9 Ball Pocket",
+    "contentId": "JP5432-PPSA16571_00-0108125182499195",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA16580_00",
@@ -67379,17 +67427,17 @@
     "titleId": "PPSA17327_00",
     "conceptId": 10008626,
     "name": "Suicide Guy VR Deluxe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2659-PPSA17327_00-0383589611320371",
+    "region": "EP",
+    "publisherId": "EP2659"
   },
   {
     "titleId": "PPSA17328_00",
     "conceptId": 10008626,
     "name": "Suicide Guy VR Deluxe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2796-PPSA17328_00-0308332033978475",
+    "region": "UP",
+    "publisherId": "UP2796"
   },
   {
     "titleId": "PPSA17329_00",
@@ -67646,6 +67694,14 @@
     "contentId": "EP1063-PPSA17440_00-CRYMACHINADEMOEU",
     "region": "EP",
     "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA17442_00",
+    "conceptId": 10008799,
+    "name": "Motesolo: No Girlfriend Since Birth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17454_00",
@@ -68294,6 +68350,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17780_00",
+    "conceptId": 10008778,
+    "name": "Howl",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6238"
   },
   {
     "titleId": "PPSA17786_00",
@@ -69800,6 +69864,14 @@
     "publisherId": "EP0995"
   },
   {
+    "titleId": "PPSA18558_00",
+    "conceptId": 10002391,
+    "name": "Supfly Delivery Simulator",
+    "contentId": "UP6881-PPSA18558_00-0090649501788198",
+    "region": "UP",
+    "publisherId": "UP6881"
+  },
+  {
     "titleId": "PPSA18569_00",
     "conceptId": 10008937,
     "name": "KAMiBAKO - Mythology of Cube - DEMO",
@@ -70096,6 +70168,14 @@
     "publisherId": "JP0036"
   },
   {
+    "titleId": "PPSA18727_00",
+    "conceptId": 10005844,
+    "name": "Dragon's Dogma 2",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0102"
+  },
+  {
     "titleId": "PPSA18728_00",
     "conceptId": 10006908,
     "name": "Speed or Death",
@@ -70330,10 +70410,10 @@
   {
     "titleId": "PPSA18837_00",
     "conceptId": 10008955,
-    "name": "Roots Of Pacha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Roots of Pacha",
+    "contentId": "UB0085-PPSA18837_00-0948967029670211",
+    "region": "UB",
+    "publisherId": "UB0085"
   },
   {
     "titleId": "PPSA18840_00",
@@ -70474,26 +70554,26 @@
   {
     "titleId": "PPSA18928_00",
     "conceptId": 10008955,
-    "name": "Roots Of Pacha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Roots of Pacha",
+    "contentId": "EB0275-PPSA18928_00-0700800232590792",
+    "region": "EB",
+    "publisherId": "EB0275"
   },
   {
     "titleId": "PPSA18929_00",
     "conceptId": 10008955,
-    "name": "Roots Of Pacha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Roots of Pacha",
+    "contentId": "JP8792-PPSA18929_00-0147397086876564",
+    "region": "JP",
+    "publisherId": "JP8792"
   },
   {
     "titleId": "PPSA18930_00",
     "conceptId": 10008955,
-    "name": "Roots Of Pacha",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Roots of Pacha",
+    "contentId": "HB0035-PPSA18930_00-0026091180211841",
+    "region": "HB",
+    "publisherId": "HB0035"
   },
   {
     "titleId": "PPSA18963_00",
@@ -71184,6 +71264,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA19555_00",
+    "conceptId": 10009579,
+    "name": "Puzzle Vacations: Australia and New Zealand",
+    "contentId": "EP1411-PPSA19555_00-0621783867524627",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA19556_00",
+    "conceptId": 10009579,
+    "name": "Puzzle Vacations: Australia and New Zealand",
+    "contentId": "UP1421-PPSA19556_00-0298171411897293",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA19620_00",
     "conceptId": 10004680,
     "name": "Totally Normal Journey : The Interactive Musical",
@@ -71272,6 +71368,14 @@
     "publisherId": "EP8645"
   },
   {
+    "titleId": "PPSA19697_00",
+    "conceptId": 10008799,
+    "name": "Motesolo: No Girlfriend Since Birth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19735_00",
     "conceptId": 10003275,
     "name": "Weedcraft Inc",
@@ -71318,6 +71422,14 @@
     "contentId": "HP6691-PPSA19778_00-BUNNYMEMORYPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA19802_00",
+    "conceptId": 10003544,
+    "name": "Murder House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19922_00",
