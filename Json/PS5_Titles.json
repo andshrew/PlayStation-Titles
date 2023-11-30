@@ -11888,6 +11888,14 @@
     "publisherId": "EP0002"
   },
   {
+    "titleId": "PPSA03913_00",
+    "conceptId": 10001609,
+    "name": "Suicide Squad: Kill the Justice League",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1018"
+  },
+  {
     "titleId": "PPSA03914_00",
     "conceptId": 10002055,
     "name": "Catlateral Damage: Remeowstered",
@@ -64336,6 +64344,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16362_00",
+    "conceptId": 10007449,
+    "name": "Bear and Breakfast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16363_00",
     "conceptId": 10008351,
     "name": "ShapeNeon Chaos",
@@ -67352,20 +67368,36 @@
     "publisherId": "UP1570"
   },
   {
-    "titleId": "PPSA17285_00",
-    "conceptId": 10008736,
-    "name": "The Traveler's Path",
+    "titleId": "PPSA17283_00",
+    "conceptId": 10008735,
+    "name": "Saga of the Moon Priestess",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA17286_00",
-    "conceptId": 10008736,
-    "name": "The Traveler's Path",
+    "titleId": "PPSA17284_00",
+    "conceptId": 10008735,
+    "name": "Saga of the Moon Priestess",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17285_00",
+    "conceptId": 10008736,
+    "name": "The Traveler's Path",
+    "contentId": "UP2005-PPSA17285_00-THETRAVELERSPATH",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA17286_00",
+    "conceptId": 10008736,
+    "name": "The Traveler's Path",
+    "contentId": "EP2005-PPSA17286_00-THETRAVELERSPATH",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17306_00",
@@ -68352,6 +68384,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17779_00",
+    "conceptId": 10008778,
+    "name": "Howl",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6237"
+  },
+  {
     "titleId": "PPSA17780_00",
     "conceptId": 10008778,
     "name": "Howl",
@@ -68832,6 +68872,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18004_00",
+    "conceptId": 10008803,
+    "name": "Emergency Call - The Attack Squad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18005_00",
+    "conceptId": 10008803,
+    "name": "Emergency Call - The Attack Squad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18006_00",
     "conceptId": 10007130,
     "name": "Ghostbusters: Rise of the Ghost Lord",
@@ -68974,6 +69030,30 @@
     "contentId": "JP0082-PPSA18087_00-FOAMSTARSOBPARTY",
     "region": "JP",
     "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA18099_00",
+    "conceptId": 10009050,
+    "name": "Vertigo 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18101_00",
+    "conceptId": 10009050,
+    "name": "Vertigo 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18102_00",
+    "conceptId": 10009050,
+    "name": "Vertigo 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18103_00",
@@ -69864,6 +69944,14 @@
     "publisherId": "EP0995"
   },
   {
+    "titleId": "PPSA18556_00",
+    "conceptId": 10002391,
+    "name": "Supfly Delivery Simulator",
+    "contentId": "EP6878-PPSA18556_00-0622369903188215",
+    "region": "EP",
+    "publisherId": "EP6878"
+  },
+  {
     "titleId": "PPSA18558_00",
     "conceptId": 10002391,
     "name": "Supfly Delivery Simulator",
@@ -70579,12 +70667,20 @@
     "titleId": "PPSA18963_00",
     "conceptId": 10009351,
     "name": "Orten Was The Case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0420-PPSA18963_00-0588142180443110",
+    "region": "EB",
+    "publisherId": "EB0420"
   },
   {
     "titleId": "PPSA18964_00",
+    "conceptId": 10009351,
+    "name": "Orten Was The Case",
+    "contentId": "UB0235-PPSA18964_00-0582308571732471",
+    "region": "UB",
+    "publisherId": "UB0235"
+  },
+  {
+    "titleId": "PPSA18967_00",
     "conceptId": 10009351,
     "name": "Orten Was The Case",
     "contentId": null,
@@ -70992,6 +71088,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA19206_00",
+    "conceptId": 10009445,
+    "name": "Wild & Adventure Pinball",
+    "contentId": "JP5432-PPSA19206_00-0962118078222787",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA19269_00",
     "conceptId": 10009383,
     "name": "The Perplexing Orb: Bounce N' Roll",
@@ -71376,6 +71480,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19730_00",
+    "conceptId": 10007199,
+    "name": "\u4f0a\u8607X -\u5317\u5883\u6b77\u96aa- \u9ad4\u9a57\u7248",
+    "contentId": "HP5846-PPSA19730_00-YS10NORDICSTRIAL",
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA19731_00",
+    "conceptId": 10007199,
+    "name": "Ys X: Nordics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19735_00",
     "conceptId": 10003275,
     "name": "Weedcraft Inc",
@@ -71390,6 +71510,14 @@
     "contentId": "EP4886-PPSA19736_00-0146947043990439",
     "region": "EP",
     "publisherId": "EP4886"
+  },
+  {
+    "titleId": "PPSA19762_00",
+    "conceptId": 10009658,
+    "name": "Cazzarion: Demon Hunting",
+    "contentId": "EB0629-PPSA19762_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA19775_00",
