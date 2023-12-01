@@ -30819,9 +30819,9 @@
     "titleId": "PPSA07664_00",
     "conceptId": 10003735,
     "name": "Forest Grove",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5733-PPSA07664_00-FORESTGROVEPS500",
+    "region": "EP",
+    "publisherId": "EP5733"
   },
   {
     "titleId": "PPSA07666_00",
@@ -36417,6 +36417,14 @@
   },
   {
     "titleId": "PPSA08715_00",
+    "conceptId": 10005531,
+    "name": "Not For Broadcast: VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08716_00",
     "conceptId": 10005531,
     "name": "Not For Broadcast: VR",
     "contentId": null,
@@ -49272,6 +49280,14 @@
     "publisherId": "UP1475"
   },
   {
+    "titleId": "PPSA10961_00",
+    "conceptId": 10006295,
+    "name": "The Inquisitor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10962_00",
     "conceptId": 10006295,
     "name": "The Inquisitor",
@@ -51771,17 +51787,17 @@
     "titleId": "PPSA11486_00",
     "conceptId": 10006593,
     "name": "Missing parts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA11486_00-1333353662108456",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA11487_00",
     "conceptId": 10006593,
     "name": "Missing parts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11487_00-5376416408782938",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA11494_00",
@@ -52378,18 +52394,18 @@
   {
     "titleId": "PPSA12396_00",
     "conceptId": 10006870,
-    "name": "Truck and Logistics Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Truck & Logistics Simulator",
+    "contentId": "EP2865-PPSA12396_00-TRUCKSANDLOGISTI",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA12397_00",
     "conceptId": 10006870,
-    "name": "Truck and Logistics Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Truck & Logistics Simulator",
+    "contentId": "UP3003-PPSA12397_00-TRUCKSANDLOGISTI",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA12398_00",
@@ -64506,10 +64522,10 @@
   {
     "titleId": "PPSA16397_00",
     "conceptId": 10005683,
-    "name": "Gangs of Sherwood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gangs of Sherwood - Digital Artbook",
+    "contentId": "UP6665-PPSA16397_00-GOS0000000000ART",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA16398_00",
@@ -66080,6 +66096,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16810_00",
+    "conceptId": 10008286,
+    "name": "ARK: Survival Ascended",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16813_00",
     "conceptId": 10007176,
     "name": "EA SPORTS FC\u2122 24",
@@ -66403,9 +66427,9 @@
     "titleId": "PPSA16918_00",
     "conceptId": 10008237,
     "name": "Pinball M",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4042-PPSA16918_00-PINBALLMPS500000",
+    "region": "UP",
+    "publisherId": "UP4042"
   },
   {
     "titleId": "PPSA16923_00",
@@ -66595,17 +66619,33 @@
     "titleId": "PPSA16981_00",
     "conceptId": 10008603,
     "name": "Crashy Laps",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA16981_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA16982_00",
     "conceptId": 10008603,
     "name": "Crashy Laps",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA16982_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA16983_00",
+    "conceptId": 10008603,
+    "name": "Crashy Laps",
+    "contentId": "JP3291-PPSA16983_00-JANDUSOFT0000001",
+    "region": "JP",
+    "publisherId": "JP3291"
+  },
+  {
+    "titleId": "PPSA16984_00",
+    "conceptId": 10008603,
+    "name": "Crashy Laps",
+    "contentId": "HP3199-PPSA16984_00-JANDUSOFT0000001",
+    "region": "HP",
+    "publisherId": "HP3199"
   },
   {
     "titleId": "PPSA16985_00",
@@ -66888,12 +66928,28 @@
     "publisherId": "JP0177"
   },
   {
+    "titleId": "PPSA17101_00",
+    "conceptId": 10008286,
+    "name": "ARK: Survival Ascended",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17104_00",
     "conceptId": 10005377,
     "name": "Adrian's Tale",
     "contentId": "UP1570-PPSA17104_00-0524791403384676",
     "region": "UP",
     "publisherId": "UP1570"
+  },
+  {
+    "titleId": "PPSA17107_00",
+    "conceptId": 10008662,
+    "name": "ForeVR Pool",
+    "contentId": "UP7299-PPSA17107_00-0714546143048644",
+    "region": "UP",
+    "publisherId": "UP7299"
   },
   {
     "titleId": "PPSA17113_00",
@@ -66910,6 +66966,14 @@
     "contentId": "UP1060-PPSA17114_00-0524781665241148",
     "region": "UP",
     "publisherId": "UP1060"
+  },
+  {
+    "titleId": "PPSA17115_00",
+    "conceptId": 10008663,
+    "name": "FOD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17117_00",
@@ -67128,6 +67192,14 @@
     "publisherId": "UP4729"
   },
   {
+    "titleId": "PPSA17181_00",
+    "conceptId": 10008690,
+    "name": "Luto",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17184_00",
     "conceptId": 10008694,
     "name": "Duck Race",
@@ -67230,6 +67302,14 @@
     "contentId": "EP2134-PPSA17207_00-0275681394041213",
     "region": "EP",
     "publisherId": "EP2134"
+  },
+  {
+    "titleId": "PPSA17212_00",
+    "conceptId": 10008702,
+    "name": "Evil Nun: The Broken Mask",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17217_00",
@@ -67730,10 +67810,10 @@
   {
     "titleId": "PPSA17442_00",
     "conceptId": 10008799,
-    "name": "Motesolo: No Girlfriend Since Birth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "MOTESOLO",
+    "contentId": "UP0287-PPSA17442_00-0901037013231839",
+    "region": "UP",
+    "publisherId": "UP0287"
   },
   {
     "titleId": "PPSA17454_00",
@@ -68003,25 +68083,33 @@
     "titleId": "PPSA17556_00",
     "conceptId": 10008838,
     "name": "Pixel Cafe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6290-PPSA17556_00-0433102083339999",
+    "region": "EP",
+    "publisherId": "EP6290"
   },
   {
     "titleId": "PPSA17557_00",
     "conceptId": 10008838,
     "name": "Pixel Cafe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6291-PPSA17557_00-0466081904924517",
+    "region": "UP",
+    "publisherId": "UP6291"
   },
   {
     "titleId": "PPSA17558_00",
     "conceptId": 10008838,
     "name": "Pixel Cafe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6207-PPSA17558_00-0153910199763824",
+    "region": "JP",
+    "publisherId": "JP6207"
+  },
+  {
+    "titleId": "PPSA17559_00",
+    "conceptId": 10008838,
+    "name": "Pixel Cafe",
+    "contentId": "HP6274-PPSA17559_00-0257972968725464",
+    "region": "HP",
+    "publisherId": "HP6274"
   },
   {
     "titleId": "PPSA17560_00",
@@ -68955,17 +69043,17 @@
     "titleId": "PPSA18052_00",
     "conceptId": 10008690,
     "name": "Luto",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6326-PPSA18052_00-LUTODEMO00000000",
+    "region": "UP",
+    "publisherId": "UP6326"
   },
   {
     "titleId": "PPSA18053_00",
     "conceptId": 10008690,
     "name": "Luto",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6325-PPSA18053_00-LUTODEMO00000000",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA18056_00",
@@ -69033,6 +69121,14 @@
   },
   {
     "titleId": "PPSA18099_00",
+    "conceptId": 10009050,
+    "name": "Vertigo 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18100_00",
     "conceptId": 10009050,
     "name": "Vertigo 2",
     "contentId": null,
@@ -69499,9 +69595,9 @@
     "titleId": "PPSA18298_00",
     "conceptId": 10009121,
     "name": "Arcadian Atlas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0600-PPSA18298_00-0909602420696630",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA18320_00",
@@ -70267,9 +70363,9 @@
     "titleId": "PPSA18728_00",
     "conceptId": 10006908,
     "name": "Speed or Death",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA18728_00-SPEEDORDEATH0000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA18734_00",
@@ -70864,6 +70960,14 @@
     "publisherId": "UP8133"
   },
   {
+    "titleId": "PPSA19041_00",
+    "conceptId": 10007578,
+    "name": "MINABO - A walk through life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19057_00",
     "conceptId": 10009387,
     "name": "Guess the Word",
@@ -71096,6 +71200,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA19223_00",
+    "conceptId": 10009449,
+    "name": "Toy Trains",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19269_00",
     "conceptId": 10009383,
     "name": "The Perplexing Orb: Bounce N' Roll",
@@ -71296,6 +71408,14 @@
     "publisherId": "UP3690"
   },
   {
+    "titleId": "PPSA19454_00",
+    "conceptId": 10001349,
+    "name": "Zomborg",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19500_00",
     "conceptId": 10009558,
     "name": "Pesterquest",
@@ -71474,10 +71594,10 @@
   {
     "titleId": "PPSA19697_00",
     "conceptId": 10008799,
-    "name": "Motesolo: No Girlfriend Since Birth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "MOTESOLO",
+    "contentId": "EP0287-PPSA19697_00-0746144214408481",
+    "region": "EP",
+    "publisherId": "EP0287"
   },
   {
     "titleId": "PPSA19730_00",
@@ -71491,6 +71611,14 @@
     "titleId": "PPSA19731_00",
     "conceptId": 10007199,
     "name": "Ys X: Nordics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19732_00",
+    "conceptId": 10009278,
+    "name": "Wall World",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -71518,6 +71646,22 @@
     "contentId": "EB0629-PPSA19762_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA19763_00",
+    "conceptId": 10009658,
+    "name": "Cazzarion: Demon Hunting",
+    "contentId": "UB0438-PPSA19763_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
+    "titleId": "PPSA19770_00",
+    "conceptId": 10009278,
+    "name": "Wall World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19775_00",
@@ -71560,6 +71704,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19835_00",
+    "conceptId": 10009683,
+    "name": "Aztek Tiki Talisman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19836_00",
+    "conceptId": 10009683,
+    "name": "Aztek Tiki Talisman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19922_00",
     "conceptId": 10007682,
     "name": "Happi Basudei",
@@ -71590,6 +71750,14 @@
     "contentId": "JP7586-PPSA20030_00-0635286682625553",
     "region": "JP",
     "publisherId": "JP7586"
+  },
+  {
+    "titleId": "PPSA20041_00",
+    "conceptId": 10009232,
+    "name": "Finis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20122_00",
