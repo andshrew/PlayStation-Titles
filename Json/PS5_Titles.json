@@ -62555,9 +62555,9 @@
     "titleId": "PPSA15894_00",
     "conceptId": 10006297,
     "name": "Gravity Circuit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA15894_00-GRAVITYCIRCUITJP",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA15895_00",
@@ -66098,10 +66098,10 @@
   {
     "titleId": "PPSA16810_00",
     "conceptId": 10008286,
-    "name": "ARK: Survival Ascended",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ARK Survival Ascended",
+    "contentId": "UP0691-PPSA16810_00-SURVIVALASCENDED",
+    "region": "UP",
+    "publisherId": "UP0691"
   },
   {
     "titleId": "PPSA16813_00",
@@ -66930,10 +66930,10 @@
   {
     "titleId": "PPSA17101_00",
     "conceptId": 10008286,
-    "name": "ARK: Survival Ascended",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ARK Survival Ascended",
+    "contentId": "EP0688-PPSA17101_00-SURVIVALASCENDED",
+    "region": "EP",
+    "publisherId": "EP0688"
   },
   {
     "titleId": "PPSA17104_00",
@@ -67816,6 +67816,22 @@
     "publisherId": "UP0287"
   },
   {
+    "titleId": "PPSA17450_00",
+    "conceptId": 10008804,
+    "name": "CityDriver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17451_00",
+    "conceptId": 10008804,
+    "name": "CityDriver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17454_00",
     "conceptId": 10008374,
     "name": "Lil Gator Game",
@@ -68219,9 +68235,9 @@
     "titleId": "PPSA17642_00",
     "conceptId": 10007532,
     "name": "Revenge Of The Ronin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8445-PPSA17642_00-0155347648934295",
+    "region": "UP",
+    "publisherId": "UP8445"
   },
   {
     "titleId": "PPSA17643_00",
@@ -68234,18 +68250,18 @@
   {
     "titleId": "PPSA17644_00",
     "conceptId": 10007532,
-    "name": "Revenge Of The Ronin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u6d6a\u4eba\u306e\u5fa9\u8b90",
+    "contentId": "JP8350-PPSA17644_00-0711014756111809",
+    "region": "JP",
+    "publisherId": "JP8350"
   },
   {
     "titleId": "PPSA17645_00",
     "conceptId": 10007532,
     "name": "Revenge Of The Ronin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8395-PPSA17645_00-0991569270566186",
+    "region": "HP",
+    "publisherId": "HP8395"
   },
   {
     "titleId": "PPSA17649_00",
@@ -69448,6 +69464,14 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA18235_00",
+    "conceptId": 10009094,
+    "name": "Big Adventure: Trip to Europe 5",
+    "contentId": "UP1421-PPSA18235_00-0477738684839896",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA18236_00",
     "conceptId": 10009095,
     "name": "Detective Agency Gray Tie 2",
@@ -69587,9 +69611,9 @@
     "titleId": "PPSA18297_00",
     "conceptId": 10009121,
     "name": "Arcadian Atlas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0604-PPSA18297_00-0152288128844050",
+    "region": "UP",
+    "publisherId": "UP0604"
   },
   {
     "titleId": "PPSA18298_00",
@@ -69723,9 +69747,9 @@
     "titleId": "PPSA18388_00",
     "conceptId": 10008237,
     "name": "Pinball M",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4042-PPSA18388_00-PINBALLMPS500000",
+    "region": "EP",
+    "publisherId": "EP4042"
   },
   {
     "titleId": "PPSA18389_00",
@@ -69878,6 +69902,30 @@
     "contentId": "UB0300-PPSA18436_00-0822517423423925",
     "region": "UB",
     "publisherId": "UB0300"
+  },
+  {
+    "titleId": "PPSA18440_00",
+    "conceptId": 10008702,
+    "name": "Evil Nun: The Broken Mask",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18441_00",
+    "conceptId": 10008702,
+    "name": "Evil Nun: The Broken Mask",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18442_00",
+    "conceptId": 10008702,
+    "name": "Evil Nun: The Broken Mask",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18448_00",
@@ -70430,6 +70478,22 @@
     "contentId": "UP6851-PPSA18780_00-0426326284338457",
     "region": "UP",
     "publisherId": "UP6851"
+  },
+  {
+    "titleId": "PPSA18785_00",
+    "conceptId": 10009294,
+    "name": "The Cub",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18786_00",
+    "conceptId": 10009294,
+    "name": "The Cub",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18787_00",
@@ -71208,6 +71272,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19224_00",
+    "conceptId": 10009449,
+    "name": "Toy Trains",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19269_00",
     "conceptId": 10009383,
     "name": "The Perplexing Orb: Bounce N' Roll",
@@ -71411,9 +71483,17 @@
     "titleId": "PPSA19454_00",
     "conceptId": 10001349,
     "name": "Zomborg",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19454_00-ZOMBORGRATALAIKA",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA19455_00",
+    "conceptId": 10001349,
+    "name": "Zomborg",
+    "contentId": "UP0891-PPSA19455_00-ZOMBORGRATALAIKA",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19500_00",
