@@ -44792,6 +44792,14 @@
     "publisherId": "UP4223"
   },
   {
+    "titleId": "PPSA10206_00",
+    "conceptId": 10006148,
+    "name": "Stroke The Animals",
+    "contentId": "UP7962-PPSA10206_00-8910302024007339",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
     "titleId": "PPSA10209_00",
     "conceptId": 10006042,
     "name": "A Perfect Day",
@@ -46678,6 +46686,14 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0001"
+  },
+  {
+    "titleId": "PPSA10531_00",
+    "conceptId": 10006148,
+    "name": "Stroke The Animals",
+    "contentId": "JP7943-PPSA10531_00-0747553138629855",
+    "region": "JP",
+    "publisherId": "JP7943"
   },
   {
     "titleId": "PPSA10533_00",
@@ -68243,9 +68259,9 @@
     "titleId": "PPSA17643_00",
     "conceptId": 10007532,
     "name": "Revenge Of The Ronin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8635-PPSA17643_00-0115889236584097",
+    "region": "EP",
+    "publisherId": "EP8635"
   },
   {
     "titleId": "PPSA17644_00",
@@ -68371,17 +68387,17 @@
     "titleId": "PPSA17696_00",
     "conceptId": 10008888,
     "name": "Yatzi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA17696_00-KNIFFELSCHMPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA17697_00",
     "conceptId": 10008888,
     "name": "Yatzi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3165-PPSA17697_00-KNIFFELSCHMPS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA17705_00",
@@ -69462,6 +69478,14 @@
     "contentId": "UP1421-PPSA18233_00-0459486718293149",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA18234_00",
+    "conceptId": 10009094,
+    "name": "Big Adventure: Trip to Europe 5",
+    "contentId": "EP1411-PPSA18234_00-0137769188663605",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA18235_00",
@@ -70752,6 +70776,38 @@
     "publisherId": "HP2993"
   },
   {
+    "titleId": "PPSA18876_00",
+    "conceptId": 10009322,
+    "name": "Criss Cross",
+    "contentId": "UP8281-PPSA18876_00-0125463516810623",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
+    "titleId": "PPSA18877_00",
+    "conceptId": 10009322,
+    "name": "Criss Cross",
+    "contentId": "EP8472-PPSA18877_00-0609878765506699",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA18878_00",
+    "conceptId": 10009322,
+    "name": "Criss Cross \u30af\u30ea\u30b9\u30af\u30ed\u30b9",
+    "contentId": "JP8187-PPSA18878_00-0501631065115483",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "PPSA18879_00",
+    "conceptId": 10009322,
+    "name": "Criss Cross",
+    "contentId": "HP8232-PPSA18879_00-0461478754795971",
+    "region": "HP",
+    "publisherId": "HP8232"
+  },
+  {
     "titleId": "PPSA18880_00",
     "conceptId": 10009323,
     "name": "White Wings",
@@ -71342,6 +71398,22 @@
     "contentId": "HP6661-PPSA19286_00-0754027678926959",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA19291_00",
+    "conceptId": 10009474,
+    "name": "Ancient Dungeon VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19292_00",
+    "conceptId": 10009474,
+    "name": "Ancient Dungeon VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19304_00",
