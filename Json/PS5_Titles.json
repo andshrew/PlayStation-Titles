@@ -39610,8 +39610,8 @@
   {
     "titleId": "PPSA09255_00",
     "conceptId": 10005683,
-    "name": "Gangs of Sherwood Pre-order",
-    "contentId": null,
+    "name": "Gangs of Sherwood",
+    "contentId": "EP6665-PPSA09255_00-GOS0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -40334,6 +40334,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA09393_00",
+    "conceptId": 10005070,
+    "name": "Full Void",
+    "contentId": "UP7407-PPSA09393_00-OOTBFVPS50000000",
+    "region": "UP",
+    "publisherId": "UP7407"
   },
   {
     "titleId": "PPSA09401_00",
@@ -41822,6 +41830,14 @@
     "contentId": "HP7695-PPSA09658_00-3982045666061013",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA09665_00",
+    "conceptId": 10005844,
+    "name": "Dragon's Dogma 2",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA09670_00",
@@ -46694,6 +46710,14 @@
     "contentId": "JP7943-PPSA10531_00-0747553138629855",
     "region": "JP",
     "publisherId": "JP7943"
+  },
+  {
+    "titleId": "PPSA10532_00",
+    "conceptId": 10006148,
+    "name": "Stroke The Animals",
+    "contentId": "HP7989-PPSA10532_00-3234138218615325",
+    "region": "HP",
+    "publisherId": "HP7989"
   },
   {
     "titleId": "PPSA10533_00",
@@ -58840,6 +58864,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14348_00",
+    "conceptId": 10003373,
+    "name": "Ultros (PS4 & PS5)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6777"
+  },
+  {
     "titleId": "PPSA14354_00",
     "conceptId": 10007578,
     "name": "MINABO - A walk through life",
@@ -64136,6 +64168,14 @@
     "publisherId": "JP0550"
   },
   {
+    "titleId": "PPSA16280_00",
+    "conceptId": 10003373,
+    "name": "Ultros (PS4 & PS5)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6779"
+  },
+  {
     "titleId": "PPSA16281_00",
     "conceptId": 10008333,
     "name": "Ruinarch",
@@ -64522,10 +64562,10 @@
   {
     "titleId": "PPSA16395_00",
     "conceptId": 10005683,
-    "name": "Gangs of Sherwood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gangs of Sherwood - Digital Soundtrack",
+    "contentId": "UP6665-PPSA16395_00-GOS0000000000OST",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA16396_00",
@@ -71872,6 +71912,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19897_00",
+    "conceptId": 10009708,
+    "name": "Gallery Gunner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19898_00",
+    "conceptId": 10009708,
+    "name": "Gallery Gunner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19899_00",
+    "conceptId": 10009708,
+    "name": "Gallery Gunner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19900_00",
+    "conceptId": 10009708,
+    "name": "Gallery Gunner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19922_00",
     "conceptId": 10007682,
     "name": "Happi Basudei",
@@ -71942,5 +72014,61 @@
     "contentId": "HP7632-PPSA20125_00-0018353038801016",
     "region": "HP",
     "publisherId": "HP7632"
+  },
+  {
+    "titleId": "PPSA20275_00",
+    "conceptId": 10009859,
+    "name": "Slimeboo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20277_00",
+    "conceptId": 10009859,
+    "name": "Slimeboo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20278_00",
+    "conceptId": 10009859,
+    "name": "Slimeboo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20399_00",
+    "conceptId": 10009913,
+    "name": "Bigfoot's Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20400_00",
+    "conceptId": 10009913,
+    "name": "Bigfoot's Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20401_00",
+    "conceptId": 10009913,
+    "name": "Bigfoot's Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20402_00",
+    "conceptId": 10009913,
+    "name": "Bigfoot's Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
