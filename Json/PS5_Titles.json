@@ -26747,9 +26747,17 @@
     "titleId": "PPSA06843_00",
     "conceptId": 10003459,
     "name": "Enclave HD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6261-PPSA06843_00-0000000ENCLAVEHD",
+    "region": "UP",
+    "publisherId": "UP6261"
+  },
+  {
+    "titleId": "PPSA06844_00",
+    "conceptId": 10003459,
+    "name": "Enclave HD",
+    "contentId": "EP6260-PPSA06844_00-0000000ENCLAVEHD",
+    "region": "EP",
+    "publisherId": "EP6260"
   },
   {
     "titleId": "PPSA06846_00",
@@ -60314,10 +60322,10 @@
   {
     "titleId": "PPSA15261_00",
     "conceptId": 10007927,
-    "name": "Arashi: The Final Cut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Arashi: Castles of Sin - Final Cut",
+    "contentId": "UP2533-PPSA15261_00-ARASHISHINOBISTD",
+    "region": "UP",
+    "publisherId": "UP2533"
   },
   {
     "titleId": "PPSA15263_00",
@@ -61350,6 +61358,14 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA15512_00",
+    "conceptId": 230079,
+    "name": "The Last of Us\u2122 Part II Remastered",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA15515_00",
@@ -65160,6 +65176,22 @@
     "publisherId": "UP8121"
   },
   {
+    "titleId": "PPSA16516_00",
+    "conceptId": 10008404,
+    "name": "Have A Nice Death",
+    "contentId": "UP1980-PPSA16516_00-HAVEANICEDEATH00",
+    "region": "UP",
+    "publisherId": "UP1980"
+  },
+  {
+    "titleId": "PPSA16517_00",
+    "conceptId": 10008404,
+    "name": "Have A Nice Death",
+    "contentId": "EP1965-PPSA16517_00-HAVEANICEDEATH00",
+    "region": "EP",
+    "publisherId": "EP1965"
+  },
+  {
     "titleId": "PPSA16520_00",
     "conceptId": 10005896,
     "name": "Persona 5 Tactica",
@@ -67096,6 +67128,14 @@
     "publisherId": "EP7297"
   },
   {
+    "titleId": "PPSA17111_00",
+    "conceptId": 10004228,
+    "name": "ForeVR Bowl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17113_00",
     "conceptId": 10007674,
     "name": "Tenebris Pictura",
@@ -67570,10 +67610,10 @@
   {
     "titleId": "PPSA17278_00",
     "conceptId": 10008732,
-    "name": "While the Iron's Hot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "While The Iron's Hot",
+    "contentId": "UP3864-PPSA17278_00-WTIRONHOT00PS5NA",
+    "region": "UP",
+    "publisherId": "UP3864"
   },
   {
     "titleId": "PPSA17279_00",
@@ -68662,6 +68702,14 @@
     "contentId": "EP0822-PPSA17775_00-LAIKA0000PS5SIEE",
     "region": "EP",
     "publisherId": "EP0822"
+  },
+  {
+    "titleId": "PPSA17776_00",
+    "conceptId": 10008824,
+    "name": "Laika: Aged Through Blood",
+    "contentId": "UP0825-PPSA17776_00-LAIKA0000PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP0825"
   },
   {
     "titleId": "PPSA17778_00",
@@ -71594,10 +71642,10 @@
   {
     "titleId": "PPSA19292_00",
     "conceptId": 10009474,
-    "name": "Ancient Dungeon VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ancient Dungeon",
+    "contentId": "EP8035-PPSA19292_00-0180282815609748",
+    "region": "EP",
+    "publisherId": "EP8035"
   },
   {
     "titleId": "PPSA19304_00",
@@ -71702,6 +71750,14 @@
     "contentId": "HP2005-PPSA19355_00-BURNINGSECRETS00",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA19365_00",
+    "conceptId": 10007314,
+    "name": "Born of Bread Artbook",
+    "contentId": "EP1302-PPSA19365_00-BOBDIGITALARTSIE",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA19366_00",
@@ -72040,6 +72096,38 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA19786_00",
+    "conceptId": 10009664,
+    "name": "Prison Boss VR",
+    "contentId": "UP4773-PPSA19786_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4773"
+  },
+  {
+    "titleId": "PPSA19787_00",
+    "conceptId": 10009664,
+    "name": "Prison Boss VR",
+    "contentId": "EP4946-PPSA19787_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP4946"
+  },
+  {
+    "titleId": "PPSA19788_00",
+    "conceptId": 10009664,
+    "name": "Prison Boss VR",
+    "contentId": "JP4613-PPSA19788_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP4613"
+  },
+  {
+    "titleId": "PPSA19789_00",
+    "conceptId": 10009664,
+    "name": "Prison Boss VR",
+    "contentId": "HP4625-PPSA19789_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP4625"
+  },
+  {
     "titleId": "PPSA19802_00",
     "conceptId": 10003544,
     "name": "MURDER HOUSE",
@@ -72050,10 +72138,10 @@
   {
     "titleId": "PPSA19803_00",
     "conceptId": 10003544,
-    "name": "Murder House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "MURDER HOUSE",
+    "contentId": "EP6776-PPSA19803_00-0145580309144723",
+    "region": "EP",
+    "publisherId": "EP6776"
   },
   {
     "titleId": "PPSA19835_00",
@@ -72067,6 +72155,14 @@
     "titleId": "PPSA19836_00",
     "conceptId": 10009683,
     "name": "Aztek Tiki Talisman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19879_00",
+    "conceptId": 10009137,
+    "name": "Lord of the Click: Interstellar Wars",
     "contentId": null,
     "region": null,
     "publisherId": null
