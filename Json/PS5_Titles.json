@@ -24739,7 +24739,7 @@
     "titleId": "PPSA06485_00",
     "conceptId": 10004497,
     "name": "SteamWorld Build",
-    "contentId": null,
+    "contentId": "UP5180-PPSA06485_00-STEAMWORLDBUIL5U",
     "region": "UP",
     "publisherId": "UP5180"
   },
@@ -49275,9 +49275,9 @@
     "titleId": "PPSA10946_00",
     "conceptId": 10005565,
     "name": "Among Us VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7032-PPSA10946_00-AMONGUSVR0000001",
+    "region": "UP",
+    "publisherId": "UP7032"
   },
   {
     "titleId": "PPSA10947_00",
@@ -51891,17 +51891,17 @@
     "titleId": "PPSA11452_00",
     "conceptId": 10006584,
     "name": "All Mighty Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA11452_00-5785351696735808",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA11453_00",
     "conceptId": 10006584,
     "name": "All Mighty Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA11453_00-7640890327959011",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11486_00",
@@ -59291,17 +59291,17 @@
     "titleId": "PPSA14457_00",
     "conceptId": 10007314,
     "name": "Born Of Bread",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA14457_00-BORNOFBREADSIEE5",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA14458_00",
     "conceptId": 10007314,
     "name": "Born Of Bread",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA14458_00-BORNOFBREADSIEA5",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA14459_00",
@@ -60330,10 +60330,10 @@
   {
     "titleId": "PPSA15263_00",
     "conceptId": 10007927,
-    "name": "Arashi: The Final Cut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Arashi: Castles of Sin - Final Cut",
+    "contentId": "EP2397-PPSA15263_00-ARASHISHINOBISTD",
+    "region": "EP",
+    "publisherId": "EP2397"
   },
   {
     "titleId": "PPSA15266_00",
@@ -61174,6 +61174,14 @@
     "contentId": "UP0891-PPSA15470_00-SEPHONIERATAGAME",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA15472_00",
+    "conceptId": 10008003,
+    "name": "Hirilun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15477_00",
@@ -66890,8 +66898,8 @@
   {
     "titleId": "PPSA17012_00",
     "conceptId": 10008622,
-    "name": "Arizona Sunshine\u00ae 2  Deluxe Edition",
-    "contentId": null,
+    "name": "Arizona Sunshine 2",
+    "contentId": "UP3535-PPSA17012_00-VERTVERTARSU2UGU",
     "region": "UP",
     "publisherId": "UP3535"
   },
@@ -71816,6 +71824,22 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA19477_00",
+    "conceptId": 10009215,
+    "name": "Raccoo Venture",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19478_00",
+    "conceptId": 10009215,
+    "name": "Raccoo Venture",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19500_00",
     "conceptId": 10009558,
     "name": "Pesterquest",
@@ -71912,6 +71936,14 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA19622_00",
+    "conceptId": 10009606,
+    "name": "Save The World",
+    "contentId": "EP6470-PPSA19622_00-SAVETHEWORLD0000",
+    "region": "EP",
+    "publisherId": "EP6470"
+  },
+  {
     "titleId": "PPSA19626_00",
     "conceptId": 10009161,
     "name": "Alina of the Arena",
@@ -71974,6 +72006,22 @@
     "contentId": "UP8455-PPSA19649_00-0000000000000001",
     "region": "UP",
     "publisherId": "UP8455"
+  },
+  {
+    "titleId": "PPSA19650_00",
+    "conceptId": 10009614,
+    "name": "DETECTIVE - Stella Porta case",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19651_00",
+    "conceptId": 10009614,
+    "name": "DETECTIVE - Stella Porta case",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19652_00",
@@ -72360,6 +72408,30 @@
     "publisherId": "JP8438"
   },
   {
+    "titleId": "PPSA20266_00",
+    "conceptId": 10008027,
+    "name": "Galactic Lords",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20267_00",
+    "conceptId": 10008027,
+    "name": "Galactic Lords",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20274_00",
+    "conceptId": 10008365,
+    "name": "Everlune",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20275_00",
     "conceptId": 10009859,
     "name": "Slimeboo",
@@ -72392,6 +72464,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20299_00",
+    "conceptId": 10009842,
+    "name": "Regular Factory: Escape Room",
+    "contentId": "EP8723-PPSA20299_00-0709607172855245",
+    "region": "EP",
+    "publisherId": "EP8723"
+  },
+  {
+    "titleId": "PPSA20300_00",
+    "conceptId": 10009842,
+    "name": "Regular Factory: Escape Room",
+    "contentId": "UP8533-PPSA20300_00-0830351576418467",
+    "region": "UP",
+    "publisherId": "UP8533"
+  },
+  {
+    "titleId": "PPSA20301_00",
+    "conceptId": 10009842,
+    "name": "Regular Factory: Escape Room",
+    "contentId": "JP8438-PPSA20301_00-0044446155738086",
+    "region": "JP",
+    "publisherId": "JP8438"
+  },
+  {
     "titleId": "PPSA20356_00",
     "conceptId": 10009892,
     "name": "Fortnite Battle Royale",
@@ -72403,6 +72499,22 @@
     "titleId": "PPSA20357_00",
     "conceptId": 10009892,
     "name": "Fortnite Battle Royale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20358_00",
+    "conceptId": 10009893,
+    "name": "LEGO\u00ae Fortnite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20359_00",
+    "conceptId": 10009893,
+    "name": "LEGO\u00ae Fortnite",
     "contentId": null,
     "region": null,
     "publisherId": null
