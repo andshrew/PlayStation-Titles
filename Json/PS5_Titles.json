@@ -47546,10 +47546,10 @@
   {
     "titleId": "PPSA10662_00",
     "conceptId": 230079,
-    "name": "The Last of Us\u2122 Part II",
+    "name": "The Last of Us\u2122 Part II Remastered",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA10664_00",
@@ -52547,9 +52547,9 @@
     "titleId": "PPSA12405_00",
     "conceptId": 10006873,
     "name": "THE FINALS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6848-PPSA12405_00-1349596798803700",
+    "region": "EP",
+    "publisherId": "EP6848"
   },
   {
     "titleId": "PPSA12406_00",
@@ -52667,17 +52667,17 @@
     "titleId": "PPSA12440_00",
     "conceptId": 10005271,
     "name": "Hiveswap Friendsim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5661-PPSA12440_00-8441140605614488",
+    "region": "EP",
+    "publisherId": "EP5661"
   },
   {
     "titleId": "PPSA12441_00",
     "conceptId": 10005271,
     "name": "Hiveswap Friendsim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5480-PPSA12441_00-8276158147379891",
+    "region": "UP",
+    "publisherId": "UP5480"
   },
   {
     "titleId": "PPSA12447_00",
@@ -55300,6 +55300,22 @@
     "conceptId": 10006602,
     "name": "Namariel Legends: Iron Lord - Collectors Edition",
     "contentId": "UP1643-PPSA13585_00-NAMARIELLJDPS5US",
+    "region": "UP",
+    "publisherId": "UP1643"
+  },
+  {
+    "titleId": "PPSA13588_00",
+    "conceptId": 10006601,
+    "name": "Fall of the new Age - Collectors Edition",
+    "contentId": "EP1629-PPSA13588_00-FALLOFTHEJDPS5EU",
+    "region": "EP",
+    "publisherId": "EP1629"
+  },
+  {
+    "titleId": "PPSA13589_00",
+    "conceptId": 10006601,
+    "name": "Fall of the new Age - Collectors Edition",
+    "contentId": "UP1643-PPSA13589_00-FALLOFTHEJDPS5US",
     "region": "UP",
     "publisherId": "UP1643"
   },
@@ -61176,6 +61192,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA15471_00",
+    "conceptId": 10008003,
+    "name": "Hirilun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15472_00",
     "conceptId": 10008003,
     "name": "Hirilun",
@@ -61955,9 +61979,9 @@
     "titleId": "PPSA15692_00",
     "conceptId": 10008102,
     "name": "Warhammer 40,000: Rogue Trader",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6646-PPSA15692_00-0445679437713264",
+    "region": "UP",
+    "publisherId": "UP6646"
   },
   {
     "titleId": "PPSA15693_00",
@@ -64067,9 +64091,9 @@
     "titleId": "PPSA16227_00",
     "conceptId": 10008310,
     "name": "Battle Stations Blockade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA16227_00-BATTLESTATIONS00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA16228_00",
@@ -64283,9 +64307,9 @@
     "titleId": "PPSA16281_00",
     "conceptId": 10008333,
     "name": "Ruinarch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4713-PPSA16281_00-0519655859227818",
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA16282_00",
@@ -66890,8 +66914,8 @@
   {
     "titleId": "PPSA17011_00",
     "conceptId": 10008622,
-    "name": "Arizona Sunshine\u00ae 2  Deluxe Edition",
-    "contentId": null,
+    "name": "Arizona Sunshine 2",
+    "contentId": "EP3392-PPSA17011_00-VERTVERTARSU2EGU",
     "region": "EP",
     "publisherId": "EP3392"
   },
@@ -67499,9 +67523,9 @@
     "titleId": "PPSA17212_00",
     "conceptId": 10008702,
     "name": "Evil Nun: The Broken Mask",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA17212_00-EVILNUN000000000",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA17217_00",
@@ -67688,6 +67712,14 @@
     "publisherId": "UP6881"
   },
   {
+    "titleId": "PPSA17310_00",
+    "conceptId": 10006873,
+    "name": "THE FINALS",
+    "contentId": "UP6851-PPSA17310_00-0774956844716625",
+    "region": "UP",
+    "publisherId": "UP6851"
+  },
+  {
     "titleId": "PPSA17311_00",
     "conceptId": 10007314,
     "name": "Born Of Bread Demo",
@@ -67726,6 +67758,22 @@
     "contentId": "JP0089-PPSA17316_00-0068202387184232",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA17318_00",
+    "conceptId": 10006873,
+    "name": "THE FINALS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17319_00",
+    "conceptId": 10006873,
+    "name": "THE FINALS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17327_00",
@@ -68227,17 +68275,17 @@
     "titleId": "PPSA17523_00",
     "conceptId": 10008828,
     "name": "Fearmonium",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA17523_00-FEARMONIUMRATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA17524_00",
     "conceptId": 10008828,
     "name": "Fearmonium",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA17524_00-FEARMONIUMRATGAM",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA17533_00",
@@ -68832,12 +68880,36 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA17815_00",
+    "conceptId": 10008922,
+    "name": "As Dusk Falls PS4\u2122 & PS5\u2122",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4805"
+  },
+  {
+    "titleId": "PPSA17818_00",
+    "conceptId": 10008922,
+    "name": "As Dusk Falls PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4633"
+  },
+  {
     "titleId": "PPSA17819_00",
     "conceptId": 10007311,
     "name": "Dolphin Spirit - Ocean Mission",
     "contentId": "JP6398-PPSA17819_00-DOLPHINPS50000JP",
     "region": "JP",
     "publisherId": "JP6398"
+  },
+  {
+    "titleId": "PPSA17823_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17824_00",
@@ -69968,6 +70040,22 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA18359_00",
+    "conceptId": 10008922,
+    "name": "As Dusk Falls PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP4466"
+  },
+  {
+    "titleId": "PPSA18360_00",
+    "conceptId": 10008922,
+    "name": "As Dusk Falls PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP4468"
+  },
+  {
     "titleId": "PPSA18361_00",
     "conceptId": 10008069,
     "name": "Lost Eidolons Artbook",
@@ -70163,25 +70251,25 @@
     "titleId": "PPSA18440_00",
     "conceptId": 10008702,
     "name": "Evil Nun: The Broken Mask",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA18440_00-EVILNUN000000000",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA18441_00",
     "conceptId": 10008702,
     "name": "Evil Nun: The Broken Mask",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA18441_00-EVILNUN000000000",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA18442_00",
     "conceptId": 10008702,
     "name": "Evil Nun: The Broken Mask",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA18442_00-EVILNUN000000000",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA18448_00",
@@ -71240,6 +71328,38 @@
     "publisherId": "UP8435"
   },
   {
+    "titleId": "PPSA18999_00",
+    "conceptId": 10004473,
+    "name": "Resident Evil 4 VR Mode Gameplay Demo",
+    "contentId": "UP0102-PPSA18999_00-RE4RDEMOVR000000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
+    "titleId": "PPSA19000_00",
+    "conceptId": 10004473,
+    "name": "Resident Evil 4 VR Mode Gameplay Demo",
+    "contentId": "EP0102-PPSA19000_00-RE4RDEMOVR000000",
+    "region": "EP",
+    "publisherId": "EP0102"
+  },
+  {
+    "titleId": "PPSA19001_00",
+    "conceptId": 10004473,
+    "name": "BIOHAZARD RE:4 VR MODE Gameplay Demo",
+    "contentId": "JP0102-PPSA19001_00-RE4RDEMOVR000000",
+    "region": "JP",
+    "publisherId": "JP0102"
+  },
+  {
+    "titleId": "PPSA19002_00",
+    "conceptId": 10004473,
+    "name": "Resident Evil 4 VR Mode Gameplay Demo",
+    "contentId": "HP0102-PPSA19002_00-RE4RDEMOVR000000",
+    "region": "HP",
+    "publisherId": "HP0102"
+  },
+  {
     "titleId": "PPSA19003_00",
     "conceptId": 10007386,
     "name": "\u30ab\u30b9\u30bf\u30e0 \u30e1\u30c3\u30af \u30a6\u30a9\u30fc\u30ba \u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u7248",
@@ -71496,6 +71616,14 @@
     "publisherId": "UP8121"
   },
   {
+    "titleId": "PPSA19187_00",
+    "conceptId": 10001988,
+    "name": "The Outlast Trials",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP2113"
+  },
+  {
     "titleId": "PPSA19191_00",
     "conceptId": 10009420,
     "name": "Berzerk: Recharged",
@@ -71642,10 +71770,10 @@
   {
     "titleId": "PPSA19291_00",
     "conceptId": 10009474,
-    "name": "Ancient Dungeon VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ancient Dungeon",
+    "contentId": "UP5843-PPSA19291_00-0612081269240921",
+    "region": "UP",
+    "publisherId": "UP5843"
   },
   {
     "titleId": "PPSA19292_00",
@@ -71944,6 +72072,14 @@
     "publisherId": "EP6470"
   },
   {
+    "titleId": "PPSA19623_00",
+    "conceptId": 10009606,
+    "name": "Save The World",
+    "contentId": "UP6472-PPSA19623_00-SAVETHEWORLD0000",
+    "region": "UP",
+    "publisherId": "UP6472"
+  },
+  {
     "titleId": "PPSA19626_00",
     "conceptId": 10009161,
     "name": "Alina of the Arena",
@@ -72067,9 +72203,9 @@
     "titleId": "PPSA19732_00",
     "conceptId": 10009278,
     "name": "Wall World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7553-PPSA19732_00-WALLWORLDPS5EU00",
+    "region": "EP",
+    "publisherId": "EP7553"
   },
   {
     "titleId": "PPSA19735_00",
@@ -72107,9 +72243,9 @@
     "titleId": "PPSA19770_00",
     "conceptId": 10009278,
     "name": "Wall World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7555-PPSA19770_00-WALLWORLDPS5NA00",
+    "region": "UP",
+    "publisherId": "UP7555"
   },
   {
     "titleId": "PPSA19775_00",
@@ -72424,6 +72560,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20273_00",
+    "conceptId": 10008365,
+    "name": "Everlune",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20274_00",
     "conceptId": 10008365,
     "name": "Everlune",
@@ -72515,6 +72659,22 @@
     "titleId": "PPSA20359_00",
     "conceptId": 10009893,
     "name": "LEGO\u00ae Fortnite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20360_00",
+    "conceptId": 10009894,
+    "name": "Rocket Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20361_00",
+    "conceptId": 10009894,
+    "name": "Rocket Racing",
     "contentId": null,
     "region": null,
     "publisherId": null
