@@ -61915,9 +61915,9 @@
     "titleId": "PPSA15678_00",
     "conceptId": 10008102,
     "name": "Warhammer 40,000: Rogue Trader",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6646-PPSA15678_00-0086972552545460",
+    "region": "EP",
+    "publisherId": "EP6646"
   },
   {
     "titleId": "PPSA15683_00",
@@ -64315,9 +64315,9 @@
     "titleId": "PPSA16282_00",
     "conceptId": 10008333,
     "name": "Ruinarch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4886-PPSA16282_00-0983744731522398",
+    "region": "EP",
+    "publisherId": "EP4886"
   },
   {
     "titleId": "PPSA16292_00",
@@ -70312,6 +70312,14 @@
     "publisherId": "JP0365"
   },
   {
+    "titleId": "PPSA18471_00",
+    "conceptId": 10003666,
+    "name": "Tales of Kenzera\u2122: ZAU Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA18499_00",
     "conceptId": 10009184,
     "name": "Dinobreak",
@@ -72347,9 +72355,9 @@
     "titleId": "PPSA19879_00",
     "conceptId": 10009137,
     "name": "Lord of the Click: Interstellar Wars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA19879_00-0599874748080949",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA19887_00",
@@ -72422,6 +72430,30 @@
     "contentId": "HP6784-PPSA19947_00-0432901905903133",
     "region": "HP",
     "publisherId": "HP6784"
+  },
+  {
+    "titleId": "PPSA19948_00",
+    "conceptId": 10009137,
+    "name": "Lord of the Click: Interstellar Wars",
+    "contentId": "UP7862-PPSA19948_00-0788267067143377",
+    "region": "UP",
+    "publisherId": "UP7862"
+  },
+  {
+    "titleId": "PPSA19949_00",
+    "conceptId": 10009137,
+    "name": "Lord of the Click: Interstellar Wars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19950_00",
+    "conceptId": 10009137,
+    "name": "Lord of the Click: Interstellar Wars",
+    "contentId": "JP7843-PPSA19950_00-0698443623283643",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA19963_00",
@@ -72675,6 +72707,22 @@
     "titleId": "PPSA20361_00",
     "conceptId": 10009894,
     "name": "Rocket Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20362_00",
+    "conceptId": 10009895,
+    "name": "Fortnite Festival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20363_00",
+    "conceptId": 10009895,
+    "name": "Fortnite Festival",
     "contentId": null,
     "region": null,
     "publisherId": null
