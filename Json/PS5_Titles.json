@@ -3580,8 +3580,8 @@
     "conceptId": 225700,
     "name": "SKULL AND BONES\u2122",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA02202_00",
@@ -69280,6 +69280,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17979_00",
+    "conceptId": 10009009,
+    "name": "Ralph and the Blue Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17980_00",
+    "conceptId": 10009009,
+    "name": "Ralph and the Blue Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17981_00",
+    "conceptId": 10009009,
+    "name": "Ralph and the Blue Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18000_00",
     "conceptId": 10007127,
     "name": "Word Web by POWGI",
@@ -72443,9 +72467,9 @@
     "titleId": "PPSA19949_00",
     "conceptId": 10009137,
     "name": "Lord of the Click: Interstellar Wars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA19949_00-0046919293999970",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA19950_00",
