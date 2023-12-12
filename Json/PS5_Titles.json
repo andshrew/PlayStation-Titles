@@ -3588,8 +3588,8 @@
     "conceptId": 225700,
     "name": "SKULL AND BONES\u2122",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0001"
   },
   {
     "titleId": "PPSA02203_00",
@@ -15086,6 +15086,14 @@
     "contentId": "JP0536-PPSA04557_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP0536"
+  },
+  {
+    "titleId": "PPSA04558_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA04560_00",
@@ -51904,6 +51912,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA11455_00",
+    "conceptId": 10006585,
+    "name": "Shot Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11486_00",
     "conceptId": 10006593,
     "name": "Missing parts",
@@ -69280,6 +69296,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17978_00",
+    "conceptId": 10009009,
+    "name": "Ralph and the Blue Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17979_00",
     "conceptId": 10009009,
     "name": "Ralph and the Blue Ball",
@@ -71736,6 +71760,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19250_00",
+    "conceptId": 10009114,
+    "name": "Vetrix Worlds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19252_00",
+    "conceptId": 10009114,
+    "name": "Vetrix Worlds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19269_00",
     "conceptId": 10009383,
     "name": "The Perplexing Orb: Bounce N' Roll",
@@ -72086,6 +72126,14 @@
     "contentId": "UP1421-PPSA19556_00-0298171411897293",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA19587_00",
+    "conceptId": 10007116,
+    "name": "Tiger Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19620_00",
@@ -72635,33 +72683,33 @@
     "titleId": "PPSA20275_00",
     "conceptId": 10009859,
     "name": "Slimeboo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA20275_00-0008231579490935",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA20276_00",
     "conceptId": 10009859,
     "name": "Slimeboo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7666-PPSA20276_00-0465579384375651",
+    "region": "EP",
+    "publisherId": "EP7666"
   },
   {
     "titleId": "PPSA20277_00",
     "conceptId": 10009859,
     "name": "Slimeboo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7649-PPSA20277_00-0201831959156501",
+    "region": "JP",
+    "publisherId": "JP7649"
   },
   {
     "titleId": "PPSA20278_00",
     "conceptId": 10009859,
     "name": "Slimeboo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7695-PPSA20278_00-0714585553731709",
+    "region": "HP",
+    "publisherId": "HP7695"
   },
   {
     "titleId": "PPSA20299_00",
@@ -72686,6 +72734,14 @@
     "contentId": "JP8438-PPSA20301_00-0044446155738086",
     "region": "JP",
     "publisherId": "JP8438"
+  },
+  {
+    "titleId": "PPSA20316_00",
+    "conceptId": 10009882,
+    "name": "Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20356_00",
