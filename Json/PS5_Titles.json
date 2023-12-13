@@ -1099,7 +1099,7 @@
     "titleId": "PPSA01575_00",
     "conceptId": 235179,
     "name": "Avatar: Frontiers of Pandora\u2122",
-    "contentId": null,
+    "contentId": "EP0001-PPSA01575_00-AVATAR2GAME00001",
     "region": "EP",
     "publisherId": "EP0001"
   },
@@ -3594,10 +3594,10 @@
   {
     "titleId": "PPSA02203_00",
     "conceptId": 225700,
-    "name": "SKULL AND BONES\u2122",
+    "name": "\u30b9\u30ab\u30eb \u30a2\u30f3\u30c9 \u30dc\u30fc\u30f3\u30ba",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA02209_00",
@@ -14990,6 +14990,14 @@
     "contentId": "EP5834-PPSA04538_00-3935503317106295",
     "region": "EP",
     "publisherId": "EP5834"
+  },
+  {
+    "titleId": "PPSA04539_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA04541_00",
@@ -32906,10 +32914,10 @@
   {
     "titleId": "PPSA08085_00",
     "conceptId": 10005271,
-    "name": "Hiveswap Friendsim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pesterquest",
+    "contentId": "UP5480-PPSA08085_00-0926823530579257",
+    "region": "UP",
+    "publisherId": "UP5480"
   },
   {
     "titleId": "PPSA08086_00",
@@ -41598,6 +41606,14 @@
     "contentId": "UP0891-PPSA09606_00-RGMRSCATBETWEENW",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA09609_00",
+    "conceptId": 10005918,
+    "name": "Potion Craft: Alchemist Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09612_00",
@@ -68075,17 +68091,17 @@
     "titleId": "PPSA17450_00",
     "conceptId": 10008804,
     "name": "CityDriver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3003-PPSA17450_00-0604166182553820",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA17451_00",
     "conceptId": 10008804,
     "name": "CityDriver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA17451_00-0228355199693725",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA17454_00",
@@ -69027,9 +69043,9 @@
     "titleId": "PPSA17868_00",
     "conceptId": 10008964,
     "name": "Hell Well",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA17868_00-HELLWELL00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17869_00",
@@ -69979,6 +69995,14 @@
     "titleId": "PPSA18266_00",
     "conceptId": 10009053,
     "name": "Nexus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18273_00",
+    "conceptId": 10009114,
+    "name": "Vetrix Worlds",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -71024,6 +71048,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA18810_00",
+    "conceptId": 10007418,
+    "name": "The Rusty Sword: Vanguard Island",
+    "contentId": "UP8408-PPSA18810_00-0045524365078586",
+    "region": "UP",
+    "publisherId": "UP8408"
+  },
+  {
     "titleId": "PPSA18812_00",
     "conceptId": 10008399,
     "name": "RaiPlay",
@@ -71222,6 +71254,14 @@
     "contentId": "HP8232-PPSA18883_00-0864463556614320",
     "region": "HP",
     "publisherId": "HP8232"
+  },
+  {
+    "titleId": "PPSA18886_00",
+    "conceptId": 10009325,
+    "name": "Five Nights at Freddy's: Help Wanted 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18893_00",
@@ -71768,6 +71808,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19251_00",
+    "conceptId": 10009114,
+    "name": "Vetrix Worlds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19252_00",
     "conceptId": 10009114,
     "name": "Vetrix Worlds",
@@ -71990,6 +72038,22 @@
     "contentId": "HP5911-PPSA19374_00-SLAPSBEANS2PS5AS",
     "region": "HP",
     "publisherId": "HP5911"
+  },
+  {
+    "titleId": "PPSA19390_00",
+    "conceptId": 10003192,
+    "name": "Arietta of Spirits PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19391_00",
+    "conceptId": 10003192,
+    "name": "Arietta of Spirits PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19403_00",
@@ -72606,6 +72670,14 @@
     "contentId": "HP7632-PPSA20125_00-0018353038801016",
     "region": "HP",
     "publisherId": "HP7632"
+  },
+  {
+    "titleId": "PPSA20127_00",
+    "conceptId": 10009772,
+    "name": "Palindrome Syndrome: Escape Room",
+    "contentId": "UP8533-PPSA20127_00-0103412169110651",
+    "region": "UP",
+    "publisherId": "UP8533"
   },
   {
     "titleId": "PPSA20215_00",
