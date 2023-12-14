@@ -1131,7 +1131,7 @@
     "titleId": "PPSA01579_00",
     "conceptId": 235179,
     "name": "\u30a2\u30d0\u30bf\u30fc\uff1a\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30fb\u30aa\u30d6\u30fb\u30d1\u30f3\u30c9\u30e9",
-    "contentId": null,
+    "contentId": "JP0001-PPSA01579_00-AVATAR2GAME00001",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -15000,6 +15000,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA04540_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04541_00",
     "conceptId": 10000604,
     "name": "Disciples: Liberation",
@@ -19922,10 +19930,10 @@
   {
     "titleId": "PPSA05529_00",
     "conceptId": 10000259,
-    "name": "RISING DUSK",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rising Dusk",
+    "contentId": "UP4950-PPSA05529_00-RISINGDUSK000000",
+    "region": "UP",
+    "publisherId": "UP4950"
   },
   {
     "titleId": "PPSA05531_00",
@@ -28339,9 +28347,9 @@
     "titleId": "PPSA07174_00",
     "conceptId": 10004837,
     "name": "Hammerwatch Anniversary Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4908-PPSA07174_00-HAMMERWATCHAE000",
+    "region": "EP",
+    "publisherId": "EP4908"
   },
   {
     "titleId": "PPSA07175_00",
@@ -32922,10 +32930,10 @@
   {
     "titleId": "PPSA08086_00",
     "conceptId": 10005271,
-    "name": "Hiveswap Friendsim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pesterquest",
+    "contentId": "EP5661-PPSA08086_00-8772270388377341",
+    "region": "EP",
+    "publisherId": "EP5661"
   },
   {
     "titleId": "PPSA08087_00",
@@ -41608,6 +41616,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA09608_00",
+    "conceptId": 10005918,
+    "name": "Potion Craft",
+    "contentId": "UP0097-PPSA09608_00-3926585099094242",
+    "region": "UP",
+    "publisherId": "UP0097"
+  },
+  {
     "titleId": "PPSA09609_00",
     "conceptId": 10005918,
     "name": "Potion Craft: Alchemist Simulator",
@@ -41886,6 +41902,14 @@
     "contentId": "HP7695-PPSA09658_00-3982045666061013",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA09660_00",
+    "conceptId": 233121,
+    "name": "Epic Roller Coasters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09663_00",
@@ -64579,9 +64603,9 @@
     "titleId": "PPSA16362_00",
     "conceptId": 10007449,
     "name": "Bear and Breakfast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2775-PPSA16362_00-0854153296307115",
+    "region": "UP",
+    "publisherId": "UP2775"
   },
   {
     "titleId": "PPSA16363_00",
@@ -69051,9 +69075,9 @@
     "titleId": "PPSA17869_00",
     "conceptId": 10008964,
     "name": "Hell Well",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17869_00-HELLWELL00000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17872_00",
@@ -70098,10 +70122,10 @@
   {
     "titleId": "PPSA18351_00",
     "conceptId": 10003232,
-    "name": "Submerged: Hidden Depths",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30df\u30af\u3068\u6c34\u6ca1\u90fd\u5e02\u3000\u5ec3\u589f\u306e\u8b0e",
+    "contentId": "JP1309-PPSA18351_00-SUBMERGED2JPPS50",
+    "region": "JP",
+    "publisherId": "JP1309"
   },
   {
     "titleId": "PPSA18357_00",
@@ -70374,6 +70398,14 @@
     "contentId": "HP7354-PPSA18451_00-0227765346914130",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA18454_00",
+    "conceptId": 10009028,
+    "name": "Poppy Playtime: Chapter 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18463_00",
@@ -71264,6 +71296,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18887_00",
+    "conceptId": 10009325,
+    "name": "Five Nights at Freddy's: Help Wanted 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18893_00",
     "conceptId": 10009327,
     "name": "Shivering Stone",
@@ -71275,6 +71315,14 @@
     "titleId": "PPSA18894_00",
     "conceptId": 10009327,
     "name": "Shivering Stone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18921_00",
+    "conceptId": 10009341,
+    "name": "Air Fight - Sky Fighters",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -72192,6 +72240,14 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA19585_00",
+    "conceptId": 10009328,
+    "name": "\u5929\u4e0b\u7d71\u4e00SSB \u4f53\u9a13\u7248",
+    "contentId": "JP0393-PPSA19585_00-0181946849492137",
+    "region": "JP",
+    "publisherId": "JP0393"
+  },
+  {
     "titleId": "PPSA19587_00",
     "conceptId": 10007116,
     "name": "Tiger Blade",
@@ -72784,6 +72840,14 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA20281_00",
+    "conceptId": 10005294,
+    "name": "Archery Blast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20299_00",
     "conceptId": 10009842,
     "name": "Regular Factory: Escape Room",
@@ -72915,6 +72979,14 @@
     "titleId": "PPSA20487_00",
     "conceptId": 10004289,
     "name": "UFL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20591_00",
+    "conceptId": 10009028,
+    "name": "Poppy Playtime: Chapter 1",
     "contentId": null,
     "region": null,
     "publisherId": null
