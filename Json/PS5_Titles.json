@@ -22867,9 +22867,9 @@
     "titleId": "PPSA06106_00",
     "conceptId": 10004263,
     "name": "Hammerwatch II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4735-PPSA06106_00-HAMMERWATCH20000",
+    "region": "UP",
+    "publisherId": "UP4735"
   },
   {
     "titleId": "PPSA06107_00",
@@ -28347,9 +28347,9 @@
     "titleId": "PPSA07173_00",
     "conceptId": 10004837,
     "name": "Hammerwatch Anniversary Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4735-PPSA07173_00-HAMMERWATCHAE000",
+    "region": "UP",
+    "publisherId": "UP4735"
   },
   {
     "titleId": "PPSA07174_00",
@@ -37726,6 +37726,22 @@
     "contentId": "HP7354-PPSA08922_00-6141336028417879",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA08925_00",
+    "conceptId": 10005572,
+    "name": "War Hospital",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA08926_00",
+    "conceptId": 10005572,
+    "name": "War Hospital",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA08927_00",
@@ -47587,9 +47603,9 @@
     "titleId": "PPSA10650_00",
     "conceptId": 10006293,
     "name": "Hidden Paws",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA10650_00-6406091770663582",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA10651_00",
@@ -51976,6 +51992,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA11454_00",
+    "conceptId": 10006585,
+    "name": "Shot Block",
+    "contentId": "UP7335-PPSA11454_00-4118470781400831",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA11455_00",
     "conceptId": 10006585,
     "name": "Shot Block",
@@ -53224,12 +53248,28 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA12567_00",
+    "conceptId": 10006933,
+    "name": "Cookie Cutter",
+    "contentId": "UP6163-PPSA12567_00-0162905491629485",
+    "region": "UP",
+    "publisherId": "UP6163"
+  },
+  {
     "titleId": "PPSA12568_00",
     "conceptId": 10006933,
     "name": "Cookie Cutter",
     "contentId": "EP6162-PPSA12568_00-0162905491629485",
     "region": "EP",
     "publisherId": "EP6162"
+  },
+  {
+    "titleId": "PPSA12570_00",
+    "conceptId": 10006933,
+    "name": "Cookie Cutter",
+    "contentId": "HP6145-PPSA12570_00-0162905491629485",
+    "region": "HP",
+    "publisherId": "HP6145"
   },
   {
     "titleId": "PPSA12571_00",
@@ -56779,17 +56819,17 @@
     "titleId": "PPSA13874_00",
     "conceptId": 10007391,
     "name": "Stickman's Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA13874_00-STICKMANSARENA00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA13875_00",
     "conceptId": 10007391,
     "name": "Stickman's Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA13875_00-STICKMANSARENA00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA13878_00",
@@ -59131,7 +59171,7 @@
     "titleId": "PPSA14368_00",
     "conceptId": 10007386,
     "name": "CUSTOM MECH WARS",
-    "contentId": null,
+    "contentId": "EP3036-PPSA14368_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP3036"
   },
@@ -61299,9 +61339,9 @@
     "titleId": "PPSA15472_00",
     "conceptId": 10008003,
     "name": "Hirilun",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15472_00-HIRILUNRATAGAMES",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15477_00",
@@ -62291,7 +62331,7 @@
     "titleId": "PPSA15746_00",
     "conceptId": 10004850,
     "name": "Trinity Fusion",
-    "contentId": null,
+    "contentId": "UP2329-PPSA15746_00-0911368838775149",
     "region": "UP",
     "publisherId": "UP2329"
   },
@@ -63720,12 +63760,28 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA16090_00",
+    "conceptId": 10008230,
+    "name": "GNOSIA",
+    "contentId": "UP0969-PPSA16090_00-0000000000GNOSIA",
+    "region": "UP",
+    "publisherId": "UP0969"
+  },
+  {
     "titleId": "PPSA16091_00",
     "conceptId": 10008230,
     "name": "GNOSIA",
     "contentId": "EP0122-PPSA16091_00-0000000000GNOSIA",
     "region": "EP",
     "publisherId": "EP0122"
+  },
+  {
+    "titleId": "PPSA16092_00",
+    "conceptId": 10008230,
+    "name": "\u30b0\u30ce\u30fc\u30b7\u30a2",
+    "contentId": "JP0122-PPSA16092_00-0000000000GNOSIA",
+    "region": "JP",
+    "publisherId": "JP0122"
   },
   {
     "titleId": "PPSA16098_00",
@@ -63814,6 +63870,14 @@
     "contentId": "UP6492-PPSA16120_00-0071872720621500",
     "region": "UP",
     "publisherId": "UP6492"
+  },
+  {
+    "titleId": "PPSA16121_00",
+    "conceptId": 10008236,
+    "name": "\u30b5\u30ac \u30a8\u30e1\u30e9\u30eb\u30c9 \u30d3\u30e8\u30f3\u30c9",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA16124_00",
@@ -65642,8 +65706,8 @@
   {
     "titleId": "PPSA16601_00",
     "conceptId": 10007911,
-    "name": "Granblue Fantasy Versus: Rising Standard Edition",
-    "contentId": null,
+    "name": "Granblue Fantasy Versus: Rising",
+    "contentId": "JP0178-PPSA16601_00-GBVSRGAME0000001",
     "region": "JP",
     "publisherId": "JP0178"
   },
@@ -65658,8 +65722,8 @@
   {
     "titleId": "PPSA16603_00",
     "conceptId": 10007911,
-    "name": "Granblue Fantasy Versus: Rising Standard Edition",
-    "contentId": null,
+    "name": "Granblue Fantasy Versus: Rising",
+    "contentId": "EP5641-PPSA16603_00-GBVSRGAME0000001",
     "region": "EP",
     "publisherId": "EP5641"
   },
@@ -66586,8 +66650,8 @@
   {
     "titleId": "PPSA16882_00",
     "conceptId": 10008561,
-    "name": "Towers and Powers",
-    "contentId": null,
+    "name": "Towers and Powers VR",
+    "contentId": "EP5279-PPSA16882_00-EUXXXXXXXXXXXXXX",
     "region": "EP",
     "publisherId": "EP5279"
   },
@@ -69418,18 +69482,18 @@
   {
     "titleId": "PPSA17978_00",
     "conceptId": 10009009,
-    "name": "Ralph and the Blue Ball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ralph And The Blue Ball",
+    "contentId": "UP8511-PPSA17978_00-0459165487018364",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA17979_00",
     "conceptId": 10009009,
-    "name": "Ralph and the Blue Ball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ralph And The Blue Ball",
+    "contentId": "EP8701-PPSA17979_00-0076735578876976",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA17980_00",
@@ -69442,7 +69506,39 @@
   {
     "titleId": "PPSA17981_00",
     "conceptId": 10009009,
-    "name": "Ralph and the Blue Ball",
+    "name": "Ralph And The Blue Ball",
+    "contentId": "HP8462-PPSA17981_00-0413152758363492",
+    "region": "HP",
+    "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA17986_00",
+    "conceptId": 10009000,
+    "name": "Cat Pipes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17987_00",
+    "conceptId": 10009000,
+    "name": "Cat Pipes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17988_00",
+    "conceptId": 10009000,
+    "name": "Cat Pipes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17989_00",
+    "conceptId": 10009000,
+    "name": "Cat Pipes",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -69467,9 +69563,9 @@
     "titleId": "PPSA18004_00",
     "conceptId": 10008803,
     "name": "Emergency Call - The Attack Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA18004_00-NOTRUFATTACKTROP",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA18005_00",
@@ -69600,6 +69696,22 @@
     "publisherId": "HP7967"
   },
   {
+    "titleId": "PPSA18073_00",
+    "conceptId": 10009042,
+    "name": "Cooking Simulator VR",
+    "contentId": "EP5703-PPSA18073_00-0649369532505535",
+    "region": "EP",
+    "publisherId": "EP5703"
+  },
+  {
+    "titleId": "PPSA18074_00",
+    "conceptId": 10009042,
+    "name": "Cooking Simulator VR",
+    "contentId": "UP5522-PPSA18074_00-0385378199123682",
+    "region": "UP",
+    "publisherId": "UP5522"
+  },
+  {
     "titleId": "PPSA18085_00",
     "conceptId": 10009039,
     "name": "Detective Inspector: Mysterious Clues",
@@ -69720,6 +69832,22 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA18111_00",
+    "conceptId": 231205,
+    "name": "AFFECTED: The Manor - Complete Edition",
+    "contentId": "UP2992-PPSA18111_00-0418816395400256",
+    "region": "UP",
+    "publisherId": "UP2992"
+  },
+  {
+    "titleId": "PPSA18112_00",
+    "conceptId": 231205,
+    "name": "AFFECTED: The Manor - Complete Edition",
+    "contentId": "EP2854-PPSA18112_00-0732848335678426",
+    "region": "EP",
+    "publisherId": "EP2854"
+  },
+  {
     "titleId": "PPSA18113_00",
     "conceptId": 10004776,
     "name": "Agatha Christie - Murder on the Orient Express",
@@ -69795,9 +69923,9 @@
     "titleId": "PPSA18170_00",
     "conceptId": 10009070,
     "name": "Crazy Chicken X",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA18170_00-MOORHUHNXPS5EURO",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA18171_00",
@@ -71064,6 +71192,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18761_00",
+    "conceptId": 10009296,
+    "name": "My Life: Farm Vet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18779_00",
     "conceptId": 10006873,
     "name": "THE FINALS",
@@ -71288,6 +71424,14 @@
     "publisherId": "EB0467"
   },
   {
+    "titleId": "PPSA18850_00",
+    "conceptId": 10009313,
+    "name": "Crazy Chicken \u2013 Traps and Treasures 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18851_00",
     "conceptId": 10009313,
     "name": "Crazy Chicken \u2013 Traps and Treasures 2",
@@ -71443,9 +71587,9 @@
     "titleId": "PPSA18887_00",
     "conceptId": 10009325,
     "name": "Five Nights at Freddy's: Help Wanted 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0634-PPSA18887_00-FNAFHELPWANTEDP2",
+    "region": "EP",
+    "publisherId": "EP0634"
   },
   {
     "titleId": "PPSA18893_00",
@@ -71462,6 +71606,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA18920_00",
+    "conceptId": 10009341,
+    "name": "Air Fight - Sky Fighters",
+    "contentId": "UP8600-PPSA18920_00-0472833820583559",
+    "region": "UP",
+    "publisherId": "UP8600"
   },
   {
     "titleId": "PPSA18921_00",
@@ -72266,26 +72418,34 @@
   {
     "titleId": "PPSA19390_00",
     "conceptId": 10003192,
-    "name": "Arietta of Spirits PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Arietta Of Spirits",
+    "contentId": "EP5098-PPSA19390_00-0110026338560643",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA19391_00",
     "conceptId": 10003192,
-    "name": "Arietta of Spirits PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Arietta Of Spirits",
+    "contentId": "UP4912-PPSA19391_00-0440358565849632",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA19392_00",
     "conceptId": 10009519,
     "name": "Yuletide Legends: Who Framed Santa Claus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1667-PPSA19392_00-YULEPS5X2023SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
+  },
+  {
+    "titleId": "PPSA19393_00",
+    "conceptId": 10009519,
+    "name": "Yuletide Legends: Who Framed Santa Claus",
+    "contentId": "UP1681-PPSA19393_00-YULEPS5X2023SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA19403_00",
@@ -72296,12 +72456,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19429_00",
+    "conceptId": 10009280,
+    "name": "METRO QUESTER",
+    "contentId": "UP2500-PPSA19429_00-US0MQUESTER00PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA19430_00",
     "conceptId": 10009280,
     "name": "METRO QUESTER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA19430_00-EU0MQUESTER00PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA19438_00",
@@ -72443,6 +72611,14 @@
     "titleId": "PPSA19587_00",
     "conceptId": 10007116,
     "name": "Tiger Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19611_00",
+    "conceptId": 10008882,
+    "name": "Breachers",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -72763,49 +72939,49 @@
     "titleId": "PPSA19887_00",
     "conceptId": 10009698,
     "name": "Western Slot Machine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA19887_00-0275273432800011",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA19888_00",
     "conceptId": 10009698,
     "name": "Western Slot Machine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA19888_00-0742570081451133",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA19897_00",
     "conceptId": 10009708,
     "name": "Gallery Gunner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA19897_00-0832471170410304",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA19898_00",
     "conceptId": 10009708,
     "name": "Gallery Gunner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA19898_00-0691445398380982",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA19899_00",
     "conceptId": 10009708,
     "name": "Gallery Gunner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA19899_00-0734083359321145",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA19900_00",
     "conceptId": 10009708,
     "name": "Gallery Gunner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA19900_00-0951316043594539",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA19922_00",
@@ -73008,6 +73184,14 @@
     "publisherId": "JP3575"
   },
   {
+    "titleId": "PPSA20238_00",
+    "conceptId": 10009590,
+    "name": "Farm Tycoon",
+    "contentId": "EP1549-PPSA20238_00-CLABS1FT20231109",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
     "titleId": "PPSA20265_00",
     "conceptId": 10008027,
     "name": "Galactic Lords",
@@ -73019,9 +73203,9 @@
     "titleId": "PPSA20266_00",
     "conceptId": 10008027,
     "name": "Galactic Lords",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA20266_00-0846088015766840",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA20267_00",
@@ -73067,9 +73251,9 @@
     "titleId": "PPSA20274_00",
     "conceptId": 10008365,
     "name": "Everlune",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA20274_00-0115825471461411",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA20275_00",
@@ -73104,12 +73288,20 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA20280_00",
+    "conceptId": 10005294,
+    "name": "Archery Blast",
+    "contentId": "UP7552-PPSA20280_00-0973241078115633",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA20281_00",
     "conceptId": 10005294,
     "name": "Archery Blast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7550-PPSA20281_00-0859830574445828",
+    "region": "EP",
+    "publisherId": "EP7550"
   },
   {
     "titleId": "PPSA20299_00",
