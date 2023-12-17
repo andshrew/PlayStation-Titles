@@ -36474,10 +36474,10 @@
   {
     "titleId": "PPSA08716_00",
     "conceptId": 10005531,
-    "name": "Not For Broadcast: VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Not For Broadcast VR",
+    "contentId": "EP0096-PPSA08716_00-9490505870769070",
+    "region": "EP",
+    "publisherId": "EP0096"
   },
   {
     "titleId": "PPSA08717_00",
@@ -53264,6 +53264,14 @@
     "publisherId": "EP6162"
   },
   {
+    "titleId": "PPSA12569_00",
+    "conceptId": 10006933,
+    "name": "Cookie Cutter",
+    "contentId": "JP6077-PPSA12569_00-0162905491629485",
+    "region": "JP",
+    "publisherId": "JP6077"
+  },
+  {
     "titleId": "PPSA12570_00",
     "conceptId": 10006933,
     "name": "Cookie Cutter",
@@ -61331,9 +61339,9 @@
     "titleId": "PPSA15471_00",
     "conceptId": 10008003,
     "name": "Hirilun",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA15471_00-HIRILUNRATAGAMES",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA15472_00",
@@ -62848,6 +62856,14 @@
     "publisherId": "HP1804"
   },
   {
+    "titleId": "PPSA15891_00",
+    "conceptId": 10007296,
+    "name": "Lempo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15892_00",
     "conceptId": 10007363,
     "name": "\u300eElypse\u300f",
@@ -63782,6 +63798,14 @@
     "contentId": "JP0122-PPSA16092_00-0000000000GNOSIA",
     "region": "JP",
     "publisherId": "JP0122"
+  },
+  {
+    "titleId": "PPSA16093_00",
+    "conceptId": 10008230,
+    "name": "GNOSIA",
+    "contentId": "HP1127-PPSA16093_00-0000000000GNOSIA",
+    "region": "HP",
+    "publisherId": "HP1127"
   },
   {
     "titleId": "PPSA16098_00",
@@ -65714,8 +65738,8 @@
   {
     "titleId": "PPSA16602_00",
     "conceptId": 10007911,
-    "name": "Granblue Fantasy Versus: Rising Standard Edition",
-    "contentId": null,
+    "name": "Granblue Fantasy Versus: Rising",
+    "contentId": "UP5460-PPSA16602_00-GBVSRGAME0000001",
     "region": "UP",
     "publisherId": "UP5460"
   },
@@ -66642,8 +66666,8 @@
   {
     "titleId": "PPSA16881_00",
     "conceptId": 10008561,
-    "name": "Towers and Powers",
-    "contentId": null,
+    "name": "Towers and Powers VR",
+    "contentId": "UP5099-PPSA16881_00-USXXXXXXXXXXXXXX",
     "region": "UP",
     "publisherId": "UP5099"
   },
@@ -68856,6 +68880,14 @@
     "publisherId": "UP3165"
   },
   {
+    "titleId": "PPSA17701_00",
+    "conceptId": 10008882,
+    "name": "Breachers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17705_00",
     "conceptId": 10008895,
     "name": "NeonPowerUp!",
@@ -69498,10 +69530,10 @@
   {
     "titleId": "PPSA17980_00",
     "conceptId": 10009009,
-    "name": "Ralph and the Blue Ball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ralph And The Blue Ball",
+    "contentId": "JP8416-PPSA17980_00-0078410148833636",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA17981_00",
@@ -69571,9 +69603,9 @@
     "titleId": "PPSA18005_00",
     "conceptId": 10008803,
     "name": "Emergency Call - The Attack Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3003-PPSA18005_00-NOTRUFATTACKTROP",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA18006_00",
@@ -70920,6 +70952,22 @@
     "publisherId": "HP5777"
   },
   {
+    "titleId": "PPSA18614_00",
+    "conceptId": 10009244,
+    "name": "Cherry Tower",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18615_00",
+    "conceptId": 10009244,
+    "name": "Cherry Tower",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18628_00",
     "conceptId": 10009062,
     "name": "Ariko's Enchanted Forest",
@@ -71619,9 +71667,9 @@
     "titleId": "PPSA18921_00",
     "conceptId": 10009341,
     "name": "Air Fight - Sky Fighters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8790-PPSA18921_00-0787256182173763",
+    "region": "EP",
+    "publisherId": "EP8790"
   },
   {
     "titleId": "PPSA18928_00",
@@ -73182,6 +73230,14 @@
     "contentId": "JP3575-PPSA20236_00-0477557951519053",
     "region": "JP",
     "publisherId": "JP3575"
+  },
+  {
+    "titleId": "PPSA20237_00",
+    "conceptId": 10009590,
+    "name": "Farm Tycoon",
+    "contentId": "UP1564-PPSA20237_00-CLABS0FT20231109",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA20238_00",
