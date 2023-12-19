@@ -19930,10 +19930,10 @@
   {
     "titleId": "PPSA05528_00",
     "conceptId": 10000259,
-    "name": "RISING DUSK",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rising Dusk",
+    "contentId": "EP5137-PPSA05528_00-RISINGDUSK000000",
+    "region": "EP",
+    "publisherId": "EP5137"
   },
   {
     "titleId": "PPSA05529_00",
@@ -53616,6 +53616,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12637_00",
+    "conceptId": 10006957,
+    "name": "Dodge It",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12638_00",
+    "conceptId": 10006957,
+    "name": "Dodge It",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12640_00",
     "conceptId": 10006959,
     "name": "Atari Mania",
@@ -64152,6 +64168,14 @@
     "publisherId": "UP7949"
   },
   {
+    "titleId": "PPSA16183_00",
+    "conceptId": 10008259,
+    "name": "Battle Rockets\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16185_00",
     "conceptId": 10008132,
     "name": "\u30a8\u30f3\u30b7\u30a7\u30f3\u30c8\u30cf\u30f3\u30bf\u30fc",
@@ -66472,6 +66496,14 @@
     "publisherId": "EP5335"
   },
   {
+    "titleId": "PPSA16793_00",
+    "conceptId": 10008444,
+    "name": "Alaskan Road Truckers",
+    "contentId": "EP3430-PPSA16793_00-ATS0000000000000",
+    "region": "EP",
+    "publisherId": "EP3430"
+  },
+  {
     "titleId": "PPSA16794_00",
     "conceptId": 10008294,
     "name": "Placid Plastic Duck Simulator",
@@ -67214,6 +67246,14 @@
     "contentId": "JP3425-PPSA17059_00-RAINWORLD0000000",
     "region": "JP",
     "publisherId": "JP3425"
+  },
+  {
+    "titleId": "PPSA17068_00",
+    "conceptId": 232889,
+    "name": "Gun Club VR",
+    "contentId": "EP4731-PPSA17068_00-GCVRRELOADED2023",
+    "region": "EP",
+    "publisherId": "EP4731"
   },
   {
     "titleId": "PPSA17075_00",
@@ -68262,6 +68302,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP4133"
+  },
+  {
+    "titleId": "PPSA17424_00",
+    "conceptId": 10008470,
+    "name": "Speed Crew",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17439_00",
@@ -69512,6 +69560,14 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA17962_00",
+    "conceptId": 10008470,
+    "name": "Speed Crew",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17967_00",
     "conceptId": 10004875,
     "name": "Headbangers: Rhythm Royale",
@@ -69571,9 +69627,9 @@
     "titleId": "PPSA17987_00",
     "conceptId": 10009000,
     "name": "Cat Pipes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA17987_00-0339731981936794",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA17988_00",
@@ -70830,6 +70886,14 @@
     "contentId": "UP0700-PPSA18537_00-TEKKEN8DEMO00000",
     "region": "UP",
     "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA18547_00",
+    "conceptId": 10009197,
+    "name": "Ven VR Adventure",
+    "contentId": "EP8761-PPSA18547_00-0516097051003374",
+    "region": "EP",
+    "publisherId": "EP8761"
   },
   {
     "titleId": "PPSA18548_00",
@@ -73216,6 +73280,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA20217_00",
+    "conceptId": 10009832,
+    "name": "All I Want for Christmas are Subgames",
+    "contentId": "EP1411-PPSA20217_00-0507478746012407",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA20218_00",
+    "conceptId": 10009832,
+    "name": "All I Want for Christmas are Subgames",
+    "contentId": "UP1421-PPSA20218_00-0223552308880610",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA20233_00",
     "conceptId": 10009825,
     "name": "Tested on Humans: Escape Room",
@@ -73507,6 +73587,38 @@
     "titleId": "PPSA20487_00",
     "conceptId": 10004289,
     "name": "UFL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20507_00",
+    "conceptId": 10009653,
+    "name": "DARKGEMS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20508_00",
+    "conceptId": 10009653,
+    "name": "DARKGEMS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20509_00",
+    "conceptId": 10009653,
+    "name": "DARKGEMS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20510_00",
+    "conceptId": 10009653,
+    "name": "DARKGEMS",
     "contentId": null,
     "region": null,
     "publisherId": null
