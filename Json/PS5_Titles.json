@@ -17272,6 +17272,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA05003_00",
+    "conceptId": 10001988,
+    "name": "The Outlast Trials",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2113"
+  },
+  {
     "titleId": "PPSA05005_00",
     "conceptId": 10003653,
     "name": "A Monster's Expedition",
@@ -22875,9 +22883,9 @@
     "titleId": "PPSA06107_00",
     "conceptId": 10004263,
     "name": "Hammerwatch II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4908-PPSA06107_00-HAMMERWATCH20000",
+    "region": "EP",
+    "publisherId": "EP4908"
   },
   {
     "titleId": "PPSA06108_00",
@@ -41658,10 +41666,10 @@
   {
     "titleId": "PPSA09609_00",
     "conceptId": 10005918,
-    "name": "Potion Craft: Alchemist Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Potion Craft",
+    "contentId": "EP0096-PPSA09609_00-2925549421292841",
+    "region": "EP",
+    "publisherId": "EP0096"
   },
   {
     "titleId": "PPSA09612_00",
@@ -59160,6 +59168,14 @@
     "publisherId": "EP6325"
   },
   {
+    "titleId": "PPSA14359_00",
+    "conceptId": 10007618,
+    "name": "Thrillville",
+    "contentId": "EP1006-PPSA14359_00-ULES006460000000",
+    "region": "EP",
+    "publisherId": "EP1006"
+  },
+  {
     "titleId": "PPSA14362_00",
     "conceptId": 10007607,
     "name": "METAL GEAR SOLID (MASTER COLLECTION\u7248)",
@@ -59278,6 +59294,14 @@
     "contentId": "JP0075-PPSA14380_00-EVILWESTGAME0000",
     "region": "JP",
     "publisherId": "JP0075"
+  },
+  {
+    "titleId": "PPSA14382_00",
+    "conceptId": 10007631,
+    "name": "Disney\u2022Pixar Buzz Lightyear of Star Command",
+    "contentId": "EP1006-PPSA14382_00-SLES033100000000",
+    "region": "EP",
+    "publisherId": "EP1006"
   },
   {
     "titleId": "PPSA14385_00",
@@ -60763,6 +60787,14 @@
     "titleId": "PPSA15337_00",
     "conceptId": 10004427,
     "name": "Mordhau",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15343_00",
+    "conceptId": 10007958,
+    "name": "Bahnsen Knights",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -64176,6 +64208,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16184_00",
+    "conceptId": 10008259,
+    "name": "Battle Rockets",
+    "contentId": "HP5907-PPSA16184_00-BATTLEROCKETS5JA",
+    "region": "HP",
+    "publisherId": "HP5907"
+  },
+  {
     "titleId": "PPSA16185_00",
     "conceptId": 10008132,
     "name": "\u30a8\u30f3\u30b7\u30a7\u30f3\u30c8\u30cf\u30f3\u30bf\u30fc",
@@ -65350,6 +65390,14 @@
     "contentId": "UP1470-PPSA16479_00-DESOLATIUMUS0000",
     "region": "UP",
     "publisherId": "UP1470"
+  },
+  {
+    "titleId": "PPSA16487_00",
+    "conceptId": 10008305,
+    "name": "The House of Da Vinci",
+    "contentId": "UP6169-PPSA16487_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP6169"
   },
   {
     "titleId": "PPSA16488_00",
@@ -67256,6 +67304,14 @@
     "publisherId": "EP4731"
   },
   {
+    "titleId": "PPSA17069_00",
+    "conceptId": 232889,
+    "name": "Gun Club VR",
+    "contentId": "UP4557-PPSA17069_00-GCVRRELOADED2023",
+    "region": "UP",
+    "publisherId": "UP4557"
+  },
+  {
     "titleId": "PPSA17075_00",
     "conceptId": 10008646,
     "name": "Boat Trip",
@@ -67410,10 +67466,18 @@
   {
     "titleId": "PPSA17111_00",
     "conceptId": 10004228,
-    "name": "ForeVR Bowl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ForeVR Bowling",
+    "contentId": "UP7299-PPSA17111_00-0727158726101567",
+    "region": "UP",
+    "publisherId": "UP7299"
+  },
+  {
+    "titleId": "PPSA17112_00",
+    "conceptId": 10004228,
+    "name": "ForeVR Bowling",
+    "contentId": "EP7297-PPSA17112_00-0567054167347492",
+    "region": "EP",
+    "publisherId": "EP7297"
   },
   {
     "titleId": "PPSA17113_00",
@@ -67886,6 +67950,14 @@
     "contentId": "UP0177-PPSA17272_00-FM24NA0000000000",
     "region": "UP",
     "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA17274_00",
+    "conceptId": 10007620,
+    "name": "Thrillville: Off the Rails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17278_00",
@@ -69619,9 +69691,9 @@
     "titleId": "PPSA17986_00",
     "conceptId": 10009000,
     "name": "Cat Pipes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA17986_00-0119008763128775",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA17987_00",
@@ -69635,17 +69707,17 @@
     "titleId": "PPSA17988_00",
     "conceptId": 10009000,
     "name": "Cat Pipes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA17988_00-0522353579995993",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA17989_00",
     "conceptId": 10009000,
     "name": "Cat Pipes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA17989_00-0591510089444083",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA18000_00",
@@ -70379,9 +70451,9 @@
     "titleId": "PPSA18320_00",
     "conceptId": 10009127,
     "name": "Ravva and the Phantom Library",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA18320_00-RAVVAPHANTOMLIBR",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA18321_00",
@@ -70888,6 +70960,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA18546_00",
+    "conceptId": 10009197,
+    "name": "Ven VR Adventure",
+    "contentId": "UP8571-PPSA18546_00-0953807540023784",
+    "region": "UP",
+    "publisherId": "UP8571"
+  },
+  {
     "titleId": "PPSA18547_00",
     "conceptId": 10009197,
     "name": "Ven VR Adventure",
@@ -71278,6 +71358,14 @@
     "contentId": "EP2005-PPSA18735_00-STTRGAME00000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA18737_00",
+    "conceptId": 10009290,
+    "name": "Nephenthesys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18738_00",
@@ -72584,6 +72672,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19414_00",
+    "conceptId": 10000320,
+    "name": "Hotel R'n'R",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19415_00",
+    "conceptId": 10000320,
+    "name": "Hotel R'n'R",
+    "contentId": "UP2767-PPSA19415_00-0026837043251690",
+    "region": "UP",
+    "publisherId": "UP2767"
+  },
+  {
     "titleId": "PPSA19429_00",
     "conceptId": 10009280,
     "name": "METRO QUESTER",
@@ -73579,9 +73683,9 @@
     "titleId": "PPSA20402_00",
     "conceptId": 10009913,
     "name": "Bigfoot's Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA20402_00-BIGFOOTGAMEPS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA20487_00",
@@ -73611,17 +73715,17 @@
     "titleId": "PPSA20509_00",
     "conceptId": 10009653,
     "name": "DARKGEMS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA20509_00-0245006054391134",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA20510_00",
     "conceptId": 10009653,
     "name": "DARKGEMS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA20510_00-0697230967931225",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA20591_00",
