@@ -17280,6 +17280,14 @@
     "publisherId": "UP2113"
   },
   {
+    "titleId": "PPSA05004_00",
+    "conceptId": 10001988,
+    "name": "The Outlast Trials",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4467"
+  },
+  {
     "titleId": "PPSA05005_00",
     "conceptId": 10003653,
     "name": "A Monster's Expedition",
@@ -19014,6 +19022,14 @@
     "contentId": "EP0958-PPSA05359_00-SLIPSTREAM000000",
     "region": "EP",
     "publisherId": "EP0958"
+  },
+  {
+    "titleId": "PPSA05360_00",
+    "conceptId": 10003833,
+    "name": "Slipstream",
+    "contentId": "UP2106-PPSA05360_00-SLIPSTREAM000000",
+    "region": "UP",
+    "publisherId": "UP2106"
   },
   {
     "titleId": "PPSA05364_00",
@@ -41947,9 +41963,9 @@
     "titleId": "PPSA09660_00",
     "conceptId": 233121,
     "name": "Epic Roller Coasters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5207-PPSA09660_00-EPICROLLCOASTERS",
+    "region": "UP",
+    "publisherId": "UP5207"
   },
   {
     "titleId": "PPSA09662_00",
@@ -54896,6 +54912,14 @@
     "publisherId": "EP8576"
   },
   {
+    "titleId": "PPSA13470_00",
+    "conceptId": 10007227,
+    "name": "Loot River",
+    "contentId": "EP6577-PPSA13470_00-LOOTRIVER0000000",
+    "region": "EP",
+    "publisherId": "EP6577"
+  },
+  {
     "titleId": "PPSA13475_00",
     "conceptId": 10006463,
     "name": "GAZZLERS",
@@ -59176,6 +59200,22 @@
     "publisherId": "EP1006"
   },
   {
+    "titleId": "PPSA14360_00",
+    "conceptId": 10007620,
+    "name": "Thrillville: Off the Rails",
+    "contentId": "UP1082-PPSA14360_00-ULUS103060000000",
+    "region": "UP",
+    "publisherId": "UP1082"
+  },
+  {
+    "titleId": "PPSA14361_00",
+    "conceptId": 10007620,
+    "name": "Thrillville: Off the Rails",
+    "contentId": "EP1006-PPSA14361_00-ULES008890000000",
+    "region": "EP",
+    "publisherId": "EP1006"
+  },
+  {
     "titleId": "PPSA14362_00",
     "conceptId": 10007607,
     "name": "METAL GEAR SOLID (MASTER COLLECTION\u7248)",
@@ -59294,6 +59334,14 @@
     "contentId": "JP0075-PPSA14380_00-EVILWESTGAME0000",
     "region": "JP",
     "publisherId": "JP0075"
+  },
+  {
+    "titleId": "PPSA14381_00",
+    "conceptId": 10007631,
+    "name": "Disney\u2022Pixar Buzz Lightyear of Star Command",
+    "contentId": "UP1082-PPSA14381_00-SLUS011920000000",
+    "region": "UP",
+    "publisherId": "UP1082"
   },
   {
     "titleId": "PPSA14382_00",
@@ -60792,7 +60840,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15342_00",
+    "conceptId": 10007958,
+    "name": "Bahnsen Knights",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15343_00",
+    "conceptId": 10007958,
+    "name": "Bahnsen Knights",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15344_00",
     "conceptId": 10007958,
     "name": "Bahnsen Knights",
     "contentId": null,
@@ -64179,9 +64243,9 @@
     "titleId": "PPSA16173_00",
     "conceptId": 10008254,
     "name": "Three Minutes To Eight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5470-PPSA16173_00-0720706012941757",
+    "region": "EP",
+    "publisherId": "EP5470"
   },
   {
     "titleId": "PPSA16174_00",
@@ -64198,6 +64262,14 @@
     "contentId": "UP7949-PPSA16179_00-ZZZZZZZZZZZZZZZZ",
     "region": "UP",
     "publisherId": "UP7949"
+  },
+  {
+    "titleId": "PPSA16182_00",
+    "conceptId": 10008259,
+    "name": "Battle Rockets",
+    "contentId": "UP8008-PPSA16182_00-BATTLEROCKETS5NA",
+    "region": "UP",
+    "publisherId": "UP8008"
   },
   {
     "titleId": "PPSA16183_00",
@@ -65502,6 +65574,22 @@
     "contentId": "EP1965-PPSA16517_00-HAVEANICEDEATH00",
     "region": "EP",
     "publisherId": "EP1965"
+  },
+  {
+    "titleId": "PPSA16518_00",
+    "conceptId": 10008405,
+    "name": "\u30ea\u30c8\u30eb\u30d7\u30ea\u30f3\u30bb\u30b9 \u30de\u30fc\u30eb\u738b\u56fd\u306e\u4eba\u5f62\u59eb2",
+    "contentId": "JP0404-PPSA16518_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
+    "titleId": "PPSA16519_00",
+    "conceptId": 10008406,
+    "name": "\u5929\u4f7f\u306e\u30d7\u30ec\u30bc\u30f3\u30c8 \u30de\u30fc\u30eb\u738b\u56fd\u7269\u8a9e",
+    "contentId": "JP0404-PPSA16519_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0404"
   },
   {
     "titleId": "PPSA16520_00",
@@ -67168,6 +67256,14 @@
     "publisherId": "EP6326"
   },
   {
+    "titleId": "PPSA16989_00",
+    "conceptId": 10008030,
+    "name": "Wolf Simulator : RPG Survival Animal Battle",
+    "contentId": "UP6327-PPSA16989_00-0192373158001523",
+    "region": "UP",
+    "publisherId": "UP6327"
+  },
+  {
     "titleId": "PPSA16991_00",
     "conceptId": 10008604,
     "name": "Kalinur",
@@ -67936,12 +68032,28 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA17265_00",
+    "conceptId": 10008681,
+    "name": "My Child Lebensborn Remastered",
+    "contentId": "EP7377-PPSA17265_00-0159824622066696",
+    "region": "EP",
+    "publisherId": "EP7377"
+  },
+  {
     "titleId": "PPSA17270_00",
     "conceptId": 10008728,
     "name": "\u30da\u30eb\u30b7\u30e3\u3068\u9b54\u6cd5\u306e\u8ff7\u5bae\u5854 \u301c\u30a2\u30e9\u30d3\u30a2\u30f3\u30cb\u30e3\u30a4\u30c8\u7de8\u301c",
     "contentId": "JP1557-PPSA17270_00-PMPPS5SIEJAJP000",
     "region": "JP",
     "publisherId": "JP1557"
+  },
+  {
+    "titleId": "PPSA17271_00",
+    "conceptId": 10008681,
+    "name": "My Child Lebensborn Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17272_00",
@@ -68030,6 +68142,14 @@
     "contentId": "UP6881-PPSA17307_00-0290807864097366",
     "region": "UP",
     "publisherId": "UP6881"
+  },
+  {
+    "titleId": "PPSA17309_00",
+    "conceptId": 10008681,
+    "name": "My Child Lebensborn Remastered",
+    "contentId": "HP7398-PPSA17309_00-0279521599783671",
+    "region": "HP",
+    "publisherId": "HP7398"
   },
   {
     "titleId": "PPSA17310_00",
@@ -68134,6 +68254,14 @@
     "contentId": "EP0182-PPSA17330_00-0606736787546654",
     "region": "EP",
     "publisherId": "EP0182"
+  },
+  {
+    "titleId": "PPSA17339_00",
+    "conceptId": 10008639,
+    "name": "Choo-Choo Charles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17347_00",
@@ -68918,6 +69046,14 @@
     "contentId": "HP7354-PPSA17656_00-0133346613200368",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA17657_00",
+    "conceptId": 10007227,
+    "name": "Loot River",
+    "contentId": "UP6578-PPSA17657_00-LOOTRIVER0000000",
+    "region": "UP",
+    "publisherId": "UP6578"
   },
   {
     "titleId": "PPSA17658_00",
@@ -70459,9 +70595,9 @@
     "titleId": "PPSA18321_00",
     "conceptId": 10009127,
     "name": "Ravva and the Phantom Library",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA18321_00-RAVVAPHANTOMLIBR",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA18322_00",
@@ -70803,9 +70939,9 @@
     "titleId": "PPSA18454_00",
     "conceptId": 10009028,
     "name": "Poppy Playtime: Chapter 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8103-PPSA18454_00-0936750542714392",
+    "region": "UP",
+    "publisherId": "UP8103"
   },
   {
     "titleId": "PPSA18463_00",
@@ -71123,9 +71259,9 @@
     "titleId": "PPSA18615_00",
     "conceptId": 10009244,
     "name": "Cherry Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA18615_00-0703700398179391",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA18628_00",
@@ -71358,6 +71494,14 @@
     "contentId": "EP2005-PPSA18735_00-STTRGAME00000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA18736_00",
+    "conceptId": 10009290,
+    "name": "Nephenthesys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18737_00",
@@ -72224,6 +72368,30 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA19126_00",
+    "conceptId": 10009244,
+    "name": "Cherry Tower - DEMO",
+    "contentId": "EP7333-PPSA19126_00-0063623202805268",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA19127_00",
+    "conceptId": 10009244,
+    "name": "Cherry Tower - DEMO",
+    "contentId": "JP7309-PPSA19127_00-0843489495601330",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA19128_00",
+    "conceptId": 10009244,
+    "name": "Cherry Tower - DEMO",
+    "contentId": "HP7354-PPSA19128_00-0368717671463286",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA19144_00",
     "conceptId": 10002211,
     "name": "XDefiant",
@@ -72379,17 +72547,17 @@
     "titleId": "PPSA19250_00",
     "conceptId": 10009114,
     "name": "Vetrix Worlds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6624-PPSA19250_00-0815562231875557",
+    "region": "EP",
+    "publisherId": "EP6624"
   },
   {
     "titleId": "PPSA19251_00",
     "conceptId": 10009114,
     "name": "Vetrix Worlds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6555-PPSA19251_00-0569658724508654",
+    "region": "JP",
+    "publisherId": "JP6555"
   },
   {
     "titleId": "PPSA19252_00",
@@ -72675,9 +72843,9 @@
     "titleId": "PPSA19414_00",
     "conceptId": 10000320,
     "name": "Hotel R'n'R",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2630-PPSA19414_00-0478942018400914",
+    "region": "EP",
+    "publisherId": "EP2630"
   },
   {
     "titleId": "PPSA19415_00",
@@ -72758,6 +72926,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA19540_00",
+    "conceptId": 10006425,
+    "name": "The Mobius Machine Demo",
+    "contentId": "UP2638-PPSA19540_00-MADWMOBDEMPS5USA",
+    "region": "UP",
+    "publisherId": "UP2638"
   },
   {
     "titleId": "PPSA19542_00",
@@ -72843,17 +73019,33 @@
     "titleId": "PPSA19587_00",
     "conceptId": 10007116,
     "name": "Tiger Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6136-PPSA19587_00-0674567572537552",
+    "region": "EP",
+    "publisherId": "EP6136"
   },
   {
     "titleId": "PPSA19611_00",
     "conceptId": 10008882,
     "name": "Breachers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7117-PPSA19611_00-0963968143428156",
+    "region": "UP",
+    "publisherId": "UP7117"
+  },
+  {
+    "titleId": "PPSA19612_00",
+    "conceptId": 10008882,
+    "name": "Breachers",
+    "contentId": "HP7132-PPSA19612_00-0025633406054995",
+    "region": "HP",
+    "publisherId": "HP7132"
+  },
+  {
+    "titleId": "PPSA19613_00",
+    "conceptId": 10008882,
+    "name": "Breachers",
+    "contentId": "JP7085-PPSA19613_00-0459327608185211",
+    "region": "JP",
+    "publisherId": "JP7085"
   },
   {
     "titleId": "PPSA19620_00",
@@ -72954,10 +73146,10 @@
   {
     "titleId": "PPSA19651_00",
     "conceptId": 10009614,
-    "name": "DETECTIVE - Stella Porta case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Detective: Stella Porta Case",
+    "contentId": "EP3111-PPSA19651_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA19652_00",
@@ -73046,6 +73238,22 @@
     "contentId": "UP7555-PPSA19770_00-WALLWORLDPS5NA00",
     "region": "UP",
     "publisherId": "UP7555"
+  },
+  {
+    "titleId": "PPSA19771_00",
+    "conceptId": 10009278,
+    "name": "Wall World",
+    "contentId": "JP7534-PPSA19771_00-WALLWORLDPS5JA00",
+    "region": "JP",
+    "publisherId": "JP7534"
+  },
+  {
+    "titleId": "PPSA19772_00",
+    "conceptId": 10009278,
+    "name": "Wall World",
+    "contentId": "HP7578-PPSA19772_00-WALLWORLDPS5AS00",
+    "region": "HP",
+    "publisherId": "HP7578"
   },
   {
     "titleId": "PPSA19775_00",
@@ -73278,6 +73486,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP8115"
+  },
+  {
+    "titleId": "PPSA19994_00",
+    "conceptId": 10006425,
+    "name": "The Mobius Machine Demo",
+    "contentId": "EP2502-PPSA19994_00-MADWMOBDEMPS5EUR",
+    "region": "EP",
+    "publisherId": "EP2502"
   },
   {
     "titleId": "PPSA20029_00",
@@ -73659,25 +73875,25 @@
     "titleId": "PPSA20399_00",
     "conceptId": 10009913,
     "name": "Bigfoot's Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA20399_00-BIGFOOTGAMEPS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA20400_00",
     "conceptId": 10009913,
     "name": "Bigfoot's Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA20400_00-BIGFOOTGAMEPS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA20401_00",
     "conceptId": 10009913,
     "name": "Bigfoot's Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA20401_00-BIGFOOTGAMEPS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA20402_00",
@@ -73699,17 +73915,17 @@
     "titleId": "PPSA20507_00",
     "conceptId": 10009653,
     "name": "DARKGEMS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA20507_00-0144829733682597",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA20508_00",
     "conceptId": 10009653,
     "name": "DARKGEMS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA20508_00-0097809752726192",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA20509_00",
@@ -73728,9 +73944,41 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA20529_00",
+    "conceptId": 10009614,
+    "name": "DETECTIVE - Stella Porta case",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20591_00",
     "conceptId": 10009028,
     "name": "Poppy Playtime: Chapter 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20592_00",
+    "conceptId": 10009965,
+    "name": "Draco D",
+    "contentId": "EP4312-PPSA20592_00-0134901346965793",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA20593_00",
+    "conceptId": 10009965,
+    "name": "Draco D",
+    "contentId": "UP4312-PPSA20593_00-0411097011785280",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA20672_00",
+    "conceptId": 10009918,
+    "name": "ITVX",
     "contentId": null,
     "region": null,
     "publisherId": null
