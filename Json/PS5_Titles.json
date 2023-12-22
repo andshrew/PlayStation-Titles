@@ -23872,6 +23872,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA06305_00",
+    "conceptId": 10004382,
+    "name": "3D Color Labyrinth",
+    "contentId": "EP3945-PPSA06305_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3945"
+  },
+  {
     "titleId": "PPSA06312_00",
     "conceptId": 10004389,
     "name": "Soccer Story",
@@ -53923,9 +53931,9 @@
     "titleId": "PPSA13222_00",
     "conceptId": 10007116,
     "name": "Tiger Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6137-PPSA13222_00-0345056419524540",
+    "region": "UP",
+    "publisherId": "UP6137"
   },
   {
     "titleId": "PPSA13224_00",
@@ -59192,6 +59200,14 @@
     "publisherId": "EP6325"
   },
   {
+    "titleId": "PPSA14358_00",
+    "conceptId": 10007618,
+    "name": "Thrillville",
+    "contentId": "UP1082-PPSA14358_00-ULUS101910000000",
+    "region": "UP",
+    "publisherId": "UP1082"
+  },
+  {
     "titleId": "PPSA14359_00",
     "conceptId": 10007618,
     "name": "Thrillville",
@@ -61888,6 +61904,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA15574_00",
+    "conceptId": 10008055,
+    "name": "SOUTH PARK: SNOW DAY!",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA15586_00",
     "conceptId": 10008053,
     "name": "Wild Seas",
@@ -64274,10 +64298,10 @@
   {
     "titleId": "PPSA16183_00",
     "conceptId": 10008259,
-    "name": "Battle Rockets\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Battle Rockets",
+    "contentId": "EP8200-PPSA16183_00-BATTLEROCKETS5EU",
+    "region": "EP",
+    "publisherId": "EP8200"
   },
   {
     "titleId": "PPSA16184_00",
@@ -67264,6 +67288,14 @@
     "publisherId": "UP6327"
   },
   {
+    "titleId": "PPSA16990_00",
+    "conceptId": 10008030,
+    "name": "Wolf Simulator : RPG Survival Animal Battle",
+    "contentId": "EP6326-PPSA16990_00-0092147876398970",
+    "region": "EP",
+    "publisherId": "EP6326"
+  },
+  {
     "titleId": "PPSA16991_00",
     "conceptId": 10008604,
     "name": "Kalinur",
@@ -68051,9 +68083,9 @@
     "titleId": "PPSA17271_00",
     "conceptId": 10008681,
     "name": "My Child Lebensborn Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7379-PPSA17271_00-0887643915964907",
+    "region": "UP",
+    "publisherId": "UP7379"
   },
   {
     "titleId": "PPSA17272_00",
@@ -68144,6 +68176,14 @@
     "publisherId": "UP6881"
   },
   {
+    "titleId": "PPSA17308_00",
+    "conceptId": 10008681,
+    "name": "My Child Lebensborn Remastered",
+    "contentId": "JP7353-PPSA17308_00-0232609981754656",
+    "region": "JP",
+    "publisherId": "JP7353"
+  },
+  {
     "titleId": "PPSA17309_00",
     "conceptId": 10008681,
     "name": "My Child Lebensborn Remastered",
@@ -68179,9 +68219,9 @@
     "titleId": "PPSA17313_00",
     "conceptId": 10008639,
     "name": "Choo-Choo Charles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0022-PPSA17313_00-CHOOCHOOCHARLES0",
+    "region": "UB",
+    "publisherId": "UB0022"
   },
   {
     "titleId": "PPSA17314_00",
@@ -68259,9 +68299,9 @@
     "titleId": "PPSA17339_00",
     "conceptId": 10008639,
     "name": "Choo-Choo Charles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0212-PPSA17339_00-CHOOCHOOCHARLES0",
+    "region": "EB",
+    "publisherId": "EB0212"
   },
   {
     "titleId": "PPSA17347_00",
@@ -69155,9 +69195,9 @@
     "titleId": "PPSA17701_00",
     "conceptId": 10008882,
     "name": "Breachers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7114-PPSA17701_00-0822708295189194",
+    "region": "EP",
+    "publisherId": "EP7114"
   },
   {
     "titleId": "PPSA17705_00",
@@ -70216,6 +70256,22 @@
     "publisherId": "UP6171"
   },
   {
+    "titleId": "PPSA18145_00",
+    "conceptId": 10009059,
+    "name": "Jubilee",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18146_00",
+    "conceptId": 10009059,
+    "name": "Jubilee",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18162_00",
     "conceptId": 10005667,
     "name": "DarkPlague",
@@ -70563,9 +70619,9 @@
     "titleId": "PPSA18273_00",
     "conceptId": 10009114,
     "name": "Vetrix Worlds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6624-PPSA18273_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP6624"
   },
   {
     "titleId": "PPSA18297_00",
@@ -70946,8 +71002,8 @@
   {
     "titleId": "PPSA18463_00",
     "conceptId": 10007460,
-    "name": "\u30d0\u30eb\u30c0\u30fc\u30ba\u30fb\u30b2\u30fc\u30c83",
-    "contentId": null,
+    "name": "Baldur's Gate 3",
+    "contentId": "JP0365-PPSA18463_00-0753194602367452",
     "region": "JP",
     "publisherId": "JP0365"
   },
@@ -71251,9 +71307,9 @@
     "titleId": "PPSA18614_00",
     "conceptId": 10009244,
     "name": "Cherry Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA18614_00-0354493592513010",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA18615_00",
@@ -71262,6 +71318,22 @@
     "contentId": "EP7333-PPSA18615_00-0703700398179391",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA18616_00",
+    "conceptId": 10009244,
+    "name": "Cherry Tower",
+    "contentId": "JP7309-PPSA18616_00-0975024769786613",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA18617_00",
+    "conceptId": 10009244,
+    "name": "Cherry Tower",
+    "contentId": "HP7354-PPSA18617_00-0735460995877611",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA18628_00",
@@ -72368,6 +72440,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA19125_00",
+    "conceptId": 10009244,
+    "name": "Cherry Tower - DEMO",
+    "contentId": "UP7335-PPSA19125_00-0906181801721855",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA19126_00",
     "conceptId": 10009244,
     "name": "Cherry Tower - DEMO",
@@ -72518,6 +72598,14 @@
     "contentId": "JP0089-PPSA19199_00-0076946928684153",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA19205_00",
+    "conceptId": 10009445,
+    "name": "Wild & Adventure Pinball",
+    "contentId": "EP6922-PPSA19205_00-0127594910432310",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA19206_00",
@@ -72707,17 +72795,17 @@
     "titleId": "PPSA19315_00",
     "conceptId": 10009483,
     "name": "Synthetic Lover",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA19315_00-SYNTHETICLOVER00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA19316_00",
     "conceptId": 10009483,
     "name": "Synthetic Lover",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA19316_00-SYNTHETICLOVER00",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA19319_00",
@@ -72832,6 +72920,14 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA19401_00",
+    "conceptId": 10009527,
+    "name": "\u5203\u795e\u306e\u30a2\u30de\u30c6\u30e9\u30b9",
+    "contentId": "JP0013-PPSA19401_00-JP0JINSHIN000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA19403_00",
     "conceptId": 10007409,
     "name": "Koi-Koi : Love Blossoms",
@@ -72854,6 +72950,22 @@
     "contentId": "UP2767-PPSA19415_00-0026837043251690",
     "region": "UP",
     "publisherId": "UP2767"
+  },
+  {
+    "titleId": "PPSA19427_00",
+    "conceptId": 10009527,
+    "name": "Jinshin",
+    "contentId": "UP2500-PPSA19427_00-US0JINSHIN000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA19428_00",
+    "conceptId": 10009527,
+    "name": "Jinshin",
+    "contentId": "EP2363-PPSA19428_00-EU0JINSHIN000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA19429_00",
@@ -73138,10 +73250,10 @@
   {
     "titleId": "PPSA19650_00",
     "conceptId": 10009614,
-    "name": "DETECTIVE - Stella Porta case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Detective: Stella Porta Case",
+    "contentId": "UP3252-PPSA19650_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA19651_00",
@@ -73904,6 +74016,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA20415_00",
+    "conceptId": 10009912,
+    "name": "Cazzarion: Space Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20487_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -73974,6 +74094,14 @@
     "contentId": "UP4312-PPSA20593_00-0411097011785280",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA20594_00",
+    "conceptId": 10009965,
+    "name": "Draco D",
+    "contentId": "JP0089-PPSA20594_00-0444616408594452",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA20672_00",
