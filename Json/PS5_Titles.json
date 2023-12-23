@@ -23880,6 +23880,14 @@
     "publisherId": "EP3945"
   },
   {
+    "titleId": "PPSA06307_00",
+    "conceptId": 10004382,
+    "name": "3D Color Labyrinth",
+    "contentId": "JP4135-PPSA06307_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP4135"
+  },
+  {
     "titleId": "PPSA06312_00",
     "conceptId": 10004389,
     "name": "Soccer Story",
@@ -23910,6 +23918,14 @@
     "contentId": "EP0096-PPSA06315_00-4626562315069611",
     "region": "EP",
     "publisherId": "EP0096"
+  },
+  {
+    "titleId": "PPSA06316_00",
+    "conceptId": 10004382,
+    "name": "3D Color Labyrinth",
+    "contentId": "UP4196-PPSA06316_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4196"
   },
   {
     "titleId": "PPSA06319_00",
@@ -68403,17 +68419,17 @@
     "titleId": "PPSA17380_00",
     "conceptId": 10001695,
     "name": "The Gravity Trickster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6416-PPSA17380_00-0080229560817393",
+    "region": "EP",
+    "publisherId": "EP6416"
   },
   {
     "titleId": "PPSA17381_00",
     "conceptId": 10001695,
     "name": "The Gravity Trickster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6417-PPSA17381_00-0136063723749148",
+    "region": "UP",
+    "publisherId": "UP6417"
   },
   {
     "titleId": "PPSA17388_00",
@@ -72082,18 +72098,18 @@
   {
     "titleId": "PPSA18956_00",
     "conceptId": 10009348,
-    "name": "Sherlock Holmes \u2013 The Hunt for Moriarty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sherlock Holmes - The Hunt for Moriarty",
+    "contentId": "EP3024-PPSA18956_00-SHERLOCKHOLMESEU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA18957_00",
     "conceptId": 10009348,
     "name": "Sherlock Holmes \u2013 The Hunt for Moriarty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3165-PPSA18957_00-SHERLOCKHOLMESUS",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA18963_00",
@@ -72600,6 +72616,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA19204_00",
+    "conceptId": 10009445,
+    "name": "Wild & Adventure Pinball",
+    "contentId": "UP6927-PPSA19204_00-0297457593409579",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA19205_00",
     "conceptId": 10009445,
     "name": "Wild & Adventure Pinball",
@@ -72654,6 +72678,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA19256_00",
+    "conceptId": 10009465,
+    "name": "Railbreak",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19257_00",
+    "conceptId": 10009465,
+    "name": "Railbreak",
+    "contentId": "EP6087-PPSA19257_00-0257797966290427",
+    "region": "EP",
+    "publisherId": "EP6087"
   },
   {
     "titleId": "PPSA19269_00",
@@ -72787,9 +72827,9 @@
     "titleId": "PPSA19314_00",
     "conceptId": 10009483,
     "name": "Synthetic Lover",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA19314_00-SYNTHETICLOVER00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA19315_00",
@@ -73480,6 +73520,22 @@
     "publisherId": "HP3199"
   },
   {
+    "titleId": "PPSA19859_00",
+    "conceptId": 10009693,
+    "name": "Up Cliff Drive",
+    "contentId": "EP1411-PPSA19859_00-0171770008950618",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA19860_00",
+    "conceptId": 10009693,
+    "name": "Up Cliff Drive",
+    "contentId": "UP1421-PPSA19860_00-0391325419951603",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA19879_00",
     "conceptId": 10009137,
     "name": "Lord of the Click: Interstellar Wars",
@@ -74016,12 +74072,44 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA20414_00",
+    "conceptId": 10009912,
+    "name": "Cazzarion: Space Shooter",
+    "contentId": "UB0438-PPSA20414_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA20415_00",
     "conceptId": 10009912,
     "name": "Cazzarion: Space Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA20415_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA20458_00",
+    "conceptId": 10009941,
+    "name": "Mystery Box: Evolution",
+    "contentId": "EP1411-PPSA20458_00-0360339397159838",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA20459_00",
+    "conceptId": 10009941,
+    "name": "Mystery Box: Evolution",
+    "contentId": "UP1421-PPSA20459_00-0883070436613072",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA20460_00",
+    "conceptId": 10009941,
+    "name": "Mystery Box: Evolution",
+    "contentId": "JP1681-PPSA20460_00-0841055974522646",
+    "region": "JP",
+    "publisherId": "JP1681"
   },
   {
     "titleId": "PPSA20487_00",
@@ -74070,6 +74158,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20531_00",
+    "conceptId": 10009980,
+    "name": "United Flight Simulator Extended",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20532_00",
+    "conceptId": 10009980,
+    "name": "Universal Flight Simulator Extended",
+    "contentId": "EP7550-PPSA20532_00-0914388704073765",
+    "region": "EP",
+    "publisherId": "EP7550"
   },
   {
     "titleId": "PPSA20591_00",
