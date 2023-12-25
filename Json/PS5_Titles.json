@@ -52064,6 +52064,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11467_00",
+    "conceptId": 10006588,
+    "name": "Shooting Blocks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11486_00",
     "conceptId": 10006593,
     "name": "Missing parts",
@@ -61928,6 +61936,22 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA15572_00",
+    "conceptId": 10008055,
+    "name": "SOUTH PARK: SNOW DAY!",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2880"
+  },
+  {
+    "titleId": "PPSA15573_00",
+    "conceptId": 10008055,
+    "name": "SOUTH PARK: SNOW DAY!",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
     "titleId": "PPSA15574_00",
     "conceptId": 10008055,
     "name": "SOUTH PARK: SNOW DAY!",
@@ -64299,9 +64323,9 @@
     "titleId": "PPSA16174_00",
     "conceptId": 10008254,
     "name": "Three Minutes To Eight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5290-PPSA16174_00-0297206343634422",
+    "region": "UP",
+    "publisherId": "UP5290"
   },
   {
     "titleId": "PPSA16179_00",
@@ -65894,6 +65918,14 @@
     "contentId": "JP0075-PPSA16568_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP0075"
+  },
+  {
+    "titleId": "PPSA16570_00",
+    "conceptId": 10008431,
+    "name": "8 & 9 Ball Pocket",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16571_00",
@@ -72738,18 +72770,18 @@
   {
     "titleId": "PPSA19281_00",
     "conceptId": 10009472,
-    "name": "Winters Games Challenge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Winter Games Challenge",
+    "contentId": "EP3024-PPSA19281_00-WINTERGAMESPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA19282_00",
     "conceptId": 10009472,
-    "name": "Winters Games Challenge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Winter Games Challenge",
+    "contentId": "UP3165-PPSA19282_00-WINTERGAMESPS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA19283_00",
@@ -73038,6 +73070,14 @@
     "contentId": "UP3690-PPSA19438_00-0425171013395435",
     "region": "UP",
     "publisherId": "UP3690"
+  },
+  {
+    "titleId": "PPSA19447_00",
+    "conceptId": 10009540,
+    "name": "Party Friends",
+    "contentId": "UP7578-PPSA19447_00-0606607769392747",
+    "region": "UP",
+    "publisherId": "UP7578"
   },
   {
     "titleId": "PPSA19448_00",
