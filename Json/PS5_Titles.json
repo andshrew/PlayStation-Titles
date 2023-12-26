@@ -5760,6 +5760,14 @@
     "publisherId": "EP1580"
   },
   {
+    "titleId": "PPSA02661_00",
+    "conceptId": 10000917,
+    "name": "SkullPirates",
+    "contentId": "UP1594-PPSA02661_00-SKULLPIRATES0000",
+    "region": "UP",
+    "publisherId": "UP1594"
+  },
+  {
     "titleId": "PPSA02663_00",
     "conceptId": 10000812,
     "name": "Alex Kidd in Miracle World DX",
@@ -15108,8 +15116,8 @@
     "conceptId": 10003386,
     "name": "Rise of the Ronin\u2122",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA04560_00",
@@ -71584,6 +71592,22 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA18713_00",
+    "conceptId": 10009281,
+    "name": "Rock 'N Racing Grand Prix & Rally",
+    "contentId": "UP6927-PPSA18713_00-0649841383929472",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
+    "titleId": "PPSA18714_00",
+    "conceptId": 10009281,
+    "name": "Rock 'N Racing Grand Prix & Rally",
+    "contentId": "EP6922-PPSA18714_00-0145555003477252",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA18726_00",
     "conceptId": 10005045,
     "name": "UNDER NIGHT IN-BIRTH II Sys:Celes - Open\u03b2",
@@ -73739,9 +73763,9 @@
     "titleId": "PPSA20041_00",
     "conceptId": 10009232,
     "name": "Finis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA20041_00-FINIS00000000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA20073_00",
