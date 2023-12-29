@@ -15012,8 +15012,8 @@
     "conceptId": 10003386,
     "name": "Rise of the Ronin\u2122",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA04541_00",
@@ -15022,6 +15022,14 @@
     "contentId": "JP7213-PPSA04541_00-000000DISCIPLES4",
     "region": "JP",
     "publisherId": "JP7213"
+  },
+  {
+    "titleId": "PPSA04542_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122 Z version",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA04546_00",
@@ -25174,6 +25182,14 @@
     "contentId": "JP0507-PPSA06542_00-DMX0000000000000",
     "region": "JP",
     "publisherId": "JP0507"
+  },
+  {
+    "titleId": "PPSA06547_00",
+    "conceptId": 10004493,
+    "name": "DrumBox",
+    "contentId": "UP4082-PPSA06547_00-1383262269758987",
+    "region": "UP",
+    "publisherId": "UP4082"
   },
   {
     "titleId": "PPSA06551_00",
@@ -42566,6 +42582,14 @@
     "contentId": "EP5335-PPSA09769_00-LEGENDBOWL000000",
     "region": "EP",
     "publisherId": "EP5335"
+  },
+  {
+    "titleId": "PPSA09771_00",
+    "conceptId": 10002780,
+    "name": "Unicorn Overlord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09772_00",
@@ -66688,6 +66712,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA16763_00",
+    "conceptId": 10005578,
+    "name": "The Dragoness: Command of the Flame",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16765_00",
     "conceptId": 10008423,
     "name": "BlackJack Waifu Tour",
@@ -69126,6 +69158,14 @@
     "contentId": "JP0013-PPSA17649_00-JP0ALPHA12000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA17652_00",
+    "conceptId": 229066,
+    "name": "Granblue Fantasy: Relink",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17653_00",
