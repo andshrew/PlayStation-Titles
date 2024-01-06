@@ -70035,9 +70035,9 @@
     "titleId": "PPSA17974_00",
     "conceptId": 10008916,
     "name": "Guts 'n Grunts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0298-PPSA17974_00-0502899806732467",
+    "region": "EB",
+    "publisherId": "EB0298"
   },
   {
     "titleId": "PPSA17978_00",
@@ -71392,6 +71392,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA18539_00",
+    "conceptId": 10008286,
+    "name": "ARK: Survival Ascended",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18546_00",
     "conceptId": 10009197,
     "name": "Ven VR Adventure",
@@ -72291,9 +72299,9 @@
     "titleId": "PPSA18894_00",
     "conceptId": 10009327,
     "name": "Shivering Stone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA18894_00-SHIVERINGSTONE00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA18920_00",
@@ -72528,6 +72536,14 @@
     "publisherId": "EP3036"
   },
   {
+    "titleId": "PPSA19008_00",
+    "conceptId": 10009369,
+    "name": "Speedway Bundle Stock & Truck",
+    "contentId": "UP6927-PPSA19008_00-0610492438883991",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA19009_00",
     "conceptId": 10009369,
     "name": "Speedway Bundle Stock & Truck",
@@ -72595,6 +72611,14 @@
     "titleId": "PPSA19041_00",
     "conceptId": 10007578,
     "name": "MINABO - A walk through life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19052_00",
+    "conceptId": 10008286,
+    "name": "ARK: Survival Ascended",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -73142,6 +73166,14 @@
     "contentId": "HP2005-PPSA19355_00-BURNINGSECRETS00",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA19356_00",
+    "conceptId": 10007200,
+    "name": "Dark Light",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19365_00",
@@ -73824,12 +73856,20 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA19894_00",
+    "conceptId": 10009705,
+    "name": "Horror & Sports Pinball",
+    "contentId": "UP6927-PPSA19894_00-0449560864396378",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA19895_00",
     "conceptId": 10009705,
     "name": "Horror & Sports Pinball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA19895_00-0956999960341821",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA19897_00",
