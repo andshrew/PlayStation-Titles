@@ -60280,6 +60280,14 @@
     "publisherId": "UP4882"
   },
   {
+    "titleId": "PPSA14736_00",
+    "conceptId": 10007167,
+    "name": "Alisa Developer's Cut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14737_00",
     "conceptId": 10007773,
     "name": "Vision Soft Reset",
@@ -68272,6 +68280,14 @@
     "publisherId": "EP7377"
   },
   {
+    "titleId": "PPSA17266_00",
+    "conceptId": 10005572,
+    "name": "War Hospital",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17267_00",
     "conceptId": 10005572,
     "name": "War Hospital",
@@ -68622,6 +68638,14 @@
     "contentId": "HP8406-PPSA17366_00-NEOPS5DDGASIA002",
     "region": "HP",
     "publisherId": "HP8406"
+  },
+  {
+    "titleId": "PPSA17374_00",
+    "conceptId": 10008383,
+    "name": "Dead Man\u00b4s Diary",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17380_00",
@@ -69040,6 +69064,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17538_00",
+    "conceptId": 10008839,
+    "name": "REVEIL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17542_00",
     "conceptId": 10008666,
     "name": "UnderDungeon",
@@ -69192,6 +69224,14 @@
     "publisherId": "HP6478"
   },
   {
+    "titleId": "PPSA17601_00",
+    "conceptId": 10008863,
+    "name": "Ziggy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17602_00",
     "conceptId": 10008863,
     "name": "Ziggy",
@@ -69201,6 +69241,14 @@
   },
   {
     "titleId": "PPSA17603_00",
+    "conceptId": 10008863,
+    "name": "Ziggy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17604_00",
     "conceptId": 10008863,
     "name": "Ziggy",
     "contentId": null,
@@ -69489,6 +69537,14 @@
   },
   {
     "titleId": "PPSA17716_00",
+    "conceptId": 10008899,
+    "name": "GENIE Reprise",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17717_00",
     "conceptId": 10008899,
     "name": "GENIE Reprise",
     "contentId": null,
@@ -69960,6 +70016,22 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA17896_00",
+    "conceptId": 10008975,
+    "name": "Dungeonoid 2 Awakening",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17897_00",
+    "conceptId": 10008975,
+    "name": "Dungeonoid 2 Awakening",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17898_00",
     "conceptId": 10008966,
     "name": "\u6696\u96ea Warm Snow",
@@ -70200,6 +70272,38 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA17990_00",
+    "conceptId": 10009001,
+    "name": "PuzzlePet: Feed Your Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17991_00",
+    "conceptId": 10009001,
+    "name": "PuzzlePet: Feed Your Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17992_00",
+    "conceptId": 10009001,
+    "name": "PuzzlePet: Feed Your Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17993_00",
+    "conceptId": 10009001,
+    "name": "PuzzlePet: Feed Your Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18000_00",
     "conceptId": 10007127,
     "name": "Word Web by POWGI",
@@ -70390,6 +70494,14 @@
     "contentId": "UP5522-PPSA18074_00-0385378199123682",
     "region": "UP",
     "publisherId": "UP5522"
+  },
+  {
+    "titleId": "PPSA18075_00",
+    "conceptId": 10002267,
+    "name": "IMMORTALITY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18085_00",
@@ -73680,12 +73792,20 @@
     "publisherId": "EP3919"
   },
   {
+    "titleId": "PPSA19629_00",
+    "conceptId": 10008354,
+    "name": "DRIFT REIGN",
+    "contentId": "UP6327-PPSA19629_00-0769121138185874",
+    "region": "UP",
+    "publisherId": "UP6327"
+  },
+  {
     "titleId": "PPSA19630_00",
     "conceptId": 10008354,
-    "name": "Drift Reign",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DRIFT REIGN",
+    "contentId": "EP6326-PPSA19630_00-0538801469735032",
+    "region": "EP",
+    "publisherId": "EP6326"
   },
   {
     "titleId": "PPSA19631_00",
@@ -74179,9 +74299,17 @@
     "titleId": "PPSA20018_00",
     "conceptId": 10009749,
     "name": "sCATch: The Painter Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7931-PPSA20018_00-0788904015213273",
+    "region": "UP",
+    "publisherId": "UP7931"
+  },
+  {
+    "titleId": "PPSA20020_00",
+    "conceptId": 10009749,
+    "name": "sCATch: The Painter Cat",
+    "contentId": "EP7929-PPSA20020_00-0625961185943525",
+    "region": "EP",
+    "publisherId": "EP7929"
   },
   {
     "titleId": "PPSA20021_00",
