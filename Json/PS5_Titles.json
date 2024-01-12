@@ -49592,6 +49592,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10965_00",
+    "conceptId": 10006288,
+    "name": "Pacific Drive",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6850"
+  },
+  {
     "titleId": "PPSA10966_00",
     "conceptId": 10006413,
     "name": "Kawaii Slime Arena",
@@ -53902,6 +53910,14 @@
     "contentId": "EP7333-PPSA12679_00-0852305088138495",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12683_00",
+    "conceptId": 10006976,
+    "name": "Flying cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12761_00",
@@ -61904,6 +61920,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA15531_00",
+    "conceptId": 10008040,
+    "name": "Dead End City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15532_00",
     "conceptId": 10008041,
     "name": "Betomis",
@@ -63142,6 +63166,14 @@
     "contentId": "UP7137-PPSA15879_00-0791373335556683",
     "region": "UP",
     "publisherId": "UP7137"
+  },
+  {
+    "titleId": "PPSA15880_00",
+    "conceptId": 10004939,
+    "name": "Lil' Guardsman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15881_00",
@@ -66368,6 +66400,14 @@
     "publisherId": "HP4459"
   },
   {
+    "titleId": "PPSA16657_00",
+    "conceptId": 10008383,
+    "name": "Dead Man\u00b4s Diary",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16661_00",
     "conceptId": 10005482,
     "name": "Moonshine Inc.",
@@ -68306,26 +68346,26 @@
   {
     "titleId": "PPSA17267_00",
     "conceptId": 10005572,
-    "name": "War Hospital",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "War Hospital - Digital Artbook",
+    "contentId": "UP6665-PPSA17267_00-WH00000000000ART",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA17268_00",
     "conceptId": 10005572,
-    "name": "War Hospital",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "War Hospital - Original Soundtrack",
+    "contentId": "EP6665-PPSA17268_00-WH00000000000OST",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA17269_00",
     "conceptId": 10005572,
-    "name": "War Hospital",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "War Hospital - Original Soundtrack",
+    "contentId": "UP6665-PPSA17269_00-WH00000000000OST",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA17270_00",
@@ -69744,6 +69784,14 @@
     "publisherId": "EP3385"
   },
   {
+    "titleId": "PPSA17792_00",
+    "conceptId": 10008925,
+    "name": "Kitten Hero",
+    "contentId": "EP0896-PPSA17792_00-KITTENHERORATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA17796_00",
     "conceptId": 229319,
     "name": "Laws of Machine",
@@ -70192,20 +70240,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17954_00",
+    "conceptId": 10005777,
+    "name": "Fuga: Melodies of Steel 2 - Demo",
+    "contentId": "UP4726-PPSA17954_00-FUGA2DEMO0000000",
+    "region": "UP",
+    "publisherId": "UP4726"
+  },
+  {
     "titleId": "PPSA17955_00",
     "conceptId": 10005777,
-    "name": "Fuga: Melodies of Steel 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fuga: Melodies of Steel 2 - Demo",
+    "contentId": "EP4899-PPSA17955_00-FUGA2DEMO0000000",
+    "region": "EP",
+    "publisherId": "EP4899"
+  },
+  {
+    "titleId": "PPSA17956_00",
+    "conceptId": 10005777,
+    "name": "\u6226\u5834\u306e\u30d5\u30fc\u30ac2 \u4f53\u9a13\u7248",
+    "contentId": "JP4566-PPSA17956_00-FUGA2DEMO0000000",
+    "region": "JP",
+    "publisherId": "JP4566"
   },
   {
     "titleId": "PPSA17957_00",
     "conceptId": 10005777,
-    "name": "Fuga: Melodies of Steel 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fuga: Melodies of Steel 2 - Demo",
+    "contentId": "HP4578-PPSA17957_00-FUGA2DEMO0000000",
+    "region": "HP",
+    "publisherId": "HP4578"
   },
   {
     "titleId": "PPSA17960_00",
@@ -71177,6 +71241,30 @@
   },
   {
     "titleId": "PPSA18324_00",
+    "conceptId": 10009130,
+    "name": "Hidden Through Time 2: Myths & Magic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18325_00",
+    "conceptId": 10009130,
+    "name": "Hidden Through Time 2: Myths & Magic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18326_00",
+    "conceptId": 10009130,
+    "name": "Hidden Through Time 2: Myths & Magic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18327_00",
     "conceptId": 10009130,
     "name": "Hidden Through Time 2: Myths & Magic",
     "contentId": null,
@@ -72976,6 +73064,14 @@
     "publisherId": "HP8385"
   },
   {
+    "titleId": "PPSA19120_00",
+    "conceptId": 10009414,
+    "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19121_00",
     "conceptId": 10009165,
     "name": "Word Space - DEMO",
@@ -73090,10 +73186,10 @@
   {
     "titleId": "PPSA19153_00",
     "conceptId": 10009414,
-    "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "YEAH! YOU WANT 'THOSE GAMES,' RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
+    "contentId": "EP3036-PPSA19153_00-0397178317630819",
+    "region": "EP",
+    "publisherId": "EP3036"
   },
   {
     "titleId": "PPSA19173_00",
@@ -74512,6 +74608,14 @@
     "publisherId": "JP8438"
   },
   {
+    "titleId": "PPSA20214_00",
+    "conceptId": 10007275,
+    "name": "Citizen Sleeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20215_00",
     "conceptId": 10009831,
     "name": "Stories in Glass: Winter",
@@ -74542,6 +74646,22 @@
     "contentId": "UP1421-PPSA20218_00-0223552308880610",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA20229_00",
+    "conceptId": 10005985,
+    "name": "Prince of Persia: The Lost Crown DEMO",
+    "contentId": "UP0001-PPSA20229_00-MEMORYRETAILDEMO",
+    "region": "UP",
+    "publisherId": "UP0001"
+  },
+  {
+    "titleId": "PPSA20230_00",
+    "conceptId": 10005985,
+    "name": "Prince of Persia: The Lost Crown DEMO",
+    "contentId": "EP0001-PPSA20230_00-MEMORYRETAILDEMO",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA20233_00",
@@ -74795,6 +74915,14 @@
     "titleId": "PPSA20363_00",
     "conceptId": 10009895,
     "name": "Fortnite Festival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20378_00",
+    "conceptId": 10009901,
+    "name": "Jett Rider",
     "contentId": null,
     "region": null,
     "publisherId": null
