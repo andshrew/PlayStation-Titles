@@ -18136,6 +18136,14 @@
     "publisherId": "HP5780"
   },
   {
+    "titleId": "PPSA05195_00",
+    "conceptId": 10002780,
+    "name": "\u30e6\u30cb\u30b3\u30fc\u30f3\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9 PS4&PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0005"
+  },
+  {
     "titleId": "PPSA05196_00",
     "conceptId": 10003770,
     "name": "Reminiscence in the Night",
@@ -42612,8 +42620,8 @@
     "conceptId": 10002780,
     "name": "Unicorn Overlord",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA09772_00",
@@ -58680,6 +58688,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14175_00",
+    "conceptId": 10007412,
+    "name": "Taxi Life - Standard Edition (Pre-order)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA14183_00",
     "conceptId": 10007409,
     "name": "\u604b\u6765\u3044\u6e29\u6cc9\u7269\u8a9e",
@@ -68338,10 +68354,10 @@
   {
     "titleId": "PPSA17266_00",
     "conceptId": 10005572,
-    "name": "War Hospital",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "War Hospital - Digital Artbook",
+    "contentId": "EP6665-PPSA17266_00-WH00000000000ART",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA17267_00",
@@ -68694,6 +68710,22 @@
     "contentId": "HP8406-PPSA17366_00-NEOPS5DDGASIA002",
     "region": "HP",
     "publisherId": "HP8406"
+  },
+  {
+    "titleId": "PPSA17371_00",
+    "conceptId": 10008767,
+    "name": "Smalland: Survive the Wilds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17372_00",
+    "conceptId": 10008767,
+    "name": "Smalland: Survive the Wilds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17374_00",
@@ -69410,26 +69442,26 @@
   {
     "titleId": "PPSA17650_00",
     "conceptId": 229066,
-    "name": "Granblue Fantasy: Relink",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "GRANBLUE FANTASY: Relink Demo",
+    "contentId": "JP0178-PPSA17650_00-GBRELINKDEMO0001",
+    "region": "JP",
+    "publisherId": "JP0178"
   },
   {
     "titleId": "PPSA17651_00",
     "conceptId": 229066,
-    "name": "Granblue Fantasy: Relink",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Granblue Fantasy: Relink Demo",
+    "contentId": "UP5460-PPSA17651_00-GBRELINKDEMO0001",
+    "region": "UP",
+    "publisherId": "UP5460"
   },
   {
     "titleId": "PPSA17652_00",
     "conceptId": 229066,
-    "name": "Granblue Fantasy: Relink",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Granblue Fantasy: Relink Demo",
+    "contentId": "EP5641-PPSA17652_00-GBRELINKDEMO0001",
+    "region": "EP",
+    "publisherId": "EP5641"
   },
   {
     "titleId": "PPSA17653_00",
@@ -69790,6 +69822,14 @@
     "contentId": "EP0896-PPSA17792_00-KITTENHERORATGAM",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA17793_00",
+    "conceptId": 10008925,
+    "name": "Kitten Hero",
+    "contentId": "UP0891-PPSA17793_00-KITTENHERORATGAM",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA17796_00",
@@ -70344,6 +70384,22 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA17982_00",
+    "conceptId": 10008999,
+    "name": "Doctor Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17984_00",
+    "conceptId": 10008999,
+    "name": "Doctor Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17986_00",
     "conceptId": 10009000,
     "name": "Cat Pipes",
@@ -70570,10 +70626,10 @@
   {
     "titleId": "PPSA18060_00",
     "conceptId": 229066,
-    "name": "Granblue Fantasy: Relink",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Granblue Fantasy: Relink Demo",
+    "contentId": "HP0177-PPSA18060_00-GBRELINKDEMO0001",
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA18061_00",
@@ -74088,6 +74144,22 @@
     "publisherId": "EP8645"
   },
   {
+    "titleId": "PPSA19681_00",
+    "conceptId": 10009625,
+    "name": "Witch Rise",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19682_00",
+    "conceptId": 10009625,
+    "name": "Witch Rise",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19697_00",
     "conceptId": 10008799,
     "name": "MOTESOLO",
@@ -74664,6 +74736,14 @@
     "publisherId": "EP0001"
   },
   {
+    "titleId": "PPSA20231_00",
+    "conceptId": 10005985,
+    "name": "Prince of Persia: The Lost Crown DEMO",
+    "contentId": "JP0001-PPSA20231_00-MEMORYRETAILDEMO",
+    "region": "JP",
+    "publisherId": "JP0001"
+  },
+  {
     "titleId": "PPSA20233_00",
     "conceptId": 10009825,
     "name": "Tested on Humans: Escape Room",
@@ -75102,6 +75182,22 @@
     "contentId": "JP0089-PPSA20594_00-0444616408594452",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA20667_00",
+    "conceptId": 10006335,
+    "name": "Mighty Math",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20671_00",
+    "conceptId": 10006335,
+    "name": "Mighty Math",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20672_00",
