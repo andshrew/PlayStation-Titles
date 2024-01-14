@@ -35736,6 +35736,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08573_00",
+    "conceptId": 10005459,
+    "name": "SAND LAND PS4\u2122 & PS5\u00ae",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA08576_00",
     "conceptId": 10001110,
     "name": "Asterix & Obelix Slap Them All!",
@@ -41266,10 +41274,10 @@
   {
     "titleId": "PPSA09527_00",
     "conceptId": 10005855,
-    "name": "Shinorubi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SHINORUBI",
+    "contentId": "UP4912-PPSA09527_00-3040641865352769",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA09532_00",
@@ -58696,6 +58704,14 @@
     "publisherId": "EP6665"
   },
   {
+    "titleId": "PPSA14176_00",
+    "conceptId": 10007412,
+    "name": "Taxi Life - Standard Edition (Pre-order)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
     "titleId": "PPSA14183_00",
     "conceptId": 10007409,
     "name": "\u604b\u6765\u3044\u6e29\u6cc9\u7269\u8a9e",
@@ -68640,6 +68656,14 @@
     "publisherId": "JP2681"
   },
   {
+    "titleId": "PPSA17354_00",
+    "conceptId": 10003597,
+    "name": "Song of Nunu: A League of Legends Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17355_00",
     "conceptId": 10000361,
     "name": "Potata: Fairy Flower",
@@ -70392,7 +70416,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17983_00",
+    "conceptId": 10008999,
+    "name": "Doctor Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17984_00",
+    "conceptId": 10008999,
+    "name": "Doctor Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17985_00",
     "conceptId": 10008999,
     "name": "Doctor Cat",
     "contentId": null,
