@@ -35744,6 +35744,14 @@
     "publisherId": "HP0700"
   },
   {
+    "titleId": "PPSA08575_00",
+    "conceptId": 10005459,
+    "name": "SAND LAND PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA08576_00",
     "conceptId": 10001110,
     "name": "Asterix & Obelix Slap Them All!",
@@ -41266,10 +41274,10 @@
   {
     "titleId": "PPSA09526_00",
     "conceptId": 10005855,
-    "name": "Shinorubi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SHINORUBI",
+    "contentId": "EP5098-PPSA09526_00-6878945196780017",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA09527_00",
@@ -43270,6 +43278,14 @@
     "contentId": "UP4312-PPSA09893_00-9988925075265546",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA09894_00",
+    "conceptId": 10002780,
+    "name": "Unicorn Overlord",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA09907_00",
@@ -70763,9 +70779,9 @@
     "titleId": "PPSA18102_00",
     "conceptId": 10009050,
     "name": "Vertigo 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA18102_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA18103_00",
@@ -73552,6 +73568,30 @@
     "publisherId": "EP8035"
   },
   {
+    "titleId": "PPSA19294_00",
+    "conceptId": 10009476,
+    "name": "A Little Walk in the Woods",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19295_00",
+    "conceptId": 10009476,
+    "name": "A Little Walk in the Woods",
+    "contentId": "JP7094-PPSA19295_00-0013516734960112",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA19296_00",
+    "conceptId": 10009476,
+    "name": "A Little Walk in the Woods",
+    "contentId": "HP7141-PPSA19296_00-0249934127220218",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
     "titleId": "PPSA19304_00",
     "conceptId": 10008963,
     "name": "Grace of Letoile",
@@ -73862,6 +73902,22 @@
     "contentId": "EP0546-PPSA19478_00-RACCOOVENTRPS5EU",
     "region": "EP",
     "publisherId": "EP0546"
+  },
+  {
+    "titleId": "PPSA19480_00",
+    "conceptId": 10009554,
+    "name": "The Adventures of Panzer: Legacy Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19481_00",
+    "conceptId": 10009554,
+    "name": "The Adventures of Panzer: Legacy Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19488_00",
@@ -74718,6 +74774,30 @@
     "contentId": "JP8438-PPSA20128_00-0519528837819863",
     "region": "JP",
     "publisherId": "JP8438"
+  },
+  {
+    "titleId": "PPSA20167_00",
+    "conceptId": 10008910,
+    "name": "\u5e7b\u65e5\u306e\u30e8\u30cf\u30cd - NUMAZU in the MIRAGE - \u4f53\u9a13\u7248",
+    "contentId": "JP1557-PPSA20167_00-YOHANETRIAL00000",
+    "region": "JP",
+    "publisherId": "JP1557"
+  },
+  {
+    "titleId": "PPSA20169_00",
+    "conceptId": 10008910,
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE - Trial version",
+    "contentId": "EP1291-PPSA20169_00-YOHANETRIAL00000",
+    "region": "EP",
+    "publisherId": "EP1291"
+  },
+  {
+    "titleId": "PPSA20170_00",
+    "conceptId": 10008910,
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE - Trial version",
+    "contentId": "HP1419-PPSA20170_00-YOHANETRIAL00000",
+    "region": "HP",
+    "publisherId": "HP1419"
   },
   {
     "titleId": "PPSA20214_00",
