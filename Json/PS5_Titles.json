@@ -22056,6 +22056,14 @@
     "publisherId": "JP5889"
   },
   {
+    "titleId": "PPSA05951_00",
+    "conceptId": 10004203,
+    "name": "Airhead",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05953_00",
     "conceptId": 10004209,
     "name": "Football Cup 2022",
@@ -37859,7 +37867,7 @@
     "titleId": "PPSA08925_00",
     "conceptId": 10005572,
     "name": "War Hospital",
-    "contentId": null,
+    "contentId": "EP6665-PPSA08925_00-WH00000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -64803,9 +64811,9 @@
     "titleId": "PPSA16247_00",
     "conceptId": 10008318,
     "name": "Rough Justice: '84",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1440-PPSA16247_00-ROUGHJUSTICE84US",
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA16248_00",
@@ -70755,25 +70763,25 @@
     "titleId": "PPSA18099_00",
     "conceptId": 10009050,
     "name": "Vertigo 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA18099_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA18100_00",
     "conceptId": 10009050,
     "name": "Vertigo 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA18100_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA18101_00",
     "conceptId": 10009050,
     "name": "Vertigo 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3631-PPSA18101_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA18102_00",
@@ -73032,6 +73040,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA19016_00",
+    "conceptId": 10009374,
+    "name": "Arcade Game Zone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19018_00",
     "conceptId": 10004500,
     "name": "Operation Wolf Returns: First Mission",
@@ -73568,12 +73584,20 @@
     "publisherId": "EP8035"
   },
   {
+    "titleId": "PPSA19293_00",
+    "conceptId": 10009476,
+    "name": "A Little Walk in the Woods",
+    "contentId": "UP7126-PPSA19293_00-0776403415489483",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
     "titleId": "PPSA19294_00",
     "conceptId": 10009476,
     "name": "A Little Walk in the Woods",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA19294_00-0077043003699239",
+    "region": "EP",
+    "publisherId": "EP7123"
   },
   {
     "titleId": "PPSA19295_00",
@@ -74424,6 +74448,14 @@
     "publisherId": "EP6776"
   },
   {
+    "titleId": "PPSA19824_00",
+    "conceptId": 10004920,
+    "name": "Fate/Samurai Remnant DEMO",
+    "contentId": "HP0106-PPSA19824_00-GAMETRIAL0000000",
+    "region": "HP",
+    "publisherId": "HP0106"
+  },
+  {
     "titleId": "PPSA19835_00",
     "conceptId": 10009683,
     "name": "Aztec Tiki Talisman",
@@ -74782,6 +74814,14 @@
     "contentId": "JP1557-PPSA20167_00-YOHANETRIAL00000",
     "region": "JP",
     "publisherId": "JP1557"
+  },
+  {
+    "titleId": "PPSA20168_00",
+    "conceptId": 10008910,
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE - Trial version",
+    "contentId": "UP1298-PPSA20168_00-YOHANETRIAL00000",
+    "region": "UP",
+    "publisherId": "UP1298"
   },
   {
     "titleId": "PPSA20169_00",
@@ -75275,9 +75315,9 @@
     "titleId": "PPSA20591_00",
     "conceptId": 10009028,
     "name": "Poppy Playtime: Chapter 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8293-PPSA20591_00-0571511008440793",
+    "region": "EP",
+    "publisherId": "EP8293"
   },
   {
     "titleId": "PPSA20592_00",
