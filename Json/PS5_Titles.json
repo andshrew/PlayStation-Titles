@@ -30288,6 +30288,14 @@
     "publisherId": "UP8016"
   },
   {
+    "titleId": "PPSA07524_00",
+    "conceptId": 10004910,
+    "name": "STAR WARS\u2122 Episode I - The Phantom Menace",
+    "contentId": "JP1780-PPSA07524_00-SLPS021530000000",
+    "region": "JP",
+    "publisherId": "JP1780"
+  },
+  {
     "titleId": "PPSA07527_00",
     "conceptId": 233994,
     "name": "Ys IX: Monstrum Nox",
@@ -35744,6 +35752,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA08572_00",
+    "conceptId": 10005459,
+    "name": "SAND LAND PS4\u00ae & PS5\u00ae",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA08573_00",
     "conceptId": 10005459,
     "name": "SAND LAND PS4\u2122 & PS5\u00ae",
@@ -37875,7 +37891,7 @@
     "titleId": "PPSA08926_00",
     "conceptId": 10005572,
     "name": "War Hospital",
-    "contentId": null,
+    "contentId": "UP6665-PPSA08926_00-WH00000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -53472,6 +53488,14 @@
     "publisherId": "JP0114"
   },
   {
+    "titleId": "PPSA12578_00",
+    "conceptId": 10006942,
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2514"
+  },
+  {
     "titleId": "PPSA12579_00",
     "conceptId": 10006943,
     "name": "Falling Blocks",
@@ -64803,9 +64827,9 @@
     "titleId": "PPSA16246_00",
     "conceptId": 10008318,
     "name": "Rough Justice: '84",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8923-PPSA16246_00-ROUGHJUSTICE84EU",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA16247_00",
@@ -66152,6 +66176,14 @@
     "publisherId": "JP0075"
   },
   {
+    "titleId": "PPSA16569_00",
+    "conceptId": 10008431,
+    "name": "8 & 9 Ball Pocket",
+    "contentId": "UP6927-PPSA16569_00-0454862210105430",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA16570_00",
     "conceptId": 10008431,
     "name": "8 & 9 Ball Pocket",
@@ -67054,6 +67086,14 @@
     "contentId": "EP7592-PPSA16825_00-HARMONYPS5EU0000",
     "region": "EP",
     "publisherId": "EP7592"
+  },
+  {
+    "titleId": "PPSA16826_00",
+    "conceptId": 10008514,
+    "name": "\u30cf\u30fc\u30e2\u30cb\u30fc\u30aa\u30c7\u30c3\u30bb\u30a4",
+    "contentId": "JP7575-PPSA16826_00-HARMONYPS5JP0000",
+    "region": "JP",
+    "publisherId": "JP7575"
   },
   {
     "titleId": "PPSA16828_00",
@@ -68840,6 +68880,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA17401_00",
+    "conceptId": 10008776,
+    "name": "Hexologic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17410_00",
     "conceptId": 10008783,
     "name": "Sky Races",
@@ -69198,6 +69246,14 @@
     "contentId": "UP0891-PPSA17524_00-FEARMONIUMRATGAM",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA17530_00",
+    "conceptId": 10008833,
+    "name": "BAR Stella Abyss",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17533_00",
@@ -71312,6 +71368,14 @@
     "publisherId": "UP6624"
   },
   {
+    "titleId": "PPSA18293_00",
+    "conceptId": 10009061,
+    "name": "ABRISS - build to destroy",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2565"
+  },
+  {
     "titleId": "PPSA18297_00",
     "conceptId": 10009121,
     "name": "Arcadian Atlas",
@@ -71792,6 +71856,14 @@
     "publisherId": "UP7611"
   },
   {
+    "titleId": "PPSA18517_00",
+    "conceptId": 10009194,
+    "name": "Mystic Academy: Escape Room",
+    "contentId": "JP8438-PPSA18517_00-0480057785458703",
+    "region": "JP",
+    "publisherId": "JP8438"
+  },
+  {
     "titleId": "PPSA18522_00",
     "conceptId": 10005723,
     "name": "Robby's Adventure",
@@ -72080,6 +72152,14 @@
     "publisherId": "EB0178"
   },
   {
+    "titleId": "PPSA18634_00",
+    "conceptId": 10008910,
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18643_00",
     "conceptId": 10009258,
     "name": "Sakura Alien",
@@ -72323,9 +72403,9 @@
     "titleId": "PPSA18736_00",
     "conceptId": 10009290,
     "name": "Nephenthesys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA18736_00-NEPHENTHESYS0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA18737_00",
@@ -72952,6 +73032,14 @@
     "publisherId": "HP1200"
   },
   {
+    "titleId": "PPSA18993_00",
+    "conceptId": 10009360,
+    "name": "Interaction Isn't Explicit\u3002",
+    "contentId": "UP6018-PPSA18993_00-0607119634905875",
+    "region": "UP",
+    "publisherId": "UP6018"
+  },
+  {
     "titleId": "PPSA18994_00",
     "conceptId": 10009017,
     "name": "ToTheSky",
@@ -73040,12 +73128,20 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA19015_00",
+    "conceptId": 10009374,
+    "name": "Arcade Game Zone",
+    "contentId": "UP8016-PPSA19015_00-0489895718491618",
+    "region": "UP",
+    "publisherId": "UP8016"
+  },
+  {
     "titleId": "PPSA19016_00",
     "conceptId": 10009374,
     "name": "Arcade Game Zone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8208-PPSA19016_00-0608915854298425",
+    "region": "EP",
+    "publisherId": "EP8208"
   },
   {
     "titleId": "PPSA19018_00",
@@ -73262,6 +73358,22 @@
     "contentId": "HP7354-PPSA19128_00-0368717671463286",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA19135_00",
+    "conceptId": 10009418,
+    "name": "Starward Rogue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19136_00",
+    "conceptId": 10009418,
+    "name": "Starward Rogue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19144_00",
@@ -73880,6 +73992,14 @@
     "publisherId": "EP7576"
   },
   {
+    "titleId": "PPSA19452_00",
+    "conceptId": 10009531,
+    "name": "Dead Hook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19454_00",
     "conceptId": 10001349,
     "name": "Zomborg",
@@ -74102,6 +74222,14 @@
     "contentId": "EP6136-PPSA19587_00-0674567572537552",
     "region": "EP",
     "publisherId": "EP6136"
+  },
+  {
+    "titleId": "PPSA19610_00",
+    "conceptId": 10009531,
+    "name": "Dead Hook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19611_00",
@@ -74448,12 +74576,36 @@
     "publisherId": "EP6776"
   },
   {
+    "titleId": "PPSA19822_00",
+    "conceptId": 10004920,
+    "name": "Fate/Samurai Remnant DEMO",
+    "contentId": "UP4108-PPSA19822_00-GAMETRIAL0000000",
+    "region": "UP",
+    "publisherId": "UP4108"
+  },
+  {
+    "titleId": "PPSA19823_00",
+    "conceptId": 10004920,
+    "name": "Fate/Samurai Remnant DEMO",
+    "contentId": "EP4108-PPSA19823_00-GAMETRIAL0000000",
+    "region": "EP",
+    "publisherId": "EP4108"
+  },
+  {
     "titleId": "PPSA19824_00",
     "conceptId": 10004920,
     "name": "Fate/Samurai Remnant DEMO",
     "contentId": "HP0106-PPSA19824_00-GAMETRIAL0000000",
     "region": "HP",
     "publisherId": "HP0106"
+  },
+  {
+    "titleId": "PPSA19825_00",
+    "conceptId": 10004920,
+    "name": "Fate/Samurai Remnant DEMO",
+    "contentId": "JP0106-PPSA19825_00-GAMETRIAL0000000",
+    "region": "JP",
+    "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA19835_00",
@@ -75248,6 +75400,14 @@
     "publisherId": "JP1681"
   },
   {
+    "titleId": "PPSA20470_00",
+    "conceptId": 10009360,
+    "name": "Interaction Isn't Explicit\u3002",
+    "contentId": "EP6019-PPSA20470_00-0524648992777697",
+    "region": "EP",
+    "publisherId": "EP6019"
+  },
+  {
     "titleId": "PPSA20487_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -75312,6 +75472,38 @@
     "publisherId": "EP7550"
   },
   {
+    "titleId": "PPSA20570_00",
+    "conceptId": 10009998,
+    "name": "Alpaca Wonders Why",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20571_00",
+    "conceptId": 10009998,
+    "name": "Alpaca Wonders Why",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20572_00",
+    "conceptId": 10009998,
+    "name": "Alpaca Wonders Why",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20576_00",
+    "conceptId": 10010000,
+    "name": "Farm Knight Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20591_00",
     "conceptId": 10009028,
     "name": "Poppy Playtime: Chapter 1",
@@ -75347,17 +75539,17 @@
     "titleId": "PPSA20667_00",
     "conceptId": 10006335,
     "name": "Mighty Math",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4947-PPSA20667_00-MIGHTYMATH123456",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA20671_00",
     "conceptId": 10006335,
     "name": "Mighty Math",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5133-PPSA20671_00-MIGHTYMATH123456",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA20672_00",
