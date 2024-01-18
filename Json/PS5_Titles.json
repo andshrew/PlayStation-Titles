@@ -22064,6 +22064,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA05952_00",
+    "conceptId": 10004203,
+    "name": "Airhead",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05953_00",
     "conceptId": 10004209,
     "name": "Football Cup 2022",
@@ -53816,6 +53824,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12633_00",
+    "conceptId": 10006956,
+    "name": "Circle Dodge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12634_00",
+    "conceptId": 10006956,
+    "name": "Circle Dodge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12635_00",
     "conceptId": 10006957,
     "name": "Dodge It",
@@ -59798,6 +59822,14 @@
     "contentId": "UP6514-PPSA14429_00-0801457669656113",
     "region": "UP",
     "publisherId": "UP6514"
+  },
+  {
+    "titleId": "PPSA14450_00",
+    "conceptId": 10007648,
+    "name": "Rally Cross (\u30e9\u30ea\u30fc\u30af\u30ed\u30b9)",
+    "contentId": "JP9000-PPSA14450_00-SIPS600220000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA14457_00",
@@ -65872,6 +65904,14 @@
     "publisherId": "JP3588"
   },
   {
+    "titleId": "PPSA16511_00",
+    "conceptId": 10003237,
+    "name": "Make Way",
+    "contentId": "EP7072-PPSA16511_00-0826232777670209",
+    "region": "EP",
+    "publisherId": "EP7072"
+  },
+  {
     "titleId": "PPSA16513_00",
     "conceptId": 10008401,
     "name": "#Wish Travel, Super Puzzles Dream",
@@ -67096,6 +67136,14 @@
     "publisherId": "JP7575"
   },
   {
+    "titleId": "PPSA16827_00",
+    "conceptId": 10008514,
+    "name": "Harmony's Odyssey",
+    "contentId": "HP7621-PPSA16827_00-HARMONYPS5ASIA00",
+    "region": "HP",
+    "publisherId": "HP7621"
+  },
+  {
     "titleId": "PPSA16828_00",
     "conceptId": 10008533,
     "name": "Fresh Start",
@@ -67526,6 +67574,14 @@
     "contentId": "UP1681-PPSA16958_00-TMS1V0023PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA16961_00",
+    "conceptId": 231202,
+    "name": "\u3086\u3089\u304e\u8358\u306e\u5e7d\u5948\u3055\u3093 \u6e6f\u3051\u3080\u308a\u8ff7\u5bae \u6975\u307f",
+    "contentId": "JP0536-PPSA16961_00-0394029304693522",
+    "region": "JP",
+    "publisherId": "JP0536"
   },
   {
     "titleId": "PPSA16969_00",
@@ -68883,9 +68939,9 @@
     "titleId": "PPSA17401_00",
     "conceptId": 10008776,
     "name": "Hexologic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7592-PPSA17401_00-00HEXOLOGICPS5EU",
+    "region": "EP",
+    "publisherId": "EP7592"
   },
   {
     "titleId": "PPSA17410_00",
@@ -69435,9 +69491,9 @@
     "titleId": "PPSA17602_00",
     "conceptId": 10008863,
     "name": "Ziggy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA17602_00-0095789874627862",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA17603_00",
@@ -69672,6 +69728,38 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA17672_00",
+    "conceptId": 228455,
+    "name": "The Legend of Heroes: Trails of Cold Steel III",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17673_00",
+    "conceptId": 228455,
+    "name": "The Legend of Heroes: Trails of Cold Steel III",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17675_00",
+    "conceptId": 232098,
+    "name": "The Legend of Heroes: Trails of Cold Steel IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17678_00",
+    "conceptId": 232098,
+    "name": "The Legend of Heroes: Trails of Cold Steel IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17696_00",
     "conceptId": 10008888,
     "name": "Yatzi",
@@ -69806,6 +69894,14 @@
     "contentId": "EP2005-PPSA17749_00-SWAPSHOT00000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA17752_00",
+    "conceptId": 10008908,
+    "name": "Touhou Luna Nights",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17759_00",
@@ -71032,6 +71128,30 @@
     "publisherId": "HP5777"
   },
   {
+    "titleId": "PPSA18165_00",
+    "conceptId": 231202,
+    "name": "Yuuna and the Haunted Hot Springs The Thrilling Steamy Maze Kiwami",
+    "contentId": "HP2723-PPSA18165_00-0666884495998467",
+    "region": "HP",
+    "publisherId": "HP2723"
+  },
+  {
+    "titleId": "PPSA18166_00",
+    "conceptId": 231202,
+    "name": "Yuuna and the Haunted Hot Springs The Thrilling Steamy Maze Kiwami",
+    "contentId": "EP2640-PPSA18166_00-0703498041386789",
+    "region": "EP",
+    "publisherId": "EP2640"
+  },
+  {
+    "titleId": "PPSA18167_00",
+    "conceptId": 231202,
+    "name": "Yuuna and the Haunted Hot Springs The Thrilling Steamy Maze Kiwami",
+    "contentId": "UP2777-PPSA18167_00-0519882242053204",
+    "region": "UP",
+    "publisherId": "UP2777"
+  },
+  {
     "titleId": "PPSA18170_00",
     "conceptId": 10009070,
     "name": "Crazy Chicken X",
@@ -71374,6 +71494,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP2565"
+  },
+  {
+    "titleId": "PPSA18294_00",
+    "conceptId": 10009061,
+    "name": "ABRISS - build to destroy",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2430"
   },
   {
     "titleId": "PPSA18297_00",
@@ -72411,9 +72539,9 @@
     "titleId": "PPSA18737_00",
     "conceptId": 10009290,
     "name": "Nephenthesys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA18737_00-NEPHENTHESYS0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA18738_00",
@@ -73547,17 +73675,17 @@
     "titleId": "PPSA19223_00",
     "conceptId": 10009449,
     "name": "Toy Trains",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8517-PPSA19223_00-TOYTRAIN00000000",
+    "region": "UP",
+    "publisherId": "UP8517"
   },
   {
     "titleId": "PPSA19224_00",
     "conceptId": 10009449,
     "name": "Toy Trains",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8707-PPSA19224_00-TOYTRAIN00000000",
+    "region": "EP",
+    "publisherId": "EP8707"
   },
   {
     "titleId": "PPSA19250_00",
@@ -74032,6 +74160,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19467_00",
+    "conceptId": 10008910,
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19469_00",
+    "conceptId": 10008910,
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19470_00",
+    "conceptId": 10008910,
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19477_00",
     "conceptId": 10009215,
     "name": "Raccoo Venture",
@@ -74203,9 +74355,9 @@
     "titleId": "PPSA19580_00",
     "conceptId": 10004749,
     "name": "Car Mechanic Simulator VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA19580_00-0408383196564850",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA19585_00",
@@ -74456,6 +74608,14 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA19757_00",
+    "conceptId": 10009542,
+    "name": "Grace",
+    "contentId": "UP0190-PPSA19757_00-0665448538356919",
+    "region": "UP",
+    "publisherId": "UP0190"
+  },
+  {
     "titleId": "PPSA19762_00",
     "conceptId": 10009658,
     "name": "Cazzarion: Demon Hunting",
@@ -74606,6 +74766,22 @@
     "contentId": "JP0106-PPSA19825_00-GAMETRIAL0000000",
     "region": "JP",
     "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA19826_00",
+    "conceptId": 10009679,
+    "name": "Violet Wisteria",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19827_00",
+    "conceptId": 10009679,
+    "name": "Violet Wisteria",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19835_00",
@@ -75472,6 +75648,14 @@
     "publisherId": "EP7550"
   },
   {
+    "titleId": "PPSA20569_00",
+    "conceptId": 10009998,
+    "name": "Alpaca Wonders Why",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20570_00",
     "conceptId": 10009998,
     "name": "Alpaca Wonders Why",
@@ -75496,12 +75680,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20573_00",
+    "conceptId": 10010000,
+    "name": "Farm Knight Adventures",
+    "contentId": "UP7543-PPSA20573_00-0762005811015148",
+    "region": "UP",
+    "publisherId": "UP7543"
+  },
+  {
     "titleId": "PPSA20576_00",
     "conceptId": 10010000,
     "name": "Farm Knight Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7541-PPSA20576_00-0224406807438996",
+    "region": "EP",
+    "publisherId": "EP7541"
   },
   {
     "titleId": "PPSA20591_00",
@@ -75534,6 +75726,14 @@
     "contentId": "JP0089-PPSA20594_00-0444616408594452",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA20619_00",
+    "conceptId": 10008305,
+    "name": "The House of Da Vinci",
+    "contentId": "EP6168-PPSA20619_00-0048998876307151",
+    "region": "EP",
+    "publisherId": "EP6168"
   },
   {
     "titleId": "PPSA20667_00",
