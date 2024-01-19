@@ -35776,6 +35776,14 @@
     "publisherId": "HP0700"
   },
   {
+    "titleId": "PPSA08574_00",
+    "conceptId": 10005459,
+    "name": "SAND LAND PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA08575_00",
     "conceptId": 10005459,
     "name": "SAND LAND PS4 & PS5",
@@ -42664,6 +42672,14 @@
     "publisherId": "EP5335"
   },
   {
+    "titleId": "PPSA09770_00",
+    "conceptId": 10002780,
+    "name": "Unicorn Overlord",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
+  },
+  {
     "titleId": "PPSA09771_00",
     "conceptId": 10002780,
     "name": "Unicorn Overlord",
@@ -44194,8 +44210,8 @@
   {
     "titleId": "PPSA10067_00",
     "conceptId": 10005985,
-    "name": "Prince of Persia The Lost Crown",
-    "contentId": null,
+    "name": "Prince of Persia: The Lost Crown",
+    "contentId": "UP0001-PPSA10067_00-MEMORYRETAIL0000",
     "region": "UP",
     "publisherId": "UP0001"
   },
@@ -53496,6 +53512,14 @@
     "publisherId": "JP0114"
   },
   {
+    "titleId": "PPSA12577_00",
+    "conceptId": 10006942,
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2377"
+  },
+  {
     "titleId": "PPSA12578_00",
     "conceptId": 10006942,
     "name": "Warhammer 40,000: Chaos Gate - Daemonhunters PS4 & PS5",
@@ -59824,6 +59848,14 @@
     "publisherId": "UP6514"
   },
   {
+    "titleId": "PPSA14448_00",
+    "conceptId": 10007648,
+    "name": "Rally Cross",
+    "contentId": "UP9000-PPSA14448_00-SCUS943080000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA14450_00",
     "conceptId": 10007648,
     "name": "Rally Cross (\u30e9\u30ea\u30fc\u30af\u30ed\u30b9)",
@@ -61155,25 +61187,25 @@
     "titleId": "PPSA15342_00",
     "conceptId": 10007958,
     "name": "Bahnsen Knights",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5258-PPSA15342_00-0670765642282492",
+    "region": "UP",
+    "publisherId": "UP5258"
   },
   {
     "titleId": "PPSA15343_00",
     "conceptId": 10007958,
     "name": "Bahnsen Knights",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5438-PPSA15343_00-0433633366656181",
+    "region": "EP",
+    "publisherId": "EP5438"
   },
   {
     "titleId": "PPSA15344_00",
     "conceptId": 10007958,
-    "name": "Bahnsen Knights",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d0\u30f3\u30bb\u30f3\u30ca\u30a4\u30c4",
+    "contentId": "JP0211-PPSA15344_00-0462727384838656",
+    "region": "JP",
+    "publisherId": "JP0211"
   },
   {
     "titleId": "PPSA15345_00",
@@ -62512,6 +62544,22 @@
     "publisherId": "UP1562"
   },
   {
+    "titleId": "PPSA15675_00",
+    "conceptId": 10008101,
+    "name": "Ominous Tales - The Forsaken Isle",
+    "contentId": "EP1629-PPSA15675_00-OMINOUSTALEPS5EU",
+    "region": "EP",
+    "publisherId": "EP1629"
+  },
+  {
+    "titleId": "PPSA15676_00",
+    "conceptId": 10008101,
+    "name": "Ominous Tales - The Forsaken Isle",
+    "contentId": "UP1643-PPSA15676_00-OMINOUSTALEPS5US",
+    "region": "UP",
+    "publisherId": "UP1643"
+  },
+  {
     "titleId": "PPSA15678_00",
     "conceptId": 10008102,
     "name": "Warhammer 40,000: Rogue Trader",
@@ -63331,9 +63379,9 @@
     "titleId": "PPSA15891_00",
     "conceptId": 10007296,
     "name": "Lempo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA15891_00-ONETRICKELEMPO23",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA15892_00",
@@ -68936,6 +68984,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA17400_00",
+    "conceptId": 10008776,
+    "name": "Hexologic",
+    "contentId": "UP7594-PPSA17400_00-0HEXOLOGICPS5USA",
+    "region": "UP",
+    "publisherId": "UP7594"
+  },
+  {
     "titleId": "PPSA17401_00",
     "conceptId": 10008776,
     "name": "Hexologic",
@@ -69483,9 +69539,9 @@
     "titleId": "PPSA17601_00",
     "conceptId": 10008863,
     "name": "Ziggy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA17601_00-0865126918348910",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA17602_00",
@@ -69499,17 +69555,17 @@
     "titleId": "PPSA17603_00",
     "conceptId": 10008863,
     "name": "Ziggy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA17603_00-0056732355480630",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA17604_00",
     "conceptId": 10008863,
     "name": "Ziggy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA17604_00-0981017362815675",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA17615_00",
@@ -69894,6 +69950,14 @@
     "contentId": "EP2005-PPSA17749_00-SWAPSHOT00000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA17751_00",
+    "conceptId": 10008908,
+    "name": "Touhou Luna Nights",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17752_00",
@@ -71680,6 +71744,14 @@
     "publisherId": "EP2083"
   },
   {
+    "titleId": "PPSA18382_00",
+    "conceptId": 10006228,
+    "name": "Operation Serpens",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18383_00",
     "conceptId": 10008966,
     "name": "\u6696\u96ea Warm Snow",
@@ -71982,6 +72054,22 @@
     "contentId": "UP7611-PPSA18507_00-0219119638349081",
     "region": "UP",
     "publisherId": "UP7611"
+  },
+  {
+    "titleId": "PPSA18514_00",
+    "conceptId": 10009194,
+    "name": "Mystic Academy: Escape Room",
+    "contentId": "EP8723-PPSA18514_00-0213611569445445",
+    "region": "EP",
+    "publisherId": "EP8723"
+  },
+  {
+    "titleId": "PPSA18516_00",
+    "conceptId": 10009194,
+    "name": "Mystic Academy: Escape Room",
+    "contentId": "UP8533-PPSA18516_00-0663053975315385",
+    "region": "UP",
+    "publisherId": "UP8533"
   },
   {
     "titleId": "PPSA18517_00",
@@ -72782,6 +72870,14 @@
     "contentId": "HP5846-PPSA18830_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA18833_00",
+    "conceptId": 232831,
+    "name": "The Shapeshifting Detective",
+    "contentId": "EP4459-PPSA18833_00-SHAPESHIFTINGPS5",
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA18835_00",
@@ -74280,6 +74376,14 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA19543_00",
+    "conceptId": 10005798,
+    "name": "Repentless 2",
+    "contentId": "UP7940-PPSA19543_00-0357793242457780",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
     "titleId": "PPSA19547_00",
     "conceptId": 10009575,
     "name": "Nature Escapes 2: Collector's Edition",
@@ -74347,9 +74451,9 @@
     "titleId": "PPSA19579_00",
     "conceptId": 10004749,
     "name": "Car Mechanic Simulator VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1564-PPSA19579_00-0629767617481403",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA19580_00",
@@ -74832,6 +74936,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19853_00",
+    "conceptId": 10009689,
+    "name": "\u30b0\u30ec\u30a4\u30a2\u30e9\u30f3\u306e\u5438\u8840\u9a0e\u58eb",
+    "contentId": "JP0013-PPSA19853_00-JP0KGRAYFANG0PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA19859_00",
     "conceptId": 10009693,
     "name": "Up Cliff Drive",
@@ -74918,6 +75030,30 @@
     "contentId": "HP6661-PPSA19900_00-0951316043594539",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA19909_00",
+    "conceptId": 10009711,
+    "name": "Death Motel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19910_00",
+    "conceptId": 10009711,
+    "name": "Death Motel",
+    "contentId": "JP5715-PPSA19910_00-0942930744251229",
+    "region": "JP",
+    "publisherId": "JP5715"
+  },
+  {
+    "titleId": "PPSA19911_00",
+    "conceptId": 10009711,
+    "name": "Death Motel",
+    "contentId": "HP5777-PPSA19911_00-0319097182822437",
+    "region": "HP",
+    "publisherId": "HP5777"
   },
   {
     "titleId": "PPSA19919_00",
@@ -75078,6 +75214,54 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20080_00",
+    "conceptId": 10005186,
+    "name": "Morbid: The Lords of Ire Demo",
+    "contentId": "UP1260-PPSA20080_00-0498317167368869",
+    "region": "UP",
+    "publisherId": "UP1260"
+  },
+  {
+    "titleId": "PPSA20081_00",
+    "conceptId": 10005186,
+    "name": "Morbid: The Lords of Ire Demo",
+    "contentId": "EP1121-PPSA20081_00-0370904978001159",
+    "region": "EP",
+    "publisherId": "EP1121"
+  },
+  {
+    "titleId": "PPSA20103_00",
+    "conceptId": 10009784,
+    "name": "Astro Rangers",
+    "contentId": "EB0198-PPSA20103_00-0819592391748175",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA20107_00",
+    "conceptId": 10009786,
+    "name": "Ramp Car Racing",
+    "contentId": "EB0198-PPSA20107_00-0963450430104674",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA20109_00",
+    "conceptId": 10009787,
+    "name": "Pipes Master",
+    "contentId": "EB0198-PPSA20109_00-0480910273920138",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA20113_00",
+    "conceptId": 10009789,
+    "name": "Word Quest",
+    "contentId": "EB0198-PPSA20113_00-0738240962127983",
+    "region": "EB",
+    "publisherId": "EB0198"
   },
   {
     "titleId": "PPSA20122_00",
@@ -75486,6 +75670,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20366_00",
+    "conceptId": 10009689,
+    "name": "Knights of Grayfang",
+    "contentId": "UP2500-PPSA20366_00-US0KGRAYFANG0PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA20378_00",
