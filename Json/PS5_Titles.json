@@ -47026,8 +47026,8 @@
   {
     "titleId": "PPSA10529_00",
     "conceptId": 10005985,
-    "name": "\u30d7\u30ea\u30f3\u30b9 \u30aa\u30d6 \u30da\u30eb\u30b7\u30e3 \u5931\u308f\u308c\u305f\u738b\u51a0",
-    "contentId": null,
+    "name": "Prince of Persia: The Lost Crown",
+    "contentId": "JP0001-PPSA10529_00-MEMORYRETAIL0000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -54024,12 +54024,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12682_00",
+    "conceptId": 10006976,
+    "name": "Flying cat",
+    "contentId": "UP7335-PPSA12682_00-0710588102831268",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA12683_00",
     "conceptId": 10006976,
     "name": "Flying cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA12683_00-0020202496223017",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA12761_00",
@@ -58792,6 +58800,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14171_00",
+    "conceptId": 10007320,
+    "name": "Garden Life - Standard Edition (Pre-order)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA14175_00",
     "conceptId": 10007412,
     "name": "Taxi Life - Standard Edition (Pre-order)",
@@ -61995,7 +62011,7 @@
     "titleId": "PPSA15512_00",
     "conceptId": 230079,
     "name": "The Last of Us\u2122 Part II Remastered",
-    "contentId": null,
+    "contentId": "HP9000-PPSA15512_00-THELASTOFUSPART2",
     "region": "HP",
     "publisherId": "HP9000"
   },
@@ -68040,6 +68056,14 @@
     "publisherId": "UP1570"
   },
   {
+    "titleId": "PPSA17105_00",
+    "conceptId": 10008435,
+    "name": "CometStriker DX",
+    "contentId": "UP8654-PPSA17105_00-0727371736068839",
+    "region": "UP",
+    "publisherId": "UP8654"
+  },
+  {
     "titleId": "PPSA17107_00",
     "conceptId": 10008662,
     "name": "ForeVR Pool",
@@ -70800,6 +70824,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18013_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18016_00",
     "conceptId": 10008014,
     "name": "Survivor - Castaway Island",
@@ -70822,6 +70854,14 @@
     "contentId": "UP6665-PPSA18018_00-C2400ARTBOOK0000",
     "region": "UP",
     "publisherId": "UP6665"
+  },
+  {
+    "titleId": "PPSA18020_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18024_00",
@@ -70854,6 +70894,22 @@
     "contentId": "EP5376-PPSA18038_00-0817355893922519",
     "region": "EP",
     "publisherId": "EP5376"
+  },
+  {
+    "titleId": "PPSA18047_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18048_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18052_00",
@@ -71739,9 +71795,17 @@
     "titleId": "PPSA18369_00",
     "conceptId": 10008677,
     "name": "Bulletstorm VR",
-    "contentId": null,
+    "contentId": "EP2083-PPSA18369_00-0278873986686692",
     "region": "EP",
     "publisherId": "EP2083"
+  },
+  {
+    "titleId": "PPSA18381_00",
+    "conceptId": 10006228,
+    "name": "Operation Serpens",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18382_00",
@@ -72115,7 +72179,7 @@
     "titleId": "PPSA18532_00",
     "conceptId": 10008677,
     "name": "Bulletstorm VR",
-    "contentId": null,
+    "contentId": "UP6913-PPSA18532_00-0177204238172839",
     "region": "UP",
     "publisherId": "UP6913"
   },
@@ -72699,17 +72763,17 @@
     "titleId": "PPSA18785_00",
     "conceptId": 10009294,
     "name": "The Cub",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6963-PPSA18785_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP6963"
   },
   {
     "titleId": "PPSA18786_00",
     "conceptId": 10009294,
     "name": "The Cub",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6958-PPSA18786_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP6958"
   },
   {
     "titleId": "PPSA18787_00",
@@ -74651,17 +74715,17 @@
     "titleId": "PPSA19681_00",
     "conceptId": 10009625,
     "name": "Witch Rise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19681_00-WITCHRISERATAGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA19682_00",
     "conceptId": 10009625,
     "name": "Witch Rise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA19682_00-WITCHRISERATAGAM",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19697_00",
@@ -75032,12 +75096,36 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA19901_00",
+    "conceptId": 10009708,
+    "name": "Gallery Gunner - DEMO",
+    "contentId": "EP6664-PPSA19901_00-0271193531408935",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA19902_00",
+    "conceptId": 10009708,
+    "name": "Gallery Gunner - DEMO",
+    "contentId": "UP6664-PPSA19902_00-0408677775997630",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA19908_00",
+    "conceptId": 10009711,
+    "name": "Death Motel",
+    "contentId": "UP5877-PPSA19908_00-0446178782278632",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA19909_00",
     "conceptId": 10009711,
     "name": "Death Motel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8070-PPSA19909_00-0395415848382488",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA19910_00",
@@ -75232,12 +75320,28 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA20102_00",
+    "conceptId": 10009784,
+    "name": "Astro Rangers",
+    "contentId": "UB0008-PPSA20102_00-0537210672921274",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA20103_00",
     "conceptId": 10009784,
     "name": "Astro Rangers",
     "contentId": "EB0198-PPSA20103_00-0819592391748175",
     "region": "EB",
     "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA20106_00",
+    "conceptId": 10009786,
+    "name": "Ramp Car Racing",
+    "contentId": "UB0008-PPSA20106_00-0274935827628375",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA20107_00",
@@ -75248,12 +75352,28 @@
     "publisherId": "EB0198"
   },
   {
+    "titleId": "PPSA20108_00",
+    "conceptId": 10009787,
+    "name": "Pipes Master",
+    "contentId": "UB0008-PPSA20108_00-0543812695899851",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA20109_00",
     "conceptId": 10009787,
     "name": "Pipes Master",
     "contentId": "EB0198-PPSA20109_00-0480910273920138",
     "region": "EB",
     "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA20112_00",
+    "conceptId": 10009789,
+    "name": "Word Quest",
+    "contentId": "UB0008-PPSA20112_00-0588036039225699",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA20113_00",
@@ -75680,6 +75800,14 @@
     "publisherId": "UP2500"
   },
   {
+    "titleId": "PPSA20367_00",
+    "conceptId": 10009689,
+    "name": "Knights of Grayfang",
+    "contentId": "EP2363-PPSA20367_00-EU0KGRAYFANG0PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA20378_00",
     "conceptId": 10009901,
     "name": "Jett Rider",
@@ -75742,6 +75870,22 @@
     "contentId": "EB0629-PPSA20415_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA20430_00",
+    "conceptId": 10009927,
+    "name": "Another World Mahjong Girl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20431_00",
+    "conceptId": 10009927,
+    "name": "Another World Mahjong Girl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20458_00",
@@ -75958,5 +76102,13 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20859_00",
+    "conceptId": 10010112,
+    "name": "Top Gun Air Combat Extended",
+    "contentId": "UP7552-PPSA20859_00-0840392565493959",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
