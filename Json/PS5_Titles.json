@@ -29376,6 +29376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07337_00",
+    "conceptId": 10004910,
+    "name": "STAR WARS\u2122 Episode I - The Phantom Menace",
+    "contentId": "EP1006-PPSA07337_00-SLES020340000000",
+    "region": "EP",
+    "publisherId": "EP1006"
+  },
+  {
     "titleId": "PPSA07340_00",
     "conceptId": 10004912,
     "name": "Tales of the Neon Sea",
@@ -39856,6 +39864,14 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA09257_00",
+    "conceptId": 10005724,
+    "name": "Welcome to ParadiZe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09262_00",
     "conceptId": 10001130,
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
@@ -47018,8 +47034,8 @@
   {
     "titleId": "PPSA10528_00",
     "conceptId": 10005985,
-    "name": "Prince of Persia The Lost Crown",
-    "contentId": null,
+    "name": "Prince of Persia: The Lost Crown",
+    "contentId": "EP0001-PPSA10528_00-MEMORYRETAIL0000",
     "region": "EP",
     "publisherId": "EP0001"
   },
@@ -47827,7 +47843,7 @@
     "titleId": "PPSA10662_00",
     "conceptId": 230079,
     "name": "The Last of Us\u2122 Part II Remastered",
-    "contentId": null,
+    "contentId": "UP9000-PPSA10662_00-THELASTOFUSPART2",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -53851,17 +53867,17 @@
     "titleId": "PPSA12633_00",
     "conceptId": 10006956,
     "name": "Circle Dodge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA12633_00-0802277970329956",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA12634_00",
     "conceptId": 10006956,
     "name": "Circle Dodge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA12634_00-0378383460293902",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA12635_00",
@@ -58808,6 +58824,14 @@
     "publisherId": "EP6665"
   },
   {
+    "titleId": "PPSA14172_00",
+    "conceptId": 10007320,
+    "name": "Garden Life - Standard Edition (Pre-order)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
+  },
+  {
     "titleId": "PPSA14175_00",
     "conceptId": 10007412,
     "name": "Taxi Life - Standard Edition (Pre-order)",
@@ -62003,7 +62027,7 @@
     "titleId": "PPSA15511_00",
     "conceptId": 230079,
     "name": "The Last of Us\u2122 Part II Remastered",
-    "contentId": null,
+    "contentId": "JP9000-PPSA15511_00-THELASTOFUSPART2",
     "region": "JP",
     "publisherId": "JP9000"
   },
@@ -66776,6 +66800,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16691_00",
+    "conceptId": 10008313,
+    "name": "Rocket Car : Ultimate Ball League Machines",
+    "contentId": "UP6327-PPSA16691_00-0687621276353299",
+    "region": "UP",
+    "publisherId": "UP6327"
+  },
+  {
     "titleId": "PPSA16692_00",
     "conceptId": 10008313,
     "name": "Rocket Car : Ultimate Ball League Machines",
@@ -68150,6 +68182,14 @@
     "contentId": "UP8089-PPSA17126_00-0005322348169741",
     "region": "UP",
     "publisherId": "UP8089"
+  },
+  {
+    "titleId": "PPSA17136_00",
+    "conceptId": 10000917,
+    "name": "SkullPirates",
+    "contentId": "HP1711-PPSA17136_00-SKULLPIRATES0000",
+    "region": "HP",
+    "publisherId": "HP1711"
   },
   {
     "titleId": "PPSA17143_00",
@@ -70675,33 +70715,33 @@
     "titleId": "PPSA17982_00",
     "conceptId": 10008999,
     "name": "Doctor Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA17982_00-0298726608882668",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA17983_00",
     "conceptId": 10008999,
     "name": "Doctor Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA17983_00-0452427654832035",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA17984_00",
     "conceptId": 10008999,
     "name": "Doctor Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA17984_00-0351514906050319",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA17985_00",
     "conceptId": 10008999,
     "name": "Doctor Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA17985_00-0067761584147561",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA17986_00",
@@ -74736,6 +74776,14 @@
     "publisherId": "EP0287"
   },
   {
+    "titleId": "PPSA19706_00",
+    "conceptId": 10009634,
+    "name": "Highway Drifter: Hajwala Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19730_00",
     "conceptId": 10007199,
     "name": "\u4f0a\u8607X -\u5317\u5883\u6b77\u96aa- \u9ad4\u9a57\u7248",
@@ -75112,6 +75160,22 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA19903_00",
+    "conceptId": 10009708,
+    "name": "Gallery Gunner - DEMO",
+    "contentId": "JP6595-PPSA19903_00-0376513944446295",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA19904_00",
+    "conceptId": 10009708,
+    "name": "Gallery Gunner - DEMO",
+    "contentId": "HP6661-PPSA19904_00-0176601981351608",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA19908_00",
     "conceptId": 10009711,
     "name": "Death Motel",
@@ -75206,6 +75270,38 @@
     "contentId": "UP7161-PPSA19963_00-0941320692356621",
     "region": "UP",
     "publisherId": "UP7161"
+  },
+  {
+    "titleId": "PPSA19975_00",
+    "conceptId": 10009734,
+    "name": "Shmoup",
+    "contentId": "UP7126-PPSA19975_00-0713745994861172",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
+    "titleId": "PPSA19976_00",
+    "conceptId": 10009734,
+    "name": "Shmoup",
+    "contentId": "EP7123-PPSA19976_00-0610404211056837",
+    "region": "EP",
+    "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA19977_00",
+    "conceptId": 10009734,
+    "name": "Shmoup",
+    "contentId": "JP7094-PPSA19977_00-0738221955666258",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA19978_00",
+    "conceptId": 10009734,
+    "name": "Shmoup",
+    "contentId": "HP7141-PPSA19978_00-0445431186866121",
+    "region": "HP",
+    "publisherId": "HP7141"
   },
   {
     "titleId": "PPSA19993_00",
@@ -76110,5 +76206,13 @@
     "contentId": "UP7552-PPSA20859_00-0840392565493959",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA20860_00",
+    "conceptId": 10010112,
+    "name": "Top Gun Air Combat Extended",
+    "contentId": "EP7550-PPSA20860_00-0345882530257808",
+    "region": "EP",
+    "publisherId": "EP7550"
   }
 ]
