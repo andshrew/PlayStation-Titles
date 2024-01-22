@@ -22387,9 +22387,9 @@
     "titleId": "PPSA06014_00",
     "conceptId": 10003939,
     "name": "Grotto",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2187-PPSA06014_00-5219971498732225",
+    "region": "UP",
+    "publisherId": "UP2187"
   },
   {
     "titleId": "PPSA06015_00",
@@ -26272,6 +26272,14 @@
     "publisherId": "UP1482"
   },
   {
+    "titleId": "PPSA06733_00",
+    "conceptId": 10004627,
+    "name": "The King of Fighters XV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06734_00",
     "conceptId": 10003909,
     "name": "Builder's Journey",
@@ -29374,6 +29382,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA07336_00",
+    "conceptId": 10004910,
+    "name": "STAR WARS\u2122 Episode I - The Phantom Menace",
+    "contentId": "UP1082-PPSA07336_00-SLUS008840000000",
+    "region": "UP",
+    "publisherId": "UP1082"
   },
   {
     "titleId": "PPSA07337_00",
@@ -42520,6 +42536,14 @@
     "publisherId": "HP0036"
   },
   {
+    "titleId": "PPSA09741_00",
+    "conceptId": 227147,
+    "name": "Insurgency: Sandstorm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09743_00",
     "conceptId": 10005964,
     "name": "PokerStars VR",
@@ -54056,6 +54080,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12684_00",
+    "conceptId": 10006976,
+    "name": "Flying cat",
+    "contentId": "JP7309-PPSA12684_00-0046765402088135",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA12686_00",
+    "conceptId": 10006976,
+    "name": "Flying cat",
+    "contentId": "HP7354-PPSA12686_00-0813510768583090",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA12761_00",
     "conceptId": 10004873,
     "name": "Hell Pie",
@@ -62003,7 +62043,7 @@
     "titleId": "PPSA15508_00",
     "conceptId": 230079,
     "name": "The Last of Us\u2122 Part II Remastered",
-    "contentId": null,
+    "contentId": "EP9000-PPSA15508_00-THELASTOFUSPART2",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -66811,9 +66851,9 @@
     "titleId": "PPSA16692_00",
     "conceptId": 10008313,
     "name": "Rocket Car : Ultimate Ball League Machines",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6326-PPSA16692_00-0167575840384243",
+    "region": "EP",
+    "publisherId": "EP6326"
   },
   {
     "titleId": "PPSA16693_00",
@@ -74459,6 +74499,22 @@
     "titleId": "PPSA19501_00",
     "conceptId": 10009558,
     "name": "Pesterquest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19537_00",
+    "conceptId": 10009569,
+    "name": "Dr. Frank's Build a Boyfriend",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19538_00",
+    "conceptId": 10009569,
+    "name": "Dr. Frank's Build a Boyfriend",
     "contentId": null,
     "region": null,
     "publisherId": null
