@@ -67400,6 +67400,22 @@
     "publisherId": "HP8474"
   },
   {
+    "titleId": "PPSA16873_00",
+    "conceptId": 10008557,
+    "name": "Sunny Caf\u00e9",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16874_00",
+    "conceptId": 10008557,
+    "name": "Sunny Caf\u00e9",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16875_00",
     "conceptId": 234013,
     "name": "Habroxia",
@@ -69482,10 +69498,18 @@
   {
     "titleId": "PPSA17538_00",
     "conceptId": 10008839,
-    "name": "REVEIL",
+    "name": "Reveil",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8923"
+  },
+  {
+    "titleId": "PPSA17539_00",
+    "conceptId": 10008839,
+    "name": "Reveil",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA17542_00",
@@ -72144,6 +72168,14 @@
     "publisherId": "UP0006"
   },
   {
+    "titleId": "PPSA18472_00",
+    "conceptId": 10007282,
+    "name": "Brotato PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18499_00",
     "conceptId": 10009184,
     "name": "Dinobreak",
@@ -73022,6 +73054,14 @@
     "contentId": "EP4459-PPSA18833_00-SHAPESHIFTINGPS5",
     "region": "EP",
     "publisherId": "EP4459"
+  },
+  {
+    "titleId": "PPSA18834_00",
+    "conceptId": 232831,
+    "name": "The Shapeshifting Detective",
+    "contentId": "UP4459-PPSA18834_00-SHAPESHIFTINGPS5",
+    "region": "UP",
+    "publisherId": "UP4459"
   },
   {
     "titleId": "PPSA18835_00",
@@ -73982,6 +74022,14 @@
     "contentId": "EP5133-PPSA19270_00-ORBBOUNCENROLL12",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA19276_00",
+    "conceptId": 10008557,
+    "name": "Sunny Caf\u00e9",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19279_00",
@@ -75448,6 +75496,22 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA20042_00",
+    "conceptId": 10002345,
+    "name": "GOLAZO! 2 Deluxe Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20058_00",
+    "conceptId": 10009769,
+    "name": "Table Letters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20073_00",
     "conceptId": 10007830,
     "name": "PARAGON: THE OVERPRIME",
@@ -76078,6 +76142,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20505_00",
+    "conceptId": 10009970,
+    "name": "TerrorMansion",
+    "contentId": "EP6681-PPSA20505_00-0773852378546189",
+    "region": "EP",
+    "publisherId": "EP6681"
+  },
+  {
+    "titleId": "PPSA20506_00",
+    "conceptId": 10009970,
+    "name": "TerrorMansion",
+    "contentId": "UP6682-PPSA20506_00-0367641433457816",
+    "region": "UP",
+    "publisherId": "UP6682"
   },
   {
     "titleId": "PPSA20507_00",
