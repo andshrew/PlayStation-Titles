@@ -56800,6 +56800,14 @@
     "publisherId": "UP1024"
   },
   {
+    "titleId": "PPSA13787_00",
+    "conceptId": 232211,
+    "name": "D-Day Enhanced",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13790_00",
     "conceptId": 10007360,
     "name": "NASCAR Arcade Rush",
@@ -59070,6 +59078,14 @@
     "contentId": "HP1436-PPSA14230_00-VERNALSIEASIAPS5",
     "region": "HP",
     "publisherId": "HP1436"
+  },
+  {
+    "titleId": "PPSA14232_00",
+    "conceptId": 10007566,
+    "name": "PlateUp!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14233_00",
@@ -61574,6 +61590,14 @@
     "contentId": "EP2005-PPSA15401_00-AGRICULTURE00000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA15404_00",
+    "conceptId": 234612,
+    "name": "Baldo The Guardian Owls",
+    "contentId": "UP4197-PPSA15404_00-0371026091686739",
+    "region": "UP",
+    "publisherId": "UP4197"
   },
   {
     "titleId": "PPSA15405_00",
@@ -65240,6 +65264,22 @@
     "publisherId": "UP1475"
   },
   {
+    "titleId": "PPSA16306_00",
+    "conceptId": 10007978,
+    "name": "WWE 2K24 Cross-Gen Digital Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
+  },
+  {
+    "titleId": "PPSA16307_00",
+    "conceptId": 10007978,
+    "name": "WWE 2K24 Cross-Gen Digital Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1001"
+  },
+  {
     "titleId": "PPSA16308_00",
     "conceptId": 10008034,
     "name": "THRONE AND LIBERTY",
@@ -68747,17 +68787,17 @@
     "titleId": "PPSA17283_00",
     "conceptId": 10008735,
     "name": "Saga of the Moon Priestess",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA17283_00-SAGAMOONPRIESTES",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17284_00",
     "conceptId": 10008735,
     "name": "Saga of the Moon Priestess",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17284_00-SAGAMOONPRIESTES",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17285_00",
@@ -69712,6 +69752,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA17624_00",
+    "conceptId": 10007282,
+    "name": "Brotato PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17626_00",
     "conceptId": 10008873,
     "name": "30 sports in 1",
@@ -70147,7 +70195,7 @@
     "titleId": "PPSA17779_00",
     "conceptId": 10008778,
     "name": "Howl",
-    "contentId": null,
+    "contentId": "EP6237-PPSA17779_00-000000000000HOWL",
     "region": "EP",
     "publisherId": "EP6237"
   },
@@ -70155,7 +70203,7 @@
     "titleId": "PPSA17780_00",
     "conceptId": 10008778,
     "name": "Howl",
-    "contentId": null,
+    "contentId": "UP6238-PPSA17780_00-000000000000HOWL",
     "region": "UP",
     "publisherId": "UP6238"
   },
@@ -71098,18 +71146,18 @@
   {
     "titleId": "PPSA18075_00",
     "conceptId": 10002267,
-    "name": "IMMORTALITY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Immortality",
+    "contentId": "UP5734-PPSA18075_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP5734"
   },
   {
     "titleId": "PPSA18076_00",
     "conceptId": 10002267,
-    "name": "IMMORTALITY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Immortality",
+    "contentId": "EP5916-PPSA18076_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP5916"
   },
   {
     "titleId": "PPSA18085_00",
@@ -73654,6 +73702,14 @@
     "contentId": "HP7354-PPSA19060_00-0075410872638298",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA19073_00",
+    "conceptId": 10009396,
+    "name": "Rock 'N Racing Off Road & Grand Prix",
+    "contentId": "JP5432-PPSA19073_00-0004337163099672",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA19099_00",
