@@ -47530,8 +47530,8 @@
   {
     "titleId": "PPSA10593_00",
     "conceptId": 10006270,
-    "name": "TEKKEN 8",
-    "contentId": null,
+    "name": "TEKKEN\u21228",
+    "contentId": "HP0700-PPSA10593_00-TEKKEN8000000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -63467,9 +63467,9 @@
     "titleId": "PPSA15880_00",
     "conceptId": 10004939,
     "name": "Lil' Guardsman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0134-PPSA15880_00-LILGUARDSMAN0000",
+    "region": "UP",
+    "publisherId": "UP0134"
   },
   {
     "titleId": "PPSA15881_00",
@@ -66712,6 +66712,14 @@
     "publisherId": "EP8070"
   },
   {
+    "titleId": "PPSA16652_00",
+    "conceptId": 10008454,
+    "name": "Run or Die VR - Real Parkour Quest Simulator Game",
+    "contentId": "UP6327-PPSA16652_00-0646837009380542",
+    "region": "UP",
+    "publisherId": "UP6327"
+  },
+  {
     "titleId": "PPSA16653_00",
     "conceptId": 10008454,
     "name": "Run or Die VR - Real Parkour Quest Simulator Game",
@@ -66747,9 +66755,9 @@
     "titleId": "PPSA16657_00",
     "conceptId": 10008383,
     "name": "Dead Man\u00b4s Diary",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0129-PPSA16657_00-DEADMANSDIARY000",
+    "region": "EB",
+    "publisherId": "EB0129"
   },
   {
     "titleId": "PPSA16661_00",
@@ -69131,9 +69139,9 @@
     "titleId": "PPSA17374_00",
     "conceptId": 10008383,
     "name": "Dead Man\u00b4s Diary",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8738-PPSA17374_00-DEADMANSDIARY001",
+    "region": "UP",
+    "publisherId": "UP8738"
   },
   {
     "titleId": "PPSA17380_00",
@@ -70179,9 +70187,9 @@
     "titleId": "PPSA17751_00",
     "conceptId": 10008908,
     "name": "Touhou Luna Nights",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0969-PPSA17751_00-TOUHOULUNANIGHTS",
+    "region": "UP",
+    "publisherId": "UP0969"
   },
   {
     "titleId": "PPSA17752_00",
@@ -70938,34 +70946,34 @@
   {
     "titleId": "PPSA17990_00",
     "conceptId": 10009001,
-    "name": "PuzzlePet: Feed Your Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "PuzzlePet - Feed Your Cat",
+    "contentId": "UP8511-PPSA17990_00-0191822885550656",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA17991_00",
     "conceptId": 10009001,
-    "name": "PuzzlePet: Feed Your Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "PuzzlePet - Feed Your Cat",
+    "contentId": "EP8701-PPSA17991_00-0956968415841629",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA17992_00",
     "conceptId": 10009001,
-    "name": "PuzzlePet: Feed Your Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "PuzzlePet - Feed Your Cat",
+    "contentId": "JP8416-PPSA17992_00-0079931728554921",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA17993_00",
     "conceptId": 10009001,
-    "name": "PuzzlePet: Feed Your Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "PuzzlePet - Feed Your Cat",
+    "contentId": "HP8462-PPSA17993_00-0494683106963366",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA18000_00",
@@ -71504,6 +71512,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18182_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18183_00",
     "conceptId": 10001555,
     "name": "Persona 3 Reload",
@@ -71899,33 +71915,33 @@
     "titleId": "PPSA18324_00",
     "conceptId": 10009130,
     "name": "Hidden Through Time 2: Myths & Magic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1725-PPSA18324_00-0732017386130676",
+    "region": "UP",
+    "publisherId": "UP1725"
   },
   {
     "titleId": "PPSA18325_00",
     "conceptId": 10009130,
     "name": "Hidden Through Time 2: Myths & Magic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8922-PPSA18325_00-0732017386130676",
+    "region": "EP",
+    "publisherId": "EP8922"
   },
   {
     "titleId": "PPSA18326_00",
     "conceptId": 10009130,
     "name": "Hidden Through Time 2: Myths & Magic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7123-PPSA18326_00-0732017386130676",
+    "region": "JP",
+    "publisherId": "JP7123"
   },
   {
     "titleId": "PPSA18327_00",
     "conceptId": 10009130,
     "name": "Hidden Through Time 2: Myths & Magic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0088-PPSA18327_00-0732017386130676",
+    "region": "HP",
+    "publisherId": "HP0088"
   },
   {
     "titleId": "PPSA18328_00",
@@ -73915,9 +73931,9 @@
     "titleId": "PPSA19136_00",
     "conceptId": 10009418,
     "name": "Starward Rogue",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4886-PPSA19136_00-0493720666202084",
+    "region": "EP",
+    "publisherId": "EP4886"
   },
   {
     "titleId": "PPSA19144_00",
@@ -73976,6 +73992,14 @@
     "publisherId": "EP3036"
   },
   {
+    "titleId": "PPSA19167_00",
+    "conceptId": 10009429,
+    "name": "Classic Pool",
+    "contentId": "EP7576-PPSA19167_00-0692270837162609",
+    "region": "EP",
+    "publisherId": "EP7576"
+  },
+  {
     "titleId": "PPSA19173_00",
     "conceptId": 10009434,
     "name": "iQIYI",
@@ -73998,6 +74022,22 @@
     "contentId": "UP8121-PPSA19175_00-0961125378915448",
     "region": "UP",
     "publisherId": "UP8121"
+  },
+  {
+    "titleId": "PPSA19185_00",
+    "conceptId": 10008580,
+    "name": "Cannibal Abduction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19186_00",
+    "conceptId": 10008580,
+    "name": "Cannibal Abduction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19187_00",
@@ -74486,6 +74526,22 @@
     "contentId": "UP2767-PPSA19415_00-0026837043251690",
     "region": "UP",
     "publisherId": "UP2767"
+  },
+  {
+    "titleId": "PPSA19418_00",
+    "conceptId": 10008580,
+    "name": "Cannibal Abduction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19419_00",
+    "conceptId": 10008580,
+    "name": "Cannibal Abduction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19427_00",
@@ -75040,6 +75096,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19715_00",
+    "conceptId": 10008538,
+    "name": "Bulwark: Falconeer Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19730_00",
     "conceptId": 10007199,
     "name": "\u4f0a\u8607X -\u5317\u5883\u6b77\u96aa- \u9ad4\u9a57\u7248",
@@ -75332,6 +75396,14 @@
     "conceptId": 10009137,
     "name": "Lord of the Click: Interstellar Wars",
     "contentId": "EP7860-PPSA19879_00-0599874748080949",
+    "region": "EP",
+    "publisherId": "EP7860"
+  },
+  {
+    "titleId": "PPSA19884_00",
+    "conceptId": 10008640,
+    "name": "Words of Wisdom",
+    "contentId": "EP7860-PPSA19884_00-0005213186755922",
     "region": "EP",
     "publisherId": "EP7860"
   },
@@ -75728,6 +75800,14 @@
     "publisherId": "EB0198"
   },
   {
+    "titleId": "PPSA20105_00",
+    "conceptId": 10009785,
+    "name": "Plumber Hero",
+    "contentId": "EB0198-PPSA20105_00-0237408637063678",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
     "titleId": "PPSA20106_00",
     "conceptId": 10009786,
     "name": "Ramp Car Racing",
@@ -76120,6 +76200,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20347_00",
+    "conceptId": 10008640,
+    "name": "Words of Wisdom",
+    "contentId": "HP7889-PPSA20347_00-0274663817599991",
+    "region": "HP",
+    "publisherId": "HP7889"
+  },
+  {
+    "titleId": "PPSA20348_00",
+    "conceptId": 10008640,
+    "name": "Words of Wisdom",
+    "contentId": "JP7843-PPSA20348_00-0775230233802655",
+    "region": "JP",
+    "publisherId": "JP7843"
+  },
+  {
     "titleId": "PPSA20356_00",
     "conceptId": 10009892,
     "name": "Fortnite Battle Royale",
@@ -76203,17 +76299,17 @@
     "titleId": "PPSA20378_00",
     "conceptId": 10009901,
     "name": "Jett Rider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA20378_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA20379_00",
     "conceptId": 10009901,
     "name": "Jett Rider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA20379_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA20399_00",
@@ -76280,6 +76376,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20439_00",
+    "conceptId": 10006168,
+    "name": "Jusant",
+    "contentId": "JP5736-PPSA20439_00-0038508121085309",
+    "region": "JP",
+    "publisherId": "JP5736"
+  },
+  {
+    "titleId": "PPSA20440_00",
+    "conceptId": 10006168,
+    "name": "Jusant",
+    "contentId": "HP5798-PPSA20440_00-0801298045646161",
+    "region": "HP",
+    "publisherId": "HP5798"
+  },
+  {
     "titleId": "PPSA20458_00",
     "conceptId": 10009941,
     "name": "Mystery Box: Evolution",
@@ -76318,6 +76430,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20488_00",
+    "conceptId": 10009962,
+    "name": "Tibetan Quest: Beyond The World's End",
+    "contentId": "EP1667-PPSA20488_00-BWE002024PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
+  },
+  {
+    "titleId": "PPSA20489_00",
+    "conceptId": 10009962,
+    "name": "Tibetan Quest: Beyond The World's End",
+    "contentId": "UP1681-PPSA20489_00-BWE002024PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA20505_00",
@@ -76394,10 +76522,10 @@
   {
     "titleId": "PPSA20569_00",
     "conceptId": 10009998,
-    "name": "Alpaca Wonders Why",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Alpaca wonders why",
+    "contentId": "EP6694-PPSA20569_00-ALPACAWHY00PS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA20570_00",
@@ -76410,10 +76538,10 @@
   {
     "titleId": "PPSA20571_00",
     "conceptId": 10009998,
-    "name": "Alpaca Wonders Why",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Alpaca wonders why",
+    "contentId": "JP6627-PPSA20571_00-ALPACAWHY00PS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA20572_00",
@@ -76438,6 +76566,38 @@
     "contentId": "EP7541-PPSA20576_00-0224406807438996",
     "region": "EP",
     "publisherId": "EP7541"
+  },
+  {
+    "titleId": "PPSA20577_00",
+    "conceptId": 10010002,
+    "name": "Dreamland Solitaire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20578_00",
+    "conceptId": 10010002,
+    "name": "Dreamland Solitaire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20579_00",
+    "conceptId": 10010002,
+    "name": "Dreamland Solitaire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20580_00",
+    "conceptId": 10010002,
+    "name": "Dreamland Solitaire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20591_00",
@@ -76515,9 +76675,9 @@
     "titleId": "PPSA20821_00",
     "conceptId": 10007418,
     "name": "The Rusty Sword: Vanguard Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8598-PPSA20821_00-0152193505250338",
+    "region": "EP",
+    "publisherId": "EP8598"
   },
   {
     "titleId": "PPSA20859_00",
@@ -76542,6 +76702,14 @@
     "contentId": "EB0720-PPSA20953_00-0293169130237707",
     "region": "EB",
     "publisherId": "EB0720"
+  },
+  {
+    "titleId": "PPSA20955_00",
+    "conceptId": 10010148,
+    "name": "The Exit 9",
+    "contentId": "UB0529-PPSA20955_00-0764161963178105",
+    "region": "UB",
+    "publisherId": "UB0529"
   },
   {
     "titleId": "PPSA21157_00",
