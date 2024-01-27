@@ -16416,6 +16416,14 @@
     "publisherId": "UP5869"
   },
   {
+    "titleId": "PPSA04813_00",
+    "conceptId": 10003564,
+    "name": "Outcast - A New Beginning",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
     "titleId": "PPSA04815_00",
     "conceptId": 10003565,
     "name": "\u30d5\u30a1\u30a4\u30ca\u30eb\u30bd\u30fc\u30c9",
@@ -30651,7 +30659,7 @@
     "titleId": "PPSA07594_00",
     "conceptId": 10005045,
     "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-    "contentId": null,
+    "contentId": "JP0036-PPSA07594_00-UNI2SYSCELES0000",
     "region": "JP",
     "publisherId": "JP0036"
   },
@@ -47522,8 +47530,8 @@
   {
     "titleId": "PPSA10592_00",
     "conceptId": 10006270,
-    "name": "\u9244\u62f38",
-    "contentId": null,
+    "name": "TEKKEN\u21228",
+    "contentId": "JP0700-PPSA10592_00-TEKKEN8000000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -49824,12 +49832,28 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10985_00",
+    "conceptId": 10006425,
+    "name": "The Mobius Machine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10986_00",
     "conceptId": 10005731,
     "name": "The Crackpet Show: Happy Tree Friends Edition",
     "contentId": "EP7488-PPSA10986_00-7895471801529719",
     "region": "EP",
     "publisherId": "EP7488"
+  },
+  {
+    "titleId": "PPSA10988_00",
+    "conceptId": 10006425,
+    "name": "The Mobius Machine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10992_00",
@@ -55272,6 +55296,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13480_00",
+    "conceptId": 10006929,
+    "name": "Ultrawings 2",
+    "contentId": "UP0067-PPSA13480_00-0966740944912751",
+    "region": "UP",
+    "publisherId": "UP0067"
+  },
+  {
+    "titleId": "PPSA13481_00",
+    "conceptId": 10006929,
+    "name": "Ultrawings 2",
+    "contentId": "EP0067-PPSA13481_00-0559023513775483",
+    "region": "EP",
+    "publisherId": "EP0067"
+  },
+  {
+    "titleId": "PPSA13483_00",
+    "conceptId": 10006929,
+    "name": "Ultrawings 2",
+    "contentId": "HP0097-PPSA13483_00-0610794869011619",
+    "region": "HP",
+    "publisherId": "HP0097"
+  },
+  {
     "titleId": "PPSA13484_00",
     "conceptId": 10007229,
     "name": "Red Matter 2",
@@ -56819,9 +56867,9 @@
     "titleId": "PPSA13787_00",
     "conceptId": 232211,
     "name": "D-Day Enhanced",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3150-PPSA13787_00-0593896589284718",
+    "region": "EP",
+    "publisherId": "EP3150"
   },
   {
     "titleId": "PPSA13790_00",
@@ -60987,7 +61035,7 @@
     "titleId": "PPSA15238_00",
     "conceptId": 10005045,
     "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-    "contentId": null,
+    "contentId": "UP0036-PPSA15238_00-UNI2SYSCELES0000",
     "region": "UP",
     "publisherId": "UP0036"
   },
@@ -67528,6 +67576,14 @@
     "publisherId": "EP5011"
   },
   {
+    "titleId": "PPSA16877_00",
+    "conceptId": 234013,
+    "name": "\u30cf\u30d6\u30ed\u30ad\u30b7\u30a2",
+    "contentId": "JP4676-PPSA16877_00-0746301865560823",
+    "region": "JP",
+    "publisherId": "JP4676"
+  },
+  {
     "titleId": "PPSA16881_00",
     "conceptId": 10008561,
     "name": "Towers and Powers VR",
@@ -73992,6 +74048,14 @@
     "publisherId": "EP3036"
   },
   {
+    "titleId": "PPSA19166_00",
+    "conceptId": 10009429,
+    "name": "Classic Pool",
+    "contentId": "UP7578-PPSA19166_00-0201855209505480",
+    "region": "UP",
+    "publisherId": "UP7578"
+  },
+  {
     "titleId": "PPSA19167_00",
     "conceptId": 10009429,
     "name": "Classic Pool",
@@ -74683,17 +74747,17 @@
     "titleId": "PPSA19480_00",
     "conceptId": 10009554,
     "name": "The Adventures of Panzer: Legacy Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19480_00-ADVENTURESPANZRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA19481_00",
     "conceptId": 10009554,
     "name": "The Adventures of Panzer: Legacy Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA19481_00-ADVENTURESPANZRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19488_00",
@@ -75091,6 +75155,14 @@
     "titleId": "PPSA19706_00",
     "conceptId": 10009634,
     "name": "Highway Drifter: Hajwala Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19714_00",
+    "conceptId": 10008538,
+    "name": "Bulwark: Falconeer Chronicles",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -75800,6 +75872,14 @@
     "publisherId": "EB0198"
   },
   {
+    "titleId": "PPSA20104_00",
+    "conceptId": 10009785,
+    "name": "Plumber Hero",
+    "contentId": "UB0008-PPSA20104_00-0088641945833680",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA20105_00",
     "conceptId": 10009785,
     "name": "Plumber Hero",
@@ -76198,6 +76278,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20346_00",
+    "conceptId": 10008640,
+    "name": "Words of Wisdom",
+    "contentId": "UP7862-PPSA20346_00-0680014290520276",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA20347_00",
