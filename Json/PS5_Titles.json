@@ -47554,8 +47554,8 @@
   {
     "titleId": "PPSA10595_00",
     "conceptId": 10006270,
-    "name": "TEKKEN 8",
-    "contentId": null,
+    "name": "TEKKEN\u21228",
+    "contentId": "UP0700-PPSA10595_00-TEKKEN8000000000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -75680,6 +75680,14 @@
     "publisherId": "JP7843"
   },
   {
+    "titleId": "PPSA19953_00",
+    "conceptId": 234013,
+    "name": "Habroxia",
+    "contentId": "HP4687-PPSA19953_00-0492027301120897",
+    "region": "HP",
+    "publisherId": "HP4687"
+  },
+  {
     "titleId": "PPSA19963_00",
     "conceptId": 10003686,
     "name": "Lost Islands",
@@ -76606,6 +76614,22 @@
     "contentId": "EP7550-PPSA20532_00-0914388704073765",
     "region": "EP",
     "publisherId": "EP7550"
+  },
+  {
+    "titleId": "PPSA20567_00",
+    "conceptId": 10009997,
+    "name": "Dungeons and Goblins",
+    "contentId": "UB0008-PPSA20567_00-0496381943791682",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA20568_00",
+    "conceptId": 10009997,
+    "name": "Dungeons and Goblins",
+    "contentId": "EB0198-PPSA20568_00-0695580844899742",
+    "region": "EB",
+    "publisherId": "EB0198"
   },
   {
     "titleId": "PPSA20569_00",
