@@ -47546,8 +47546,8 @@
   {
     "titleId": "PPSA10594_00",
     "conceptId": 10006270,
-    "name": "TEKKEN 8",
-    "contentId": null,
+    "name": "TEKKEN\u21228",
+    "contentId": "EP0700-PPSA10594_00-TEKKEN8000000000",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -55310,6 +55310,14 @@
     "contentId": "EP0067-PPSA13481_00-0559023513775483",
     "region": "EP",
     "publisherId": "EP0067"
+  },
+  {
+    "titleId": "PPSA13482_00",
+    "conceptId": 10006929,
+    "name": "Ultrawings 2",
+    "contentId": "JP0299-PPSA13482_00-0958006262648874",
+    "region": "JP",
+    "publisherId": "JP0299"
   },
   {
     "titleId": "PPSA13483_00",
@@ -68112,6 +68120,22 @@
     "publisherId": "UP3535"
   },
   {
+    "titleId": "PPSA17038_00",
+    "conceptId": 234583,
+    "name": "AeternoBlade II Infinity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17039_00",
+    "conceptId": 234583,
+    "name": "AeternoBlade II: Infinity",
+    "contentId": "JP7875-PPSA17039_00-AETERNOBLADE2001",
+    "region": "JP",
+    "publisherId": "JP7875"
+  },
+  {
     "titleId": "PPSA17044_00",
     "conceptId": 10008289,
     "name": "Super Death Game SHOW! VR",
@@ -69086,6 +69110,14 @@
     "contentId": "EP8003-PPSA17348_00-0518850184764090",
     "region": "EP",
     "publisherId": "EP8003"
+  },
+  {
+    "titleId": "PPSA17350_00",
+    "conceptId": 10003094,
+    "name": "DRAGON QUEST X OFFLINE PS4&PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA17353_00",
@@ -75510,6 +75542,14 @@
     "contentId": "EP6922-PPSA19895_00-0956999960341821",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA19896_00",
+    "conceptId": 10009705,
+    "name": "Horror & Sports Pinball",
+    "contentId": "JP5432-PPSA19896_00-0143987286997901",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA19897_00",
