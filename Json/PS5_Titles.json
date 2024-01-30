@@ -24634,8 +24634,8 @@
   {
     "titleId": "PPSA06433_00",
     "conceptId": 10004462,
-    "name": "\u9f8d\u304c\u5982\u304f\uff18\u3000PS4 & PS5",
-    "contentId": null,
+    "name": "\u9f8d\u304c\u5982\u304f\uff18",
+    "contentId": "JP0177-PPSA06433_00-LIKEADRAGON80000",
     "region": "JP",
     "publisherId": "JP0177"
   },
@@ -39890,10 +39890,18 @@
   {
     "titleId": "PPSA09257_00",
     "conceptId": 10005724,
-    "name": "Welcome to ParadiZe",
+    "name": "Welcome to ParadiZe - Standard Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA09258_00",
+    "conceptId": 10005724,
+    "name": "Welcome to ParadiZe - Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA09262_00",
@@ -52278,6 +52286,14 @@
     "contentId": "EP7333-PPSA11455_00-8900107967680597",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11456_00",
+    "conceptId": 10006585,
+    "name": "Shot Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11466_00",
@@ -68120,12 +68136,20 @@
     "publisherId": "UP3535"
   },
   {
-    "titleId": "PPSA17038_00",
+    "titleId": "PPSA17037_00",
     "conceptId": 234583,
     "name": "AeternoBlade II Infinity",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17038_00",
+    "conceptId": 234583,
+    "name": "AeternoBlade II: Infinity",
+    "contentId": "EP4252-PPSA17038_00-AETERNOBLADE2001",
+    "region": "EP",
+    "publisherId": "EP4252"
   },
   {
     "titleId": "PPSA17039_00",
@@ -68134,6 +68158,14 @@
     "contentId": "JP7875-PPSA17039_00-AETERNOBLADE2001",
     "region": "JP",
     "publisherId": "JP7875"
+  },
+  {
+    "titleId": "PPSA17040_00",
+    "conceptId": 234583,
+    "name": "AeternoBlade II: Infinity",
+    "contentId": "HP4252-PPSA17040_00-AETERNOBLADE2001",
+    "region": "HP",
+    "publisherId": "HP4252"
   },
   {
     "titleId": "PPSA17044_00",
@@ -72394,7 +72426,23 @@
   {
     "titleId": "PPSA18472_00",
     "conceptId": 10007282,
-    "name": "Brotato PS4 & PS5",
+    "name": "Brotato",
+    "contentId": "UP4425-PPSA18472_00-BROTATOSIEA00000",
+    "region": "UP",
+    "publisherId": "UP4425"
+  },
+  {
+    "titleId": "PPSA18491_00",
+    "conceptId": 10009181,
+    "name": "Manitas Kitchen",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18495_00",
+    "conceptId": 10009181,
+    "name": "Manitas Kitchen",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -72696,6 +72744,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA18608_00",
+    "conceptId": 10009240,
+    "name": "Survivorman VR The Descent",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18610_00",
     "conceptId": 10009207,
     "name": "SteampunkVoyage",
@@ -72974,6 +73030,14 @@
     "contentId": "EP6922-PPSA18714_00-0145555003477252",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA18715_00",
+    "conceptId": 10009281,
+    "name": "Rock 'N Racing Grand Prix & Rally",
+    "contentId": "JP5432-PPSA18715_00-0923397486376286",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA18726_00",
@@ -73850,10 +73914,10 @@
   {
     "titleId": "PPSA19052_00",
     "conceptId": 10008286,
-    "name": "ARK: Survival Ascended",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ARK Survival Ascended",
+    "contentId": "HP0365-PPSA19052_00-SURVIVALASCENDED",
+    "region": "HP",
+    "publisherId": "HP0365"
   },
   {
     "titleId": "PPSA19057_00",
@@ -76862,6 +76926,38 @@
     "contentId": "UB0529-PPSA20955_00-0764161963178105",
     "region": "UB",
     "publisherId": "UB0529"
+  },
+  {
+    "titleId": "PPSA20987_00",
+    "conceptId": 10010168,
+    "name": "The Jumping Alphabet Soup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20988_00",
+    "conceptId": 10010168,
+    "name": "The Jumping Alphabet Soup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20989_00",
+    "conceptId": 10010168,
+    "name": "The Jumping Alphabet Soup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20990_00",
+    "conceptId": 10010168,
+    "name": "The Jumping Alphabet Soup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21157_00",
