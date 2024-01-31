@@ -22403,9 +22403,9 @@
     "titleId": "PPSA06015_00",
     "conceptId": 10003939,
     "name": "Grotto",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8925-PPSA06015_00-7862909366725781",
+    "region": "EP",
+    "publisherId": "EP8925"
   },
   {
     "titleId": "PPSA06016_00",
@@ -24642,8 +24642,8 @@
   {
     "titleId": "PPSA06435_00",
     "conceptId": 10004462,
-    "name": "Like a Dragon: Infinite Wealth PS4 & PS5",
-    "contentId": null,
+    "name": "Like a Dragon: Infinite Wealth",
+    "contentId": "UP0177-PPSA06435_00-LIKEADRAGON80000",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -52296,6 +52296,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA11457_00",
+    "conceptId": 10006585,
+    "name": "Shot Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11466_00",
     "conceptId": 10006588,
     "name": "Shooting Blocks",
@@ -52454,6 +52462,14 @@
     "contentId": "EP7099-PPSA11547_00-PPGEMFCRONOSTASE",
     "region": "EP",
     "publisherId": "EP7099"
+  },
+  {
+    "titleId": "PPSA11549_00",
+    "conceptId": 10006630,
+    "name": "Graveyard Girls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11655_00",
@@ -52630,6 +52646,14 @@
     "contentId": "UP7092-PPSA12253_00-9765807986352502",
     "region": "UP",
     "publisherId": "UP7092"
+  },
+  {
+    "titleId": "PPSA12335_00",
+    "conceptId": 10001127,
+    "name": "CCGT1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12336_00",
@@ -55275,9 +55299,9 @@
     "titleId": "PPSA13464_00",
     "conceptId": 10007200,
     "name": "Dark Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8543-PPSA13464_00-0990063504013434",
+    "region": "EP",
+    "publisherId": "EP8543"
   },
   {
     "titleId": "PPSA13470_00",
@@ -67536,6 +67560,22 @@
     "publisherId": "EP1023"
   },
   {
+    "titleId": "PPSA16847_00",
+    "conceptId": 10008538,
+    "name": "Bulwark: Falconeer Chronicles",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4382"
+  },
+  {
+    "titleId": "PPSA16848_00",
+    "conceptId": 10008538,
+    "name": "Bulwark: Falconeer Chronicles",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4382"
+  },
+  {
     "titleId": "PPSA16862_00",
     "conceptId": 10004500,
     "name": "Operation Wolf Returns: First Mission VR",
@@ -68138,10 +68178,10 @@
   {
     "titleId": "PPSA17037_00",
     "conceptId": 234583,
-    "name": "AeternoBlade II Infinity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "AeternoBlade II: Infinity",
+    "contentId": "UP4252-PPSA17037_00-AETERNOBLADE2001",
+    "region": "UP",
+    "publisherId": "UP4252"
   },
   {
     "titleId": "PPSA17038_00",
@@ -68270,6 +68310,14 @@
     "contentId": "HP5846-PPSA17084_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA17085_00",
+    "conceptId": 10008651,
+    "name": "MLB\u00ae The Show\u2122 24",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA17086_00",
@@ -68982,6 +69030,22 @@
     "contentId": "EP2005-PPSA17286_00-THETRAVELERSPATH",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA17290_00",
+    "conceptId": 10008737,
+    "name": "Master Maker 3D Ultimate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17291_00",
+    "conceptId": 10008737,
+    "name": "Master Maker 3D Ultimate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17306_00",
@@ -69930,10 +69994,10 @@
   {
     "titleId": "PPSA17624_00",
     "conceptId": 10007282,
-    "name": "Brotato PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Brotato",
+    "contentId": "EP4425-PPSA17624_00-BROTATOSIEE00000",
+    "region": "EP",
+    "publisherId": "EP4425"
   },
   {
     "titleId": "PPSA17626_00",
@@ -71208,6 +71272,22 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA18026_00",
+    "conceptId": 10009025,
+    "name": "Planet Zoo",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2377"
+  },
+  {
+    "titleId": "PPSA18027_00",
+    "conceptId": 10009025,
+    "name": "Planet Zoo",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2514"
+  },
+  {
     "titleId": "PPSA18037_00",
     "conceptId": 10004799,
     "name": "Star Trek: Resurgence",
@@ -71555,6 +71635,14 @@
     "titleId": "PPSA18146_00",
     "conceptId": 10009059,
     "name": "Jubilee",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18156_00",
+    "conceptId": 10008403,
+    "name": "Llamasoft: The Jeff Minter Story PS4 & PS5",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -72432,7 +72520,23 @@
     "publisherId": "UP4425"
   },
   {
+    "titleId": "PPSA18490_00",
+    "conceptId": 10009181,
+    "name": "Manitas Kitchen",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18491_00",
+    "conceptId": 10009181,
+    "name": "Manitas Kitchen",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18494_00",
     "conceptId": 10009181,
     "name": "Manitas Kitchen",
     "contentId": null,
@@ -72610,10 +72714,10 @@
   {
     "titleId": "PPSA18539_00",
     "conceptId": 10008286,
-    "name": "ARK: Survival Ascended",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ARK Survival Ascended",
+    "contentId": "JP0365-PPSA18539_00-SURVIVALASCENDED",
+    "region": "JP",
+    "publisherId": "JP0365"
   },
   {
     "titleId": "PPSA18546_00",
@@ -72742,6 +72846,14 @@
     "contentId": "HP2005-PPSA18599_00-IKKARUSPRINCESIN",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA18607_00",
+    "conceptId": 10009240,
+    "name": "Survivorman VR The Descent",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18608_00",
@@ -74344,6 +74456,14 @@
     "publisherId": "EP6087"
   },
   {
+    "titleId": "PPSA19267_00",
+    "conceptId": 10007788,
+    "name": "NBA 2K24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19269_00",
     "conceptId": 10009383,
     "name": "The Perplexing Orb: Bounce N' Roll",
@@ -74587,9 +74707,9 @@
     "titleId": "PPSA19356_00",
     "conceptId": 10007200,
     "name": "Dark Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8353-PPSA19356_00-0957568172760437",
+    "region": "UP",
+    "publisherId": "UP8353"
   },
   {
     "titleId": "PPSA19365_00",
@@ -75266,10 +75386,10 @@
   {
     "titleId": "PPSA19715_00",
     "conceptId": 10008538,
-    "name": "Bulwark: Falconeer Chronicles",
+    "name": "Bulwark: Falconeer Chronicles Demo",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4382"
   },
   {
     "titleId": "PPSA19730_00",
@@ -75744,6 +75864,38 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA19927_00",
+    "conceptId": 10009664,
+    "name": "Prison Boss VR Demo",
+    "contentId": "UP4773-PPSA19927_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4773"
+  },
+  {
+    "titleId": "PPSA19928_00",
+    "conceptId": 10009664,
+    "name": "Prison Boss VR Demo",
+    "contentId": "EP4946-PPSA19928_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP4946"
+  },
+  {
+    "titleId": "PPSA19929_00",
+    "conceptId": 10009664,
+    "name": "Prison Boss VR Demo",
+    "contentId": "JP4613-PPSA19929_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP4613"
+  },
+  {
+    "titleId": "PPSA19930_00",
+    "conceptId": 10009664,
+    "name": "Prison Boss VR Demo",
+    "contentId": "HP4625-PPSA19930_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP4625"
+  },
+  {
     "titleId": "PPSA19946_00",
     "conceptId": 10003544,
     "name": "MURDER HOUSE",
@@ -75851,9 +76003,9 @@
     "titleId": "PPSA20001_00",
     "conceptId": 10009747,
     "name": "Turret Rampage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA20001_00-TURRETRAMPAGE000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA20002_00",
