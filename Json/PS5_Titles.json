@@ -42490,8 +42490,8 @@
   {
     "titleId": "PPSA09730_00",
     "conceptId": 10001555,
-    "name": "Persona 3 Reload PS4 & PS5",
-    "contentId": null,
+    "name": "\u5973\u795e\u7570\u805e\u9304\uff13 Reload",
+    "contentId": "HP0177-PPSA09730_00-APPLICATION00000",
     "region": "HP",
     "publisherId": "HP0177"
   },
@@ -49234,8 +49234,8 @@
   {
     "titleId": "PPSA10873_00",
     "conceptId": 10001555,
-    "name": "Persona 3 Reload PS4 & PS5",
-    "contentId": null,
+    "name": "Persona 3 Reload",
+    "contentId": "EP0177-PPSA10873_00-APPLICATION00000",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -50521,6 +50521,14 @@
   },
   {
     "titleId": "PPSA11115_00",
+    "conceptId": 10006478,
+    "name": "Bang-On Balls: Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11116_00",
     "conceptId": 10006478,
     "name": "Bang-On Balls: Chronicles",
     "contentId": null,
@@ -62448,6 +62456,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA15543_00",
+    "conceptId": 10008046,
+    "name": "Space Docker VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15549_00",
     "conceptId": 10002079,
     "name": "Sky X",
@@ -73224,6 +73240,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA18650_00",
+    "conceptId": 10009242,
+    "name": "Tram Simulator Urban Transit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18659_00",
     "conceptId": 10009264,
     "name": "Sakura Alien 2",
@@ -73425,6 +73449,14 @@
   },
   {
     "titleId": "PPSA18730_00",
+    "conceptId": 10004021,
+    "name": "FOAMSTARS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18731_00",
     "conceptId": 10004021,
     "name": "FOAMSTARS",
     "contentId": null,
@@ -73955,9 +73987,9 @@
     "titleId": "PPSA18899_00",
     "conceptId": 223983,
     "name": "The Bunker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4459-PPSA18899_00-THEBUNKERGAMEPS5",
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA18920_00",
