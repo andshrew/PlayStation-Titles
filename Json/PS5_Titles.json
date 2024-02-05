@@ -41402,8 +41402,8 @@
   {
     "titleId": "PPSA09534_00",
     "conceptId": 10005862,
-    "name": "Jujutsu Kaisen Cursed Clash PS4\u2122 & PS5\u00ae",
-    "contentId": null,
+    "name": "\u5492\u8853\u8ff4\u6230 \u96d9\u83ef\u4e82\u821e",
+    "contentId": "HP0700-PPSA09534_00-JJKCVSX400000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -49226,8 +49226,8 @@
   {
     "titleId": "PPSA10872_00",
     "conceptId": 10001555,
-    "name": "Persona 3 Reload PS4 & PS5",
-    "contentId": null,
+    "name": "Persona 3 Reload",
+    "contentId": "UP0177-PPSA10872_00-APPLICATION00000",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -52347,9 +52347,9 @@
     "titleId": "PPSA11457_00",
     "conceptId": 10006585,
     "name": "Shot Block",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA11457_00-7978977118129036",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11466_00",
@@ -73992,6 +73992,14 @@
     "publisherId": "EP4459"
   },
   {
+    "titleId": "PPSA18900_00",
+    "conceptId": 223983,
+    "name": "The Bunker",
+    "contentId": "UP4459-PPSA18900_00-THEBUNKERGAMEPS5",
+    "region": "UP",
+    "publisherId": "UP4459"
+  },
+  {
     "titleId": "PPSA18920_00",
     "conceptId": 10009341,
     "name": "Air Fight - Sky Fighters",
@@ -76712,6 +76720,14 @@
     "publisherId": "HP1419"
   },
   {
+    "titleId": "PPSA20210_00",
+    "conceptId": 10009830,
+    "name": "Dream Bakery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20214_00",
     "conceptId": 10007275,
     "name": "Citizen Sleeper",
@@ -77512,6 +77528,22 @@
     "publisherId": "EP6168"
   },
   {
+    "titleId": "PPSA20638_00",
+    "conceptId": 10010024,
+    "name": "Caveman Ransom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20639_00",
+    "conceptId": 10010024,
+    "name": "Caveman Ransom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20667_00",
     "conceptId": 10006335,
     "name": "Mighty Math",
@@ -77539,6 +77571,22 @@
     "titleId": "PPSA20728_00",
     "conceptId": 10008040,
     "name": "Dead End City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20747_00",
+    "conceptId": 10010015,
+    "name": "Beneath the earth - Backrooms",
+    "contentId": "UB0529-PPSA20747_00-0267230589960386",
+    "region": "UB",
+    "publisherId": "UB0529"
+  },
+  {
+    "titleId": "PPSA20748_00",
+    "conceptId": 10010015,
+    "name": "Beneath the earth - Backrooms",
     "contentId": null,
     "region": null,
     "publisherId": null
