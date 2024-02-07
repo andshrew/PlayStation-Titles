@@ -27402,8 +27402,8 @@
   {
     "titleId": "PPSA06954_00",
     "conceptId": 229066,
-    "name": "Granblue Fantasy: Relink Standard Edition PS5 & PS4",
-    "contentId": null,
+    "name": "Granblue Fantasy: Relink",
+    "contentId": "UP5460-PPSA06954_00-GBRELINK00000001",
     "region": "UP",
     "publisherId": "UP5460"
   },
@@ -41394,8 +41394,8 @@
   {
     "titleId": "PPSA09533_00",
     "conceptId": 10005862,
-    "name": "\u546a\u8853\u5efb\u6226 \u6226\u83ef\u53cc\u4e71  PS4\u00ae & PS5\u00ae",
-    "contentId": null,
+    "name": "\u546a\u8853\u5efb\u6226 \u6226\u83ef\u53cc\u4e71",
+    "contentId": "JP0700-PPSA09533_00-JJKCVSX400000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -42344,6 +42344,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09702_00",
+    "conceptId": 10003993,
+    "name": "The Enigma Machine",
+    "contentId": "JP1134-PPSA09702_00-3008754451467603",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
     "titleId": "PPSA09705_00",
     "conceptId": 10005478,
     "name": "NeverAwake",
@@ -42563,9 +42571,9 @@
     "titleId": "PPSA09741_00",
     "conceptId": 227147,
     "name": "Insurgency: Sandstorm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4133-PPSA09741_00-INSURGENCYSANDST",
+    "region": "EP",
+    "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA09742_00",
@@ -56598,6 +56606,14 @@
     "contentId": "HP0082-PPSA13717_00-000STAROCEAN2RHP",
     "region": "HP",
     "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA13722_00",
+    "conceptId": 10007316,
+    "name": "Classified: France '44",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4064"
   },
   {
     "titleId": "PPSA13724_00",
@@ -71035,17 +71051,17 @@
     "titleId": "PPSA17896_00",
     "conceptId": 10008975,
     "name": "Dungeonoid 2 Awakening",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA17896_00-DUNGEONOID2GAME0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17897_00",
     "conceptId": 10008975,
     "name": "Dungeonoid 2 Awakening",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17897_00-DUNGEONOID2GAME0",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17898_00",
@@ -73416,6 +73432,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA18718_00",
+    "conceptId": 233275,
+    "name": "Bartender VR Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18719_00",
     "conceptId": 233275,
     "name": "Bartender VR Simulator",
@@ -73451,25 +73475,33 @@
     "titleId": "PPSA18729_00",
     "conceptId": 10004021,
     "name": "FOAMSTARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0082-PPSA18729_00-FOAMSTARS0000000",
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA18730_00",
     "conceptId": 10004021,
     "name": "FOAMSTARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0082-PPSA18730_00-FOAMSTARS0000000",
+    "region": "UP",
+    "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA18731_00",
     "conceptId": 10004021,
     "name": "FOAMSTARS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0082-PPSA18731_00-FOAMSTARS0000000",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA18732_00",
+    "conceptId": 10004021,
+    "name": "FOAMSTARS",
+    "contentId": "HP0082-PPSA18732_00-FOAMSTARS0000000",
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA18734_00",
@@ -74046,6 +74078,14 @@
     "contentId": "HB0035-PPSA18930_00-0026091180211841",
     "region": "HB",
     "publisherId": "HB0035"
+  },
+  {
+    "titleId": "PPSA18936_00",
+    "conceptId": 10003999,
+    "name": "FINAL FANTASY VII REBIRTH DEMO",
+    "contentId": "JP0082-PPSA18936_00-GLOBAL0000000000",
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA18956_00",
@@ -76640,6 +76680,22 @@
     "publisherId": "EB0198"
   },
   {
+    "titleId": "PPSA20116_00",
+    "conceptId": 10007167,
+    "name": "Alisa - Demo",
+    "contentId": "UP5155-PPSA20116_00-ALISADEMO0000000",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
+    "titleId": "PPSA20117_00",
+    "conceptId": 10007167,
+    "name": "Alisa - Demo",
+    "contentId": "EP5335-PPSA20117_00-ALISADEMO0000000",
+    "region": "EP",
+    "publisherId": "EP5335"
+  },
+  {
     "titleId": "PPSA20122_00",
     "conceptId": 10007682,
     "name": "Happi Basudei",
@@ -76694,6 +76750,22 @@
     "contentId": "JP8438-PPSA20128_00-0519528837819863",
     "region": "JP",
     "publisherId": "JP8438"
+  },
+  {
+    "titleId": "PPSA20129_00",
+    "conceptId": 10009794,
+    "name": "Prisonela DX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20130_00",
+    "conceptId": 10009794,
+    "name": "Prisonela DX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20167_00",
