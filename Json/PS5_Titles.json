@@ -42352,6 +42352,14 @@
     "publisherId": "JP1134"
   },
   {
+    "titleId": "PPSA09703_00",
+    "conceptId": 10003993,
+    "name": "The Enigma Machine",
+    "contentId": "HP0980-PPSA09703_00-2040378072131807",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA09705_00",
     "conceptId": 10005478,
     "name": "NeverAwake",
@@ -49875,9 +49883,9 @@
     "titleId": "PPSA10983_00",
     "conceptId": 10006295,
     "name": "The Inquisitor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7213-PPSA10983_00-000THEINQUISITOR",
+    "region": "JP",
+    "publisherId": "JP7213"
   },
   {
     "titleId": "PPSA10985_00",
@@ -54304,6 +54312,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA13195_00",
+    "conceptId": 10006891,
+    "name": "\u30b9\u30c6\u30e9\u30fc\u30d6\u30ec\u30a4\u30c9",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA13199_00",
     "conceptId": 10004532,
     "name": "Fairy Fencer F Refrain Chord",
@@ -56614,6 +56630,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4064"
+  },
+  {
+    "titleId": "PPSA13723_00",
+    "conceptId": 10007316,
+    "name": "Classified: France '44",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4064"
   },
   {
     "titleId": "PPSA13724_00",
@@ -60762,10 +60786,10 @@
   {
     "titleId": "PPSA14735_00",
     "conceptId": 10007167,
-    "name": "Alisa Developer's Cut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Alisa",
+    "contentId": "UP5155-PPSA14735_00-ALISA00000000000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA14736_00",
@@ -71696,6 +71720,14 @@
     "publisherId": "JP0082"
   },
   {
+    "titleId": "PPSA18094_00",
+    "conceptId": 10009047,
+    "name": "Geometric Sniper Z",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18099_00",
     "conceptId": 10009050,
     "name": "Vertigo 2",
@@ -73888,6 +73920,22 @@
     "publisherId": "HP6784"
   },
   {
+    "titleId": "PPSA18857_00",
+    "conceptId": 10009315,
+    "name": "A Time Traveller's Guide To Past Delicacies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18858_00",
+    "conceptId": 10009315,
+    "name": "A Time Traveller's Guide To Past Delicacies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18865_00",
     "conceptId": 10009317,
     "name": "Our Guest Tonight",
@@ -74086,6 +74134,30 @@
     "contentId": "JP0082-PPSA18936_00-GLOBAL0000000000",
     "region": "JP",
     "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA18937_00",
+    "conceptId": 10003999,
+    "name": "FINAL FANTASY VII REBIRTH DEMO",
+    "contentId": "UP0082-PPSA18937_00-NORTHAMERICA0000",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA18938_00",
+    "conceptId": 10003999,
+    "name": "FINAL FANTASY VII REBIRTH DEMO",
+    "contentId": "EP0082-PPSA18938_00-EUROPE0000000000",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA18939_00",
+    "conceptId": 10003999,
+    "name": "FINAL FANTASY VII REBIRTH DEMO",
+    "contentId": "HP0082-PPSA18939_00-ASIA000000000000",
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA18956_00",
@@ -75787,25 +75859,25 @@
     "titleId": "PPSA19716_00",
     "conceptId": 10006272,
     "name": "Shanghai Summer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7786-PPSA19716_00-SHSUMMERPS5SIEEU",
+    "region": "EP",
+    "publisherId": "EP7786"
   },
   {
     "titleId": "PPSA19717_00",
     "conceptId": 10006272,
-    "name": "Shanghai Summer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b7\u30e3\u30f3\u30cf\u30a4 \u30b5\u30de\u30fc",
+    "contentId": "JP7769-PPSA19717_00-SHSUMMERPS5SIEJP",
+    "region": "JP",
+    "publisherId": "JP7769"
   },
   {
     "titleId": "PPSA19718_00",
     "conceptId": 10006272,
     "name": "Shanghai Summer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7815-PPSA19718_00-SHSUMMERPS5SIEJA",
+    "region": "HP",
+    "publisherId": "HP7815"
   },
   {
     "titleId": "PPSA19730_00",
@@ -76560,6 +76632,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA20061_00",
+    "conceptId": 10003151,
+    "name": "EA SPORTS\u2122 College Football 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20073_00",
     "conceptId": 10007830,
     "name": "PARAGON: THE OVERPRIME",
@@ -76800,12 +76880,36 @@
     "publisherId": "HP1419"
   },
   {
+    "titleId": "PPSA20209_00",
+    "conceptId": 10009830,
+    "name": "Dream Bakery",
+    "contentId": "UP7335-PPSA20209_00-0804080539237793",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA20210_00",
     "conceptId": 10009830,
     "name": "Dream Bakery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA20210_00-0228904769463682",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA20211_00",
+    "conceptId": 10009830,
+    "name": "Dream Bakery",
+    "contentId": "JP7309-PPSA20211_00-0878660409500566",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA20212_00",
+    "conceptId": 10009830,
+    "name": "Dream Bakery",
+    "contentId": "HP7354-PPSA20212_00-0065499482452501",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA20214_00",
@@ -77806,5 +77910,13 @@
     "contentId": "HP5538-PPSA21223_00-SANTASPEEDYPS5AS",
     "region": "HP",
     "publisherId": "HP5538"
+  },
+  {
+    "titleId": "PPSA21270_00",
+    "conceptId": 10010268,
+    "name": "Bpop",
+    "contentId": "EP4312-PPSA21270_00-0964704590276132",
+    "region": "EP",
+    "publisherId": "EP4312"
   }
 ]
