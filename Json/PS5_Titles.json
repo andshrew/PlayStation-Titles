@@ -17152,6 +17152,14 @@
     "publisherId": "HP0177"
   },
   {
+    "titleId": "PPSA04970_00",
+    "conceptId": 10003164,
+    "name": "SILENT HILL: The Short Message",
+    "contentId": "EP0101-PPSA04970_00-4469112696885364",
+    "region": "EP",
+    "publisherId": "EP0101"
+  },
+  {
     "titleId": "PPSA04973_00",
     "conceptId": 234070,
     "name": "River City Girls",
@@ -41434,8 +41442,8 @@
   {
     "titleId": "PPSA09536_00",
     "conceptId": 10005862,
-    "name": "Jujutsu Kaisen Cursed Clash PS4 & PS5",
-    "contentId": null,
+    "name": "Jujutsu Kaisen Cursed Clash",
+    "contentId": "UP0700-PPSA09536_00-JJKCVSX400000000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -54344,6 +54352,14 @@
     "publisherId": "UP9000"
   },
   {
+    "titleId": "PPSA13197_00",
+    "conceptId": 10006891,
+    "name": "Stellar Blade\u2122",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
     "titleId": "PPSA13198_00",
     "conceptId": 10006891,
     "name": "Stellar Blade\u2122",
@@ -56754,10 +56770,10 @@
   {
     "titleId": "PPSA13738_00",
     "conceptId": 10006306,
-    "name": "Legendary Tales",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LegendaryTales",
+    "contentId": "HP7668-PPSA13738_00-0152877349414582",
+    "region": "HP",
+    "publisherId": "HP7668"
   },
   {
     "titleId": "PPSA13739_00",
@@ -58171,9 +58187,9 @@
     "titleId": "PPSA14013_00",
     "conceptId": 10007467,
     "name": "Border Bots VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4064-PPSA14013_00-0101809530937237",
+    "region": "EP",
+    "publisherId": "EP4064"
   },
   {
     "titleId": "PPSA14014_00",
@@ -60587,9 +60603,9 @@
     "titleId": "PPSA14662_00",
     "conceptId": 10002356,
     "name": "Virtual Surfing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5463-PPSA14662_00-OOVIRTUALSURFING",
+    "region": "UP",
+    "publisherId": "UP5463"
   },
   {
     "titleId": "PPSA14663_00",
@@ -60842,10 +60858,10 @@
   {
     "titleId": "PPSA14736_00",
     "conceptId": 10007167,
-    "name": "Alisa Developer's Cut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Alisa",
+    "contentId": "EP5335-PPSA14736_00-ALISA00000000000",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA14737_00",
@@ -61302,6 +61318,14 @@
     "contentId": "UP7543-PPSA15255_00-0188908921106470",
     "region": "UP",
     "publisherId": "UP7543"
+  },
+  {
+    "titleId": "PPSA15256_00",
+    "conceptId": 10005042,
+    "name": "Penny\u2019s Big Breakaway",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15257_00",
@@ -69962,10 +69986,10 @@
   {
     "titleId": "PPSA17518_00",
     "conceptId": 10006306,
-    "name": "Legendary Tales",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LegendaryTales",
+    "contentId": "EP7639-PPSA17518_00-0000000000111112",
+    "region": "EP",
+    "publisherId": "EP7639"
   },
   {
     "titleId": "PPSA17519_00",
@@ -71979,17 +72003,17 @@
     "titleId": "PPSA18145_00",
     "conceptId": 10009059,
     "name": "Jubilee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5098-PPSA18145_00-0680441106191529",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA18146_00",
     "conceptId": 10009059,
     "name": "Jubilee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4912-PPSA18146_00-0244423703330416",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA18156_00",
@@ -72883,9 +72907,9 @@
     "titleId": "PPSA18490_00",
     "conceptId": 10009181,
     "name": "Manitas Kitchen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0158-PPSA18490_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0158"
   },
   {
     "titleId": "PPSA18491_00",
@@ -72899,9 +72923,9 @@
     "titleId": "PPSA18494_00",
     "conceptId": 10009181,
     "name": "Manitas Kitchen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8671-PPSA18494_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP8671"
   },
   {
     "titleId": "PPSA18495_00",
@@ -73531,9 +73555,9 @@
     "titleId": "PPSA18718_00",
     "conceptId": 233275,
     "name": "Bartender VR Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7604-PPSA18718_00-0415489590319879",
+    "region": "UP",
+    "publisherId": "UP7604"
   },
   {
     "titleId": "PPSA18719_00",
@@ -74720,6 +74744,22 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA19139_00",
+    "conceptId": 10009421,
+    "name": "Shines Over: The Damned",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19140_00",
+    "conceptId": 10009421,
+    "name": "Shines Over: The Damned",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19144_00",
     "conceptId": 10002211,
     "name": "XDefiant",
@@ -74729,6 +74769,14 @@
   },
   {
     "titleId": "PPSA19145_00",
+    "conceptId": 10002211,
+    "name": "XDefiant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19146_00",
     "conceptId": 10002211,
     "name": "XDefiant",
     "contentId": null,
@@ -74939,9 +74987,9 @@
     "titleId": "PPSA19244_00",
     "conceptId": 10009456,
     "name": "The Oregon Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2006-PPSA19244_00-0702967789723886",
+    "region": "UP",
+    "publisherId": "UP2006"
   },
   {
     "titleId": "PPSA19250_00",
@@ -74987,9 +75035,9 @@
     "titleId": "PPSA19266_00",
     "conceptId": 10009456,
     "name": "The Oregon Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2006-PPSA19266_00-0102928119805050",
+    "region": "EP",
+    "publisherId": "EP2006"
   },
   {
     "titleId": "PPSA19267_00",
@@ -75723,9 +75771,9 @@
     "titleId": "PPSA19610_00",
     "conceptId": 10009531,
     "name": "Dead Hook",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7796-PPSA19610_00-0549898508131128",
+    "region": "UP",
+    "publisherId": "UP7796"
   },
   {
     "titleId": "PPSA19611_00",
@@ -76008,12 +76056,20 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA19749_00",
+    "conceptId": 10009646,
+    "name": "Sports & Adventure Pinball",
+    "contentId": "UP6927-PPSA19749_00-0479508125598281",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA19750_00",
     "conceptId": 10009646,
     "name": "Sports & Adventure Pinball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA19750_00-0870358735752906",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA19751_00",
@@ -76266,10 +76322,10 @@
   {
     "titleId": "PPSA19858_00",
     "conceptId": 10001695,
-    "name": "The Gravity Trickster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Gravity Trickster Demo",
+    "contentId": "UP6417-PPSA19858_00-0740973468058055",
+    "region": "UP",
+    "publisherId": "UP6417"
   },
   {
     "titleId": "PPSA19859_00",
@@ -76939,9 +76995,9 @@
     "titleId": "PPSA20130_00",
     "conceptId": 10009794,
     "name": "Prisonela DX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA20130_00-PRISONELADXRATAG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA20167_00",
@@ -77275,9 +77331,9 @@
     "titleId": "PPSA20339_00",
     "conceptId": 10009863,
     "name": "Deathly Dangerous",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA20339_00-0142884637719996",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA20340_00",
@@ -77499,9 +77555,9 @@
     "titleId": "PPSA20431_00",
     "conceptId": 10009927,
     "name": "Another World Mahjong Girl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA20431_00-ANOTHERWORLDMAHJ",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA20439_00",
@@ -77694,6 +77750,22 @@
     "contentId": "EP7550-PPSA20532_00-0914388704073765",
     "region": "EP",
     "publisherId": "EP7550"
+  },
+  {
+    "titleId": "PPSA20554_00",
+    "conceptId": 10009991,
+    "name": "Borzoi Adventure",
+    "contentId": "UB0008-PPSA20554_00-0164447606036235",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA20555_00",
+    "conceptId": 10009991,
+    "name": "Borzoi Adventure",
+    "contentId": "EB0198-PPSA20555_00-0430160659408138",
+    "region": "EB",
+    "publisherId": "EB0198"
   },
   {
     "titleId": "PPSA20567_00",
@@ -78022,6 +78094,14 @@
     "contentId": "EP5098-PPSA21026_00-0695395494993858",
     "region": "EP",
     "publisherId": "EP5098"
+  },
+  {
+    "titleId": "PPSA21027_00",
+    "conceptId": 10007228,
+    "name": "Promenade - Demo",
+    "contentId": "UP4912-PPSA21027_00-0838234982392501",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA21051_00",
