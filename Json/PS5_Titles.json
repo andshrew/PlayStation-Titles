@@ -15768,6 +15768,14 @@
     "publisherId": "HP5418"
   },
   {
+    "titleId": "PPSA04690_00",
+    "conceptId": 10003164,
+    "name": "SILENT HILL: The Short Message",
+    "contentId": "JP0101-PPSA04690_00-0451163287199893",
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA04695_00",
     "conceptId": 10003159,
     "name": "Treasures of the Aegean",
@@ -25187,9 +25195,9 @@
     "titleId": "PPSA06534_00",
     "conceptId": 225700,
     "name": "SKULL AND BONES\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0001-PPSA06534_00-SIEEINTERNALTT02",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA06535_00",
@@ -47635,9 +47643,9 @@
     "titleId": "PPSA10598_00",
     "conceptId": 10006272,
     "name": "Shanghai Summer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7788-PPSA10598_00-SHSUMMERPS5SIEUS",
+    "region": "UP",
+    "publisherId": "UP7788"
   },
   {
     "titleId": "PPSA10599_00",
@@ -49803,9 +49811,9 @@
     "titleId": "PPSA10962_00",
     "conceptId": 10006295,
     "name": "The Inquisitor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2060-PPSA10962_00-000THEINQUISITOR",
+    "region": "UP",
+    "publisherId": "UP2060"
   },
   {
     "titleId": "PPSA10965_00",
@@ -60595,9 +60603,9 @@
     "titleId": "PPSA14661_00",
     "conceptId": 10002356,
     "name": "Virtual Surfing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5644-PPSA14661_00-VIRTUALSURFINGEU",
+    "region": "EP",
+    "publisherId": "EP5644"
   },
   {
     "titleId": "PPSA14662_00",
@@ -62579,9 +62587,9 @@
     "titleId": "PPSA15543_00",
     "conceptId": 10008046,
     "name": "Space Docker VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8560-PPSA15543_00-0294222496672076",
+    "region": "EP",
+    "publisherId": "EP8560"
   },
   {
     "titleId": "PPSA15549_00",
@@ -62886,6 +62894,22 @@
     "contentId": "EP1302-PPSA15634_00-0412556424625266",
     "region": "EP",
     "publisherId": "EP1302"
+  },
+  {
+    "titleId": "PPSA15638_00",
+    "conceptId": 10004940,
+    "name": "Tamarak Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15639_00",
+    "conceptId": 10004940,
+    "name": "Tamarak Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15640_00",
@@ -63502,6 +63526,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15818_00",
+    "conceptId": 10008046,
+    "name": "Space Docker VR",
+    "contentId": "UP8370-PPSA15818_00-0885942892894334",
+    "region": "UP",
+    "publisherId": "UP8370"
   },
   {
     "titleId": "PPSA15819_00",
@@ -72915,9 +72947,9 @@
     "titleId": "PPSA18491_00",
     "conceptId": 10009181,
     "name": "Manitas Kitchen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8767-PPSA18491_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP8767"
   },
   {
     "titleId": "PPSA18494_00",
@@ -72931,9 +72963,9 @@
     "titleId": "PPSA18495_00",
     "conceptId": 10009181,
     "name": "Manitas Kitchen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8716-PPSA18495_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP8716"
   },
   {
     "titleId": "PPSA18499_00",
