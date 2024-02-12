@@ -11907,7 +11907,7 @@
     "titleId": "PPSA03913_00",
     "conceptId": 10001609,
     "name": "Suicide Squad: Kill the Justice League",
-    "contentId": null,
+    "contentId": "EP1018-PPSA03913_00-SUICIDESQUADKTJL",
     "region": "EP",
     "publisherId": "EP1018"
   },
@@ -48058,10 +48058,10 @@
   {
     "titleId": "PPSA10684_00",
     "conceptId": 10006306,
-    "name": "Legendary Tales",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LegendaryTales",
+    "contentId": "UP7641-PPSA10684_00-0000000000111111",
+    "region": "UP",
+    "publisherId": "UP7641"
   },
   {
     "titleId": "PPSA10686_00",
@@ -49803,9 +49803,9 @@
     "titleId": "PPSA10961_00",
     "conceptId": 10006295,
     "name": "The Inquisitor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4365-PPSA10961_00-000THEINQUISITOR",
+    "region": "EP",
+    "publisherId": "EP4365"
   },
   {
     "titleId": "PPSA10962_00",
@@ -77710,6 +77710,22 @@
     "contentId": "UP1681-PPSA20489_00-BWE002024PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA20503_00",
+    "conceptId": 10009969,
+    "name": "Unlife",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20504_00",
+    "conceptId": 10009969,
+    "name": "Unlife",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20505_00",
