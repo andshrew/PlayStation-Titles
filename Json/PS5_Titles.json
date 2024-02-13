@@ -22483,7 +22483,7 @@
     "titleId": "PPSA06020_00",
     "conceptId": 10000657,
     "name": "HELLDIVERS\u2122 2",
-    "contentId": null,
+    "contentId": "HP9000-PPSA06020_00-TESTAMENT0000000",
     "region": "HP",
     "publisherId": "HP9000"
   },
@@ -75720,6 +75720,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA19551_00",
+    "conceptId": 10009577,
+    "name": "Paint By Pixel",
+    "contentId": "EP1411-PPSA19551_00-0207824948147886",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA19552_00",
+    "conceptId": 10009577,
+    "name": "Paint By Pixel",
+    "contentId": "UP1421-PPSA19552_00-0770357699307824",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA19553_00",
     "conceptId": 10009578,
     "name": "I Love Finding Furbabies! - Collector's Edition",
@@ -78056,6 +78072,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20816_00",
+    "conceptId": 10010099,
+    "name": "Escape the Glitch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20821_00",
     "conceptId": 10007418,
     "name": "The Rusty Sword: Vanguard Island",
@@ -78168,6 +78192,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21193_00",
+    "conceptId": 10004855,
+    "name": "Bunny Mahjo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21194_00",
+    "conceptId": 10004855,
+    "name": "Bunny Mahjo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21195_00",
+    "conceptId": 10004855,
+    "name": "Bunny Mahjo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21196_00",
+    "conceptId": 10004855,
+    "name": "Bunny Mahjo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21220_00",
     "conceptId": 10009996,
     "name": "Santa's Speedy Quest",
@@ -78214,5 +78270,21 @@
     "contentId": "UP4312-PPSA21271_00-0150650795859975",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA21288_00",
+    "conceptId": 10010277,
+    "name": "Drift Odyssey",
+    "contentId": "EP1411-PPSA21288_00-0963661980433119",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21289_00",
+    "conceptId": 10010277,
+    "name": "Drift Odyssey",
+    "contentId": "UP1421-PPSA21289_00-0265193116619818",
+    "region": "UP",
+    "publisherId": "UP1421"
   }
 ]
