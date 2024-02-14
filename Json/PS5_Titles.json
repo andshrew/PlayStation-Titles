@@ -379,7 +379,7 @@
     "titleId": "PPSA01413_00",
     "conceptId": 10000657,
     "name": "HELLDIVERS\u2122 2",
-    "contentId": null,
+    "contentId": "UP9000-PPSA01413_00-TESTAMENT0000000",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -2842,8 +2842,8 @@
   {
     "titleId": "PPSA02039_00",
     "conceptId": 229066,
-    "name": "GRANBLUE FANTASY: Relink Standard Edition PS5 & PS4",
-    "contentId": null,
+    "name": "GRANBLUE FANTASY: Relink",
+    "contentId": "JP0178-PPSA02039_00-GBRELINK00000001",
     "region": "JP",
     "publisherId": "JP0178"
   },
@@ -22451,7 +22451,7 @@
     "titleId": "PPSA06016_00",
     "conceptId": 10000657,
     "name": "HELLDIVERS\u2122 2",
-    "contentId": null,
+    "contentId": "EP9000-PPSA06016_00-TESTAMENT0000000",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -35222,6 +35222,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0006"
+  },
+  {
+    "titleId": "PPSA08452_00",
+    "conceptId": 10002260,
+    "name": "WHAT THE GOLF?",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08453_00",
@@ -59842,8 +59850,8 @@
   {
     "titleId": "PPSA14348_00",
     "conceptId": 10003373,
-    "name": "Ultros (PS4 & PS5)",
-    "contentId": null,
+    "name": "Ultros",
+    "contentId": "EP6777-PPSA14348_00-ULTROS00000PS5EU",
     "region": "EP",
     "publisherId": "EP6777"
   },
@@ -70627,25 +70635,25 @@
     "titleId": "PPSA17716_00",
     "conceptId": 10008899,
     "name": "GENIE Reprise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA17716_00-GENIEREPRISE0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17717_00",
     "conceptId": 10008899,
     "name": "GENIE Reprise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17717_00-GENIEREPRISE0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17718_00",
     "conceptId": 10008899,
     "name": "GENIE Reprise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA17718_00-GENIEREPRISE0000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA17721_00",
@@ -76664,6 +76672,14 @@
     "publisherId": "HP4687"
   },
   {
+    "titleId": "PPSA19961_00",
+    "conceptId": 10009729,
+    "name": "DanMachi BATTLE CHRONICLE",
+    "contentId": "UP4844-PPSA19961_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4844"
+  },
+  {
     "titleId": "PPSA19963_00",
     "conceptId": 10003686,
     "name": "Lost Islands",
@@ -77078,6 +77094,14 @@
     "contentId": "HP1419-PPSA20170_00-YOHANETRIAL00000",
     "region": "HP",
     "publisherId": "HP1419"
+  },
+  {
+    "titleId": "PPSA20196_00",
+    "conceptId": 10009818,
+    "name": "\u4e0d\u601d\u8b70\u306e\u56fd\u306e\u5192\u967a\u9152\u5834",
+    "contentId": "JP0714-PPSA20196_00-0915034502514739",
+    "region": "JP",
+    "publisherId": "JP0714"
   },
   {
     "titleId": "PPSA20209_00",
@@ -78072,6 +78096,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20815_00",
+    "conceptId": 10010099,
+    "name": "Escape the Glitch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20816_00",
     "conceptId": 10010099,
     "name": "Escape the Glitch",
@@ -78286,5 +78318,29 @@
     "contentId": "UP1421-PPSA21289_00-0265193116619818",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21401_00",
+    "conceptId": 10010334,
+    "name": "Balatro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21402_00",
+    "conceptId": 10010334,
+    "name": "Balatro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21609_00",
+    "conceptId": 10004289,
+    "name": "UFL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
