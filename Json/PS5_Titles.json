@@ -29952,6 +29952,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA07441_00",
+    "conceptId": 10002260,
+    "name": "WHAT THE GOLF?",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07445_00",
     "conceptId": 10004970,
     "name": "FROGUN",
@@ -65570,8 +65578,8 @@
   {
     "titleId": "PPSA16280_00",
     "conceptId": 10003373,
-    "name": "Ultros (PS4 & PS5)",
-    "contentId": null,
+    "name": "Ultros",
+    "contentId": "UP6779-PPSA16280_00-ULTROS00000PS5US",
     "region": "UP",
     "publisherId": "UP6779"
   },
@@ -65902,6 +65910,22 @@
     "contentId": "HP8462-PPSA16371_00-0847913929642164",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA16372_00",
+    "conceptId": 10008353,
+    "name": "Storyblocks: The King",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16374_00",
+    "conceptId": 10008353,
+    "name": "Storyblocks: The King",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16376_00",
@@ -66878,6 +66902,14 @@
     "contentId": "EP2363-PPSA16594_00-EU0RAGINGB000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA16597_00",
+    "conceptId": 10008072,
+    "name": "Trip World DX",
+    "contentId": "UP3604-PPSA16597_00-0892384547785559",
+    "region": "UP",
+    "publisherId": "UP3604"
   },
   {
     "titleId": "PPSA16601_00",
@@ -68050,16 +68082,16 @@
   {
     "titleId": "PPSA16901_00",
     "conceptId": 10008568,
-    "name": "Tomb Raider I-III Remastered Starring Lara Croft",
-    "contentId": null,
+    "name": "Tomb Raider I-III Remastered",
+    "contentId": "UP1032-PPSA16901_00-0830732011721858",
     "region": "UP",
     "publisherId": "UP1032"
   },
   {
     "titleId": "PPSA16902_00",
     "conceptId": 10008568,
-    "name": "Tomb Raider I-III Remastered Starring Lara Croft",
-    "contentId": null,
+    "name": "Tomb Raider I-III Remastered",
+    "contentId": "EP1875-PPSA16902_00-0573321054030201",
     "region": "EP",
     "publisherId": "EP1875"
   },
@@ -70248,6 +70280,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA17590_00",
+    "conceptId": 10008857,
+    "name": "GUNVOLT RECORDS Cychronicle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17591_00",
     "conceptId": 10008766,
     "name": "Whispike Survivors",
@@ -71171,17 +71211,17 @@
     "titleId": "PPSA17887_00",
     "conceptId": 10008970,
     "name": "Arzette: The Jewel of Faramore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6893-PPSA17887_00-0907873671123663",
+    "region": "UP",
+    "publisherId": "UP6893"
   },
   {
     "titleId": "PPSA17888_00",
     "conceptId": 10008970,
     "name": "Arzette: The Jewel of Faramore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6890-PPSA17888_00-0440997111584898",
+    "region": "EP",
+    "publisherId": "EP6890"
   },
   {
     "titleId": "PPSA17890_00",
@@ -74368,6 +74408,14 @@
     "publisherId": "HP7629"
   },
   {
+    "titleId": "PPSA18981_00",
+    "conceptId": 10009357,
+    "name": "Crazy Chicken Pirates",
+    "contentId": "EP3024-PPSA18981_00-MOORHUPIRATPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
+  },
+  {
     "titleId": "PPSA18983_00",
     "conceptId": 10008395,
     "name": "Gunhead Demo",
@@ -76347,17 +76395,17 @@
     "titleId": "PPSA19848_00",
     "conceptId": 10009687,
     "name": "Pretty Girls Klondike Solitaire PLUS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA19848_00-PGKLONDIKEPLUS00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA19849_00",
     "conceptId": 10009687,
     "name": "Pretty Girls Klondike Solitaire PLUS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA19849_00-PGKLONDIKEPLUS00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA19853_00",
@@ -76678,6 +76726,14 @@
     "contentId": "UP4844-PPSA19961_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP4844"
+  },
+  {
+    "titleId": "PPSA19962_00",
+    "conceptId": 10009729,
+    "name": "DanMachi BATTLE CHRONICLE",
+    "contentId": "EP5028-PPSA19962_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP5028"
   },
   {
     "titleId": "PPSA19963_00",
@@ -77392,6 +77448,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20323_00",
+    "conceptId": 10008833,
+    "name": "BAR \u30b9\u30c6\u30e9\u30a2\u30d3\u30b9 \u4f53\u9a13\u7248",
+    "contentId": "JP0404-PPSA20323_00-BARSTELLABYSS002",
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
     "titleId": "PPSA20338_00",
     "conceptId": 10009863,
     "name": "Deathly Dangerous",
@@ -77726,6 +77790,30 @@
     "contentId": "EP6019-PPSA20470_00-0524648992777697",
     "region": "EP",
     "publisherId": "EP6019"
+  },
+  {
+    "titleId": "PPSA20474_00",
+    "conceptId": 10003564,
+    "name": "Outcast - A New Beginning Demo",
+    "contentId": "JP2880-PPSA20474_00-OUTCASTDEMO00000",
+    "region": "JP",
+    "publisherId": "JP2880"
+  },
+  {
+    "titleId": "PPSA20475_00",
+    "conceptId": 10003564,
+    "name": "Outcast - A New Beginning Demo",
+    "contentId": "UP4389-PPSA20475_00-OUTCASTDEMO00000",
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
+    "titleId": "PPSA20476_00",
+    "conceptId": 10003564,
+    "name": "Outcast - A New Beginning Demo",
+    "contentId": "EP4389-PPSA20476_00-OUTCASTDEMO00000",
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA20487_00",
