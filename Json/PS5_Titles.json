@@ -20288,6 +20288,14 @@
     "publisherId": "HP0874"
   },
   {
+    "titleId": "PPSA05581_00",
+    "conceptId": 10003976,
+    "name": "Double Shot Gals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05584_00",
     "conceptId": 10003977,
     "name": "Let's Sing 2023",
@@ -54003,9 +54011,9 @@
     "titleId": "PPSA12611_00",
     "conceptId": 10006951,
     "name": "Zoo Leap",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA12611_00-0624619390621444",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA12612_00",
@@ -55571,6 +55579,22 @@
     "titleId": "PPSA13488_00",
     "conceptId": 10006484,
     "name": "Killzone: Liberation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13489_00",
+    "conceptId": 10007233,
+    "name": "S.O.L Search of Light",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13490_00",
+    "conceptId": 10007233,
+    "name": "S.O.L Search of Light",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -70715,17 +70739,17 @@
     "titleId": "PPSA17673_00",
     "conceptId": 228455,
     "name": "The Legend of Heroes: Trails of Cold Steel III",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA17673_00-EDSENNOKISEKI3RD",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA17675_00",
     "conceptId": 232098,
     "name": "The Legend of Heroes: Trails of Cold Steel IV",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1063-PPSA17675_00-EDSENNOKISEKI4TH",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA17678_00",
@@ -71587,6 +71611,14 @@
     "titleId": "PPSA17968_00",
     "conceptId": 10004875,
     "name": "Headbangers: Rhythm Royale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17970_00",
+    "conceptId": 10004401,
+    "name": "Arkanoid Eternal Battle",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -74155,9 +74187,9 @@
     "titleId": "PPSA18839_00",
     "conceptId": 10009309,
     "name": "Total Trails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6198-PPSA18839_00-0042154489579971",
+    "region": "UP",
+    "publisherId": "UP6198"
   },
   {
     "titleId": "PPSA18840_00",
@@ -75307,6 +75339,22 @@
     "titleId": "PPSA19276_00",
     "conceptId": 10008557,
     "name": "Sunny Caf\u00e9",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19277_00",
+    "conceptId": 10009368,
+    "name": "Beat the Beats VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19278_00",
+    "conceptId": 10009368,
+    "name": "Beat the Beats VR",
     "contentId": null,
     "region": null,
     "publisherId": null
