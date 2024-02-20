@@ -22131,9 +22131,9 @@
     "titleId": "PPSA05952_00",
     "conceptId": 10004203,
     "name": "Airhead",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0977-PPSA05952_00-4216534292628924",
+    "region": "UP",
+    "publisherId": "UP0977"
   },
   {
     "titleId": "PPSA05953_00",
@@ -39944,6 +39944,14 @@
     "publisherId": "UP7949"
   },
   {
+    "titleId": "PPSA09251_00",
+    "conceptId": 10005672,
+    "name": "Crown Wars: The Black Prince Pre-order",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA09252_00",
     "conceptId": 10005672,
     "name": "Crown Wars: The Black Prince Pre-order",
@@ -44299,7 +44307,7 @@
     "titleId": "PPSA10053_00",
     "conceptId": 10006098,
     "name": "Banishers: Ghosts of New Eden",
-    "contentId": null,
+    "contentId": "EP4133-PPSA10053_00-NEWWORLDGAME0000",
     "region": "EP",
     "publisherId": "EP4133"
   },
@@ -52518,6 +52526,14 @@
     "contentId": "EP7678-PPSA11503_00-8953011462804465",
     "region": "EP",
     "publisherId": "EP7678"
+  },
+  {
+    "titleId": "PPSA11516_00",
+    "conceptId": 10006611,
+    "name": "Pink Pong",
+    "contentId": "UP7668-PPSA11516_00-2136382447408973",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA11538_00",
@@ -62334,6 +62350,14 @@
     "contentId": "UP0891-PPSA15472_00-HIRILUNRATAGAMES",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA15473_00",
+    "conceptId": 10008004,
+    "name": "One More Dungeon 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15477_00",
@@ -76368,6 +76392,22 @@
     "publisherId": "EP0287"
   },
   {
+    "titleId": "PPSA19703_00",
+    "conceptId": 10009633,
+    "name": "Backgammon + Checkers + Mills",
+    "contentId": "EP3024-PPSA19703_00-DAMEMUEBACKPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
+  },
+  {
+    "titleId": "PPSA19704_00",
+    "conceptId": 10009633,
+    "name": "3in1 Game Collection: Backgammon + Checkers + Mills",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19706_00",
     "conceptId": 10009634,
     "name": "Highway Drifter: Hajwala Simulator",
@@ -78915,6 +78955,14 @@
     "titleId": "PPSA21406_00",
     "conceptId": 10006894,
     "name": "ArcRunner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21410_00",
+    "conceptId": 233666,
+    "name": "Annihilation",
     "contentId": null,
     "region": null,
     "publisherId": null
