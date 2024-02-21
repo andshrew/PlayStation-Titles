@@ -44315,7 +44315,7 @@
     "titleId": "PPSA10054_00",
     "conceptId": 10006098,
     "name": "Banishers: Ghosts of New Eden",
-    "contentId": null,
+    "contentId": "UP4133-PPSA10054_00-NEWWORLDGAME0000",
     "region": "UP",
     "publisherId": "UP4133"
   },
@@ -52536,6 +52536,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA11518_00",
+    "conceptId": 10006611,
+    "name": "Pink Pong",
+    "contentId": "JP7649-PPSA11518_00-5682743437258999",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA11519_00",
+    "conceptId": 10006611,
+    "name": "Pink Pong",
+    "contentId": "HP7695-PPSA11519_00-7546921952845651",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
     "titleId": "PPSA11538_00",
     "conceptId": 10006617,
     "name": "Sakura MMO 3",
@@ -53802,8 +53818,8 @@
   {
     "titleId": "PPSA12578_00",
     "conceptId": 10006942,
-    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters PS4 & PS5",
-    "contentId": null,
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "contentId": "UP2514-PPSA12578_00-WH40KCGDH0000000",
     "region": "UP",
     "publisherId": "UP2514"
   },
@@ -59410,18 +59426,18 @@
   {
     "titleId": "PPSA14228_00",
     "conceptId": 10007565,
-    "name": "qomp2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "qomp 2",
+    "contentId": "UP0182-PPSA14228_00-0833629153475552",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA14229_00",
     "conceptId": 10007565,
-    "name": "qomp2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "qomp 2",
+    "contentId": "EP0182-PPSA14229_00-0722324306283175",
+    "region": "EP",
+    "publisherId": "EP0182"
   },
   {
     "titleId": "PPSA14230_00",
@@ -71808,6 +71824,22 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA17995_00",
+    "conceptId": 10009010,
+    "name": "Jet Rider 2",
+    "contentId": "UP9000-PPSA17995_00-SCES010450000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA17996_00",
+    "conceptId": 10009010,
+    "name": "JetMoto\u201998",
+    "contentId": "JP9000-PPSA17996_00-SIPS600290000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA18000_00",
     "conceptId": 10007127,
     "name": "Word Web by POWGI",
@@ -73190,6 +73222,14 @@
     "contentId": "UP4425-PPSA18472_00-BROTATOSIEA00000",
     "region": "UP",
     "publisherId": "UP4425"
+  },
+  {
+    "titleId": "PPSA18480_00",
+    "conceptId": 10005401,
+    "name": "Slave Zero X",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18490_00",
@@ -75192,6 +75232,14 @@
     "publisherId": "HP2113"
   },
   {
+    "titleId": "PPSA19190_00",
+    "conceptId": 10002780,
+    "name": "Unicorn Overlord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19191_00",
     "conceptId": 10009420,
     "name": "Berzerk: Recharged",
@@ -75366,6 +75414,14 @@
     "contentId": "EP5133-PPSA19270_00-ORBBOUNCENROLL12",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA19271_00",
+    "conceptId": 10009430,
+    "name": "cyubeVR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19276_00",
@@ -75696,6 +75752,22 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA19394_00",
+    "conceptId": 10009515,
+    "name": "Cat and Ghostly Road",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19395_00",
+    "conceptId": 10009515,
+    "name": "Cat and Ghostly Road",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19401_00",
     "conceptId": 10009527,
     "name": "\u5203\u795e\u306e\u30a2\u30de\u30c6\u30e9\u30b9",
@@ -75947,17 +76019,17 @@
     "titleId": "PPSA19490_00",
     "conceptId": 10009557,
     "name": "Froggie - A Retro Platformer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA19490_00-FROGGIE000000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA19491_00",
     "conceptId": 10009557,
     "name": "Froggie - A Retro Platformer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA19491_00-FROGGIE000000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA19500_00",
@@ -76402,10 +76474,10 @@
   {
     "titleId": "PPSA19704_00",
     "conceptId": 10009633,
-    "name": "3in1 Game Collection: Backgammon + Checkers + Mills",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Backgammon + Checkers + Mills",
+    "contentId": "UP3165-PPSA19704_00-DAMEMUEBACKPS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA19706_00",
@@ -76462,6 +76534,14 @@
     "contentId": "HP7815-PPSA19718_00-SHSUMMERPS5SIEJA",
     "region": "HP",
     "publisherId": "HP7815"
+  },
+  {
+    "titleId": "PPSA19729_00",
+    "conceptId": 10008369,
+    "name": "STAR WARS\u2122: Dark Forces Remaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19730_00",
@@ -78659,9 +78739,9 @@
     "titleId": "PPSA20816_00",
     "conceptId": 10010099,
     "name": "Escape the Glitch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA20816_00-ESCAPETHEGLITCH1",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA20821_00",
@@ -78843,33 +78923,33 @@
     "titleId": "PPSA21193_00",
     "conceptId": 10004855,
     "name": "Bunny Mahjo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA21193_00-BUNNYMAHJO0PS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA21194_00",
     "conceptId": 10004855,
     "name": "Bunny Mahjo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA21194_00-BUNNYMAHJO0PS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA21195_00",
     "conceptId": 10004855,
     "name": "Bunny Mahjo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA21195_00-BUNNYMAHJO0PS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA21196_00",
     "conceptId": 10004855,
     "name": "Bunny Mahjo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA21196_00-BUNNYMAHJO0PS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA21220_00",
@@ -78939,17 +79019,17 @@
     "titleId": "PPSA21401_00",
     "conceptId": 10010334,
     "name": "Balatro",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3639-PPSA21401_00-0767712965312971",
+    "region": "UP",
+    "publisherId": "UP3639"
   },
   {
     "titleId": "PPSA21402_00",
     "conceptId": 10010334,
     "name": "Balatro",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3495-PPSA21402_00-0421077938281357",
+    "region": "EP",
+    "publisherId": "EP3495"
   },
   {
     "titleId": "PPSA21406_00",
@@ -78960,12 +79040,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21409_00",
+    "conceptId": 233666,
+    "name": "Annihilation",
+    "contentId": "UP4947-PPSA21409_00-ANNIHILATIONFULL",
+    "region": "UP",
+    "publisherId": "UP4947"
+  },
+  {
     "titleId": "PPSA21410_00",
     "conceptId": 233666,
     "name": "Annihilation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5133-PPSA21410_00-ANNIHILATIONFULL",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA21609_00",
