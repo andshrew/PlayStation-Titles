@@ -26680,6 +26680,14 @@
     "publisherId": "EP9000"
   },
   {
+    "titleId": "PPSA06788_00",
+    "conceptId": 10004653,
+    "name": "Resistance: Retribution",
+    "contentId": "UP9000-PPSA06788_00-UCUS986680000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA06791_00",
     "conceptId": 10004655,
     "name": "LocoRoco Midnight Carnival",
@@ -52536,6 +52544,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA11517_00",
+    "conceptId": 10006611,
+    "name": "Pink Pong",
+    "contentId": "EP7666-PPSA11517_00-1648860594168999",
+    "region": "EP",
+    "publisherId": "EP7666"
+  },
+  {
     "titleId": "PPSA11518_00",
     "conceptId": 10006611,
     "name": "Pink Pong",
@@ -52646,6 +52662,14 @@
     "contentId": "EP7099-PPSA11549_00-PPGGRAVEYARDGALS",
     "region": "EP",
     "publisherId": "EP7099"
+  },
+  {
+    "titleId": "PPSA11631_00",
+    "conceptId": 10006652,
+    "name": "Left Right",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11655_00",
@@ -61450,10 +61474,10 @@
   {
     "titleId": "PPSA15257_00",
     "conceptId": 10005042,
-    "name": "Penny\u2019s Big Breakaway",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Penny's Big Breakaway",
+    "contentId": "EP4829-PPSA15257_00-BIGBREAKAWAY0000",
+    "region": "EP",
+    "publisherId": "EP4829"
   },
   {
     "titleId": "PPSA15261_00",
@@ -62376,6 +62400,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15474_00",
+    "conceptId": 10008004,
+    "name": "One More Dungeon 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15477_00",
     "conceptId": 10008008,
     "name": "From Space",
@@ -62646,6 +62678,14 @@
     "contentId": "EP2005-PPSA15527_00-REDRAPTOR0000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA15530_00",
+    "conceptId": 10008040,
+    "name": "Dead End City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15531_00",
@@ -64278,6 +64318,14 @@
     "contentId": "HP1792-PPSA15922_00-SYPS5CREEPYTALE3",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA15924_00",
+    "conceptId": 10007962,
+    "name": "Contra: Operation Galuga Demo",
+    "contentId": "EP0101-PPSA15924_00-GALUGADEMO0PS5EU",
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA15929_00",
@@ -68400,6 +68448,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA16943_00",
+    "conceptId": 10008554,
+    "name": "STAR WARS\u2122 Battlefront Classic Collection",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1875"
+  },
+  {
     "titleId": "PPSA16954_00",
     "conceptId": 10008590,
     "name": "\u63a2\u3057\u3082\u306e\u306f\u3001\u590f\u3067\u3059\u304b\u3002",
@@ -72136,6 +72192,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18096_00",
+    "conceptId": 10009047,
+    "name": "Geometric Sniper Z",
+    "contentId": "JP6954-PPSA18096_00-0070669025794521",
+    "region": "JP",
+    "publisherId": "JP6954"
+  },
+  {
+    "titleId": "PPSA18097_00",
+    "conceptId": 10009047,
+    "name": "Geometric Sniper Z",
+    "contentId": "HP0874-PPSA18097_00-0665550381935273",
+    "region": "HP",
+    "publisherId": "HP0874"
+  },
+  {
     "titleId": "PPSA18099_00",
     "conceptId": 10009050,
     "name": "Vertigo 2",
@@ -72454,6 +72526,22 @@
     "contentId": "JP7583-PPSA18190_00-0608015559219019",
     "region": "JP",
     "publisherId": "JP7583"
+  },
+  {
+    "titleId": "PPSA18201_00",
+    "conceptId": 10009077,
+    "name": "Stilt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18202_00",
+    "conceptId": 10009077,
+    "name": "Stilt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18210_00",
@@ -73224,12 +73312,20 @@
     "publisherId": "UP4425"
   },
   {
+    "titleId": "PPSA18479_00",
+    "conceptId": 10005401,
+    "name": "Slave Zero X Soundtrack & Art Gallery",
+    "contentId": "UP6261-PPSA18479_00-0192798551922429",
+    "region": "UP",
+    "publisherId": "UP6261"
+  },
+  {
     "titleId": "PPSA18480_00",
     "conceptId": 10005401,
-    "name": "Slave Zero X",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Slave Zero X Soundtrack & Art Gallery",
+    "contentId": "EP6260-PPSA18480_00-0620888631757458",
+    "region": "EP",
+    "publisherId": "EP6260"
   },
   {
     "titleId": "PPSA18490_00",
@@ -73640,6 +73736,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA18626_00",
+    "conceptId": 10009252,
+    "name": "Little Cities: Bigger!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18628_00",
     "conceptId": 10009062,
     "name": "Ariko's Enchanted Forest",
@@ -73650,10 +73754,10 @@
   {
     "titleId": "PPSA18634_00",
     "conceptId": 10008910,
-    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u5e7b\u65e5\u306e\u30e8\u30cf\u30cd - NUMAZU in the MIRAGE -",
+    "contentId": "JP1557-PPSA18634_00-SIEJ000000000000",
+    "region": "JP",
+    "publisherId": "JP1557"
   },
   {
     "titleId": "PPSA18643_00",
@@ -74339,17 +74443,33 @@
     "titleId": "PPSA18857_00",
     "conceptId": 10009315,
     "name": "A Time Traveller's Guide To Past Delicacies",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA18857_00-SYPS5ATIMETRAVEL",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA18858_00",
     "conceptId": 10009315,
     "name": "A Time Traveller's Guide To Past Delicacies",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA18858_00-SYPS5ATIMETRAVEL",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA18859_00",
+    "conceptId": 10009315,
+    "name": "A Time Traveller's Guide To Past Delicacies",
+    "contentId": "JP1932-PPSA18859_00-SYPS5ATIMETRAVEL",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA18860_00",
+    "conceptId": 10009315,
+    "name": "A Time Traveller's Guide To Past Delicacies",
+    "contentId": "HP1792-PPSA18860_00-SYPS5ATIMETRAVEL",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA18865_00",
@@ -74814,6 +74934,30 @@
     "contentId": "EP6922-PPSA19009_00-0187603196917985",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA19011_00",
+    "conceptId": 10009231,
+    "name": "PopSlinger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19012_00",
+    "conceptId": 10009231,
+    "name": "PopSlinger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19014_00",
+    "conceptId": 10009231,
+    "name": "PopSlinger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19015_00",
@@ -75334,6 +75478,22 @@
     "contentId": "EP8707-PPSA19224_00-TOYTRAIN00000000",
     "region": "EP",
     "publisherId": "EP8707"
+  },
+  {
+    "titleId": "PPSA19225_00",
+    "conceptId": 10009450,
+    "name": "Felix the Cat",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0101"
+  },
+  {
+    "titleId": "PPSA19226_00",
+    "conceptId": 10009450,
+    "name": "Felix the Cat",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA19244_00",
@@ -75955,17 +76115,17 @@
     "titleId": "PPSA19469_00",
     "conceptId": 10008910,
     "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1291-PPSA19469_00-SIEE000000000000",
+    "region": "EP",
+    "publisherId": "EP1291"
   },
   {
     "titleId": "PPSA19470_00",
     "conceptId": 10008910,
     "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP1419-PPSA19470_00-SIEASIA000000000",
+    "region": "HP",
+    "publisherId": "HP1419"
   },
   {
     "titleId": "PPSA19477_00",
@@ -76243,9 +76403,9 @@
     "titleId": "PPSA19581_00",
     "conceptId": 10009584,
     "name": "Inkulinati",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8923-PPSA19581_00-INKULINATIEUPS50",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA19582_00",
@@ -76536,6 +76696,14 @@
     "publisherId": "HP7815"
   },
   {
+    "titleId": "PPSA19728_00",
+    "conceptId": 10008369,
+    "name": "STAR WARS\u2122: Dark Forces Remaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19729_00",
     "conceptId": 10008369,
     "name": "STAR WARS\u2122: Dark Forces Remaster",
@@ -76734,6 +76902,14 @@
     "contentId": "EP6776-PPSA19803_00-0145580309144723",
     "region": "EP",
     "publisherId": "EP6776"
+  },
+  {
+    "titleId": "PPSA19807_00",
+    "conceptId": 10009665,
+    "name": "Krimson",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19822_00",
@@ -77306,10 +77482,10 @@
   {
     "titleId": "PPSA20042_00",
     "conceptId": 10002345,
-    "name": "GOLAZO! 2 Deluxe Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Golazo 2",
+    "contentId": "JP0078-PPSA20042_00-GOLAZO2DX0000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA20054_00",
@@ -78072,6 +78248,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA20389_00",
+    "conceptId": 10008550,
+    "name": "The Land Beneath Us Demo",
+    "contentId": "UP1309-PPSA20389_00-LBU0DEMO0SIEA000",
+    "region": "UP",
+    "publisherId": "UP1309"
+  },
+  {
     "titleId": "PPSA20399_00",
     "conceptId": 10009913,
     "name": "Bigfoot's Journey",
@@ -78254,6 +78438,22 @@
     "contentId": "JP1681-PPSA20466_00-0117949511318892",
     "region": "JP",
     "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA20468_00",
+    "conceptId": 10002780,
+    "name": "Unicorn Overlord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20469_00",
+    "conceptId": 10002780,
+    "name": "Unicorn Overlord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20470_00",
@@ -78731,9 +78931,9 @@
     "titleId": "PPSA20815_00",
     "conceptId": 10010099,
     "name": "Escape the Glitch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0599-PPSA20815_00-ESCAPETHEGLITCH1",
+    "region": "UB",
+    "publisherId": "UB0599"
   },
   {
     "titleId": "PPSA20816_00",
@@ -78998,6 +79198,22 @@
     "contentId": "UP4312-PPSA21271_00-0150650795859975",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA21280_00",
+    "conceptId": 10009584,
+    "name": "Inkulinati Artbook",
+    "contentId": "EP8923-PPSA21280_00-INKULINATIARTEU5",
+    "region": "EP",
+    "publisherId": "EP8923"
+  },
+  {
+    "titleId": "PPSA21282_00",
+    "conceptId": 10009584,
+    "name": "Inkulinati Soundtrack",
+    "contentId": "EP8923-PPSA21282_00-INKSOUNDTRACKEU5",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA21288_00",
