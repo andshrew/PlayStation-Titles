@@ -26688,6 +26688,14 @@
     "publisherId": "UP9000"
   },
   {
+    "titleId": "PPSA06789_00",
+    "conceptId": 10004653,
+    "name": "Resistance: Retribution",
+    "contentId": "EP9000-PPSA06789_00-UCES011840000000",
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
     "titleId": "PPSA06791_00",
     "conceptId": 10004655,
     "name": "LocoRoco Midnight Carnival",
@@ -52664,12 +52672,36 @@
     "publisherId": "EP7099"
   },
   {
+    "titleId": "PPSA11630_00",
+    "conceptId": 10006652,
+    "name": "Left Right",
+    "contentId": "UP7335-PPSA11630_00-2456193795449317",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA11631_00",
     "conceptId": 10006652,
     "name": "Left Right",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA11632_00",
+    "conceptId": 10006652,
+    "name": "Left Right",
+    "contentId": "JP7309-PPSA11632_00-7728789454613767",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA11633_00",
+    "conceptId": 10006652,
+    "name": "Left Right",
+    "contentId": "HP7354-PPSA11633_00-5129245360739831",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11655_00",
@@ -53834,8 +53866,8 @@
   {
     "titleId": "PPSA12577_00",
     "conceptId": 10006942,
-    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters PS4 & PS5",
-    "contentId": null,
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "contentId": "EP2377-PPSA12577_00-WH40KCGDH0000000",
     "region": "EP",
     "publisherId": "EP2377"
   },
@@ -54678,6 +54710,14 @@
     "contentId": "JP0013-PPSA13255_00-JP0HEIRSK0000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA13257_00",
+    "conceptId": 10007136,
+    "name": "Square Enix Digital Content Viewer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13261_00",
@@ -57747,7 +57787,7 @@
     "titleId": "PPSA13898_00",
     "conceptId": 10005401,
     "name": "Slave Zero X",
-    "contentId": null,
+    "contentId": "UP6261-PPSA13898_00-0046096163158436",
     "region": "UP",
     "publisherId": "UP6261"
   },
@@ -57755,7 +57795,7 @@
     "titleId": "PPSA13899_00",
     "conceptId": 10005401,
     "name": "Slave Zero X",
-    "contentId": null,
+    "contentId": "EP6260-PPSA13899_00-0061430976725628",
     "region": "EP",
     "publisherId": "EP6260"
   },
@@ -59258,16 +59298,16 @@
   {
     "titleId": "PPSA14171_00",
     "conceptId": 10007320,
-    "name": "Garden Life - Standard Edition (Pre-order)",
-    "contentId": null,
+    "name": "Garden Life: A Cozy Simulator",
+    "contentId": "EP6665-PPSA14171_00-GRD0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA14172_00",
     "conceptId": 10007320,
-    "name": "Garden Life - Standard Edition (Pre-order)",
-    "contentId": null,
+    "name": "Garden Life: A Cozy Simulator",
+    "contentId": "UP6665-PPSA14172_00-GRD0000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -59318,6 +59358,14 @@
     "contentId": "HP2005-PPSA14189_00-THEBRIDGECURSE00",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA14194_00",
+    "conceptId": 10001779,
+    "name": "Heroine Anthem Zero 2 : Scalescars Oath",
+    "contentId": "HP2790-PPSA14194_00-HAZEROEPISODE002",
+    "region": "HP",
+    "publisherId": "HP2790"
   },
   {
     "titleId": "PPSA14198_00",
@@ -61112,6 +61160,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14957_00",
+    "conceptId": 10007831,
+    "name": "Prison Architect 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4139"
+  },
+  {
     "titleId": "PPSA14971_00",
     "conceptId": 231907,
     "name": "Ultimate Runner",
@@ -61466,10 +61522,10 @@
   {
     "titleId": "PPSA15256_00",
     "conceptId": 10005042,
-    "name": "Penny\u2019s Big Breakaway",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Penny's Big Breakaway",
+    "contentId": "UP4581-PPSA15256_00-BIGBREAKAWAY0000",
+    "region": "UP",
+    "publisherId": "UP4581"
   },
   {
     "titleId": "PPSA15257_00",
@@ -63027,9 +63083,9 @@
     "titleId": "PPSA15616_00",
     "conceptId": 10008071,
     "name": "502's Arcade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0832-PPSA15616_00-0591989305417591",
+    "region": "UP",
+    "publisherId": "UP0832"
   },
   {
     "titleId": "PPSA15617_00",
@@ -64318,6 +64374,14 @@
     "contentId": "HP1792-PPSA15922_00-SYPS5CREEPYTALE3",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA15923_00",
+    "conceptId": 10007962,
+    "name": "Contra: Operation Galuga Demo",
+    "contentId": "UP0101-PPSA15923_00-GALUGADEMO0PS5NA",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA15924_00",
@@ -71443,7 +71507,7 @@
     "titleId": "PPSA17880_00",
     "conceptId": 10008967,
     "name": "King Arthur: Knight's Tale",
-    "contentId": null,
+    "contentId": "EP8305-PPSA17880_00-KAKT00000000SIEE",
     "region": "EP",
     "publisherId": "EP8305"
   },
@@ -72179,17 +72243,17 @@
     "titleId": "PPSA18094_00",
     "conceptId": 10009047,
     "name": "Geometric Sniper Z",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA18094_00-0255970466949935",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA18095_00",
     "conceptId": 10009047,
     "name": "Geometric Sniper Z",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA18095_00-0105449619927510",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA18096_00",
@@ -73744,6 +73808,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18627_00",
+    "conceptId": 10009252,
+    "name": "Little Cities: Bigger!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18628_00",
     "conceptId": 10009062,
     "name": "Ariko's Enchanted Forest",
@@ -74104,6 +74176,14 @@
     "publisherId": "EP0036"
   },
   {
+    "titleId": "PPSA18743_00",
+    "conceptId": 10009210,
+    "name": "Killer Klowns from Outer Space: The Game",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3095"
+  },
+  {
     "titleId": "PPSA18758_00",
     "conceptId": 10009004,
     "name": "Forklift Extreme: Deluxe Edition",
@@ -74134,6 +74214,14 @@
     "contentId": "UP3165-PPSA18761_00-PETVETCOUNTPS5US",
     "region": "UP",
     "publisherId": "UP3165"
+  },
+  {
+    "titleId": "PPSA18774_00",
+    "conceptId": 10009210,
+    "name": "Killer Klowns from Outer Space: The Game",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2954"
   },
   {
     "titleId": "PPSA18779_00",
@@ -74696,6 +74784,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA18944_00",
+    "conceptId": 10000636,
+    "name": "JigSaw Abundance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18956_00",
     "conceptId": 10009348,
     "name": "Sherlock Holmes - The Hunt for Moriarty",
@@ -74945,6 +75041,14 @@
   },
   {
     "titleId": "PPSA19012_00",
+    "conceptId": 10009231,
+    "name": "PopSlinger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19013_00",
     "conceptId": 10009231,
     "name": "PopSlinger",
     "contentId": null,
@@ -75374,6 +75478,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP2113"
+  },
+  {
+    "titleId": "PPSA19189_00",
+    "conceptId": 10002780,
+    "name": "Unicorn Overlord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19190_00",
@@ -76107,9 +76219,9 @@
     "titleId": "PPSA19467_00",
     "conceptId": 10008910,
     "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1298-PPSA19467_00-SIEA000000000000",
+    "region": "UP",
+    "publisherId": "UP1298"
   },
   {
     "titleId": "PPSA19469_00",
@@ -76430,6 +76542,14 @@
     "contentId": "EP6136-PPSA19587_00-0674567572537552",
     "region": "EP",
     "publisherId": "EP6136"
+  },
+  {
+    "titleId": "PPSA19605_00",
+    "conceptId": 10009517,
+    "name": "Final Shot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19610_00",
@@ -76912,6 +77032,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19808_00",
+    "conceptId": 10009665,
+    "name": "Krimson",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19809_00",
+    "conceptId": 10009665,
+    "name": "Krimson",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19822_00",
     "conceptId": 10004920,
     "name": "Fate/Samurai Remnant DEMO",
@@ -77379,7 +77515,7 @@
     "titleId": "PPSA19993_00",
     "conceptId": 10008967,
     "name": "King Arthur: Knight's Tale",
-    "contentId": null,
+    "contentId": "UP8115-PPSA19993_00-KAKT00000000SIEA",
     "region": "UP",
     "publisherId": "UP8115"
   },
@@ -77664,6 +77800,22 @@
     "publisherId": "EP5335"
   },
   {
+    "titleId": "PPSA20120_00",
+    "conceptId": 10009517,
+    "name": "Final Shot",
+    "contentId": "HP7889-PPSA20120_00-0067466432480850",
+    "region": "HP",
+    "publisherId": "HP7889"
+  },
+  {
+    "titleId": "PPSA20121_00",
+    "conceptId": 10009517,
+    "name": "Final Shot",
+    "contentId": "JP7843-PPSA20121_00-0952758449088964",
+    "region": "JP",
+    "publisherId": "JP7843"
+  },
+  {
     "titleId": "PPSA20122_00",
     "conceptId": 10007682,
     "name": "Happi Basudei",
@@ -77766,6 +77918,22 @@
     "contentId": "HP1419-PPSA20170_00-YOHANETRIAL00000",
     "region": "HP",
     "publisherId": "HP1419"
+  },
+  {
+    "titleId": "PPSA20184_00",
+    "conceptId": 10008669,
+    "name": "Thunder Ray",
+    "contentId": "UP3023-PPSA20184_00-THUNDERRAYP5SIEA",
+    "region": "UP",
+    "publisherId": "UP3023"
+  },
+  {
+    "titleId": "PPSA20185_00",
+    "conceptId": 10008669,
+    "name": "Thunder Ray",
+    "contentId": "EP2885-PPSA20185_00-THUNDERRAYP5SIEE",
+    "region": "EP",
+    "publisherId": "EP2885"
   },
   {
     "titleId": "PPSA20196_00",
@@ -78032,6 +78200,14 @@
     "publisherId": "EP7550"
   },
   {
+    "titleId": "PPSA20283_00",
+    "conceptId": 10002780,
+    "name": "\u30e6\u30cb\u30b3\u30fc\u30f3\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9\u4f53\u9a13\u7248",
+    "contentId": "JP0005-PPSA20283_00-UNICORNTRIAL0000",
+    "region": "JP",
+    "publisherId": "JP0005"
+  },
+  {
     "titleId": "PPSA20299_00",
     "conceptId": 10009842,
     "name": "Regular Factory: Escape Room",
@@ -78062,6 +78238,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20318_00",
+    "conceptId": 10002780,
+    "name": "\u8056\u7378\u4e4b\u738b \u9ad4\u9a57\u7248",
+    "contentId": "HP0177-PPSA20318_00-UNICORNTRIAL0000",
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA20323_00",
@@ -78254,6 +78438,14 @@
     "contentId": "UP1309-PPSA20389_00-LBU0DEMO0SIEA000",
     "region": "UP",
     "publisherId": "UP1309"
+  },
+  {
+    "titleId": "PPSA20390_00",
+    "conceptId": 10008550,
+    "name": "The Land Beneath Us Demo",
+    "contentId": "EP1302-PPSA20390_00-LBU0DEMO0SIEE000",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA20399_00",
@@ -78539,9 +78731,9 @@
     "titleId": "PPSA20503_00",
     "conceptId": 10009969,
     "name": "Unlife",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA20503_00-UNLIFERATALAIGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA20504_00",
@@ -79024,6 +79216,30 @@
     "publisherId": "UB0529"
   },
   {
+    "titleId": "PPSA20971_00",
+    "conceptId": 10010155,
+    "name": "Animals Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20972_00",
+    "conceptId": 10010155,
+    "name": "Animals Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20973_00",
+    "conceptId": 10010155,
+    "name": "Animals Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20987_00",
     "conceptId": 10010168,
     "name": "The Jumping Alphabet Soup",
@@ -79072,9 +79288,25 @@
     "publisherId": "UP4912"
   },
   {
+    "titleId": "PPSA21031_00",
+    "conceptId": 10010126,
+    "name": "Jigsaw Tetra",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21051_00",
     "conceptId": 10009354,
     "name": "Rainbow Reactor: Fusion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21099_00",
+    "conceptId": 10010126,
+    "name": "Jigsaw Tetra",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -79115,6 +79347,22 @@
     "titleId": "PPSA21157_00",
     "conceptId": 10010220,
     "name": "SHOWMAX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21187_00",
+    "conceptId": 10010126,
+    "name": "Jigsaw Tetra",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21188_00",
+    "conceptId": 10010126,
+    "name": "Jigsaw Tetra",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -79206,6 +79454,14 @@
     "contentId": "EP8923-PPSA21280_00-INKULINATIARTEU5",
     "region": "EP",
     "publisherId": "EP8923"
+  },
+  {
+    "titleId": "PPSA21281_00",
+    "conceptId": 10009584,
+    "name": "Inkulinati Artbook",
+    "contentId": "UP1440-PPSA21281_00-INKULINATIARTNA5",
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA21282_00",
