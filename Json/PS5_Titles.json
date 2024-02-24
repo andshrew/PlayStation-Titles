@@ -9472,6 +9472,14 @@
     "publisherId": "JP0122"
   },
   {
+    "titleId": "PPSA03407_00",
+    "conceptId": 10002702,
+    "name": "Hex Gambit: Respawned",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03409_00",
     "conceptId": 234819,
     "name": "KungFu Kickball",
@@ -49883,7 +49891,7 @@
     "titleId": "PPSA10965_00",
     "conceptId": 10006288,
     "name": "Pacific Drive",
-    "contentId": null,
+    "contentId": "UP6850-PPSA10965_00-00000000000PS5US",
     "region": "UP",
     "publisherId": "UP6850"
   },
@@ -52683,9 +52691,9 @@
     "titleId": "PPSA11631_00",
     "conceptId": 10006652,
     "name": "Left Right",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA11631_00-6128076755274763",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA11632_00",
@@ -59360,6 +59368,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA14192_00",
+    "conceptId": 10001779,
+    "name": "Heroine Anthem Zero 2 : Scalescars Oath",
+    "contentId": "EP2707-PPSA14192_00-HAZEROEPISODE002",
+    "region": "EP",
+    "publisherId": "EP2707"
+  },
+  {
     "titleId": "PPSA14194_00",
     "conceptId": 10001779,
     "name": "Heroine Anthem Zero 2 : Scalescars Oath",
@@ -61160,6 +61176,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14956_00",
+    "conceptId": 10007831,
+    "name": "Prison Architect 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4139"
+  },
+  {
     "titleId": "PPSA14957_00",
     "conceptId": 10007831,
     "name": "Prison Architect 2",
@@ -62822,6 +62846,14 @@
     "contentId": "EP8560-PPSA15543_00-0294222496672076",
     "region": "EP",
     "publisherId": "EP8560"
+  },
+  {
+    "titleId": "PPSA15546_00",
+    "conceptId": 10008047,
+    "name": "Pentiment",
+    "contentId": "UP6312-PPSA15546_00-PLATITUDE0000000",
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA15549_00",
@@ -66179,9 +66211,9 @@
     "titleId": "PPSA16374_00",
     "conceptId": 10008353,
     "name": "Storyblocks: The King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA16374_00-0217728483173035",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA16375_00",
@@ -67278,6 +67310,14 @@
     "contentId": "EP3385-PPSA16613_00-BHL0000000000000",
     "region": "EP",
     "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA16616_00",
+    "conceptId": 10008047,
+    "name": "Pentiment",
+    "contentId": "EP6311-PPSA16616_00-PLATITUDE0000000",
+    "region": "EP",
+    "publisherId": "EP6311"
   },
   {
     "titleId": "PPSA16617_00",
@@ -68504,6 +68544,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA16941_00",
+    "conceptId": 10008554,
+    "name": "STAR WARS\u2122 Battlefront Classic Collection",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1032"
+  },
+  {
     "titleId": "PPSA16942_00",
     "conceptId": 10008546,
     "name": "Donuts in Space",
@@ -69078,6 +69126,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17116_00",
+    "conceptId": 10008665,
+    "name": "Jet Kave Adventure",
+    "contentId": "UP4926-PPSA17116_00-0602973460306010",
+    "region": "UP",
+    "publisherId": "UP4926"
   },
   {
     "titleId": "PPSA17117_00",
@@ -72184,6 +72240,14 @@
     "publisherId": "HP7967"
   },
   {
+    "titleId": "PPSA18072_00",
+    "conceptId": 10008430,
+    "name": "The Wizards - Dark Times",
+    "contentId": "UP3535-PPSA18072_00-0798667884362511",
+    "region": "UP",
+    "publisherId": "UP3535"
+  },
+  {
     "titleId": "PPSA18073_00",
     "conceptId": 10009042,
     "name": "Cooking Simulator VR",
@@ -73106,18 +73170,18 @@
   {
     "titleId": "PPSA18381_00",
     "conceptId": 10006228,
-    "name": "Operation Serpens",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "OPERATION SERPENS",
+    "contentId": "UP5099-PPSA18381_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP5099"
   },
   {
     "titleId": "PPSA18382_00",
     "conceptId": 10006228,
-    "name": "Operation Serpens",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "OPERATION SERPENS",
+    "contentId": "EP5279-PPSA18382_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP5279"
   },
   {
     "titleId": "PPSA18383_00",
@@ -74784,12 +74848,20 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA18943_00",
+    "conceptId": 10000636,
+    "name": "JigSawAbundance",
+    "contentId": "UP5877-PPSA18943_00-0888125563950615",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA18944_00",
     "conceptId": 10000636,
-    "name": "JigSaw Abundance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "JigSawAbundance",
+    "contentId": "EP8070-PPSA18944_00-0427684973754413",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA18956_00",
@@ -76523,9 +76595,9 @@
     "titleId": "PPSA19582_00",
     "conceptId": 10009584,
     "name": "Inkulinati",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1440-PPSA19582_00-INKULINATINAPS50",
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA19585_00",
@@ -76547,9 +76619,9 @@
     "titleId": "PPSA19605_00",
     "conceptId": 10009517,
     "name": "Final Shot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA19605_00-0324742724312571",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA19610_00",
@@ -76718,6 +76790,14 @@
     "contentId": "EP8645-PPSA19653_00-0000000000000001",
     "region": "EP",
     "publisherId": "EP8645"
+  },
+  {
+    "titleId": "PPSA19678_00",
+    "conceptId": 10007267,
+    "name": "NOOB - The Factionless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19681_00",
@@ -77800,6 +77880,14 @@
     "publisherId": "EP5335"
   },
   {
+    "titleId": "PPSA20119_00",
+    "conceptId": 10009517,
+    "name": "Final Shot",
+    "contentId": "UP7862-PPSA20119_00-0332888044229300",
+    "region": "UP",
+    "publisherId": "UP7862"
+  },
+  {
     "titleId": "PPSA20120_00",
     "conceptId": 10009517,
     "name": "Final Shot",
@@ -78634,18 +78722,18 @@
   {
     "titleId": "PPSA20468_00",
     "conceptId": 10002780,
-    "name": "Unicorn Overlord",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Unicorn Overlord DEMO",
+    "contentId": "EP0177-PPSA20468_00-UNICORNTRIAL0000",
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA20469_00",
     "conceptId": 10002780,
-    "name": "Unicorn Overlord",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Unicorn Overlord DEMO",
+    "contentId": "UP0177-PPSA20469_00-UNICORNTRIAL0000",
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA20470_00",
@@ -78739,9 +78827,9 @@
     "titleId": "PPSA20504_00",
     "conceptId": 10009969,
     "name": "Unlife",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA20504_00-UNLIFERATALAIGAM",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA20505_00",
@@ -79179,17 +79267,17 @@
     "titleId": "PPSA20898_00",
     "conceptId": 10009616,
     "name": "Geometry Survivor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3921-PPSA20898_00-0571923054305960",
+    "region": "EP",
+    "publisherId": "EP3921"
   },
   {
     "titleId": "PPSA20899_00",
     "conceptId": 10009616,
     "name": "Geometry Survivor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4140-PPSA20899_00-0826949566091234",
+    "region": "UP",
+    "publisherId": "UP4140"
   },
   {
     "titleId": "PPSA20933_00",
@@ -79233,6 +79321,14 @@
   },
   {
     "titleId": "PPSA20973_00",
+    "conceptId": 10010155,
+    "name": "Animals Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20974_00",
     "conceptId": 10010155,
     "name": "Animals Drop",
     "contentId": null,
@@ -79472,6 +79568,14 @@
     "publisherId": "EP8923"
   },
   {
+    "titleId": "PPSA21283_00",
+    "conceptId": 10009584,
+    "name": "Inkulinati Soundtrack",
+    "contentId": "UP1440-PPSA21283_00-INKSOUNDTRACKNA5",
+    "region": "UP",
+    "publisherId": "UP1440"
+  },
+  {
     "titleId": "PPSA21288_00",
     "conceptId": 10010277,
     "name": "Drift Odyssey",
@@ -79539,16 +79643,16 @@
     "titleId": "PPSA21662_00",
     "conceptId": 10009616,
     "name": "Geometry Survivor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4110-PPSA21662_00-0174608677766670",
+    "region": "JP",
+    "publisherId": "JP4110"
   },
   {
     "titleId": "PPSA21663_00",
     "conceptId": 10009616,
     "name": "Geometry Survivor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP4019-PPSA21663_00-0955588384263003",
+    "region": "HP",
+    "publisherId": "HP4019"
   }
 ]
