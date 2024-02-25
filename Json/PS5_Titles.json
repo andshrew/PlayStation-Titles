@@ -3579,7 +3579,7 @@
     "titleId": "PPSA02201_00",
     "conceptId": 225700,
     "name": "SKULL AND BONES\u2122",
-    "contentId": null,
+    "contentId": "EP0001-PPSA02201_00-GAME000000000000",
     "region": "EP",
     "publisherId": "EP0001"
   },
@@ -9473,6 +9473,14 @@
   },
   {
     "titleId": "PPSA03407_00",
+    "conceptId": 10002702,
+    "name": "Hex Gambit: Respawned",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA03408_00",
     "conceptId": 10002702,
     "name": "Hex Gambit: Respawned",
     "contentId": null,
@@ -55619,9 +55627,9 @@
     "titleId": "PPSA13479_00",
     "conceptId": 10007228,
     "name": "Promenade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4912-PPSA13479_00-0138844276459791",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA13480_00",
@@ -59368,12 +59376,28 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA14191_00",
+    "conceptId": 10001779,
+    "name": "Heroine Anthem Zero 2 : Scalescars Oath",
+    "contentId": "UP2844-PPSA14191_00-HAZEROEPISODE002",
+    "region": "UP",
+    "publisherId": "UP2844"
+  },
+  {
     "titleId": "PPSA14192_00",
     "conceptId": 10001779,
     "name": "Heroine Anthem Zero 2 : Scalescars Oath",
     "contentId": "EP2707-PPSA14192_00-HAZEROEPISODE002",
     "region": "EP",
     "publisherId": "EP2707"
+  },
+  {
+    "titleId": "PPSA14193_00",
+    "conceptId": 10001779,
+    "name": "Heroine Anthem Zero 2 : Scalescars Oath",
+    "contentId": "JP2885-PPSA14193_00-HAZEROEPISODE002",
+    "region": "JP",
+    "publisherId": "JP2885"
   },
   {
     "titleId": "PPSA14194_00",
@@ -63123,9 +63147,9 @@
     "titleId": "PPSA15617_00",
     "conceptId": 10008071,
     "name": "502's Arcade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0829-PPSA15617_00-0059869547529792",
+    "region": "EP",
+    "publisherId": "EP0829"
   },
   {
     "titleId": "PPSA15620_00",
@@ -66203,9 +66227,9 @@
     "titleId": "PPSA16373_00",
     "conceptId": 10008353,
     "name": "Storyblocks: The King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA16373_00-0231182552152347",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA16374_00",
@@ -67118,6 +67142,14 @@
     "contentId": "EP7657-PPSA16562_00-UNIMIME0EU000000",
     "region": "EP",
     "publisherId": "EP7657"
+  },
+  {
+    "titleId": "PPSA16567_00",
+    "conceptId": 10008430,
+    "name": "The Wizards - Dark Times",
+    "contentId": "EP3392-PPSA16567_00-0540916902582966",
+    "region": "EP",
+    "publisherId": "EP3392"
   },
   {
     "titleId": "PPSA16568_00",
@@ -69304,6 +69336,14 @@
     "publisherId": "UP4912"
   },
   {
+    "titleId": "PPSA17168_00",
+    "conceptId": 10008685,
+    "name": "Hi-Fi RUSH",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1003"
+  },
+  {
     "titleId": "PPSA17172_00",
     "conceptId": 10007199,
     "name": "\u4f0a\u8607X -\u5317\u5883\u6b77\u96aa-",
@@ -69406,6 +69446,22 @@
     "contentId": "HP4625-PPSA17188_00-0127933821581501",
     "region": "HP",
     "publisherId": "HP4625"
+  },
+  {
+    "titleId": "PPSA17190_00",
+    "conceptId": 10008685,
+    "name": "Hi-Fi RUSH",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0262"
+  },
+  {
+    "titleId": "PPSA17191_00",
+    "conceptId": 10008685,
+    "name": "Hi-Fi RUSH",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP1003"
   },
   {
     "titleId": "PPSA17194_00",
@@ -69992,6 +70048,14 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA17373_00",
+    "conceptId": 10008665,
+    "name": "Jet Kave Adventure",
+    "contentId": "EP5112-PPSA17373_00-0726036525150003",
+    "region": "EP",
+    "publisherId": "EP5112"
+  },
+  {
     "titleId": "PPSA17374_00",
     "conceptId": 10008383,
     "name": "Dead Man\u00b4s Diary",
@@ -70243,7 +70307,7 @@
     "titleId": "PPSA17476_00",
     "conceptId": 10006288,
     "name": "Pacific Drive",
-    "contentId": null,
+    "contentId": "EP6847-PPSA17476_00-00000000000PS5EU",
     "region": "EP",
     "publisherId": "EP6847"
   },
@@ -70462,6 +70526,22 @@
     "contentId": "UP0891-PPSA17524_00-FEARMONIUMRATGAM",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA17527_00",
+    "conceptId": 10008524,
+    "name": "The Legend of Legacy HD Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17528_00",
+    "conceptId": 10008524,
+    "name": "The Legend of Legacy HD Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17530_00",
@@ -78208,6 +78288,22 @@
     "publisherId": "JP8458"
   },
   {
+    "titleId": "PPSA20269_00",
+    "conceptId": 10009644,
+    "name": "System Critical 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20270_00",
+    "conceptId": 10009644,
+    "name": "System Critical 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20271_00",
     "conceptId": 10008365,
     "name": "Everlune",
@@ -78571,9 +78667,9 @@
     "titleId": "PPSA20407_00",
     "conceptId": 10009883,
     "name": "Train Chase",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8565-PPSA20407_00-0068492117758980",
+    "region": "EP",
+    "publisherId": "EP8565"
   },
   {
     "titleId": "PPSA20414_00",
@@ -78811,9 +78907,9 @@
     "titleId": "PPSA20496_00",
     "conceptId": 10009883,
     "name": "Train Chase",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8375-PPSA20496_00-0021138647974426",
+    "region": "UP",
+    "publisherId": "UP8375"
   },
   {
     "titleId": "PPSA20503_00",
