@@ -3587,15 +3587,15 @@
     "titleId": "PPSA02202_00",
     "conceptId": 225700,
     "name": "SKULL AND BONES\u2122",
-    "contentId": null,
+    "contentId": "UP0001-PPSA02202_00-GAME000000000000",
     "region": "UP",
     "publisherId": "UP0001"
   },
   {
     "titleId": "PPSA02203_00",
     "conceptId": 225700,
-    "name": "\u30b9\u30ab\u30eb \u30a2\u30f3\u30c9 \u30dc\u30fc\u30f3\u30ba",
-    "contentId": null,
+    "name": "SKULL AND BONES\u2122",
+    "contentId": "JP0001-PPSA02203_00-GAME000000000000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -12632,6 +12632,14 @@
     "publisherId": "HP3040"
   },
   {
+    "titleId": "PPSA04046_00",
+    "conceptId": 10003089,
+    "name": "DateJournal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04048_00",
     "conceptId": 10003091,
     "name": "LEGO\u00ae 2K Drive",
@@ -20315,9 +20323,9 @@
     "titleId": "PPSA05582_00",
     "conceptId": 10003976,
     "name": "Double Shot Gals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6472-PPSA05582_00-DOUBLESHOTGALS00",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA05584_00",
@@ -52496,6 +52504,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11472_00",
+    "conceptId": 10006588,
+    "name": "Shooting Blocks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11473_00",
     "conceptId": 10006588,
     "name": "Shooting Blocks",
@@ -60830,6 +60846,14 @@
     "contentId": "HP3536-PPSA14653_00-0224531301642915",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA14654_00",
+    "conceptId": 232798,
+    "name": "Harold Halibut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14661_00",
@@ -73992,6 +74016,22 @@
     "publisherId": "JP1557"
   },
   {
+    "titleId": "PPSA18637_00",
+    "conceptId": 10009256,
+    "name": "Peachy Boy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18638_00",
+    "conceptId": 10009256,
+    "name": "Peachy Boy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18643_00",
     "conceptId": 10009258,
     "name": "Sakura Alien",
@@ -75882,10 +75922,10 @@
   {
     "titleId": "PPSA19277_00",
     "conceptId": 10009368,
-    "name": "Beat the Beats VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Beat the beats",
+    "contentId": "EP2228-PPSA19277_00-0363928239837618",
+    "region": "EP",
+    "publisherId": "EP2228"
   },
   {
     "titleId": "PPSA19278_00",
@@ -76080,6 +76120,14 @@
     "publisherId": "UP6093"
   },
   {
+    "titleId": "PPSA19341_00",
+    "conceptId": 10009259,
+    "name": "The Jumping Food Memory - DEMO",
+    "contentId": "UP6664-PPSA19341_00-0999094307708617",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA19344_00",
     "conceptId": 10008412,
     "name": "Irem Collection Volume 1",
@@ -76166,6 +76214,14 @@
     "contentId": "HP5911-PPSA19374_00-SLAPSBEANS2PS5AS",
     "region": "HP",
     "publisherId": "HP5911"
+  },
+  {
+    "titleId": "PPSA19389_00",
+    "conceptId": 10002780,
+    "name": "Unicorn Overlord",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19390_00",
@@ -77350,6 +77406,14 @@
     "contentId": "JP0013-PPSA19853_00-JP0KGRAYFANG0PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA19856_00",
+    "conceptId": 10009691,
+    "name": "Bio Inc. Redemption",
+    "contentId": "EP4886-PPSA19856_00-0064327538250729",
+    "region": "EP",
+    "publisherId": "EP4886"
   },
   {
     "titleId": "PPSA19857_00",
@@ -79534,6 +79598,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA21075_00",
+    "conceptId": 10010209,
+    "name": "The Projet Poulet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21076_00",
+    "conceptId": 10010209,
+    "name": "The Projet Poulet",
+    "contentId": "EP7123-PPSA21076_00-0961226390389603",
+    "region": "EP",
+    "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA21077_00",
+    "conceptId": 10010209,
+    "name": "The Projet Poulet",
+    "contentId": "JP7094-PPSA21077_00-0714920042111152",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA21078_00",
+    "conceptId": 10010209,
+    "name": "The Projet Poulet",
+    "contentId": "HP7141-PPSA21078_00-0472870082424611",
+    "region": "HP",
+    "publisherId": "HP7141"
   },
   {
     "titleId": "PPSA21099_00",
