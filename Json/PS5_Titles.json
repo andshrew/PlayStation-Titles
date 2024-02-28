@@ -12632,6 +12632,14 @@
     "publisherId": "HP3040"
   },
   {
+    "titleId": "PPSA04045_00",
+    "conceptId": 10003089,
+    "name": "DateJournal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA04046_00",
     "conceptId": 10003089,
     "name": "DateJournal",
@@ -26718,6 +26726,14 @@
     "contentId": "EP9000-PPSA06789_00-UCES011840000000",
     "region": "EP",
     "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA06790_00",
+    "conceptId": 10004653,
+    "name": "RESISTANCE \uff5e\u5831\u5fa9\u306e\u523b\uff5e",
+    "contentId": "JP9000-PPSA06790_00-UCJS100900000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA06791_00",
@@ -62008,6 +62024,22 @@
     "publisherId": "HP7916"
   },
   {
+    "titleId": "PPSA15367_00",
+    "conceptId": 10007962,
+    "name": "Contra: Operation Galuga",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15368_00",
+    "conceptId": 10007962,
+    "name": "Contra: Operation Galuga",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15370_00",
     "conceptId": 10007976,
     "name": "Punch Club 2: Fast Forward",
@@ -63494,6 +63526,14 @@
     "contentId": "EP5506-PPSA15715_00-DEATHSOULNROBOTS",
     "region": "EP",
     "publisherId": "EP5506"
+  },
+  {
+    "titleId": "PPSA15716_00",
+    "conceptId": 10007941,
+    "name": "Shin Megami Tensei V: Vengeance",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA15719_00",
@@ -72608,6 +72648,22 @@
     "publisherId": "UP0082"
   },
   {
+    "titleId": "PPSA18126_00",
+    "conceptId": 10009056,
+    "name": "Ancient Weapon Holly",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18128_00",
+    "conceptId": 10009056,
+    "name": "Ancient Weapon Holly",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18130_00",
     "conceptId": 10004021,
     "name": "FOAMSTARS OPEN BETA PARTY",
@@ -74014,6 +74070,14 @@
     "contentId": "JP1557-PPSA18634_00-SIEJ000000000000",
     "region": "JP",
     "publisherId": "JP1557"
+  },
+  {
+    "titleId": "PPSA18636_00",
+    "conceptId": 10009256,
+    "name": "Peachy Boy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18637_00",
@@ -75930,10 +75994,10 @@
   {
     "titleId": "PPSA19278_00",
     "conceptId": 10009368,
-    "name": "Beat the Beats VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Beat the beats",
+    "contentId": "UP2365-PPSA19278_00-0917167785550204",
+    "region": "UP",
+    "publisherId": "UP2365"
   },
   {
     "titleId": "PPSA19279_00",
@@ -77406,6 +77470,14 @@
     "contentId": "JP0013-PPSA19853_00-JP0KGRAYFANG0PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA19855_00",
+    "conceptId": 10009691,
+    "name": "Bio Inc. Redemption",
+    "contentId": "UP4713-PPSA19855_00-0827431908349233",
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA19856_00",
@@ -79331,9 +79403,9 @@
     "titleId": "PPSA20728_00",
     "conceptId": 10008040,
     "name": "Dead End City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA20728_00-DEADENDCITY00000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA20747_00",
@@ -79603,9 +79675,9 @@
     "titleId": "PPSA21075_00",
     "conceptId": 10010209,
     "name": "The Projet Poulet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7126-PPSA21075_00-0973074975905367",
+    "region": "UP",
+    "publisherId": "UP7126"
   },
   {
     "titleId": "PPSA21076_00",
@@ -79824,6 +79896,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA21321_00",
+    "conceptId": 10004929,
+    "name": "Time Rift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21398_00",
+    "conceptId": 10010332,
+    "name": "Tank Frenzy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21401_00",
     "conceptId": 10010334,
     "name": "Balatro",
@@ -79862,6 +79950,14 @@
     "contentId": "EP5133-PPSA21410_00-ANNIHILATIONFULL",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA21426_00",
+    "conceptId": 10004929,
+    "name": "Time Rift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21609_00",
