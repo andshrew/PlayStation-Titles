@@ -59248,6 +59248,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA14145_00",
+    "conceptId": 10007261,
+    "name": "PJ Masks Power Heroes: Mighty Alliance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14146_00",
+    "conceptId": 10007261,
+    "name": "PJ Masks Power Heroes: Mighty Alliance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14148_00",
     "conceptId": 10007335,
     "name": "PYRAMID RAIDERS",
@@ -60865,6 +60881,14 @@
   },
   {
     "titleId": "PPSA14654_00",
+    "conceptId": 232798,
+    "name": "Harold Halibut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14655_00",
     "conceptId": 232798,
     "name": "Harold Halibut",
     "contentId": null,
@@ -63534,6 +63558,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA15717_00",
+    "conceptId": 10007941,
+    "name": "Shin Megami Tensei V: Vengeance",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA15719_00",
@@ -70928,6 +70960,14 @@
     "publisherId": "UP8016"
   },
   {
+    "titleId": "PPSA17630_00",
+    "conceptId": 10008874,
+    "name": "F1\u00ae 24 Champions Edition + Limited Time Bonus",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA17638_00",
     "conceptId": 10008795,
     "name": "Borderlands Collection: Pandora's Box",
@@ -72656,7 +72696,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18127_00",
+    "conceptId": 10009056,
+    "name": "Ancient Weapon Holly",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18128_00",
+    "conceptId": 10009056,
+    "name": "Ancient Weapon Holly",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18129_00",
     "conceptId": 10009056,
     "name": "Ancient Weapon Holly",
     "contentId": null,
@@ -73584,6 +73640,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA18453_00",
+    "conceptId": 10008712,
+    "name": "Dungeon Drafters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18454_00",
     "conceptId": 10009028,
     "name": "Poppy Playtime: Chapter 1",
@@ -74075,9 +74139,9 @@
     "titleId": "PPSA18636_00",
     "conceptId": 10009256,
     "name": "Peachy Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7654-PPSA18636_00-0213497370302316",
+    "region": "EP",
+    "publisherId": "EP7654"
   },
   {
     "titleId": "PPSA18637_00",
@@ -74091,9 +74155,9 @@
     "titleId": "PPSA18638_00",
     "conceptId": 10009256,
     "name": "Peachy Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7637-PPSA18638_00-0509453227343292",
+    "region": "JP",
+    "publisherId": "JP7637"
   },
   {
     "titleId": "PPSA18643_00",
@@ -75323,9 +75387,9 @@
     "titleId": "PPSA19012_00",
     "conceptId": 10009231,
     "name": "PopSlinger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6252-PPSA19012_00-0262415574873661",
+    "region": "EP",
+    "publisherId": "EP6252"
   },
   {
     "titleId": "PPSA19013_00",
@@ -75339,9 +75403,9 @@
     "titleId": "PPSA19014_00",
     "conceptId": 10009231,
     "name": "PopSlinger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6236-PPSA19014_00-0670116160499667",
+    "region": "HP",
+    "publisherId": "HP6236"
   },
   {
     "titleId": "PPSA19015_00",
@@ -75662,6 +75726,14 @@
     "contentId": "JP0425-PPSA19147_00-YS10NORDICSTRIAL",
     "region": "JP",
     "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA19149_00",
+    "conceptId": 10009426,
+    "name": "Winning Post 10 2024 (PS4 & PS5)",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA19150_00",
@@ -77056,6 +77128,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA19690_00",
+    "conceptId": 10001203,
+    "name": "\u9ed1\u767d\u83ab\u6bd4\u70cf\u65af \u6b72\u6708\u7684\u4ee3\u50f9",
+    "contentId": "HP3256-PPSA19690_00-MMTOKINOTAIKA000",
+    "region": "HP",
+    "publisherId": "HP3256"
+  },
+  {
     "titleId": "PPSA19697_00",
     "conceptId": 10008799,
     "name": "MOTESOLO",
@@ -77139,17 +77219,17 @@
     "titleId": "PPSA19728_00",
     "conceptId": 10008369,
     "name": "STAR WARS\u2122: Dark Forces Remaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0913-PPSA19728_00-0109195796998797",
+    "region": "UP",
+    "publisherId": "UP0913"
   },
   {
     "titleId": "PPSA19729_00",
     "conceptId": 10008369,
     "name": "STAR WARS\u2122: Dark Forces Remaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0917-PPSA19729_00-0520786197858298",
+    "region": "EP",
+    "publisherId": "EP0917"
   },
   {
     "titleId": "PPSA19730_00",
@@ -79176,6 +79256,14 @@
     "publisherId": "EP7550"
   },
   {
+    "titleId": "PPSA20543_00",
+    "conceptId": 228726,
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30d5\u30a1\u30a4\u30bf\u30fc\u30ba",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA20554_00",
     "conceptId": 10009991,
     "name": "Borzoi Adventure",
@@ -79467,9 +79555,9 @@
     "titleId": "PPSA20811_00",
     "conceptId": 10010098,
     "name": "Sakura Succubus 7",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA20811_00-SAKURASUCCUBUS70",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA20812_00",
@@ -79530,7 +79618,15 @@
   {
     "titleId": "PPSA20883_00",
     "conceptId": 10010091,
-    "name": "Ufouria: The Saga 2",
+    "name": "\u3078\u3079\u308c\u30512",
+    "contentId": "JP0202-PPSA20883_00-0582747649236338",
+    "region": "JP",
+    "publisherId": "JP0202"
+  },
+  {
+    "titleId": "PPSA20890_00",
+    "conceptId": 10008712,
+    "name": "Dungeon Drafters",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -79554,10 +79650,10 @@
   {
     "titleId": "PPSA20933_00",
     "conceptId": 10010091,
-    "name": "Ufouria: The Saga 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ufouria The Saga 2",
+    "contentId": "HP0202-PPSA20933_00-0527657545668622",
+    "region": "HP",
+    "publisherId": "HP0202"
   },
   {
     "titleId": "PPSA20953_00",
@@ -79904,12 +80000,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21397_00",
+    "conceptId": 10010332,
+    "name": "Tank Frenzy",
+    "contentId": "UP7977-PPSA21397_00-0372942621953617",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
     "titleId": "PPSA21398_00",
     "conceptId": 10010332,
     "name": "Tank Frenzy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7975-PPSA21398_00-0607671569320693",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA21399_00",
+    "conceptId": 10010332,
+    "name": "Tank Frenzy",
+    "contentId": "JP7958-PPSA21399_00-0835741133796309",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA21400_00",
+    "conceptId": 10010332,
+    "name": "Tank Frenzy",
+    "contentId": "HP8005-PPSA21400_00-0549047286785329",
+    "region": "HP",
+    "publisherId": "HP8005"
   },
   {
     "titleId": "PPSA21401_00",
@@ -79963,6 +80083,22 @@
     "titleId": "PPSA21609_00",
     "conceptId": 10004289,
     "name": "UFL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21626_00",
+    "conceptId": 10010435,
+    "name": "In Celebration of Violence",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21627_00",
+    "conceptId": 10010435,
+    "name": "In Celebration of Violence",
     "contentId": null,
     "region": null,
     "publisherId": null
