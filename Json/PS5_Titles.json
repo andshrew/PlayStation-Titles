@@ -40034,16 +40034,16 @@
   {
     "titleId": "PPSA09257_00",
     "conceptId": 10005724,
-    "name": "Welcome to ParadiZe - Standard Edition",
-    "contentId": null,
+    "name": "Welcome to Paradize",
+    "contentId": "EP6665-PPSA09257_00-PZP0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA09258_00",
     "conceptId": 10005724,
-    "name": "Welcome to ParadiZe - Standard Edition",
-    "contentId": null,
+    "name": "Welcome to Paradize",
+    "contentId": "UP6665-PPSA09258_00-PZP0000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -43030,6 +43030,22 @@
     "contentId": "HP8005-PPSA09785_00-0847606664791753",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA09788_00",
+    "conceptId": 228726,
+    "name": "DRAGON BALL FighterZ",
+    "contentId": "HP0700-PPSA09788_00-DBPROJECTZGOKU18",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA09789_00",
+    "conceptId": 228726,
+    "name": "DRAGON BALL FighterZ",
+    "contentId": "EP0700-PPSA09789_00-DBPROJECTZGOKU18",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA09790_00",
@@ -50059,9 +50075,9 @@
     "titleId": "PPSA10988_00",
     "conceptId": 10006425,
     "name": "The Mobius Machine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2638-PPSA10988_00-MADWMOBIUSPS5USA",
+    "region": "UP",
+    "publisherId": "UP2638"
   },
   {
     "titleId": "PPSA10992_00",
@@ -57640,6 +57656,14 @@
     "publisherId": "HP6073"
   },
   {
+    "titleId": "PPSA13862_00",
+    "conceptId": 10007384,
+    "name": "OVRDARK: a Do Not Open story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13864_00",
     "conceptId": 202458,
     "name": "Neon TV",
@@ -59856,6 +59880,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14282_00",
+    "conceptId": 10007580,
+    "name": "Highwater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14283_00",
+    "conceptId": 10007580,
+    "name": "Highwater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14284_00",
+    "conceptId": 10007580,
+    "name": "Highwater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14287_00",
     "conceptId": 10000894,
     "name": "THE KING OF FIGHTERS XV \u4f53\u9a13\u7248",
@@ -60739,9 +60787,9 @@
     "titleId": "PPSA14502_00",
     "conceptId": 10007683,
     "name": "Brothers: A Tale of Two Sons Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4040-PPSA14502_00-BROTHERSFORPS5EU",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA14503_00",
@@ -62611,9 +62659,9 @@
     "titleId": "PPSA15474_00",
     "conceptId": 10008004,
     "name": "One More Dungeon 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA15474_00-ONEMOREDUNGEONRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA15477_00",
@@ -63315,17 +63363,17 @@
     "titleId": "PPSA15638_00",
     "conceptId": 10004940,
     "name": "Tamarak Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0134-PPSA15638_00-TAMARAKTRAIL0000",
+    "region": "UP",
+    "publisherId": "UP0134"
   },
   {
     "titleId": "PPSA15639_00",
     "conceptId": 10004940,
     "name": "Tamarak Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0131-PPSA15639_00-TAMARAKTRAIL0000",
+    "region": "EP",
+    "publisherId": "EP0131"
   },
   {
     "titleId": "PPSA15640_00",
@@ -64574,6 +64622,14 @@
     "contentId": "EP0101-PPSA15924_00-GALUGADEMO0PS5EU",
     "region": "EP",
     "publisherId": "EP0101"
+  },
+  {
+    "titleId": "PPSA15927_00",
+    "conceptId": 10008165,
+    "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3177"
   },
   {
     "titleId": "PPSA15928_00",
@@ -68640,6 +68696,14 @@
     "publisherId": "UP8110"
   },
   {
+    "titleId": "PPSA16920_00",
+    "conceptId": 10008575,
+    "name": "Pecaminosa",
+    "contentId": "EP8300-PPSA16920_00-0121884133797761",
+    "region": "EP",
+    "publisherId": "EP8300"
+  },
+  {
     "titleId": "PPSA16923_00",
     "conceptId": 10005505,
     "name": "Wildmender",
@@ -70706,10 +70770,10 @@
   {
     "titleId": "PPSA17530_00",
     "conceptId": 10008833,
-    "name": "BAR Stella Abyss",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BAR \u30b9\u30c6\u30e9\u30a2\u30d3\u30b9",
+    "contentId": "JP0404-PPSA17530_00-BARSTELLABYSS002",
+    "region": "JP",
+    "publisherId": "JP0404"
   },
   {
     "titleId": "PPSA17533_00",
@@ -71006,6 +71070,14 @@
     "contentId": "UP8016-PPSA17627_00-30SI100GAMEUSA01",
     "region": "UP",
     "publisherId": "UP8016"
+  },
+  {
+    "titleId": "PPSA17629_00",
+    "conceptId": 10008874,
+    "name": "F1\u00ae 24 Champions Edition + Limited Time Bonus",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0006"
   },
   {
     "titleId": "PPSA17630_00",
@@ -74240,6 +74312,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA18645_00",
+    "conceptId": 10009242,
+    "name": "Tram Simulator Urban Transit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18646_00",
     "conceptId": 10009259,
     "name": "The Jumping Food Memory",
@@ -75251,9 +75331,9 @@
     "titleId": "PPSA18973_00",
     "conceptId": 10009354,
     "name": "Rainbow Reactor: Fusion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0574-PPSA18973_00-0384984118189421",
+    "region": "EB",
+    "publisherId": "EB0574"
   },
   {
     "titleId": "PPSA18974_00",
@@ -76320,12 +76400,28 @@
     "publisherId": "UP6093"
   },
   {
+    "titleId": "PPSA19340_00",
+    "conceptId": 10009259,
+    "name": "The Jumping Food Memory - DEMO",
+    "contentId": "EP6664-PPSA19340_00-0315349346916537",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA19341_00",
     "conceptId": 10009259,
     "name": "The Jumping Food Memory - DEMO",
     "contentId": "UP6664-PPSA19341_00-0999094307708617",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA19342_00",
+    "conceptId": 10009259,
+    "name": "The Jumping Food Memory - DEMO",
+    "contentId": "JP6595-PPSA19342_00-0270599809532497",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA19343_00",
@@ -76494,6 +76590,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA19406_00",
+    "conceptId": 10008165,
+    "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2 (PS4 & PS5)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5846"
   },
   {
     "titleId": "PPSA19414_00",
@@ -77472,6 +77576,22 @@
     "publisherId": "UP3528"
   },
   {
+    "titleId": "PPSA19780_00",
+    "conceptId": 10009661,
+    "name": "Anglerfish",
+    "contentId": "EP3385-PPSA19780_00-0819978554248688",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA19781_00",
+    "conceptId": 10009661,
+    "name": "Anglerfish",
+    "contentId": "JP3568-PPSA19781_00-0891565968628153",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
     "titleId": "PPSA19783_00",
     "conceptId": 10009661,
     "name": "Anglerfish",
@@ -77510,6 +77630,14 @@
     "contentId": "HP4625-PPSA19789_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP4625"
+  },
+  {
+    "titleId": "PPSA19794_00",
+    "conceptId": 10002420,
+    "name": "HORROR BAR VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19802_00",
@@ -79608,6 +79736,14 @@
     "publisherId": "EP1629"
   },
   {
+    "titleId": "PPSA20738_00",
+    "conceptId": 10008100,
+    "name": "Greed: The Mad Scientist",
+    "contentId": "UP1643-PPSA20738_00-GREED1TMSJDPS5US",
+    "region": "UP",
+    "publisherId": "UP1643"
+  },
+  {
     "titleId": "PPSA20747_00",
     "conceptId": 10010015,
     "name": "Beneath the earth - Backrooms",
@@ -79650,18 +79786,18 @@
   {
     "titleId": "PPSA20797_00",
     "conceptId": 10010091,
-    "name": "Ufouria: The Saga 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ufouria The Saga 2",
+    "contentId": "EP5098-PPSA20797_00-0976347434014563",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA20798_00",
     "conceptId": 10010091,
-    "name": "Ufouria: The Saga 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ufouria The Saga 2",
+    "contentId": "UP4912-PPSA20798_00-0909963278328293",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA20811_00",
@@ -79702,6 +79838,14 @@
     "contentId": "EP8598-PPSA20821_00-0152193505250338",
     "region": "EP",
     "publisherId": "EP8598"
+  },
+  {
+    "titleId": "PPSA20830_00",
+    "conceptId": 10005248,
+    "name": "GUNDAM BREAKER 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20839_00",
@@ -79787,33 +79931,33 @@
     "titleId": "PPSA20971_00",
     "conceptId": 10010155,
     "name": "Animals Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA20971_00-0250243538798972",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA20972_00",
     "conceptId": 10010155,
     "name": "Animals Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7666-PPSA20972_00-0417345946519847",
+    "region": "EP",
+    "publisherId": "EP7666"
   },
   {
     "titleId": "PPSA20973_00",
     "conceptId": 10010155,
     "name": "Animals Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7649-PPSA20973_00-0637669812449025",
+    "region": "JP",
+    "publisherId": "JP7649"
   },
   {
     "titleId": "PPSA20974_00",
     "conceptId": 10010155,
     "name": "Animals Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7695-PPSA20974_00-0876296190494606",
+    "region": "HP",
+    "publisherId": "HP7695"
   },
   {
     "titleId": "PPSA20987_00",
@@ -79875,9 +80019,9 @@
     "titleId": "PPSA21051_00",
     "conceptId": 10009354,
     "name": "Rainbow Reactor: Fusion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0382-PPSA21051_00-0892587038404181",
+    "region": "UB",
+    "publisherId": "UB0382"
   },
   {
     "titleId": "PPSA21052_00",
@@ -79979,17 +80123,17 @@
     "titleId": "PPSA21187_00",
     "conceptId": 10010126,
     "name": "Jigsaw Tetra",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5475-PPSA21187_00-JIGSAWTETRAPS5JP",
+    "region": "JP",
+    "publisherId": "JP5475"
   },
   {
     "titleId": "PPSA21188_00",
     "conceptId": 10010126,
     "name": "Jigsaw Tetra",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5538-PPSA21188_00-JIGSAWTETRAPS5AS",
+    "region": "HP",
+    "publisherId": "HP5538"
   },
   {
     "titleId": "PPSA21193_00",
@@ -80174,6 +80318,14 @@
     "contentId": "EP3495-PPSA21402_00-0421077938281357",
     "region": "EP",
     "publisherId": "EP3495"
+  },
+  {
+    "titleId": "PPSA21403_00",
+    "conceptId": 10010335,
+    "name": "7 Days Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21406_00",
