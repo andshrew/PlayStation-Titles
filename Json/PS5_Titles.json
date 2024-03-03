@@ -38984,6 +38984,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA09089_00",
+    "conceptId": 10005702,
+    "name": "Lunar Lander Beyond",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09091_00",
     "conceptId": 10004532,
     "name": "Fairy Fencer F: Refrain Chord",
@@ -43030,6 +43038,14 @@
     "contentId": "HP8005-PPSA09785_00-0847606664791753",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA09787_00",
+    "conceptId": 228726,
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30d5\u30a1\u30a4\u30bf\u30fc\u30ba",
+    "contentId": "JP0700-PPSA09787_00-DBPROJECTZGOKU18",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA09788_00",
@@ -52555,9 +52571,9 @@
     "titleId": "PPSA11472_00",
     "conceptId": 10006588,
     "name": "Shooting Blocks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA11472_00-0520402540418705",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA11473_00",
@@ -56920,6 +56936,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA13721_00",
+    "conceptId": 10007315,
+    "name": "Hotel Renovator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13722_00",
     "conceptId": 10007316,
     "name": "Classified: France '44",
@@ -57654,6 +57678,14 @@
     "contentId": "HP6073-PPSA13860_00-WONDERBOYPS5ASIA",
     "region": "HP",
     "publisherId": "HP6073"
+  },
+  {
+    "titleId": "PPSA13861_00",
+    "conceptId": 10007384,
+    "name": "OVRDARK: a Do Not Open story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13862_00",
@@ -64342,6 +64374,14 @@
     "contentId": "HP1014-PPSA15886_00-HMLETTER0PS5ASIA",
     "region": "HP",
     "publisherId": "HP1014"
+  },
+  {
+    "titleId": "PPSA15887_00",
+    "conceptId": 10008165,
+    "name": "\u56db\u89d2\u3044\u5730\u7403\u306b\u518d\u3073\u30b7\u30ab\u30af\u73fe\u308b!? \u30c7\u30b8\u30dc\u30af\u5730\u7403\u9632\u885b\u8ecd2 EARTH DEFENSE FORCE: WORLD BROTHERS",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0367"
   },
   {
     "titleId": "PPSA15888_00",
@@ -80011,9 +80051,9 @@
     "titleId": "PPSA21031_00",
     "conceptId": 10010126,
     "name": "Jigsaw Tetra",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5823-PPSA21031_00-JIGSAWTETRAPS5EU",
+    "region": "EP",
+    "publisherId": "EP5823"
   },
   {
     "titleId": "PPSA21051_00",
@@ -80075,9 +80115,9 @@
     "titleId": "PPSA21099_00",
     "conceptId": 10010126,
     "name": "Jigsaw Tetra",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5641-PPSA21099_00-JIGSAWTETRAPS5US",
+    "region": "UP",
+    "publisherId": "UP5641"
   },
   {
     "titleId": "PPSA21149_00",
@@ -80134,6 +80174,38 @@
     "contentId": "HP5538-PPSA21188_00-JIGSAWTETRAPS5AS",
     "region": "HP",
     "publisherId": "HP5538"
+  },
+  {
+    "titleId": "PPSA21189_00",
+    "conceptId": 10004904,
+    "name": "Bunny Reversi",
+    "contentId": "EP6694-PPSA21189_00-BUNNYREVERSPS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
+  },
+  {
+    "titleId": "PPSA21190_00",
+    "conceptId": 10004904,
+    "name": "Bunny Reversi",
+    "contentId": "UP6695-PPSA21190_00-BUNNYREVERSPS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
+  },
+  {
+    "titleId": "PPSA21191_00",
+    "conceptId": 10004904,
+    "name": "Bunny Reversi",
+    "contentId": "JP6627-PPSA21191_00-BUNNYREVERSPS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
+  },
+  {
+    "titleId": "PPSA21192_00",
+    "conceptId": 10004904,
+    "name": "Bunny Reversi",
+    "contentId": "HP6691-PPSA21192_00-BUNNYREVERSPS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA21193_00",
@@ -80328,6 +80400,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21404_00",
+    "conceptId": 10010335,
+    "name": "7 Days Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21406_00",
     "conceptId": 10006894,
     "name": "ArcRunner",
@@ -80379,6 +80459,30 @@
     "titleId": "PPSA21627_00",
     "conceptId": 10010435,
     "name": "In Celebration of Violence",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21634_00",
+    "conceptId": 10010438,
+    "name": "Good Guys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21636_00",
+    "conceptId": 10010438,
+    "name": "Good Guys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21637_00",
+    "conceptId": 10010438,
+    "name": "Good Guys",
     "contentId": null,
     "region": null,
     "publisherId": null
