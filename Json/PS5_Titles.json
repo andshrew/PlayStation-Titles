@@ -71008,6 +71008,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA17582_00",
+    "conceptId": 10007921,
+    "name": "Forest Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17588_00",
     "conceptId": 10008857,
     "name": "GUNVOLT RECORDS \u96fb\u5b50\u8ecc\u9332\u5f8b\uff08\u30b5\u30a4\u30af\u30ed\u30cb\u30af\u30eb\uff09",
@@ -71334,6 +71342,14 @@
     "contentId": "EP6718-PPSA17667_00-0946294498465375",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA17670_00",
+    "conceptId": 10008884,
+    "name": "Sea of Thieves",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17671_00",
@@ -76240,6 +76256,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19268_00",
+    "conceptId": 10009462,
+    "name": "Juicy Realm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19269_00",
     "conceptId": 10009383,
     "name": "The Perplexing Orb: Bounce N' Roll",
@@ -78416,6 +78440,22 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA20089_00",
+    "conceptId": 10009778,
+    "name": "Melatonin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20090_00",
+    "conceptId": 10009778,
+    "name": "Melatonin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20102_00",
     "conceptId": 10009784,
     "name": "Astro Rangers",
@@ -78984,6 +79024,38 @@
     "publisherId": "JP8438"
   },
   {
+    "titleId": "PPSA20302_00",
+    "conceptId": 10008839,
+    "name": "REVEIL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20303_00",
+    "conceptId": 10008839,
+    "name": "REVEIL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20304_00",
+    "conceptId": 10008839,
+    "name": "REVEIL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20305_00",
+    "conceptId": 10008839,
+    "name": "REVEIL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20316_00",
     "conceptId": 10009882,
     "name": "Hearts",
@@ -79270,6 +79342,14 @@
     "contentId": "EP2005-PPSA20431_00-ANOTHERWORLDMAHJ",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA20434_00",
+    "conceptId": 10005307,
+    "name": "Sker Ritual",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP4459"
   },
   {
     "titleId": "PPSA20439_00",
@@ -79872,6 +79952,54 @@
     "publisherId": "EB0720"
   },
   {
+    "titleId": "PPSA20751_00",
+    "conceptId": 10005672,
+    "name": "Crown Wars: The Black Prince",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20752_00",
+    "conceptId": 10005672,
+    "name": "Crown Wars: The Black Prince",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20753_00",
+    "conceptId": 10005672,
+    "name": "Crown Wars: The Black Prince",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20754_00",
+    "conceptId": 10005672,
+    "name": "Crown Wars: The Black Prince",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20755_00",
+    "conceptId": 10005672,
+    "name": "Crown Wars: The Black Prince",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20756_00",
+    "conceptId": 10005672,
+    "name": "Crown Wars: The Black Prince",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20780_00",
     "conceptId": 10006295,
     "name": "Demo - The Inquisitor",
@@ -80192,12 +80320,20 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA21092_00",
+    "conceptId": 10010218,
+    "name": "Drunken Superhero",
+    "contentId": "UP5869-PPSA21092_00-0397420605785526",
+    "region": "UP",
+    "publisherId": "UP5869"
+  },
+  {
     "titleId": "PPSA21093_00",
     "conceptId": 10010218,
-    "name": "DRUNKEN SUPERHERO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Drunken Superhero",
+    "contentId": "EP8062-PPSA21093_00-0619481605021009",
+    "region": "EP",
+    "publisherId": "EP8062"
   },
   {
     "titleId": "PPSA21099_00",
@@ -80614,5 +80750,13 @@
     "contentId": "HP4019-PPSA21663_00-0955588384263003",
     "region": "HP",
     "publisherId": "HP4019"
+  },
+  {
+    "titleId": "PPSA22022_00",
+    "conceptId": 10010592,
+    "name": "Spin the Lighthouse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
