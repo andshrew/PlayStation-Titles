@@ -36531,7 +36531,7 @@
     "titleId": "PPSA08664_00",
     "conceptId": 10003999,
     "name": "FINAL FANTASY VII REBIRTH",
-    "contentId": null,
+    "contentId": "JP0082-PPSA08664_00-GLOBAL0000000000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -72179,9 +72179,17 @@
     "titleId": "PPSA17948_00",
     "conceptId": 10008997,
     "name": "Plumbers Don't Wear Ties: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6893-PPSA17948_00-0543282478326414",
+    "region": "UP",
+    "publisherId": "UP6893"
+  },
+  {
+    "titleId": "PPSA17949_00",
+    "conceptId": 10008997,
+    "name": "Plumbers Don't Wear Ties: Definitive Edition",
+    "contentId": "EP6890-PPSA17949_00-0627234715882867",
+    "region": "EP",
+    "publisherId": "EP6890"
   },
   {
     "titleId": "PPSA17954_00",
@@ -76059,7 +76067,7 @@
     "titleId": "PPSA19187_00",
     "conceptId": 10001988,
     "name": "The Outlast Trials",
-    "contentId": null,
+    "contentId": "HP2113-PPSA19187_00-0792718717330125",
     "region": "HP",
     "publisherId": "HP2113"
   },
@@ -76259,9 +76267,9 @@
     "titleId": "PPSA19268_00",
     "conceptId": 10009462,
     "name": "Juicy Realm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA19268_00-0398696143676238",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA19269_00",
@@ -76672,6 +76680,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19397_00",
+    "conceptId": 10009515,
+    "name": "Cat and Ghostly Road",
+    "contentId": "HP1792-PPSA19397_00-SYPS5CATANDGHOST",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA19401_00",
     "conceptId": 10009527,
     "name": "\u5203\u795e\u306e\u30a2\u30de\u30c6\u30e9\u30b9",
@@ -76947,9 +76963,9 @@
     "titleId": "PPSA19489_00",
     "conceptId": 10009555,
     "name": "10 Seconds to Win!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA19489_00-10SECONDSTOWIN00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA19490_00",
@@ -80753,6 +80769,14 @@
   },
   {
     "titleId": "PPSA22022_00",
+    "conceptId": 10010592,
+    "name": "Spin the Lighthouse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22023_00",
     "conceptId": 10010592,
     "name": "Spin the Lighthouse",
     "contentId": null,
