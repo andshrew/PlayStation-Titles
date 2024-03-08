@@ -17416,6 +17416,14 @@
     "publisherId": "JP3974"
   },
   {
+    "titleId": "PPSA05015_00",
+    "conceptId": 10000886,
+    "name": "Horizon Forbidden West",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05016_00",
     "conceptId": 10003159,
     "name": "Treasures of the Aegean",
@@ -36539,7 +36547,7 @@
     "titleId": "PPSA08666_00",
     "conceptId": 10003999,
     "name": "FINAL FANTASY VII REBIRTH",
-    "contentId": null,
+    "contentId": "UP0082-PPSA08666_00-NORTHAMERICA0000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -36547,15 +36555,15 @@
     "titleId": "PPSA08668_00",
     "conceptId": 10003999,
     "name": "FINAL FANTASY VII REBIRTH",
-    "contentId": null,
+    "contentId": "EP0082-PPSA08668_00-EUROPE0000000000",
     "region": "EP",
     "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA08670_00",
     "conceptId": 10003999,
-    "name": "FINAL FANTASY VII REBIRTH (TC/SC/KR ver)",
-    "contentId": null,
+    "name": "FINAL FANTASY VII REBIRTH",
+    "contentId": "HP0082-PPSA08670_00-ASIA000000000000",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -50731,9 +50739,9 @@
     "titleId": "PPSA11115_00",
     "conceptId": 10006478,
     "name": "Bang-On Balls: Chronicles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6963-PPSA11115_00-XXXXXXXXXXXBOBUS",
+    "region": "UP",
+    "publisherId": "UP6963"
   },
   {
     "titleId": "PPSA11116_00",
@@ -56987,7 +56995,7 @@
     "titleId": "PPSA13723_00",
     "conceptId": 10007316,
     "name": "Classified: France '44",
-    "contentId": null,
+    "contentId": "UP4064-PPSA13723_00-0232899021037973",
     "region": "UP",
     "publisherId": "UP4064"
   },
@@ -59498,8 +59506,8 @@
   {
     "titleId": "PPSA14176_00",
     "conceptId": 10007412,
-    "name": "Taxi Life - Standard Edition (Pre-order)",
-    "contentId": null,
+    "name": "Taxi Life: A City Driving Simulator",
+    "contentId": "UP6665-PPSA14176_00-TLCDS00000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -63966,6 +63974,14 @@
     "contentId": "EP8070-PPSA15767_00-0812240768159230",
     "region": "EP",
     "publisherId": "EP8070"
+  },
+  {
+    "titleId": "PPSA15774_00",
+    "conceptId": 10007950,
+    "name": "Ubisoft+ Classics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15782_00",
@@ -69176,6 +69192,14 @@
     "publisherId": "UP3535"
   },
   {
+    "titleId": "PPSA17021_00",
+    "conceptId": 10008377,
+    "name": "Freedom Planet 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17037_00",
     "conceptId": 234583,
     "name": "AeternoBlade II: Infinity",
@@ -70546,8 +70570,8 @@
   {
     "titleId": "PPSA17423_00",
     "conceptId": 10008790,
-    "name": "Expeditions: A MudRunner Game (PS4 & PS5)",
-    "contentId": null,
+    "name": "Expeditions: A Mudrunner Game",
+    "contentId": "UP4133-PPSA17423_00-SNOWRUNNEREXPEDI",
     "region": "UP",
     "publisherId": "UP4133"
   },
@@ -71544,6 +71568,14 @@
     "publisherId": "UP1309"
   },
   {
+    "titleId": "PPSA17744_00",
+    "conceptId": 10008805,
+    "name": "Solasta",
+    "contentId": "EP5789-PPSA17744_00-SOLASTACROWNOFTM",
+    "region": "EP",
+    "publisherId": "EP5789"
+  },
+  {
     "titleId": "PPSA17745_00",
     "conceptId": 10008805,
     "name": "Solasta",
@@ -71886,6 +71918,14 @@
     "contentId": "EP2363-PPSA17833_00-EU0ISEKAIR000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA17838_00",
+    "conceptId": 10008940,
+    "name": "Ib",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17847_00",
@@ -73467,7 +73507,7 @@
     "titleId": "PPSA18293_00",
     "conceptId": 10009061,
     "name": "ABRISS - build to destroy",
-    "contentId": null,
+    "contentId": "UP2565-PPSA18293_00-ZZZZZZZZZZZZZZZZ",
     "region": "UP",
     "publisherId": "UP2565"
   },
@@ -76272,6 +76312,14 @@
     "publisherId": "UP2006"
   },
   {
+    "titleId": "PPSA19246_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19250_00",
     "conceptId": 10009114,
     "name": "Vetrix Worlds",
@@ -76291,6 +76339,14 @@
     "titleId": "PPSA19252_00",
     "conceptId": 10009114,
     "name": "Vetrix Worlds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19253_00",
+    "conceptId": 10009430,
+    "name": "cyubeVR",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -76688,12 +76744,20 @@
     "publisherId": "HP5911"
   },
   {
-    "titleId": "PPSA19389_00",
-    "conceptId": 10002780,
-    "name": "Unicorn Overlord",
+    "titleId": "PPSA19383_00",
+    "conceptId": 10009509,
+    "name": "Metro Awakening",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA19389_00",
+    "conceptId": 10002780,
+    "name": "16-bit\u98a8\u683c\u6df7\u97f3\u5c08\u8f2f & \u6578\u4f4d\u30fb\u7f8e\u8853\u66f8",
+    "contentId": "HP0177-PPSA19389_00-UOSOUNDARTBOOK00",
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA19390_00",
@@ -76771,6 +76835,22 @@
     "titleId": "PPSA19403_00",
     "conceptId": 10007409,
     "name": "Koi-Koi : Love Blossoms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19404_00",
+    "conceptId": 10006448,
+    "name": "Metaball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19405_00",
+    "conceptId": 10006448,
+    "name": "Metaball",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -76878,6 +76958,14 @@
     "contentId": "EP2363-PPSA19432_00-EU0GENSOC0000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA19434_00",
+    "conceptId": 10004518,
+    "name": "SWORD ART ONLINE Fractured Daydream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19435_00",
@@ -77275,9 +77363,9 @@
     "titleId": "PPSA19571_00",
     "conceptId": 10009585,
     "name": "Xatrom Command",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19571_00-XATROMCOMMAND0RG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA19572_00",
@@ -78491,9 +78579,9 @@
     "titleId": "PPSA20054_00",
     "conceptId": 10009754,
     "name": "Top Racer Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA20054_00-TOPRACER000PS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA20055_00",
@@ -79146,10 +79234,10 @@
   {
     "titleId": "PPSA20303_00",
     "conceptId": 10008839,
-    "name": "REVEIL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "REVEIL Soundtrack",
+    "contentId": "UP1440-PPSA20303_00-REVEILSOUNDNAPS5",
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA20304_00",
@@ -79366,6 +79454,14 @@
     "contentId": "EP3111-PPSA20379_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA20388_00",
+    "conceptId": 10009304,
+    "name": "\u5c01\u9b54\u6226\u8a18\u30a8\u30eb\u30c9\u30ae\u30a2",
+    "contentId": "JP0013-PPSA20388_00-JP0ELDGEAR000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA20389_00",
@@ -79776,6 +79872,14 @@
     "publisherId": "EP7550"
   },
   {
+    "titleId": "PPSA20540_00",
+    "conceptId": 10009304,
+    "name": "Eldgear",
+    "contentId": "EP2363-PPSA20540_00-EU0ELDGEAR000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA20543_00",
     "conceptId": 228726,
     "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30d5\u30a1\u30a4\u30bf\u30fc\u30ba",
@@ -79915,17 +80019,17 @@
     "titleId": "PPSA20583_00",
     "conceptId": 10010003,
     "name": "Dreamland Solitaire: Dragon's Fury",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA20583_00-SOLITAIRE0200AS5",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA20584_00",
     "conceptId": 10010003,
     "name": "Dreamland Solitaire: Dragon's Fury",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7843-PPSA20584_00-SOLITAIRE0200JP5",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA20591_00",
@@ -80614,6 +80718,14 @@
     "contentId": "HP5538-PPSA21223_00-SANTASPEEDYPS5AS",
     "region": "HP",
     "publisherId": "HP5538"
+  },
+  {
+    "titleId": "PPSA21250_00",
+    "conceptId": 10010259,
+    "name": "Mecha Party",
+    "contentId": "UB0536-PPSA21250_00-0095687172568461",
+    "region": "UB",
+    "publisherId": "UB0536"
   },
   {
     "titleId": "PPSA21270_00",
