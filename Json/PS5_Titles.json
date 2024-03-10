@@ -9475,9 +9475,9 @@
     "titleId": "PPSA03407_00",
     "conceptId": 10002702,
     "name": "Hex Gambit: Respawned",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5552-PPSA03407_00-HEXGAMBITRE10000",
+    "region": "UP",
+    "publisherId": "UP5552"
   },
   {
     "titleId": "PPSA03408_00",
@@ -59514,8 +59514,8 @@
   {
     "titleId": "PPSA14175_00",
     "conceptId": 10007412,
-    "name": "Taxi Life - Standard Edition (Pre-order)",
-    "contentId": null,
+    "name": "Taxi Life: A City Driving Simulator",
+    "contentId": "EP6665-PPSA14175_00-TLCDS00000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -64008,7 +64008,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15773_00",
+    "conceptId": 10007950,
+    "name": "Ubisoft+ Classics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15774_00",
+    "conceptId": 10007950,
+    "name": "Ubisoft+ Classics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15775_00",
     "conceptId": 10007950,
     "name": "Ubisoft+ Classics",
     "contentId": null,
@@ -73251,17 +73267,17 @@
     "titleId": "PPSA18201_00",
     "conceptId": 10009077,
     "name": "Stilt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5099-PPSA18201_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP5099"
   },
   {
     "titleId": "PPSA18202_00",
     "conceptId": 10009077,
     "name": "Stilt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5279-PPSA18202_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP5279"
   },
   {
     "titleId": "PPSA18210_00",
@@ -74073,6 +74089,14 @@
   },
   {
     "titleId": "PPSA18486_00",
+    "conceptId": 10006891,
+    "name": "Stellar Blade\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18487_00",
     "conceptId": 10006891,
     "name": "Stellar Blade\u2122",
     "contentId": null,
@@ -80664,6 +80688,22 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA21082_00",
+    "conceptId": 10009763,
+    "name": "Zenless Zone Zero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21083_00",
+    "conceptId": 10009763,
+    "name": "Zenless Zone Zero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21092_00",
     "conceptId": 10010218,
     "name": "Drunken Superhero",
@@ -80862,6 +80902,14 @@
     "contentId": "UP4312-PPSA21271_00-0150650795859975",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA21272_00",
+    "conceptId": 10010268,
+    "name": "Bpop",
+    "contentId": "JP0089-PPSA21272_00-0609182649424833",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA21280_00",
