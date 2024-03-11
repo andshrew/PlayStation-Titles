@@ -25656,6 +25656,14 @@
     "publisherId": "EP1063"
   },
   {
+    "titleId": "PPSA06610_00",
+    "conceptId": 10001497,
+    "name": "Princess Farmer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06612_00",
     "conceptId": 10004547,
     "name": "Spidersaurs",
@@ -43618,8 +43626,8 @@
   {
     "titleId": "PPSA09894_00",
     "conceptId": 10002780,
-    "name": "Unicorn Overlord",
-    "contentId": null,
+    "name": "\u8056\u7378\u4e4b\u738b",
+    "contentId": "HP0177-PPSA09894_00-UNICORNOVERLORD0",
     "region": "HP",
     "publisherId": "HP0177"
   },
@@ -66338,8 +66346,8 @@
   {
     "titleId": "PPSA16306_00",
     "conceptId": 10007978,
-    "name": "WWE 2K24 Cross-Gen Digital Edition",
-    "contentId": null,
+    "name": "WWE 2K24",
+    "contentId": "UP1001-PPSA16306_00-000000000WWE2K24",
     "region": "UP",
     "publisherId": "UP1001"
   },
@@ -71470,6 +71478,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP6311"
+  },
+  {
+    "titleId": "PPSA17669_00",
+    "conceptId": 10008884,
+    "name": "Sea of Thieves",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA17670_00",
@@ -78736,6 +78752,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA20059_00",
+    "conceptId": 10009769,
+    "name": "Table Letters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20060_00",
+    "conceptId": 10009769,
+    "name": "Table Letters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20061_00",
     "conceptId": 10003151,
     "name": "EA SPORTS\u2122 College Football 25",
@@ -79046,6 +79078,22 @@
     "contentId": "JP0714-PPSA20196_00-0915034502514739",
     "region": "JP",
     "publisherId": "JP0714"
+  },
+  {
+    "titleId": "PPSA20201_00",
+    "conceptId": 10009821,
+    "name": "Flower Shop: Winter In Fairbrook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20202_00",
+    "conceptId": 10009821,
+    "name": "Flower Shop: Winter In Fairbrook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20209_00",
@@ -81155,24 +81203,24 @@
     "titleId": "PPSA21956_00",
     "conceptId": 10010569,
     "name": "Cazzarion: Astro Bouncer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA21956_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22022_00",
     "conceptId": 10010592,
     "name": "Spin the Lighthouse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA22022_00-SPINTHELIGHTHOUS",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA22023_00",
     "conceptId": 10010592,
     "name": "Spin the Lighthouse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0599-PPSA22023_00-SPINTHELIGHTHOUS",
+    "region": "UB",
+    "publisherId": "UB0599"
   }
 ]
