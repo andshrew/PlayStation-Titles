@@ -9483,9 +9483,9 @@
     "titleId": "PPSA03408_00",
     "conceptId": 10002702,
     "name": "Hex Gambit: Respawned",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5733-PPSA03408_00-HEXGAMBITRE10000",
+    "region": "EP",
+    "publisherId": "EP5733"
   },
   {
     "titleId": "PPSA03409_00",
@@ -33952,6 +33952,14 @@
     "publisherId": "EP1006"
   },
   {
+    "titleId": "PPSA08205_00",
+    "conceptId": 10005307,
+    "name": "Sker Ritual",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4459"
+  },
+  {
     "titleId": "PPSA08206_00",
     "conceptId": 10005309,
     "name": "Moving Out 2",
@@ -39001,6 +39009,14 @@
   },
   {
     "titleId": "PPSA09089_00",
+    "conceptId": 10005702,
+    "name": "Lunar Lander Beyond",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09090_00",
     "conceptId": 10005702,
     "name": "Lunar Lander Beyond",
     "contentId": null,
@@ -76416,6 +76432,14 @@
     "publisherId": "UP2006"
   },
   {
+    "titleId": "PPSA19245_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19246_00",
     "conceptId": 10003386,
     "name": "Rise of the Ronin\u2122",
@@ -80344,6 +80368,22 @@
     "publisherId": "UP1643"
   },
   {
+    "titleId": "PPSA20743_00",
+    "conceptId": 10010073,
+    "name": "The Street 10",
+    "contentId": "UP5682-PPSA20743_00-0671602636919797",
+    "region": "UP",
+    "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA20744_00",
+    "conceptId": 10010073,
+    "name": "The Street 10",
+    "contentId": "EP5864-PPSA20744_00-0763644951859737",
+    "region": "EP",
+    "publisherId": "EP5864"
+  },
+  {
     "titleId": "PPSA20747_00",
     "conceptId": 10010015,
     "name": "Beneath the earth - Backrooms",
@@ -80536,12 +80576,28 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA20873_00",
+    "conceptId": 10007222,
+    "name": "Turbo Golf Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20883_00",
     "conceptId": 10010091,
     "name": "\u3078\u3079\u308c\u30512",
     "contentId": "JP0202-PPSA20883_00-0582747649236338",
     "region": "JP",
     "publisherId": "JP0202"
+  },
+  {
+    "titleId": "PPSA20888_00",
+    "conceptId": 10008874,
+    "name": "F1\u00ae 24",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20890_00",
@@ -81200,6 +81256,38 @@
     "publisherId": "HP4019"
   },
   {
+    "titleId": "PPSA21665_00",
+    "conceptId": 10010415,
+    "name": "Instant Death",
+    "contentId": "EP5864-PPSA21665_00-0999797402801108",
+    "region": "EP",
+    "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA21666_00",
+    "conceptId": 10010415,
+    "name": "Instant Death",
+    "contentId": "UP5682-PPSA21666_00-0424309777739563",
+    "region": "UP",
+    "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA21798_00",
+    "conceptId": 10010425,
+    "name": "Suika Watermelon Fruits",
+    "contentId": "EP5864-PPSA21798_00-0650218531199692",
+    "region": "EP",
+    "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA21955_00",
+    "conceptId": 10010569,
+    "name": "Cazzarion: Astro Bouncer",
+    "contentId": "UB0438-PPSA21955_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA21956_00",
     "conceptId": 10010569,
     "name": "Cazzarion: Astro Bouncer",
@@ -81222,5 +81310,13 @@
     "contentId": "UB0599-PPSA22023_00-SPINTHELIGHTHOUS",
     "region": "UB",
     "publisherId": "UB0599"
+  },
+  {
+    "titleId": "PPSA22029_00",
+    "conceptId": 10010425,
+    "name": "Suika Watermelon Fruits",
+    "contentId": "UP5682-PPSA22029_00-0719190675745713",
+    "region": "UP",
+    "publisherId": "UP5682"
   }
 ]
