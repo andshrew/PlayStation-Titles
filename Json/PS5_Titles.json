@@ -12635,9 +12635,9 @@
     "titleId": "PPSA04045_00",
     "conceptId": 10003089,
     "name": "DateJournal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA04045_00-SYPS5DATEJOURNAL",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA04046_00",
@@ -18218,8 +18218,8 @@
   {
     "titleId": "PPSA05195_00",
     "conceptId": 10002780,
-    "name": "\u30e6\u30cb\u30b3\u30fc\u30f3\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9 PS4&PS5",
-    "contentId": null,
+    "name": "\u30e6\u30cb\u30b3\u30fc\u30f3\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9",
+    "contentId": "JP0005-PPSA05195_00-UNICORNOVERLORD0",
     "region": "JP",
     "publisherId": "JP0005"
   },
@@ -57011,9 +57011,9 @@
     "titleId": "PPSA13720_00",
     "conceptId": 10007315,
     "name": "Hotel Renovator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4133-PPSA13720_00-HOTELRENOVATOR00",
+    "region": "EP",
+    "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA13721_00",
@@ -69952,6 +69952,14 @@
     "publisherId": "EP2134"
   },
   {
+    "titleId": "PPSA17209_00",
+    "conceptId": 10008701,
+    "name": "Terra Memoria",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17212_00",
     "conceptId": 10008702,
     "name": "Evil Nun: The Broken Mask",
@@ -74563,17 +74571,17 @@
     "titleId": "PPSA18626_00",
     "conceptId": 10009252,
     "name": "Little Cities: Bigger!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4114-PPSA18626_00-LITTLECITIESVREU",
+    "region": "EP",
+    "publisherId": "EP4114"
   },
   {
     "titleId": "PPSA18627_00",
     "conceptId": 10009252,
     "name": "Little Cities: Bigger!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2985-PPSA18627_00-LITTLECITIESVRUS",
+    "region": "UP",
+    "publisherId": "UP2985"
   },
   {
     "titleId": "PPSA18628_00",
@@ -78120,6 +78128,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19816_00",
+    "conceptId": 10009462,
+    "name": "Juicy Realm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19822_00",
     "conceptId": 10004920,
     "name": "Fate/Samurai Remnant DEMO",
@@ -78154,18 +78170,18 @@
   {
     "titleId": "PPSA19826_00",
     "conceptId": 10009679,
-    "name": "Violet Wisteria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30f4\u30a1\u30a4\u30aa\u30ec\u30c3\u30c8\u30d5\u30b8\u5b50",
+    "contentId": "UP2005-PPSA19826_00-VIOLETWISTERIA00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA19827_00",
     "conceptId": 10009679,
     "name": "Violet Wisteria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA19827_00-VIOLETWISTERIA00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA19835_00",
@@ -78827,17 +78843,17 @@
     "titleId": "PPSA20089_00",
     "conceptId": 10009778,
     "name": "Melatonin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0182-PPSA20089_00-0570941484648472",
+    "region": "UB",
+    "publisherId": "UB0182"
   },
   {
     "titleId": "PPSA20090_00",
     "conceptId": 10009778,
     "name": "Melatonin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0372-PPSA20090_00-0982599826687360",
+    "region": "EB",
+    "publisherId": "EB0372"
   },
   {
     "titleId": "PPSA20102_00",
@@ -79646,6 +79662,14 @@
     "contentId": "EP2363-PPSA20367_00-EU0KGRAYFANG0PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA20368_00",
+    "conceptId": 10007222,
+    "name": "Turbo Golf Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20378_00",
@@ -81072,6 +81096,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA21329_00",
+    "conceptId": 10010303,
+    "name": "Ball Destiny",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21397_00",
     "conceptId": 10010332,
     "name": "Tank Frenzy",
@@ -81166,6 +81198,38 @@
     "contentId": "UP6718-PPSA21426_00-0659370178468908",
     "region": "UP",
     "publisherId": "UP6718"
+  },
+  {
+    "titleId": "PPSA21542_00",
+    "conceptId": 10009214,
+    "name": "Potato Sack Racing Simulator 2024 Demo",
+    "contentId": "UP7605-PPSA21542_00-0153479384399364",
+    "region": "UP",
+    "publisherId": "UP7605"
+  },
+  {
+    "titleId": "PPSA21543_00",
+    "conceptId": 10009214,
+    "name": "Potato Sack Racing Simulator 2024 Demo",
+    "contentId": "EP7603-PPSA21543_00-0300198032596369",
+    "region": "EP",
+    "publisherId": "EP7603"
+  },
+  {
+    "titleId": "PPSA21544_00",
+    "conceptId": 10009214,
+    "name": "Potato Sack Racing Simulator 2024 Demo",
+    "contentId": "JP7586-PPSA21544_00-0837182853420398",
+    "region": "JP",
+    "publisherId": "JP7586"
+  },
+  {
+    "titleId": "PPSA21545_00",
+    "conceptId": 10009214,
+    "name": "Potato Sack Racing Simulator 2024 Demo",
+    "contentId": "HP7632-PPSA21545_00-0476051648380100",
+    "region": "HP",
+    "publisherId": "HP7632"
   },
   {
     "titleId": "PPSA21609_00",
@@ -81270,6 +81334,22 @@
     "contentId": "UP5682-PPSA21666_00-0424309777739563",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA21735_00",
+    "conceptId": 10004850,
+    "name": "Trinity Fusion Demo",
+    "contentId": "UP2329-PPSA21735_00-TRINITYFDEMOP5US",
+    "region": "UP",
+    "publisherId": "UP2329"
+  },
+  {
+    "titleId": "PPSA21768_00",
+    "conceptId": 10004850,
+    "name": "Trinity Fusion Demo",
+    "contentId": "EP2196-PPSA21768_00-TRINITYFDEMOP5EU",
+    "region": "EP",
+    "publisherId": "EP2196"
   },
   {
     "titleId": "PPSA21798_00",
