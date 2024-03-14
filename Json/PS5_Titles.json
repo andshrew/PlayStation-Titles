@@ -12643,9 +12643,9 @@
     "titleId": "PPSA04046_00",
     "conceptId": 10003089,
     "name": "DateJournal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA04046_00-SYPS5DATEJOURNAL",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA04048_00",
@@ -44627,17 +44627,17 @@
     "titleId": "PPSA10083_00",
     "conceptId": 10006101,
     "name": "Akka Arrh",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0182-PPSA10083_00-AKKAARRHUSLSAT01",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA10084_00",
     "conceptId": 10006101,
     "name": "Akka Arrh",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0182-PPSA10084_00-AKKAARRHEULSAT01",
+    "region": "EP",
+    "publisherId": "EP0182"
   },
   {
     "titleId": "PPSA10087_00",
@@ -62243,17 +62243,17 @@
     "titleId": "PPSA15367_00",
     "conceptId": 10007962,
     "name": "Contra: Operation Galuga",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0101-PPSA15367_00-GALUGA00PS5NA000",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA15368_00",
     "conceptId": 10007962,
     "name": "Contra: Operation Galuga",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0101-PPSA15368_00-GALUGA00PS5EU000",
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA15370_00",
@@ -70704,6 +70704,14 @@
     "publisherId": "UP0287"
   },
   {
+    "titleId": "PPSA17445_00",
+    "conceptId": 10008800,
+    "name": "Fortress S",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17450_00",
     "conceptId": 10008804,
     "name": "CityDriver",
@@ -72232,6 +72240,14 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA17895_00",
+    "conceptId": 10008800,
+    "name": "Fortress S",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17896_00",
     "conceptId": 10008975,
     "name": "Dungeonoid 2 Awakening",
@@ -73194,10 +73210,10 @@
   {
     "titleId": "PPSA18158_00",
     "conceptId": 10008403,
-    "name": "Llamasoft: The Jeff Minter Story PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Llamasoft: The Jeff Minter Story",
+    "contentId": "EP7816-PPSA18158_00-LLAMASOFTJMINTER",
+    "region": "EP",
+    "publisherId": "EP7816"
   },
   {
     "titleId": "PPSA18162_00",
@@ -74074,10 +74090,10 @@
   {
     "titleId": "PPSA18453_00",
     "conceptId": 10008712,
-    "name": "Dungeon Drafters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c0\u30f3\u30b8\u30e7\u30f3\u30c9\u30e9\u30d5\u30bf\u30fc\u30ba",
+    "contentId": "UP4127-PPSA18453_00-DDRAFTERSUS00000",
+    "region": "UP",
+    "publisherId": "UP4127"
   },
   {
     "titleId": "PPSA18454_00",
@@ -75256,6 +75272,14 @@
     "publisherId": "UB0085"
   },
   {
+    "titleId": "PPSA18838_00",
+    "conceptId": 10009309,
+    "name": "Total Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18839_00",
     "conceptId": 10009309,
     "name": "Total Trails",
@@ -76062,6 +76086,14 @@
     "contentId": "HP8385-PPSA19112_00-0806583507111154",
     "region": "HP",
     "publisherId": "HP8385"
+  },
+  {
+    "titleId": "PPSA19115_00",
+    "conceptId": 10009413,
+    "name": "DAVE THE DIVER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19120_00",
@@ -77568,6 +77600,14 @@
     "publisherId": "EP6136"
   },
   {
+    "titleId": "PPSA19598_00",
+    "conceptId": 232290,
+    "name": "Bibi & Tina \u2013 Adventures with Horses",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19605_00",
     "conceptId": 10009517,
     "name": "Final Shot",
@@ -79064,6 +79104,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA20145_00",
+    "conceptId": 10009800,
+    "name": "Saviorless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20167_00",
     "conceptId": 10008910,
     "name": "\u5e7b\u65e5\u306e\u30e8\u30cf\u30cd - NUMAZU in the MIRAGE - \u4f53\u9a13\u7248",
@@ -79498,10 +79546,10 @@
   {
     "titleId": "PPSA20331_00",
     "conceptId": 10007629,
-    "name": "UFO ROBOT GRENDIZER \u2013 The Feast of the Wolves",
+    "name": "UFO\u30ed\u30dc \u30b0\u30ec\u30f3\u30c0\u30a4\u30b6\u30fc\uff1a\u305f\u3068\u3048\u6211\u304c\u547d\u3064\u304d\u308b\u3068\u3082",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP4236"
   },
   {
     "titleId": "PPSA20338_00",
@@ -80552,6 +80600,14 @@
     "publisherId": "EP8598"
   },
   {
+    "titleId": "PPSA20829_00",
+    "conceptId": 10009426,
+    "name": "Winning Post 10 2024 \u4f53\u9a13\u7248",
+    "contentId": "JP0106-PPSA20829_00-WP102024DEMO0000",
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
     "titleId": "PPSA20830_00",
     "conceptId": 10005248,
     "name": "GUNDAM BREAKER 4",
@@ -80734,6 +80790,22 @@
     "contentId": "HP6661-PPSA20990_00-0003062251999696",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA21016_00",
+    "conceptId": 10007938,
+    "name": "Labyrinth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21017_00",
+    "conceptId": 10007938,
+    "name": "Labyrinth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21026_00",
@@ -81096,12 +81168,36 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA21328_00",
+    "conceptId": 10010303,
+    "name": "Ball Destiny",
+    "contentId": "UP7977-PPSA21328_00-0663171844760454",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
     "titleId": "PPSA21329_00",
     "conceptId": 10010303,
     "name": "Ball Destiny",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7975-PPSA21329_00-0941243819960114",
+    "region": "EP",
+    "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA21330_00",
+    "conceptId": 10010303,
+    "name": "Ball Destiny",
+    "contentId": "JP7958-PPSA21330_00-0359667052366295",
+    "region": "JP",
+    "publisherId": "JP7958"
+  },
+  {
+    "titleId": "PPSA21331_00",
+    "conceptId": 10010303,
+    "name": "Ball Destiny",
+    "contentId": "HP8005-PPSA21331_00-0060698595825828",
+    "region": "HP",
+    "publisherId": "HP8005"
   },
   {
     "titleId": "PPSA21397_00",
@@ -81198,6 +81294,22 @@
     "contentId": "UP6718-PPSA21426_00-0659370178468908",
     "region": "UP",
     "publisherId": "UP6718"
+  },
+  {
+    "titleId": "PPSA21436_00",
+    "conceptId": 10010349,
+    "name": "Just Find It: Collector's Edition",
+    "contentId": "EP1411-PPSA21436_00-0248503285340344",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21437_00",
+    "conceptId": 10010349,
+    "name": "Just Find It: Collector's Edition",
+    "contentId": "UP1421-PPSA21437_00-0777856539654792",
+    "region": "UP",
+    "publisherId": "UP1421"
   },
   {
     "titleId": "PPSA21542_00",
@@ -81299,9 +81411,9 @@
     "titleId": "PPSA21650_00",
     "conceptId": 10010442,
     "name": "Rebel Transmute",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA21650_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA21662_00",
@@ -81350,6 +81462,14 @@
     "contentId": "EP2196-PPSA21768_00-TRINITYFDEMOP5EU",
     "region": "EP",
     "publisherId": "EP2196"
+  },
+  {
+    "titleId": "PPSA21797_00",
+    "conceptId": 10008759,
+    "name": "Sticks Aim Trainer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21798_00",
