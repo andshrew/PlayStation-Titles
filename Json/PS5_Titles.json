@@ -44464,6 +44464,14 @@
     "publisherId": "UP4133"
   },
   {
+    "titleId": "PPSA10056_00",
+    "conceptId": 10005295,
+    "name": "Broken Roads",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10057_00",
     "conceptId": 204541,
     "name": "TV from Sky",
@@ -57019,9 +57027,9 @@
     "titleId": "PPSA13721_00",
     "conceptId": 10007315,
     "name": "Hotel Renovator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4133-PPSA13721_00-HOTELRENOVATOR00",
+    "region": "UP",
+    "publisherId": "UP4133"
   },
   {
     "titleId": "PPSA13722_00",
@@ -60011,9 +60019,9 @@
     "titleId": "PPSA14282_00",
     "conceptId": 10007580,
     "name": "Highwater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6162-PPSA14282_00-0796569729505678",
+    "region": "EP",
+    "publisherId": "EP6162"
   },
   {
     "titleId": "PPSA14283_00",
@@ -68456,6 +68464,14 @@
     "publisherId": "HP4295"
   },
   {
+    "titleId": "PPSA16800_00",
+    "conceptId": 10005571,
+    "name": "Class of Heroes 2G: Remaster Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16801_00",
     "conceptId": 10003851,
     "name": "Walkabout Mini Golf",
@@ -69953,6 +69969,14 @@
   },
   {
     "titleId": "PPSA17209_00",
+    "conceptId": 10008701,
+    "name": "Terra Memoria",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17210_00",
     "conceptId": 10008701,
     "name": "Terra Memoria",
     "contentId": null,
@@ -72043,17 +72067,17 @@
     "titleId": "PPSA17837_00",
     "conceptId": 10008940,
     "name": "Ib",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0969-PPSA17837_00-0218418806788350",
+    "region": "UP",
+    "publisherId": "UP0969"
   },
   {
     "titleId": "PPSA17838_00",
     "conceptId": 10008940,
     "name": "Ib",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0122-PPSA17838_00-0147635648135484",
+    "region": "EP",
+    "publisherId": "EP0122"
   },
   {
     "titleId": "PPSA17847_00",
@@ -73202,10 +73226,10 @@
   {
     "titleId": "PPSA18156_00",
     "conceptId": 10008403,
-    "name": "Llamasoft: The Jeff Minter Story PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Llamasoft: The Jeff Minter Story",
+    "contentId": "UP7818-PPSA18156_00-LLAMASOFTJMINTER",
+    "region": "UP",
+    "publisherId": "UP7818"
   },
   {
     "titleId": "PPSA18158_00",
@@ -73784,6 +73808,22 @@
     "publisherId": "JP1309"
   },
   {
+    "titleId": "PPSA18354_00",
+    "conceptId": 10009129,
+    "name": "OTXO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18355_00",
+    "conceptId": 10009129,
+    "name": "OTXO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18357_00",
     "conceptId": 10008878,
     "name": "Kitty Krawler",
@@ -74126,6 +74166,14 @@
     "contentId": "UP4425-PPSA18472_00-BROTATOSIEA00000",
     "region": "UP",
     "publisherId": "UP4425"
+  },
+  {
+    "titleId": "PPSA18473_00",
+    "conceptId": 10008759,
+    "name": "Sticks Aim Trainer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18479_00",
@@ -74746,8 +74794,8 @@
   {
     "titleId": "PPSA18673_00",
     "conceptId": 10002862,
-    "name": "Earth Defense Force 6 (PS4 & PS5)",
-    "contentId": null,
+    "name": "Earth Defense Force 6",
+    "contentId": "HP5846-PPSA18673_00-EDF6MASTERPKG000",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -76184,6 +76232,14 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA19137_00",
+    "conceptId": 10009419,
+    "name": "UNABLES",
+    "contentId": "EP3948-PPSA19137_00-0138052956336270",
+    "region": "EP",
+    "publisherId": "EP3948"
+  },
+  {
     "titleId": "PPSA19139_00",
     "conceptId": 10009421,
     "name": "Shines Over: The Damned",
@@ -76481,6 +76537,22 @@
   },
   {
     "titleId": "PPSA19246_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19247_00",
+    "conceptId": 10003386,
+    "name": "Rise of the Ronin\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19248_00",
     "conceptId": 10003386,
     "name": "Rise of the Ronin\u2122",
     "contentId": null,
@@ -77048,6 +77120,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA19412_00",
+    "conceptId": 10000870,
+    "name": "MemoryLane2",
+    "contentId": "UP5877-PPSA19412_00-0342627247578979",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA19414_00",
     "conceptId": 10000320,
     "name": "Hotel R'n'R",
@@ -77600,9 +77680,33 @@
     "publisherId": "EP6136"
   },
   {
+    "titleId": "PPSA19597_00",
+    "conceptId": 232290,
+    "name": "Bibi & Tina \u2013 Adventures with Horses",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19598_00",
     "conceptId": 232290,
     "name": "Bibi & Tina \u2013 Adventures with Horses",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19599_00",
+    "conceptId": 10009598,
+    "name": "3D Arcade Fishing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19600_00",
+    "conceptId": 10009598,
+    "name": "3D Arcade Fishing",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -77786,10 +77890,10 @@
   {
     "titleId": "PPSA19678_00",
     "conceptId": 10007267,
-    "name": "NOOB - The Factionless",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "NOOB - \u30b6 \u30d5\u30a1\u30af\u30b7\u30e7\u30f3\u30ec\u30b9",
+    "contentId": "JP6398-PPSA19678_00-NOOBPS50000000JP",
+    "region": "JP",
+    "publisherId": "JP6398"
   },
   {
     "titleId": "PPSA19681_00",
@@ -78835,22 +78939,38 @@
     "titleId": "PPSA20059_00",
     "conceptId": 10009769,
     "name": "Table Letters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA20059_00-0162867289951592",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA20060_00",
     "conceptId": 10009769,
     "name": "Table Letters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA20060_00-0668382288867214",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA20061_00",
     "conceptId": 10003151,
     "name": "EA SPORTS\u2122 College Football 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20063_00",
+    "conceptId": 232767,
+    "name": "Cook, Serve, Delicious! 2!!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20064_00",
+    "conceptId": 10001180,
+    "name": "Cook, Serve, Delicious! 3?!",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -79105,6 +79225,14 @@
   },
   {
     "titleId": "PPSA20145_00",
+    "conceptId": 10009800,
+    "name": "Saviorless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20146_00",
     "conceptId": 10009800,
     "name": "Saviorless",
     "contentId": null,
@@ -79986,10 +80114,10 @@
   {
     "titleId": "PPSA20472_00",
     "conceptId": 10001938,
-    "name": "Paint the Town Red",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Paint the Town Red VR",
+    "contentId": "EP1763-PPSA20472_00-0510330123945890",
+    "region": "EP",
+    "publisherId": "EP1763"
   },
   {
     "titleId": "PPSA20474_00",
@@ -80051,9 +80179,9 @@
     "titleId": "PPSA20499_00",
     "conceptId": 10009967,
     "name": "Orion Haste",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA20499_00-ORIONHASTERATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA20500_00",
@@ -80424,6 +80552,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA20730_00",
+    "conceptId": 10001203,
+    "name": "MONOCHROME MBOBIUS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20737_00",
     "conceptId": 10008100,
     "name": "Greed: The Mad Scientist",
@@ -80683,9 +80819,9 @@
     "titleId": "PPSA20890_00",
     "conceptId": 10008712,
     "name": "Dungeon Drafters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3919-PPSA20890_00-DDRAFTERSEU00000",
+    "region": "EP",
+    "publisherId": "EP3919"
   },
   {
     "titleId": "PPSA20898_00",
@@ -80963,6 +81099,30 @@
     "titleId": "PPSA21157_00",
     "conceptId": 10010220,
     "name": "SHOWMAX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21176_00",
+    "conceptId": 10010224,
+    "name": "Sherlock Purr 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21177_00",
+    "conceptId": 10010224,
+    "name": "Sherlock Purr 2",
+    "contentId": "JB0322-PPSA21177_00-CMNDOSHERPURR200",
+    "region": "JB",
+    "publisherId": "JB0322"
+  },
+  {
+    "titleId": "PPSA21178_00",
+    "conceptId": 10010224,
+    "name": "Sherlock Purr 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -81312,6 +81472,14 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA21521_00",
+    "conceptId": 10010386,
+    "name": "Hyper Turbo Boost",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21542_00",
     "conceptId": 10009214,
     "name": "Potato Sack Racing Simulator 2024 Demo",
@@ -81344,6 +81512,22 @@
     "publisherId": "HP7632"
   },
   {
+    "titleId": "PPSA21569_00",
+    "conceptId": 10010404,
+    "name": "Tiny Tales: Heart of the Forest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21570_00",
+    "conceptId": 10010404,
+    "name": "Tiny Tales: Heart of the Forest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21609_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -81371,41 +81555,41 @@
     "titleId": "PPSA21634_00",
     "conceptId": 10010438,
     "name": "Good Guys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA21634_00-GOODGUYSGAMPS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA21635_00",
     "conceptId": 10010438,
     "name": "Good Guys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-PPSA21635_00-GOODGUYSGAMPS5NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "PPSA21636_00",
     "conceptId": 10010438,
     "name": "Good Guys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-PPSA21636_00-GOODGUYSGAMPS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA21637_00",
     "conceptId": 10010438,
     "name": "Good Guys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-PPSA21637_00-GOODGUYSGAMPS5AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "PPSA21649_00",
     "conceptId": 10010442,
     "name": "Rebel Transmute",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA21649_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA21650_00",
