@@ -17371,7 +17371,7 @@
     "titleId": "PPSA05003_00",
     "conceptId": 10001988,
     "name": "The Outlast Trials",
-    "contentId": null,
+    "contentId": "UP2113-PPSA05003_00-OUTLASTTRIALS000",
     "region": "UP",
     "publisherId": "UP2113"
   },
@@ -44464,6 +44464,14 @@
     "publisherId": "UP4133"
   },
   {
+    "titleId": "PPSA10055_00",
+    "conceptId": 10005295,
+    "name": "Broken Roads",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10056_00",
     "conceptId": 10005295,
     "name": "Broken Roads",
@@ -59411,9 +59419,9 @@
     "titleId": "PPSA14145_00",
     "conceptId": 10007261,
     "name": "PJ Masks Power Heroes: Mighty Alliance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA14145_00-PJM2BASEGAME0001",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA14146_00",
@@ -60011,9 +60019,9 @@
     "titleId": "PPSA14281_00",
     "conceptId": 10007580,
     "name": "Highwater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6163-PPSA14281_00-0796569729505678",
+    "region": "UP",
+    "publisherId": "UP6163"
   },
   {
     "titleId": "PPSA14282_00",
@@ -60027,17 +60035,17 @@
     "titleId": "PPSA14283_00",
     "conceptId": 10007580,
     "name": "Highwater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6077-PPSA14283_00-0796569729505678",
+    "region": "JP",
+    "publisherId": "JP6077"
   },
   {
     "titleId": "PPSA14284_00",
     "conceptId": 10007580,
     "name": "Highwater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6145-PPSA14284_00-0796569729505678",
+    "region": "HP",
+    "publisherId": "HP6145"
   },
   {
     "titleId": "PPSA14287_00",
@@ -63003,7 +63011,7 @@
     "titleId": "PPSA15513_00",
     "conceptId": 10008032,
     "name": "Cartel Tycoon",
-    "contentId": null,
+    "contentId": "UP0097-PPSA15513_00-0331313377975206",
     "region": "UP",
     "publisherId": "UP0097"
   },
@@ -63011,7 +63019,7 @@
     "titleId": "PPSA15514_00",
     "conceptId": 10008032,
     "name": "Cartel Tycoon",
-    "contentId": null,
+    "contentId": "EP0096-PPSA15514_00-0909546698516476",
     "region": "EP",
     "publisherId": "EP0096"
   },
@@ -68464,6 +68472,22 @@
     "publisherId": "HP4295"
   },
   {
+    "titleId": "PPSA16797_00",
+    "conceptId": 10008370,
+    "name": "Class of Heroes: Anniversary Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16799_00",
+    "conceptId": 10005571,
+    "name": "Class of Heroes 2G: Remaster Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16800_00",
     "conceptId": 10005571,
     "name": "Class of Heroes 2G: Remaster Edition",
@@ -68888,6 +68912,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16910_00",
+    "conceptId": 10008565,
+    "name": "HappyFunland",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16918_00",
     "conceptId": 10008237,
     "name": "Pinball M",
@@ -69002,8 +69034,8 @@
   {
     "titleId": "PPSA16941_00",
     "conceptId": 10008554,
-    "name": "STAR WARS\u2122 Battlefront Classic Collection",
-    "contentId": null,
+    "name": "STAR WARS\u2122: Battlefront Classic Collection",
+    "contentId": "UP1032-PPSA16941_00-SWBATTLEFRONT000",
     "region": "UP",
     "publisherId": "UP1032"
   },
@@ -69018,8 +69050,8 @@
   {
     "titleId": "PPSA16943_00",
     "conceptId": 10008554,
-    "name": "STAR WARS\u2122 Battlefront Classic Collection",
-    "contentId": null,
+    "name": "STAR WARS\u2122: Battlefront Classic Collection",
+    "contentId": "EP1875-PPSA16943_00-SWBATTLEFRONT000",
     "region": "EP",
     "publisherId": "EP1875"
   },
@@ -69366,6 +69398,14 @@
     "contentId": "JP3425-PPSA17059_00-RAINWORLD0000000",
     "region": "JP",
     "publisherId": "JP3425"
+  },
+  {
+    "titleId": "PPSA17065_00",
+    "conceptId": 10004276,
+    "name": "LISA: Definitive Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17068_00",
@@ -73656,6 +73696,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18269_00",
+    "conceptId": 10009113,
+    "name": "Re:Touring",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18270_00",
+    "conceptId": 10009113,
+    "name": "Re:Touring",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18273_00",
     "conceptId": 10009114,
     "name": "Vetrix Worlds",
@@ -76240,6 +76296,14 @@
     "publisherId": "EP3948"
   },
   {
+    "titleId": "PPSA19138_00",
+    "conceptId": 10009419,
+    "name": "UNABLES",
+    "contentId": "UP4199-PPSA19138_00-0277056656969053",
+    "region": "UP",
+    "publisherId": "UP4199"
+  },
+  {
     "titleId": "PPSA19139_00",
     "conceptId": 10009421,
     "name": "Shines Over: The Damned",
@@ -77128,6 +77192,14 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA19413_00",
+    "conceptId": 10000870,
+    "name": "MemoryLane2",
+    "contentId": "EP8070-PPSA19413_00-0061716277897255",
+    "region": "EP",
+    "publisherId": "EP8070"
+  },
+  {
     "titleId": "PPSA19414_00",
     "conceptId": 10000320,
     "name": "Hotel R'n'R",
@@ -77614,6 +77686,22 @@
     "contentId": "UP1421-PPSA19556_00-0298171411897293",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA19566_00",
+    "conceptId": 10009581,
+    "name": "MotoGP\u212224 PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4356"
+  },
+  {
+    "titleId": "PPSA19567_00",
+    "conceptId": 10009581,
+    "name": "MotoGP\u212224 PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1981"
   },
   {
     "titleId": "PPSA19571_00",
@@ -78275,9 +78363,9 @@
     "titleId": "PPSA19816_00",
     "conceptId": 10009462,
     "name": "Juicy Realm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2011-PPSA19816_00-0285984834687529",
+    "region": "EP",
+    "publisherId": "EP2011"
   },
   {
     "titleId": "PPSA19822_00",
@@ -78960,6 +79048,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20062_00",
+    "conceptId": 232767,
+    "name": "Cook, Serve, Delicious! 2!!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20063_00",
     "conceptId": 232767,
     "name": "Cook, Serve, Delicious! 2!!",
@@ -78969,6 +79065,14 @@
   },
   {
     "titleId": "PPSA20064_00",
+    "conceptId": 10001180,
+    "name": "Cook, Serve, Delicious! 3?!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20066_00",
     "conceptId": 10001180,
     "name": "Cook, Serve, Delicious! 3?!",
     "contentId": null,
@@ -80106,10 +80210,10 @@
   {
     "titleId": "PPSA20471_00",
     "conceptId": 10001938,
-    "name": "Paint the Town Red",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Paint the Town Red VR",
+    "contentId": "UP1779-PPSA20471_00-0211660936632525",
+    "region": "UP",
+    "publisherId": "UP1779"
   },
   {
     "titleId": "PPSA20472_00",
@@ -80187,9 +80291,9 @@
     "titleId": "PPSA20500_00",
     "conceptId": 10009967,
     "name": "Orion Haste",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA20500_00-ORIONHASTERATGAM",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA20503_00",
@@ -81104,12 +81208,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21175_00",
+    "conceptId": 10010224,
+    "name": "Sherlock Purr 2",
+    "contentId": "UB0383-PPSA21175_00-CMNDOSHERPURR200",
+    "region": "UB",
+    "publisherId": "UB0383"
+  },
+  {
     "titleId": "PPSA21176_00",
     "conceptId": 10010224,
     "name": "Sherlock Purr 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0575-PPSA21176_00-CMNDOSHERPURR200",
+    "region": "EB",
+    "publisherId": "EB0575"
   },
   {
     "titleId": "PPSA21177_00",
@@ -81123,9 +81235,9 @@
     "titleId": "PPSA21178_00",
     "conceptId": 10010224,
     "name": "Sherlock Purr 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0350-PPSA21178_00-CMNDOSHERPURR200",
+    "region": "HB",
+    "publisherId": "HB0350"
   },
   {
     "titleId": "PPSA21187_00",
@@ -81475,9 +81587,17 @@
     "titleId": "PPSA21521_00",
     "conceptId": 10010386,
     "name": "Hyper Turbo Boost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8311-PPSA21521_00-0371740132371009",
+    "region": "EP",
+    "publisherId": "EP8311"
+  },
+  {
+    "titleId": "PPSA21522_00",
+    "conceptId": 10010386,
+    "name": "Hyper Turbo Boost",
+    "contentId": "UP8121-PPSA21522_00-0675585388249382",
+    "region": "UP",
+    "publisherId": "UP8121"
   },
   {
     "titleId": "PPSA21542_00",
@@ -81515,17 +81635,17 @@
     "titleId": "PPSA21569_00",
     "conceptId": 10010404,
     "name": "Tiny Tales: Heart of the Forest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1667-PPSA21569_00-TTALE2024PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
   },
   {
     "titleId": "PPSA21570_00",
     "conceptId": 10010404,
     "name": "Tiny Tales: Heart of the Forest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1681-PPSA21570_00-TTALE2024PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA21609_00",
@@ -81539,17 +81659,17 @@
     "titleId": "PPSA21626_00",
     "conceptId": 10010435,
     "name": "In Celebration of Violence",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA21626_00-0006182538208503",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA21627_00",
     "conceptId": 10010435,
     "name": "In Celebration of Violence",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA21627_00-0132056813808815",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA21634_00",
