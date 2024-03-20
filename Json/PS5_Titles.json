@@ -69891,7 +69891,7 @@
     "titleId": "PPSA17168_00",
     "conceptId": 10008685,
     "name": "Hi-Fi RUSH",
-    "contentId": null,
+    "contentId": "UP1003-PPSA17168_00-HIFIRUSH00000000",
     "region": "UP",
     "publisherId": "UP1003"
   },
@@ -70011,7 +70011,7 @@
     "titleId": "PPSA17190_00",
     "conceptId": 10008685,
     "name": "Hi-Fi RUSH",
-    "contentId": null,
+    "contentId": "JP0262-PPSA17190_00-HIFIRUSH00000000",
     "region": "JP",
     "publisherId": "JP0262"
   },
@@ -70019,7 +70019,7 @@
     "titleId": "PPSA17191_00",
     "conceptId": 10008685,
     "name": "Hi-Fi RUSH",
-    "contentId": null,
+    "contentId": "HP1003-PPSA17191_00-HIFIRUSH00000000",
     "region": "HP",
     "publisherId": "HP1003"
   },
@@ -70339,9 +70339,9 @@
     "titleId": "PPSA17290_00",
     "conceptId": 10008737,
     "name": "Master Maker 3D Ultimate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA17290_00-MASTERMAKER3DULT",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17291_00",
@@ -71904,6 +71904,14 @@
     "publisherId": "EP5403"
   },
   {
+    "titleId": "PPSA17769_00",
+    "conceptId": 10008629,
+    "name": "Power of Ten",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17775_00",
     "conceptId": 10008824,
     "name": "Laika: Aged Through Blood",
@@ -72467,9 +72475,9 @@
     "titleId": "PPSA17923_00",
     "conceptId": 10008721,
     "name": "Mystic Pillars - Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8033-PPSA17923_00-MYSTICPILLARSZZZ",
+    "region": "JP",
+    "publisherId": "JP8033"
   },
   {
     "titleId": "PPSA17929_00",
@@ -75456,6 +75464,14 @@
     "publisherId": "EP7028"
   },
   {
+    "titleId": "PPSA18836_00",
+    "conceptId": 10009298,
+    "name": "Cool Boarders",
+    "contentId": "UP9000-PPSA18836_00-SCUS943560000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA18837_00",
     "conceptId": 10008955,
     "name": "Roots of Pacha",
@@ -77792,6 +77808,38 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA19557_00",
+    "conceptId": 10005459,
+    "name": "SAND LAND Demo",
+    "contentId": "JP0700-PPSA19557_00-SANDLANDDEMO0000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA19558_00",
+    "conceptId": 10005459,
+    "name": "SAND LAND Demo",
+    "contentId": "HP0700-PPSA19558_00-SANDLANDDEMO0000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA19559_00",
+    "conceptId": 10005459,
+    "name": "SAND LAND Demo",
+    "contentId": "EP0700-PPSA19559_00-SANDLANDDEMO0000",
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA19560_00",
+    "conceptId": 10005459,
+    "name": "SAND LAND Demo",
+    "contentId": "UP0700-PPSA19560_00-SANDLANDDEMO0000",
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA19566_00",
     "conceptId": 10009581,
     "name": "MotoGP\u212224 PS4 & PS5",
@@ -78194,10 +78242,10 @@
   {
     "titleId": "PPSA19720_00",
     "conceptId": 10009637,
-    "name": "Captain Toonhead Vs. The Punks from Outer Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Captain Toonhead vs. The Punks from Outer Space",
+    "contentId": "UP3483-PPSA19720_00-TGGAMECPTOONHEAD",
+    "region": "UP",
+    "publisherId": "UP3483"
   },
   {
     "titleId": "PPSA19728_00",
@@ -78278,6 +78326,22 @@
     "contentId": "JP5432-PPSA19751_00-0018518419156746",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA19752_00",
+    "conceptId": 10009647,
+    "name": "Knowledge Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19753_00",
+    "conceptId": 10009647,
+    "name": "Knowledge Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19757_00",
@@ -80720,6 +80784,14 @@
     "publisherId": "EP6168"
   },
   {
+    "titleId": "PPSA20629_00",
+    "conceptId": 10008721,
+    "name": "Mystic Pillars - Remastered Book Bundle",
+    "contentId": "JP8033-PPSA20629_00-MPBOOKBUNDLEZZZZ",
+    "region": "JP",
+    "publisherId": "JP8033"
+  },
+  {
     "titleId": "PPSA20638_00",
     "conceptId": 10010024,
     "name": "Caveman Ransom",
@@ -81128,6 +81200,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20967_00",
+    "conceptId": 10004816,
+    "name": "SYNDUALITY: Echo of Ada",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20971_00",
     "conceptId": 10010155,
     "name": "Animals Drop",
@@ -81326,6 +81406,14 @@
     "contentId": "UP5641-PPSA21099_00-JIGSAWTETRAPS5US",
     "region": "UP",
     "publisherId": "UP5641"
+  },
+  {
+    "titleId": "PPSA21138_00",
+    "conceptId": 10009299,
+    "name": "The Master's Pupil",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21149_00",
