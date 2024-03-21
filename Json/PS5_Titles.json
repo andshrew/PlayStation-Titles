@@ -17379,7 +17379,7 @@
     "titleId": "PPSA05004_00",
     "conceptId": 10001988,
     "name": "The Outlast Trials",
-    "contentId": null,
+    "contentId": "EP4467-PPSA05004_00-3353269409144813",
     "region": "EP",
     "publisherId": "EP4467"
   },
@@ -34123,7 +34123,7 @@
     "titleId": "PPSA08241_00",
     "conceptId": 10005283,
     "name": "Alone in the Dark",
-    "contentId": null,
+    "contentId": "JP2880-PPSA08241_00-ALONEINTHEDARKJP",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -63354,10 +63354,10 @@
   {
     "titleId": "PPSA15585_00",
     "conceptId": 10008063,
-    "name": "The Twilight Zone\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Twilight Zone VR",
+    "contentId": "EP8726-PPSA15585_00-TWILIGHTZONE0000",
+    "region": "EP",
+    "publisherId": "EP8726"
   },
   {
     "titleId": "PPSA15586_00",
@@ -69168,6 +69168,22 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA16959_00",
+    "conceptId": 10008592,
+    "name": "Richman 11",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16960_00",
+    "conceptId": 10008592,
+    "name": "Richman 11",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16961_00",
     "conceptId": 231202,
     "name": "\u3086\u3089\u304e\u8358\u306e\u5e7d\u5948\u3055\u3093 \u6e6f\u3051\u3080\u308a\u8ff7\u5bae \u6975\u307f",
@@ -71904,12 +71920,20 @@
     "publisherId": "EP5403"
   },
   {
+    "titleId": "PPSA17768_00",
+    "conceptId": 10008629,
+    "name": "Power of Ten",
+    "contentId": "UP8785-PPSA17768_00-0207520995609568",
+    "region": "UP",
+    "publisherId": "UP8785"
+  },
+  {
     "titleId": "PPSA17769_00",
     "conceptId": 10008629,
     "name": "Power of Ten",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0176-PPSA17769_00-0573250215622885",
+    "region": "EB",
+    "publisherId": "EB0176"
   },
   {
     "titleId": "PPSA17775_00",
@@ -74899,9 +74923,9 @@
     "titleId": "PPSA18650_00",
     "conceptId": 10009242,
     "name": "Tram Simulator Urban Transit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2430-PPSA18650_00-TRAMSIMXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP2430"
   },
   {
     "titleId": "PPSA18659_00",
@@ -75246,6 +75270,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP2954"
+  },
+  {
+    "titleId": "PPSA18777_00",
+    "conceptId": 10009299,
+    "name": "The Master's Pupil",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18779_00",
@@ -78304,6 +78336,22 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA19742_00",
+    "conceptId": 10005653,
+    "name": "Loretta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19744_00",
+    "conceptId": 10005653,
+    "name": "Loretta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19749_00",
     "conceptId": 10009646,
     "name": "Sports & Adventure Pinball",
@@ -78531,9 +78579,9 @@
     "titleId": "PPSA19809_00",
     "conceptId": 10009665,
     "name": "Krimson",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6412-PPSA19809_00-0902916081558701",
+    "region": "JP",
+    "publisherId": "JP6412"
   },
   {
     "titleId": "PPSA19816_00",
@@ -79736,6 +79784,14 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA20257_00",
+    "conceptId": 234768,
+    "name": "Broadsword: Warlord Edition",
+    "contentId": "UP2014-PPSA20257_00-BROADSWORD000000",
+    "region": "UP",
+    "publisherId": "UP2014"
+  },
+  {
     "titleId": "PPSA20265_00",
     "conceptId": 10008027,
     "name": "Galactic Lords",
@@ -80446,6 +80502,30 @@
     "contentId": "UP1681-PPSA20489_00-BWE002024PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA20493_00",
+    "conceptId": 10009952,
+    "name": "Right and Down and Dice",
+    "contentId": "EP8723-PPSA20493_00-0196358393376437",
+    "region": "EP",
+    "publisherId": "EP8723"
+  },
+  {
+    "titleId": "PPSA20494_00",
+    "conceptId": 10009952,
+    "name": "Right and Down and Dice",
+    "contentId": "UP8533-PPSA20494_00-0521813657888120",
+    "region": "UP",
+    "publisherId": "UP8533"
+  },
+  {
+    "titleId": "PPSA20495_00",
+    "conceptId": 10009952,
+    "name": "Right and Down and Dice",
+    "contentId": "JP8438-PPSA20495_00-0232407601162399",
+    "region": "JP",
+    "publisherId": "JP8438"
   },
   {
     "titleId": "PPSA20496_00",
@@ -81408,6 +81488,22 @@
     "publisherId": "UP5641"
   },
   {
+    "titleId": "PPSA21100_00",
+    "conceptId": 10008884,
+    "name": "Sea of Thieves",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21101_00",
+    "conceptId": 10008884,
+    "name": "Sea of Thieves",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21138_00",
     "conceptId": 10009299,
     "name": "The Master's Pupil",
@@ -82048,12 +82144,20 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA21992_00",
+    "conceptId": 10010585,
+    "name": "Cazzarion: Shellfish Frenzy",
+    "contentId": "UB0438-PPSA21992_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA21993_00",
     "conceptId": 10010585,
     "name": "Cazzarion: Shellfish Frenzy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA21993_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22022_00",
