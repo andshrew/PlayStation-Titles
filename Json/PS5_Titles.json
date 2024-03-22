@@ -54184,12 +54184,28 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA12595_00",
+    "conceptId": 10006947,
+    "name": "Boom Jump",
+    "contentId": "UP7335-PPSA12595_00-0664401728732732",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA12596_00",
     "conceptId": 10006947,
     "name": "Boom Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA12596_00-0826705112567407",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12597_00",
+    "conceptId": 10006947,
+    "name": "Boom Jump",
+    "contentId": "JP7309-PPSA12597_00-0871240850395768",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA12599_00",
@@ -54590,6 +54606,14 @@
     "contentId": "EP7333-PPSA12679_00-0852305088138495",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12680_00",
+    "conceptId": 10006975,
+    "name": "Ziggy Zaggy",
+    "contentId": "JP7309-PPSA12680_00-0337497551093595",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA12682_00",
@@ -60222,6 +60246,14 @@
     "contentId": "HP7967-PPSA14318_00-0098557181275796",
     "region": "HP",
     "publisherId": "HP7967"
+  },
+  {
+    "titleId": "PPSA14325_00",
+    "conceptId": 10007600,
+    "name": "Jak and Daxter: The Lost Frontier",
+    "contentId": "UP9000-PPSA14325_00-NPUG803300000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA14328_00",
@@ -69490,10 +69522,10 @@
   {
     "titleId": "PPSA17065_00",
     "conceptId": 10004276,
-    "name": "LISA: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LISA: The Painful - Definitive Edition",
+    "contentId": "JP5134-PPSA17065_00-LISAPAINFULJAPAN",
+    "region": "JP",
+    "publisherId": "JP5134"
   },
   {
     "titleId": "PPSA17066_00",
@@ -69579,7 +69611,7 @@
     "titleId": "PPSA17085_00",
     "conceptId": 10008651,
     "name": "MLB\u00ae The Show\u2122 24",
-    "contentId": null,
+    "contentId": "UP9000-PPSA17085_00-MLBTHESHOW24SHIP",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -69915,7 +69947,7 @@
     "titleId": "PPSA17169_00",
     "conceptId": 10008685,
     "name": "Hi-Fi RUSH",
-    "contentId": null,
+    "contentId": "EP1003-PPSA17169_00-HIFIRUSH00000000",
     "region": "EP",
     "publisherId": "EP1003"
   },
@@ -72146,8 +72178,8 @@
   {
     "titleId": "PPSA17823_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122",
-    "contentId": null,
+    "name": "Rise of the Ronin",
+    "contentId": "JP9000-PPSA17823_00-RONINFULLGAME001",
     "region": "JP",
     "publisherId": "JP9000"
   },
@@ -75632,6 +75664,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA18861_00",
+    "conceptId": 10009316,
+    "name": "Life of Slime",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18865_00",
     "conceptId": 10009317,
     "name": "Our Guest Tonight",
@@ -76424,6 +76464,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA19133_00",
+    "conceptId": 10009406,
+    "name": "Genotype",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19135_00",
     "conceptId": 10009418,
     "name": "Starward Rogue",
@@ -76467,9 +76515,9 @@
     "titleId": "PPSA19140_00",
     "conceptId": 10009421,
     "name": "Shines Over: The Damned",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6969-PPSA19140_00-SHINESOVERDAMNED",
+    "region": "EP",
+    "publisherId": "EP6969"
   },
   {
     "titleId": "PPSA19144_00",
@@ -76762,18 +76810,18 @@
   {
     "titleId": "PPSA19247_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rise of the Ronin - \u7279\u5178\u30b3\u30f3\u30c6\u30f3\u30c4",
+    "contentId": "JP9000-PPSA19247_00-RONINHUBAPP00001",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA19248_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rise of the Ronin - Bonus Contents",
+    "contentId": "HP9000-PPSA19248_00-RONINHUBAPP00001",
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA19250_00",
@@ -78344,6 +78392,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19743_00",
+    "conceptId": 10005653,
+    "name": "Loretta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19744_00",
     "conceptId": 10005653,
     "name": "Loretta",
@@ -78563,9 +78619,9 @@
     "titleId": "PPSA19807_00",
     "conceptId": 10009665,
     "name": "Krimson",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA19807_00-0243311959541869",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA19808_00",
@@ -79214,6 +79270,30 @@
     "contentId": "JP0078-PPSA20042_00-GOLAZO2DX0000000",
     "region": "JP",
     "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA20045_00",
+    "conceptId": 10009760,
+    "name": "NIGHTGHAST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20046_00",
+    "conceptId": 10009760,
+    "name": "NightGhast",
+    "contentId": "JP5715-PPSA20046_00-0659850630808247",
+    "region": "JP",
+    "publisherId": "JP5715"
+  },
+  {
+    "titleId": "PPSA20047_00",
+    "conceptId": 10009760,
+    "name": "NightGhast",
+    "contentId": "HP5777-PPSA20047_00-0602948077219249",
+    "region": "HP",
+    "publisherId": "HP5777"
   },
   {
     "titleId": "PPSA20054_00",
@@ -81200,6 +81280,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20875_00",
+    "conceptId": 10010124,
+    "name": "Heaven Jump",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20883_00",
     "conceptId": 10010091,
     "name": "\u3078\u3079\u308c\u30512",
@@ -81760,6 +81848,22 @@
     "publisherId": "UP1440"
   },
   {
+    "titleId": "PPSA21285_00",
+    "conceptId": 10010113,
+    "name": "Ario",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21286_00",
+    "conceptId": 10010113,
+    "name": "Ario",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21288_00",
     "conceptId": 10010277,
     "name": "Drift Odyssey",
@@ -81774,6 +81878,38 @@
     "contentId": "UP1421-PPSA21289_00-0265193116619818",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21296_00",
+    "conceptId": 10010291,
+    "name": "Withering Rooms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21297_00",
+    "conceptId": 10010291,
+    "name": "Withering Rooms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21298_00",
+    "conceptId": 10010291,
+    "name": "Withering Rooms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21299_00",
+    "conceptId": 10010291,
+    "name": "Withering Rooms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21321_00",
@@ -81814,6 +81950,54 @@
     "contentId": "HP8005-PPSA21331_00-0060698595825828",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA21371_00",
+    "conceptId": 10010317,
+    "name": "Lost & Found Agency Collector's Edition",
+    "contentId": "EP1411-PPSA21371_00-0656161717380727",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21372_00",
+    "conceptId": 10010317,
+    "name": "Lost & Found Agency Collector's Edition",
+    "contentId": "UP1421-PPSA21372_00-0557318125681984",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21373_00",
+    "conceptId": 10010318,
+    "name": "Around the World: Travel to Brazil Collector's Edition",
+    "contentId": "EP1411-PPSA21373_00-0557565952194581",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21374_00",
+    "conceptId": 10010318,
+    "name": "Around the World: Travel to Brazil Collector's Edition",
+    "contentId": "UP1421-PPSA21374_00-0466939607406900",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21375_00",
+    "conceptId": 10010319,
+    "name": "So Much Stuff 2 - Collector's Edition",
+    "contentId": "EP1411-PPSA21375_00-0100159256628935",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21376_00",
+    "conceptId": 10010319,
+    "name": "So Much Stuff 2 - Collector's Edition",
+    "contentId": "UP1421-PPSA21376_00-0434120031745533",
+    "region": "UP",
+    "publisherId": "UP1421"
   },
   {
     "titleId": "PPSA21397_00",
@@ -81912,6 +82096,54 @@
     "publisherId": "UP6718"
   },
   {
+    "titleId": "PPSA21428_00",
+    "conceptId": 10010345,
+    "name": "Nature Escapes 3: Collector's Edition",
+    "contentId": "EP1411-PPSA21428_00-0657835401604312",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21429_00",
+    "conceptId": 10010345,
+    "name": "Nature Escapes 3: Collector's Edition",
+    "contentId": "UP1421-PPSA21429_00-0495096972649939",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21430_00",
+    "conceptId": 10010346,
+    "name": "Puzzle Vacations: Thailand and Cambodia",
+    "contentId": "EP1411-PPSA21430_00-0089793962582897",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21431_00",
+    "conceptId": 10010346,
+    "name": "Puzzle Vacations: Thailand and Cambodia",
+    "contentId": "UP1421-PPSA21431_00-0622442665044121",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21432_00",
+    "conceptId": 10010347,
+    "name": "Puzzle Vacations: Greece and Turkey",
+    "contentId": "EP1411-PPSA21432_00-0600880514938167",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21433_00",
+    "conceptId": 10010347,
+    "name": "Puzzle Vacations: Greece and Turkey",
+    "contentId": "UP1421-PPSA21433_00-0910030259869484",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA21436_00",
     "conceptId": 10010349,
     "name": "Just Find It: Collector's Edition",
@@ -81926,6 +82158,22 @@
     "contentId": "UP1421-PPSA21437_00-0777856539654792",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21494_00",
+    "conceptId": 10008144,
+    "name": "Mr. Brocco & Co.",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21495_00",
+    "conceptId": 10008144,
+    "name": "Mr. Brocco & Co.",
+    "contentId": "JP6465-PPSA21495_00-0605984486976128",
+    "region": "JP",
+    "publisherId": "JP6465"
   },
   {
     "titleId": "PPSA21521_00",
@@ -82096,6 +82344,70 @@
     "publisherId": "UP5682"
   },
   {
+    "titleId": "PPSA21674_00",
+    "conceptId": 10010452,
+    "name": "Jewel Match Solitaire Winterscapes 2 - Collector's Edition",
+    "contentId": "EP1411-PPSA21674_00-0217440095033666",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21675_00",
+    "conceptId": 10010452,
+    "name": "Jewel Match Solitaire Winterscapes 2 - Collector's Edition",
+    "contentId": "UP1421-PPSA21675_00-0387405556085612",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21676_00",
+    "conceptId": 10010452,
+    "name": "Jewel Match Solitaire Winterscapes 2 - Collector's Edition",
+    "contentId": "JP1681-PPSA21676_00-0090950026334317",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA21677_00",
+    "conceptId": 10010452,
+    "name": "Jewel Match Solitaire Winterscapes 2 - Collector's Edition",
+    "contentId": "HP1546-PPSA21677_00-0639244611930236",
+    "region": "HP",
+    "publisherId": "HP1546"
+  },
+  {
+    "titleId": "PPSA21690_00",
+    "conceptId": 10010456,
+    "name": "Just Find It 2: Collector's Edition",
+    "contentId": "EP1411-PPSA21690_00-0426290970746920",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21691_00",
+    "conceptId": 10010456,
+    "name": "Just Find It 2: Collector's Edition",
+    "contentId": "UP1421-PPSA21691_00-0264821792182800",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21692_00",
+    "conceptId": 10010456,
+    "name": "Just Find It 2: Collector's Edition",
+    "contentId": "JP1681-PPSA21692_00-0481743339712761",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA21693_00",
+    "conceptId": 10010456,
+    "name": "Just Find It 2: Collector's Edition",
+    "contentId": "HP1546-PPSA21693_00-0413585635014448",
+    "region": "HP",
+    "publisherId": "HP1546"
+  },
+  {
     "titleId": "PPSA21735_00",
     "conceptId": 10004850,
     "name": "Trinity Fusion Demo",
@@ -82160,6 +82472,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA22016_00",
+    "conceptId": 10009288,
+    "name": "Sky Roll!",
+    "contentId": "EB0529-PPSA22016_00-0982300063540096",
+    "region": "EB",
+    "publisherId": "EB0529"
+  },
+  {
     "titleId": "PPSA22022_00",
     "conceptId": 10010592,
     "name": "Spin the Lighthouse",
@@ -82176,12 +82496,20 @@
     "publisherId": "UB0599"
   },
   {
+    "titleId": "PPSA22027_00",
+    "conceptId": 10010597,
+    "name": "Cazzarion: Ghost Frenzy",
+    "contentId": "UB0438-PPSA22027_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA22028_00",
     "conceptId": 10010597,
     "name": "Cazzarion: Ghost Frenzy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22028_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22029_00",
