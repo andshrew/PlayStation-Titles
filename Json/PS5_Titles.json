@@ -32560,6 +32560,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA07931_00",
+    "conceptId": 10003045,
+    "name": "The Origin: Blind Maid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07933_00",
     "conceptId": 10005204,
     "name": "Medieval Dynasty",
@@ -34115,7 +34123,7 @@
     "titleId": "PPSA08240_00",
     "conceptId": 10005283,
     "name": "Alone in the Dark",
-    "contentId": null,
+    "contentId": "UP4389-PPSA08240_00-ALONEINTHEDARKUS",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -41483,9 +41491,9 @@
     "titleId": "PPSA09507_00",
     "conceptId": 10001257,
     "name": "Corbid! A Colorful Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA09507_00-4612611845291825",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA09508_00",
@@ -54208,6 +54216,14 @@
     "publisherId": "JP7309"
   },
   {
+    "titleId": "PPSA12598_00",
+    "conceptId": 10006947,
+    "name": "Boom Jump",
+    "contentId": "HP7354-PPSA12598_00-0245942688838600",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA12599_00",
     "conceptId": 10006948,
     "name": "The Closing Walls",
@@ -63378,10 +63394,10 @@
   {
     "titleId": "PPSA15584_00",
     "conceptId": 10008063,
-    "name": "The Twilight Zone\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Twilight Zone VR",
+    "contentId": "UP8536-PPSA15584_00-TWILIGHTZONE0000",
+    "region": "UP",
+    "publisherId": "UP8536"
   },
   {
     "titleId": "PPSA15585_00",
@@ -68987,17 +69003,17 @@
     "titleId": "PPSA16908_00",
     "conceptId": 10008416,
     "name": "Kingdoms and Castles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2106-PPSA16908_00-KINGDOMSANDPS5NA",
+    "region": "UP",
+    "publisherId": "UP2106"
   },
   {
     "titleId": "PPSA16909_00",
     "conceptId": 10008416,
     "name": "Kingdoms and Castles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0958-PPSA16909_00-KINGDOMSANDPS5EU",
+    "region": "EP",
+    "publisherId": "EP0958"
   },
   {
     "titleId": "PPSA16910_00",
@@ -69011,9 +69027,9 @@
     "titleId": "PPSA16911_00",
     "conceptId": 10008565,
     "name": "HappyFunland",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA16911_00-0557034870527921",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA16913_00",
@@ -69530,10 +69546,10 @@
   {
     "titleId": "PPSA17066_00",
     "conceptId": 10004276,
-    "name": "LISA: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LISA: The Joyful - Definitive Edition",
+    "contentId": "JP5134-PPSA17066_00-LISAJOYFULJAPAN5",
+    "region": "JP",
+    "publisherId": "JP5134"
   },
   {
     "titleId": "PPSA17068_00",
@@ -70395,9 +70411,9 @@
     "titleId": "PPSA17291_00",
     "conceptId": 10008737,
     "name": "Master Maker 3D Ultimate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17291_00-MASTERMAKER3DULT",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17306_00",
@@ -71179,9 +71195,9 @@
     "titleId": "PPSA17528_00",
     "conceptId": 10008524,
     "name": "The Legend of Legacy HD Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA17528_00-LLHDFULLGAME0000",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA17530_00",
@@ -74915,9 +74931,9 @@
     "titleId": "PPSA18645_00",
     "conceptId": 10009242,
     "name": "Tram Simulator Urban Transit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2565-PPSA18645_00-TRAMSIMXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP2565"
   },
   {
     "titleId": "PPSA18646_00",
@@ -75163,7 +75179,7 @@
     "titleId": "PPSA18727_00",
     "conceptId": 10005844,
     "name": "Dragon's Dogma 2",
-    "contentId": null,
+    "contentId": "HP0102-PPSA18727_00-DD2GAME000000000",
     "region": "HP",
     "publisherId": "HP0102"
   },
@@ -75665,6 +75681,14 @@
   },
   {
     "titleId": "PPSA18861_00",
+    "conceptId": 10009316,
+    "name": "Life of Slime",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18862_00",
     "conceptId": 10009316,
     "name": "Life of Slime",
     "contentId": null,
@@ -76392,6 +76416,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19116_00",
+    "conceptId": 10009413,
+    "name": "DAVE THE DIVER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19120_00",
     "conceptId": 10009414,
     "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
@@ -76472,6 +76504,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19134_00",
+    "conceptId": 10009406,
+    "name": "Genotype",
+    "contentId": "UP1153-PPSA19134_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1153"
+  },
+  {
     "titleId": "PPSA19135_00",
     "conceptId": 10009418,
     "name": "Starward Rogue",
@@ -76507,9 +76547,9 @@
     "titleId": "PPSA19139_00",
     "conceptId": 10009421,
     "name": "Shines Over: The Damned",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6974-PPSA19139_00-SHINESOVERDAMNED",
+    "region": "UP",
+    "publisherId": "UP6974"
   },
   {
     "titleId": "PPSA19140_00",
@@ -76794,18 +76834,18 @@
   {
     "titleId": "PPSA19245_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rise of the Ronin - Bonus Contents",
+    "contentId": "EP9000-PPSA19245_00-RONINHUBAPP00001",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA19246_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rise of the Ronin - Bonus Contents",
+    "contentId": "UP9000-PPSA19246_00-RONINHUBAPP00001",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA19247_00",
@@ -78627,9 +78667,9 @@
     "titleId": "PPSA19808_00",
     "conceptId": 10009665,
     "name": "Krimson",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2011-PPSA19808_00-0886426509408957",
+    "region": "EP",
+    "publisherId": "EP2011"
   },
   {
     "titleId": "PPSA19809_00",
@@ -78960,6 +79000,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA19907_00",
+    "conceptId": 10008144,
+    "name": "Mr. Brocco & Co.",
+    "contentId": "EP7860-PPSA19907_00-0849105868983454",
+    "region": "EP",
+    "publisherId": "EP7860"
+  },
+  {
     "titleId": "PPSA19908_00",
     "conceptId": 10009711,
     "name": "Death Motel",
@@ -79192,6 +79240,38 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA20006_00",
+    "conceptId": 10009742,
+    "name": "Mixture",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20008_00",
+    "conceptId": 10009742,
+    "name": "Mixture",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20009_00",
+    "conceptId": 10009742,
+    "name": "Mixture",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20010_00",
+    "conceptId": 10009742,
+    "name": "Mixture",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20018_00",
     "conceptId": 10009749,
     "name": "sCATch: The Painter Cat",
@@ -79272,12 +79352,20 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA20044_00",
+    "conceptId": 10009760,
+    "name": "NightGhast",
+    "contentId": "UP5877-PPSA20044_00-0215890492608491",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA20045_00",
     "conceptId": 10009760,
-    "name": "NIGHTGHAST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "NightGhast",
+    "contentId": "EP8070-PPSA20045_00-0637538407808175",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA20046_00",
@@ -79707,17 +79795,17 @@
     "titleId": "PPSA20201_00",
     "conceptId": 10009821,
     "name": "Flower Shop: Winter In Fairbrook",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA20201_00-FLOWERSHOPWINTRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA20202_00",
     "conceptId": 10009821,
     "name": "Flower Shop: Winter In Fairbrook",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA20202_00-FLOWERSHOPWINTRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA20209_00",
@@ -80006,6 +80094,14 @@
     "contentId": "JP0005-PPSA20283_00-UNICORNTRIAL0000",
     "region": "JP",
     "publisherId": "JP0005"
+  },
+  {
+    "titleId": "PPSA20284_00",
+    "conceptId": 10009062,
+    "name": "Ariko's Enchanted Forest",
+    "contentId": "UP8787-PPSA20284_00-0645648965156914",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA20299_00",
@@ -80744,6 +80840,14 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA20552_00",
+    "conceptId": 10009776,
+    "name": "Tour de France 2024",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20554_00",
     "conceptId": 10009991,
     "name": "Borzoi Adventure",
@@ -81283,9 +81387,9 @@
     "titleId": "PPSA20875_00",
     "conceptId": 10010124,
     "name": "Heaven Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA20875_00-0872646575146305",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA20883_00",
@@ -81504,6 +81608,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21062_00",
+    "conceptId": 10010124,
+    "name": "Heaven Jump",
+    "contentId": "UP8787-PPSA21062_00-0911391356246234",
+    "region": "UP",
+    "publisherId": "UP8787"
+  },
+  {
     "titleId": "PPSA21075_00",
     "conceptId": 10010209,
     "name": "The Projet Poulet",
@@ -81550,6 +81662,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA21088_00",
+    "conceptId": 10010216,
+    "name": "Co-omets",
+    "contentId": "UP7126-PPSA21088_00-0925868623783320",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
+    "titleId": "PPSA21089_00",
+    "conceptId": 10010216,
+    "name": "Co-omets",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21090_00",
+    "conceptId": 10010216,
+    "name": "Co-omets",
+    "contentId": "JP7094-PPSA21090_00-0683714075708207",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA21091_00",
+    "conceptId": 10010216,
+    "name": "Co-omets",
+    "contentId": "HP7141-PPSA21091_00-0895555193074635",
+    "region": "HP",
+    "publisherId": "HP7141"
   },
   {
     "titleId": "PPSA21092_00",
@@ -81816,6 +81960,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA21279_00",
+    "conceptId": 10010113,
+    "name": "Ario",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21280_00",
     "conceptId": 10009584,
     "name": "Inkulinati Artbook",
@@ -81857,6 +82009,14 @@
   },
   {
     "titleId": "PPSA21286_00",
+    "conceptId": 10010113,
+    "name": "Ario",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21287_00",
     "conceptId": 10010113,
     "name": "Ario",
     "contentId": null,
@@ -82160,12 +82320,20 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA21493_00",
+    "conceptId": 10008144,
+    "name": "Mr. Brocco & Co.",
+    "contentId": "UP6537-PPSA21493_00-0481280132490648",
+    "region": "UP",
+    "publisherId": "UP6537"
+  },
+  {
     "titleId": "PPSA21494_00",
     "conceptId": 10008144,
     "name": "Mr. Brocco & Co.",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6533-PPSA21494_00-0057925872653732",
+    "region": "HP",
+    "publisherId": "HP6533"
   },
   {
     "titleId": "PPSA21495_00",
@@ -82440,6 +82608,14 @@
     "publisherId": "EP5864"
   },
   {
+    "titleId": "PPSA21916_00",
+    "conceptId": 10010550,
+    "name": "Brick Buster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21955_00",
     "conceptId": 10010569,
     "name": "Cazzarion: Astro Bouncer",
@@ -82526,5 +82702,21 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA22245_00",
+    "conceptId": 10010675,
+    "name": "Learn to Play Vol. 1 - Fruit Collect",
+    "contentId": "UP2005-PPSA22245_00-FRUITCOLLECT0000",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA22247_00",
+    "conceptId": 10010675,
+    "name": "Learn to Play Vol. 1 - Fruit Collect",
+    "contentId": "EP2005-PPSA22247_00-FRUITCOLLECT0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   }
 ]
