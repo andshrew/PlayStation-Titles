@@ -42403,7 +42403,7 @@
     "titleId": "PPSA09664_00",
     "conceptId": 10005844,
     "name": "Dragon's Dogma 2",
-    "contentId": null,
+    "contentId": "EP0102-PPSA09664_00-DD2GAME000000000",
     "region": "EP",
     "publisherId": "EP0102"
   },
@@ -75416,6 +75416,14 @@
     "publisherId": "EP8260"
   },
   {
+    "titleId": "PPSA18801_00",
+    "conceptId": 10009303,
+    "name": "House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18802_00",
     "conceptId": 10004332,
     "name": "Broken Pipe",
@@ -75510,6 +75518,30 @@
     "contentId": "EP7600-PPSA18814_00-0140413187720821",
     "region": "EP",
     "publisherId": "EP7600"
+  },
+  {
+    "titleId": "PPSA18827_00",
+    "conceptId": 10009303,
+    "name": "House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18828_00",
+    "conceptId": 10009303,
+    "name": "House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18829_00",
+    "conceptId": 10009303,
+    "name": "House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18830_00",
@@ -76499,9 +76531,9 @@
     "titleId": "PPSA19133_00",
     "conceptId": 10009406,
     "name": "Genotype",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1147-PPSA19133_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP1147"
   },
   {
     "titleId": "PPSA19134_00",
@@ -79152,6 +79184,22 @@
     "publisherId": "HP4687"
   },
   {
+    "titleId": "PPSA19954_00",
+    "conceptId": 10008034,
+    "name": "THRONE AND LIBERTY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19955_00",
+    "conceptId": 10008034,
+    "name": "THRONE AND LIBERTY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19961_00",
     "conceptId": 10009729,
     "name": "DanMachi BATTLE CHRONICLE",
@@ -81675,9 +81723,9 @@
     "titleId": "PPSA21089_00",
     "conceptId": 10010216,
     "name": "Co-omets",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA21089_00-0753276157801457",
+    "region": "EP",
+    "publisherId": "EP7123"
   },
   {
     "titleId": "PPSA21090_00",
@@ -82611,9 +82659,17 @@
     "titleId": "PPSA21916_00",
     "conceptId": 10010550,
     "name": "Brick Buster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA21916_00-0535399395822533",
+    "region": "EB",
+    "publisherId": "EB0178"
+  },
+  {
+    "titleId": "PPSA21917_00",
+    "conceptId": 10010550,
+    "name": "Brick Buster",
+    "contentId": "UP8787-PPSA21917_00-0560074151737643",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA21955_00",
@@ -82699,6 +82755,22 @@
     "titleId": "PPSA22151_00",
     "conceptId": 10010643,
     "name": "Cazzarion: Space Ace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22182_00",
+    "conceptId": 10010655,
+    "name": "Cazzarion: Gunslinger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22183_00",
+    "conceptId": 10010655,
+    "name": "Cazzarion: Gunslinger",
     "contentId": null,
     "region": null,
     "publisherId": null
