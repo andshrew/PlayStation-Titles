@@ -15162,8 +15162,8 @@
   {
     "titleId": "PPSA04558_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122",
-    "contentId": null,
+    "name": "Rise of the Ronin",
+    "contentId": "HP9000-PPSA04558_00-RONINFULLGAME001",
     "region": "HP",
     "publisherId": "HP9000"
   },
@@ -15558,6 +15558,14 @@
     "contentId": "UP6472-PPSA04624_00-THEMARAUDERCHRON",
     "region": "UP",
     "publisherId": "UP6472"
+  },
+  {
+    "titleId": "PPSA04629_00",
+    "conceptId": 10002139,
+    "name": "United Assault - Normandy '44",
+    "contentId": "EP4902-PPSA04629_00-3909013706174888",
+    "region": "EP",
+    "publisherId": "EP4902"
   },
   {
     "titleId": "PPSA04630_00",
@@ -16467,7 +16475,7 @@
     "titleId": "PPSA04814_00",
     "conceptId": 10003564,
     "name": "Outcast - A New Beginning",
-    "contentId": null,
+    "contentId": "EP4389-PPSA04814_00-OUTCAST2EU000000",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -19299,7 +19307,7 @@
     "titleId": "PPSA05393_00",
     "conceptId": 10003564,
     "name": "Outcast - A New Beginning",
-    "contentId": null,
+    "contentId": "JP2880-PPSA05393_00-OUTCAST2JP000000",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -29200,6 +29208,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA07278_00",
+    "conceptId": 10002139,
+    "name": "United Assault - Normandy '44",
+    "contentId": "UP4729-PPSA07278_00-6495696666437970",
+    "region": "UP",
+    "publisherId": "UP4729"
+  },
+  {
     "titleId": "PPSA07279_00",
     "conceptId": 10004879,
     "name": "Cyber Pool",
@@ -31486,6 +31502,14 @@
     "contentId": "EP0700-PPSA07712_00-ULES012980000000",
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA07715_00",
+    "conceptId": 10005103,
+    "name": "GODS EATER BURST",
+    "contentId": "UP0700-PPSA07715_00-ULUS105630000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA07717_00",
@@ -40203,9 +40227,9 @@
     "titleId": "PPSA09277_00",
     "conceptId": 10005760,
     "name": "Scott Whiskers in: the Search for Mr. Fumbleclaw",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7991-PPSA09277_00-5245462832024312",
+    "region": "EP",
+    "publisherId": "EP7991"
   },
   {
     "titleId": "PPSA09278_00",
@@ -61552,6 +61576,14 @@
     "publisherId": "EP7182"
   },
   {
+    "titleId": "PPSA14753_00",
+    "conceptId": 235319,
+    "name": "Delirium",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14953_00",
     "conceptId": 10007830,
     "name": "PARAGON: THE OVERPRIME",
@@ -69019,9 +69051,9 @@
     "titleId": "PPSA16910_00",
     "conceptId": 10008565,
     "name": "HappyFunland",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA16910_00-0065113140050495",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA16911_00",
@@ -81176,6 +81208,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20709_00",
+    "conceptId": 10010064,
+    "name": "Super Destronaut Landed X Loaded",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20710_00",
+    "conceptId": 10010064,
+    "name": "Super Destronaut Landed X Loaded",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20728_00",
     "conceptId": 10008040,
     "name": "Dead End City",
@@ -81286,6 +81334,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20761_00",
+    "conceptId": 10009844,
+    "name": "Clown Art",
+    "contentId": "UB0529-PPSA20761_00-0970972815286610",
+    "region": "UB",
+    "publisherId": "UB0529"
+  },
+  {
+    "titleId": "PPSA20762_00",
+    "conceptId": 10009844,
+    "name": "Clown Art",
+    "contentId": "EB0720-PPSA20762_00-0569718414113973",
+    "region": "EB",
+    "publisherId": "EB0720"
   },
   {
     "titleId": "PPSA20780_00",
@@ -82368,6 +82432,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA21438_00",
+    "conceptId": 10002349,
+    "name": "Heliborne",
+    "contentId": "UP4713-PPSA21438_00-0290688911159088",
+    "region": "UP",
+    "publisherId": "UP4713"
+  },
+  {
+    "titleId": "PPSA21439_00",
+    "conceptId": 10002349,
+    "name": "Heliborne",
+    "contentId": "EP4886-PPSA21439_00-0750019018517078",
+    "region": "EP",
+    "publisherId": "EP4886"
+  },
+  {
     "titleId": "PPSA21493_00",
     "conceptId": 10008144,
     "name": "Mr. Brocco & Co.",
@@ -82656,6 +82736,38 @@
     "publisherId": "EP5864"
   },
   {
+    "titleId": "PPSA21833_00",
+    "conceptId": 10000269,
+    "name": "Valley of the Dead: MalnaZidos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21834_00",
+    "conceptId": 10000269,
+    "name": "Valley of the Dead: MalnaZidos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21835_00",
+    "conceptId": 10001379,
+    "name": "Way Down",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21836_00",
+    "conceptId": 10001379,
+    "name": "Way Down",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21916_00",
     "conceptId": 10010550,
     "name": "Brick Buster",
@@ -82750,6 +82862,22 @@
     "contentId": "UP5682-PPSA22029_00-0719190675745713",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA22072_00",
+    "conceptId": 10002783,
+    "name": "Rivalia: Dungeon Raiders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22073_00",
+    "conceptId": 10002783,
+    "name": "Rivalia: Dungeon Raiders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22151_00",
