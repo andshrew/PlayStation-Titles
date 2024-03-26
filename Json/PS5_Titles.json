@@ -31504,6 +31504,22 @@
     "publisherId": "EP0700"
   },
   {
+    "titleId": "PPSA07713_00",
+    "conceptId": 10005103,
+    "name": "GOD EATER BURST",
+    "contentId": "JP0700-PPSA07713_00-NPJH503520000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA07714_00",
+    "conceptId": 10005103,
+    "name": "GOD EATER BURST",
+    "contentId": "HP0700-PPSA07714_00-NPJH503520000000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA07715_00",
     "conceptId": 10005103,
     "name": "GODS EATER BURST",
@@ -52752,6 +52768,14 @@
     "publisherId": "EP7678"
   },
   {
+    "titleId": "PPSA11504_00",
+    "conceptId": 10006606,
+    "name": "Goons: Legends & Mayhem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11516_00",
     "conceptId": 10006611,
     "name": "Pink Pong",
@@ -54654,6 +54678,14 @@
     "contentId": "JP7309-PPSA12680_00-0337497551093595",
     "region": "JP",
     "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA12681_00",
+    "conceptId": 10006975,
+    "name": "Ziggy Zaggy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12682_00",
@@ -61574,6 +61606,14 @@
     "contentId": "EP7182-PPSA14751_00-0526753228481627",
     "region": "EP",
     "publisherId": "EP7182"
+  },
+  {
+    "titleId": "PPSA14752_00",
+    "conceptId": 235319,
+    "name": "Delirium",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14753_00",
@@ -69067,9 +69107,9 @@
     "titleId": "PPSA16913_00",
     "conceptId": 10008565,
     "name": "HappyFunland",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA16913_00-0740297354209188",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA16918_00",
@@ -71219,9 +71259,9 @@
     "titleId": "PPSA17527_00",
     "conceptId": 10008524,
     "name": "The Legend of Legacy HD Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1063-PPSA17527_00-LLHDFULLGAME0000",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA17528_00",
@@ -74736,6 +74776,22 @@
     "publisherId": "HP7629"
   },
   {
+    "titleId": "PPSA18571_00",
+    "conceptId": 10009199,
+    "name": "Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18572_00",
+    "conceptId": 10009199,
+    "name": "Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18582_00",
     "conceptId": 10002456,
     "name": "Marvel\u2019s Spider-Man 2",
@@ -78107,17 +78163,17 @@
     "titleId": "PPSA19597_00",
     "conceptId": 232290,
     "name": "Bibi & Tina \u2013 Adventures with Horses",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA19597_00-BUTKINOFILMPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA19598_00",
     "conceptId": 232290,
     "name": "Bibi & Tina \u2013 Adventures with Horses",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3165-PPSA19598_00-BUTKINOFILMPS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA19599_00",
@@ -79552,6 +79608,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20067_00",
+    "conceptId": 10009674,
+    "name": "Cook, Serve, Delicious!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20068_00",
+    "conceptId": 10009674,
+    "name": "Cook, Serve, Delicious!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20073_00",
     "conceptId": 10007830,
     "name": "PARAGON: THE OVERPRIME",
@@ -79590,6 +79662,30 @@
     "contentId": "EB0372-PPSA20090_00-0982599826687360",
     "region": "EB",
     "publisherId": "EB0372"
+  },
+  {
+    "titleId": "PPSA20095_00",
+    "conceptId": 10009782,
+    "name": "Contraptions Collection",
+    "contentId": "EP4358-PPSA20095_00-CONTRAPTIONSCEUR",
+    "region": "EP",
+    "publisherId": "EP4358"
+  },
+  {
+    "titleId": "PPSA20097_00",
+    "conceptId": 10009782,
+    "name": "Contraptions Collection",
+    "contentId": "JP3555-PPSA20097_00-CONTRAPTIONSCJAP",
+    "region": "JP",
+    "publisherId": "JP3555"
+  },
+  {
+    "titleId": "PPSA20098_00",
+    "conceptId": 10009782,
+    "name": "Contraptions Collection",
+    "contentId": "HP3460-PPSA20098_00-CONTRAPTIONSCASI",
+    "region": "HP",
+    "publisherId": "HP3460"
   },
   {
     "titleId": "PPSA20102_00",
