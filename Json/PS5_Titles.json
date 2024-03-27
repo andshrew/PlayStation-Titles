@@ -15042,16 +15042,16 @@
   {
     "titleId": "PPSA04539_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122",
-    "contentId": null,
+    "name": "Rise of the Ronin",
+    "contentId": "UP9000-PPSA04539_00-RONINFULLGAME001",
     "region": "UP",
     "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA04540_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122",
-    "contentId": null,
+    "name": "Rise of the Ronin",
+    "contentId": "EP9000-PPSA04540_00-RONINFULLGAME001",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -15066,8 +15066,8 @@
   {
     "titleId": "PPSA04542_00",
     "conceptId": 10003386,
-    "name": "Rise of the Ronin\u2122 Z version",
-    "contentId": null,
+    "name": "Rise of the Ronin",
+    "contentId": "JP9000-PPSA04542_00-RONINFULLGAME001",
     "region": "JP",
     "publisherId": "JP9000"
   },
@@ -31528,6 +31528,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA07716_00",
+    "conceptId": 10005103,
+    "name": "GODS EATER BURST",
+    "contentId": "EP0700-PPSA07716_00-ULES015190000000",
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA07717_00",
     "conceptId": 10005104,
     "name": "\u30df\u30b9\u30bf\u30fc\u30c9\u30ea\u30e9\u30fc",
@@ -42435,7 +42443,7 @@
     "titleId": "PPSA09663_00",
     "conceptId": 10005844,
     "name": "Dragon's Dogma 2",
-    "contentId": null,
+    "contentId": "UP0102-PPSA09663_00-DD2GAME000000000",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -63459,7 +63467,7 @@
     "titleId": "PPSA15574_00",
     "conceptId": 10008055,
     "name": "SOUTH PARK: SNOW DAY!",
-    "contentId": null,
+    "contentId": "EP4389-PPSA15574_00-SOUTHPARKSNOWDAY",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -68843,7 +68851,7 @@
     "titleId": "PPSA16848_00",
     "conceptId": 10008538,
     "name": "Bulwark: Falconeer Chronicles",
-    "contentId": null,
+    "contentId": "EP4382-PPSA16848_00-FALCONEERBULWARK",
     "region": "EP",
     "publisherId": "EP4382"
   },
@@ -69454,6 +69462,14 @@
     "contentId": "EP7099-PPSA16992_00-PPGKALINURPIXELS",
     "region": "EP",
     "publisherId": "EP7099"
+  },
+  {
+    "titleId": "PPSA17008_00",
+    "conceptId": 10008048,
+    "name": "Grounded",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6311"
   },
   {
     "titleId": "PPSA17009_00",
@@ -73067,7 +73083,7 @@
     "titleId": "PPSA18026_00",
     "conceptId": 10009025,
     "name": "Planet Zoo",
-    "contentId": null,
+    "contentId": "EP2377-PPSA18026_00-PLANETZOOOOOOOOO",
     "region": "EP",
     "publisherId": "EP2377"
   },
@@ -73075,7 +73091,7 @@
     "titleId": "PPSA18027_00",
     "conceptId": 10009025,
     "name": "Planet Zoo",
-    "contentId": null,
+    "contentId": "UP2514-PPSA18027_00-PLANETZOOOOOOOOO",
     "region": "UP",
     "publisherId": "UP2514"
   },
@@ -79672,6 +79688,14 @@
     "publisherId": "EP4358"
   },
   {
+    "titleId": "PPSA20096_00",
+    "conceptId": 10009782,
+    "name": "Contraptions Collection",
+    "contentId": "UP3515-PPSA20096_00-CONTRAPTIONSCUSA",
+    "region": "UP",
+    "publisherId": "UP3515"
+  },
+  {
     "titleId": "PPSA20097_00",
     "conceptId": 10009782,
     "name": "Contraptions Collection",
@@ -80832,6 +80856,14 @@
     "publisherId": "EP4389"
   },
   {
+    "titleId": "PPSA20480_00",
+    "conceptId": 10007150,
+    "name": "Frontier Pilot Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20487_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -81274,18 +81306,18 @@
   {
     "titleId": "PPSA20683_00",
     "conceptId": 10010041,
-    "name": "Last Case of Benedict Fox: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Last Case of Benedict Fox",
+    "contentId": "UB0172-PPSA20683_00-0513503672084917",
+    "region": "UB",
+    "publisherId": "UB0172"
   },
   {
     "titleId": "PPSA20686_00",
     "conceptId": 10010041,
-    "name": "Last Case of Benedict Fox: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Last Case of Benedict Fox Definitive Edition",
+    "contentId": "EB0362-PPSA20686_00-0109748105398715",
+    "region": "EB",
+    "publisherId": "EB0362"
   },
   {
     "titleId": "PPSA20687_00",
@@ -81298,10 +81330,10 @@
   {
     "titleId": "PPSA20688_00",
     "conceptId": 10010041,
-    "name": "Last Case of Benedict Fox: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Last Case of Benedict Fox",
+    "contentId": "HB0123-PPSA20688_00-0740869587004375",
+    "region": "HB",
+    "publisherId": "HB0123"
   },
   {
     "titleId": "PPSA20709_00",
@@ -81470,6 +81502,22 @@
     "contentId": "JP7213-PPSA20782_00-00INQUISITORDEMO",
     "region": "JP",
     "publisherId": "JP7213"
+  },
+  {
+    "titleId": "PPSA20785_00",
+    "conceptId": 10008733,
+    "name": "Full Metal Sergeant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20786_00",
+    "conceptId": 10008733,
+    "name": "Full Metal Sergeant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20797_00",
@@ -81681,6 +81729,14 @@
   },
   {
     "titleId": "PPSA20967_00",
+    "conceptId": 10004816,
+    "name": "SYNDUALITY: Echo of Ada",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20968_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY: Echo of Ada",
     "contentId": null,
