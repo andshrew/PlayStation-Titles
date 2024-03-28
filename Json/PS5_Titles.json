@@ -16467,7 +16467,7 @@
     "titleId": "PPSA04813_00",
     "conceptId": 10003564,
     "name": "Outcast - A New Beginning",
-    "contentId": null,
+    "contentId": "UP4389-PPSA04813_00-OUTCAST2US000000",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -33579,7 +33579,7 @@
     "titleId": "PPSA08135_00",
     "conceptId": 10005283,
     "name": "Alone in the Dark",
-    "contentId": null,
+    "contentId": "EP4389-PPSA08135_00-ALONEINTHEDARKEU",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -40259,9 +40259,9 @@
     "titleId": "PPSA09278_00",
     "conceptId": 10005760,
     "name": "Scott Whiskers in: the Search for Mr. Fumbleclaw",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7993-PPSA09278_00-1960642026529713",
+    "region": "UP",
+    "publisherId": "UP7993"
   },
   {
     "titleId": "PPSA09281_00",
@@ -42459,7 +42459,7 @@
     "titleId": "PPSA09665_00",
     "conceptId": 10005844,
     "name": "Dragon's Dogma 2",
-    "contentId": null,
+    "contentId": "JP0102-PPSA09665_00-DD2GAME000000000",
     "region": "JP",
     "publisherId": "JP0102"
   },
@@ -43691,6 +43691,14 @@
     "titleId": "PPSA09886_00",
     "conceptId": 221735,
     "name": "Molotov",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09888_00",
+    "conceptId": 10006036,
+    "name": "Moonglow Bay",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -63216,6 +63224,14 @@
     "publisherId": "EP6867"
   },
   {
+    "titleId": "PPSA15523_00",
+    "conceptId": 10008036,
+    "name": "Flightpath: Adventures in Venaris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15524_00",
     "conceptId": 10008037,
     "name": "The Making of Karateka",
@@ -63344,6 +63360,14 @@
     "publisherId": "UP6312"
   },
   {
+    "titleId": "PPSA15547_00",
+    "conceptId": 10008048,
+    "name": "Grounded",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
+  },
+  {
     "titleId": "PPSA15549_00",
     "conceptId": 10002079,
     "name": "Sky X",
@@ -63451,7 +63475,7 @@
     "titleId": "PPSA15572_00",
     "conceptId": 10008055,
     "name": "SOUTH PARK: SNOW DAY!",
-    "contentId": null,
+    "contentId": "JP2880-PPSA15572_00-SOUTHPARKSNOWDAY",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -68891,9 +68915,9 @@
     "titleId": "PPSA16873_00",
     "conceptId": 10008557,
     "name": "Sunny Caf\u00e9",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA16873_00-SUNNYCAFE0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA16874_00",
@@ -73232,6 +73256,14 @@
     "publisherId": "EP5916"
   },
   {
+    "titleId": "PPSA18082_00",
+    "conceptId": 10008905,
+    "name": "MEGATON MUSASHI W: WIRED Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7373"
+  },
+  {
     "titleId": "PPSA18085_00",
     "conceptId": 10009039,
     "name": "Detective Inspector: Mysterious Clues",
@@ -73590,6 +73622,22 @@
     "contentId": "UP3165-PPSA18171_00-MOORHUHNXPS55AME",
     "region": "UP",
     "publisherId": "UP3165"
+  },
+  {
+    "titleId": "PPSA18172_00",
+    "conceptId": 10009067,
+    "name": "One Last Breath",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18173_00",
+    "conceptId": 10009067,
+    "name": "One Last Breath",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18180_00",
@@ -74960,6 +75008,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA18618_00",
+    "conceptId": 200995,
+    "name": "DC Universe Online",
+    "contentId": "UP0017-PPSA18618_00-DCUOLPS5LIVE0001",
+    "region": "UP",
+    "publisherId": "UP0017"
+  },
+  {
     "titleId": "PPSA18626_00",
     "conceptId": 10009252,
     "name": "Little Cities: Bigger!",
@@ -76152,6 +76208,22 @@
     "publisherId": "HP7629"
   },
   {
+    "titleId": "PPSA18977_00",
+    "conceptId": 10009356,
+    "name": "Stasis: Bone Totem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18978_00",
+    "conceptId": 10009356,
+    "name": "Stasis: Bone Totem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18981_00",
     "conceptId": 10009357,
     "name": "Crazy Chicken Pirates",
@@ -76730,8 +76802,8 @@
   {
     "titleId": "PPSA19149_00",
     "conceptId": 10009426,
-    "name": "Winning Post 10 2024 (PS4 & PS5)",
-    "contentId": null,
+    "name": "Winning Post 10 2024",
+    "contentId": "JP0106-PPSA19149_00-WP102024GAME0000",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -76960,6 +77032,14 @@
     "publisherId": "EP0101"
   },
   {
+    "titleId": "PPSA19229_00",
+    "conceptId": 200995,
+    "name": "DC Universe Online",
+    "contentId": "EP0017-PPSA19229_00-DCUOLPS5LIVE0002",
+    "region": "EP",
+    "publisherId": "EP0017"
+  },
+  {
     "titleId": "PPSA19244_00",
     "conceptId": 10009456,
     "name": "The Oregon Trail",
@@ -77099,9 +77179,9 @@
     "titleId": "PPSA19276_00",
     "conceptId": 10008557,
     "name": "Sunny Caf\u00e9",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA19276_00-SUNNYCAFE0000000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA19277_00",
@@ -78195,17 +78275,17 @@
     "titleId": "PPSA19599_00",
     "conceptId": 10009598,
     "name": "3D Arcade Fishing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA19599_00-3DARCADFISHPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA19600_00",
     "conceptId": 10009598,
     "name": "3D Arcade Fishing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3165-PPSA19600_00-3DARCADFISHPS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA19605_00",
@@ -78558,6 +78638,14 @@
     "contentId": "EP4886-PPSA19736_00-0146947043990439",
     "region": "EP",
     "publisherId": "EP4886"
+  },
+  {
+    "titleId": "PPSA19738_00",
+    "conceptId": 10009643,
+    "name": "Forrader Hero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19742_00",
@@ -79918,6 +80006,22 @@
     "contentId": "UP0891-PPSA20130_00-PRISONELADXRATAG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA20133_00",
+    "conceptId": 10009795,
+    "name": "Adventure & Horror Pinball",
+    "contentId": "JP5432-PPSA20133_00-0543239273752254",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA20136_00",
+    "conceptId": 10009796,
+    "name": "Wild & Horror Pinball",
+    "contentId": "JP5432-PPSA20136_00-0870264602906109",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA20145_00",
@@ -81322,10 +81426,10 @@
   {
     "titleId": "PPSA20687_00",
     "conceptId": 10010041,
-    "name": "Last Case of Benedict Fox: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Last Case of Benedict Fox",
+    "contentId": "JB0080-PPSA20687_00-0599110406144387",
+    "region": "JB",
+    "publisherId": "JB0080"
   },
   {
     "titleId": "PPSA20688_00",
@@ -82936,6 +83040,22 @@
     "publisherId": "UP8787"
   },
   {
+    "titleId": "PPSA21929_00",
+    "conceptId": 10008701,
+    "name": "The Art of Terra Memoria",
+    "contentId": "EB0235-PPSA21929_00-TERRAARTBOOKSIEE",
+    "region": "EB",
+    "publisherId": "EB0235"
+  },
+  {
+    "titleId": "PPSA21930_00",
+    "conceptId": 10008701,
+    "name": "The Art of Terra Memoria",
+    "contentId": "UB0045-PPSA21930_00-TERRAARTBOOKSIEA",
+    "region": "UB",
+    "publisherId": "UB0045"
+  },
+  {
     "titleId": "PPSA21955_00",
     "conceptId": 10010569,
     "name": "Cazzarion: Astro Bouncer",
@@ -82950,6 +83070,22 @@
     "contentId": "EB0629-PPSA21956_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA21983_00",
+    "conceptId": 10007543,
+    "name": "\u6709\u540d\u4eba\u306e\u30cf\u30c3\u30af",
+    "contentId": "JP2583-PPSA21983_00-CELEBRITIESJPPS5",
+    "region": "JP",
+    "publisherId": "JP2583"
+  },
+  {
+    "titleId": "PPSA21984_00",
+    "conceptId": 10007543,
+    "name": "Celebrities Hacked",
+    "contentId": "HP2486-PPSA21984_00-CELEBRITIESASPS5",
+    "region": "HP",
+    "publisherId": "HP2486"
   },
   {
     "titleId": "PPSA21992_00",
@@ -83032,12 +83168,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22150_00",
+    "conceptId": 10010643,
+    "name": "Cazzarion: Space Ace",
+    "contentId": "UB0438-PPSA22150_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA22151_00",
     "conceptId": 10010643,
     "name": "Cazzarion: Space Ace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22151_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22182_00",
