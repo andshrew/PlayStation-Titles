@@ -14712,6 +14712,14 @@
     "publisherId": "JP6079"
   },
   {
+    "titleId": "PPSA04450_00",
+    "conceptId": 234064,
+    "name": "The Savior's Gang",
+    "contentId": "EP3729-PPSA04450_00-1997702794616651",
+    "region": "EP",
+    "publisherId": "EP3729"
+  },
+  {
     "titleId": "PPSA04458_00",
     "conceptId": 10002720,
     "name": "Paradise Killer",
@@ -29800,6 +29808,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07385_00",
+    "conceptId": 10004425,
+    "name": "Flintlock: The Siege of Dawn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07388_00",
     "conceptId": 10002253,
     "name": "Hotel Life: A Resort Simulator",
@@ -32609,6 +32625,14 @@
   },
   {
     "titleId": "PPSA07931_00",
+    "conceptId": 10003045,
+    "name": "The Origin: Blind Maid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07932_00",
     "conceptId": 10003045,
     "name": "The Origin: Blind Maid",
     "contentId": null,
@@ -43691,6 +43715,14 @@
     "titleId": "PPSA09886_00",
     "conceptId": 221735,
     "name": "Molotov",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09887_00",
+    "conceptId": 10006036,
+    "name": "Moonglow Bay",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -61291,9 +61323,9 @@
     "titleId": "PPSA14667_00",
     "conceptId": 10003763,
     "name": "Predecessor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6929-PPSA14667_00-0447308389153305",
+    "region": "UP",
+    "publisherId": "UP6929"
   },
   {
     "titleId": "PPSA14668_00",
@@ -63224,6 +63256,14 @@
     "publisherId": "EP6867"
   },
   {
+    "titleId": "PPSA15522_00",
+    "conceptId": 10008036,
+    "name": "Flightpath: Adventures in Venaris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15523_00",
     "conceptId": 10008036,
     "name": "Flightpath: Adventures in Venaris",
@@ -64662,6 +64702,14 @@
     "contentId": "UP4912-PPSA15868_00-0732258547545763",
     "region": "UP",
     "publisherId": "UP4912"
+  },
+  {
+    "titleId": "PPSA15870_00",
+    "conceptId": 10003238,
+    "name": "Pathfinder: Wrath of the Righteous",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15876_00",
@@ -68867,7 +68915,7 @@
     "titleId": "PPSA16847_00",
     "conceptId": 10008538,
     "name": "Bulwark: Falconeer Chronicles",
-    "contentId": null,
+    "contentId": "UP4382-PPSA16847_00-FALCONEERBULWARK",
     "region": "UP",
     "publisherId": "UP4382"
   },
@@ -70267,9 +70315,9 @@
     "titleId": "PPSA17209_00",
     "conceptId": 10008701,
     "name": "Terra Memoria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0235-PPSA17209_00-TERRAMEMORIASIEE",
+    "region": "EB",
+    "publisherId": "EB0235"
   },
   {
     "titleId": "PPSA17210_00",
@@ -70870,6 +70918,14 @@
     "contentId": "HP6691-PPSA17392_00-CUBICLIGHT0PS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA17395_00",
+    "conceptId": 10004266,
+    "name": "\u30e9\u30b8\u30eb\u30ae2",
+    "contentId": "JP5328-PPSA17395_00-RS34RS34RS34RS34",
+    "region": "JP",
+    "publisherId": "JP5328"
   },
   {
     "titleId": "PPSA17398_00",
@@ -72424,6 +72480,14 @@
     "publisherId": "EP2363"
   },
   {
+    "titleId": "PPSA17856_00",
+    "conceptId": 10008905,
+    "name": "\u30e1\u30ac\u30c8\u30f3\u7d1a\u30e0\u30b5\u30b7W\uff08\u30ef\u30a4\u30a2\u30fc\u30c9\uff09\u3000\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0720"
+  },
+  {
     "titleId": "PPSA17862_00",
     "conceptId": 10005045,
     "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -72578,10 +72642,10 @@
   {
     "titleId": "PPSA17895_00",
     "conceptId": 10008800,
-    "name": "Fortress S",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fortress_S",
+    "contentId": "EP0287-PPSA17895_00-0200585955000255",
+    "region": "EP",
+    "publisherId": "EP0287"
   },
   {
     "titleId": "PPSA17896_00",
@@ -73264,6 +73328,22 @@
     "publisherId": "UP7373"
   },
   {
+    "titleId": "PPSA18083_00",
+    "conceptId": 10008905,
+    "name": "MEGATON MUSASHI W: WIRED Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7371"
+  },
+  {
+    "titleId": "PPSA18084_00",
+    "conceptId": 10008905,
+    "name": "MEGATON MUSASHI W: WIRED Standard Edition",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0720"
+  },
+  {
     "titleId": "PPSA18085_00",
     "conceptId": 10009039,
     "name": "Detective Inspector: Mysterious Clues",
@@ -73627,17 +73707,17 @@
     "titleId": "PPSA18172_00",
     "conceptId": 10009067,
     "name": "One Last Breath",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3876-PPSA18172_00-LASTBREATHPS5SAM",
+    "region": "UP",
+    "publisherId": "UP3876"
   },
   {
     "titleId": "PPSA18173_00",
     "conceptId": 10009067,
     "name": "One Last Breath",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3729-PPSA18173_00-LASTBREATHPS5SEU",
+    "region": "EP",
+    "publisherId": "EP3729"
   },
   {
     "titleId": "PPSA18180_00",
@@ -74016,6 +74096,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18272_00",
+    "conceptId": 10009113,
+    "name": "Re:Touring",
+    "contentId": "HP1792-PPSA18272_00-SYPS5RETOURING00",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA18273_00",
     "conceptId": 10009114,
     "name": "Vetrix Worlds",
@@ -74171,17 +74259,17 @@
     "titleId": "PPSA18354_00",
     "conceptId": 10009129,
     "name": "OTXO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6935-PPSA18354_00-0436773469497637",
+    "region": "UP",
+    "publisherId": "UP6935"
   },
   {
     "titleId": "PPSA18355_00",
     "conceptId": 10009129,
     "name": "OTXO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6930-PPSA18355_00-0914677121859161",
+    "region": "EP",
+    "publisherId": "EP6930"
   },
   {
     "titleId": "PPSA18357_00",
@@ -74531,9 +74619,9 @@
     "titleId": "PPSA18473_00",
     "conceptId": 10008759,
     "name": "Sticks Aim Trainer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0097-PPSA18473_00-0296488788663588",
+    "region": "UB",
+    "publisherId": "UB0097"
   },
   {
     "titleId": "PPSA18479_00",
@@ -75483,9 +75571,9 @@
     "titleId": "PPSA18777_00",
     "conceptId": 10009299,
     "name": "The Master's Pupil",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0505-PPSA18777_00-0358078776292046",
+    "region": "EB",
+    "publisherId": "EB0505"
   },
   {
     "titleId": "PPSA18779_00",
@@ -75691,9 +75779,9 @@
     "titleId": "PPSA18828_00",
     "conceptId": 10009303,
     "name": "House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0559-PPSA18828_00-0166464040843242",
+    "region": "JP",
+    "publisherId": "JP0559"
   },
   {
     "titleId": "PPSA18829_00",
@@ -75755,9 +75843,9 @@
     "titleId": "PPSA18838_00",
     "conceptId": 10009309,
     "name": "Total Trails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6197-PPSA18838_00-0722957187139023",
+    "region": "EP",
+    "publisherId": "EP6197"
   },
   {
     "titleId": "PPSA18839_00",
@@ -76210,18 +76298,34 @@
   {
     "titleId": "PPSA18977_00",
     "conceptId": 10009356,
-    "name": "Stasis: Bone Totem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "STASIS BONE TOTEM",
+    "contentId": "UP3528-PPSA18977_00-STASIS2000000000",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA18978_00",
     "conceptId": 10009356,
-    "name": "Stasis: Bone Totem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "STASIS BONE TOTEM",
+    "contentId": "EP3385-PPSA18978_00-STASIS2000000000",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA18979_00",
+    "conceptId": 10009356,
+    "name": "STASIS BONE TOTEM",
+    "contentId": "JP3568-PPSA18979_00-STASIS2000000000",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
+    "titleId": "PPSA18980_00",
+    "conceptId": 10009356,
+    "name": "STASIS BONE TOTEM",
+    "contentId": "HP3473-PPSA18980_00-STASIS2000000000",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA18981_00",
@@ -77019,7 +77123,7 @@
     "titleId": "PPSA19225_00",
     "conceptId": 10009450,
     "name": "Felix the Cat",
-    "contentId": null,
+    "contentId": "UP0101-PPSA19225_00-0159266583099383",
     "region": "UP",
     "publisherId": "UP0101"
   },
@@ -77027,7 +77131,7 @@
     "titleId": "PPSA19226_00",
     "conceptId": 10009450,
     "name": "Felix the Cat",
-    "contentId": null,
+    "contentId": "EP0101-PPSA19226_00-0961609338617250",
     "region": "EP",
     "publisherId": "EP0101"
   },
@@ -78416,6 +78520,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA19639_00",
+    "conceptId": 212779,
+    "name": "Minecraft",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19648_00",
     "conceptId": 10007409,
     "name": "Koi-Koi : Love Blossoms",
@@ -78643,9 +78755,9 @@
     "titleId": "PPSA19738_00",
     "conceptId": 10009643,
     "name": "Forrader Hero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19738_00-FORRADERHERORAGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA19742_00",
@@ -81104,6 +81216,14 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA20521_00",
+    "conceptId": 10009951,
+    "name": "The Kindeman Remedy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20529_00",
     "conceptId": 10009614,
     "name": "Detective: Stella Porta Case",
@@ -81302,6 +81422,38 @@
     "contentId": "JP7843-PPSA20584_00-SOLITAIRE0200JP5",
     "region": "JP",
     "publisherId": "JP7843"
+  },
+  {
+    "titleId": "PPSA20585_00",
+    "conceptId": 10010004,
+    "name": "Dreamland Solitaire: Dark Prophecy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20586_00",
+    "conceptId": 10010004,
+    "name": "Dreamland Solitaire: Dark Prophecy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20587_00",
+    "conceptId": 10010004,
+    "name": "Dreamland Solitaire: Dark Prophecy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20588_00",
+    "conceptId": 10010004,
+    "name": "Dreamland Solitaire: Dark Prophecy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20591_00",
@@ -81914,18 +82066,18 @@
   {
     "titleId": "PPSA21016_00",
     "conceptId": 10007938,
-    "name": "Labyrinth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Labyrinth Junior",
+    "contentId": "EP3024-PPSA21016_00-DVLABYJUNIORS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA21017_00",
     "conceptId": 10007938,
-    "name": "Labyrinth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Labyrinth Junior",
+    "contentId": "UP3165-PPSA21017_00-DVLABYJUNIORS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA21026_00",
@@ -82184,6 +82336,22 @@
     "publisherId": "HB0350"
   },
   {
+    "titleId": "PPSA21182_00",
+    "conceptId": 10005693,
+    "name": "DREDGE: CHAPTER ONE",
+    "contentId": "EP4064-PPSA21182_00-DREDGEDEMO000000",
+    "region": "EP",
+    "publisherId": "EP4064"
+  },
+  {
+    "titleId": "PPSA21183_00",
+    "conceptId": 10005693,
+    "name": "DREDGE: CHAPTER ONE",
+    "contentId": "UP4064-PPSA21183_00-DREDGEDEMO000000",
+    "region": "UP",
+    "publisherId": "UP4064"
+  },
+  {
     "titleId": "PPSA21187_00",
     "conceptId": 10010126,
     "name": "Jigsaw Tetra",
@@ -82331,9 +82499,9 @@
     "titleId": "PPSA21279_00",
     "conceptId": 10010113,
     "name": "Ario",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6252-PPSA21279_00-ARIOPS5EU0000000",
+    "region": "EP",
+    "publisherId": "EP6252"
   },
   {
     "titleId": "PPSA21280_00",
@@ -82371,25 +82539,25 @@
     "titleId": "PPSA21285_00",
     "conceptId": 10010113,
     "name": "Ario",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6253-PPSA21285_00-ARIOPS5NA0000000",
+    "region": "UP",
+    "publisherId": "UP6253"
   },
   {
     "titleId": "PPSA21286_00",
     "conceptId": 10010113,
     "name": "Ario",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6169-PPSA21286_00-ARIOPS5JA0000000",
+    "region": "JP",
+    "publisherId": "JP6169"
   },
   {
     "titleId": "PPSA21287_00",
     "conceptId": 10010113,
     "name": "Ario",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6236-PPSA21287_00-ARIOPS5AS0000000",
+    "region": "HP",
+    "publisherId": "HP6236"
   },
   {
     "titleId": "PPSA21288_00",
@@ -82587,6 +82755,14 @@
     "titleId": "PPSA21404_00",
     "conceptId": 10010335,
     "name": "7 Days Heroes",
+    "contentId": "EP6718-PPSA21404_00-0972014101625068",
+    "region": "EP",
+    "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA21405_00",
+    "conceptId": 10006894,
+    "name": "ArcRunner",
     "contentId": null,
     "region": null,
     "publisherId": null
