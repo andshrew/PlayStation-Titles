@@ -6136,6 +6136,30 @@
     "publisherId": "UP0031"
   },
   {
+    "titleId": "PPSA02722_00",
+    "conceptId": 10002209,
+    "name": "Open Roads",
+    "contentId": "UP2470-PPSA02722_00-OPENROADSSIEA000",
+    "region": "UP",
+    "publisherId": "UP2470"
+  },
+  {
+    "titleId": "PPSA02723_00",
+    "conceptId": 10002209,
+    "name": "Open Roads",
+    "contentId": "EP2333-PPSA02723_00-OPENROADSSIEE000",
+    "region": "EP",
+    "publisherId": "EP2333"
+  },
+  {
+    "titleId": "PPSA02725_00",
+    "conceptId": 10002209,
+    "name": "Open Roads",
+    "contentId": "HP2418-PPSA02725_00-OPENROADSSIEJA00",
+    "region": "HP",
+    "publisherId": "HP2418"
+  },
+  {
     "titleId": "PPSA02733_00",
     "conceptId": 10002211,
     "name": "XDefiant",
@@ -61360,6 +61384,14 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA14681_00",
+    "conceptId": 10007743,
+    "name": "PERISH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14682_00",
     "conceptId": 10007744,
     "name": "Working Hard Collection",
@@ -63523,7 +63555,7 @@
     "titleId": "PPSA15573_00",
     "conceptId": 10008055,
     "name": "SOUTH PARK: SNOW DAY!",
-    "contentId": null,
+    "contentId": "UP4389-PPSA15573_00-SOUTHPARKSNOWDAY",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -65886,6 +65918,22 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA16122_00",
+    "conceptId": 10008236,
+    "name": "SaGa Emerald Beyond",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16123_00",
+    "conceptId": 10008236,
+    "name": "SaGa Emerald Beyond",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16124_00",
@@ -68971,9 +69019,9 @@
     "titleId": "PPSA16874_00",
     "conceptId": 10008557,
     "name": "Sunny Caf\u00e9",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA16874_00-SUNNYCAFE0000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA16875_00",
@@ -70144,6 +70192,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17174_00",
+    "conceptId": 234957,
+    "name": "Inertial Drift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17175_00",
     "conceptId": 10008688,
     "name": "\u5e7b\u65e5\u306e\u30e8\u30cf\u30cd -BLAZE in the DEEPBLUE-",
@@ -71082,10 +71138,10 @@
   {
     "titleId": "PPSA17445_00",
     "conceptId": 10008800,
-    "name": "Fortress S",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fortress_S",
+    "contentId": "UP0287-PPSA17445_00-0013610764179313",
+    "region": "UP",
+    "publisherId": "UP0287"
   },
   {
     "titleId": "PPSA17450_00",
@@ -74083,17 +74139,25 @@
     "titleId": "PPSA18269_00",
     "conceptId": 10009113,
     "name": "Re:Touring",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA18269_00-SYPS5RETOURING00",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA18270_00",
     "conceptId": 10009113,
     "name": "Re:Touring",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA18270_00-SYPS5RETOURING00",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA18271_00",
+    "conceptId": 10009113,
+    "name": "Re:Touring",
+    "contentId": "JP1932-PPSA18271_00-SYPS5RETOURING00",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA18272_00",
@@ -74650,18 +74714,18 @@
   {
     "titleId": "PPSA18487_00",
     "conceptId": 10006891,
-    "name": "Stellar Blade\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stellar Blade Demo",
+    "contentId": "UP9000-PPSA18487_00-STELLARBLADEDEMO",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA18488_00",
     "conceptId": 10006891,
-    "name": "Stellar Blade\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stellar Blade Demo",
+    "contentId": "EP9000-PPSA18488_00-STELLARBLADEDEMO",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA18489_00",
@@ -75667,9 +75731,9 @@
     "titleId": "PPSA18801_00",
     "conceptId": 10009303,
     "name": "House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0299-PPSA18801_00-0656814607274404",
+    "region": "UP",
+    "publisherId": "UP0299"
   },
   {
     "titleId": "PPSA18802_00",
@@ -75771,9 +75835,9 @@
     "titleId": "PPSA18827_00",
     "conceptId": 10009303,
     "name": "House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0297-PPSA18827_00-0519455711430609",
+    "region": "EP",
+    "publisherId": "EP0297"
   },
   {
     "titleId": "PPSA18828_00",
@@ -75787,9 +75851,9 @@
     "titleId": "PPSA18829_00",
     "conceptId": 10009303,
     "name": "House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0332-PPSA18829_00-0264832534412836",
+    "region": "HP",
+    "publisherId": "HP0332"
   },
   {
     "titleId": "PPSA18830_00",
@@ -78520,7 +78584,23 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA19638_00",
+    "conceptId": 212779,
+    "name": "Minecraft",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19639_00",
+    "conceptId": 212779,
+    "name": "Minecraft",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19640_00",
     "conceptId": 212779,
     "name": "Minecraft",
     "contentId": null,
@@ -78758,6 +78838,14 @@
     "contentId": "EP0896-PPSA19738_00-FORRADERHERORAGA",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA19739_00",
+    "conceptId": 10009643,
+    "name": "Forrader Hero",
+    "contentId": "UP0891-PPSA19739_00-FORRADERHERORAGA",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19742_00",
@@ -80872,6 +80960,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA20423_00",
+    "conceptId": 10009923,
+    "name": "Another Crab\u2019s Treasure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20430_00",
     "conceptId": 10009927,
     "name": "\u5225\u4e16\u754c\u306e\u9ebb\u96c0\u5c11\u5973",
@@ -82259,9 +82355,9 @@
     "titleId": "PPSA21138_00",
     "conceptId": 10009299,
     "name": "The Master's Pupil",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0322-PPSA21138_00-0906547376126401",
+    "region": "UB",
+    "publisherId": "UB0322"
   },
   {
     "titleId": "PPSA21149_00",
@@ -82747,9 +82843,9 @@
     "titleId": "PPSA21403_00",
     "conceptId": 10010335,
     "name": "7 Days Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA21403_00-0936149301887651",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA21404_00",
@@ -83155,9 +83251,9 @@
     "titleId": "PPSA21797_00",
     "conceptId": 10008759,
     "name": "Sticks Aim Trainer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0287-PPSA21797_00-0994076440909161",
+    "region": "EB",
+    "publisherId": "EB0287"
   },
   {
     "titleId": "PPSA21798_00",
