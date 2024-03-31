@@ -52848,6 +52848,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA11505_00",
+    "conceptId": 10006606,
+    "name": "Goons: Legends & Mayhem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11516_00",
     "conceptId": 10006611,
     "name": "Pink Pong",
@@ -54755,9 +54763,9 @@
     "titleId": "PPSA12681_00",
     "conceptId": 10006975,
     "name": "Ziggy Zaggy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA12681_00-0777914423965182",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA12682_00",
@@ -57978,18 +57986,18 @@
   {
     "titleId": "PPSA13861_00",
     "conceptId": 10007384,
-    "name": "OVRDARK: a Do Not Open story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "OVRDARK: a DoNotOpen Story",
+    "contentId": "UP7790-PPSA13861_00-0560784045958871",
+    "region": "UP",
+    "publisherId": "UP7790"
   },
   {
     "titleId": "PPSA13862_00",
     "conceptId": 10007384,
-    "name": "OVRDARK: a Do Not Open story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "OVRDARK: a DoNotOpen Story",
+    "contentId": "EP7788-PPSA13862_00-0471635262294971",
+    "region": "EP",
+    "publisherId": "EP7788"
   },
   {
     "titleId": "PPSA13864_00",
@@ -61384,6 +61392,14 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA14680_00",
+    "conceptId": 10007743,
+    "name": "PERISH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14681_00",
     "conceptId": 10007743,
     "name": "PERISH",
@@ -64734,6 +64750,14 @@
     "contentId": "UP4912-PPSA15868_00-0732258547545763",
     "region": "UP",
     "publisherId": "UP4912"
+  },
+  {
+    "titleId": "PPSA15869_00",
+    "conceptId": 10003238,
+    "name": "Pathfinder: Wrath Of The Righteous",
+    "contentId": "UP6007-PPSA15869_00-0598507980022830",
+    "region": "UP",
+    "publisherId": "UP6007"
   },
   {
     "titleId": "PPSA15870_00",
@@ -70379,9 +70403,9 @@
     "titleId": "PPSA17210_00",
     "conceptId": 10008701,
     "name": "Terra Memoria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0045-PPSA17210_00-TERRAMEMORIASIEA",
+    "region": "UB",
+    "publisherId": "UB0045"
   },
   {
     "titleId": "PPSA17212_00",
@@ -71603,9 +71627,9 @@
     "titleId": "PPSA17582_00",
     "conceptId": 10007921,
     "name": "Forest Farm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7662-PPSA17582_00-0112962693163998",
+    "region": "EP",
+    "publisherId": "EP7662"
   },
   {
     "titleId": "PPSA17588_00",
@@ -74706,10 +74730,10 @@
   {
     "titleId": "PPSA18486_00",
     "conceptId": 10006891,
-    "name": "Stellar Blade\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u300eStellar Blade\u300f\u30c7\u30e2",
+    "contentId": "JP9000-PPSA18486_00-STELLARBLADEDEMO",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA18487_00",
@@ -74730,10 +74754,10 @@
   {
     "titleId": "PPSA18489_00",
     "conceptId": 10006891,
-    "name": "Stellar Blade\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stellar Blade Demo",
+    "contentId": "HP9000-PPSA18489_00-STELLARBLADEDEMO",
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA18490_00",
@@ -77476,6 +77500,22 @@
     "conceptId": 10009476,
     "name": "A Little Walk in the Woods",
     "contentId": "HP7141-PPSA19296_00-0249934127220218",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA19298_00",
+    "conceptId": 10009477,
+    "name": "Kitten Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19300_00",
+    "conceptId": 10009477,
+    "name": "Kitten Island",
+    "contentId": "HP7141-PPSA19300_00-0630829502655697",
     "region": "HP",
     "publisherId": "HP7141"
   },
@@ -80958,6 +80998,14 @@
     "contentId": "EB0629-PPSA20415_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA20422_00",
+    "conceptId": 10009923,
+    "name": "Another Crab\u2019s Treasure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20423_00",
