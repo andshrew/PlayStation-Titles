@@ -64762,10 +64762,10 @@
   {
     "titleId": "PPSA15870_00",
     "conceptId": 10003238,
-    "name": "Pathfinder: Wrath of the Righteous",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pathfinder: Wrath Of The Righteous",
+    "contentId": "EP6008-PPSA15870_00-0475751594267531",
+    "region": "EP",
+    "publisherId": "EP6008"
   },
   {
     "titleId": "PPSA15876_00",
@@ -77504,12 +77504,28 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA19297_00",
+    "conceptId": 10009477,
+    "name": "Kitten Island",
+    "contentId": "UP7126-PPSA19297_00-0546306920076591",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
     "titleId": "PPSA19298_00",
     "conceptId": 10009477,
     "name": "Kitten Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA19298_00-0363634099016139",
+    "region": "EP",
+    "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA19299_00",
+    "conceptId": 10009477,
+    "name": "Kitten Island",
+    "contentId": "JP7094-PPSA19299_00-0902740205923396",
+    "region": "JP",
+    "publisherId": "JP7094"
   },
   {
     "titleId": "PPSA19300_00",
@@ -81296,6 +81312,22 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA20501_00",
+    "conceptId": 10009968,
+    "name": "Outer Terror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20502_00",
+    "conceptId": 10009968,
+    "name": "Outer Terror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20503_00",
     "conceptId": 10009969,
     "name": "Unlife",
@@ -82094,6 +82126,14 @@
     "contentId": "HP0202-PPSA20933_00-0527657545668622",
     "region": "HP",
     "publisherId": "HP0202"
+  },
+  {
+    "titleId": "PPSA20940_00",
+    "conceptId": 10004929,
+    "name": "Time Rift",
+    "contentId": "JP5187-PPSA20940_00-0726954018558934",
+    "region": "JP",
+    "publisherId": "JP5187"
   },
   {
     "titleId": "PPSA20953_00",
@@ -83504,6 +83544,22 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA22171_00",
+    "conceptId": 10010652,
+    "name": "Drift Streets Japan",
+    "contentId": "UP5682-PPSA22171_00-0335023973741701",
+    "region": "UP",
+    "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA22172_00",
+    "conceptId": 10010652,
+    "name": "Drift Streets Japan",
+    "contentId": "EP5864-PPSA22172_00-0414843150001797",
+    "region": "EP",
+    "publisherId": "EP5864"
+  },
+  {
     "titleId": "PPSA22182_00",
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
@@ -83534,5 +83590,13 @@
     "contentId": "EP2005-PPSA22247_00-FRUITCOLLECT0000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA22267_00",
+    "conceptId": 10007921,
+    "name": "Forest Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
