@@ -76216,6 +76216,14 @@
     "publisherId": "UP4459"
   },
   {
+    "titleId": "PPSA18901_00",
+    "conceptId": 10009332,
+    "name": "Rainbow Cotton PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18920_00",
     "conceptId": 10009341,
     "name": "Air Fight - Sky Fighters",
@@ -83563,17 +83571,17 @@
     "titleId": "PPSA22182_00",
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA22182_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA22183_00",
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22183_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22245_00",
