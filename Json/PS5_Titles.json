@@ -6152,6 +6152,14 @@
     "publisherId": "EP2333"
   },
   {
+    "titleId": "PPSA02724_00",
+    "conceptId": 10002209,
+    "name": "Open Roads",
+    "contentId": "JP2517-PPSA02724_00-OPENROADSSIEJ000",
+    "region": "JP",
+    "publisherId": "JP2517"
+  },
+  {
     "titleId": "PPSA02725_00",
     "conceptId": 10002209,
     "name": "Open Roads",
@@ -68864,6 +68872,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16817_00",
+    "conceptId": 10007142,
+    "name": "Neptunia Game Maker R:Evolution",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16822_00",
     "conceptId": 10008514,
     "name": "Harmony's Odyssey",
@@ -76218,10 +76234,18 @@
   {
     "titleId": "PPSA18901_00",
     "conceptId": 10009332,
-    "name": "Rainbow Cotton PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rainbow Cotton",
+    "contentId": "EP8204-PPSA18901_00-RAINBOWCTTNPS5EU",
+    "region": "EP",
+    "publisherId": "EP8204"
+  },
+  {
+    "titleId": "PPSA18902_00",
+    "conceptId": 10009332,
+    "name": "Rainbow Cotton",
+    "contentId": "UP8012-PPSA18902_00-RAINBOWCTTNPS5US",
+    "region": "UP",
+    "publisherId": "UP8012"
   },
   {
     "titleId": "PPSA18920_00",
@@ -78976,6 +79000,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19754_00",
+    "conceptId": 10009647,
+    "name": "Knowledge Keeper",
+    "contentId": "JP1932-PPSA19754_00-SYPS5KNOWLEDGEKE",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
     "titleId": "PPSA19757_00",
     "conceptId": 10009542,
     "name": "Grace",
@@ -80291,17 +80323,17 @@
     "titleId": "PPSA20145_00",
     "conceptId": 10009800,
     "name": "Saviorless",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA20145_00-SAVIORLESS0SIEA0",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA20146_00",
     "conceptId": 10009800,
     "name": "Saviorless",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA20146_00-SAVIORLESS0SIEE0",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA20167_00",
@@ -81408,6 +81440,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20522_00",
+    "conceptId": 10009951,
+    "name": "The Kindeman Remedy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20529_00",
     "conceptId": 10009614,
     "name": "Detective: Stella Porta Case",
@@ -81787,6 +81827,22 @@
     "titleId": "PPSA20710_00",
     "conceptId": 10010064,
     "name": "Super Destronaut Landed X Loaded",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20720_00",
+    "conceptId": 10010028,
+    "name": "Ready, Steady, Ship!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20721_00",
+    "conceptId": 10010028,
+    "name": "Ready, Steady, Ship!",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -82192,6 +82248,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20969_00",
+    "conceptId": 10010156,
+    "name": "Flute The Snake Charmer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20970_00",
+    "conceptId": 10010156,
+    "name": "Flute The Snake Charmer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20971_00",
     "conceptId": 10010155,
     "name": "Animals Drop",
@@ -82358,6 +82430,22 @@
     "contentId": "HP7141-PPSA21078_00-0472870082424611",
     "region": "HP",
     "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA21080_00",
+    "conceptId": 10010211,
+    "name": "Space Mercenary Defense Force",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21081_00",
+    "conceptId": 10010211,
+    "name": "Space Mercenary Defense Force",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21082_00",
@@ -82624,6 +82712,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA21207_00",
+    "conceptId": 10010250,
+    "name": "Become the wild",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21220_00",
     "conceptId": 10009996,
     "name": "Santa's Speedy Quest",
@@ -82840,6 +82936,22 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA21346_00",
+    "conceptId": 10010308,
+    "name": "Pretty Girls Escape PLUS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21347_00",
+    "conceptId": 10010308,
+    "name": "Pretty Girls Escape PLUS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21371_00",
     "conceptId": 10010317,
     "name": "Lost & Found Agency Collector's Edition",
@@ -82886,6 +82998,38 @@
     "contentId": "UP1421-PPSA21376_00-0434120031745533",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21389_00",
+    "conceptId": 10010329,
+    "name": "SokoFrog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21390_00",
+    "conceptId": 10010329,
+    "name": "SokoFrog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21391_00",
+    "conceptId": 10010330,
+    "name": "Ratyrinth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21392_00",
+    "conceptId": 10010330,
+    "name": "Ratyrinth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21397_00",
@@ -83262,6 +83406,14 @@
     "contentId": "UP5682-PPSA21666_00-0424309777739563",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA21667_00",
+    "conceptId": 211466,
+    "name": "Viaplay",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21674_00",
