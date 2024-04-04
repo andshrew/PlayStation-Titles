@@ -53024,6 +53024,22 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA11642_00",
+    "conceptId": 10006654,
+    "name": "Tappy Tilt",
+    "contentId": "UP7335-PPSA11642_00-3442899794098588",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA11644_00",
+    "conceptId": 10006654,
+    "name": "Tappy Tilt",
+    "contentId": "EP7333-PPSA11644_00-9696884748816084",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
     "titleId": "PPSA11655_00",
     "conceptId": 10006658,
     "name": "Panic House",
@@ -61888,6 +61904,14 @@
     "publisherId": "EP1063"
   },
   {
+    "titleId": "PPSA15180_00",
+    "conceptId": 10007588,
+    "name": "Stumble Guys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15181_00",
     "conceptId": 10006860,
     "name": "Paintball 3 - Candy Match Factory",
@@ -63171,6 +63195,14 @@
     "titleId": "PPSA15494_00",
     "conceptId": 234860,
     "name": "Sky Q",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15495_00",
+    "conceptId": 10007312,
+    "name": "Deceit 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -65964,8 +65996,8 @@
     "conceptId": 10008236,
     "name": "SaGa Emerald Beyond",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA16124_00",
@@ -69366,6 +69398,14 @@
     "contentId": "HP6979-PPSA16932_00-WILDMENDERASIA00",
     "region": "HP",
     "publisherId": "HP6979"
+  },
+  {
+    "titleId": "PPSA16934_00",
+    "conceptId": 10008586,
+    "name": "NeoSprint",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16938_00",
@@ -73376,6 +73416,14 @@
     "publisherId": "HP7967"
   },
   {
+    "titleId": "PPSA18062_00",
+    "conceptId": 10009036,
+    "name": "Let's! Revolution!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18072_00",
     "conceptId": 10008430,
     "name": "The Wizards - Dark Times",
@@ -75094,6 +75142,14 @@
     "contentId": "UP7452-PPSA18589_00-0346619902770953",
     "region": "UP",
     "publisherId": "UP7452"
+  },
+  {
+    "titleId": "PPSA18593_00",
+    "conceptId": 10008402,
+    "name": "Age of Water",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18597_00",
@@ -78987,17 +79043,17 @@
     "titleId": "PPSA19752_00",
     "conceptId": 10009647,
     "name": "Knowledge Keeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA19752_00-SYPS5KNOWLEDGEKE",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA19753_00",
     "conceptId": 10009647,
     "name": "Knowledge Keeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA19753_00-SYPS5KNOWLEDGEKE",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA19754_00",
@@ -79006,6 +79062,14 @@
     "contentId": "JP1932-PPSA19754_00-SYPS5KNOWLEDGEKE",
     "region": "JP",
     "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA19755_00",
+    "conceptId": 10009647,
+    "name": "Knowledge Keeper",
+    "contentId": "HP1792-PPSA19755_00-SYPS5KNOWLEDGEKE",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA19757_00",
@@ -82296,6 +82360,14 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA20986_00",
+    "conceptId": 10008236,
+    "name": "SaGa Emerald Beyond",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20987_00",
     "conceptId": 10010168,
     "name": "The Jumping Alphabet Soup",
@@ -82715,9 +82787,17 @@
     "titleId": "PPSA21207_00",
     "conceptId": 10010250,
     "name": "Become the wild",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7541-PPSA21207_00-0107150274599811",
+    "region": "EP",
+    "publisherId": "EP7541"
+  },
+  {
+    "titleId": "PPSA21208_00",
+    "conceptId": 10010250,
+    "name": "Become the wild",
+    "contentId": "UP7543-PPSA21208_00-0605121123900610",
+    "region": "UP",
+    "publisherId": "UP7543"
   },
   {
     "titleId": "PPSA21220_00",
@@ -82750,6 +82830,14 @@
     "contentId": "HP5538-PPSA21223_00-SANTASPEEDYPS5AS",
     "region": "HP",
     "publisherId": "HP5538"
+  },
+  {
+    "titleId": "PPSA21226_00",
+    "conceptId": 10008402,
+    "name": "Age of Water",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21250_00",
@@ -83376,6 +83464,22 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA21658_00",
+    "conceptId": 10009245,
+    "name": "SMITE 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21659_00",
+    "conceptId": 10009245,
+    "name": "SMITE 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21662_00",
     "conceptId": 10009616,
     "name": "Geometry Survivor",
@@ -83755,6 +83859,30 @@
     "titleId": "PPSA22267_00",
     "conceptId": 10007921,
     "name": "Forest Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22468_00",
+    "conceptId": 10010751,
+    "name": "Easter Journey",
+    "contentId": "EP5823-PPSA22468_00-EASTERJOURNEYEU5",
+    "region": "EP",
+    "publisherId": "EP5823"
+  },
+  {
+    "titleId": "PPSA22503_00",
+    "conceptId": 10010766,
+    "name": "Bit Dungeon Plus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22504_00",
+    "conceptId": 10010766,
+    "name": "Bit Dungeon Plus",
     "contentId": null,
     "region": null,
     "publisherId": null
