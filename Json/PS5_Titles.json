@@ -29936,6 +29936,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA07408_00",
+    "conceptId": 10004950,
+    "name": "The Prisoner of the Night",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07409_00",
     "conceptId": 10002601,
     "name": "Orcs Must Die! 3",
@@ -52240,6 +52248,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA11333_00",
+    "conceptId": 10006545,
+    "name": "House Flipper 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11334_00",
     "conceptId": 10006546,
     "name": "Find the Bug",
@@ -54758,6 +54774,14 @@
     "contentId": "EP7333-PPSA12671_00-0294374415676430",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA12672_00",
+    "conceptId": 10006973,
+    "name": "Ball Jumper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12673_00",
@@ -57302,6 +57326,14 @@
     "contentId": "UP7234-PPSA13718_00-0441395840157017",
     "region": "UP",
     "publisherId": "UP7234"
+  },
+  {
+    "titleId": "PPSA13719_00",
+    "conceptId": 10007313,
+    "name": "Dungeon Party",
+    "contentId": "EP7231-PPSA13719_00-0737837780513781",
+    "region": "EP",
+    "publisherId": "EP7231"
   },
   {
     "titleId": "PPSA13720_00",
@@ -64168,6 +64200,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15698_00",
+    "conceptId": 10008098,
+    "name": "SOUL COVENANT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15699_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
@@ -66108,8 +66148,8 @@
     "conceptId": 10008236,
     "name": "SaGa Emerald Beyond",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0082"
   },
   {
     "titleId": "PPSA16123_00",
@@ -67547,9 +67587,9 @@
     "titleId": "PPSA16461_00",
     "conceptId": 10008377,
     "name": "Freedom Planet 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1023-PPSA16461_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA16462_00",
@@ -69883,9 +69923,9 @@
     "titleId": "PPSA17021_00",
     "conceptId": 10008377,
     "name": "Freedom Planet 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4492-PPSA17021_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA17037_00",
@@ -70670,6 +70710,22 @@
     "contentId": "EP1121-PPSA17237_00-XXXXXXXXXXXXXXXX",
     "region": "EP",
     "publisherId": "EP1121"
+  },
+  {
+    "titleId": "PPSA17248_00",
+    "conceptId": 10008723,
+    "name": "Sokobalien",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17249_00",
+    "conceptId": 10008723,
+    "name": "Sokobalien",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17251_00",
@@ -82368,6 +82424,22 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA20867_00",
+    "conceptId": 10010118,
+    "name": "Candle Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20868_00",
+    "conceptId": 10010118,
+    "name": "Candle Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20873_00",
     "conceptId": 10007222,
     "name": "Turbo Golf Racing",
@@ -84131,9 +84203,9 @@
     "titleId": "PPSA22267_00",
     "conceptId": 10007921,
     "name": "Forest Farm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7664-PPSA22267_00-0571649923727508",
+    "region": "UP",
+    "publisherId": "UP7664"
   },
   {
     "titleId": "PPSA22467_00",
