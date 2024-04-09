@@ -18307,9 +18307,9 @@
     "titleId": "PPSA05199_00",
     "conceptId": 10003763,
     "name": "Predecessor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6924-PPSA05199_00-8884074712914232",
+    "region": "EP",
+    "publisherId": "EP6924"
   },
   {
     "titleId": "PPSA05201_00",
@@ -27166,6 +27166,22 @@
     "contentId": "EP1245-PPSA06853_00-9370640545650062",
     "region": "EP",
     "publisherId": "EP1245"
+  },
+  {
+    "titleId": "PPSA06861_00",
+    "conceptId": 10004505,
+    "name": "Gigantic: Rampage Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA06862_00",
+    "conceptId": 10004505,
+    "name": "Gigantic: Rampage Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06864_00",
@@ -65144,6 +65160,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15902_00",
+    "conceptId": 10008169,
+    "name": "Bunhouse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15903_00",
     "conceptId": 10008142,
     "name": "Zombie Soup",
@@ -79560,6 +79584,22 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA19833_00",
+    "conceptId": 10006833,
+    "name": "Harmony: The Fall of Reverie Demo",
+    "contentId": "UP5898-PPSA19833_00-0825401446591189",
+    "region": "UP",
+    "publisherId": "UP5898"
+  },
+  {
+    "titleId": "PPSA19834_00",
+    "conceptId": 10006833,
+    "name": "Harmony: The Fall of Reverie Demo",
+    "contentId": "EP8091-PPSA19834_00-0090419485338906",
+    "region": "EP",
+    "publisherId": "EP8091"
+  },
+  {
     "titleId": "PPSA19835_00",
     "conceptId": 10009683,
     "name": "Aztec Tiki Talisman",
@@ -83760,6 +83800,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA21632_00",
+    "conceptId": 10000392,
+    "name": "Reed 2",
+    "contentId": "EP0896-PPSA21632_00-RATALAIKAGAREED2",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA21634_00",
     "conceptId": 10010438,
     "name": "Good Guys",
@@ -84144,6 +84192,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22061_00",
+    "conceptId": 10009692,
+    "name": "DANJIGOKU",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22062_00",
     "conceptId": 10009692,
     "name": "DANJIGOKU",
@@ -84315,17 +84371,17 @@
     "titleId": "PPSA22479_00",
     "conceptId": 10010755,
     "name": "Cazzarion: Dart Wheel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA22479_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA22480_00",
     "conceptId": 10010755,
     "name": "Cazzarion: Dart Wheel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22480_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22503_00",
