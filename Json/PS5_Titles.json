@@ -31040,6 +31040,22 @@
     "publisherId": "UP3004"
   },
   {
+    "titleId": "PPSA07622_00",
+    "conceptId": 10005062,
+    "name": "A Tale of Paper - Refolded",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07623_00",
+    "conceptId": 10005062,
+    "name": "A Tale of Paper - Refolded",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07624_00",
     "conceptId": 10005063,
     "name": "Gravitar: Recharged",
@@ -62019,9 +62035,9 @@
     "titleId": "PPSA15179_00",
     "conceptId": 10007588,
     "name": "Stumble Guys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7396-PPSA15179_00-STUMBLE0GUYSXXXX",
+    "region": "HP",
+    "publisherId": "HP7396"
   },
   {
     "titleId": "PPSA15180_00",
@@ -77888,6 +77904,14 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA19301_00",
+    "conceptId": 10005401,
+    "name": "Slave Zero X",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19304_00",
     "conceptId": 10008963,
     "name": "Grace of Letoile",
@@ -79088,6 +79112,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA19684_00",
+    "conceptId": 10009545,
+    "name": "Adam Wolfe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19690_00",
     "conceptId": 10001203,
     "name": "\u9ed1\u767d\u83ab\u6bd4\u70cf\u65af \u6b72\u6708\u7684\u4ee3\u50f9",
@@ -79966,6 +79998,14 @@
     "contentId": "HP4625-PPSA19930_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP4625"
+  },
+  {
+    "titleId": "PPSA19937_00",
+    "conceptId": 10008509,
+    "name": "Turok 3: Shadow of Oblivion",
+    "contentId": "EP0917-PPSA19937_00-0619186901718700",
+    "region": "EP",
+    "publisherId": "EP0917"
   },
   {
     "titleId": "PPSA19946_00",
@@ -81406,6 +81446,14 @@
     "contentId": "EP8565-PPSA20407_00-0068492117758980",
     "region": "EP",
     "publisherId": "EP8565"
+  },
+  {
+    "titleId": "PPSA20413_00",
+    "conceptId": 10009918,
+    "name": "ITVX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20414_00",
@@ -83467,17 +83515,17 @@
     "titleId": "PPSA21389_00",
     "conceptId": 10010329,
     "name": "SokoFrog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA21389_00-SOKOFROG00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA21390_00",
     "conceptId": 10010329,
     "name": "SokoFrog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA21390_00-SOKOFROG00000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA21391_00",
@@ -83808,6 +83856,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA21633_00",
+    "conceptId": 10000392,
+    "name": "Reed 2",
+    "contentId": "UP0891-PPSA21633_00-RATALAIKAGAREED2",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
     "titleId": "PPSA21634_00",
     "conceptId": 10010438,
     "name": "Good Guys",
@@ -84024,6 +84080,22 @@
     "publisherId": "UP1643"
   },
   {
+    "titleId": "PPSA21830_00",
+    "conceptId": 10010518,
+    "name": "Pachi Pachi",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21831_00",
+    "conceptId": 10010518,
+    "name": "Pachi Pachi",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21833_00",
     "conceptId": 10000269,
     "name": "Valley of the Dead: MalnaZidos",
@@ -84187,9 +84259,9 @@
     "titleId": "PPSA22060_00",
     "conceptId": 10009692,
     "name": "DANJIGOKU",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA22060_00-0868001848439146",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA22061_00",
@@ -84203,9 +84275,9 @@
     "titleId": "PPSA22062_00",
     "conceptId": 10009692,
     "name": "DANJIGOKU",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA22062_00-0665292363391174",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA22063_00",
@@ -84219,33 +84291,33 @@
     "titleId": "PPSA22068_00",
     "conceptId": 10010613,
     "name": "Reading World VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8431-PPSA22068_00-0592890161883432",
+    "region": "UP",
+    "publisherId": "UP8431"
   },
   {
     "titleId": "PPSA22069_00",
     "conceptId": 10010613,
     "name": "Reading World VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8621-PPSA22069_00-0970837209274117",
+    "region": "EP",
+    "publisherId": "EP8621"
   },
   {
     "titleId": "PPSA22070_00",
     "conceptId": 10010613,
     "name": "Reading World VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8336-PPSA22070_00-0877255520157325",
+    "region": "JP",
+    "publisherId": "JP8336"
   },
   {
     "titleId": "PPSA22071_00",
     "conceptId": 10010613,
     "name": "Reading World VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8381-PPSA22071_00-0653050130123425",
+    "region": "HP",
+    "publisherId": "HP8381"
   },
   {
     "titleId": "PPSA22072_00",
