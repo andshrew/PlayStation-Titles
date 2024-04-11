@@ -62027,9 +62027,9 @@
     "titleId": "PPSA15178_00",
     "conceptId": 10007588,
     "name": "Stumble Guys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7377-PPSA15178_00-STUMBLE0GUYSXXXX",
+    "region": "UP",
+    "publisherId": "UP7377"
   },
   {
     "titleId": "PPSA15179_00",
@@ -62043,9 +62043,9 @@
     "titleId": "PPSA15180_00",
     "conceptId": 10007588,
     "name": "Stumble Guys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7351-PPSA15180_00-STUMBLE0GUYSXXXX",
+    "region": "JP",
+    "publisherId": "JP7351"
   },
   {
     "titleId": "PPSA15181_00",
@@ -62811,7 +62811,7 @@
     "titleId": "PPSA15390_00",
     "conceptId": 10005401,
     "name": "\u30b9\u30ec\u30a4\u30d6 \u30bc\u30ed X",
-    "contentId": null,
+    "contentId": "JP5134-PPSA15390_00-SLAVEZEROXBEEP01",
     "region": "JP",
     "publisherId": "JP5134"
   },
@@ -66376,6 +66376,14 @@
     "publisherId": "EP4293"
   },
   {
+    "titleId": "PPSA16158_00",
+    "conceptId": 10008024,
+    "name": "Die Again",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16161_00",
     "conceptId": 10007906,
     "name": "Saltsea Chronicles",
@@ -68971,9 +68979,9 @@
     "titleId": "PPSA16763_00",
     "conceptId": 10005578,
     "name": "The Dragoness: Command of the Flame",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA16763_00-DRAGONESSJPPS500",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA16765_00",
@@ -70499,9 +70507,9 @@
     "titleId": "PPSA17174_00",
     "conceptId": 234957,
     "name": "Inertial Drift",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5905-PPSA17174_00-INERTIALDRIFT001",
+    "region": "JP",
+    "publisherId": "JP5905"
   },
   {
     "titleId": "PPSA17175_00",
@@ -71630,6 +71638,14 @@
     "contentId": "EP7541-PPSA17504_00-0270084816951260",
     "region": "EP",
     "publisherId": "EP7541"
+  },
+  {
+    "titleId": "PPSA17505_00",
+    "conceptId": 10007656,
+    "name": "Everdream Valley",
+    "contentId": "HP6885-PPSA17505_00-0689087997748518",
+    "region": "HP",
+    "publisherId": "HP6885"
   },
   {
     "titleId": "PPSA17506_00",
@@ -77906,10 +77922,10 @@
   {
     "titleId": "PPSA19301_00",
     "conceptId": 10005401,
-    "name": "Slave Zero X",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Slave Zero X Soundtrack & Art Gallery",
+    "contentId": "JP5134-PPSA19301_00-0250363023064231",
+    "region": "JP",
+    "publisherId": "JP5134"
   },
   {
     "titleId": "PPSA19304_00",
@@ -79112,12 +79128,20 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA19683_00",
+    "conceptId": 10009545,
+    "name": "Adam Wolfe",
+    "contentId": "UB0429-PPSA19683_00-ADAMWOLFE0000000",
+    "region": "UB",
+    "publisherId": "UB0429"
+  },
+  {
     "titleId": "PPSA19684_00",
     "conceptId": 10009545,
     "name": "Adam Wolfe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0620-PPSA19684_00-ADAMWOLFE0000000",
+    "region": "EB",
+    "publisherId": "EB0620"
   },
   {
     "titleId": "PPSA19690_00",
@@ -79998,6 +80022,14 @@
     "contentId": "HP4625-PPSA19930_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP4625"
+  },
+  {
+    "titleId": "PPSA19936_00",
+    "conceptId": 10008509,
+    "name": "Turok 3: Shadow of Oblivion",
+    "contentId": "UP0913-PPSA19936_00-0409369412769862",
+    "region": "UP",
+    "publisherId": "UP0913"
   },
   {
     "titleId": "PPSA19937_00",
@@ -82824,6 +82856,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA20997_00",
+    "conceptId": 10010171,
+    "name": "Power Racing Bundle",
+    "contentId": "JP5432-PPSA20997_00-0220895048413472",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA21016_00",
     "conceptId": 10007938,
     "name": "Labyrinth Junior",
@@ -82862,6 +82902,22 @@
     "contentId": "EP5823-PPSA21031_00-JIGSAWTETRAPS5EU",
     "region": "EP",
     "publisherId": "EP5823"
+  },
+  {
+    "titleId": "PPSA21036_00",
+    "conceptId": 10003484,
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21037_00",
+    "conceptId": 10003484,
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21051_00",
@@ -83110,6 +83166,22 @@
     "contentId": "HB0350-PPSA21178_00-CMNDOSHERPURR200",
     "region": "HB",
     "publisherId": "HB0350"
+  },
+  {
+    "titleId": "PPSA21180_00",
+    "conceptId": 10002179,
+    "name": "Potion Permit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21181_00",
+    "conceptId": 10002179,
+    "name": "Potion Permit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21182_00",
@@ -83459,6 +83531,22 @@
     "titleId": "PPSA21347_00",
     "conceptId": 10010308,
     "name": "Pretty Girls Escape PLUS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21357_00",
+    "conceptId": 10010314,
+    "name": "Hidden Cats in New York",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21358_00",
+    "conceptId": 10010314,
+    "name": "Hidden Cats in New York",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -84267,9 +84355,9 @@
     "titleId": "PPSA22061_00",
     "conceptId": 10009692,
     "name": "DANJIGOKU",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA22061_00-0885313118627713",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA22062_00",
@@ -84283,9 +84371,9 @@
     "titleId": "PPSA22063_00",
     "conceptId": 10009692,
     "name": "DANJIGOKU",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA22063_00-0331705516587306",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA22068_00",
@@ -84483,6 +84571,22 @@
     "titleId": "PPSA22556_00",
     "conceptId": 10010790,
     "name": "Cazzarion: Pop The Bubbles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22590_00",
+    "conceptId": 10010799,
+    "name": "Cazzarion: Speed Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22591_00",
+    "conceptId": 10010799,
+    "name": "Cazzarion: Speed Run",
     "contentId": null,
     "region": null,
     "publisherId": null
