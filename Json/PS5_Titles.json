@@ -14744,6 +14744,14 @@
     "publisherId": "JP6079"
   },
   {
+    "titleId": "PPSA04449_00",
+    "conceptId": 234064,
+    "name": "The Savior's Gang",
+    "contentId": "UP3876-PPSA04449_00-8182561270564583",
+    "region": "UP",
+    "publisherId": "UP3876"
+  },
+  {
     "titleId": "PPSA04450_00",
     "conceptId": 234064,
     "name": "The Savior's Gang",
@@ -29950,6 +29958,14 @@
     "contentId": "EP2005-PPSA07406_00-UNTILLASTPLANE00",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA07407_00",
+    "conceptId": 10004950,
+    "name": "The Prisoner of the Night",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07408_00",
@@ -53440,6 +53456,14 @@
     "publisherId": "UP4729"
   },
   {
+    "titleId": "PPSA12369_00",
+    "conceptId": 10006392,
+    "name": "Mechs V Kaijus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12371_00",
     "conceptId": 10006413,
     "name": "Kawaii Slime Arena",
@@ -55860,6 +55884,14 @@
     "conceptId": 10004739,
     "name": "Charlie The Roach",
     "contentId": "EP7274-PPSA13402_00-0736552829290401",
+    "region": "EP",
+    "publisherId": "EP7274"
+  },
+  {
+    "titleId": "PPSA13403_00",
+    "conceptId": 10004745,
+    "name": "Metal Savior Black",
+    "contentId": "EP7274-PPSA13403_00-0393819017633805",
     "region": "EP",
     "publisherId": "EP7274"
   },
@@ -60419,9 +60451,9 @@
     "titleId": "PPSA14291_00",
     "conceptId": 10007588,
     "name": "Stumble Guys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7375-PPSA14291_00-STUMBLE0GUYSXXXX",
+    "region": "EP",
+    "publisherId": "EP7375"
   },
   {
     "titleId": "PPSA14292_00",
@@ -61902,6 +61934,14 @@
     "contentId": "UP3165-PPSA14972_00-ULTIMATERUNPS5US",
     "region": "UP",
     "publisherId": "UP3165"
+  },
+  {
+    "titleId": "PPSA15021_00",
+    "conceptId": 10007679,
+    "name": "Insurmountable",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15035_00",
@@ -65178,10 +65218,10 @@
   {
     "titleId": "PPSA15902_00",
     "conceptId": 10008169,
-    "name": "Bunhouse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BunHouse",
+    "contentId": "EP8925-PPSA15902_00-0176883276653507",
+    "region": "EP",
+    "publisherId": "EP8925"
   },
   {
     "titleId": "PPSA15903_00",
@@ -79144,6 +79184,14 @@
     "publisherId": "EB0620"
   },
   {
+    "titleId": "PPSA19689_00",
+    "conceptId": 10009627,
+    "name": "Apollo 13: The Lost Tapes VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19690_00",
     "conceptId": 10001203,
     "name": "\u9ed1\u767d\u83ab\u6bd4\u70cf\u65af \u6b72\u6708\u7684\u4ee3\u50f9",
@@ -79323,17 +79371,17 @@
     "titleId": "PPSA19743_00",
     "conceptId": 10005653,
     "name": "Loretta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3919-PPSA19743_00-LORETTAEU0000000",
+    "region": "EP",
+    "publisherId": "EP3919"
   },
   {
     "titleId": "PPSA19744_00",
     "conceptId": 10005653,
     "name": "Loretta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4108-PPSA19744_00-LORETTAJP0000000",
+    "region": "JP",
+    "publisherId": "JP4108"
   },
   {
     "titleId": "PPSA19749_00",
@@ -80203,9 +80251,9 @@
     "titleId": "PPSA20008_00",
     "conceptId": 10009742,
     "name": "Mixture",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA20008_00-0799350966123831",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA20009_00",
@@ -80787,9 +80835,9 @@
     "titleId": "PPSA20183_00",
     "conceptId": 10009036,
     "name": "Let's! Revolution!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6758-PPSA20183_00-0696627952079919",
+    "region": "EP",
+    "publisherId": "EP6758"
   },
   {
     "titleId": "PPSA20184_00",
@@ -80811,9 +80859,17 @@
     "titleId": "PPSA20186_00",
     "conceptId": 10009036,
     "name": "Let's! Revolution!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6708-PPSA20186_00-0029436924870616",
+    "region": "JP",
+    "publisherId": "JP6708"
+  },
+  {
+    "titleId": "PPSA20187_00",
+    "conceptId": 10009036,
+    "name": "Let's! Revolution!",
+    "contentId": "HP6766-PPSA20187_00-0182548593242271",
+    "region": "HP",
+    "publisherId": "HP6766"
   },
   {
     "titleId": "PPSA20196_00",
@@ -81803,9 +81859,9 @@
     "titleId": "PPSA20501_00",
     "conceptId": 10009968,
     "name": "Outer Terror",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA20501_00-OUTERTERRORRATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA20502_00",
@@ -81891,9 +81947,9 @@
     "titleId": "PPSA20522_00",
     "conceptId": 10009951,
     "name": "The Kindeman Remedy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5459-PPSA20522_00-0249636723801216",
+    "region": "UP",
+    "publisherId": "UP5459"
   },
   {
     "titleId": "PPSA20529_00",
@@ -82616,6 +82672,14 @@
     "publisherId": "EB0178"
   },
   {
+    "titleId": "PPSA20878_00",
+    "conceptId": 10008894,
+    "name": "Assault Suit Leynos 2 Saturn Tribute PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20883_00",
     "conceptId": 10010091,
     "name": "\u3078\u3079\u308c\u30512",
@@ -82904,6 +82968,14 @@
     "publisherId": "EP5823"
   },
   {
+    "titleId": "PPSA21035_00",
+    "conceptId": 10003484,
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21036_00",
     "conceptId": 10003484,
     "name": "Eiyuden Chronicle: Hundred Heroes",
@@ -83083,6 +83155,22 @@
     "titleId": "PPSA21101_00",
     "conceptId": 10008884,
     "name": "Sea of Thieves",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21103_00",
+    "conceptId": 10010228,
+    "name": "Teared",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21104_00",
+    "conceptId": 10010228,
+    "name": "Teared",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -83536,6 +83624,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21348_00",
+    "conceptId": 10010309,
+    "name": "\u30b0\u30ed\u30ea\u30a2\u30b9\u30bb\u30a4\u30d0\u30fc",
+    "contentId": "JP0013-PPSA21348_00-JP0GSAVIOR000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA21357_00",
     "conceptId": 10010314,
     "name": "Hidden Cats in New York",
@@ -83627,6 +83723,22 @@
     "titleId": "PPSA21392_00",
     "conceptId": 10010330,
     "name": "Ratyrinth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21393_00",
+    "conceptId": 10010309,
+    "name": "Glorious Savior",
+    "contentId": "UP2500-PPSA21393_00-US0GSAVIOR000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA21394_00",
+    "conceptId": 10010309,
+    "name": "Glorious Savior",
     "contentId": null,
     "region": null,
     "publisherId": null
