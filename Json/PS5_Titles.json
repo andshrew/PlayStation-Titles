@@ -27896,6 +27896,14 @@
     "publisherId": "UP7276"
   },
   {
+    "titleId": "PPSA07002_00",
+    "conceptId": 10004745,
+    "name": "Metal Savior Black",
+    "contentId": "UP7276-PPSA07002_00-8081862675154770",
+    "region": "UP",
+    "publisherId": "UP7276"
+  },
+  {
     "titleId": "PPSA07003_00",
     "conceptId": 10001070,
     "name": "SOUL HACKERS 25th Anniversary Music Album",
@@ -28294,6 +28302,14 @@
     "contentId": "EP0896-PPSA07073_00-RATALAIKATAQOBAN",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA07074_00",
+    "conceptId": 10004794,
+    "name": "Whisker Waters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07075_00",
@@ -34438,6 +34454,14 @@
     "contentId": "JP0082-PPSA08259_00-000000000PS5OWOE",
     "region": "JP",
     "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA08261_00",
+    "conceptId": 10005323,
+    "name": "Star Wars Outlaws",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0001"
   },
   {
     "titleId": "PPSA08263_00",
@@ -43819,17 +43843,17 @@
     "titleId": "PPSA09887_00",
     "conceptId": 10006036,
     "name": "Moonglow Bay",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2680-PPSA09887_00-MOONGLOWBAYXXXXX",
+    "region": "UP",
+    "publisherId": "UP2680"
   },
   {
     "titleId": "PPSA09888_00",
     "conceptId": 10006036,
     "name": "Moonglow Bay",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8936-PPSA09888_00-MOONGLOWBAYXXXXX",
+    "region": "EP",
+    "publisherId": "EP8936"
   },
   {
     "titleId": "PPSA09892_00",
@@ -50120,6 +50144,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA10943_00",
+    "conceptId": 10004056,
+    "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6213"
+  },
+  {
     "titleId": "PPSA10946_00",
     "conceptId": 10005565,
     "name": "Among Us VR",
@@ -54851,9 +54883,9 @@
     "titleId": "PPSA12673_00",
     "conceptId": 10006973,
     "name": "Ball Jumper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA12673_00-0240449364173766",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA12674_00",
@@ -65234,10 +65266,10 @@
   {
     "titleId": "PPSA15901_00",
     "conceptId": 10008169,
-    "name": "Bunhouse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BunHouse",
+    "contentId": "UP2187-PPSA15901_00-0275400229395087",
+    "region": "UP",
+    "publisherId": "UP2187"
   },
   {
     "titleId": "PPSA15902_00",
@@ -66440,12 +66472,20 @@
     "publisherId": "EP4293"
   },
   {
+    "titleId": "PPSA16157_00",
+    "conceptId": 10008024,
+    "name": "Die Again",
+    "contentId": "UP3876-PPSA16157_00-DIEAGAIN0000PS5A",
+    "region": "UP",
+    "publisherId": "UP3876"
+  },
+  {
     "titleId": "PPSA16158_00",
     "conceptId": 10008024,
     "name": "Die Again",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3729-PPSA16158_00-DIEAGAIN000PS5EU",
+    "region": "EP",
+    "publisherId": "EP3729"
   },
   {
     "titleId": "PPSA16161_00",
@@ -66766,6 +66806,22 @@
     "contentId": "JP0676-PPSA16243_00-GOODBYEVOLCANOHI",
     "region": "JP",
     "publisherId": "JP0676"
+  },
+  {
+    "titleId": "PPSA16244_00",
+    "conceptId": 10008317,
+    "name": "Capes",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8923"
+  },
+  {
+    "titleId": "PPSA16245_00",
+    "conceptId": 10008317,
+    "name": "Capes",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA16246_00",
@@ -73102,6 +73158,14 @@
     "contentId": "EP6890-PPSA17888_00-0440997111584898",
     "region": "EP",
     "publisherId": "EP6890"
+  },
+  {
+    "titleId": "PPSA17889_00",
+    "conceptId": 10004056,
+    "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5028"
   },
   {
     "titleId": "PPSA17890_00",
@@ -83224,6 +83288,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21111_00",
+    "conceptId": 10010229,
+    "name": "TEVI",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21112_00",
     "conceptId": 10010229,
     "name": "TEVI",
@@ -84296,12 +84368,36 @@
     "publisherId": "HP1546"
   },
   {
+    "titleId": "PPSA21718_00",
+    "conceptId": 10003586,
+    "name": "Boulder Dash Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21735_00",
     "conceptId": 10004850,
     "name": "Trinity Fusion Demo",
     "contentId": "UP2329-PPSA21735_00-TRINITYFDEMOP5US",
     "region": "UP",
     "publisherId": "UP2329"
+  },
+  {
+    "titleId": "PPSA21740_00",
+    "conceptId": 10003586,
+    "name": "\u30d0\u30eb\u30c0\u30fc\u30c0\u30c3\u30b7\u30e5\u30c7\u30e9\u30c3\u30af\u30b9",
+    "contentId": "JP7335-PPSA21740_00-0657623525303255",
+    "region": "JP",
+    "publisherId": "JP7335"
+  },
+  {
+    "titleId": "PPSA21741_00",
+    "conceptId": 10003586,
+    "name": "BOULDER DASH Deluxe",
+    "contentId": "HP7379-PPSA21741_00-0561470384669663",
+    "region": "HP",
+    "publisherId": "HP7379"
   },
   {
     "titleId": "PPSA21768_00",
@@ -84726,6 +84822,14 @@
     "contentId": "EB0629-PPSA22480_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA22490_00",
+    "conceptId": 10010229,
+    "name": "TEVI",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22503_00",
