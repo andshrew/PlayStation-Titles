@@ -22304,6 +22304,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA05968_00",
+    "conceptId": 10000669,
+    "name": "Ratchet & Clank: Rift Apart",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05969_00",
     "conceptId": 10003936,
     "name": "SushiRun",
@@ -28294,6 +28302,14 @@
     "contentId": "HP2005-PPSA07071_00-RAYLAND000000000",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA07072_00",
+    "conceptId": 10004794,
+    "name": "Whisker Waters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07073_00",
@@ -64298,10 +64314,10 @@
   {
     "titleId": "PPSA15694_00",
     "conceptId": 10004745,
-    "name": "Metal Savior Black",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Metal Savior Black Soundtrack",
+    "contentId": "UP7276-PPSA15694_00-0514719580769759",
+    "region": "UP",
+    "publisherId": "UP7276"
   },
   {
     "titleId": "PPSA15695_00",
@@ -70240,6 +70256,14 @@
     "publisherId": "HP8005"
   },
   {
+    "titleId": "PPSA17079_00",
+    "conceptId": 10007606,
+    "name": "POMBERO: The Lord of the Night",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17082_00",
     "conceptId": 10008650,
     "name": "Long Gone Days",
@@ -72782,6 +72806,14 @@
     "contentId": "UP0891-PPSA17793_00-KITTENHERORATGAM",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA17794_00",
+    "conceptId": 10004056,
+    "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA17796_00",
@@ -78555,7 +78587,7 @@
     "titleId": "PPSA19450_00",
     "conceptId": 10009541,
     "name": "Planet of Lana",
-    "contentId": null,
+    "contentId": "EP5360-PPSA19450_00-PLANETOFLANA05EU",
     "region": "EP",
     "publisherId": "EP5360"
   },
@@ -84370,10 +84402,18 @@
   {
     "titleId": "PPSA21718_00",
     "conceptId": 10003586,
-    "name": "Boulder Dash Deluxe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BOULDER DASH Deluxe",
+    "contentId": "EP7357-PPSA21718_00-0991238298664314",
+    "region": "EP",
+    "publisherId": "EP7357"
+  },
+  {
+    "titleId": "PPSA21719_00",
+    "conceptId": 10003586,
+    "name": "BOULDER DASH Deluxe",
+    "contentId": "UP7359-PPSA21719_00-0451727878504997",
+    "region": "UP",
+    "publisherId": "UP7359"
   },
   {
     "titleId": "PPSA21735_00",
