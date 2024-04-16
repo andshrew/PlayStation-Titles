@@ -34472,12 +34472,28 @@
     "publisherId": "JP0082"
   },
   {
+    "titleId": "PPSA08260_00",
+    "conceptId": 10005323,
+    "name": "Star Wars Outlaws",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0001"
+  },
+  {
     "titleId": "PPSA08261_00",
     "conceptId": 10005323,
     "name": "Star Wars Outlaws",
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0001"
+  },
+  {
+    "titleId": "PPSA08262_00",
+    "conceptId": 10005323,
+    "name": "Star Wars Outlaws",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA08263_00",
@@ -44723,9 +44739,9 @@
     "titleId": "PPSA10056_00",
     "conceptId": 10005295,
     "name": "Broken Roads",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0131-PPSA10056_00-BROKENROADS00000",
+    "region": "EP",
+    "publisherId": "EP0131"
   },
   {
     "titleId": "PPSA10057_00",
@@ -52355,9 +52371,9 @@
     "titleId": "PPSA11333_00",
     "conceptId": 10006545,
     "name": "House Flipper 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5347-PPSA11333_00-HOUSEFLIPPER02EU",
+    "region": "EP",
+    "publisherId": "EP5347"
   },
   {
     "titleId": "PPSA11334_00",
@@ -61627,17 +61643,17 @@
     "titleId": "PPSA14680_00",
     "conceptId": 10007743,
     "name": "PERISH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4539-PPSA14680_00-0380429015353443",
+    "region": "EP",
+    "publisherId": "EP4539"
   },
   {
     "titleId": "PPSA14681_00",
     "conceptId": 10007743,
     "name": "PERISH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0977-PPSA14681_00-0380429015353443",
+    "region": "UP",
+    "publisherId": "UP0977"
   },
   {
     "titleId": "PPSA14682_00",
@@ -80992,6 +81008,14 @@
     "publisherId": "HP6766"
   },
   {
+    "titleId": "PPSA20193_00",
+    "conceptId": 10009812,
+    "name": "Fishbowl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20196_00",
     "conceptId": 10009818,
     "name": "\u4e0d\u601d\u8b70\u306e\u56fd\u306e\u5192\u967a\u9152\u5834",
@@ -84560,6 +84584,14 @@
     "publisherId": "UB0045"
   },
   {
+    "titleId": "PPSA21948_00",
+    "conceptId": 10000875,
+    "name": "Raji: An Ancient Epic",
+    "contentId": "JP4832-PPSA21948_00-0325373123212591",
+    "region": "JP",
+    "publisherId": "JP4832"
+  },
+  {
     "titleId": "PPSA21955_00",
     "conceptId": 10010569,
     "name": "Cazzarion: Astro Bouncer",
@@ -84656,6 +84688,30 @@
     "publisherId": "UP5682"
   },
   {
+    "titleId": "PPSA22056_00",
+    "conceptId": 10009685,
+    "name": "The Forgotten Tribe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22058_00",
+    "conceptId": 10009685,
+    "name": "The Forgotten Tribe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22059_00",
+    "conceptId": 10009685,
+    "name": "The Forgotten Tribe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22060_00",
     "conceptId": 10009692,
     "name": "DANJIGOKU",
@@ -84686,6 +84742,38 @@
     "contentId": "HP8504-PPSA22063_00-0331705516587306",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA22064_00",
+    "conceptId": 10009672,
+    "name": "LASSO CATCH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22065_00",
+    "conceptId": 10009672,
+    "name": "LASSO CATCH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22066_00",
+    "conceptId": 10009672,
+    "name": "LASSO CATCH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22067_00",
+    "conceptId": 10009672,
+    "name": "LASSO CATCH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22068_00",
@@ -84890,18 +84978,18 @@
   {
     "titleId": "PPSA22555_00",
     "conceptId": 10010790,
-    "name": "Cazzarion: Pop The Bubbles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Cazzarion: Pop The Bubble",
+    "contentId": "UB0438-PPSA22555_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA22556_00",
     "conceptId": 10010790,
-    "name": "Cazzarion: Pop The Bubbles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Cazzarion: Pop The Bubble",
+    "contentId": "EB0629-PPSA22556_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22590_00",
@@ -84918,5 +85006,13 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA22687_00",
+    "conceptId": 10010389,
+    "name": "Rubber Hose Rampage",
+    "contentId": "EP7994-PPSA22687_00-0325186481251943",
+    "region": "EP",
+    "publisherId": "EP7994"
   }
 ]
