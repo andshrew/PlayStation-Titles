@@ -27195,9 +27195,9 @@
     "titleId": "PPSA06862_00",
     "conceptId": 10004505,
     "name": "Gigantic: Rampage Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1965-PPSA06862_00-GIGANTIC00000000",
+    "region": "EP",
+    "publisherId": "EP1965"
   },
   {
     "titleId": "PPSA06864_00",
@@ -52363,9 +52363,9 @@
     "titleId": "PPSA11332_00",
     "conceptId": 10006545,
     "name": "House Flipper 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5167-PPSA11332_00-HOUSEFLIPPER02US",
+    "region": "UP",
+    "publisherId": "UP5167"
   },
   {
     "titleId": "PPSA11333_00",
@@ -63771,7 +63771,7 @@
     "titleId": "PPSA15547_00",
     "conceptId": 10008048,
     "name": "Grounded",
-    "contentId": null,
+    "contentId": "UP6312-PPSA15547_00-OGUNQUIT00000000",
     "region": "UP",
     "publisherId": "UP6312"
   },
@@ -64830,6 +64830,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15811_00",
+    "conceptId": 10008138,
+    "name": "MediEvil",
+    "contentId": "UP9000-PPSA15811_00-SCUS942270000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA15813_00",
+    "conceptId": 10008138,
+    "name": "\u30e1\u30c7\u30a3\u30fc\u30d0\u30eb\u3000\uff5e\u7526\u3063\u305f\u30ac\u30ed\u30e1\u30a2\u306e\u52c7\u8005\uff5e",
+    "contentId": "JP9000-PPSA15813_00-SCPS100810000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA15818_00",
@@ -75720,6 +75736,22 @@
     "publisherId": "UP0017"
   },
   {
+    "titleId": "PPSA18619_00",
+    "conceptId": 10009245,
+    "name": "SMITE 2 Founder's Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0334"
+  },
+  {
+    "titleId": "PPSA18620_00",
+    "conceptId": 10009245,
+    "name": "SMITE 2 Founder's Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0331"
+  },
+  {
     "titleId": "PPSA18626_00",
     "conceptId": 10009252,
     "name": "Little Cities: Bigger!",
@@ -77370,10 +77402,10 @@
   {
     "titleId": "PPSA19115_00",
     "conceptId": 10009413,
-    "name": "DAVE THE DIVER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c7\u30a4\u30f4\u30fb\u30b6\u30fb\u30c0\u30a4\u30d0\u30fc",
+    "contentId": "UP8236-PPSA19115_00-0015587721224151",
+    "region": "UP",
+    "publisherId": "UP8236"
   },
   {
     "titleId": "PPSA19116_00",
@@ -77530,10 +77562,10 @@
   {
     "titleId": "PPSA19145_00",
     "conceptId": 10002211,
-    "name": "XDefiant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "XDefiant - Server Test Session",
+    "contentId": "EP0001-PPSA19145_00-VMCNDA0000000000",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA19146_00",
@@ -77878,6 +77910,14 @@
     "contentId": "EP6087-PPSA19257_00-0257797966290427",
     "region": "EP",
     "publisherId": "EP6087"
+  },
+  {
+    "titleId": "PPSA19258_00",
+    "conceptId": 10009439,
+    "name": "BIG SHOTS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19266_00",
@@ -78611,7 +78651,7 @@
     "titleId": "PPSA19451_00",
     "conceptId": 10009541,
     "name": "Planet of Lana",
-    "contentId": null,
+    "contentId": "UP5180-PPSA19451_00-PLANETOFLANA05US",
     "region": "UP",
     "publisherId": "UP5180"
   },
@@ -82392,6 +82432,30 @@
     "publisherId": "JP8033"
   },
   {
+    "titleId": "PPSA20633_00",
+    "conceptId": 10009439,
+    "name": "BIG SHOTS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20634_00",
+    "conceptId": 10009439,
+    "name": "BIG SHOTS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20637_00",
+    "conceptId": 10009439,
+    "name": "BIG SHOTS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20638_00",
     "conceptId": 10010024,
     "name": "Caveman Ransom",
@@ -82947,17 +83011,17 @@
     "titleId": "PPSA20969_00",
     "conceptId": 10010156,
     "name": "Flute The Snake Charmer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8761-PPSA20969_00-0660965081783594",
+    "region": "UP",
+    "publisherId": "UP8761"
   },
   {
     "titleId": "PPSA20970_00",
     "conceptId": 10010156,
     "name": "Flute The Snake Charmer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0152-PPSA20970_00-0219674404836393",
+    "region": "EB",
+    "publisherId": "EB0152"
   },
   {
     "titleId": "PPSA20971_00",
@@ -84552,6 +84616,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21842_00",
+    "conceptId": 10009812,
+    "name": "Fishbowl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21916_00",
     "conceptId": 10010550,
     "name": "Brick Buster",
@@ -84582,6 +84654,22 @@
     "contentId": "UB0045-PPSA21930_00-TERRAARTBOOKSIEA",
     "region": "UB",
     "publisherId": "UB0045"
+  },
+  {
+    "titleId": "PPSA21946_00",
+    "conceptId": 10000875,
+    "name": "Raji: An Ancient Epic",
+    "contentId": "UP4989-PPSA21946_00-0159294138060851",
+    "region": "UP",
+    "publisherId": "UP4989"
+  },
+  {
+    "titleId": "PPSA21947_00",
+    "conceptId": 10000875,
+    "name": "Raji: An Ancient Epic",
+    "contentId": "EP5176-PPSA21947_00-0115935370185432",
+    "region": "EP",
+    "publisherId": "EP5176"
   },
   {
     "titleId": "PPSA21948_00",
@@ -84696,7 +84784,7 @@
     "publisherId": null
   },
   {
-    "titleId": "PPSA22058_00",
+    "titleId": "PPSA22057_00",
     "conceptId": 10009685,
     "name": "The Forgotten Tribe",
     "contentId": null,
@@ -84704,12 +84792,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22058_00",
+    "conceptId": 10009685,
+    "name": "The Forgotten Tribe",
+    "contentId": "JP8458-PPSA22058_00-0544197390458190",
+    "region": "JP",
+    "publisherId": "JP8458"
+  },
+  {
     "titleId": "PPSA22059_00",
     "conceptId": 10009685,
     "name": "The Forgotten Tribe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA22059_00-0421844356172837",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA22060_00",
@@ -84763,17 +84859,17 @@
     "titleId": "PPSA22066_00",
     "conceptId": 10009672,
     "name": "LASSO CATCH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA22066_00-0482025470204929",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA22067_00",
     "conceptId": 10009672,
     "name": "LASSO CATCH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA22067_00-0888950354824403",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA22068_00",
@@ -85003,6 +85099,22 @@
     "titleId": "PPSA22591_00",
     "conceptId": 10010799,
     "name": "Cazzarion: Speed Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22644_00",
+    "conceptId": 10010822,
+    "name": "Cazzarion: Forest Defense",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22683_00",
+    "conceptId": 10010839,
+    "name": "Cazzarion: Whack A Zombie",
     "contentId": null,
     "region": null,
     "publisherId": null
