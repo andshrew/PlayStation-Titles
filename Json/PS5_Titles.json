@@ -27187,9 +27187,9 @@
     "titleId": "PPSA06861_00",
     "conceptId": 10004505,
     "name": "Gigantic: Rampage Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1980-PPSA06861_00-GIGANTIC00000000",
+    "region": "UP",
+    "publisherId": "UP1980"
   },
   {
     "titleId": "PPSA06862_00",
@@ -29790,6 +29790,14 @@
     "contentId": "UP1082-PPSA07364_00-SLUS011830000000",
     "region": "UP",
     "publisherId": "UP1082"
+  },
+  {
+    "titleId": "PPSA07367_00",
+    "conceptId": 10004922,
+    "name": "STAR WARS\u2122 Rebel Assault II - The Hidden Empire",
+    "contentId": "EP1006-PPSA07367_00-SLES006540000000",
+    "region": "EP",
+    "publisherId": "EP1006"
   },
   {
     "titleId": "PPSA07368_00",
@@ -44731,9 +44739,9 @@
     "titleId": "PPSA10055_00",
     "conceptId": 10005295,
     "name": "Broken Roads",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0134-PPSA10055_00-BROKENROADS00000",
+    "region": "UP",
+    "publisherId": "UP0134"
   },
   {
     "titleId": "PPSA10056_00",
@@ -53002,10 +53010,10 @@
   {
     "titleId": "PPSA11504_00",
     "conceptId": 10006606,
-    "name": "Goons: Legends & Mayhem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Goon: Legends & Mayhem",
+    "contentId": "UP7680-PPSA11504_00-2371589996210337",
+    "region": "UP",
+    "publisherId": "UP7680"
   },
   {
     "titleId": "PPSA11505_00",
@@ -61555,17 +61563,17 @@
     "titleId": "PPSA14654_00",
     "conceptId": 232798,
     "name": "Harold Halibut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2960-PPSA14654_00-HAROLDHALIBUT000",
+    "region": "UP",
+    "publisherId": "UP2960"
   },
   {
     "titleId": "PPSA14655_00",
     "conceptId": 232798,
     "name": "Harold Halibut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2822-PPSA14655_00-HAROLDHALIBUT000",
+    "region": "EP",
+    "publisherId": "EP2822"
   },
   {
     "titleId": "PPSA14661_00",
@@ -62982,6 +62990,14 @@
     "contentId": "EP2005-PPSA15397_00-FLUFFYMILO000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA15398_00",
+    "conceptId": 10007964,
+    "name": "Box To The Beat VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15399_00",
@@ -67710,6 +67726,14 @@
     "contentId": "UP5789-PPSA16435_00-0622671042969327",
     "region": "UP",
     "publisherId": "UP5789"
+  },
+  {
+    "titleId": "PPSA16436_00",
+    "conceptId": 10008370,
+    "name": "Class of Heroes: Anniversary Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16438_00",
@@ -73888,6 +73912,14 @@
     "publisherId": "UP6759"
   },
   {
+    "titleId": "PPSA18071_00",
+    "conceptId": 10009035,
+    "name": "Alone in the Dark: The New Nightmare (2001)",
+    "contentId": "EP4389-PPSA18071_00-SLES028010000000",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA18072_00",
     "conceptId": 10008430,
     "name": "The Wizards - Dark Times",
@@ -74942,6 +74974,14 @@
     "contentId": "EP2083-PPSA18369_00-0278873986686692",
     "region": "EP",
     "publisherId": "EP2083"
+  },
+  {
+    "titleId": "PPSA18373_00",
+    "conceptId": 10009141,
+    "name": "Athenian Rhapsody",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18381_00",
@@ -77411,9 +77451,9 @@
     "titleId": "PPSA19116_00",
     "conceptId": 10009413,
     "name": "DAVE THE DIVER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8427-PPSA19116_00-0825962525120148",
+    "region": "EP",
+    "publisherId": "EP8427"
   },
   {
     "titleId": "PPSA19120_00",
@@ -77554,10 +77594,10 @@
   {
     "titleId": "PPSA19144_00",
     "conceptId": 10002211,
-    "name": "XDefiant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "XDefiant - Server Test Session",
+    "contentId": "UP0001-PPSA19144_00-VMCNDA0000000000",
+    "region": "UP",
+    "publisherId": "UP0001"
   },
   {
     "titleId": "PPSA19145_00",
@@ -77570,10 +77610,10 @@
   {
     "titleId": "PPSA19146_00",
     "conceptId": 10002211,
-    "name": "XDefiant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "XDefiant - Server Test Session",
+    "contentId": "JP0001-PPSA19146_00-VMCNDA0000000000",
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA19147_00",
@@ -79362,10 +79402,10 @@
   {
     "titleId": "PPSA19689_00",
     "conceptId": 10009627,
-    "name": "Apollo 13: The Lost Tapes VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Apollo13",
+    "contentId": "UB0332-PPSA19689_00-0135760448622249",
+    "region": "UB",
+    "publisherId": "UB0332"
   },
   {
     "titleId": "PPSA19690_00",
@@ -81467,7 +81507,7 @@
     "titleId": "PPSA20331_00",
     "conceptId": 10007629,
     "name": "UFO\u30ed\u30dc \u30b0\u30ec\u30f3\u30c0\u30a4\u30b6\u30fc\uff1a\u305f\u3068\u3048\u6211\u304c\u547d\u3064\u304d\u308b\u3068\u3082",
-    "contentId": null,
+    "contentId": "JP4236-PPSA20331_00-GOLDORAKPS5000JP",
     "region": "JP",
     "publisherId": "JP4236"
   },
@@ -81742,6 +81782,14 @@
     "contentId": "EB0629-PPSA20415_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA20419_00",
+    "conceptId": 225060,
+    "name": "Armed and Gelatinous: Couch Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20422_00",
@@ -83867,17 +83915,17 @@
     "titleId": "PPSA21346_00",
     "conceptId": 10010308,
     "name": "Pretty Girls Escape PLUS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA21346_00-PGESCAPEPLUS0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA21347_00",
     "conceptId": 10010308,
     "name": "Pretty Girls Escape PLUS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA21347_00-PGESCAPEPLUS0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA21348_00",
@@ -84067,9 +84115,9 @@
     "titleId": "PPSA21405_00",
     "conceptId": 10006894,
     "name": "ArcRunner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA21405_00-ARCRUNNERPS5SIEA",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA21406_00",
@@ -84624,6 +84672,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21858_00",
+    "conceptId": 225060,
+    "name": "Armed and Gelatinous: Couch Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21916_00",
     "conceptId": 10010550,
     "name": "Brick Buster",
@@ -84779,17 +84835,17 @@
     "titleId": "PPSA22056_00",
     "conceptId": 10009685,
     "name": "The Forgotten Tribe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA22056_00-0225325746120216",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA22057_00",
     "conceptId": 10009685,
     "name": "The Forgotten Tribe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA22057_00-0475093011634710",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA22058_00",
@@ -84843,17 +84899,17 @@
     "titleId": "PPSA22064_00",
     "conceptId": 10009672,
     "name": "LASSO CATCH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA22064_00-0469499774864758",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA22065_00",
     "conceptId": 10009672,
     "name": "LASSO CATCH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA22065_00-0559584389978438",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA22066_00",
@@ -84920,6 +84976,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22106_00",
+    "conceptId": 225060,
+    "name": "Armed and Gelatinous: Couch Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22150_00",
     "conceptId": 10010643,
     "name": "Cazzarion: Space Ace",
@@ -84966,6 +85030,14 @@
     "contentId": "EB0629-PPSA22183_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA22190_00",
+    "conceptId": 225060,
+    "name": "Armed and Gelatinous: Couch Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22245_00",
@@ -85072,6 +85144,46 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22509_00",
+    "conceptId": 10010767,
+    "name": "Alien Cleaner",
+    "contentId": "UP7335-PPSA22509_00-0340637495103203",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
+    "titleId": "PPSA22535_00",
+    "conceptId": 10010780,
+    "name": "GARDEN PATROL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22536_00",
+    "conceptId": 10010780,
+    "name": "GARDEN PATROL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22537_00",
+    "conceptId": 10010780,
+    "name": "GARDEN PATROL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22538_00",
+    "conceptId": 10010780,
+    "name": "GARDEN PATROL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22555_00",
     "conceptId": 10010790,
     "name": "Cazzarion: Pop The Bubble",
@@ -85107,6 +85219,38 @@
     "titleId": "PPSA22644_00",
     "conceptId": 10010822,
     "name": "Cazzarion: Forest Defense",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22648_00",
+    "conceptId": 10010823,
+    "name": "FISHING BLAST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22649_00",
+    "conceptId": 10010823,
+    "name": "FISHING BLAST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22650_00",
+    "conceptId": 10010823,
+    "name": "FISHING BLAST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22651_00",
+    "conceptId": 10010823,
+    "name": "FISHING BLAST",
     "contentId": null,
     "region": null,
     "publisherId": null
