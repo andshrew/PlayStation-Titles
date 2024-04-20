@@ -41040,6 +41040,14 @@
     "publisherId": "UP3639"
   },
   {
+    "titleId": "PPSA09382_00",
+    "conceptId": 10005802,
+    "name": "\u4ffa\u306e\u5c4d\u3092\u8d8a\u3048\u3066\u3086\u3051",
+    "contentId": "JP9000-PPSA09382_00-UCJS101170000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA09384_00",
     "conceptId": 228694,
     "name": "The Caligula Effect: Overdose",
@@ -64363,9 +64371,9 @@
     "titleId": "PPSA15695_00",
     "conceptId": 10008098,
     "name": "SOUL COVENANT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3403-PPSA15695_00-VEGAJP0000000000",
+    "region": "JP",
+    "publisherId": "JP3403"
   },
   {
     "titleId": "PPSA15696_00",
@@ -64379,9 +64387,9 @@
     "titleId": "PPSA15697_00",
     "conceptId": 10008098,
     "name": "SOUL COVENANT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3223-PPSA15697_00-VEGAEU0000000000",
+    "region": "EP",
+    "publisherId": "EP3223"
   },
   {
     "titleId": "PPSA15698_00",
@@ -69504,6 +69512,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16861_00",
+    "conceptId": 10008550,
+    "name": "The Land Beneath Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16862_00",
     "conceptId": 10004500,
     "name": "Operation Wolf Returns: First Mission VR",
@@ -69963,17 +69979,17 @@
     "titleId": "PPSA16959_00",
     "conceptId": 10008592,
     "name": "Richman 11",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA16959_00-RICHMANELEVEN000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA16960_00",
     "conceptId": 10008592,
     "name": "Richman 11",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA16960_00-RICHMANELEVEN000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA16961_00",
@@ -70131,7 +70147,7 @@
     "titleId": "PPSA17008_00",
     "conceptId": 10008048,
     "name": "Grounded",
-    "contentId": null,
+    "contentId": "EP6311-PPSA17008_00-OGUNQUIT00000000",
     "region": "EP",
     "publisherId": "EP6311"
   },
@@ -71019,9 +71035,9 @@
     "titleId": "PPSA17248_00",
     "conceptId": 10008723,
     "name": "Sokobalien",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA17248_00-0937127228896941",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA17249_00",
@@ -71043,9 +71059,9 @@
     "titleId": "PPSA17251_00",
     "conceptId": 10008723,
     "name": "Sokobalien",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA17251_00-0828813904446052",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA17259_00",
@@ -71214,6 +71230,14 @@
     "contentId": "EP2005-PPSA17291_00-MASTERMAKER3DULT",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA17294_00",
+    "conceptId": 10008739,
+    "name": "Doug's Nightmare",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17295_00",
@@ -72152,6 +72176,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17562_00",
+    "conceptId": 10008846,
+    "name": "Umurangi Generation",
+    "contentId": "EP0122-PPSA17562_00-0UMURANGIPS5SIEE",
+    "region": "EP",
+    "publisherId": "EP0122"
+  },
+  {
     "titleId": "PPSA17567_00",
     "conceptId": 10007964,
     "name": "Box To The Beat VR Demo",
@@ -72598,6 +72630,22 @@
     "contentId": "EP1063-PPSA17678_00-EDSENNOKISEKI4TH",
     "region": "EP",
     "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA17687_00",
+    "conceptId": 10008846,
+    "name": "Umurangi Generation Special Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17688_00",
+    "conceptId": 10008846,
+    "name": "Umurangi Generation Special Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17696_00",
@@ -77768,6 +77816,30 @@
     "publisherId": "UP8121"
   },
   {
+    "titleId": "PPSA19181_00",
+    "conceptId": 10008363,
+    "name": "Archers Dream - DEMO",
+    "contentId": "EP6664-PPSA19181_00-0254675270388642",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA19183_00",
+    "conceptId": 10008363,
+    "name": "Archers Dream - DEMO",
+    "contentId": "JP6595-PPSA19183_00-0548673863585719",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA19184_00",
+    "conceptId": 10008363,
+    "name": "Archers Dream - DEMO",
+    "contentId": "HP6661-PPSA19184_00-0799616619975912",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA19185_00",
     "conceptId": 10008580,
     "name": "Cannibal Abduction",
@@ -78720,6 +78792,22 @@
     "publisherId": "UP3690"
   },
   {
+    "titleId": "PPSA19440_00",
+    "conceptId": 10009538,
+    "name": "Scheming Through The Zombie Apocalypse Ep2: Caged",
+    "contentId": "EP0896-PPSA19440_00-SCHEMINGTHROU2RG",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA19441_00",
+    "conceptId": 10009538,
+    "name": "Scheming Through The Zombie Apocalypse Ep2: Caged",
+    "contentId": "UP0891-PPSA19441_00-SCHEMINGTHROU2RG",
+    "region": "UP",
+    "publisherId": "UP0891"
+  },
+  {
     "titleId": "PPSA19447_00",
     "conceptId": 10009540,
     "name": "Party Friends",
@@ -79190,6 +79278,14 @@
     "contentId": "EP6136-PPSA19587_00-0674567572537552",
     "region": "EP",
     "publisherId": "EP6136"
+  },
+  {
+    "titleId": "PPSA19590_00",
+    "conceptId": 10009597,
+    "name": "Darkest Dungeon II PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2619"
   },
   {
     "titleId": "PPSA19591_00",
@@ -80784,6 +80880,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20074_00",
+    "conceptId": 10008846,
+    "name": "Umurangi Generation VR",
+    "contentId": "JP0122-PPSA20074_00-00000UGPSVR2SIEJ",
+    "region": "JP",
+    "publisherId": "JP0122"
+  },
+  {
     "titleId": "PPSA20080_00",
     "conceptId": 10005186,
     "name": "Morbid: The Lords of Ire Demo",
@@ -82080,6 +82184,22 @@
     "publisherId": "EP4389"
   },
   {
+    "titleId": "PPSA20477_00",
+    "conceptId": 10009806,
+    "name": "Dementium: The Ward",
+    "contentId": "UP4725-PPSA20477_00-DEMENTIUMTHEWARD",
+    "region": "UP",
+    "publisherId": "UP4725"
+  },
+  {
+    "titleId": "PPSA20478_00",
+    "conceptId": 10009806,
+    "name": "Dementium: The Ward",
+    "contentId": "EP4898-PPSA20478_00-DEMENTIUMTHEWARD",
+    "region": "EP",
+    "publisherId": "EP4898"
+  },
+  {
     "titleId": "PPSA20480_00",
     "conceptId": 10007150,
     "name": "Frontier Pilot Simulator",
@@ -82562,10 +82682,10 @@
   {
     "titleId": "PPSA20634_00",
     "conceptId": 10009439,
-    "name": "BIG SHOTS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Big Shots",
+    "contentId": "HP7100-PPSA20634_00-0488388387481074",
+    "region": "HP",
+    "publisherId": "HP7100"
   },
   {
     "titleId": "PPSA20637_00",
@@ -82675,9 +82795,9 @@
     "titleId": "PPSA20721_00",
     "conceptId": 10010028,
     "name": "Ready, Steady, Ship!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6958-PPSA20721_00-RSSXSIEE00ZZZZZZ",
+    "region": "EP",
+    "publisherId": "EP6958"
   },
   {
     "titleId": "PPSA20728_00",
@@ -84008,6 +84128,22 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA21353_00",
+    "conceptId": 10010312,
+    "name": "STRIDE: Fates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21354_00",
+    "conceptId": 10010312,
+    "name": "STRIDE: Fates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21357_00",
     "conceptId": 10010314,
     "name": "Hidden Cats in New York",
@@ -84723,33 +84859,33 @@
     "titleId": "PPSA21833_00",
     "conceptId": 10000269,
     "name": "Valley of the Dead: MalnaZidos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA21833_00-0522019110080480",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA21834_00",
     "conceptId": 10000269,
     "name": "Valley of the Dead: MalnaZidos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA21834_00-0202655950145128",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA21835_00",
     "conceptId": 10001379,
     "name": "Way Down",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA21835_00-0576145021934768",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA21836_00",
     "conceptId": 10001379,
     "name": "Way Down",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA21836_00-0561958887887461",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA21842_00",
@@ -84810,10 +84946,10 @@
   {
     "titleId": "PPSA21932_00",
     "conceptId": 10010557,
-    "name": "ZOMBIE BAR SIMULATOR VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ZOMBIE BAR SIMULATOR",
+    "contentId": "EP7602-PPSA21932_00-0256950615007990",
+    "region": "EP",
+    "publisherId": "EP7602"
   },
   {
     "titleId": "PPSA21946_00",
@@ -85136,12 +85272,20 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA22184_00",
+    "conceptId": 10010485,
+    "name": "Cube Airport",
+    "contentId": "UP7931-PPSA22184_00-0852388303107733",
+    "region": "UP",
+    "publisherId": "UP7931"
+  },
+  {
     "titleId": "PPSA22185_00",
     "conceptId": 10010485,
     "name": "Cube Airport",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7929-PPSA22185_00-0153218539209963",
+    "region": "EP",
+    "publisherId": "EP7929"
   },
   {
     "titleId": "PPSA22186_00",
@@ -85259,17 +85403,17 @@
     "titleId": "PPSA22503_00",
     "conceptId": 10010766,
     "name": "Bit Dungeon Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA22503_00-0796075792854847",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA22504_00",
     "conceptId": 10010766,
     "name": "Bit Dungeon Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA22504_00-0943621751180811",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA22509_00",
@@ -85286,6 +85430,30 @@
     "contentId": "EP7333-PPSA22510_00-0831828859075460",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA22519_00",
+    "conceptId": 10004542,
+    "name": "ANIMAL WELL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22520_00",
+    "conceptId": 10004542,
+    "name": "ANIMAL WELL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22521_00",
+    "conceptId": 10004542,
+    "name": "ANIMAL WELL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22526_00",
@@ -85395,17 +85563,25 @@
     "titleId": "PPSA22650_00",
     "conceptId": 10010823,
     "name": "FISHING BLAST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA22650_00-0164723748305530",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA22651_00",
     "conceptId": 10010823,
     "name": "FISHING BLAST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA22651_00-0199216975772002",
+    "region": "HP",
+    "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA22664_00",
+    "conceptId": 10002959,
+    "name": "Titan Chaser",
+    "contentId": "UP6139-PPSA22664_00-0019001713509642",
+    "region": "UP",
+    "publisherId": "UP6139"
   },
   {
     "titleId": "PPSA22665_00",
