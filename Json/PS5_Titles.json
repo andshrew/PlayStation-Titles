@@ -64395,9 +64395,9 @@
     "titleId": "PPSA15698_00",
     "conceptId": 10008098,
     "name": "SOUL COVENANT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3310-PPSA15698_00-VEGAAS0000000000",
+    "region": "HP",
+    "publisherId": "HP3310"
   },
   {
     "titleId": "PPSA15699_00",
@@ -71043,17 +71043,17 @@
     "titleId": "PPSA17249_00",
     "conceptId": 10008723,
     "name": "Sokobalien",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA17249_00-0800445888617522",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA17250_00",
     "conceptId": 10008723,
     "name": "Sokobalien",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA17250_00-0942431888547796",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA17251_00",
@@ -77824,6 +77824,14 @@
     "publisherId": "EP6664"
   },
   {
+    "titleId": "PPSA19182_00",
+    "conceptId": 10008363,
+    "name": "Archers Dream - DEMO",
+    "contentId": "UP6664-PPSA19182_00-0123953252050883",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA19183_00",
     "conceptId": 10008363,
     "name": "Archers Dream - DEMO",
@@ -78494,6 +78502,30 @@
     "contentId": "UP1309-PPSA19366_00-BOBDIGITALARTSIA",
     "region": "UP",
     "publisherId": "UP1309"
+  },
+  {
+    "titleId": "PPSA19369_00",
+    "conceptId": 10009503,
+    "name": "Jack Holmes: Master Of Puppets",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19370_00",
+    "conceptId": 10009503,
+    "name": "Jack Holmes: Master Of Puppets",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19372_00",
+    "conceptId": 10009503,
+    "name": "Jack Holmes: Master Of Puppets",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19373_00",
@@ -84938,10 +84970,10 @@
   {
     "titleId": "PPSA21931_00",
     "conceptId": 10010557,
-    "name": "ZOMBIE BAR SIMULATOR VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ZOMBIE BAR SIMULATOR",
+    "contentId": "UP7604-PPSA21931_00-0053886142954334",
+    "region": "UP",
+    "publisherId": "UP7604"
   },
   {
     "titleId": "PPSA21932_00",
@@ -85547,17 +85579,17 @@
     "titleId": "PPSA22648_00",
     "conceptId": 10010823,
     "name": "FISHING BLAST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA22648_00-0744227005031395",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA22649_00",
     "conceptId": 10010823,
     "name": "FISHING BLAST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA22649_00-0476096585505078",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA22650_00",
