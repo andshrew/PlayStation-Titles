@@ -29792,6 +29792,14 @@
     "publisherId": "UP1082"
   },
   {
+    "titleId": "PPSA07366_00",
+    "conceptId": 10004922,
+    "name": "STAR WARS\u2122 Rebel Assault II - The Hidden Empire",
+    "contentId": "UP1082-PPSA07366_00-SLUS003810000000",
+    "region": "UP",
+    "publisherId": "UP1082"
+  },
+  {
     "titleId": "PPSA07367_00",
     "conceptId": 10004922,
     "name": "STAR WARS\u2122 Rebel Assault II - The Hidden Empire",
@@ -30636,6 +30644,14 @@
     "conceptId": 10004910,
     "name": "STAR WARS\u2122 Episode I - The Phantom Menace",
     "contentId": "JP1780-PPSA07524_00-SLPS021530000000",
+    "region": "JP",
+    "publisherId": "JP1780"
+  },
+  {
+    "titleId": "PPSA07526_00",
+    "conceptId": 10004922,
+    "name": "STAR WARS\u2122 Rebel Assault II - The Hidden Empire",
+    "contentId": "JP1780-PPSA07526_00-SLPS006380000000",
     "region": "JP",
     "publisherId": "JP1780"
   },
@@ -34187,7 +34203,7 @@
     "titleId": "PPSA08205_00",
     "conceptId": 10005307,
     "name": "Sker Ritual",
-    "contentId": null,
+    "contentId": "UP4459-PPSA08205_00-SKERRITUALSIEA02",
     "region": "UP",
     "publisherId": "UP4459"
   },
@@ -72174,6 +72190,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17561_00",
+    "conceptId": 10008846,
+    "name": "Umurangi Generation",
+    "contentId": "UP0969-PPSA17561_00-0UMURANGIPS5SIEA",
+    "region": "UP",
+    "publisherId": "UP0969"
   },
   {
     "titleId": "PPSA17562_00",
