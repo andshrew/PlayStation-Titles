@@ -16011,7 +16011,7 @@
     "titleId": "PPSA04722_00",
     "conceptId": 10003484,
     "name": "Eiyuden Chronicle: Hundred Heroes",
-    "contentId": null,
+    "contentId": "EP4040-PPSA04722_00-EIYUDEN100HEROES",
     "region": "EP",
     "publisherId": "EP4040"
   },
@@ -26886,6 +26886,14 @@
     "contentId": "HP9000-PPSA06798_00-UCKS450820000000",
     "region": "HP",
     "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA06799_00",
+    "conceptId": 10004542,
+    "name": "ANIMAL WELL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06800_00",
@@ -38891,7 +38899,7 @@
     "titleId": "PPSA09024_00",
     "conceptId": 10003484,
     "name": "\u767e\u82f1\u96c4\u4f1d",
-    "contentId": null,
+    "contentId": "JP0114-PPSA09024_00-EIYUDEN100HEROES",
     "region": "JP",
     "publisherId": "JP0114"
   },
@@ -58704,6 +58712,14 @@
     "publisherId": "UP1475"
   },
   {
+    "titleId": "PPSA13933_00",
+    "conceptId": 10007417,
+    "name": "Sclash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13934_00",
     "conceptId": 10004685,
     "name": "Spirit of the Island",
@@ -75418,8 +75434,8 @@
   {
     "titleId": "PPSA18471_00",
     "conceptId": 10003666,
-    "name": "Tales of Kenzera\u2122: ZAU Standard Edition",
-    "contentId": null,
+    "name": "Tales of Kenzera\u2122: ZAU",
+    "contentId": "UP0006-PPSA18471_00-PS50000000000ZAU",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -75755,17 +75771,17 @@
     "titleId": "PPSA18571_00",
     "conceptId": 10009199,
     "name": "Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0283-PPSA18571_00-0716744654853220",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA18572_00",
     "conceptId": 10009199,
     "name": "Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0281-PPSA18572_00-0864337794575758",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA18582_00",
@@ -78128,6 +78144,22 @@
     "publisherId": "UP7732"
   },
   {
+    "titleId": "PPSA19254_00",
+    "conceptId": 10009458,
+    "name": "Doctor Who: The Edge of Time",
+    "contentId": "EP8035-PPSA19254_00-0445331741228755",
+    "region": "EP",
+    "publisherId": "EP8035"
+  },
+  {
+    "titleId": "PPSA19255_00",
+    "conceptId": 10009458,
+    "name": "Doctor Who: The Edge of Time",
+    "contentId": "UP5843-PPSA19255_00-0156591726052509",
+    "region": "UP",
+    "publisherId": "UP5843"
+  },
+  {
     "titleId": "PPSA19256_00",
     "conceptId": 10009465,
     "name": "Railbreak",
@@ -80216,6 +80248,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA19850_00",
+    "conceptId": 10009686,
+    "name": "CITB",
+    "contentId": "UB0169-PPSA19850_00-0911414542246592",
+    "region": "UB",
+    "publisherId": "UB0169"
+  },
+  {
     "titleId": "PPSA19853_00",
     "conceptId": 10009689,
     "name": "\u30b0\u30ec\u30a4\u30a2\u30e9\u30f3\u306e\u5438\u8840\u9a0e\u58eb",
@@ -81984,6 +82024,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20393_00",
+    "conceptId": 10009908,
+    "name": "Tales from Candleforth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20394_00",
+    "conceptId": 10009908,
+    "name": "Tales from Candleforth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20395_00",
+    "conceptId": 10009908,
+    "name": "Tales from Candleforth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20399_00",
     "conceptId": 10009913,
     "name": "Bigfoot's Journey",
@@ -83530,18 +83594,18 @@
   {
     "titleId": "PPSA21035_00",
     "conceptId": 10003484,
-    "name": "Eiyuden Chronicle: Hundred Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Allraan Artistry Package",
+    "contentId": "UP4040-PPSA21035_00-SOUNDTRACKARTBOK",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA21036_00",
     "conceptId": 10003484,
-    "name": "Eiyuden Chronicle: Hundred Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Allraan Artistry Package",
+    "contentId": "EP4040-PPSA21036_00-SOUNDTRACKARTBOK",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA21037_00",
@@ -84315,9 +84379,9 @@
     "titleId": "PPSA21391_00",
     "conceptId": 10010330,
     "name": "Ratyrinth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA21391_00-RATYRINTH0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA21392_00",
@@ -84992,6 +85056,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21888_00",
+    "conceptId": 10009818,
+    "name": "Adventure Bar Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21916_00",
     "conceptId": 10010550,
     "name": "Brick Buster",
@@ -85547,9 +85619,9 @@
     "titleId": "PPSA22526_00",
     "conceptId": 10010777,
     "name": "Escape the Glitch 2: Backrooms",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA22526_00-ESCAPETHEGLITCH2",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA22527_00",
@@ -85579,17 +85651,17 @@
     "titleId": "PPSA22537_00",
     "conceptId": 10010780,
     "name": "GARDEN PATROL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA22537_00-0923546996064557",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA22538_00",
     "conceptId": 10010780,
     "name": "GARDEN PATROL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA22538_00-0443713175058005",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA22555_00",
@@ -85694,5 +85766,21 @@
     "contentId": "EP7994-PPSA22687_00-0325186481251943",
     "region": "EP",
     "publisherId": "EP7994"
+  },
+  {
+    "titleId": "PPSA22781_00",
+    "conceptId": 10010890,
+    "name": "Cazzarion: Robot Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22855_00",
+    "conceptId": 10010916,
+    "name": "Cazzarion: Sky Flight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
