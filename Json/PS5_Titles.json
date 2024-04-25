@@ -12448,6 +12448,14 @@
     "publisherId": "JP0151"
   },
   {
+    "titleId": "PPSA03992_00",
+    "conceptId": 10001900,
+    "name": "Imagine Earth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03999_00",
     "conceptId": 10002244,
     "name": "Tails of Iron",
@@ -16003,7 +16011,7 @@
     "titleId": "PPSA04721_00",
     "conceptId": 10003484,
     "name": "Eiyuden Chronicle: Hundred Heroes",
-    "contentId": null,
+    "contentId": "UP4040-PPSA04721_00-EIYUDEN100HEROES",
     "region": "UP",
     "publisherId": "UP4040"
   },
@@ -38880,6 +38888,14 @@
     "publisherId": "JP6391"
   },
   {
+    "titleId": "PPSA09016_00",
+    "conceptId": 201511,
+    "name": "Fallout 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09021_00",
     "conceptId": 10005661,
     "name": "Pickle Run",
@@ -46153,6 +46169,14 @@
   },
   {
     "titleId": "PPSA10269_00",
+    "conceptId": 10006172,
+    "name": "Read Only Memories: NEURODIVER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10270_00",
     "conceptId": 10006172,
     "name": "Read Only Memories: NEURODIVER",
     "contentId": null,
@@ -62083,9 +62107,9 @@
     "titleId": "PPSA15022_00",
     "conceptId": 10007679,
     "name": "Insurmountable",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1440-PPSA15022_00-0289653646670910",
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA15035_00",
@@ -69824,6 +69848,14 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA16914_00",
+    "conceptId": 10008566,
+    "name": "MADiSON VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16918_00",
     "conceptId": 10008237,
     "name": "Pinball M",
@@ -73664,6 +73696,22 @@
     "publisherId": "JP6398"
   },
   {
+    "titleId": "PPSA17971_00",
+    "conceptId": 10000622,
+    "name": "OhShape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17972_00",
+    "conceptId": 10000622,
+    "name": "OhShape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17973_00",
     "conceptId": 10009007,
     "name": "Mighty Aphid 2",
@@ -77502,6 +77550,22 @@
     "contentId": "UP8133-PPSA19034_00-0991356346558542",
     "region": "UP",
     "publisherId": "UP8133"
+  },
+  {
+    "titleId": "PPSA19038_00",
+    "conceptId": 10009382,
+    "name": "Stories from Sol: The Gun-Dog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19040_00",
+    "conceptId": 10009382,
+    "name": "Stories from Sol: The Gun-Dog Demo",
+    "contentId": "HP7815-PPSA19040_00-GUNDOGPS5JADEMO0",
+    "region": "HP",
+    "publisherId": "HP7815"
   },
   {
     "titleId": "PPSA19041_00",
@@ -83795,9 +83859,9 @@
     "titleId": "PPSA21104_00",
     "conceptId": 10010228,
     "name": "Teared",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA21104_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA21111_00",
@@ -84072,6 +84136,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21227_00",
+    "conceptId": 10008402,
+    "name": "Age of Water",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21250_00",
     "conceptId": 10010259,
     "name": "Mecha Party",
@@ -84312,6 +84384,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21359_00",
+    "conceptId": 10010314,
+    "name": "Hidden Cats in New York",
+    "contentId": "JP6954-PPSA21359_00-0303576054856309",
+    "region": "JP",
+    "publisherId": "JP6954"
+  },
+  {
+    "titleId": "PPSA21360_00",
+    "conceptId": 10010314,
+    "name": "Hidden Cats in New York",
+    "contentId": "HP0874-PPSA21360_00-0354902918360511",
+    "region": "HP",
+    "publisherId": "HP0874"
+  },
+  {
     "titleId": "PPSA21371_00",
     "conceptId": 10010317,
     "name": "Lost & Found Agency Collector's Edition",
@@ -84387,9 +84475,9 @@
     "titleId": "PPSA21392_00",
     "conceptId": 10010330,
     "name": "Ratyrinth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA21392_00-RATYRINTH0000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA21393_00",
@@ -85056,12 +85144,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21887_00",
+    "conceptId": 10009818,
+    "name": "Adventure Bar Story",
+    "contentId": "UP6508-PPSA21887_00-0830587797532070",
+    "region": "UP",
+    "publisherId": "UP6508"
+  },
+  {
     "titleId": "PPSA21888_00",
     "conceptId": 10009818,
     "name": "Adventure Bar Story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6507-PPSA21888_00-0968386478379878",
+    "region": "EP",
+    "publisherId": "EP6507"
   },
   {
     "titleId": "PPSA21916_00",
@@ -85150,6 +85246,38 @@
     "contentId": "EB0629-PPSA21956_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA21967_00",
+    "conceptId": 10010573,
+    "name": "Heritage of Eternal Splitting",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21968_00",
+    "conceptId": 10010573,
+    "name": "Heritage of Eternal Splitting",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21981_00",
+    "conceptId": 10007313,
+    "name": "Dungeon Party",
+    "contentId": "JP7206-PPSA21981_00-0895638649528327",
+    "region": "JP",
+    "publisherId": "JP7206"
+  },
+  {
+    "titleId": "PPSA21982_00",
+    "conceptId": 10007313,
+    "name": "Dungeon Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21983_00",
@@ -85627,25 +85755,25 @@
     "titleId": "PPSA22527_00",
     "conceptId": 10010777,
     "name": "Escape the Glitch 2: Backrooms",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0599-PPSA22527_00-ESCAPETHEGLITCH2",
+    "region": "UB",
+    "publisherId": "UB0599"
   },
   {
     "titleId": "PPSA22535_00",
     "conceptId": 10010780,
     "name": "GARDEN PATROL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA22535_00-0096944984282753",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA22536_00",
     "conceptId": 10010780,
     "name": "GARDEN PATROL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA22536_00-0612666239025399",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA22537_00",
@@ -85768,6 +85896,14 @@
     "publisherId": "EP7994"
   },
   {
+    "titleId": "PPSA22741_00",
+    "conceptId": 10010842,
+    "name": "Gemz",
+    "contentId": "EP4312-PPSA22741_00-0735566545067585",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
     "titleId": "PPSA22781_00",
     "conceptId": 10010890,
     "name": "Cazzarion: Robot Rush",
@@ -85779,6 +85915,22 @@
     "titleId": "PPSA22855_00",
     "conceptId": 10010916,
     "name": "Cazzarion: Sky Flight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23111_00",
+    "conceptId": 10011024,
+    "name": "Learn to Play Vol. 2 - A Simple Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23112_00",
+    "conceptId": 10011024,
+    "name": "Learn to Play Vol. 2 - A Simple Shooter",
     "contentId": null,
     "region": null,
     "publisherId": null
