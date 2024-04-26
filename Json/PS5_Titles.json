@@ -29976,6 +29976,14 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA07393_00",
+    "conceptId": 10004945,
+    "name": "Gori: Cuddly Carnage",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4382"
+  },
+  {
     "titleId": "PPSA07395_00",
     "conceptId": 10003795,
     "name": "Mech Armada",
@@ -31138,10 +31146,10 @@
   {
     "titleId": "PPSA07623_00",
     "conceptId": 10005062,
-    "name": "A Tale of Paper - Refolded",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "A Tale of Paper: Refolded",
+    "contentId": "EP8925-PPSA07623_00-1204681590254868",
+    "region": "EP",
+    "publisherId": "EP8925"
   },
   {
     "titleId": "PPSA07624_00",
@@ -54960,6 +54968,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA12668_00",
+    "conceptId": 10006972,
+    "name": "Fitting In",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12670_00",
     "conceptId": 10006973,
     "name": "Ball Jumper",
@@ -55154,8 +55170,8 @@
   {
     "titleId": "PPSA13195_00",
     "conceptId": 10006891,
-    "name": "\u30b9\u30c6\u30e9\u30fc\u30d6\u30ec\u30a4\u30c9",
-    "contentId": null,
+    "name": "Stellar Blade",
+    "contentId": "JP9000-PPSA13195_00-STELLARBLADE0000",
     "region": "JP",
     "publisherId": "JP9000"
   },
@@ -58734,6 +58750,14 @@
     "contentId": "UP1475-PPSA13928_00-TINTINCOPPS500US",
     "region": "UP",
     "publisherId": "UP1475"
+  },
+  {
+    "titleId": "PPSA13932_00",
+    "conceptId": 10007417,
+    "name": "Sclash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA13933_00",
@@ -64480,6 +64504,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15707_00",
+    "conceptId": 10008111,
+    "name": "15in1 Solitaire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15712_00",
     "conceptId": 10007628,
     "name": "Indoor Kickball",
@@ -66427,7 +66459,7 @@
     "titleId": "PPSA16121_00",
     "conceptId": 10008236,
     "name": "\u30b5\u30ac \u30a8\u30e1\u30e9\u30eb\u30c9 \u30d3\u30e8\u30f3\u30c9",
-    "contentId": null,
+    "contentId": "JP0082-PPSA16121_00-SAGAEMERALDBYDJP",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -69856,6 +69888,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16917_00",
+    "conceptId": 10008566,
+    "name": "MADiSON VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16918_00",
     "conceptId": 10008237,
     "name": "Pinball M",
@@ -71576,6 +71616,14 @@
     "publisherId": "HP8406"
   },
   {
+    "titleId": "PPSA17370_00",
+    "conceptId": 10004930,
+    "name": "Beholgar",
+    "contentId": "HP0980-PPSA17370_00-0371291418699216",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA17371_00",
     "conceptId": 10008767,
     "name": "Smalland: Survive the Wilds",
@@ -73282,8 +73330,8 @@
   {
     "titleId": "PPSA17856_00",
     "conceptId": 10008905,
-    "name": "\u30e1\u30ac\u30c8\u30f3\u7d1a\u30e0\u30b5\u30b7W\uff08\u30ef\u30a4\u30a2\u30fc\u30c9\uff09\u3000\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
-    "contentId": null,
+    "name": "\u30e1\u30ac\u30c8\u30f3\u7d1a\u30e0\u30b5\u30b7\uff37\uff08\u30ef\u30a4\u30a2\u30fc\u30c9\uff09",
+    "contentId": "JP0720-PPSA17856_00-MGTNWGAMEPS50000",
     "region": "JP",
     "publisherId": "JP0720"
   },
@@ -74178,8 +74226,8 @@
   {
     "titleId": "PPSA18083_00",
     "conceptId": 10008905,
-    "name": "MEGATON MUSASHI W: WIRED Standard Edition",
-    "contentId": null,
+    "name": "MEGATON MUSASHI W: WIRED",
+    "contentId": "EP7371-PPSA18083_00-MGTNWGAMEPS50000",
     "region": "EP",
     "publisherId": "EP7371"
   },
@@ -75883,9 +75931,9 @@
     "titleId": "PPSA18593_00",
     "conceptId": 10008402,
     "name": "Age of Water",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4432-PPSA18593_00-AGEOFWATER000000",
+    "region": "EP",
+    "publisherId": "EP4432"
   },
   {
     "titleId": "PPSA18597_00",
@@ -77296,6 +77344,22 @@
     "publisherId": "UP4525"
   },
   {
+    "titleId": "PPSA18984_00",
+    "conceptId": 10009359,
+    "name": "Gordian Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18985_00",
+    "conceptId": 10009359,
+    "name": "Gordian Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18988_00",
     "conceptId": 10008395,
     "name": "Gunhead",
@@ -77552,12 +77616,28 @@
     "publisherId": "UP8133"
   },
   {
+    "titleId": "PPSA19037_00",
+    "conceptId": 10009382,
+    "name": "Stories from Sol: The Gun-Dog Demo",
+    "contentId": "UP7788-PPSA19037_00-GUNDOGPS5USDEMO0",
+    "region": "UP",
+    "publisherId": "UP7788"
+  },
+  {
     "titleId": "PPSA19038_00",
     "conceptId": 10009382,
-    "name": "Stories from Sol: The Gun-Dog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stories from Sol: The Gun-Dog Demo",
+    "contentId": "EP7786-PPSA19038_00-GUNDOGPS5EUDEMO0",
+    "region": "EP",
+    "publisherId": "EP7786"
+  },
+  {
+    "titleId": "PPSA19039_00",
+    "conceptId": 10009382,
+    "name": "\u6a5f\u52d5\u6226\u8266\u30ac\u30f3\u30c9\u30c3\u30b0 \u592a\u967d\u7cfb\u7269\u8a9e \u4f53\u9a13\u7248",
+    "contentId": "JP7769-PPSA19039_00-GUNDOGPS5JPDEMO0",
+    "region": "JP",
+    "publisherId": "JP7769"
   },
   {
     "titleId": "PPSA19040_00",
@@ -81011,33 +81091,33 @@
     "titleId": "PPSA20062_00",
     "conceptId": 232767,
     "name": "Cook, Serve, Delicious! 2!!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0135-PPSA20062_00-0973160601071349",
+    "region": "UP",
+    "publisherId": "UP0135"
   },
   {
     "titleId": "PPSA20063_00",
     "conceptId": 232767,
     "name": "Cook, Serve, Delicious! 2!!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0132-PPSA20063_00-0033325603012619",
+    "region": "EP",
+    "publisherId": "EP0132"
   },
   {
     "titleId": "PPSA20064_00",
     "conceptId": 10001180,
     "name": "Cook, Serve, Delicious! 3?!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0135-PPSA20064_00-0777176532846608",
+    "region": "UP",
+    "publisherId": "UP0135"
   },
   {
     "titleId": "PPSA20066_00",
     "conceptId": 10001180,
     "name": "Cook, Serve, Delicious! 3?!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0132-PPSA20066_00-0337818523115413",
+    "region": "EP",
+    "publisherId": "EP0132"
   },
   {
     "titleId": "PPSA20067_00",
@@ -81086,6 +81166,14 @@
     "contentId": "EP1121-PPSA20081_00-0370904978001159",
     "region": "EP",
     "publisherId": "EP1121"
+  },
+  {
+    "titleId": "PPSA20083_00",
+    "conceptId": 10009773,
+    "name": "Please Fix The Road",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20089_00",
@@ -81374,6 +81462,22 @@
     "contentId": "EP1302-PPSA20146_00-SAVIORLESS0SIEE0",
     "region": "EP",
     "publisherId": "EP1302"
+  },
+  {
+    "titleId": "PPSA20152_00",
+    "conceptId": 10009803,
+    "name": "Slime Rancher 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2293"
+  },
+  {
+    "titleId": "PPSA20153_00",
+    "conceptId": 10009803,
+    "name": "Slime Rancher 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2149"
   },
   {
     "titleId": "PPSA20167_00",
@@ -81758,6 +81862,14 @@
     "contentId": "EP7550-PPSA20281_00-0859830574445828",
     "region": "EP",
     "publisherId": "EP7550"
+  },
+  {
+    "titleId": "PPSA20282_00",
+    "conceptId": 10008894,
+    "name": "\u91cd\u88c5\u6a5f\u5175\u30ec\u30a4\u30ce\u30b92 \u30b5\u30bf\u30fc\u30f3\u30c8\u30ea\u30d3\u30e5\u30fc\u30c8",
+    "contentId": "JP1091-PPSA20282_00-0255805963359797",
+    "region": "JP",
+    "publisherId": "JP1091"
   },
   {
     "titleId": "PPSA20283_00",
@@ -83338,10 +83450,10 @@
   {
     "titleId": "PPSA20878_00",
     "conceptId": 10008894,
-    "name": "Assault Suit Leynos 2 Saturn Tribute PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Assault Suit Leynos 2 Saturn Tribute",
+    "contentId": "HP5035-PPSA20878_00-0699888113250101",
+    "region": "HP",
+    "publisherId": "HP5035"
   },
   {
     "titleId": "PPSA20883_00",
@@ -83510,6 +83622,14 @@
     "contentId": "HP7695-PPSA20974_00-0876296190494606",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA20982_00",
+    "conceptId": 10008787,
+    "name": "The Ramsey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20984_00",
@@ -83851,9 +83971,9 @@
     "titleId": "PPSA21103_00",
     "conceptId": 10010228,
     "name": "Teared",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA21103_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA21104_00",
@@ -83862,6 +83982,22 @@
     "contentId": "EP3111-PPSA21104_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA21105_00",
+    "conceptId": 10010228,
+    "name": "Teared",
+    "contentId": "JP3291-PPSA21105_00-JANDUSOFT0000001",
+    "region": "JP",
+    "publisherId": "JP3291"
+  },
+  {
+    "titleId": "PPSA21106_00",
+    "conceptId": 10010228,
+    "name": "Teared",
+    "contentId": "HP3199-PPSA21106_00-JANDUSOFT0000001",
+    "region": "HP",
+    "publisherId": "HP3199"
   },
   {
     "titleId": "PPSA21111_00",
@@ -84131,17 +84267,17 @@
     "titleId": "PPSA21226_00",
     "conceptId": 10008402,
     "name": "Age of Water",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4432-PPSA21226_00-AGEOFWATER000000",
+    "region": "UP",
+    "publisherId": "UP4432"
   },
   {
     "titleId": "PPSA21227_00",
     "conceptId": 10008402,
     "name": "Age of Water",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3553-PPSA21227_00-AGEOFWATER000000",
+    "region": "JP",
+    "publisherId": "JP3553"
   },
   {
     "titleId": "PPSA21250_00",
@@ -84371,17 +84507,17 @@
     "titleId": "PPSA21357_00",
     "conceptId": 10010314,
     "name": "Hidden Cats in New York",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA21357_00-0691808527103658",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA21358_00",
     "conceptId": 10010314,
     "name": "Hidden Cats in New York",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA21358_00-0699680345884020",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA21359_00",
@@ -84776,6 +84912,14 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA21605_00",
+    "conceptId": 10009164,
+    "name": "Morkull Ragast's Rage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21609_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -85090,10 +85234,10 @@
   {
     "titleId": "PPSA21831_00",
     "conceptId": 10010518,
-    "name": "Pachi Pachi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pachi Pachi on a roll",
+    "contentId": "EP6718-PPSA21831_00-0055975767412729",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA21833_00",
@@ -85275,9 +85419,9 @@
     "titleId": "PPSA21982_00",
     "conceptId": 10007313,
     "name": "Dungeon Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7252-PPSA21982_00-0900207014486918",
+    "region": "HP",
+    "publisherId": "HP7252"
   },
   {
     "titleId": "PPSA21983_00",
@@ -85512,6 +85656,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22124_00",
+    "conceptId": 10009803,
+    "name": "Slime Rancher Rainbow Bundle",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP2245"
+  },
+  {
+    "titleId": "PPSA22125_00",
+    "conceptId": 10009803,
+    "name": "Slime Rancher 2",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2343"
+  },
+  {
     "titleId": "PPSA22150_00",
     "conceptId": 10010643,
     "name": "Cazzarion: Space Ace",
@@ -85616,6 +85776,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA22263_00",
+    "conceptId": 10010580,
+    "name": "\u5984\u60f3\u51f6\u30b6\u30ca\u30c8\u30ea\u30a6\u30e0",
+    "contentId": "JP0013-PPSA22263_00-JP0HXANA00000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA22267_00",
     "conceptId": 10007921,
     "name": "Forest Farm",
@@ -85643,6 +85811,22 @@
     "titleId": "PPSA22391_00",
     "conceptId": 10010727,
     "name": "My Incubi Harem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22394_00",
+    "conceptId": 10010729,
+    "name": "\u30ed\u30ed\u30d1\u30ba\u30df\u30af\u30b9",
+    "contentId": "JP1368-PPSA22394_00-PUZZMIX0APPWW000",
+    "region": "JP",
+    "publisherId": "JP1368"
+  },
+  {
+    "titleId": "PPSA22396_00",
+    "conceptId": 10010729,
+    "name": "PuzzMiX",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -85880,6 +86064,14 @@
     "publisherId": "EP6138"
   },
   {
+    "titleId": "PPSA22666_00",
+    "conceptId": 10010832,
+    "name": "Cybercube",
+    "contentId": "UP5682-PPSA22666_00-0437621373499403",
+    "region": "UP",
+    "publisherId": "UP5682"
+  },
+  {
     "titleId": "PPSA22683_00",
     "conceptId": 10010839,
     "name": "Cazzarion: Whack A Zombie",
@@ -85902,6 +86094,38 @@
     "contentId": "EP4312-PPSA22741_00-0735566545067585",
     "region": "EP",
     "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA22742_00",
+    "conceptId": 10010842,
+    "name": "Gemz",
+    "contentId": "UP4312-PPSA22742_00-0713544056935659",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA22743_00",
+    "conceptId": 10010842,
+    "name": "Gemz",
+    "contentId": "JP0089-PPSA22743_00-0344979301079137",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA22744_00",
+    "conceptId": 10010842,
+    "name": "Gemz",
+    "contentId": "HP4312-PPSA22744_00-0143232190002975",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA22777_00",
+    "conceptId": 10010580,
+    "name": "Horrific Xanatorium",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22781_00",
