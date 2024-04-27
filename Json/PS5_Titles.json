@@ -26008,6 +26008,14 @@
     "publisherId": "UP1470"
   },
   {
+    "titleId": "PPSA06653_00",
+    "conceptId": 10004572,
+    "name": "Hamster Playground",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06654_00",
     "conceptId": 10003841,
     "name": "The Stanley Parable: Ultra Deluxe",
@@ -36258,8 +36266,8 @@
   {
     "titleId": "PPSA08574_00",
     "conceptId": 10005459,
-    "name": "SAND LAND PS4 & PS5",
-    "contentId": null,
+    "name": "SAND LAND",
+    "contentId": "EP0700-PPSA08574_00-SANDLMAINGAME000",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -38899,9 +38907,9 @@
     "titleId": "PPSA09016_00",
     "conceptId": 201511,
     "name": "Fallout 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1003-PPSA09016_00-FALLOUT4FULLGAME",
+    "region": "UP",
+    "publisherId": "UP1003"
   },
   {
     "titleId": "PPSA09021_00",
@@ -39315,9 +39323,9 @@
     "titleId": "PPSA09089_00",
     "conceptId": 10005702,
     "name": "Lunar Lander Beyond",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0182-PPSA09089_00-RC00000000000005",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA09090_00",
@@ -46185,6 +46193,14 @@
   },
   {
     "titleId": "PPSA10270_00",
+    "conceptId": 10006172,
+    "name": "Read Only Memories: NEURODIVER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10271_00",
     "conceptId": 10006172,
     "name": "Read Only Memories: NEURODIVER",
     "contentId": null,
@@ -56402,10 +56418,10 @@
   {
     "titleId": "PPSA13490_00",
     "conceptId": 10007233,
-    "name": "S.O.L Search of Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "S.O.L: Search Of Light",
+    "contentId": "EP6969-PPSA13490_00-0124184090061841",
+    "region": "EP",
+    "publisherId": "EP6969"
   },
   {
     "titleId": "PPSA13495_00",
@@ -66467,7 +66483,7 @@
     "titleId": "PPSA16122_00",
     "conceptId": 10008236,
     "name": "SaGa Emerald Beyond",
-    "contentId": null,
+    "contentId": "UP0082-PPSA16122_00-SAGAEMERALDBYDUS",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -66475,7 +66491,7 @@
     "titleId": "PPSA16123_00",
     "conceptId": 10008236,
     "name": "SaGa Emerald Beyond",
-    "contentId": null,
+    "contentId": "EP0082-PPSA16123_00-SAGAEMERALDBYDEU",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -69395,9 +69411,9 @@
     "titleId": "PPSA16798_00",
     "conceptId": 10008370,
     "name": "Class of Heroes: Anniversary Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA16798_00-CLASSOFHEROESAE0",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA16799_00",
@@ -71616,6 +71632,14 @@
     "publisherId": "HP8406"
   },
   {
+    "titleId": "PPSA17369_00",
+    "conceptId": 10004930,
+    "name": "Beholgar",
+    "contentId": "JP1134-PPSA17369_00-0606176999190124",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
     "titleId": "PPSA17370_00",
     "conceptId": 10004930,
     "name": "Beholgar",
@@ -73754,10 +73778,10 @@
   {
     "titleId": "PPSA17972_00",
     "conceptId": 10000622,
-    "name": "OhShape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "OhShape!",
+    "contentId": "UP5992-PPSA17972_00-0418343728707397",
+    "region": "UP",
+    "publisherId": "UP5992"
   },
   {
     "titleId": "PPSA17973_00",
@@ -74218,8 +74242,8 @@
   {
     "titleId": "PPSA18082_00",
     "conceptId": 10008905,
-    "name": "MEGATON MUSASHI W: WIRED Standard Edition",
-    "contentId": null,
+    "name": "MEGATON MUSASHI W: WIRED",
+    "contentId": "UP7373-PPSA18082_00-MGTNWGAMEPS50000",
     "region": "UP",
     "publisherId": "UP7373"
   },
@@ -74234,8 +74258,8 @@
   {
     "titleId": "PPSA18084_00",
     "conceptId": 10008905,
-    "name": "MEGATON MUSASHI W: WIRED Standard Edition",
-    "contentId": null,
+    "name": "MEGATON MUSASHI W: WIRED",
+    "contentId": "HP0720-PPSA18084_00-MGTNWGAMEPS50000",
     "region": "HP",
     "publisherId": "HP0720"
   },
@@ -77571,17 +77595,17 @@
     "titleId": "PPSA19021_00",
     "conceptId": 10009376,
     "name": "Zombies, Aliens and Guns",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19021_00-ZOMBIESALIENSGRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA19023_00",
     "conceptId": 10009376,
     "name": "Zombies, Aliens and Guns",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA19023_00-ZOMBIESALIENSGRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19024_00",
@@ -78326,6 +78350,30 @@
     "contentId": "UP7085-PPSA19258_00-0294026655388531",
     "region": "UP",
     "publisherId": "UP7085"
+  },
+  {
+    "titleId": "PPSA19263_00",
+    "conceptId": 10007142,
+    "name": "Neptunia Game Maker R:Evolution",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19264_00",
+    "conceptId": 10007142,
+    "name": "Neptunia Game Maker R:Evolution",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19265_00",
+    "conceptId": 10007142,
+    "name": "Neptunia Game Maker R:Evolution",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19266_00",
@@ -79784,6 +79832,14 @@
     "publisherId": "EP8645"
   },
   {
+    "titleId": "PPSA19663_00",
+    "conceptId": 10006155,
+    "name": "Test Tracks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19678_00",
     "conceptId": 10007267,
     "name": "NOOB - \u30b6 \u30d5\u30a1\u30af\u30b7\u30e7\u30f3\u30ec\u30b9",
@@ -81176,6 +81232,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20084_00",
+    "conceptId": 10009773,
+    "name": "Please Fix The Road",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20089_00",
     "conceptId": 10009778,
     "name": "Melatonin",
@@ -82298,18 +82362,18 @@
   {
     "titleId": "PPSA20422_00",
     "conceptId": 10009923,
-    "name": "Another Crab\u2019s Treasure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Another Crab's Treasure",
+    "contentId": "UP7131-PPSA20422_00-ANOTHERCRABS4US5",
+    "region": "UP",
+    "publisherId": "UP7131"
   },
   {
     "titleId": "PPSA20423_00",
     "conceptId": 10009923,
-    "name": "Another Crab\u2019s Treasure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Another Crab's Treasure",
+    "contentId": "EP7128-PPSA20423_00-ANOTHERCRABS4EU5",
+    "region": "EP",
+    "publisherId": "EP7128"
   },
   {
     "titleId": "PPSA20430_00",
@@ -82742,6 +82806,22 @@
     "contentId": "EP2363-PPSA20540_00-EU0ELDGEAR000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA20541_00",
+    "conceptId": 10002718,
+    "name": "Gray Dawn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20542_00",
+    "conceptId": 10002718,
+    "name": "Gray Dawn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20543_00",
@@ -83624,12 +83704,20 @@
     "publisherId": "HP7695"
   },
   {
+    "titleId": "PPSA20981_00",
+    "conceptId": 10008787,
+    "name": "The Ramsey",
+    "contentId": "UP2765-PPSA20981_00-0228773284216841",
+    "region": "UP",
+    "publisherId": "UP2765"
+  },
+  {
     "titleId": "PPSA20982_00",
     "conceptId": 10008787,
     "name": "The Ramsey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2628-PPSA20982_00-0236164490024014",
+    "region": "EP",
+    "publisherId": "EP2628"
   },
   {
     "titleId": "PPSA20984_00",
@@ -84915,9 +85003,17 @@
     "titleId": "PPSA21605_00",
     "conceptId": 10009164,
     "name": "Morkull Ragast's Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6325-PPSA21605_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6325"
+  },
+  {
+    "titleId": "PPSA21606_00",
+    "conceptId": 10009164,
+    "name": "Morkull Ragast's Rage Demo",
+    "contentId": "UP6326-PPSA21606_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP6326"
   },
   {
     "titleId": "PPSA21609_00",
@@ -85226,10 +85322,10 @@
   {
     "titleId": "PPSA21830_00",
     "conceptId": 10010518,
-    "name": "Pachi Pachi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pachi Pachi on a roll",
+    "contentId": "UP6718-PPSA21830_00-0473183304905270",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA21831_00",
@@ -85395,9 +85491,9 @@
     "titleId": "PPSA21967_00",
     "conceptId": 10010573,
     "name": "Heritage of Eternal Splitting",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5823-PPSA21967_00-HERITAGEEUPS4444",
+    "region": "EP",
+    "publisherId": "EP5823"
   },
   {
     "titleId": "PPSA21968_00",
@@ -85824,12 +85920,20 @@
     "publisherId": "JP1368"
   },
   {
+    "titleId": "PPSA22395_00",
+    "conceptId": 10010729,
+    "name": "PuzzMiX",
+    "contentId": "UP1104-PPSA22395_00-PUZZMIX0APPWW000",
+    "region": "UP",
+    "publisherId": "UP1104"
+  },
+  {
     "titleId": "PPSA22396_00",
     "conceptId": 10010729,
     "name": "PuzzMiX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1095-PPSA22396_00-PUZZMIX0APPWW000",
+    "region": "EP",
+    "publisherId": "EP1095"
   },
   {
     "titleId": "PPSA22467_00",
@@ -86008,6 +86112,22 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA22599_00",
+    "conceptId": 231761,
+    "name": "Diablo\u00ae IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22600_00",
+    "conceptId": 231761,
+    "name": "Diablo\u00ae IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22644_00",
     "conceptId": 10010822,
     "name": "Cazzarion: Forest Defense",
@@ -86072,6 +86192,22 @@
     "publisherId": "UP5682"
   },
   {
+    "titleId": "PPSA22667_00",
+    "conceptId": 10010832,
+    "name": "Cybercube",
+    "contentId": "EP5864-PPSA22667_00-0273172639098227",
+    "region": "EP",
+    "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA22670_00",
+    "conceptId": 10008913,
+    "name": "Sushi Blast",
+    "contentId": "HP4312-PPSA22670_00-0862839889711495",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA22683_00",
     "conceptId": 10010839,
     "name": "Cazzarion: Whack A Zombie",
@@ -86120,12 +86256,20 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA22776_00",
+    "conceptId": 10010580,
+    "name": "Horrific Xanatorium",
+    "contentId": "UP2500-PPSA22776_00-US0HXANA00000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA22777_00",
     "conceptId": 10010580,
     "name": "Horrific Xanatorium",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA22777_00-EU0HXANA00000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA22781_00",
@@ -86142,6 +86286,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA22926_00",
+    "conceptId": 10010501,
+    "name": "EzQuiz",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22927_00",
+    "conceptId": 10010501,
+    "name": "EzQuiz",
+    "contentId": "JB0640-PPSA22927_00-0450865169059667",
+    "region": "JB",
+    "publisherId": "JB0640"
+  },
+  {
+    "titleId": "PPSA22928_00",
+    "conceptId": 10010501,
+    "name": "EzQuiz",
+    "contentId": "HB0669-PPSA22928_00-0722049569067682",
+    "region": "HB",
+    "publisherId": "HB0669"
+  },
+  {
+    "titleId": "PPSA23042_00",
+    "conceptId": 10009062,
+    "name": "Ariko's Enchanted Forest",
+    "contentId": "JP8693-PPSA23042_00-0530368324072571",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA23111_00",
