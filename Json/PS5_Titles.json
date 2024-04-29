@@ -12456,6 +12456,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA03993_00",
+    "conceptId": 10001900,
+    "name": "Imagine Earth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03999_00",
     "conceptId": 10002244,
     "name": "Tails of Iron",
@@ -55027,9 +55035,9 @@
     "titleId": "PPSA12668_00",
     "conceptId": 10006972,
     "name": "Fitting In",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA12668_00-0665277687168273",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA12669_00",
@@ -55242,8 +55250,8 @@
   {
     "titleId": "PPSA13196_00",
     "conceptId": 10006891,
-    "name": "Stellar Blade\u2122",
-    "contentId": null,
+    "name": "Stellar Blade",
+    "contentId": "UP9000-PPSA13196_00-STELLARBLADE0000",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -55258,8 +55266,8 @@
   {
     "titleId": "PPSA13198_00",
     "conceptId": 10006891,
-    "name": "Stellar Blade\u2122",
-    "contentId": null,
+    "name": "Stellar Blade",
+    "contentId": "HP9000-PPSA13198_00-STELLARBLADE0000",
     "region": "HP",
     "publisherId": "HP9000"
   },
@@ -67914,10 +67922,10 @@
   {
     "titleId": "PPSA16436_00",
     "conceptId": 10008370,
-    "name": "Class of Heroes: Anniversary Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u5263\u3068\u9b54\u6cd5\u3068\u5b66\u5712\u30e2\u30ce\u3002 Anniversary Edition",
+    "contentId": "JP0048-PPSA16436_00-CLASSOFHEROESAE0",
+    "region": "JP",
+    "publisherId": "JP0048"
   },
   {
     "titleId": "PPSA16438_00",
@@ -69459,9 +69467,9 @@
     "titleId": "PPSA16797_00",
     "conceptId": 10008370,
     "name": "Class of Heroes: Anniversary Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4293-PPSA16797_00-CLASSOFHEROESAE0",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA16798_00",
@@ -69475,9 +69483,9 @@
     "titleId": "PPSA16799_00",
     "conceptId": 10005571,
     "name": "Class of Heroes 2G: Remaster Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA16799_00-CLASSOFHEROES2R0",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA16800_00",
@@ -71954,10 +71962,10 @@
   {
     "titleId": "PPSA17441_00",
     "conceptId": 10008787,
-    "name": "The Ramsey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b6\u30fb\u30e9\u30e0\u30b8\u30fc",
+    "contentId": "HP2711-PPSA17441_00-0195281015701277",
+    "region": "HP",
+    "publisherId": "HP2711"
   },
   {
     "titleId": "PPSA17442_00",
@@ -75518,6 +75526,22 @@
     "contentId": "UB0300-PPSA18436_00-0822517423423925",
     "region": "UB",
     "publisherId": "UB0300"
+  },
+  {
+    "titleId": "PPSA18438_00",
+    "conceptId": 10009164,
+    "name": "Morkull Ragast's Rage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18439_00",
+    "conceptId": 10009164,
+    "name": "Morkull Ragast's Rage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18440_00",
@@ -83398,6 +83422,22 @@
     "contentId": "EB0720-PPSA20762_00-0569718414113973",
     "region": "EB",
     "publisherId": "EB0720"
+  },
+  {
+    "titleId": "PPSA20777_00",
+    "conceptId": 10010079,
+    "name": "Kinduo 2 - Frostbite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20778_00",
+    "conceptId": 10010079,
+    "name": "Kinduo 2 - Frostbite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20780_00",
