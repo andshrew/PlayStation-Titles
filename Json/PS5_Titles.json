@@ -36306,8 +36306,8 @@
   {
     "titleId": "PPSA08575_00",
     "conceptId": 10005459,
-    "name": "SAND LAND PS4 & PS5",
-    "contentId": null,
+    "name": "SAND LAND",
+    "contentId": "UP0700-PPSA08575_00-SANDLMAINGAME000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -77232,6 +77232,14 @@
     "publisherId": "UP8012"
   },
   {
+    "titleId": "PPSA18903_00",
+    "conceptId": 10009332,
+    "name": "Rainbow Cotton PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18920_00",
     "conceptId": 10009341,
     "name": "Air Fight - Sky Fighters",
@@ -82899,17 +82907,17 @@
     "titleId": "PPSA20541_00",
     "conceptId": 10002718,
     "name": "Gray Dawn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5199-PPSA20541_00-0911821956780574",
+    "region": "UP",
+    "publisherId": "UP5199"
   },
   {
     "titleId": "PPSA20542_00",
     "conceptId": 10002718,
     "name": "Gray Dawn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5379-PPSA20542_00-0366217653304677",
+    "region": "EP",
+    "publisherId": "EP5379"
   },
   {
     "titleId": "PPSA20543_00",
@@ -85008,6 +85016,22 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA21458_00",
+    "conceptId": 10010362,
+    "name": "The Smurfs - Village Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21459_00",
+    "conceptId": 10010362,
+    "name": "The Smurfs - Village Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21493_00",
     "conceptId": 10008144,
     "name": "Mr. Brocco & Co.",
@@ -85344,6 +85368,38 @@
     "publisherId": "HP1546"
   },
   {
+    "titleId": "PPSA21694_00",
+    "conceptId": 10010457,
+    "name": "Paint By Pixel 2",
+    "contentId": "EP1411-PPSA21694_00-0808626488424659",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21695_00",
+    "conceptId": 10010457,
+    "name": "Paint By Pixel 2",
+    "contentId": "UP1421-PPSA21695_00-0154899316483741",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21696_00",
+    "conceptId": 10010457,
+    "name": "Paint By Pixel 2",
+    "contentId": "JP1681-PPSA21696_00-0390238135605971",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA21697_00",
+    "conceptId": 10010457,
+    "name": "Paint By Pixel 2",
+    "contentId": "HP1546-PPSA21697_00-0480513532253443",
+    "region": "HP",
+    "publisherId": "HP1546"
+  },
+  {
     "titleId": "PPSA21718_00",
     "conceptId": 10003586,
     "name": "BOULDER DASH Deluxe",
@@ -85390,6 +85446,38 @@
     "contentId": "EP2196-PPSA21768_00-TRINITYFDEMOP5EU",
     "region": "EP",
     "publisherId": "EP2196"
+  },
+  {
+    "titleId": "PPSA21784_00",
+    "conceptId": 10010491,
+    "name": "Chimp Quest: Spirit Isle",
+    "contentId": "EP1411-PPSA21784_00-0280136735810410",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21785_00",
+    "conceptId": 10010491,
+    "name": "Chimp Quest: Spirit Isle",
+    "contentId": "UP1421-PPSA21785_00-0057777936886068",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21786_00",
+    "conceptId": 10010491,
+    "name": "Chimp Quest: Spirit Isle",
+    "contentId": "JP1681-PPSA21786_00-0505766869225626",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA21787_00",
+    "conceptId": 10010491,
+    "name": "Chimp Quest: Spirit Isle",
+    "contentId": "HP1546-PPSA21787_00-0814396363948182",
+    "region": "HP",
+    "publisherId": "HP1546"
   },
   {
     "titleId": "PPSA21797_00",
@@ -86232,12 +86320,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22643_00",
+    "conceptId": 10010822,
+    "name": "Cazzarion: Forest Defense",
+    "contentId": "UB0438-PPSA22643_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA22644_00",
     "conceptId": 10010822,
     "name": "Cazzarion: Forest Defense",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22644_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22648_00",
