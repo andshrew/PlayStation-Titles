@@ -28355,9 +28355,9 @@
     "titleId": "PPSA07072_00",
     "conceptId": 10004794,
     "name": "Whisker Waters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1260-PPSA07072_00-WHISKERWATERS000",
+    "region": "UP",
+    "publisherId": "UP1260"
   },
   {
     "titleId": "PPSA07073_00",
@@ -28371,9 +28371,9 @@
     "titleId": "PPSA07074_00",
     "conceptId": 10004794,
     "name": "Whisker Waters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1121-PPSA07074_00-WHISKERWATERS000",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA07075_00",
@@ -36290,8 +36290,8 @@
   {
     "titleId": "PPSA08573_00",
     "conceptId": 10005459,
-    "name": "SAND LAND PS4\u2122 & PS5\u00ae",
-    "contentId": null,
+    "name": "SAND LAND",
+    "contentId": "HP0700-PPSA08573_00-SANDLMAINGAME000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -39379,9 +39379,9 @@
     "titleId": "PPSA09090_00",
     "conceptId": 10005702,
     "name": "Lunar Lander Beyond",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4369-PPSA09090_00-RC00000000000005",
+    "region": "EP",
+    "publisherId": "EP4369"
   },
   {
     "titleId": "PPSA09091_00",
@@ -73000,6 +73000,14 @@
     "publisherId": "UP1309"
   },
   {
+    "titleId": "PPSA17742_00",
+    "conceptId": 10008796,
+    "name": "\u30a8\u30c3\u30e9: \u30a8\u30af\u30bd\u30fc\u30c7\u30a3\u30a2\u30e0",
+    "contentId": "UP5265-PPSA17742_00-0167027429309735",
+    "region": "UP",
+    "publisherId": "UP5265"
+  },
+  {
     "titleId": "PPSA17744_00",
     "conceptId": 10008805,
     "name": "Solasta",
@@ -77475,9 +77483,9 @@
     "titleId": "PPSA18985_00",
     "conceptId": 10009359,
     "name": "Gordian Quest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1877-PPSA18985_00-3XS8CHW5N5JER6JU",
+    "region": "EP",
+    "publisherId": "EP1877"
   },
   {
     "titleId": "PPSA18988_00",
@@ -77814,6 +77822,22 @@
     "contentId": "HP7354-PPSA19060_00-0075410872638298",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA19067_00",
+    "conceptId": 10009392,
+    "name": "Crow Country",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19068_00",
+    "conceptId": 10009392,
+    "name": "Crow Country",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19071_00",
@@ -78910,6 +78934,30 @@
     "contentId": "HP5911-PPSA19374_00-SLAPSBEANS2PS5AS",
     "region": "HP",
     "publisherId": "HP5911"
+  },
+  {
+    "titleId": "PPSA19379_00",
+    "conceptId": 10009507,
+    "name": "Pool Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19380_00",
+    "conceptId": 10009507,
+    "name": "Pool Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19382_00",
+    "conceptId": 10009507,
+    "name": "Pool Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19383_00",
@@ -82355,33 +82403,33 @@
     "titleId": "PPSA20392_00",
     "conceptId": 10009908,
     "name": "Tales from Candleforth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA20392_00-0023458895295891",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA20393_00",
     "conceptId": 10009908,
     "name": "Tales from Candleforth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA20393_00-0023458895295891",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA20394_00",
     "conceptId": 10009908,
     "name": "Tales from Candleforth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA20394_00-0023458895295891",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA20395_00",
     "conceptId": 10009908,
     "name": "Tales from Candleforth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA20395_00-0023458895295891",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA20399_00",
@@ -83536,6 +83584,22 @@
     "publisherId": "EB0792"
   },
   {
+    "titleId": "PPSA20819_00",
+    "conceptId": 10010101,
+    "name": "Awesome Pea 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20820_00",
+    "conceptId": 10010101,
+    "name": "Awesome Pea 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20821_00",
     "conceptId": 10007418,
     "name": "The Rusty Sword: Vanguard Island",
@@ -83930,26 +83994,26 @@
   {
     "titleId": "PPSA21018_00",
     "conceptId": 10010191,
-    "name": "FRONT MISSION 2: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Front Mission 2: Remake",
+    "contentId": "EP3948-PPSA21018_00-0435231982544423",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA21019_00",
     "conceptId": 10010191,
-    "name": "FRONT MISSION 2: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Front Mission 2: Remake",
+    "contentId": "UP4199-PPSA21019_00-0307287032979894",
+    "region": "UP",
+    "publisherId": "UP4199"
   },
   {
     "titleId": "PPSA21020_00",
     "conceptId": 10010191,
-    "name": "FRONT MISSION 2: Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Front Mission 2: Remake",
+    "contentId": "JP4138-PPSA21020_00-0418363627211130",
+    "region": "JP",
+    "publisherId": "JP4138"
   },
   {
     "titleId": "PPSA21026_00",
@@ -84067,9 +84131,9 @@
     "titleId": "PPSA21080_00",
     "conceptId": 10010211,
     "name": "Space Mercenary Defense Force",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA21080_00-SPACEMERCENARYDF",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA21081_00",
@@ -85128,6 +85192,22 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA21576_00",
+    "conceptId": 10010410,
+    "name": "Cyber Citizen Shockman 3: The princess from another world",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21577_00",
+    "conceptId": 10010410,
+    "name": "Cyber Citizen Shockman 3: The princess from another world",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21605_00",
     "conceptId": 10009164,
     "name": "Morkull Ragast's Rage",
@@ -86048,12 +86128,28 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22244_00",
+    "conceptId": 10010674,
+    "name": "1-2-Word Search!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22245_00",
     "conceptId": 10010675,
     "name": "Learn to Play Vol. 1 - Fruit Collect",
     "contentId": "UP2005-PPSA22245_00-FRUITCOLLECT0000",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA22246_00",
+    "conceptId": 10010674,
+    "name": "1-2-Word Search!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22247_00",
@@ -86286,6 +86382,22 @@
     "contentId": "EB0629-PPSA22556_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA22561_00",
+    "conceptId": 10010679,
+    "name": "Capsule Fight",
+    "contentId": "EP4476-PPSA22561_00-0641345840489127",
+    "region": "EP",
+    "publisherId": "EP4476"
+  },
+  {
+    "titleId": "PPSA22562_00",
+    "conceptId": 10010679,
+    "name": "Capsule Fight",
+    "contentId": "UP2136-PPSA22562_00-0107064165015991",
+    "region": "UP",
+    "publisherId": "UP2136"
   },
   {
     "titleId": "PPSA22590_00",
