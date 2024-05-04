@@ -27442,8 +27442,8 @@
   {
     "titleId": "PPSA06899_00",
     "conceptId": 10004708,
-    "name": "TopSpin 2K25 Cross-Gen Digital Edition",
-    "contentId": null,
+    "name": "TopSpin 2K25",
+    "contentId": "EP1001-PPSA06899_00-BASEGAME00000000",
     "region": "EP",
     "publisherId": "EP1001"
   },
@@ -46328,6 +46328,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA10285_00",
+    "conceptId": 10006176,
+    "name": "Roxy Raccoon's Pinball Panic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10286_00",
     "conceptId": 10004532,
     "name": "Fairy Fencer F: Refrain Chord",
@@ -58843,17 +58851,17 @@
     "titleId": "PPSA13932_00",
     "conceptId": 10007417,
     "name": "Sclash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8016-PPSA13932_00-SCLAS00GAMEUSA01",
+    "region": "UP",
+    "publisherId": "UP8016"
   },
   {
     "titleId": "PPSA13933_00",
     "conceptId": 10007417,
     "name": "Sclash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8208-PPSA13933_00-SCLAS00GAMEEUR01",
+    "region": "EP",
+    "publisherId": "EP8208"
   },
   {
     "titleId": "PPSA13934_00",
@@ -69987,9 +69995,9 @@
     "titleId": "PPSA16914_00",
     "conceptId": 10008566,
     "name": "MADiSON VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA16914_00-0240062840746313",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA16915_00",
@@ -70003,9 +70011,9 @@
     "titleId": "PPSA16917_00",
     "conceptId": 10008566,
     "name": "MADiSON VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA16917_00-0163170221757606",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA16918_00",
@@ -72454,6 +72462,14 @@
     "contentId": "EP6405-PPSA17568_00-0233140649287378",
     "region": "EP",
     "publisherId": "EP6405"
+  },
+  {
+    "titleId": "PPSA17571_00",
+    "conceptId": 10007749,
+    "name": "Who's Your Daddy?!",
+    "contentId": "EP7719-PPSA17571_00-0640892277519068",
+    "region": "EP",
+    "publisherId": "EP7719"
   },
   {
     "titleId": "PPSA17574_00",
@@ -81600,6 +81616,14 @@
     "publisherId": "EB0198"
   },
   {
+    "titleId": "PPSA20114_00",
+    "conceptId": 10009776,
+    "name": "Tour de France 2024 - Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA20115_00",
     "conceptId": 10009776,
     "name": "Tour de France 2024 - Standard Edition",
@@ -83358,6 +83382,14 @@
     "contentId": "UP0891-PPSA20639_00-CAVEMANRANSOMRAG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA20648_00",
+    "conceptId": 10010032,
+    "name": "BIT.TRIP RERUNNER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20667_00",
@@ -85339,9 +85371,9 @@
     "titleId": "PPSA21577_00",
     "conceptId": 10010410,
     "name": "Cyber Citizen Shockman 3: The princess from another world",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA21577_00-CYBERCITIZENS3RG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA21605_00",
@@ -85976,6 +86008,14 @@
     "publisherId": "EP6470"
   },
   {
+    "titleId": "PPSA22010_00",
+    "conceptId": 10010590,
+    "name": "Tales From The Under-Realm: Hazel",
+    "contentId": "UP6472-PPSA22010_00-TFTURHAZEL000000",
+    "region": "UP",
+    "publisherId": "UP6472"
+  },
+  {
     "titleId": "PPSA22016_00",
     "conceptId": 10009288,
     "name": "Sky Roll!",
@@ -86280,6 +86320,38 @@
     "publisherId": "HP1212"
   },
   {
+    "titleId": "PPSA22223_00",
+    "conceptId": 10010667,
+    "name": "Retropolis 2: Never Say Goodbye",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22224_00",
+    "conceptId": 10010667,
+    "name": "Retropolis 2: Never Say Goodbye",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22225_00",
+    "conceptId": 10010667,
+    "name": "Retropolis 2: Never Say Goodbye",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22226_00",
+    "conceptId": 10010667,
+    "name": "Retropolis 2: Never Say Goodbye",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22244_00",
     "conceptId": 10010674,
     "name": "1-2-Word Search!",
@@ -86408,12 +86480,20 @@
     "publisherId": "EP1095"
   },
   {
+    "titleId": "PPSA22418_00",
+    "conceptId": 10010734,
+    "name": "ExitSlum11",
+    "contentId": "UP5877-PPSA22418_00-0913223678630113",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA22419_00",
     "conceptId": 10010734,
     "name": "ExitSlum11",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8070-PPSA22419_00-0862349236113717",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA22467_00",
@@ -86430,6 +86510,22 @@
     "contentId": "EP5823-PPSA22468_00-EASTERJOURNEYEU5",
     "region": "EP",
     "publisherId": "EP5823"
+  },
+  {
+    "titleId": "PPSA22477_00",
+    "conceptId": 10010754,
+    "name": "Outbreak The Fedora Files: What Lydia Knows",
+    "contentId": "UP6088-PPSA22477_00-0283752590541643",
+    "region": "UP",
+    "publisherId": "UP6088"
+  },
+  {
+    "titleId": "PPSA22478_00",
+    "conceptId": 10010754,
+    "name": "Outbreak The Fedora Files: What Lydia Knows",
+    "contentId": "EP6087-PPSA22478_00-0362027231487069",
+    "region": "EP",
+    "publisherId": "EP6087"
   },
   {
     "titleId": "PPSA22479_00",
@@ -86656,6 +86752,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22637_00",
+    "conceptId": 10010032,
+    "name": "BIT.TRIP RERUNNER",
+    "contentId": "EP2148-PPSA22637_00-0383079449636476",
+    "region": "EP",
+    "publisherId": "EP2148"
+  },
+  {
+    "titleId": "PPSA22639_00",
+    "conceptId": 10010820,
+    "name": "Eternal Light",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22643_00",
     "conceptId": 10010822,
     "name": "Cazzarion: Forest Defense",
@@ -86840,6 +86952,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22809_00",
+    "conceptId": 10010901,
+    "name": "Mystic Warriors Battleground",
+    "contentId": "UB0008-PPSA22809_00-0293298468821015",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA22810_00",
     "conceptId": 10010901,
     "name": "Mystic Warriors Battleground",
@@ -86910,6 +87030,30 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA22975_00",
+    "conceptId": 10008434,
+    "name": "Time Of War, Arkano'90",
+    "contentId": "JP5432-PPSA22975_00-0831086357868384",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA23032_00",
+    "conceptId": 10010905,
+    "name": "Tile Cross",
+    "contentId": "UB0284-PPSA23032_00-0481483918980307",
+    "region": "UB",
+    "publisherId": "UB0284"
+  },
+  {
+    "titleId": "PPSA23033_00",
+    "conceptId": 10010905,
+    "name": "Tile Cross",
+    "contentId": "EB0467-PPSA23033_00-0373683865883168",
+    "region": "EB",
+    "publisherId": "EB0467"
   },
   {
     "titleId": "PPSA23042_00",
