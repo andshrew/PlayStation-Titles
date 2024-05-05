@@ -81488,6 +81488,14 @@
     "publisherId": "EB0372"
   },
   {
+    "titleId": "PPSA20091_00",
+    "conceptId": 232265,
+    "name": "Braid, Anniversary Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20095_00",
     "conceptId": 10009782,
     "name": "Contraptions Collection",
@@ -86760,12 +86768,36 @@
     "publisherId": "EP2148"
   },
   {
+    "titleId": "PPSA22638_00",
+    "conceptId": 10010820,
+    "name": "Eternal Light",
+    "contentId": "UP8281-PPSA22638_00-0760810498739397",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
     "titleId": "PPSA22639_00",
     "conceptId": 10010820,
     "name": "Eternal Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8472-PPSA22639_00-0685536063912775",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA22640_00",
+    "conceptId": 10010820,
+    "name": "Eternal Light \u6c38\u9060\u306e\u5149",
+    "contentId": "JP8187-PPSA22640_00-0798757278838870",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "PPSA22641_00",
+    "conceptId": 10010820,
+    "name": "Eternal Light",
+    "contentId": "HP8232-PPSA22641_00-0686265810289941",
+    "region": "HP",
+    "publisherId": "HP8232"
   },
   {
     "titleId": "PPSA22643_00",
