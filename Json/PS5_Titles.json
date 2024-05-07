@@ -37312,6 +37312,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08741_00",
+    "conceptId": 10005544,
+    "name": "Astor: Blade of the Monolith",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08748_00",
     "conceptId": 10005546,
     "name": "99 Seconds",
@@ -46326,6 +46334,14 @@
     "contentId": "EP2005-PPSA10283_00-THEREDEXILE00000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA10284_00",
+    "conceptId": 10006176,
+    "name": "Roxy Raccoon's Pinball Panic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10285_00",
@@ -78376,6 +78392,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA19200_00",
+    "conceptId": 10008661,
+    "name": "Evil Wizard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19204_00",
     "conceptId": 10009445,
     "name": "Wild & Adventure Pinball",
@@ -78398,6 +78422,22 @@
     "contentId": "JP5432-PPSA19206_00-0962118078222787",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA19208_00",
+    "conceptId": 10008661,
+    "name": "Evil Wizard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19215_00",
+    "conceptId": 10008661,
+    "name": "Evil Wizard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19223_00",
@@ -79430,6 +79470,14 @@
     "contentId": "EP1024-PPSA19457_00-SPIRITHUNTERDMII",
     "region": "EP",
     "publisherId": "EP1024"
+  },
+  {
+    "titleId": "PPSA19465_00",
+    "conceptId": 10009551,
+    "name": "MiLE HiGH TAXi",
+    "contentId": "UB0444-PPSA19465_00-0820190653361924",
+    "region": "UB",
+    "publisherId": "UB0444"
   },
   {
     "titleId": "PPSA19467_00",
@@ -85266,18 +85314,18 @@
   {
     "titleId": "PPSA21458_00",
     "conceptId": 10010362,
-    "name": "The Smurfs - Village Party",
+    "name": "The Smurfs - Village Party PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA21459_00",
     "conceptId": 10010362,
-    "name": "The Smurfs - Village Party",
+    "name": "The Smurfs - Village Party PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA21493_00",
@@ -86912,12 +86960,20 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA22682_00",
+    "conceptId": 10010839,
+    "name": "Cazzarion: Whack A Zombie",
+    "contentId": "UB0438-PPSA22682_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA22683_00",
     "conceptId": 10010839,
     "name": "Cazzarion: Whack A Zombie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22683_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22687_00",
