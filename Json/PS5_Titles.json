@@ -12451,9 +12451,9 @@
     "titleId": "PPSA03992_00",
     "conceptId": 10001900,
     "name": "Imagine Earth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6213-PPSA03992_00-5120255680220904",
+    "region": "EP",
+    "publisherId": "EP6213"
   },
   {
     "titleId": "PPSA03993_00",
@@ -30083,9 +30083,9 @@
     "titleId": "PPSA07408_00",
     "conceptId": 10004950,
     "name": "The Prisoner of the Night",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA07408_00-TPRISONEROFNIGHT",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA07409_00",
@@ -44614,6 +44614,14 @@
     "contentId": "EP7177-PPSA09992_00-8647873774033457",
     "region": "EP",
     "publisherId": "EP7177"
+  },
+  {
+    "titleId": "PPSA09993_00",
+    "conceptId": 10006073,
+    "name": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09996_00",
@@ -62904,6 +62912,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15338_00",
+    "conceptId": 10006837,
+    "name": "Rocket Knight Adventures: Re-Sparked Collection PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0101"
+  },
+  {
     "titleId": "PPSA15342_00",
     "conceptId": 10007958,
     "name": "Bahnsen Knights",
@@ -64862,6 +64878,14 @@
     "contentId": "EP2196-PPSA15747_00-0297383239463821",
     "region": "EP",
     "publisherId": "EP2196"
+  },
+  {
+    "titleId": "PPSA15750_00",
+    "conceptId": 10006837,
+    "name": "Rocket Knight Adventures: Re-Sparked Collection PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA15753_00",
@@ -77330,10 +77354,10 @@
   {
     "titleId": "PPSA18903_00",
     "conceptId": 10009332,
-    "name": "Rainbow Cotton PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30b3\u30c3\u30c8\u30f3",
+    "contentId": "JP5849-PPSA18903_00-RAINBOWCTTNPS5JP",
+    "region": "JP",
+    "publisherId": "JP5849"
   },
   {
     "titleId": "PPSA18920_00",
@@ -78904,6 +78928,22 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA19317_00",
+    "conceptId": 10004064,
+    "name": "Eternal Threads",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19318_00",
+    "conceptId": 10004064,
+    "name": "Eternal Threads",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19319_00",
     "conceptId": 10009392,
     "name": "Crow Country Demo",
@@ -79062,6 +79102,38 @@
     "contentId": "HP5911-PPSA19374_00-SLAPSBEANS2PS5AS",
     "region": "HP",
     "publisherId": "HP5911"
+  },
+  {
+    "titleId": "PPSA19375_00",
+    "conceptId": 10009251,
+    "name": "Paper Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19376_00",
+    "conceptId": 10009251,
+    "name": "Paper Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19377_00",
+    "conceptId": 10009251,
+    "name": "Paper Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19378_00",
+    "conceptId": 10009251,
+    "name": "Paper Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19379_00",
@@ -79534,6 +79606,14 @@
     "contentId": "UP0891-PPSA19481_00-ADVENTURESPANZRG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA19487_00",
+    "conceptId": 10008991,
+    "name": "Thief Simulator VR: Greenview Street",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19488_00",
@@ -83472,6 +83552,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20641_00",
+    "conceptId": 10010025,
+    "name": "WW2 Rebuilder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20648_00",
     "conceptId": 10010032,
     "name": "BIT.TRIP RERUNNER",
@@ -83574,6 +83662,14 @@
     "contentId": "HP2005-PPSA20728_00-DEADENDCITY00000",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA20729_00",
+    "conceptId": 10009587,
+    "name": "Gift",
+    "contentId": "JP0540-PPSA20729_00-0175574512549733",
+    "region": "JP",
+    "publisherId": "JP0540"
   },
   {
     "titleId": "PPSA20730_00",
@@ -83872,6 +83968,14 @@
     "publisherId": "JP5187"
   },
   {
+    "titleId": "PPSA20847_00",
+    "conceptId": 10009587,
+    "name": "Gift",
+    "contentId": "HP6931-PPSA20847_00-0976019611156182",
+    "region": "HP",
+    "publisherId": "HP6931"
+  },
+  {
     "titleId": "PPSA20859_00",
     "conceptId": 10010112,
     "name": "Top Gun Air Combat Extended",
@@ -83990,6 +84094,22 @@
     "contentId": "UP4140-PPSA20899_00-0826949566091234",
     "region": "UP",
     "publisherId": "UP4140"
+  },
+  {
+    "titleId": "PPSA20929_00",
+    "conceptId": 10009587,
+    "name": "Gift",
+    "contentId": "EP6912-PPSA20929_00-0190471539571970",
+    "region": "EP",
+    "publisherId": "EP6912"
+  },
+  {
+    "titleId": "PPSA20930_00",
+    "conceptId": 10009587,
+    "name": "Gift",
+    "contentId": "UP6916-PPSA20930_00-0174428343398921",
+    "region": "UP",
+    "publisherId": "UP6916"
   },
   {
     "titleId": "PPSA20931_00",
@@ -84528,6 +84648,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21134_00",
+    "conceptId": 10010234,
+    "name": "X-Force Under Attack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21138_00",
     "conceptId": 10009299,
     "name": "The Master's Pupil",
@@ -84966,6 +85094,14 @@
     "contentId": "HP8005-PPSA21331_00-0060698595825828",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA21336_00",
+    "conceptId": 231528,
+    "name": "Island Time VR",
+    "contentId": "UP3867-PPSA21336_00-0689942350988447",
+    "region": "UP",
+    "publisherId": "UP3867"
   },
   {
     "titleId": "PPSA21346_00",
@@ -87238,5 +87374,29 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23211_00",
+    "conceptId": 10010869,
+    "name": "Trust No One",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23352_00",
+    "conceptId": 10010124,
+    "name": "Heaven Jump",
+    "contentId": "JP8693-PPSA23352_00-0816786370049219",
+    "region": "JP",
+    "publisherId": "JP8693"
+  },
+  {
+    "titleId": "PPSA23357_00",
+    "conceptId": 10010124,
+    "name": "Heaven Jump",
+    "contentId": "HP8737-PPSA23357_00-0810945102552422",
+    "region": "HP",
+    "publisherId": "HP8737"
   }
 ]
