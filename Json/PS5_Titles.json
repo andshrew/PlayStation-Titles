@@ -53144,6 +53144,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA11489_00",
+    "conceptId": 10006593,
+    "name": "Missing parts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11494_00",
     "conceptId": 231180,
     "name": "Warhammer 40,000: Inquisitor - Martyr",
@@ -53722,10 +53730,10 @@
   {
     "titleId": "PPSA12369_00",
     "conceptId": 10006392,
-    "name": "Mechs V Kaijus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mech V Kaijus",
+    "contentId": "JP0078-PPSA12369_00-MECHSVKAIJUS0000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA12371_00",
@@ -64651,9 +64659,9 @@
     "titleId": "PPSA15707_00",
     "conceptId": 10008111,
     "name": "15in1 Solitaire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA15707_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA15708_00",
@@ -70616,6 +70624,22 @@
     "publisherId": "JP3425"
   },
   {
+    "titleId": "PPSA17063_00",
+    "conceptId": 10008602,
+    "name": "Umbraclaw",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17064_00",
+    "conceptId": 10008602,
+    "name": "Umbraclaw",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17065_00",
     "conceptId": 10004276,
     "name": "LISA: The Painful - Definitive Edition",
@@ -73338,8 +73362,8 @@
   {
     "titleId": "PPSA17794_00",
     "conceptId": 10004056,
-    "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs PS4 & PS5",
-    "contentId": null,
+    "name": "PAC-MAN\u2122 Mega Tunnel Battle\u2122 Chomp Champs",
+    "contentId": "EP0700-PPSA17794_00-000000PMMTBCCPS5",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -76216,6 +76240,14 @@
     "publisherId": "EP4432"
   },
   {
+    "titleId": "PPSA18596_00",
+    "conceptId": 228803,
+    "name": "Night Trap",
+    "contentId": "EP3315-PPSA18596_00-NIGHTTRAPANNIVER",
+    "region": "EP",
+    "publisherId": "EP3315"
+  },
+  {
     "titleId": "PPSA18597_00",
     "conceptId": 10009238,
     "name": "Ikkarus and the Prince of Sin",
@@ -76374,6 +76406,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP4774"
+  },
+  {
+    "titleId": "PPSA18630_00",
+    "conceptId": 10009057,
+    "name": "Master Detective Archives: RAIN CODE Plus",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4947"
   },
   {
     "titleId": "PPSA18634_00",
@@ -78019,9 +78059,9 @@
     "titleId": "PPSA19067_00",
     "conceptId": 10009392,
     "name": "Crow Country",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6093-PPSA19067_00-0438761103283229",
+    "region": "UP",
+    "publisherId": "UP6093"
   },
   {
     "titleId": "PPSA19068_00",
@@ -82056,6 +82096,14 @@
     "publisherId": "HP1419"
   },
   {
+    "titleId": "PPSA20180_00",
+    "conceptId": 235227,
+    "name": "Ghost of Tsushima",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20183_00",
     "conceptId": 10009036,
     "name": "Let's! Revolution!",
@@ -83619,17 +83667,17 @@
     "titleId": "PPSA20640_00",
     "conceptId": 10010025,
     "name": "WW2 Rebuilder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1564-PPSA20640_00-MADGWW2R05122023",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA20641_00",
     "conceptId": 10010025,
     "name": "WW2 Rebuilder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA20641_00-MADGWW2R05122023",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA20648_00",
@@ -83899,9 +83947,9 @@
     "titleId": "PPSA20778_00",
     "conceptId": 10010079,
     "name": "Kinduo 2 - Frostbite",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA20778_00-KINDUO2FROSTBIRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA20780_00",
@@ -86395,17 +86443,17 @@
     "titleId": "PPSA22048_00",
     "conceptId": 10010605,
     "name": "Chronicles of Magic: Divided Kingdom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1681-PPSA22048_00-CHROM2024PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA22049_00",
     "conceptId": 10010605,
     "name": "Chronicles of Magic: Divided Kingdom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1667-PPSA22049_00-CHROM2024PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
   },
   {
     "titleId": "PPSA22056_00",
@@ -86696,6 +86744,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22239_00",
+    "conceptId": 235227,
+    "name": "Ghost of Tsushima",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22244_00",
     "conceptId": 10010674,
     "name": "1-2-Word Search!",
@@ -86795,9 +86851,9 @@
     "titleId": "PPSA22391_00",
     "conceptId": 10010727,
     "name": "My Incubi Harem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA22391_00-MYINCH0000000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA22394_00",
@@ -87352,6 +87408,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA22755_00",
+    "conceptId": 10010881,
+    "name": "Rail Trail",
+    "contentId": "UB0008-PPSA22755_00-0210611524906275",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA22756_00",
     "conceptId": 10010881,
     "name": "Rail Trail",
@@ -87374,6 +87438,14 @@
     "contentId": "EB0198-PPSA22758_00-0889150155719436",
     "region": "EB",
     "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA22761_00",
+    "conceptId": 10010884,
+    "name": "Foxy's Coin Hunt",
+    "contentId": "UB0008-PPSA22761_00-0461643617943392",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA22762_00",
@@ -87510,6 +87582,14 @@
     "contentId": "EP5864-PPSA22997_00-0526052818247755",
     "region": "EP",
     "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA23005_00",
+    "conceptId": 10010494,
+    "name": "CLeM",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23032_00",
