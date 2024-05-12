@@ -33424,6 +33424,14 @@
     "publisherId": "HP0936"
   },
   {
+    "titleId": "PPSA08065_00",
+    "conceptId": 10005248,
+    "name": "GUNDAM BREAKER 4 PS4\u00ae & PS5\u00ae",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA08066_00",
     "conceptId": 10004581,
     "name": "Murder on the Marine Express",
@@ -53142,6 +53150,14 @@
     "contentId": "EP7333-PPSA11487_00-5376416408782938",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA11488_00",
+    "conceptId": 10006593,
+    "name": "Missing parts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11489_00",
@@ -73746,8 +73762,8 @@
   {
     "titleId": "PPSA17889_00",
     "conceptId": 10004056,
-    "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs PS4 & PS5",
-    "contentId": null,
+    "name": "PAC-MAN\u2122 Mega Tunnel Battle\u2122 Chomp Champs",
+    "contentId": "HP5028-PPSA17889_00-000000PMMTBCCPS5",
     "region": "HP",
     "publisherId": "HP5028"
   },
