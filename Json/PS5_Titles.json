@@ -81016,6 +81016,14 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA19862_00",
+    "conceptId": 10009694,
+    "name": "SKELER BOY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19867_00",
     "conceptId": 10005844,
     "name": "Dragon's Dogma 2 Character Creator & Storage",
@@ -83760,6 +83768,14 @@
     "publisherId": "HB0123"
   },
   {
+    "titleId": "PPSA20706_00",
+    "conceptId": 10010062,
+    "name": "TP Bullet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20709_00",
     "conceptId": 10010064,
     "name": "Super Destronaut Landed X Loaded",
@@ -84230,6 +84246,14 @@
     "contentId": "UP4140-PPSA20899_00-0826949566091234",
     "region": "UP",
     "publisherId": "UP4140"
+  },
+  {
+    "titleId": "PPSA20922_00",
+    "conceptId": 10010133,
+    "name": "Shave & Stuff",
+    "contentId": "EB0416-PPSA20922_00-0514600325156657",
+    "region": "EB",
+    "publisherId": "EB0416"
   },
   {
     "titleId": "PPSA20929_00",
@@ -86640,6 +86664,14 @@
     "publisherId": "JP2343"
   },
   {
+    "titleId": "PPSA22138_00",
+    "conceptId": 10010133,
+    "name": "Shave & Stuff",
+    "contentId": "UB0225-PPSA22138_00-0074169591385824",
+    "region": "UB",
+    "publisherId": "UB0225"
+  },
+  {
     "titleId": "PPSA22150_00",
     "conceptId": 10010643,
     "name": "Cazzarion: Space Ace",
@@ -87523,9 +87555,9 @@
     "titleId": "PPSA22855_00",
     "conceptId": 10010916,
     "name": "Cazzarion: Sky Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22855_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22863_00",
@@ -87686,5 +87718,13 @@
     "contentId": "HP8737-PPSA23357_00-0810945102552422",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA23523_00",
+    "conceptId": 10010824,
+    "name": "Supermarket Shopping Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
