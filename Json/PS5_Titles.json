@@ -33400,6 +33400,14 @@
     "publisherId": "JP1899"
   },
   {
+    "titleId": "PPSA08059_00",
+    "conceptId": 10005248,
+    "name": "\u30ac\u30f3\u30c0\u30e0\u30d6\u30ec\u30a4\u30ab\u30fc\uff14 PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA08060_00",
     "conceptId": 10004928,
     "name": "LOST EPIC",
@@ -67088,6 +67096,22 @@
     "publisherId": "UP6582"
   },
   {
+    "titleId": "PPSA16214_00",
+    "conceptId": 10008296,
+    "name": "INDIKA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16215_00",
+    "conceptId": 10008296,
+    "name": "INDIKA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16219_00",
     "conceptId": 10004500,
     "name": "Operation Wolf Returns: First Mission VR",
@@ -69818,18 +69842,18 @@
   {
     "titleId": "PPSA16860_00",
     "conceptId": 10008550,
-    "name": "The Land Beneath Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Land Beneath Ua",
+    "contentId": "EP1302-PPSA16860_00-BASELBUSIEE00000",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA16861_00",
     "conceptId": 10008550,
     "name": "The Land Beneath Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA16861_00-BASELBUSIEA00000",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA16862_00",
@@ -78770,10 +78794,10 @@
   {
     "titleId": "PPSA19265_00",
     "conceptId": 10007142,
-    "name": "Neptunia Game Maker R:Evolution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neptunia Game Maker R:Evolution Digital Art Book",
+    "contentId": "EP4060-PPSA19265_00-DXCONTENTART0001",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA19266_00",
@@ -79888,6 +79912,14 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA19544_00",
+    "conceptId": 10009574,
+    "name": "Fabledom",
+    "contentId": null,
+    "region": "EB",
+    "publisherId": "EB0235"
+  },
+  {
     "titleId": "PPSA19547_00",
     "conceptId": 10009575,
     "name": "Nature Escapes 2: Collector's Edition",
@@ -80326,6 +80358,14 @@
     "contentId": "EP8645-PPSA19653_00-0000000000000001",
     "region": "EP",
     "publisherId": "EP8645"
+  },
+  {
+    "titleId": "PPSA19657_00",
+    "conceptId": 10009574,
+    "name": "Fabledom",
+    "contentId": null,
+    "region": "UB",
+    "publisherId": "UB0045"
   },
   {
     "titleId": "PPSA19663_00",
@@ -81014,6 +81054,14 @@
     "contentId": "UP1421-PPSA19860_00-0391325419951603",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA19861_00",
+    "conceptId": 10009694,
+    "name": "SKELER BOY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19862_00",
@@ -81778,10 +81826,10 @@
   {
     "titleId": "PPSA20091_00",
     "conceptId": 232265,
-    "name": "Braid, Anniversary Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Braid: \u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
+    "contentId": "UP2124-PPSA20091_00-0911754659551346",
+    "region": "UP",
+    "publisherId": "UP2124"
   },
   {
     "titleId": "PPSA20095_00",
@@ -83766,6 +83814,14 @@
     "contentId": "HB0123-PPSA20688_00-0740869587004375",
     "region": "HB",
     "publisherId": "HB0123"
+  },
+  {
+    "titleId": "PPSA20705_00",
+    "conceptId": 10010062,
+    "name": "TP Bullet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20706_00",
@@ -86856,6 +86912,14 @@
     "publisherId": "JP3914"
   },
   {
+    "titleId": "PPSA22368_00",
+    "conceptId": 10009574,
+    "name": "Fabledom",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP8794"
+  },
+  {
     "titleId": "PPSA22381_00",
     "conceptId": 10010723,
     "name": "Minefields",
@@ -87264,6 +87328,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22604_00",
+    "conceptId": 234014,
+    "name": "HUNT: SHOWDOWN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22637_00",
     "conceptId": 10010032,
     "name": "BIT.TRIP RERUNNER",
@@ -87523,17 +87595,17 @@
     "titleId": "PPSA22780_00",
     "conceptId": 10010890,
     "name": "Cazzarion: Robot Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA22780_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA22781_00",
     "conceptId": 10010890,
     "name": "Cazzarion: Robot Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22781_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22809_00",
@@ -87550,6 +87622,14 @@
     "contentId": "EB0198-PPSA22810_00-0297918792710174",
     "region": "EB",
     "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA22854_00",
+    "conceptId": 10010916,
+    "name": "Cazzarion: Sky Flight",
+    "contentId": "UB0438-PPSA22854_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA22855_00",
