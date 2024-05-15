@@ -12459,9 +12459,9 @@
     "titleId": "PPSA03993_00",
     "conceptId": 10001900,
     "name": "Imagine Earth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6214-PPSA03993_00-2127978160290812",
+    "region": "UP",
+    "publisherId": "UP6214"
   },
   {
     "titleId": "PPSA03999_00",
@@ -30075,9 +30075,9 @@
     "titleId": "PPSA07407_00",
     "conceptId": 10004950,
     "name": "The Prisoner of the Night",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA07407_00-TPRISONEROFNIGHT",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA07408_00",
@@ -44641,6 +44641,14 @@
   },
   {
     "titleId": "PPSA09993_00",
+    "conceptId": 10006073,
+    "name": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09994_00",
     "conceptId": 10006073,
     "name": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
     "contentId": null,
@@ -71944,6 +71952,14 @@
     "publisherId": "UP6417"
   },
   {
+    "titleId": "PPSA17387_00",
+    "conceptId": 10007142,
+    "name": "Neptunia Game Maker R:Evolution Digital Soundtrack",
+    "contentId": "UP0031-PPSA17387_00-DXCONTENTSND0001",
+    "region": "UP",
+    "publisherId": "UP0031"
+  },
+  {
     "titleId": "PPSA17388_00",
     "conceptId": 10008412,
     "name": "\u30a2\u30a4\u30ec\u30e0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Volume 1",
@@ -77504,6 +77520,22 @@
     "publisherId": "JP5849"
   },
   {
+    "titleId": "PPSA18909_00",
+    "conceptId": 10009338,
+    "name": "Terminal 81",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18910_00",
+    "conceptId": 10009338,
+    "name": "Terminal 81",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18920_00",
     "conceptId": 10009341,
     "name": "Air Fight - Sky Fighters",
@@ -78400,6 +78432,14 @@
     "publisherId": "EP3036"
   },
   {
+    "titleId": "PPSA19157_00",
+    "conceptId": 10008826,
+    "name": "Enotria: The Last Song Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7782"
+  },
+  {
     "titleId": "PPSA19166_00",
     "conceptId": 10009429,
     "name": "Classic Pool",
@@ -78779,17 +78819,17 @@
     "titleId": "PPSA19263_00",
     "conceptId": 10007142,
     "name": "Neptunia Game Maker R:Evolution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4060-PPSA19263_00-CHNEPMAKERSBR001",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA19264_00",
     "conceptId": 10007142,
-    "name": "Neptunia Game Maker R:Evolution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neptunia Game Maker R:Evolution Digital Soundtrack",
+    "contentId": "EP4060-PPSA19264_00-DXCONTENTSND0001",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA19265_00",
@@ -83352,6 +83392,14 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA20517_00",
+    "conceptId": 10008826,
+    "name": "Enotria: The Last Song Standard Edition",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP7809"
+  },
+  {
     "titleId": "PPSA20521_00",
     "conceptId": 10009951,
     "name": "The Kindeman Remedy",
@@ -83768,6 +83816,14 @@
     "publisherId": "UP4947"
   },
   {
+    "titleId": "PPSA20670_00",
+    "conceptId": 10010046,
+    "name": "4 in a row",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20671_00",
     "conceptId": 10006335,
     "name": "Mighty Math",
@@ -84139,9 +84195,9 @@
     "titleId": "PPSA20820_00",
     "conceptId": 10010101,
     "name": "Awesome Pea 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA20820_00-SYPS5AWESOMEPEA3",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA20821_00",
@@ -84150,6 +84206,22 @@
     "contentId": "EP8598-PPSA20821_00-0152193505250338",
     "region": "EP",
     "publisherId": "EP8598"
+  },
+  {
+    "titleId": "PPSA20822_00",
+    "conceptId": 10010101,
+    "name": "Awesome Pea 3",
+    "contentId": "JP1932-PPSA20822_00-SYPS5AWESOMEPEA3",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA20823_00",
+    "conceptId": 10010101,
+    "name": "Awesome Pea 3",
+    "contentId": "HP1792-PPSA20823_00-SYPS5AWESOMEPEA3",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA20829_00",
@@ -84331,9 +84403,9 @@
     "titleId": "PPSA20931_00",
     "conceptId": 10010138,
     "name": "Electronics Puzzle Lab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA20931_00-ELECTRONICSPUZZL",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA20932_00",
@@ -85758,6 +85830,14 @@
     "contentId": "UP7996-PPSA21524_00-0452682857612824",
     "region": "UP",
     "publisherId": "UP7996"
+  },
+  {
+    "titleId": "PPSA21534_00",
+    "conceptId": 10010387,
+    "name": "Anime vs Evil: Apocalypse",
+    "contentId": "JB0177-PPSA21534_00-0002768533653533",
+    "region": "JB",
+    "publisherId": "JB0177"
   },
   {
     "titleId": "PPSA21542_00",
@@ -87496,6 +87576,14 @@
     "publisherId": "EP7994"
   },
   {
+    "titleId": "PPSA22731_00",
+    "conceptId": 10010697,
+    "name": "Sled Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22741_00",
     "conceptId": 10010842,
     "name": "Gemz",
@@ -87624,6 +87712,22 @@
     "publisherId": "EB0198"
   },
   {
+    "titleId": "PPSA22829_00",
+    "conceptId": 10010908,
+    "name": "Ghost Teen Escape from Limbo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22830_00",
+    "conceptId": 10010908,
+    "name": "Ghost Teen Escape from Limbo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22854_00",
     "conceptId": 10010916,
     "name": "Cazzarion: Sky Flight",
@@ -87643,6 +87747,22 @@
     "titleId": "PPSA22863_00",
     "conceptId": 10001790,
     "name": "Hulu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22886_00",
+    "conceptId": 10010928,
+    "name": "Glyphs of Gitzan",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22887_00",
+    "conceptId": 10010928,
+    "name": "Glyphs of Gitzan",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -87774,6 +87894,22 @@
     "contentId": "UP5682-PPSA23179_00-0589248815033474",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA23189_00",
+    "conceptId": 10011071,
+    "name": "Little Legs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23204_00",
+    "conceptId": 10010869,
+    "name": "Trust No One",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23211_00",
