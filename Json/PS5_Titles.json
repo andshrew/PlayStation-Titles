@@ -33432,6 +33432,22 @@
     "publisherId": "HP0936"
   },
   {
+    "titleId": "PPSA08063_00",
+    "conceptId": 10005248,
+    "name": "GUNDAM BREAKER 4 PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA08064_00",
+    "conceptId": 10005248,
+    "name": "GUNDAM BREAKER 4 PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA08065_00",
     "conceptId": 10005248,
     "name": "GUNDAM BREAKER 4 PS4\u00ae & PS5\u00ae",
@@ -50394,8 +50410,8 @@
   {
     "titleId": "PPSA10943_00",
     "conceptId": 10004056,
-    "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs PS4 & PS5",
-    "contentId": null,
+    "name": "PAC-MAN\u2122 Mega Tunnel Battle\u2122 Chomp Champs",
+    "contentId": "UP6213-PPSA10943_00-000000PMMTBCCPS5",
     "region": "UP",
     "publisherId": "UP6213"
   },
@@ -69576,6 +69592,14 @@
     "publisherId": "UP4773"
   },
   {
+    "titleId": "PPSA16775_00",
+    "conceptId": 10003836,
+    "name": "Rocket Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16783_00",
     "conceptId": 10005987,
     "name": "Legend Bowl Demo",
@@ -69782,6 +69806,14 @@
     "contentId": "EP5649-PPSA16832_00-0209092530187543",
     "region": "EP",
     "publisherId": "EP5649"
+  },
+  {
+    "titleId": "PPSA16835_00",
+    "conceptId": 10008444,
+    "name": "Alaskan Road Truckers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16836_00",
@@ -75576,6 +75608,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18374_00",
+    "conceptId": 10009141,
+    "name": "Athenian Rhapsody Demo",
+    "contentId": "UP5155-PPSA18374_00-ARDEMO0000000000",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
     "titleId": "PPSA18381_00",
     "conceptId": 10006228,
     "name": "OPERATION SERPENS",
@@ -78024,6 +78064,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA19028_00",
+    "conceptId": 10009379,
+    "name": "C.A.R.D.S. RPG: The Misty Battlefield PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19029_00",
     "conceptId": 10009379,
     "name": "C.A.R.D.S. RPG: The Misty Battlefield PS4 & PS5",
@@ -79347,9 +79395,9 @@
     "titleId": "PPSA19381_00",
     "conceptId": 10009507,
     "name": "Pool Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4135-PPSA19381_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP4135"
   },
   {
     "titleId": "PPSA19382_00",
@@ -82928,6 +82976,30 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA20396_00",
+    "conceptId": 10009909,
+    "name": "Assassin\u2019s Creed Shadows",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0001"
+  },
+  {
+    "titleId": "PPSA20397_00",
+    "conceptId": 10009909,
+    "name": "Assassin\u2019s Creed Shadows",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0001"
+  },
+  {
+    "titleId": "PPSA20398_00",
+    "conceptId": 10009909,
+    "name": "Assassin\u2019s Creed Shadows",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0001"
+  },
+  {
     "titleId": "PPSA20399_00",
     "conceptId": 10009913,
     "name": "Bigfoot's Journey",
@@ -83392,6 +83464,22 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA20515_00",
+    "conceptId": 10008826,
+    "name": "Enotria: The Last Song Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7780"
+  },
+  {
+    "titleId": "PPSA20516_00",
+    "conceptId": 10008826,
+    "name": "Enotria: The Last Song Standard Edition",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP7763"
+  },
+  {
     "titleId": "PPSA20517_00",
     "conceptId": 10008826,
     "name": "Enotria: The Last Song Standard Edition",
@@ -83816,6 +83904,14 @@
     "publisherId": "UP4947"
   },
   {
+    "titleId": "PPSA20669_00",
+    "conceptId": 10010046,
+    "name": "4 in a row",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20670_00",
     "conceptId": 10010046,
     "name": "4 in a row",
@@ -84187,9 +84283,9 @@
     "titleId": "PPSA20819_00",
     "conceptId": 10010101,
     "name": "Awesome Pea 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA20819_00-SYPS5AWESOMEPEA3",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA20820_00",
@@ -84411,9 +84507,9 @@
     "titleId": "PPSA20932_00",
     "conceptId": 10010138,
     "name": "Electronics Puzzle Lab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA20932_00-ELECTRONICSPUZZL",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA20933_00",
@@ -84936,12 +85032,20 @@
     "publisherId": null
   },
   {
-    "titleId": "PPSA21134_00",
-    "conceptId": 10010234,
-    "name": "X-Force Under Attack",
+    "titleId": "PPSA21124_00",
+    "conceptId": 10009801,
+    "name": "CleanSheet Football",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA21134_00",
+    "conceptId": 10010234,
+    "name": "X-Force Under Attack",
+    "contentId": "UP8255-PPSA21134_00-00000000000000NA",
+    "region": "UP",
+    "publisherId": "UP8255"
   },
   {
     "titleId": "PPSA21138_00",
@@ -84950,6 +85054,14 @@
     "contentId": "UB0322-PPSA21138_00-0906547376126401",
     "region": "UB",
     "publisherId": "UB0322"
+  },
+  {
+    "titleId": "PPSA21144_00",
+    "conceptId": 10008801,
+    "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21149_00",
@@ -85214,6 +85326,22 @@
     "contentId": "UB0536-PPSA21250_00-0095687172568461",
     "region": "UB",
     "publisherId": "UB0536"
+  },
+  {
+    "titleId": "PPSA21268_00",
+    "conceptId": 10008801,
+    "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
+  },
+  {
+    "titleId": "PPSA21269_00",
+    "conceptId": 10008801,
+    "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA21270_00",
@@ -85824,6 +85952,14 @@
     "publisherId": "UP8121"
   },
   {
+    "titleId": "PPSA21523_00",
+    "conceptId": 10010387,
+    "name": "Anime vs Evil: Apocalypse",
+    "contentId": "EB0428-PPSA21523_00-0854743501597477",
+    "region": "EB",
+    "publisherId": "EB0428"
+  },
+  {
     "titleId": "PPSA21524_00",
     "conceptId": 10010389,
     "name": "Rubber Hose Rampage",
@@ -85832,12 +85968,28 @@
     "publisherId": "UP7996"
   },
   {
+    "titleId": "PPSA21533_00",
+    "conceptId": 10010387,
+    "name": "Anime vs Evil: Apocalypse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21534_00",
     "conceptId": 10010387,
     "name": "Anime vs Evil: Apocalypse",
     "contentId": "JB0177-PPSA21534_00-0002768533653533",
     "region": "JB",
     "publisherId": "JB0177"
+  },
+  {
+    "titleId": "PPSA21535_00",
+    "conceptId": 10010387,
+    "name": "Anime vs Evil: Apocalypse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21542_00",
@@ -86286,6 +86438,22 @@
     "contentId": "HP1546-PPSA21787_00-0814396363948182",
     "region": "HP",
     "publisherId": "HP1546"
+  },
+  {
+    "titleId": "PPSA21789_00",
+    "conceptId": 10010493,
+    "name": "F1\u00ae Manager 2024",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2377"
+  },
+  {
+    "titleId": "PPSA21790_00",
+    "conceptId": 10010493,
+    "name": "F1\u00ae Manager 2024",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2514"
   },
   {
     "titleId": "PPSA21797_00",
@@ -86776,6 +86944,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22101_00",
+    "conceptId": 10009909,
+    "name": "\u30a2\u30b5\u30b7\u30f3 \u30af\u30ea\u30fc\u30c9 \u30b7\u30e3\u30c9\u30a6\u30ba",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0001"
+  },
+  {
     "titleId": "PPSA22106_00",
     "conceptId": 225060,
     "name": "\u30b9\u30fc\u30d1\u30fc\u30d7\u30eb\u30d7\u30eb\u30d1\u30fc\u30c6\u30a3\uff5e\u30bd\u30d5\u30a1\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3\uff5e",
@@ -86982,6 +87158,14 @@
     "contentId": "UP7664-PPSA22267_00-0571649923727508",
     "region": "UP",
     "publisherId": "UP7664"
+  },
+  {
+    "titleId": "PPSA22308_00",
+    "conceptId": 10010690,
+    "name": "PO'ed: Definitive Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22361_00",
@@ -87312,6 +87496,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22552_00",
+    "conceptId": 10010789,
+    "name": "\u53cb\u60c5\u306e\u914d\u9054",
+    "contentId": "UB0675-PPSA22552_00-0179366039982533",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
     "titleId": "PPSA22555_00",
     "conceptId": 10010790,
     "name": "Cazzarion: Pop The Bubble",
@@ -87342,6 +87534,14 @@
     "contentId": "UP2136-PPSA22562_00-0107064165015991",
     "region": "UP",
     "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA22587_00",
+    "conceptId": 10010766,
+    "name": "Bit Dungeon Plus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22590_00",
@@ -87883,9 +88083,9 @@
     "titleId": "PPSA23167_00",
     "conceptId": 10010824,
     "name": "Supermarket Shopping Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0301-PPSA23167_00-0232029968374630",
+    "region": "EB",
+    "publisherId": "EB0301"
   },
   {
     "titleId": "PPSA23179_00",
@@ -87894,6 +88094,14 @@
     "contentId": "UP5682-PPSA23179_00-0589248815033474",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA23188_00",
+    "conceptId": 10011070,
+    "name": "Heaven Impact",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23189_00",
@@ -87907,14 +88115,30 @@
     "titleId": "PPSA23204_00",
     "conceptId": 10010869,
     "name": "Trust No One",
+    "contentId": "EP7349-PPSA23204_00-0897609990698008",
+    "region": "EP",
+    "publisherId": "EP7349"
+  },
+  {
+    "titleId": "PPSA23211_00",
+    "conceptId": 10010869,
+    "name": "Trust No One Demo",
+    "contentId": "EP7349-PPSA23211_00-0293379550492930",
+    "region": "EP",
+    "publisherId": "EP7349"
+  },
+  {
+    "titleId": "PPSA23263_00",
+    "conceptId": 10011098,
+    "name": "Risky Roads",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA23211_00",
-    "conceptId": 10010869,
-    "name": "Trust No One",
+    "titleId": "PPSA23267_00",
+    "conceptId": 10011102,
+    "name": "Bubble Riders",
     "contentId": null,
     "region": null,
     "publisherId": null
