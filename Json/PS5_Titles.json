@@ -36376,6 +36376,22 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA08586_00",
+    "conceptId": 217012,
+    "name": "DRAGON BALL XENOVERSE 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA08587_00",
+    "conceptId": 217012,
+    "name": "DRAGON BALL XENOVERSE 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08588_00",
     "conceptId": 10001340,
     "name": "The Sinking City Digital Artbook",
@@ -37478,6 +37494,14 @@
     "contentId": "HP2418-PPSA08768_00-COCOONSIEJASIA00",
     "region": "HP",
     "publisherId": "HP2418"
+  },
+  {
+    "titleId": "PPSA08769_00",
+    "conceptId": 10003265,
+    "name": "Spin Rhythm XD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08772_00",
@@ -44659,9 +44683,9 @@
     "titleId": "PPSA09993_00",
     "conceptId": 10006073,
     "name": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4256-PPSA09993_00-4884469890022134",
+    "region": "UP",
+    "publisherId": "UP4256"
   },
   {
     "titleId": "PPSA09994_00",
@@ -46307,9 +46331,9 @@
     "titleId": "PPSA10269_00",
     "conceptId": 10006172,
     "name": "Read Only Memories: NEURODIVER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5258-PPSA10269_00-7337176137873300",
+    "region": "UP",
+    "publisherId": "UP5258"
   },
   {
     "titleId": "PPSA10270_00",
@@ -74864,6 +74888,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA18133_00",
+    "conceptId": 10009057,
+    "name": "\u8d85\u63a2\u5075\u4e8b\u4ef6\u7c3f \u30ec\u30a4\u30f3\u30b3\u30fc\u30c9 \u30d7\u30e9\u30b9",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0365"
+  },
+  {
     "titleId": "PPSA18143_00",
     "conceptId": 10003295,
     "name": "POSTAL: Brain Damaged",
@@ -75520,6 +75552,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA18338_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18351_00",
     "conceptId": 10003232,
     "name": "\u30df\u30af\u3068\u6c34\u6ca1\u90fd\u5e02\u3000\u5ec3\u589f\u306e\u8b0e",
@@ -75614,6 +75654,14 @@
     "contentId": "UP5155-PPSA18374_00-ARDEMO0000000000",
     "region": "UP",
     "publisherId": "UP5155"
+  },
+  {
+    "titleId": "PPSA18375_00",
+    "conceptId": 10009141,
+    "name": "Athenian Rhapsody Demo",
+    "contentId": "EP5335-PPSA18375_00-ARDEMO0000000000",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA18381_00",
@@ -75726,6 +75774,14 @@
     "contentId": "HP0957-PPSA18397_00-0326951068012275",
     "region": "HP",
     "publisherId": "HP0957"
+  },
+  {
+    "titleId": "PPSA18403_00",
+    "conceptId": 10008770,
+    "name": "The Exorcist: Legion VR (Deluxe Edition)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18410_00",
@@ -76254,6 +76310,14 @@
     "contentId": "UP6881-PPSA18558_00-0090649501788198",
     "region": "UP",
     "publisherId": "UP6881"
+  },
+  {
+    "titleId": "PPSA18567_00",
+    "conceptId": 10008801,
+    "name": "\u9b3c\u6ec5\u306e\u5203 \u76ee\u6307\u305b\uff01\u6700\u5f37\u968a\u58eb\uff01",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP3372"
   },
   {
     "titleId": "PPSA18569_00",
@@ -78216,6 +78280,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA19080_00",
+    "conceptId": 10008907,
+    "name": "Sugar Mess - Let's Play Jolly Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19099_00",
     "conceptId": 10001198,
     "name": "Peaky Blinders: The King's Ransom",
@@ -79387,9 +79459,9 @@
     "titleId": "PPSA19380_00",
     "conceptId": 10009507,
     "name": "Pool Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3945-PPSA19380_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3945"
   },
   {
     "titleId": "PPSA19381_00",
@@ -79403,9 +79475,9 @@
     "titleId": "PPSA19382_00",
     "conceptId": 10009507,
     "name": "Pool Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP4053-PPSA19382_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP4053"
   },
   {
     "titleId": "PPSA19383_00",
@@ -81883,17 +81955,33 @@
     "titleId": "PPSA20083_00",
     "conceptId": 10009773,
     "name": "Please Fix The Road",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA20083_00-PLEASEFIXTHEROAD",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA20084_00",
     "conceptId": 10009773,
     "name": "Please Fix The Road",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA20084_00-PLEASEFIXTHEROAD",
+    "region": "EP",
+    "publisherId": "EP6985"
+  },
+  {
+    "titleId": "PPSA20085_00",
+    "conceptId": 10009773,
+    "name": "Please Fix The Road",
+    "contentId": "JP6954-PPSA20085_00-PLEASEFIXTHEROAD",
+    "region": "JP",
+    "publisherId": "JP6954"
+  },
+  {
+    "titleId": "PPSA20086_00",
+    "conceptId": 10009773,
+    "name": "Please Fix The Road",
+    "contentId": "HP0874-PPSA20086_00-PLEASEFIXTHEROAD",
+    "region": "HP",
+    "publisherId": "HP0874"
   },
   {
     "titleId": "PPSA20089_00",
@@ -81918,6 +82006,14 @@
     "contentId": "UP2124-PPSA20091_00-0911754659551346",
     "region": "UP",
     "publisherId": "UP2124"
+  },
+  {
+    "titleId": "PPSA20094_00",
+    "conceptId": 10009781,
+    "name": "The House of Da Vinci 2",
+    "contentId": "UP6169-PPSA20094_00-0298455041398675",
+    "region": "UP",
+    "publisherId": "UP6169"
   },
   {
     "titleId": "PPSA20095_00",
@@ -83795,9 +83891,25 @@
     "titleId": "PPSA20605_00",
     "conceptId": 10000585,
     "name": "Sweetest Monster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA20605_00-SYPS5SWEETESTMON",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA20606_00",
+    "conceptId": 10000585,
+    "name": "Sweetest Monster",
+    "contentId": "JP1932-PPSA20606_00-SYPS5SWEETESTMON",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA20607_00",
+    "conceptId": 10000585,
+    "name": "Sweetest Monster",
+    "contentId": "HP1792-PPSA20607_00-SYPS5SWEETESTMON",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA20609_00",
@@ -84456,6 +84568,14 @@
     "publisherId": "EP3919"
   },
   {
+    "titleId": "PPSA20895_00",
+    "conceptId": 10010127,
+    "name": "Spellcats: Auto Card Tactics",
+    "contentId": "EB0753-PPSA20895_00-0092216848486672",
+    "region": "EB",
+    "publisherId": "EB0753"
+  },
+  {
     "titleId": "PPSA20898_00",
     "conceptId": 10009616,
     "name": "Geometry Survivor",
@@ -85034,10 +85154,10 @@
   {
     "titleId": "PPSA21124_00",
     "conceptId": 10009801,
-    "name": "CleanSheet Football",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CleanSheet",
+    "contentId": "EB0723-PPSA21124_00-0672532591000000",
+    "region": "EB",
+    "publisherId": "EB0723"
   },
   {
     "titleId": "PPSA21134_00",
@@ -85054,6 +85174,14 @@
     "contentId": "UB0322-PPSA21138_00-0906547376126401",
     "region": "UB",
     "publisherId": "UB0322"
+  },
+  {
+    "titleId": "PPSA21143_00",
+    "conceptId": 10008801,
+    "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board! PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA21144_00",
@@ -85555,17 +85683,17 @@
     "titleId": "PPSA21353_00",
     "conceptId": 10010312,
     "name": "STRIDE: Fates",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7794-PPSA21353_00-STRIDEFATES000EU",
+    "region": "EP",
+    "publisherId": "EP7794"
   },
   {
     "titleId": "PPSA21354_00",
     "conceptId": 10010312,
     "name": "STRIDE: Fates",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7796-PPSA21354_00-STRIDEFATES000US",
+    "region": "UP",
+    "publisherId": "UP7796"
   },
   {
     "titleId": "PPSA21357_00",
@@ -85848,6 +85976,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA21434_00",
+    "conceptId": 10010348,
+    "name": "Finding America: The Pacific Northwest Collector's Edition",
+    "contentId": "EP1411-PPSA21434_00-0076014748905255",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21435_00",
+    "conceptId": 10010348,
+    "name": "Finding America: The Pacific Northwest Collector's Edition",
+    "contentId": "UP1421-PPSA21435_00-0698380109050997",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA21436_00",
     "conceptId": 10010349,
     "name": "Just Find It: Collector's Edition",
@@ -85894,6 +86038,22 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP1475"
+  },
+  {
+    "titleId": "PPSA21485_00",
+    "conceptId": 10009326,
+    "name": "EA SPORTS\u2122 Madden NFL 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21486_00",
+    "conceptId": 10009326,
+    "name": "EA SPORTS\u2122 Madden NFL 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21493_00",
@@ -86288,6 +86448,102 @@
     "publisherId": "HP1546"
   },
   {
+    "titleId": "PPSA21678_00",
+    "conceptId": 10010453,
+    "name": "Lots of Things - Collector's Edition",
+    "contentId": "EP1411-PPSA21678_00-0368661879042894",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21679_00",
+    "conceptId": 10010453,
+    "name": "Lots of Things - Collector's Edition",
+    "contentId": "UP1421-PPSA21679_00-0844955422941877",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21680_00",
+    "conceptId": 10010453,
+    "name": "Lots of Things - Collector's Edition",
+    "contentId": "JP1681-PPSA21680_00-0010019325706140",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA21681_00",
+    "conceptId": 10010453,
+    "name": "Lots of Things - Collector's Edition",
+    "contentId": "HP1546-PPSA21681_00-0954213084211874",
+    "region": "HP",
+    "publisherId": "HP1546"
+  },
+  {
+    "titleId": "PPSA21682_00",
+    "conceptId": 10010454,
+    "name": "Stars, Stripes, and Subgames",
+    "contentId": "EP1411-PPSA21682_00-0922086702846659",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21683_00",
+    "conceptId": 10010454,
+    "name": "Stars, Stripes, and Subgames",
+    "contentId": "UP1421-PPSA21683_00-0450534957619776",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21684_00",
+    "conceptId": 10010454,
+    "name": "Stars, Stripes, and Subgames",
+    "contentId": "JP1681-PPSA21684_00-0001094604077417",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA21685_00",
+    "conceptId": 10010454,
+    "name": "Stars, Stripes, and Subgames",
+    "contentId": "HP1546-PPSA21685_00-0976072206098717",
+    "region": "HP",
+    "publisherId": "HP1546"
+  },
+  {
+    "titleId": "PPSA21686_00",
+    "conceptId": 10010455,
+    "name": "Finding America: The West Collector's Edition",
+    "contentId": "EP1411-PPSA21686_00-0900911538167628",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA21687_00",
+    "conceptId": 10010455,
+    "name": "Finding America: The West Collector's Edition",
+    "contentId": "UP1421-PPSA21687_00-0924719834429180",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21688_00",
+    "conceptId": 10010455,
+    "name": "Finding America: The West Collector's Edition",
+    "contentId": "JP1681-PPSA21688_00-0177365771353034",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA21689_00",
+    "conceptId": 10010455,
+    "name": "Finding America: The West Collector's Edition",
+    "contentId": "HP1546-PPSA21689_00-0412517019187367",
+    "region": "HP",
+    "publisherId": "HP1546"
+  },
+  {
     "titleId": "PPSA21690_00",
     "conceptId": 10010456,
     "name": "Just Find It 2: Collector's Edition",
@@ -86568,6 +86824,14 @@
     "publisherId": "EP6507"
   },
   {
+    "titleId": "PPSA21914_00",
+    "conceptId": 10009297,
+    "name": "Undisputed",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4062"
+  },
+  {
     "titleId": "PPSA21916_00",
     "conceptId": 10010550,
     "name": "Brick Buster",
@@ -86614,6 +86878,14 @@
     "contentId": "EP7602-PPSA21932_00-0256950615007990",
     "region": "EP",
     "publisherId": "EP7602"
+  },
+  {
+    "titleId": "PPSA21933_00",
+    "conceptId": 10010562,
+    "name": "FoxyRush",
+    "contentId": "EP0896-PPSA21933_00-FOXYRUSHRATALAIK",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA21946_00",
@@ -86944,6 +87216,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22100_00",
+    "conceptId": 10009909,
+    "name": "Assassin\u2019s Creed Shadows",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22101_00",
     "conceptId": 10009909,
     "name": "\u30a2\u30b5\u30b7\u30f3 \u30af\u30ea\u30fc\u30c9 \u30b7\u30e3\u30c9\u30a6\u30ba",
@@ -86982,6 +87262,22 @@
     "contentId": "UB0225-PPSA22138_00-0074169591385824",
     "region": "UB",
     "publisherId": "UB0225"
+  },
+  {
+    "titleId": "PPSA22141_00",
+    "conceptId": 10010622,
+    "name": "Fantasy Beauties",
+    "contentId": "EP2402-PPSA22141_00-FANTASYGAMEEUPS5",
+    "region": "EP",
+    "publisherId": "EP2402"
+  },
+  {
+    "titleId": "PPSA22142_00",
+    "conceptId": 10010622,
+    "name": "Fantasy Beauties",
+    "contentId": "UP2538-PPSA22142_00-FANTASYGAMEUSPS5",
+    "region": "UP",
+    "publisherId": "UP2538"
   },
   {
     "titleId": "PPSA22150_00",
@@ -87160,12 +87456,20 @@
     "publisherId": "UP7664"
   },
   {
+    "titleId": "PPSA22307_00",
+    "conceptId": 10010690,
+    "name": "PO'ed: Definitive Edition",
+    "contentId": "UP0913-PPSA22307_00-0180316664507147",
+    "region": "UP",
+    "publisherId": "UP0913"
+  },
+  {
     "titleId": "PPSA22308_00",
     "conceptId": 10010690,
     "name": "PO'ed: Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0917-PPSA22308_00-0337764291796146",
+    "region": "EP",
+    "publisherId": "EP0917"
   },
   {
     "titleId": "PPSA22361_00",
@@ -87304,6 +87608,14 @@
     "publisherId": "EP5823"
   },
   {
+    "titleId": "PPSA22474_00",
+    "conceptId": 10009781,
+    "name": "The House of Da Vinci 2",
+    "contentId": "EP6168-PPSA22474_00-0214510173344578",
+    "region": "EP",
+    "publisherId": "EP6168"
+  },
+  {
     "titleId": "PPSA22477_00",
     "conceptId": 10010754,
     "name": "Outbreak The Fedora Files: What Lydia Knows",
@@ -87403,9 +87715,9 @@
     "titleId": "PPSA22522_00",
     "conceptId": 10010776,
     "name": "Claws & Feathers 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA22522_00-0741855056152269",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA22523_00",
@@ -87419,17 +87731,17 @@
     "titleId": "PPSA22524_00",
     "conceptId": 10010776,
     "name": "Claws & Feathers 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA22524_00-0042485606562866",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA22525_00",
     "conceptId": 10010776,
     "name": "Claws & Feathers 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7843-PPSA22525_00-0565772678535810",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA22526_00",
@@ -87536,12 +87848,20 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA22586_00",
+    "conceptId": 10010766,
+    "name": "Bit Dungeon Plus",
+    "contentId": "JP1134-PPSA22586_00-0783731024664651",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
     "titleId": "PPSA22587_00",
     "conceptId": 10010766,
     "name": "Bit Dungeon Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0980-PPSA22587_00-0897983026202035",
+    "region": "HP",
+    "publisherId": "HP0980"
   },
   {
     "titleId": "PPSA22590_00",
@@ -87776,6 +88096,14 @@
     "publisherId": "EP7994"
   },
   {
+    "titleId": "PPSA22730_00",
+    "conceptId": 10010816,
+    "name": "Blast Frenzy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22731_00",
     "conceptId": 10010697,
     "name": "Sled Riders",
@@ -87844,6 +88172,14 @@
     "conceptId": 10010882,
     "name": "Detail Detective",
     "contentId": "EB0198-PPSA22758_00-0889150155719436",
+    "region": "EB",
+    "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA22760_00",
+    "conceptId": 10010883,
+    "name": "Galaxy Battle",
+    "contentId": "EB0198-PPSA22760_00-0557433025000882",
     "region": "EB",
     "publisherId": "EB0198"
   },
@@ -87968,6 +88304,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22910_00",
+    "conceptId": 10010569,
+    "name": "Cazzarion: Astro Bouncer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22925_00",
     "conceptId": 10010501,
     "name": "EzQuiz",
@@ -88024,6 +88368,22 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA22978_00",
+    "conceptId": 10010957,
+    "name": "Cazzarion: Zombie Drive",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22979_00",
+    "conceptId": 10010957,
+    "name": "Cazzarion: Zombie Drive",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22997_00",
     "conceptId": 10010958,
     "name": "BMX Wild Run",
@@ -88067,9 +88427,9 @@
     "titleId": "PPSA23111_00",
     "conceptId": 10011024,
     "name": "Learn to Play Vol. 2 - A Simple Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA23111_00-ASIMPLESHOOTER00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA23112_00",
@@ -88099,17 +88459,17 @@
     "titleId": "PPSA23188_00",
     "conceptId": 10011070,
     "name": "Heaven Impact",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0612-PPSA23188_00-0224179492409650",
+    "region": "UB",
+    "publisherId": "UB0612"
   },
   {
     "titleId": "PPSA23189_00",
     "conceptId": 10011071,
     "name": "Little Legs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0612-PPSA23189_00-0398778424644803",
+    "region": "UB",
+    "publisherId": "UB0612"
   },
   {
     "titleId": "PPSA23204_00",
@@ -88126,6 +88486,14 @@
     "contentId": "EP7349-PPSA23211_00-0293379550492930",
     "region": "EP",
     "publisherId": "EP7349"
+  },
+  {
+    "titleId": "PPSA23239_00",
+    "conceptId": 10011093,
+    "name": "Greed 2: Forbidden Experiments",
+    "contentId": "EP1629-PPSA23239_00-GREED2FEXJDPS5EU",
+    "region": "EP",
+    "publisherId": "EP1629"
   },
   {
     "titleId": "PPSA23263_00",
@@ -88163,8 +88531,8 @@
     "titleId": "PPSA23523_00",
     "conceptId": 10010824,
     "name": "Supermarket Shopping Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0111-PPSA23523_00-0262481473625326",
+    "region": "UB",
+    "publisherId": "UB0111"
   }
 ]
