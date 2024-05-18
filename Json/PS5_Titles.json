@@ -32842,18 +32842,18 @@
   {
     "titleId": "PPSA07931_00",
     "conceptId": 10003045,
-    "name": "The Origin: Blind Maid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "THE ORIGIN: Blind Maid",
+    "contentId": "EP1160-PPSA07931_00-9444912133926516",
+    "region": "EP",
+    "publisherId": "EP1160"
   },
   {
     "titleId": "PPSA07932_00",
     "conceptId": 10003045,
-    "name": "The Origin: Blind Maid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "THE ORIGIN: Blind Maid",
+    "contentId": "UP1340-PPSA07932_00-2310700068918792",
+    "region": "UP",
+    "publisherId": "UP1340"
   },
   {
     "titleId": "PPSA07933_00",
@@ -64360,6 +64360,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA15606_00",
+    "conceptId": 10008023,
+    "name": "Galacticare",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15610_00",
     "conceptId": 10000591,
     "name": "Until You Fall",
@@ -65166,6 +65174,14 @@
     "contentId": "JP4135-PPSA15797_00-PAPERMANADVENTUR",
     "region": "JP",
     "publisherId": "JP4135"
+  },
+  {
+    "titleId": "PPSA15798_00",
+    "conceptId": 10008134,
+    "name": "Paperman: Adventure Delivered",
+    "contentId": "HP4053-PPSA15798_00-PAPERMANADVENTUR",
+    "region": "HP",
+    "publisherId": "HP4053"
   },
   {
     "titleId": "PPSA15799_00",
@@ -68344,20 +68360,28 @@
     "publisherId": "UP5180"
   },
   {
-    "titleId": "PPSA16494_00",
-    "conceptId": 10007329,
-    "name": "My Little Pony: A Zephyr Heights Mystery",
+    "titleId": "PPSA16492_00",
+    "conceptId": 10007340,
+    "name": "Gigantosaurus: Dino Sports",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
+    "titleId": "PPSA16494_00",
+    "conceptId": 10007329,
+    "name": "My Little Pony: A Zephyr Heights Mystery",
+    "contentId": "UP3824-PPSA16494_00-MLP2BASEGAME0001",
+    "region": "UP",
+    "publisherId": "UP3824"
+  },
+  {
     "titleId": "PPSA16495_00",
     "conceptId": 10007329,
     "name": "My Little Pony: A Zephyr Heights Mystery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA16495_00-MLP2BASEGAME0001",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA16506_00",
@@ -69624,6 +69648,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16776_00",
+    "conceptId": 10003836,
+    "name": "Rocket Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16783_00",
     "conceptId": 10005987,
     "name": "Legend Bowl Demo",
@@ -69755,9 +69787,9 @@
     "titleId": "PPSA16817_00",
     "conceptId": 10007142,
     "name": "Neptunia Game Maker R:Evolution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0031-PPSA16817_00-CHNEPMAKERSBR001",
+    "region": "UP",
+    "publisherId": "UP0031"
   },
   {
     "titleId": "PPSA16822_00",
@@ -71992,6 +72024,14 @@
     "publisherId": "UP8738"
   },
   {
+    "titleId": "PPSA17379_00",
+    "conceptId": 10007142,
+    "name": "Neptunia Game Maker R:Evolution Digital Art Book",
+    "contentId": "UP0031-PPSA17379_00-DXCONTENTART0001",
+    "region": "UP",
+    "publisherId": "UP0031"
+  },
+  {
     "titleId": "PPSA17380_00",
     "conceptId": 10001695,
     "name": "The Gravity Trickster",
@@ -73302,6 +73342,14 @@
     "contentId": "EP2005-PPSA17749_00-SWAPSHOT00000000",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA17750_00",
+    "conceptId": 10008907,
+    "name": "Sugar Mess - Let's Play Jolly Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17751_00",
@@ -75635,17 +75683,17 @@
     "titleId": "PPSA18372_00",
     "conceptId": 10009141,
     "name": "Athenian Rhapsody",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5155-PPSA18372_00-ATHENIANRHAPSODY",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA18373_00",
     "conceptId": 10009141,
     "name": "Athenian Rhapsody",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5335-PPSA18373_00-ATHENIANRHAPSODY",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA18374_00",
@@ -75777,6 +75825,14 @@
   },
   {
     "titleId": "PPSA18403_00",
+    "conceptId": 10008770,
+    "name": "The Exorcist: Legion VR (Deluxe Edition)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18404_00",
     "conceptId": 10008770,
     "name": "The Exorcist: Legion VR (Deluxe Edition)",
     "contentId": null,
@@ -77558,6 +77614,22 @@
     "contentId": "EP0634-PPSA18887_00-FNAFHELPWANTEDP2",
     "region": "EP",
     "publisherId": "EP0634"
+  },
+  {
+    "titleId": "PPSA18888_00",
+    "conceptId": 10009326,
+    "name": "EA SPORTS\u2122 Madden NFL 25 Deluxe Edition PS5 & PS4 + Limited Time Bonus",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
+    "titleId": "PPSA18890_00",
+    "conceptId": 10009326,
+    "name": "EA SPORTS\u2122 Madden NFL 25 Deluxe Edition PS5 & PS4 + Limited Time Bonus",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0006"
   },
   {
     "titleId": "PPSA18893_00",
@@ -79451,9 +79523,9 @@
     "titleId": "PPSA19379_00",
     "conceptId": 10009507,
     "name": "Pool Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4196-PPSA19379_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4196"
   },
   {
     "titleId": "PPSA19380_00",
@@ -83883,9 +83955,9 @@
     "titleId": "PPSA20604_00",
     "conceptId": 10000585,
     "name": "Sweetest Monster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA20604_00-SYPS5SWEETESTMON",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA20605_00",
@@ -86800,6 +86872,38 @@
     "publisherId": "EP8786"
   },
   {
+    "titleId": "PPSA21850_00",
+    "conceptId": 10010524,
+    "name": "The Glass Staircase",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21851_00",
+    "conceptId": 10010524,
+    "name": "The Glass Staircase",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21852_00",
+    "conceptId": 10010524,
+    "name": "The Glass Staircase",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21853_00",
+    "conceptId": 10010524,
+    "name": "The Glass Staircase",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21858_00",
     "conceptId": 225060,
     "name": "Armed and Gelatinous: Couch Edition",
@@ -86824,12 +86928,28 @@
     "publisherId": "EP6507"
   },
   {
+    "titleId": "PPSA21902_00",
+    "conceptId": 10005149,
+    "name": "The Jekoos",
+    "contentId": "UP7605-PPSA21902_00-0813654427160992",
+    "region": "UP",
+    "publisherId": "UP7605"
+  },
+  {
     "titleId": "PPSA21914_00",
     "conceptId": 10009297,
     "name": "Undisputed",
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4062"
+  },
+  {
+    "titleId": "PPSA21915_00",
+    "conceptId": 10009297,
+    "name": "Undisputed",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2047"
   },
   {
     "titleId": "PPSA21916_00",
@@ -86886,6 +87006,14 @@
     "contentId": "EP0896-PPSA21933_00-FOXYRUSHRATALAIK",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA21934_00",
+    "conceptId": 10010562,
+    "name": "FoxyRush",
+    "contentId": "UP0891-PPSA21934_00-FOXYRUSHRATALAIK",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA21946_00",
@@ -87472,6 +87600,30 @@
     "publisherId": "EP0917"
   },
   {
+    "titleId": "PPSA22341_00",
+    "conceptId": 10005149,
+    "name": "The Jekoos",
+    "contentId": "EP7603-PPSA22341_00-0498125289406364",
+    "region": "EP",
+    "publisherId": "EP7603"
+  },
+  {
+    "titleId": "PPSA22342_00",
+    "conceptId": 10005149,
+    "name": "The Jekoos",
+    "contentId": "JP7586-PPSA22342_00-0869027567641317",
+    "region": "JP",
+    "publisherId": "JP7586"
+  },
+  {
+    "titleId": "PPSA22343_00",
+    "conceptId": 10005149,
+    "name": "The Jekoos",
+    "contentId": "HP7632-PPSA22343_00-0578722847197959",
+    "region": "HP",
+    "publisherId": "HP7632"
+  },
+  {
     "titleId": "PPSA22361_00",
     "conceptId": 10008024,
     "name": "Die Again",
@@ -87723,9 +87875,9 @@
     "titleId": "PPSA22523_00",
     "conceptId": 10010776,
     "name": "Claws & Feathers 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA22523_00-0219849008203227",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA22524_00",
@@ -88067,9 +88219,9 @@
     "titleId": "PPSA22681_00",
     "conceptId": 10010816,
     "name": "Blast Frenzy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5823-PPSA22681_00-BLASTFRENZYPS5EU",
+    "region": "EP",
+    "publisherId": "EP5823"
   },
   {
     "titleId": "PPSA22682_00",
@@ -88174,6 +88326,14 @@
     "contentId": "EB0198-PPSA22758_00-0889150155719436",
     "region": "EB",
     "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA22759_00",
+    "conceptId": 10010883,
+    "name": "Galaxy Battle",
+    "contentId": "UB0008-PPSA22759_00-0543045171822681",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA22760_00",
@@ -88307,9 +88467,17 @@
     "titleId": "PPSA22910_00",
     "conceptId": 10010569,
     "name": "Cazzarion: Astro Bouncer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA22910_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA22911_00",
+    "conceptId": 10010569,
+    "name": "Cazzarion: Astro Bouncer",
+    "contentId": "JB0377-PPSA22911_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
   },
   {
     "titleId": "PPSA22925_00",
@@ -88435,9 +88603,9 @@
     "titleId": "PPSA23112_00",
     "conceptId": 10011024,
     "name": "Learn to Play Vol. 2 - A Simple Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA23112_00-ASIMPLESHOOTER00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA23167_00",
@@ -88499,17 +88667,17 @@
     "titleId": "PPSA23263_00",
     "conceptId": 10011098,
     "name": "Risky Roads",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0612-PPSA23263_00-0655978708388706",
+    "region": "UB",
+    "publisherId": "UB0612"
   },
   {
     "titleId": "PPSA23267_00",
     "conceptId": 10011102,
     "name": "Bubble Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0612-PPSA23267_00-0685164003375594",
+    "region": "UB",
+    "publisherId": "UB0612"
   },
   {
     "titleId": "PPSA23352_00",
