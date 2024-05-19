@@ -35144,6 +35144,14 @@
     "publisherId": "EP3678"
   },
   {
+    "titleId": "PPSA08356_00",
+    "conceptId": 10003836,
+    "name": "Rocket Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08358_00",
     "conceptId": 234613,
     "name": "Ben 10: Power Trip!",
@@ -46339,9 +46347,9 @@
     "titleId": "PPSA10270_00",
     "conceptId": 10006172,
     "name": "Read Only Memories: NEURODIVER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5438-PPSA10270_00-1074952962708084",
+    "region": "EP",
+    "publisherId": "EP5438"
   },
   {
     "titleId": "PPSA10271_00",
@@ -53219,9 +53227,9 @@
     "titleId": "PPSA11489_00",
     "conceptId": 10006593,
     "name": "Missing parts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA11489_00-5715449642664541",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA11494_00",
@@ -56787,9 +56795,9 @@
     "titleId": "PPSA13525_00",
     "conceptId": 10005186,
     "name": "Morbid: The Lords of Ire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1121-PPSA13525_00-0938916211390124",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA13526_00",
@@ -68361,6 +68369,14 @@
   },
   {
     "titleId": "PPSA16492_00",
+    "conceptId": 10007340,
+    "name": "Gigantosaurus: Dino Sports",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16493_00",
     "conceptId": 10007340,
     "name": "Gigantosaurus: Dino Sports",
     "contentId": null,
@@ -86912,6 +86928,14 @@
     "publisherId": "EP1074"
   },
   {
+    "titleId": "PPSA21877_00",
+    "conceptId": 10006120,
+    "name": "ATOM RPG: TRUDOGRAD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21887_00",
     "conceptId": 10009818,
     "name": "Adventure Bar Story",
@@ -87134,6 +87158,14 @@
     "contentId": "UP6472-PPSA22010_00-TFTURHAZEL000000",
     "region": "UP",
     "publisherId": "UP6472"
+  },
+  {
+    "titleId": "PPSA22011_00",
+    "conceptId": 10010579,
+    "name": "O-VOID: Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22016_00",
@@ -88251,9 +88283,9 @@
     "titleId": "PPSA22730_00",
     "conceptId": 10010816,
     "name": "Blast Frenzy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5641-PPSA22730_00-BLASTFRENZYPS5US",
+    "region": "UP",
+    "publisherId": "UP5641"
   },
   {
     "titleId": "PPSA22731_00",
@@ -88358,6 +88390,38 @@
     "contentId": "EB0198-PPSA22762_00-0047798178810298",
     "region": "EB",
     "publisherId": "EB0198"
+  },
+  {
+    "titleId": "PPSA22763_00",
+    "conceptId": 10010886,
+    "name": "Devil Girl",
+    "contentId": "UP8281-PPSA22763_00-0081572850641738",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
+    "titleId": "PPSA22764_00",
+    "conceptId": 10010886,
+    "name": "Devil Girl",
+    "contentId": "EP8472-PPSA22764_00-0354752152918426",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA22765_00",
+    "conceptId": 10010886,
+    "name": "\u30c7\u30d3\u30eb\u30ac\u30fc\u30eb",
+    "contentId": "JP8187-PPSA22765_00-0934337974492311",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "PPSA22766_00",
+    "conceptId": 10010886,
+    "name": "Devil Girl",
+    "contentId": "HP8232-PPSA22766_00-0978806462269553",
+    "region": "HP",
+    "publisherId": "HP8232"
   },
   {
     "titleId": "PPSA22776_00",
