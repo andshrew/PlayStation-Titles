@@ -13400,6 +13400,14 @@
     "publisherId": "JP6412"
   },
   {
+    "titleId": "PPSA04185_00",
+    "conceptId": 10003151,
+    "name": "EA SPORTS\u2122 College Football 25 Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0006"
+  },
+  {
     "titleId": "PPSA04188_00",
     "conceptId": 10003138,
     "name": "Divine Knockout",
@@ -36398,6 +36406,14 @@
     "contentId": "EP6718-PPSA08581_00-5974545742814168",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA08583_00",
+    "conceptId": 217012,
+    "name": "DRAGON BALL XENOVERSE 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08586_00",
@@ -61504,6 +61520,14 @@
     "publisherId": "UP6514"
   },
   {
+    "titleId": "PPSA14437_00",
+    "conceptId": 10007645,
+    "name": "Street Games '97 (\u30b9\u30c8\u30ea\u30fc\u30c8\u30fb\u30b2\u30fc\u30e0\u30b9\u201997)",
+    "contentId": "JP9000-PPSA14437_00-SIPS600190000000",
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA14448_00",
     "conceptId": 10007648,
     "name": "Rally Cross",
@@ -65246,6 +65270,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15806_00",
+    "conceptId": 10008137,
+    "name": "G-Police",
+    "contentId": "UP9000-PPSA15806_00-SLUS005440000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA15811_00",
@@ -79539,17 +79571,17 @@
     "titleId": "PPSA19376_00",
     "conceptId": 10009251,
     "name": "Paper Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7694-PPSA19376_00-0755160014440233",
+    "region": "EP",
+    "publisherId": "EP7694"
   },
   {
     "titleId": "PPSA19377_00",
     "conceptId": 10009251,
-    "name": "Paper Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30da\u30fc\u30d1\u30fc\u30c8\u30ec\u30a4\u30eb",
+    "contentId": "JP7677-PPSA19377_00-0135864439509605",
+    "region": "JP",
+    "publisherId": "JP7677"
   },
   {
     "titleId": "PPSA19378_00",
@@ -84136,6 +84168,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20656_00",
+    "conceptId": 10002047,
+    "name": "d anime store",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20667_00",
     "conceptId": 10006335,
     "name": "Mighty Math",
@@ -84766,6 +84806,14 @@
     "contentId": "HP0202-PPSA20933_00-0527657545668622",
     "region": "HP",
     "publisherId": "HP0202"
+  },
+  {
+    "titleId": "PPSA20938_00",
+    "conceptId": 10010144,
+    "name": "The Mermaid of Zennor",
+    "contentId": "EP7099-PPSA20938_00-PPGMERMAIDZENNOR",
+    "region": "EP",
+    "publisherId": "EP7099"
   },
   {
     "titleId": "PPSA20940_00",
@@ -86600,6 +86648,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21671_00",
+    "conceptId": 10008826,
+    "name": "Enotria: The Last Song",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21672_00",
+    "conceptId": 10008826,
+    "name": "Enotria",
+    "contentId": "JP7763-PPSA21672_00-0579692608716265",
+    "region": "JP",
+    "publisherId": "JP7763"
+  },
+  {
     "titleId": "PPSA21674_00",
     "conceptId": 10010452,
     "name": "Jewel Match Solitaire Winterscapes 2 - Collector's Edition",
@@ -87784,6 +87848,78 @@
     "publisherId": "HP8794"
   },
   {
+    "titleId": "PPSA22369_00",
+    "conceptId": 10010716,
+    "name": "Garten of Banban",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22370_00",
+    "conceptId": 10010716,
+    "name": "Garten of Banban",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22371_00",
+    "conceptId": 10010716,
+    "name": "Garten of Banban",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22372_00",
+    "conceptId": 10010716,
+    "name": "Garten of Banban",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22373_00",
+    "conceptId": 10010717,
+    "name": "Garten of Banban 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22374_00",
+    "conceptId": 10010717,
+    "name": "Garten of Banban 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22375_00",
+    "conceptId": 10010717,
+    "name": "Garten of Banban 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22376_00",
+    "conceptId": 10010717,
+    "name": "Garten of Banban 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22377_00",
+    "conceptId": 10010718,
+    "name": "Garten of Banban 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22381_00",
     "conceptId": 10010723,
     "name": "Minefields",
@@ -87854,6 +87990,62 @@
     "contentId": "EP1095-PPSA22396_00-PUZZMIX0APPWW000",
     "region": "EP",
     "publisherId": "EP1095"
+  },
+  {
+    "titleId": "PPSA22397_00",
+    "conceptId": 10010718,
+    "name": "Garten of Banban 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22398_00",
+    "conceptId": 10010718,
+    "name": "Garten of Banban 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22399_00",
+    "conceptId": 10010718,
+    "name": "Garten of Banban 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22401_00",
+    "conceptId": 10010730,
+    "name": "Garten of Banban 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22405_00",
+    "conceptId": 10010730,
+    "name": "Garten of Banban 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22406_00",
+    "conceptId": 10010730,
+    "name": "Garten of Banban 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22407_00",
+    "conceptId": 10010730,
+    "name": "Garten of Banban 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22418_00",
@@ -88320,12 +88512,20 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA22660_00",
+    "conceptId": 10010831,
+    "name": "Final Frog",
+    "contentId": "UP7126-PPSA22660_00-0802724137521172",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
     "titleId": "PPSA22661_00",
     "conceptId": 10010831,
     "name": "Final Frog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA22661_00-0545250134864410",
+    "region": "EP",
+    "publisherId": "EP7123"
   },
   {
     "titleId": "PPSA22662_00",
@@ -88747,17 +88947,17 @@
     "titleId": "PPSA22978_00",
     "conceptId": 10010957,
     "name": "Cazzarion: Zombie Drive",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA22978_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA22979_00",
     "conceptId": 10010957,
     "name": "Cazzarion: Zombie Drive",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA22979_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA22997_00",
@@ -88771,6 +88971,22 @@
     "titleId": "PPSA23005_00",
     "conceptId": 10010494,
     "name": "CLeM",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23012_00",
+    "conceptId": 10010971,
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23013_00",
+    "conceptId": 10010971,
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -88814,6 +89030,14 @@
     "contentId": "JP8693-PPSA23042_00-0530368324072571",
     "region": "JP",
     "publisherId": "JP8693"
+  },
+  {
+    "titleId": "PPSA23057_00",
+    "conceptId": 10010991,
+    "name": "Cazzarion: Rocket Raid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23111_00",
@@ -88920,6 +89144,22 @@
     "publisherId": "UB0612"
   },
   {
+    "titleId": "PPSA23268_00",
+    "conceptId": 10011020,
+    "name": "Sushi Plus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23271_00",
+    "conceptId": 10011020,
+    "name": "Sushi Plus",
+    "contentId": "HP4312-PPSA23271_00-0002005789250379",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA23345_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -88942,6 +89182,38 @@
     "contentId": "HP8737-PPSA23357_00-0810945102552422",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA23434_00",
+    "conceptId": 10011192,
+    "name": "Teletext Chaser",
+    "contentId": "UB0701-PPSA23434_00-0689839863960129",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
+    "titleId": "PPSA23435_00",
+    "conceptId": 10011192,
+    "name": "Teletext Chaser",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23436_00",
+    "conceptId": 10011192,
+    "name": "Teletext Chaser",
+    "contentId": "JB0640-PPSA23436_00-0703478648751756",
+    "region": "JB",
+    "publisherId": "JB0640"
+  },
+  {
+    "titleId": "PPSA23437_00",
+    "conceptId": 10011192,
+    "name": "Teletext Chaser",
+    "contentId": "HB0669-PPSA23437_00-0606587149528004",
+    "region": "HB",
+    "publisherId": "HB0669"
   },
   {
     "titleId": "PPSA23476_00",
