@@ -2912,6 +2912,22 @@
     "publisherId": "HP0002"
   },
   {
+    "titleId": "PPSA02055_00",
+    "conceptId": 234784,
+    "name": "Rocksmith\u2122+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA02056_00",
+    "conceptId": 234784,
+    "name": "Rocksmith\u2122+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02057_00",
     "conceptId": 10000633,
     "name": "BALAN WONDERWORLD",
@@ -44731,9 +44747,9 @@
     "titleId": "PPSA09994_00",
     "conceptId": 10006073,
     "name": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3999-PPSA09994_00-0923779600280638",
+    "region": "EP",
+    "publisherId": "EP3999"
   },
   {
     "titleId": "PPSA09996_00",
@@ -61520,6 +61536,14 @@
     "publisherId": "UP6514"
   },
   {
+    "titleId": "PPSA14435_00",
+    "conceptId": 10007645,
+    "name": "2Xtreme",
+    "contentId": "UP9000-PPSA14435_00-SCUS945080000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA14437_00",
     "conceptId": 10007645,
     "name": "Street Games '97 (\u30b9\u30c8\u30ea\u30fc\u30c8\u30fb\u30b2\u30fc\u30e0\u30b9\u201997)",
@@ -65651,7 +65675,7 @@
     "titleId": "PPSA15887_00",
     "conceptId": 10008165,
     "name": "\u56db\u89d2\u3044\u5730\u7403\u306b\u518d\u3073\u30b7\u30ab\u30af\u73fe\u308b!? \u30c7\u30b8\u30dc\u30af\u5730\u7403\u9632\u885b\u8ecd2 EARTH DEFENSE FORCE: WORLD BROTHERS",
-    "contentId": null,
+    "contentId": "JP0367-PPSA15887_00-EDFWB00000000002",
     "region": "JP",
     "publisherId": "JP0367"
   },
@@ -67438,6 +67462,14 @@
     "contentId": "HP0101-PPSA16258_00-MGSBONUSCONTENTS",
     "region": "HP",
     "publisherId": "HP0101"
+  },
+  {
+    "titleId": "PPSA16263_00",
+    "conceptId": 10007965,
+    "name": "V Rising",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0779"
   },
   {
     "titleId": "PPSA16265_00",
@@ -71771,9 +71803,9 @@
     "titleId": "PPSA17294_00",
     "conceptId": 10008739,
     "name": "Doug's Nightmare",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA17294_00-DOUGSNIGHTMARE00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA17295_00",
@@ -75560,6 +75592,14 @@
     "publisherId": "EP0600"
   },
   {
+    "titleId": "PPSA18319_00",
+    "conceptId": 10008826,
+    "name": "Enotria",
+    "contentId": "UP7782-PPSA18319_00-0327397922821806",
+    "region": "UP",
+    "publisherId": "UP7782"
+  },
+  {
     "titleId": "PPSA18320_00",
     "conceptId": 10009127,
     "name": "Ravva and the Phantom Library",
@@ -78280,6 +78320,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19030_00",
+    "conceptId": 10009379,
+    "name": "C.A.R.D.S. RPG: The Misty Battlefield",
+    "contentId": "UP6687-PPSA19030_00-CARDSRPGMAIN0003",
+    "region": "UP",
+    "publisherId": "UP6687"
+  },
+  {
     "titleId": "PPSA19031_00",
     "conceptId": 10009379,
     "name": "C.A.R.D.S. RPG: The Misty Battlefield PS4 & PS5",
@@ -78914,10 +78962,10 @@
   {
     "titleId": "PPSA19215_00",
     "conceptId": 10008661,
-    "name": "Evil Wizard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EvilWizard",
+    "contentId": "HP8040-PPSA19215_00-0032461501714091",
+    "region": "HP",
+    "publisherId": "HP8040"
   },
   {
     "titleId": "PPSA19223_00",
@@ -79563,9 +79611,9 @@
     "titleId": "PPSA19375_00",
     "conceptId": 10009251,
     "name": "Paper Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7696-PPSA19375_00-0493812509507958",
+    "region": "UP",
+    "publisherId": "UP7696"
   },
   {
     "titleId": "PPSA19376_00",
@@ -79587,9 +79635,9 @@
     "titleId": "PPSA19378_00",
     "conceptId": 10009251,
     "name": "Paper Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7723-PPSA19378_00-0100245930213205",
+    "region": "HP",
+    "publisherId": "HP7723"
   },
   {
     "titleId": "PPSA19379_00",
@@ -79746,8 +79794,8 @@
   {
     "titleId": "PPSA19406_00",
     "conceptId": 10008165,
-    "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2 (PS4 & PS5)",
-    "contentId": null,
+    "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+    "contentId": "HP5846-PPSA19406_00-EDFWORLDBROTHER2",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -80174,6 +80222,14 @@
     "contentId": "HP7632-PPSA19509_00-0332519902015381",
     "region": "HP",
     "publisherId": "HP7632"
+  },
+  {
+    "titleId": "PPSA19526_00",
+    "conceptId": 10007319,
+    "name": "\u30a4\u30fc\u30b9\u30fb\u30e1\u30e2\u30ef\u30fc\u30eb -\u30d5\u30a7\u30eb\u30ac\u30ca\u306e\u8a93\u3044-",
+    "contentId": "JP0425-PPSA19526_00-YSMEMOIRFELGHANA",
+    "region": "JP",
+    "publisherId": "JP0425"
   },
   {
     "titleId": "PPSA19537_00",
@@ -84163,9 +84219,9 @@
     "titleId": "PPSA20648_00",
     "conceptId": 10010032,
     "name": "BIT.TRIP RERUNNER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2148-PPSA20648_00-0124893468255135",
+    "region": "UP",
+    "publisherId": "UP2148"
   },
   {
     "titleId": "PPSA20656_00",
@@ -84806,6 +84862,14 @@
     "contentId": "HP0202-PPSA20933_00-0527657545668622",
     "region": "HP",
     "publisherId": "HP0202"
+  },
+  {
+    "titleId": "PPSA20937_00",
+    "conceptId": 10010144,
+    "name": "The Mermaid of Zennor",
+    "contentId": "UP7103-PPSA20937_00-PPGMERMAIDZENNOR",
+    "region": "UP",
+    "publisherId": "UP7103"
   },
   {
     "titleId": "PPSA20938_00",
@@ -86288,6 +86352,22 @@
     "publisherId": "JP6465"
   },
   {
+    "titleId": "PPSA21498_00",
+    "conceptId": 10010380,
+    "name": "Marble Maze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21499_00",
+    "conceptId": 10010380,
+    "name": "Marble Maze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21515_00",
     "conceptId": 10010381,
     "name": "Wizardry: Proving Grounds of the Mad Overlord",
@@ -86512,6 +86592,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21621_00",
+    "conceptId": 10010433,
+    "name": "Ultra Foodmess 2",
+    "contentId": "JP6954-PPSA21621_00-0413538801669472",
+    "region": "JP",
+    "publisherId": "JP6954"
+  },
+  {
+    "titleId": "PPSA21622_00",
+    "conceptId": 10010433,
+    "name": "Ultra Foodmess 2",
+    "contentId": "HP0874-PPSA21622_00-0992652047858557",
+    "region": "HP",
+    "publisherId": "HP0874"
+  },
+  {
     "titleId": "PPSA21626_00",
     "conceptId": 10010435,
     "name": "In Celebration of Violence",
@@ -86650,10 +86746,10 @@
   {
     "titleId": "PPSA21671_00",
     "conceptId": 10008826,
-    "name": "Enotria: The Last Song",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Enotria",
+    "contentId": "EP7780-PPSA21671_00-0715380487187718",
+    "region": "EP",
+    "publisherId": "EP7780"
   },
   {
     "titleId": "PPSA21672_00",
@@ -86662,6 +86758,14 @@
     "contentId": "JP7763-PPSA21672_00-0579692608716265",
     "region": "JP",
     "publisherId": "JP7763"
+  },
+  {
+    "titleId": "PPSA21673_00",
+    "conceptId": 10008826,
+    "name": "Enotria",
+    "contentId": "HP7809-PPSA21673_00-0349036732868500",
+    "region": "HP",
+    "publisherId": "HP7809"
   },
   {
     "titleId": "PPSA21674_00",
@@ -86990,6 +87094,14 @@
     "contentId": "UP1643-PPSA21814_00-GREED2FEXJDPS5US",
     "region": "UP",
     "publisherId": "UP1643"
+  },
+  {
+    "titleId": "PPSA21826_00",
+    "conceptId": 10007319,
+    "name": "Ys Memoire: The Oath in Felghana",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21830_00",
@@ -88632,6 +88744,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22732_00",
+    "conceptId": 10010872,
+    "name": "Guess the Door",
+    "contentId": "UP7335-PPSA22732_00-0899989771148114",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA22733_00",
     "conceptId": 10010872,
     "name": "Guess the Door",
@@ -89040,6 +89160,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23072_00",
+    "conceptId": 10011000,
+    "name": "Cazzarion: Star Collector",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23111_00",
     "conceptId": 10011024,
     "name": "Learn to Play Vol. 2 - A Simple Shooter",
@@ -89128,6 +89256,22 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23256_00",
+    "conceptId": 10010597,
+    "name": "Cazzarion: Ghost Frenzy",
+    "contentId": "JB0377-PPSA23256_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23257_00",
+    "conceptId": 10010597,
+    "name": "Cazzarion: Ghost Frenzy",
+    "contentId": "HB0405-PPSA23257_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
     "titleId": "PPSA23263_00",
     "conceptId": 10011098,
     "name": "Risky Roads",
@@ -89147,9 +89291,9 @@
     "titleId": "PPSA23268_00",
     "conceptId": 10011020,
     "name": "Sushi Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA23268_00-0563864440174087",
+    "region": "EP",
+    "publisherId": "EP4312"
   },
   {
     "titleId": "PPSA23271_00",
@@ -89195,9 +89339,9 @@
     "titleId": "PPSA23435_00",
     "conceptId": 10011192,
     "name": "Teletext Chaser",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0896-PPSA23435_00-0106613937798233",
+    "region": "EB",
+    "publisherId": "EB0896"
   },
   {
     "titleId": "PPSA23436_00",
