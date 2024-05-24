@@ -6187,9 +6187,9 @@
     "titleId": "PPSA02733_00",
     "conceptId": 10002211,
     "name": "XDefiant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0001-PPSA02733_00-XDEFIANTGAME0001",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA02734_00",
@@ -14798,6 +14798,14 @@
     "contentId": "EP3729-PPSA04450_00-1997702794616651",
     "region": "EP",
     "publisherId": "EP3729"
+  },
+  {
+    "titleId": "PPSA04451_00",
+    "conceptId": 10003330,
+    "name": "Warhammer 40,000: Space Marine 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA04458_00",
@@ -36430,6 +36438,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA08585_00",
+    "conceptId": 217012,
+    "name": "DRAGON BALL XENOVERSE 2",
+    "contentId": "HP0700-PPSA08585_00-DRAGONBALLXV2000",
+    "region": "HP",
+    "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA08586_00",
@@ -62816,6 +62832,14 @@
     "publisherId": "JP0178"
   },
   {
+    "titleId": "PPSA15272_00",
+    "conceptId": 10007912,
+    "name": "Backpack Hero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15274_00",
     "conceptId": 10007933,
     "name": "Days of Doom",
@@ -64435,9 +64459,9 @@
     "titleId": "PPSA15606_00",
     "conceptId": 10008023,
     "name": "Galacticare",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8634-PPSA15606_00-0806918178732447",
+    "region": "EP",
+    "publisherId": "EP8634"
   },
   {
     "titleId": "PPSA15610_00",
@@ -65302,6 +65326,14 @@
     "contentId": "UP9000-PPSA15806_00-SLUS005440000000",
     "region": "UP",
     "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA15808_00",
+    "conceptId": 10008137,
+    "name": "G-POLICE",
+    "contentId": "JP9000-PPSA15808_00-SCPS100650000000",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA15811_00",
@@ -67328,6 +67360,14 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA16239_00",
+    "conceptId": 10008316,
+    "name": "Worms Pinball",
+    "contentId": "UP4064-PPSA16239_00-SLES004830000000",
+    "region": "UP",
+    "publisherId": "UP4064"
+  },
+  {
     "titleId": "PPSA16241_00",
     "conceptId": 10007198,
     "name": "Goodbye Volcano High",
@@ -67462,6 +67502,14 @@
     "contentId": "HP0101-PPSA16258_00-MGSBONUSCONTENTS",
     "region": "HP",
     "publisherId": "HP0101"
+  },
+  {
+    "titleId": "PPSA16262_00",
+    "conceptId": 10007965,
+    "name": "V Rising",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0775"
   },
   {
     "titleId": "PPSA16263_00",
@@ -69331,9 +69379,9 @@
     "titleId": "PPSA16677_00",
     "conceptId": 10008400,
     "name": "Hauntii",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7680-PPSA16677_00-HAUNTIISIEAPS500",
+    "region": "UP",
+    "publisherId": "UP7680"
   },
   {
     "titleId": "PPSA16678_00",
@@ -69739,9 +69787,9 @@
     "titleId": "PPSA16775_00",
     "conceptId": 10003836,
     "name": "Rocket Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8911-PPSA16775_00-0856422809915077",
+    "region": "EP",
+    "publisherId": "EP8911"
   },
   {
     "titleId": "PPSA16776_00",
@@ -70856,6 +70904,14 @@
     "publisherId": "JP3425"
   },
   {
+    "titleId": "PPSA17062_00",
+    "conceptId": 10008602,
+    "name": "Umbraclaw",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17063_00",
     "conceptId": 10008602,
     "name": "Umbraclaw",
@@ -71528,6 +71584,22 @@
     "publisherId": "UP3528"
   },
   {
+    "titleId": "PPSA17213_00",
+    "conceptId": 10008708,
+    "name": "Downward: Enhanced Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17214_00",
+    "conceptId": 10008708,
+    "name": "Downward: Enhanced Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17217_00",
     "conceptId": 10008710,
     "name": "Jurassic Park Classic Games Collection",
@@ -71811,9 +71883,9 @@
     "titleId": "PPSA17295_00",
     "conceptId": 10008739,
     "name": "Doug's Nightmare",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA17295_00-DOUGSNIGHTMARE00",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA17306_00",
@@ -78306,18 +78378,18 @@
   {
     "titleId": "PPSA19028_00",
     "conceptId": 10009379,
-    "name": "C.A.R.D.S. RPG: The Misty Battlefield PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u9727\u306e\u6226\u5834\u306e\u30f4\u30a7\u30eb\u30c7\u30a3\u30fc\u30ca: C.A.R.D.S. RPG",
+    "contentId": "JP0048-PPSA19028_00-CARDSRPGMAIN0001",
+    "region": "JP",
+    "publisherId": "JP0048"
   },
   {
     "titleId": "PPSA19029_00",
     "conceptId": 10009379,
-    "name": "C.A.R.D.S. RPG: The Misty Battlefield PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "C.A.R.D.S. RPG: The Misty Battlefield",
+    "contentId": "HP0048-PPSA19029_00-CARDSRPGMAIN0002",
+    "region": "HP",
+    "publisherId": "HP0048"
   },
   {
     "titleId": "PPSA19030_00",
@@ -78330,10 +78402,10 @@
   {
     "titleId": "PPSA19031_00",
     "conceptId": 10009379,
-    "name": "C.A.R.D.S. RPG: The Misty Battlefield PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "C.A.R.D.S. RPG: The Misty Battlefield",
+    "contentId": "EP6686-PPSA19031_00-CARDSRPGMAIN0004",
+    "region": "EP",
+    "publisherId": "EP6686"
   },
   {
     "titleId": "PPSA19033_00",
@@ -78922,10 +78994,10 @@
   {
     "titleId": "PPSA19200_00",
     "conceptId": 10008661,
-    "name": "Evil Wizard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EvilWizard",
+    "contentId": "EP8280-PPSA19200_00-0854447147490792",
+    "region": "EP",
+    "publisherId": "EP8280"
   },
   {
     "titleId": "PPSA19204_00",
@@ -78954,10 +79026,10 @@
   {
     "titleId": "PPSA19208_00",
     "conceptId": 10008661,
-    "name": "Evil Wizard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EvilWizard (Japan)",
+    "contentId": "JP7994-PPSA19208_00-0628030156687821",
+    "region": "JP",
+    "publisherId": "JP7994"
   },
   {
     "titleId": "PPSA19215_00",
@@ -79435,9 +79507,9 @@
     "titleId": "PPSA19317_00",
     "conceptId": 10004064,
     "name": "Eternal Threads",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7072-PPSA19317_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP7072"
   },
   {
     "titleId": "PPSA19318_00",
@@ -79550,6 +79622,14 @@
     "contentId": "UP8353-PPSA19356_00-0957568172760437",
     "region": "UP",
     "publisherId": "UP8353"
+  },
+  {
+    "titleId": "PPSA19363_00",
+    "conceptId": 10001153,
+    "name": "BraveMatch",
+    "contentId": "EP8070-PPSA19363_00-0232372295560919",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA19365_00",
@@ -81838,6 +81918,14 @@
     "contentId": "HP7141-PPSA19978_00-0445431186866121",
     "region": "HP",
     "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA19987_00",
+    "conceptId": 10009736,
+    "name": "\u30ab\u30ea\u30b3",
+    "contentId": "JP0211-PPSA19987_00-0416100913519653",
+    "region": "JP",
+    "publisherId": "JP0211"
   },
   {
     "titleId": "PPSA19993_00",
@@ -84243,17 +84331,17 @@
     "titleId": "PPSA20669_00",
     "conceptId": 10010046,
     "name": "4 in a row",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA20669_00-4SCHMSPIELEPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA20670_00",
     "conceptId": 10010046,
     "name": "4 in a row",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3165-PPSA20670_00-4SCHMSPIELEPS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
   },
   {
     "titleId": "PPSA20671_00",
@@ -84307,9 +84395,9 @@
     "titleId": "PPSA20705_00",
     "conceptId": 10010062,
     "name": "TP Bullet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA20705_00-TPBULLETRATAGAME",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA20706_00",
@@ -84426,50 +84514,50 @@
   {
     "titleId": "PPSA20751_00",
     "conceptId": 10005672,
-    "name": "Crown Wars: The Black Prince",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crown Wars \u2013 Artbook",
+    "contentId": "EP6665-PPSA20751_00-CW00000000000ART",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA20752_00",
     "conceptId": 10005672,
-    "name": "Crown Wars: The Black Prince",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crown Wars \u2013 Artbook",
+    "contentId": "UP6665-PPSA20752_00-CW00000000000ART",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA20753_00",
     "conceptId": 10005672,
-    "name": "Crown Wars: The Black Prince",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crown Wars \u2013 Soundtrack",
+    "contentId": "EP6665-PPSA20753_00-CW00000000000OST",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA20754_00",
     "conceptId": 10005672,
-    "name": "Crown Wars: The Black Prince",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crown Wars \u2013 Soundtrack",
+    "contentId": "UP6665-PPSA20754_00-CW00000000000OST",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA20755_00",
     "conceptId": 10005672,
-    "name": "Crown Wars: The Black Prince",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crown Wars \u2013 Strategy Guide",
+    "contentId": "EP6665-PPSA20755_00-CW000000000GUIDE",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA20756_00",
     "conceptId": 10005672,
-    "name": "Crown Wars: The Black Prince",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crown Wars \u2013 Strategy Guide",
+    "contentId": "UP6665-PPSA20756_00-CW000000000GUIDE",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA20761_00",
@@ -86352,6 +86440,22 @@
     "publisherId": "JP6465"
   },
   {
+    "titleId": "PPSA21496_00",
+    "conceptId": 10010380,
+    "name": "Marble Maze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21497_00",
+    "conceptId": 10010380,
+    "name": "Marble Maze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21498_00",
     "conceptId": 10010380,
     "name": "Marble Maze",
@@ -86371,17 +86475,17 @@
     "titleId": "PPSA21515_00",
     "conceptId": 10010381,
     "name": "Wizardry: Proving Grounds of the Mad Overlord",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7818-PPSA21515_00-WIZARDRY00000000",
+    "region": "UP",
+    "publisherId": "UP7818"
   },
   {
     "titleId": "PPSA21516_00",
     "conceptId": 10010381,
     "name": "Wizardry: Proving Grounds of the Mad Overlord",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7816-PPSA21516_00-WIZARDRY00000000",
+    "region": "EP",
+    "publisherId": "EP7816"
   },
   {
     "titleId": "PPSA21521_00",
@@ -86579,17 +86683,17 @@
     "titleId": "PPSA21619_00",
     "conceptId": 10010433,
     "name": "Ultra Foodmess 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA21619_00-0716029523856869",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA21620_00",
     "conceptId": 10010433,
     "name": "Ultra Foodmess 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA21620_00-0505137821941056",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA21621_00",
@@ -87000,6 +87104,14 @@
     "publisherId": "HP7379"
   },
   {
+    "titleId": "PPSA21759_00",
+    "conceptId": 10007319,
+    "name": "\u4f0a\u8607\u56de\u61b6\u9304 -\u83f2\u723e\u8fe6\u7d0d\u7684\u8a93\u7d04-",
+    "contentId": "HP5846-PPSA21759_00-YSMEMOIRFELGHANA",
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA21768_00",
     "conceptId": 10004850,
     "name": "Trinity Fusion Demo",
@@ -87208,12 +87320,28 @@
     "publisherId": "EP6074"
   },
   {
+    "titleId": "PPSA21876_00",
+    "conceptId": 10010532,
+    "name": "Fortress Challenge - Fort Boyard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21877_00",
     "conceptId": 10006120,
     "name": "TRUDOGRAD",
     "contentId": "UP6073-PPSA21877_00-0169987643017661",
     "region": "UP",
     "publisherId": "UP6073"
+  },
+  {
+    "titleId": "PPSA21878_00",
+    "conceptId": 10010532,
+    "name": "Fortress Challenge - Fort Boyard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21887_00",
@@ -87840,6 +87968,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22234_00",
+    "conceptId": 10010490,
+    "name": "sCATch 2: The Painter Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22235_00",
+    "conceptId": 10010490,
+    "name": "sCATch 2: The Painter Cat",
+    "contentId": "JP7912-PPSA22235_00-0114916133876393",
+    "region": "JP",
+    "publisherId": "JP7912"
+  },
+  {
+    "titleId": "PPSA22236_00",
+    "conceptId": 10010490,
+    "name": "sCATch 2: The Painter Cat",
+    "contentId": "HP7958-PPSA22236_00-0959363743193324",
+    "region": "HP",
+    "publisherId": "HP7958"
+  },
+  {
     "titleId": "PPSA22239_00",
     "conceptId": 235227,
     "name": "Ghost of Tsushima",
@@ -88174,6 +88326,22 @@
     "contentId": "EP8070-PPSA22419_00-0862349236113717",
     "region": "EP",
     "publisherId": "EP8070"
+  },
+  {
+    "titleId": "PPSA22420_00",
+    "conceptId": 232562,
+    "name": "Blacksad: Under the Skin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22421_00",
+    "conceptId": 232562,
+    "name": "Blacksad: Under the Skin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22460_00",
@@ -88739,9 +88907,9 @@
     "titleId": "PPSA22731_00",
     "conceptId": 10010697,
     "name": "Sled Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0612-PPSA22731_00-0593202664659809",
+    "region": "UB",
+    "publisherId": "UB0612"
   },
   {
     "titleId": "PPSA22732_00",
@@ -88755,9 +88923,9 @@
     "titleId": "PPSA22733_00",
     "conceptId": 10010872,
     "name": "Guess the Door",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA22733_00-0393640949916930",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA22741_00",
