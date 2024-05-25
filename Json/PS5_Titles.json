@@ -60888,6 +60888,14 @@
     "publisherId": "HP6145"
   },
   {
+    "titleId": "PPSA14286_00",
+    "conceptId": 217012,
+    "name": "DRAGON BALL XENOVERSE 2 DELUXE EDITION",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA14287_00",
     "conceptId": 10000894,
     "name": "THE KING OF FIGHTERS XV \u4f53\u9a13\u7248",
@@ -64462,6 +64470,22 @@
     "contentId": "EP8634-PPSA15606_00-0806918178732447",
     "region": "EP",
     "publisherId": "EP8634"
+  },
+  {
+    "titleId": "PPSA15607_00",
+    "conceptId": 10008023,
+    "name": "Galacticare",
+    "contentId": "UP8444-PPSA15607_00-0971853191791047",
+    "region": "UP",
+    "publisherId": "UP8444"
+  },
+  {
+    "titleId": "PPSA15609_00",
+    "conceptId": 10008023,
+    "name": "Galacticare",
+    "contentId": "HP8394-PPSA15609_00-0374144921959628",
+    "region": "HP",
+    "publisherId": "HP8394"
   },
   {
     "titleId": "PPSA15610_00",
@@ -68824,6 +68848,14 @@
     "publisherId": "UP1496"
   },
   {
+    "titleId": "PPSA16556_00",
+    "conceptId": 10008426,
+    "name": "Hot Blood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16557_00",
     "conceptId": 10008427,
     "name": "Horror Pinball",
@@ -71254,6 +71286,14 @@
     "contentId": "HP3536-PPSA17146_00-0067063927261081",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA17147_00",
+    "conceptId": 10007924,
+    "name": "Sushi Ben",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17148_00",
@@ -79515,9 +79555,9 @@
     "titleId": "PPSA19318_00",
     "conceptId": 10004064,
     "name": "Eternal Threads",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7076-PPSA19318_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP7076"
   },
   {
     "titleId": "PPSA19319_00",
@@ -79622,6 +79662,14 @@
     "contentId": "UP8353-PPSA19356_00-0957568172760437",
     "region": "UP",
     "publisherId": "UP8353"
+  },
+  {
+    "titleId": "PPSA19361_00",
+    "conceptId": 10001153,
+    "name": "BraveMatch",
+    "contentId": "UP5877-PPSA19361_00-0010800462461748",
+    "region": "UP",
+    "publisherId": "UP5877"
   },
   {
     "titleId": "PPSA19363_00",
@@ -82792,6 +82840,22 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA20227_00",
+    "conceptId": 10002482,
+    "name": "JigsawFinale",
+    "contentId": "UP5877-PPSA20227_00-0108342377503917",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA20228_00",
+    "conceptId": 10002482,
+    "name": "Blastful",
+    "contentId": "EP8070-PPSA20228_00-0099296716604211",
+    "region": "EP",
+    "publisherId": "EP8070"
+  },
+  {
     "titleId": "PPSA20229_00",
     "conceptId": 10005985,
     "name": "Prince of Persia: The Lost Crown DEMO",
@@ -84403,9 +84467,9 @@
     "titleId": "PPSA20706_00",
     "conceptId": 10010062,
     "name": "TP Bullet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA20706_00-TPBULLETRATAGAME",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA20709_00",
@@ -85576,6 +85640,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21163_00",
+    "conceptId": 10010243,
+    "name": "Bloodhound",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21175_00",
     "conceptId": 10010224,
     "name": "Sherlock Purr 2",
@@ -85606,6 +85678,14 @@
     "contentId": "HB0350-PPSA21178_00-CMNDOSHERPURR200",
     "region": "HB",
     "publisherId": "HB0350"
+  },
+  {
+    "titleId": "PPSA21179_00",
+    "conceptId": 10010243,
+    "name": "Bloodhound",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21180_00",
@@ -87275,33 +87355,33 @@
     "titleId": "PPSA21850_00",
     "conceptId": 10010524,
     "name": "The Glass Staircase",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6778-PPSA21850_00-0817146546403047",
+    "region": "UP",
+    "publisherId": "UP6778"
   },
   {
     "titleId": "PPSA21851_00",
     "conceptId": 10010524,
     "name": "The Glass Staircase",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6776-PPSA21851_00-0006165921768638",
+    "region": "EP",
+    "publisherId": "EP6776"
   },
   {
     "titleId": "PPSA21852_00",
     "conceptId": 10010524,
     "name": "The Glass Staircase",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6727-PPSA21852_00-0958270036764345",
+    "region": "JP",
+    "publisherId": "JP6727"
   },
   {
     "titleId": "PPSA21853_00",
     "conceptId": 10010524,
     "name": "The Glass Staircase",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6784-PPSA21853_00-0804295916142924",
+    "region": "HP",
+    "publisherId": "HP6784"
   },
   {
     "titleId": "PPSA21858_00",
@@ -87968,12 +88048,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22233_00",
+    "conceptId": 10010490,
+    "name": "sCATch 2: The Painter Cat",
+    "contentId": "UP7931-PPSA22233_00-0547682787058183",
+    "region": "UP",
+    "publisherId": "UP7931"
+  },
+  {
     "titleId": "PPSA22234_00",
     "conceptId": 10010490,
     "name": "sCATch 2: The Painter Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7929-PPSA22234_00-0106140627520977",
+    "region": "EP",
+    "publisherId": "EP7929"
   },
   {
     "titleId": "PPSA22235_00",
@@ -89496,6 +89584,22 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA23402_00",
+    "conceptId": 10010991,
+    "name": "Cazzarion: Rocket Raid",
+    "contentId": "JB0377-PPSA23402_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23403_00",
+    "conceptId": 10010991,
+    "name": "Cazzarion: Rocket Raid",
+    "contentId": "HB0405-PPSA23403_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
     "titleId": "PPSA23434_00",
     "conceptId": 10011192,
     "name": "Teletext Chaser",
@@ -89539,9 +89643,9 @@
     "titleId": "PPSA23477_00",
     "conceptId": 10011209,
     "name": "Neon Bash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA23477_00-0398655791290995",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA23497_00",
@@ -89555,9 +89659,9 @@
     "titleId": "PPSA23498_00",
     "conceptId": 10011209,
     "name": "Neon Bash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA23498_00-0101827508345811",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA23523_00",
