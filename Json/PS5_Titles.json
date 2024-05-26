@@ -32744,6 +32744,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA07905_00",
+    "conceptId": 10005163,
+    "name": "Still Wakes the Deep",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7072"
+  },
+  {
     "titleId": "PPSA07907_00",
     "conceptId": 10004659,
     "name": "Touchdown Pinball",
@@ -36451,17 +36459,17 @@
     "titleId": "PPSA08586_00",
     "conceptId": 217012,
     "name": "DRAGON BALL XENOVERSE 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0700-PPSA08586_00-DRAGONBALLXV2000",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA08587_00",
     "conceptId": 217012,
     "name": "DRAGON BALL XENOVERSE 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0700-PPSA08587_00-DRAGONBALLXV2000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA08588_00",
@@ -51904,6 +51912,14 @@
     "publisherId": "EP1701"
   },
   {
+    "titleId": "PPSA11201_00",
+    "conceptId": 10001252,
+    "name": "The Five Covens",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11203_00",
     "conceptId": 10006508,
     "name": "The Jumping Onigiri",
@@ -53716,6 +53732,14 @@
     "conceptId": 10006803,
     "name": "Stroke The Dik-Dik",
     "contentId": "HP7989-PPSA12240_00-4794200512456033",
+    "region": "HP",
+    "publisherId": "HP7989"
+  },
+  {
+    "titleId": "PPSA12248_00",
+    "conceptId": 10006805,
+    "name": "Wall2Wall",
+    "contentId": "HP7989-PPSA12248_00-6968426968051487",
     "region": "HP",
     "publisherId": "HP7989"
   },
@@ -69419,9 +69443,9 @@
     "titleId": "PPSA16678_00",
     "conceptId": 10008400,
     "name": "Hauntii",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7678-PPSA16678_00-HAUNTIISIEEPS500",
+    "region": "EP",
+    "publisherId": "EP7678"
   },
   {
     "titleId": "PPSA16681_00",
@@ -69827,9 +69851,17 @@
     "titleId": "PPSA16776_00",
     "conceptId": 10003836,
     "name": "Rocket Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7250-PPSA16776_00-0381151045840290",
+    "region": "JP",
+    "publisherId": "JP7250"
+  },
+  {
+    "titleId": "PPSA16777_00",
+    "conceptId": 10003836,
+    "name": "Rocket Rumble",
+    "contentId": "HP7297-PPSA16777_00-0314891472913774",
+    "region": "HP",
+    "publisherId": "HP7297"
   },
   {
     "titleId": "PPSA16783_00",
@@ -70630,6 +70662,22 @@
     "contentId": "JP0536-PPSA16961_00-0394029304693522",
     "region": "JP",
     "publisherId": "JP0536"
+  },
+  {
+    "titleId": "PPSA16967_00",
+    "conceptId": 10005820,
+    "name": "Willy's Wonderland - The Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16968_00",
+    "conceptId": 10005820,
+    "name": "Willy's Wonderland - The Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16969_00",
@@ -72650,10 +72698,10 @@
   {
     "titleId": "PPSA17507_00",
     "conceptId": 10008661,
-    "name": "Evil Wizard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EvilWizard",
+    "contentId": "UP8090-PPSA17507_00-0884115708813970",
+    "region": "UP",
+    "publisherId": "UP8090"
   },
   {
     "titleId": "PPSA17509_00",
@@ -89528,6 +89576,22 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23258_00",
+    "conceptId": 10010643,
+    "name": "Cazzarion: Space Ace",
+    "contentId": "JB0377-PPSA23258_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23260_00",
+    "conceptId": 10010643,
+    "name": "Cazzarion: Space Ace",
+    "contentId": "HB0405-PPSA23260_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
     "titleId": "PPSA23263_00",
     "conceptId": 10011098,
     "name": "Risky Roads",
@@ -89584,6 +89648,22 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA23397_00",
+    "conceptId": 10001326,
+    "name": "Sushi Break Head to Head",
+    "contentId": "JP0089-PPSA23397_00-0684784041652234",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA23398_00",
+    "conceptId": 10001326,
+    "name": "Sushi Break Head to Head",
+    "contentId": "HP4312-PPSA23398_00-0894201944103349",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA23402_00",
     "conceptId": 10010991,
     "name": "Cazzarion: Rocket Raid",
@@ -89635,9 +89715,9 @@
     "titleId": "PPSA23476_00",
     "conceptId": 10011209,
     "name": "Neon Bash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA23476_00-0069348126902174",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA23477_00",
@@ -89651,9 +89731,9 @@
     "titleId": "PPSA23497_00",
     "conceptId": 10011209,
     "name": "Neon Bash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA23497_00-0203968834222853",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA23498_00",
