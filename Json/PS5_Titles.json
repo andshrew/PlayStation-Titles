@@ -13416,6 +13416,14 @@
     "publisherId": "JP6412"
   },
   {
+    "titleId": "PPSA04184_00",
+    "conceptId": 10003151,
+    "name": "EA SPORTS\u2122 College Football 25 Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA04185_00",
     "conceptId": 10003151,
     "name": "EA SPORTS\u2122 College Football 25 Standard Edition",
@@ -35203,9 +35211,9 @@
     "titleId": "PPSA08356_00",
     "conceptId": 10003836,
     "name": "Rocket Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2185-PPSA08356_00-7694272966095319",
+    "region": "UP",
+    "publisherId": "UP2185"
   },
   {
     "titleId": "PPSA08358_00",
@@ -53736,6 +53744,22 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "PPSA12246_00",
+    "conceptId": 10006805,
+    "name": "Wall2Wall",
+    "contentId": "EP7960-PPSA12246_00-9188604793384574",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA12247_00",
+    "conceptId": 10006805,
+    "name": "Wall2Wall",
+    "contentId": "JP7943-PPSA12247_00-9866058970961010",
+    "region": "JP",
+    "publisherId": "JP7943"
+  },
+  {
     "titleId": "PPSA12248_00",
     "conceptId": 10006805,
     "name": "Wall2Wall",
@@ -61752,6 +61776,14 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA14483_00",
+    "conceptId": 10007670,
+    "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA14486_00",
     "conceptId": 10007460,
     "name": "Baldur's Gate 3",
@@ -68886,6 +68918,14 @@
     "contentId": "UP1496-PPSA16553_00-UNDOGDETECTIVEUS",
     "region": "UP",
     "publisherId": "UP1496"
+  },
+  {
+    "titleId": "PPSA16555_00",
+    "conceptId": 10008426,
+    "name": "Hot Blood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16556_00",
@@ -85594,18 +85634,18 @@
   {
     "titleId": "PPSA21112_00",
     "conceptId": 10010229,
-    "name": "TEVI",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tevi",
+    "contentId": "EP2011-PPSA21112_00-0776269860708005",
+    "region": "EP",
+    "publisherId": "EP2011"
   },
   {
     "titleId": "PPSA21113_00",
     "conceptId": 10010229,
-    "name": "TEVI",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tevi",
+    "contentId": "JP6412-PPSA21113_00-0171315558269351",
+    "region": "JP",
+    "publisherId": "JP6412"
   },
   {
     "titleId": "PPSA21124_00",
@@ -87505,6 +87545,14 @@
   },
   {
     "titleId": "PPSA21879_00",
+    "conceptId": 10008317,
+    "name": "Capes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21880_00",
     "conceptId": 10008317,
     "name": "Capes",
     "contentId": null,
@@ -89515,9 +89563,9 @@
     "titleId": "PPSA23057_00",
     "conceptId": 10010991,
     "name": "Cazzarion: Rocket Raid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA23057_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA23072_00",
@@ -89768,6 +89816,14 @@
     "publisherId": "HB0669"
   },
   {
+    "titleId": "PPSA23447_00",
+    "conceptId": 10010655,
+    "name": "Cazzarion: Gunslinger",
+    "contentId": "HB0405-PPSA23447_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
     "titleId": "PPSA23476_00",
     "conceptId": 10011209,
     "name": "Neon Bash",
@@ -89819,6 +89875,14 @@
     "titleId": "PPSA23602_00",
     "conceptId": 10011269,
     "name": "Zombie Legion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23746_00",
+    "conceptId": 10011368,
+    "name": "Bad Birds",
     "contentId": null,
     "region": null,
     "publisherId": null
