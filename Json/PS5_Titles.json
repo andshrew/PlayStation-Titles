@@ -24627,9 +24627,9 @@
     "titleId": "PPSA06389_00",
     "conceptId": 10004429,
     "name": "System Shock",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6714-PPSA06389_00-SYSTSHOCKREPS5US",
+    "region": "UP",
+    "publisherId": "UP6714"
   },
   {
     "titleId": "PPSA06390_00",
@@ -32758,6 +32758,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP7072"
+  },
+  {
+    "titleId": "PPSA07906_00",
+    "conceptId": 10005163,
+    "name": "Still Wakes the Deep",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7076"
   },
   {
     "titleId": "PPSA07907_00",
@@ -50528,6 +50536,14 @@
     "publisherId": "UP6213"
   },
   {
+    "titleId": "PPSA10945_00",
+    "conceptId": 10006403,
+    "name": "Deathwish Enforcers",
+    "contentId": "EP6890-PPSA10945_00-DEATHWISHENFORCE",
+    "region": "EP",
+    "publisherId": "EP6890"
+  },
+  {
     "titleId": "PPSA10946_00",
     "conceptId": 10005565,
     "name": "Among Us VR",
@@ -53742,6 +53758,14 @@
     "contentId": "HP7989-PPSA12240_00-4794200512456033",
     "region": "HP",
     "publisherId": "HP7989"
+  },
+  {
+    "titleId": "PPSA12245_00",
+    "conceptId": 10006805,
+    "name": "Wall2Wall",
+    "contentId": "UP7962-PPSA12245_00-5841734162802741",
+    "region": "UP",
+    "publisherId": "UP7962"
   },
   {
     "titleId": "PPSA12246_00",
@@ -76912,6 +76936,14 @@
     "publisherId": "EP0331"
   },
   {
+    "titleId": "PPSA18622_00",
+    "conceptId": 10008989,
+    "name": "Seed of Life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18626_00",
     "conceptId": 10009252,
     "name": "Little Cities: Bigger!",
@@ -78689,6 +78721,14 @@
   },
   {
     "titleId": "PPSA19080_00",
+    "conceptId": 10008907,
+    "name": "Sugar Mess - Let's Play Jolly Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19082_00",
     "conceptId": 10008907,
     "name": "Sugar Mess - Let's Play Jolly Battle",
     "contentId": null,
@@ -83040,6 +83080,14 @@
     "publisherId": "UP2014"
   },
   {
+    "titleId": "PPSA20262_00",
+    "conceptId": 10009535,
+    "name": "TimeMelters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20265_00",
     "conceptId": 10008027,
     "name": "Galactic Lords",
@@ -84120,6 +84168,14 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA20549_00",
+    "conceptId": 10009763,
+    "name": "Zenless Zone Zero",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7713"
+  },
+  {
     "titleId": "PPSA20552_00",
     "conceptId": 10009776,
     "name": "Tour de France 2024",
@@ -84350,6 +84406,14 @@
     "contentId": "JP0089-PPSA20594_00-0444616408594452",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA20599_00",
+    "conceptId": 10009763,
+    "name": "Zenless Zone Zero",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7711"
   },
   {
     "titleId": "PPSA20604_00",
@@ -85626,10 +85690,10 @@
   {
     "titleId": "PPSA21111_00",
     "conceptId": 10010229,
-    "name": "TEVI",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tevi",
+    "contentId": "UP2011-PPSA21111_00-0037305506982845",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA21112_00",
@@ -87546,10 +87610,10 @@
   {
     "titleId": "PPSA21879_00",
     "conceptId": 10008317,
-    "name": "Capes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Capes Artbook",
+    "contentId": "EP8923-PPSA21879_00-CAPESARTBOOKPS5E",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA21880_00",
@@ -88642,10 +88706,10 @@
   {
     "titleId": "PPSA22490_00",
     "conceptId": 10010229,
-    "name": "TEVI",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tevi",
+    "contentId": "HP6477-PPSA22490_00-0204901691240075",
+    "region": "HP",
+    "publisherId": "HP6477"
   },
   {
     "titleId": "PPSA22503_00",
@@ -89560,6 +89624,14 @@
     "publisherId": "JP8693"
   },
   {
+    "titleId": "PPSA23056_00",
+    "conceptId": 10010991,
+    "name": "Cazzarion: Rocket Raid",
+    "contentId": "UB0438-PPSA23056_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA23057_00",
     "conceptId": 10010991,
     "name": "Cazzarion: Rocket Raid",
@@ -89816,6 +89888,14 @@
     "publisherId": "HB0669"
   },
   {
+    "titleId": "PPSA23446_00",
+    "conceptId": 10010655,
+    "name": "Cazzarion: Gunslinger",
+    "contentId": "JB0377-PPSA23446_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
     "titleId": "PPSA23447_00",
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
@@ -89883,6 +89963,14 @@
     "titleId": "PPSA23746_00",
     "conceptId": 10011368,
     "name": "Bad Birds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23762_00",
+    "conceptId": 10010839,
+    "name": "Cazzarion: Whack A Zombie",
     "contentId": null,
     "region": null,
     "publisherId": null
