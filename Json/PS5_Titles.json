@@ -24635,9 +24635,9 @@
     "titleId": "PPSA06390_00",
     "conceptId": 10004429,
     "name": "System Shock",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6713-PPSA06390_00-SYSTSHOCKREPS5EU",
+    "region": "EP",
+    "publisherId": "EP6713"
   },
   {
     "titleId": "PPSA06392_00",
@@ -26838,6 +26838,14 @@
     "contentId": "EP2430-PPSA06776_00-BUSSIMXXXXXXXXXX",
     "region": "EP",
     "publisherId": "EP2430"
+  },
+  {
+    "titleId": "PPSA06778_00",
+    "conceptId": 10004642,
+    "name": "Exo One",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06780_00",
@@ -40578,8 +40586,8 @@
   {
     "titleId": "PPSA09251_00",
     "conceptId": 10005672,
-    "name": "Crown Wars: The Black Prince Pre-order",
-    "contentId": null,
+    "name": "Crown Wars: The Black Prince",
+    "contentId": "EP6665-PPSA09251_00-CW00000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -51937,6 +51945,14 @@
   },
   {
     "titleId": "PPSA11201_00",
+    "conceptId": 10001252,
+    "name": "The Five Covens",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11202_00",
     "conceptId": 10001252,
     "name": "The Five Covens",
     "contentId": null,
@@ -72218,8 +72234,8 @@
   {
     "titleId": "PPSA17350_00",
     "conceptId": 10003094,
-    "name": "DRAGON QUEST X OFFLINE PS4&PS5",
-    "contentId": null,
+    "name": "DRAGON QUEST X offline version",
+    "contentId": "HP0082-PPSA17350_00-ASIA000000000000",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -76171,17 +76187,17 @@
     "titleId": "PPSA18403_00",
     "conceptId": 10008770,
     "name": "The Exorcist: Legion VR (Deluxe Edition)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8536-PPSA18403_00-LEGIONVRDELUXEED",
+    "region": "UP",
+    "publisherId": "UP8536"
   },
   {
     "titleId": "PPSA18404_00",
     "conceptId": 10008770,
-    "name": "The Exorcist: Legion VR (Deluxe Edition)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Exorcist: Legion VR",
+    "contentId": "EP8726-PPSA18404_00-LEGIONVRDELUXEED",
+    "region": "EP",
+    "publisherId": "EP8726"
   },
   {
     "titleId": "PPSA18410_00",
@@ -76832,6 +76848,22 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA18602_00",
+    "conceptId": 10005862,
+    "name": "Jujutsu Kaisen Cursed Clash DEMO",
+    "contentId": "UP0700-PPSA18602_00-JJKCVSDEMO000000",
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA18603_00",
+    "conceptId": 10005862,
+    "name": "Jujutsu Kaisen Cursed Clash DEMO",
+    "contentId": "EP0700-PPSA18603_00-JJKCVSDEMO000000",
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA18607_00",
     "conceptId": 10009240,
     "name": "Survivorman VR: The Descent",
@@ -76939,9 +76971,9 @@
     "titleId": "PPSA18622_00",
     "conceptId": 10008989,
     "name": "Seed of Life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5831-PPSA18622_00-SEEDOFLIFEPS5USA",
+    "region": "UP",
+    "publisherId": "UP5831"
   },
   {
     "titleId": "PPSA18626_00",
@@ -78051,17 +78083,25 @@
     "titleId": "PPSA18909_00",
     "conceptId": 10009338,
     "name": "Terminal 81",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA18909_00-SYPS5TERMINAL810",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA18910_00",
     "conceptId": 10009338,
     "name": "Terminal 81",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA18910_00-SYPS5TERMINAL810",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA18912_00",
+    "conceptId": 10009338,
+    "name": "Terminal 81",
+    "contentId": "HP1792-PPSA18912_00-SYPS5TERMINAL810",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA18920_00",
@@ -78723,17 +78763,25 @@
     "titleId": "PPSA19080_00",
     "conceptId": 10008907,
     "name": "Sugar Mess - Let's Play Jolly Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0319-PPSA19080_00-0816072394521507",
+    "region": "EB",
+    "publisherId": "EB0319"
+  },
+  {
+    "titleId": "PPSA19081_00",
+    "conceptId": 10008907,
+    "name": "Sugar Mess - Let's Play Jolly Battle",
+    "contentId": "JB0037-PPSA19081_00-0362473956886769",
+    "region": "JB",
+    "publisherId": "JB0037"
   },
   {
     "titleId": "PPSA19082_00",
     "conceptId": 10008907,
     "name": "Sugar Mess - Let's Play Jolly Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0080-PPSA19082_00-0354292969384676",
+    "region": "HB",
+    "publisherId": "HB0080"
   },
   {
     "titleId": "PPSA19099_00",
@@ -81072,6 +81120,14 @@
     "publisherId": "EP0287"
   },
   {
+    "titleId": "PPSA19700_00",
+    "conceptId": 10007140,
+    "name": "WiZmans World Re;Try",
+    "contentId": "JP1091-PPSA19700_00-0151060973743568",
+    "region": "JP",
+    "publisherId": "JP1091"
+  },
+  {
     "titleId": "PPSA19703_00",
     "conceptId": 10009633,
     "name": "Backgammon + Checkers + Mills",
@@ -81459,6 +81515,22 @@
     "titleId": "PPSA19794_00",
     "conceptId": 10002420,
     "name": "HORROR BAR VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19800_00",
+    "conceptId": 10009671,
+    "name": "Arranger: A Role-Puzzling Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19801_00",
+    "conceptId": 10009671,
+    "name": "Arranger: A Role-Puzzling Adventure",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -87024,6 +87096,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA21643_00",
+    "conceptId": 10010441,
+    "name": "Super Woden GP II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21649_00",
     "conceptId": 10010442,
     "name": "Rebel Transmute",
@@ -87070,6 +87150,14 @@
     "contentId": "HP4019-PPSA21663_00-0955588384263003",
     "region": "HP",
     "publisherId": "HP4019"
+  },
+  {
+    "titleId": "PPSA21664_00",
+    "conceptId": 10010373,
+    "name": "Crazy Kung Fu",
+    "contentId": "EB0347-PPSA21664_00-0719333354403710",
+    "region": "EB",
+    "publisherId": "EB0347"
   },
   {
     "titleId": "PPSA21665_00",
@@ -87618,7 +87706,15 @@
   {
     "titleId": "PPSA21880_00",
     "conceptId": 10008317,
-    "name": "Capes",
+    "name": "Capes Artbook",
+    "contentId": "UP1440-PPSA21880_00-CAPESARTBOOKPS5N",
+    "region": "UP",
+    "publisherId": "UP1440"
+  },
+  {
+    "titleId": "PPSA21883_00",
+    "conceptId": 10009057,
+    "name": "Master Detective Archives: RAIN CODE Plus",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -87640,12 +87736,28 @@
     "publisherId": "EP6507"
   },
   {
+    "titleId": "PPSA21889_00",
+    "conceptId": 10009057,
+    "name": "Master Detective Archives: RAIN CODE Plus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21902_00",
     "conceptId": 10005149,
     "name": "The Jekoos",
     "contentId": "UP7605-PPSA21902_00-0813654427160992",
     "region": "UP",
     "publisherId": "UP7605"
+  },
+  {
+    "titleId": "PPSA21911_00",
+    "conceptId": 10006439,
+    "name": "Sword & Fairy Inn 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21914_00",
@@ -87726,6 +87838,14 @@
     "contentId": "UP0891-PPSA21934_00-FOXYRUSHRATALAIK",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA21940_00",
+    "conceptId": 10010564,
+    "name": "Tales From The Under-Realm: After Midnight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21946_00",
@@ -88104,6 +88224,22 @@
     "publisherId": "JP2343"
   },
   {
+    "titleId": "PPSA22136_00",
+    "conceptId": 10010474,
+    "name": "Worm War-Greengrocer",
+    "contentId": "UP2136-PPSA22136_00-GIANTCATWWARGPS5",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA22137_00",
+    "conceptId": 10010474,
+    "name": "Worm War-Greengrocer",
+    "contentId": "EP4476-PPSA22137_00-GIANTCATWWARGPS5",
+    "region": "EP",
+    "publisherId": "EP4476"
+  },
+  {
     "titleId": "PPSA22138_00",
     "conceptId": 10010133,
     "name": "Shave & Stuff",
@@ -88358,6 +88494,14 @@
     "contentId": "EP0917-PPSA22308_00-0337764291796146",
     "region": "EP",
     "publisherId": "EP0917"
+  },
+  {
+    "titleId": "PPSA22338_00",
+    "conceptId": 205996,
+    "name": "Channel 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22341_00",
@@ -89824,6 +89968,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA23373_00",
+    "conceptId": 10011160,
+    "name": "Cazzarion: Car Chase",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23397_00",
     "conceptId": 10001326,
     "name": "Sushi Break Head to Head",
@@ -89852,6 +90004,22 @@
     "conceptId": 10010991,
     "name": "Cazzarion: Rocket Raid",
     "contentId": "HB0405-PPSA23403_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23411_00",
+    "conceptId": 10011000,
+    "name": "Cazzarion: Star Collector",
+    "contentId": "JB0377-PPSA23411_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23412_00",
+    "conceptId": 10011000,
+    "name": "Cazzarion: Star Collector",
+    "contentId": "HB0405-PPSA23412_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
   },
@@ -89900,6 +90068,22 @@
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
     "contentId": "HB0405-PPSA23447_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23448_00",
+    "conceptId": 10010755,
+    "name": "Cazzarion: Dart Wheel",
+    "contentId": "JB0377-PPSA23448_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23449_00",
+    "conceptId": 10010755,
+    "name": "Cazzarion: Dart Wheel",
+    "contentId": "HB0405-PPSA23449_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
   },
