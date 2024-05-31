@@ -22368,6 +22368,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA05965_00",
+    "conceptId": 10003910,
+    "name": "Test Drive Unlimited Solar Crown",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA05968_00",
     "conceptId": 10000669,
     "name": "Ratchet & Clank: Rift Apart",
@@ -26838,6 +26846,14 @@
     "contentId": "EP2430-PPSA06776_00-BUSSIMXXXXXXXXXX",
     "region": "EP",
     "publisherId": "EP2430"
+  },
+  {
+    "titleId": "PPSA06777_00",
+    "conceptId": 10004642,
+    "name": "Exo One",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA06778_00",
@@ -36467,9 +36483,9 @@
     "titleId": "PPSA08583_00",
     "conceptId": 217012,
     "name": "DRAGON BALL XENOVERSE 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0700-PPSA08583_00-DRAGONBALLXV2000",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA08585_00",
@@ -40594,8 +40610,8 @@
   {
     "titleId": "PPSA09252_00",
     "conceptId": 10005672,
-    "name": "Crown Wars: The Black Prince Pre-order",
-    "contentId": null,
+    "name": "Crown Wars: The Black Prince",
+    "contentId": "UP6665-PPSA09252_00-CW00000000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -55504,6 +55520,14 @@
     "publisherId": "UP3080"
   },
   {
+    "titleId": "PPSA12771_00",
+    "conceptId": 10006999,
+    "name": "Horizon Chase 2",
+    "contentId": "UP1477-PPSA12771_00-HORIZONCHASE2000",
+    "region": "UP",
+    "publisherId": "UP1477"
+  },
+  {
     "titleId": "PPSA13183_00",
     "conceptId": 10006222,
     "name": "PREAMBLE",
@@ -67531,7 +67555,7 @@
     "titleId": "PPSA16244_00",
     "conceptId": 10008317,
     "name": "Capes",
-    "contentId": null,
+    "contentId": "EP8923-PPSA16244_00-CAPES000000EUPS5",
     "region": "EP",
     "publisherId": "EP8923"
   },
@@ -67539,7 +67563,7 @@
     "titleId": "PPSA16245_00",
     "conceptId": 10008317,
     "name": "Capes",
-    "contentId": null,
+    "contentId": "UP1440-PPSA16245_00-CAPES000000NAPS5",
     "region": "UP",
     "publisherId": "UP1440"
   },
@@ -71435,9 +71459,9 @@
     "titleId": "PPSA17147_00",
     "conceptId": 10007924,
     "name": "Sushi Ben",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7504-PPSA17147_00-SUSHIBENKOTOBUKI",
+    "region": "UP",
+    "publisherId": "UP7504"
   },
   {
     "titleId": "PPSA17148_00",
@@ -73699,9 +73723,9 @@
     "titleId": "PPSA17750_00",
     "conceptId": 10008907,
     "name": "Sugar Mess - Let's Play Jolly Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0129-PPSA17750_00-0025445201910016",
+    "region": "UB",
+    "publisherId": "UB0129"
   },
   {
     "titleId": "PPSA17751_00",
@@ -76848,6 +76872,22 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA18600_00",
+    "conceptId": 10005862,
+    "name": "\u546a\u8853\u5efb\u6226 \u6226\u83ef\u53cc\u4e71 \u4f53\u9a13\u7248",
+    "contentId": "JP0700-PPSA18600_00-JJKCVSDEMO000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA18601_00",
+    "conceptId": 10005862,
+    "name": "\u5492\u8853\u8ff4\u6230 \u96d9\u83ef\u4e82\u821e \u9ad4\u9a57\u7248",
+    "contentId": "HP0700-PPSA18601_00-JJKCVSDEMO000000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA18602_00",
     "conceptId": 10005862,
     "name": "Jujutsu Kaisen Cursed Clash DEMO",
@@ -77694,6 +77734,14 @@
     "contentId": "HP5846-PPSA18830_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA18832_00",
+    "conceptId": 10008989,
+    "name": "Seed of Life",
+    "contentId": "HP5731-PPSA18832_00-SEEDOFLIFEPS5ASI",
+    "region": "HP",
+    "publisherId": "HP5731"
   },
   {
     "titleId": "PPSA18833_00",
@@ -78822,6 +78870,14 @@
     "contentId": "HP8385-PPSA19112_00-0806583507111154",
     "region": "HP",
     "publisherId": "HP8385"
+  },
+  {
+    "titleId": "PPSA19113_00",
+    "conceptId": 10009410,
+    "name": "SAY A PRAYER\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19115_00",
@@ -85930,18 +85986,18 @@
   {
     "titleId": "PPSA21180_00",
     "conceptId": 10002179,
-    "name": "Potion Permit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Potion Permit: Complete Edition",
+    "contentId": "UP4293-PPSA21180_00-POTIONCEDPS5SIEA",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA21181_00",
     "conceptId": 10002179,
-    "name": "Potion Permit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Potion Permit: Complete Edition",
+    "contentId": "EP4293-PPSA21181_00-POTIONCEDPS5SIEE",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA21182_00",
@@ -86896,6 +86952,14 @@
     "publisherId": "HP7632"
   },
   {
+    "titleId": "PPSA21554_00",
+    "conceptId": 10010373,
+    "name": "Crazy Kung Fu",
+    "contentId": "UB0157-PPSA21554_00-0098384937175788",
+    "region": "UB",
+    "publisherId": "UB0157"
+  },
+  {
     "titleId": "PPSA21569_00",
     "conceptId": 10010404,
     "name": "Tiny Tales: Heart of the Forest",
@@ -87843,9 +87907,17 @@
     "titleId": "PPSA21940_00",
     "conceptId": 10010564,
     "name": "Tales From The Under-Realm: After Midnight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA21940_00-TFURAFTERMIDNIGH",
+    "region": "EP",
+    "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA21941_00",
+    "conceptId": 10010564,
+    "name": "Tales From The Under-Realm: After Midnight",
+    "contentId": "UP6472-PPSA21941_00-TFURAFTERMIDNIGH",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA21946_00",
@@ -87971,9 +88043,9 @@
     "titleId": "PPSA22011_00",
     "conceptId": 10010579,
     "name": "O-VOID: Console Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4892-PPSA22011_00-0142195691221373",
+    "region": "UP",
+    "publisherId": "UP4892"
   },
   {
     "titleId": "PPSA22016_00",
@@ -88547,73 +88619,73 @@
     "titleId": "PPSA22369_00",
     "conceptId": 10010716,
     "name": "Garten of Banban",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA22369_00-GARTENOFBANBAN01",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA22370_00",
     "conceptId": 10010716,
     "name": "Garten of Banban",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA22370_00-GARTENOFBANBAN01",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA22371_00",
     "conceptId": 10010716,
     "name": "Garten of Banban",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA22371_00-GARTENOFBANBAN01",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA22372_00",
     "conceptId": 10010716,
     "name": "Garten of Banban",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA22372_00-GARTENOFBANBAN01",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA22373_00",
     "conceptId": 10010717,
     "name": "Garten of Banban 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA22373_00-GARTENOFBANBAN02",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA22374_00",
     "conceptId": 10010717,
     "name": "Garten of Banban 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA22374_00-GARTENOFBANBAN02",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA22375_00",
     "conceptId": 10010717,
     "name": "Garten of Banban 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA22375_00-GARTENOFBANBAN02",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA22376_00",
     "conceptId": 10010717,
     "name": "Garten of Banban 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA22376_00-GARTENOFBANBAN02",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA22377_00",
     "conceptId": 10010718,
     "name": "Garten of Banban 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA22377_00-GARTENOFBANBAN03",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA22381_00",
@@ -88691,57 +88763,57 @@
     "titleId": "PPSA22397_00",
     "conceptId": 10010718,
     "name": "Garten of Banban 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA22397_00-GARTENOFBANBAN03",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA22398_00",
     "conceptId": 10010718,
     "name": "Garten of Banban 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA22398_00-GARTENOFBANBAN03",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA22399_00",
     "conceptId": 10010718,
     "name": "Garten of Banban 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA22399_00-GARTENOFBANBAN03",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA22401_00",
     "conceptId": 10010730,
     "name": "Garten of Banban 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA22401_00-GARTENOFBANBAN04",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA22405_00",
     "conceptId": 10010730,
     "name": "Garten of Banban 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA22405_00-GARTENOFBANBAN04",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA22406_00",
     "conceptId": 10010730,
     "name": "Garten of Banban 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA22406_00-GARTENOFBANBAN04",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA22407_00",
     "conceptId": 10010730,
     "name": "Garten of Banban 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA22407_00-GARTENOFBANBAN04",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA22418_00",
@@ -89784,12 +89856,20 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA23071_00",
+    "conceptId": 10011000,
+    "name": "Cazzarion: Star Collector",
+    "contentId": "UB0438-PPSA23071_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
+  },
+  {
     "titleId": "PPSA23072_00",
     "conceptId": 10011000,
     "name": "Cazzarion: Star Collector",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA23072_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA23111_00",
@@ -89976,6 +90056,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23378_00",
+    "conceptId": 10011161,
+    "name": "Cazzarion: Tank Killer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23397_00",
     "conceptId": 10001326,
     "name": "Sushi Break Head to Head",
@@ -90022,6 +90110,22 @@
     "contentId": "HB0405-PPSA23412_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23429_00",
+    "conceptId": 10010119,
+    "name": "Worm War",
+    "contentId": "UP2136-PPSA23429_00-0001697192476937",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA23431_00",
+    "conceptId": 10010119,
+    "name": "Worm War",
+    "contentId": "EP4476-PPSA23431_00-0391741872657863",
+    "region": "EP",
+    "publisherId": "EP4476"
   },
   {
     "titleId": "PPSA23434_00",
