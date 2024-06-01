@@ -37304,6 +37304,14 @@
     "publisherId": "HP9000"
   },
   {
+    "titleId": "PPSA08708_00",
+    "conceptId": 10005529,
+    "name": "SILENT HILL 2",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA08711_00",
     "conceptId": 10005528,
     "name": "DARQ Ultimate Edition",
@@ -37491,9 +37499,9 @@
     "titleId": "PPSA08742_00",
     "conceptId": 10005544,
     "name": "Astor: Blade of the Monolith",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0131-PPSA08742_00-ASTORBLADE000000",
+    "region": "EP",
+    "publisherId": "EP0131"
   },
   {
     "titleId": "PPSA08748_00",
@@ -58680,6 +58688,14 @@
     "publisherId": "UP1594"
   },
   {
+    "titleId": "PPSA13855_00",
+    "conceptId": 10005596,
+    "name": "Nuclear Blaze",
+    "contentId": "EP5098-PPSA13855_00-0411212671601709",
+    "region": "EP",
+    "publisherId": "EP5098"
+  },
+  {
     "titleId": "PPSA13857_00",
     "conceptId": 10007383,
     "name": "Black Skylands",
@@ -71106,10 +71122,10 @@
   {
     "titleId": "PPSA17062_00",
     "conceptId": 10008602,
-    "name": "Umbraclaw",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u4e5d\u9b42\u306e\u4e45\u9060",
+    "contentId": "JP1368-PPSA17062_00-QON00000APPJP000",
+    "region": "JP",
+    "publisherId": "JP1368"
   },
   {
     "titleId": "PPSA17063_00",
@@ -71123,9 +71139,9 @@
     "titleId": "PPSA17064_00",
     "conceptId": 10008602,
     "name": "Umbraclaw",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1095-PPSA17064_00-QON00000APPEU000",
+    "region": "EP",
+    "publisherId": "EP1095"
   },
   {
     "titleId": "PPSA17065_00",
@@ -73290,8 +73306,8 @@
   {
     "titleId": "PPSA17630_00",
     "conceptId": 10008874,
-    "name": "F1\u00ae 24 Champions Edition + Limited Time Bonus",
-    "contentId": null,
+    "name": "F1\u00ae 24",
+    "contentId": "UP0006-PPSA17630_00-F12024PS5GAME000",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -77016,6 +77032,14 @@
     "publisherId": "UP5831"
   },
   {
+    "titleId": "PPSA18623_00",
+    "conceptId": 10008989,
+    "name": "Seed of Life",
+    "contentId": "EP8023-PPSA18623_00-SEEDOFLIFEPS5EUR",
+    "region": "EP",
+    "publisherId": "EP8023"
+  },
+  {
     "titleId": "PPSA18626_00",
     "conceptId": 10009252,
     "name": "Little Cities: Bigger!",
@@ -77462,6 +77486,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP3095"
+  },
+  {
+    "titleId": "PPSA18746_00",
+    "conceptId": 10002695,
+    "name": "Concord\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18758_00",
@@ -78875,9 +78907,9 @@
     "titleId": "PPSA19113_00",
     "conceptId": 10009410,
     "name": "SAY A PRAYER\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3511-PPSA19113_00-0214201306192011",
+    "region": "UP",
+    "publisherId": "UP3511"
   },
   {
     "titleId": "PPSA19115_00",
@@ -81819,17 +81851,17 @@
     "titleId": "PPSA19861_00",
     "conceptId": 10009694,
     "name": "SKELER BOY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19861_00-SKELERBOYRATAGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA19862_00",
     "conceptId": 10009694,
     "name": "SKELER BOY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA19862_00-SKELERBOYRATAGAM",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19867_00",
@@ -84214,6 +84246,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP7809"
+  },
+  {
+    "titleId": "PPSA20520_00",
+    "conceptId": 10008079,
+    "name": "Phantom Fury",
+    "contentId": "EP5640-PPSA20520_00-PHANTOMFURYGAME1",
+    "region": "EP",
+    "publisherId": "EP5640"
   },
   {
     "titleId": "PPSA20521_00",
@@ -86819,33 +86859,33 @@
     "titleId": "PPSA21496_00",
     "conceptId": 10010380,
     "name": "Marble Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA21496_00-0269471799885565",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA21497_00",
     "conceptId": 10010380,
     "name": "Marble Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA21497_00-0478610251125772",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA21498_00",
     "conceptId": 10010380,
     "name": "Marble Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA21498_00-0538076429032740",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA21499_00",
     "conceptId": 10010380,
     "name": "Marble Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA21499_00-0530498481381008",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA21515_00",
@@ -88528,6 +88568,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA22249_00",
+    "conceptId": 10009057,
+    "name": "Master Detective Archives: RAIN CODE Plus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22263_00",
     "conceptId": 10010580,
     "name": "\u5984\u60f3\u51f6\u30b6\u30ca\u30c8\u30ea\u30a6\u30e0",
@@ -89067,17 +89115,17 @@
     "titleId": "PPSA22542_00",
     "conceptId": 10010786,
     "name": "Project 13",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA22542_00-0784823407059365",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA22543_00",
     "conceptId": 10010786,
     "name": "Project 13",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA22543_00-0923574954558880",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA22552_00",
@@ -90160,6 +90208,22 @@
     "publisherId": "HB0669"
   },
   {
+    "titleId": "PPSA23438_00",
+    "conceptId": 10001554,
+    "name": "Donut Break",
+    "contentId": "JP0089-PPSA23438_00-0302353328764201",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA23440_00",
+    "conceptId": 10011193,
+    "name": "Difficult Climbing Game",
+    "contentId": "UP5682-PPSA23440_00-0159138770074166",
+    "region": "UP",
+    "publisherId": "UP5682"
+  },
+  {
     "titleId": "PPSA23446_00",
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
@@ -90259,6 +90323,14 @@
     "titleId": "PPSA23762_00",
     "conceptId": 10010839,
     "name": "Cazzarion: Whack A Zombie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23785_00",
+    "conceptId": 10011389,
+    "name": "Fridge Escape",
     "contentId": null,
     "region": null,
     "publisherId": null
