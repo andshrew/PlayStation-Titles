@@ -50568,6 +50568,14 @@
     "publisherId": "UP6213"
   },
   {
+    "titleId": "PPSA10944_00",
+    "conceptId": 10006403,
+    "name": "Deathwish Enforcers",
+    "contentId": "UP6893-PPSA10944_00-DEATHWISHENFORCE",
+    "region": "UP",
+    "publisherId": "UP6893"
+  },
+  {
     "titleId": "PPSA10945_00",
     "conceptId": 10006403,
     "name": "Deathwish Enforcers",
@@ -55536,6 +55544,14 @@
     "publisherId": "UP1477"
   },
   {
+    "titleId": "PPSA12772_00",
+    "conceptId": 10006999,
+    "name": "Horizon Chase 2",
+    "contentId": "EP1464-PPSA12772_00-HORIZONCHASE2000",
+    "region": "EP",
+    "publisherId": "EP1464"
+  },
+  {
     "titleId": "PPSA13183_00",
     "conceptId": 10006222,
     "name": "PREAMBLE",
@@ -58694,6 +58710,14 @@
     "contentId": "EP5098-PPSA13855_00-0411212671601709",
     "region": "EP",
     "publisherId": "EP5098"
+  },
+  {
+    "titleId": "PPSA13856_00",
+    "conceptId": 10005596,
+    "name": "Nuclear Blaze",
+    "contentId": "UP4912-PPSA13856_00-0767078876793348",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA13857_00",
@@ -64686,6 +64710,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15627_00",
+    "conceptId": 10008079,
+    "name": "Phantom Fury",
+    "contentId": "UP5459-PPSA15627_00-PHANTOMFURYGAME1",
+    "region": "UP",
+    "publisherId": "UP5459"
   },
   {
     "titleId": "PPSA15630_00",
@@ -71131,9 +71163,9 @@
     "titleId": "PPSA17063_00",
     "conceptId": 10008602,
     "name": "Umbraclaw",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1104-PPSA17063_00-QON00000APPUS000",
+    "region": "UP",
+    "publisherId": "UP1104"
   },
   {
     "titleId": "PPSA17064_00",
@@ -74314,10 +74346,10 @@
   {
     "titleId": "PPSA17891_00",
     "conceptId": 10008939,
-    "name": "TOKYO PSYCHODEMIC",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u6771\u4eac\u30b5\u30a4\u30b3\u30c7\u30df\u30c3\u30af\u3000\uff5e\u516c\u5b89\u8abf\u67fb\u5e81\u7279\u5225\u4e8b\u8c61\u79d1\u5b66\u60c5\u5831\u5206\u6790\u5ba4\u3000\u7279\u6b8a\u635c\u67fb\u4e8b\u4ef6\u7c3f\uff5e",
+    "contentId": "JP7583-PPSA17891_00-0172652807358891",
+    "region": "JP",
+    "publisherId": "JP7583"
   },
   {
     "titleId": "PPSA17895_00",
@@ -77766,6 +77798,14 @@
     "contentId": "HP5846-PPSA18830_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA18831_00",
+    "conceptId": 10008989,
+    "name": "Seed of Life",
+    "contentId": "JP5669-PPSA18831_00-SEEDOFLIFEPS5JPN",
+    "region": "JP",
+    "publisherId": "JP5669"
   },
   {
     "titleId": "PPSA18832_00",
@@ -86504,6 +86544,14 @@
     "publisherId": "HP0874"
   },
   {
+    "titleId": "PPSA21361_00",
+    "conceptId": 10010315,
+    "name": "Hidden Cats in Paris",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21371_00",
     "conceptId": 10010317,
     "name": "Lost & Found Agency Collector's Edition",
@@ -90216,6 +90264,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA23439_00",
+    "conceptId": 10001554,
+    "name": "Sushi Break",
+    "contentId": "HP4312-PPSA23439_00-0877613851513193",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA23440_00",
     "conceptId": 10011193,
     "name": "Difficult Climbing Game",
@@ -90320,12 +90376,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23761_00",
+    "conceptId": 10010839,
+    "name": "Cazzarion: Whack A Zombie",
+    "contentId": "JB0377-PPSA23761_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
     "titleId": "PPSA23762_00",
     "conceptId": 10010839,
     "name": "Cazzarion: Whack A Zombie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA23762_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA23785_00",
