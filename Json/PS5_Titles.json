@@ -2912,6 +2912,14 @@
     "publisherId": "HP0002"
   },
   {
+    "titleId": "PPSA02054_00",
+    "conceptId": 234784,
+    "name": "Rocksmith\u2122+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02055_00",
     "conceptId": 234784,
     "name": "Rocksmith\u2122+",
@@ -50904,6 +50912,14 @@
     "publisherId": "EP1430"
   },
   {
+    "titleId": "PPSA11007_00",
+    "conceptId": 10006439,
+    "name": "Sword & Fairy Inn 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11009_00",
     "conceptId": 10006440,
     "name": "CyberTD",
@@ -73338,8 +73354,8 @@
   {
     "titleId": "PPSA17629_00",
     "conceptId": 10008874,
-    "name": "F1\u00ae 24 Champions Edition + Limited Time Bonus",
-    "contentId": null,
+    "name": "F1\u00ae 24",
+    "contentId": "EP0006-PPSA17629_00-F12024PS5GAME000",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -78272,6 +78288,14 @@
     "publisherId": "HB0035"
   },
   {
+    "titleId": "PPSA18931_00",
+    "conceptId": 10009321,
+    "name": "Hood Story: Kaito Yamazaki",
+    "contentId": "EB0390-PPSA18931_00-HSKYFULLGAME0000",
+    "region": "EB",
+    "publisherId": "EB0390"
+  },
+  {
     "titleId": "PPSA18936_00",
     "conceptId": 10003999,
     "name": "FINAL FANTASY VII REBIRTH DEMO",
@@ -78478,6 +78502,22 @@
     "contentId": "EP1877-PPSA18985_00-3XS8CHW5N5JER6JU",
     "region": "EP",
     "publisherId": "EP1877"
+  },
+  {
+    "titleId": "PPSA18986_00",
+    "conceptId": 10001886,
+    "name": "The Legend of Heroes: Trails through Daybreak",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18987_00",
+    "conceptId": 10001886,
+    "name": "The Legend of Heroes: Trails through Daybreak",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18988_00",
@@ -89480,6 +89520,22 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA22674_00",
+    "conceptId": 10010834,
+    "name": "Spin the Book",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22675_00",
+    "conceptId": 10010834,
+    "name": "Spin the Book",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22681_00",
     "conceptId": 10010816,
     "name": "Blast Frenzy",
@@ -89912,6 +89968,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23006_00",
+    "conceptId": 10010494,
+    "name": "CLeM",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23012_00",
     "conceptId": 10010971,
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
@@ -90179,9 +90243,9 @@
     "titleId": "PPSA23373_00",
     "conceptId": 10011160,
     "name": "Cazzarion: Car Chase",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA23373_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA23374_00",
@@ -90203,9 +90267,9 @@
     "titleId": "PPSA23376_00",
     "conceptId": 10011160,
     "name": "Cazzarion: Car Chase",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA23376_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA23378_00",
@@ -90416,12 +90480,60 @@
     "publisherId": "UB0111"
   },
   {
-    "titleId": "PPSA23602_00",
-    "conceptId": 10011269,
-    "name": "Zombie Legion",
+    "titleId": "PPSA23527_00",
+    "conceptId": 10011226,
+    "name": "Football Striker 2024 - PS4 & PS5",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23528_00",
+    "conceptId": 10011226,
+    "name": "Football Striker 2024 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23529_00",
+    "conceptId": 10011226,
+    "name": "Football Striker 2024 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23530_00",
+    "conceptId": 10011226,
+    "name": "Football Striker 2024 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23602_00",
+    "conceptId": 10011269,
+    "name": "Zombie Legion",
+    "contentId": "UB0612-PPSA23602_00-0408340525023705",
+    "region": "UB",
+    "publisherId": "UB0612"
+  },
+  {
+    "titleId": "PPSA23625_00",
+    "conceptId": 10010799,
+    "name": "Cazzarion: Speed Run",
+    "contentId": "JB0377-PPSA23625_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23626_00",
+    "conceptId": 10010799,
+    "name": "Cazzarion: Speed Run",
+    "contentId": "HB0405-PPSA23626_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA23746_00",
