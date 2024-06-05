@@ -37320,6 +37320,14 @@
     "publisherId": "JP0101"
   },
   {
+    "titleId": "PPSA08709_00",
+    "conceptId": 10005529,
+    "name": "SILENT HILL 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0101"
+  },
+  {
     "titleId": "PPSA08711_00",
     "conceptId": 10005528,
     "name": "DARQ Ultimate Edition",
@@ -70424,6 +70432,14 @@
     "publisherId": "JP4676"
   },
   {
+    "titleId": "PPSA16879_00",
+    "conceptId": 10008559,
+    "name": "Go Go Jump!!!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16881_00",
     "conceptId": 10008561,
     "name": "Towers and Powers VR",
@@ -74464,6 +74480,14 @@
     "publisherId": "JP8033"
   },
   {
+    "titleId": "PPSA17927_00",
+    "conceptId": 10008988,
+    "name": "Rusty Rabbit",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP7588"
+  },
+  {
     "titleId": "PPSA17929_00",
     "conceptId": 10000385,
     "name": "Venatrix",
@@ -78224,6 +78248,14 @@
     "publisherId": "JP5849"
   },
   {
+    "titleId": "PPSA18904_00",
+    "conceptId": 235286,
+    "name": "Party Poppers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18909_00",
     "conceptId": 10009338,
     "name": "Terminal 81",
@@ -80542,6 +80574,22 @@
     "contentId": "EP1024-PPSA19457_00-SPIRITHUNTERDMII",
     "region": "EP",
     "publisherId": "EP1024"
+  },
+  {
+    "titleId": "PPSA19462_00",
+    "conceptId": 10009549,
+    "name": "Wild Bastards",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2080"
+  },
+  {
+    "titleId": "PPSA19463_00",
+    "conceptId": 10009549,
+    "name": "Wild Bastards",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1877"
   },
   {
     "titleId": "PPSA19465_00",
@@ -88680,6 +88728,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22251_00",
+    "conceptId": 10010683,
+    "name": "Horror Tales: The Beggar",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22252_00",
+    "conceptId": 10010683,
+    "name": "Horror Tales: The Beggar",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22263_00",
     "conceptId": 10010580,
     "name": "\u5984\u60f3\u51f6\u30b6\u30ca\u30c8\u30ea\u30a6\u30e0",
@@ -89811,9 +89875,9 @@
     "titleId": "PPSA22829_00",
     "conceptId": 10010908,
     "name": "Ghost Teen Escape from Limbo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA22829_00-GHOSTTEENESCAPE0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA22830_00",
@@ -90048,6 +90112,22 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA23064_00",
+    "conceptId": 10010994,
+    "name": "True Colours - A Date With Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23065_00",
+    "conceptId": 10010994,
+    "name": "True Colours - A Date With Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23071_00",
     "conceptId": 10011000,
     "name": "Cazzarion: Star Collector",
@@ -90218,10 +90298,10 @@
   {
     "titleId": "PPSA23345_00",
     "conceptId": 10004289,
-    "name": "UFL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "UFL Open Beta",
+    "contentId": "UP7452-PPSA23345_00-0706355352318859",
+    "region": "UP",
+    "publisherId": "UP7452"
   },
   {
     "titleId": "PPSA23352_00",
@@ -90538,10 +90618,10 @@
   {
     "titleId": "PPSA23746_00",
     "conceptId": 10011368,
-    "name": "Bad Birds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bad Birds!",
+    "contentId": "EB0792-PPSA23746_00-BADBIRDS00000000",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA23761_00",
@@ -90563,6 +90643,14 @@
     "titleId": "PPSA23785_00",
     "conceptId": 10011389,
     "name": "Fridge Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23848_00",
+    "conceptId": 10011424,
+    "name": "Light Snake",
     "contentId": null,
     "region": null,
     "publisherId": null
