@@ -25112,6 +25112,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA06478_00",
+    "conceptId": 10004488,
+    "name": "Dig or Die",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06479_00",
     "conceptId": 10004423,
     "name": "Tour de France 2022",
@@ -37326,6 +37334,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0101"
+  },
+  {
+    "titleId": "PPSA08710_00",
+    "conceptId": 10005529,
+    "name": "SILENT HILL 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA08711_00",
@@ -50921,6 +50937,14 @@
   },
   {
     "titleId": "PPSA11007_00",
+    "conceptId": 10006439,
+    "name": "Sword & Fairy Inn 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA11008_00",
     "conceptId": 10006439,
     "name": "Sword & Fairy Inn 2",
     "contentId": null,
@@ -70432,6 +70456,14 @@
     "publisherId": "JP4676"
   },
   {
+    "titleId": "PPSA16878_00",
+    "conceptId": 10008559,
+    "name": "Go Go Jump!!!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16879_00",
     "conceptId": 10008559,
     "name": "Go Go Jump!!!",
@@ -74480,6 +74512,22 @@
     "publisherId": "JP8033"
   },
   {
+    "titleId": "PPSA17925_00",
+    "conceptId": 10008988,
+    "name": "Rusty Rabbit",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7562"
+  },
+  {
+    "titleId": "PPSA17926_00",
+    "conceptId": 10008988,
+    "name": "Rusty Rabbit",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP7543"
+  },
+  {
     "titleId": "PPSA17927_00",
     "conceptId": 10008988,
     "name": "Rusty Rabbit",
@@ -74830,6 +74878,14 @@
     "contentId": "JP9000-PPSA17996_00-SIPS600290000000",
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA17998_00",
+    "conceptId": 10008008,
+    "name": "\u30d5\u30ed\u30e0\u30b9\u30da\u30fc\u30b9",
+    "contentId": "JP7741-PPSA17998_00-0000FROMSPACEPS5",
+    "region": "JP",
+    "publisherId": "JP7741"
   },
   {
     "titleId": "PPSA18000_00",
@@ -75934,6 +75990,14 @@
     "contentId": "UP6624-PPSA18273_00-XXXXXXXXXXXXXXXX",
     "region": "UP",
     "publisherId": "UP6624"
+  },
+  {
+    "titleId": "PPSA18287_00",
+    "conceptId": 10009066,
+    "name": "OCTOPATH TRAVELER",
+    "contentId": "EP0082-PPSA18287_00-OCTOPATH1PS5E000",
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA18293_00",
@@ -81432,6 +81496,14 @@
     "publisherId": "UP3483"
   },
   {
+    "titleId": "PPSA19727_00",
+    "conceptId": 10009134,
+    "name": "\u6771\u65b9\u30b9\u30da\u30eb\u30ab\u30fc\u30cb\u30d0\u30eb \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0031-PPSA19727_00-TH2SCSOUNDTRACK0",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
     "titleId": "PPSA19728_00",
     "conceptId": 10008369,
     "name": "STAR WARS\u2122: Dark Forces Remaster",
@@ -86195,17 +86267,17 @@
     "titleId": "PPSA21184_00",
     "conceptId": 10009807,
     "name": "Motorcycle Mechanic Simulator 2021",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA21184_00-0112012416974698",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA21185_00",
     "conceptId": 10009807,
     "name": "Motorcycle Mechanic Simulator 2021",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5805-PPSA21185_00-0332595722780853",
+    "region": "UP",
+    "publisherId": "UP5805"
   },
   {
     "titleId": "PPSA21187_00",
@@ -86954,8 +87026,8 @@
   {
     "titleId": "PPSA21458_00",
     "conceptId": 10010362,
-    "name": "The Smurfs - Village Party PS4 & PS5",
-    "contentId": null,
+    "name": "The Smurfs - Village Party",
+    "contentId": "EP4295-PPSA21458_00-SMURFSPARTYPS5EU",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -89064,6 +89136,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22424_00",
+    "conceptId": 10010705,
+    "name": "Shopping Clutter: Halloween Mystery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22425_00",
+    "conceptId": 10010705,
+    "name": "Shopping Clutter: Halloween Mystery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22427_00",
+    "conceptId": 10010706,
+    "name": "Shopping Clutter: Spring Blossom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22460_00",
     "conceptId": 10010259,
     "name": "Mecha Party",
@@ -89102,6 +89198,22 @@
     "contentId": "EP6168-PPSA22474_00-0214510173344578",
     "region": "EP",
     "publisherId": "EP6168"
+  },
+  {
+    "titleId": "PPSA22475_00",
+    "conceptId": 10010753,
+    "name": "The Ouroboros King",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22476_00",
+    "conceptId": 10010753,
+    "name": "The Ouroboros King",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22477_00",
@@ -89635,9 +89747,9 @@
     "titleId": "PPSA22700_00",
     "conceptId": 10010848,
     "name": "Detective - Minerva Case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA22700_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA22701_00",
@@ -89883,9 +89995,9 @@
     "titleId": "PPSA22830_00",
     "conceptId": 10010908,
     "name": "Ghost Teen Escape from Limbo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA22830_00-GHOSTTEENESCAPE0",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA22854_00",
@@ -90600,6 +90712,14 @@
     "publisherId": "UB0612"
   },
   {
+    "titleId": "PPSA23603_00",
+    "conceptId": 10011270,
+    "name": "Sky Dunk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23625_00",
     "conceptId": 10010799,
     "name": "Cazzarion: Speed Run",
@@ -90614,6 +90734,30 @@
     "contentId": "HB0405-PPSA23626_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23627_00",
+    "conceptId": 10010822,
+    "name": "Cazzarion: Forest Defense",
+    "contentId": "JB0377-PPSA23627_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23628_00",
+    "conceptId": 10010822,
+    "name": "Cazzarion: Forest Defense",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23727_00",
+    "conceptId": 10009449,
+    "name": "Toy Trains",
+    "contentId": "JP8422-PPSA23727_00-TOYTRAIN00000000",
+    "region": "JP",
+    "publisherId": "JP8422"
   },
   {
     "titleId": "PPSA23746_00",
@@ -90646,6 +90790,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23834_00",
+    "conceptId": 10002695,
+    "name": "Concord\u2122",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA23848_00",
