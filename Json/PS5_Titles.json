@@ -14824,6 +14824,14 @@
     "publisherId": "EP4133"
   },
   {
+    "titleId": "PPSA04452_00",
+    "conceptId": 10003330,
+    "name": "Warhammer 40,000: Space Marine 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4133"
+  },
+  {
     "titleId": "PPSA04458_00",
     "conceptId": 10002720,
     "name": "Paradise Killer",
@@ -25110,6 +25118,14 @@
     "contentId": "JP0013-PPSA06473_00-JP0LDRAGON000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA06477_00",
+    "conceptId": 10004488,
+    "name": "Dig or Die",
+    "contentId": "UP2106-PPSA06477_00-DIGORDIEPS5NA000",
+    "region": "UP",
+    "publisherId": "UP2106"
   },
   {
     "titleId": "PPSA06478_00",
@@ -62672,6 +62688,22 @@
     "publisherId": "EP5067"
   },
   {
+    "titleId": "PPSA15064_00",
+    "conceptId": 10007859,
+    "name": "Cat Quest III",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7579"
+  },
+  {
+    "titleId": "PPSA15065_00",
+    "conceptId": 10007859,
+    "name": "Cat Quest III",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7581"
+  },
+  {
     "titleId": "PPSA15070_00",
     "conceptId": 10007860,
     "name": "The Fairy's Song",
@@ -71923,9 +71955,9 @@
     "titleId": "PPSA17214_00",
     "conceptId": 10008708,
     "name": "Downward: Enhanced Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA17214_00-DOWNARDBASEPS5EU",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA17217_00",
@@ -73776,6 +73808,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA17722_00",
+    "conceptId": 10005546,
+    "name": "99 Seconds",
+    "contentId": "JP5432-PPSA17722_00-0246059533303742",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA17727_00",
     "conceptId": 10005806,
     "name": "Shotgun King: The Final Checkmate",
@@ -74510,6 +74550,14 @@
     "contentId": "JP8033-PPSA17923_00-MYSTICPILLARSZZZ",
     "region": "JP",
     "publisherId": "JP8033"
+  },
+  {
+    "titleId": "PPSA17924_00",
+    "conceptId": 10008988,
+    "name": "Rusty Rabbit",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7564"
   },
   {
     "titleId": "PPSA17925_00",
@@ -75990,6 +76038,14 @@
     "contentId": "UP6624-PPSA18273_00-XXXXXXXXXXXXXXXX",
     "region": "UP",
     "publisherId": "UP6624"
+  },
+  {
+    "titleId": "PPSA18285_00",
+    "conceptId": 10009066,
+    "name": "\u30aa\u30af\u30c8\u30d1\u30b9\u30c8\u30e9\u30d9\u30e9\u30fc",
+    "contentId": "JP0082-PPSA18285_00-OCTOPATH1PS5J000",
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA18287_00",
@@ -77674,8 +77730,8 @@
   {
     "titleId": "PPSA18774_00",
     "conceptId": 10009210,
-    "name": "Killer Klowns from Outer Space: The Game",
-    "contentId": null,
+    "name": "Killer Klowns From Outer Space: The Game",
+    "contentId": "EP2954-PPSA18774_00-KILLERKLOWNS0001",
     "region": "EP",
     "publisherId": "EP2954"
   },
@@ -81496,6 +81552,14 @@
     "publisherId": "UP3483"
   },
   {
+    "titleId": "PPSA19726_00",
+    "conceptId": 10009134,
+    "name": "\u6771\u65b9\u30b9\u30da\u30eb\u30ab\u30fc\u30cb\u30d0\u30eb \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
+    "contentId": "JP0031-PPSA19726_00-TH2SCARTBOOK0000",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
     "titleId": "PPSA19727_00",
     "conceptId": 10009134,
     "name": "\u6771\u65b9\u30b9\u30da\u30eb\u30ab\u30fc\u30cb\u30d0\u30eb \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
@@ -82994,16 +83058,16 @@
   {
     "titleId": "PPSA20114_00",
     "conceptId": 10009776,
-    "name": "Tour de France 2024 - Standard Edition",
-    "contentId": null,
+    "name": "Tour de France 2024",
+    "contentId": "EP6665-PPSA20114_00-TDF2400000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA20115_00",
     "conceptId": 10009776,
-    "name": "Tour de France 2024 - Standard Edition",
-    "contentId": null,
+    "name": "Tour de France 2024",
+    "contentId": "UP6665-PPSA20115_00-TDF2400000000000",
     "region": "UP",
     "publisherId": "UP6665"
   },
@@ -85752,6 +85816,22 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA20993_00",
+    "conceptId": 10010168,
+    "name": "The Jumping Alphabet Soup - DEMO",
+    "contentId": "JP6595-PPSA20993_00-0965762624765981",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA20994_00",
+    "conceptId": 10010168,
+    "name": "The Jumping Alphabet Soup - DEMO",
+    "contentId": "HP6661-PPSA20994_00-0421010271619882",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA20995_00",
     "conceptId": 10010171,
     "name": "Power Racing Bundle",
@@ -86920,6 +87000,22 @@
     "publisherId": "EP5133"
   },
   {
+    "titleId": "PPSA21411_00",
+    "conceptId": 10010338,
+    "name": "Frogun Encore",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21412_00",
+    "conceptId": 10010338,
+    "name": "Frogun Encore",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21426_00",
     "conceptId": 10004929,
     "name": "Time Rift",
@@ -87034,8 +87130,8 @@
   {
     "titleId": "PPSA21459_00",
     "conceptId": 10010362,
-    "name": "The Smurfs - Village Party PS4 & PS5",
-    "contentId": null,
+    "name": "The Smurfs - Village Party",
+    "contentId": "UP1475-PPSA21459_00-SMURFSPARTYPS5US",
     "region": "UP",
     "publisherId": "UP1475"
   },
@@ -87222,6 +87318,14 @@
     "contentId": "UB0157-PPSA21554_00-0098384937175788",
     "region": "UB",
     "publisherId": "UB0157"
+  },
+  {
+    "titleId": "PPSA21567_00",
+    "conceptId": 10002684,
+    "name": "ASTRO BOT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21569_00",
@@ -87782,6 +87886,22 @@
     "contentId": "HP7379-PPSA21741_00-0561470384669663",
     "region": "HP",
     "publisherId": "HP7379"
+  },
+  {
+    "titleId": "PPSA21750_00",
+    "conceptId": 10010480,
+    "name": "Everafter Falls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21751_00",
+    "conceptId": 10010480,
+    "name": "Everafter Falls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21759_00",
@@ -89136,6 +89256,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22422_00",
+    "conceptId": 10010707,
+    "name": "Shopping Clutter Winter Break",
+    "contentId": "UB0429-PPSA22422_00-0282531436178026",
+    "region": "UB",
+    "publisherId": "UB0429"
+  },
+  {
     "titleId": "PPSA22424_00",
     "conceptId": 10010705,
     "name": "Shopping Clutter: Halloween Mystery",
@@ -89146,18 +89274,26 @@
   {
     "titleId": "PPSA22425_00",
     "conceptId": 10010705,
-    "name": "Shopping Clutter: Halloween Mystery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shopping Clutter Halloween Mystery",
+    "contentId": "EB0620-PPSA22425_00-0505581554101508",
+    "region": "EB",
+    "publisherId": "EB0620"
+  },
+  {
+    "titleId": "PPSA22426_00",
+    "conceptId": 10010706,
+    "name": "Shopping Clutter Spring Blossom",
+    "contentId": "UB0429-PPSA22426_00-0371521508436143",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA22427_00",
     "conceptId": 10010706,
-    "name": "Shopping Clutter: Spring Blossom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shopping Clutter Spring Blossom",
+    "contentId": "EB0620-PPSA22427_00-0422835258735133",
+    "region": "EB",
+    "publisherId": "EB0620"
   },
   {
     "titleId": "PPSA22460_00",
@@ -89755,9 +89891,9 @@
     "titleId": "PPSA22701_00",
     "conceptId": 10010848,
     "name": "Detective - Minerva Case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA22701_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA22730_00",
@@ -90040,6 +90176,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22890_00",
+    "conceptId": 10010749,
+    "name": "Dead Station 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22891_00",
+    "conceptId": 10010749,
+    "name": "Dead Station 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22892_00",
+    "conceptId": 10010749,
+    "name": "Dead Station 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22893_00",
+    "conceptId": 10010749,
+    "name": "Dead Station 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22910_00",
     "conceptId": 10010569,
     "name": "Cazzarion: Astro Bouncer",
@@ -90086,6 +90254,14 @@
     "contentId": "HB0669-PPSA22928_00-0722049569067682",
     "region": "HB",
     "publisherId": "HB0669"
+  },
+  {
+    "titleId": "PPSA22955_00",
+    "conceptId": 10007606,
+    "name": "Pombero: The Lord of the Night",
+    "contentId": "HP5142-PPSA22955_00-0515354736646226",
+    "region": "HP",
+    "publisherId": "HP5142"
   },
   {
     "titleId": "PPSA22960_00",
@@ -90408,6 +90584,22 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA23298_00",
+    "conceptId": 10000666,
+    "name": "Sushi Break",
+    "contentId": "JP0089-PPSA23298_00-0792209160390154",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA23334_00",
+    "conceptId": 10010550,
+    "name": "Brick Buster",
+    "contentId": "JP8693-PPSA23334_00-0794833951182483",
+    "region": "JP",
+    "publisherId": "JP8693"
+  },
+  {
     "titleId": "PPSA23345_00",
     "conceptId": 10004289,
     "name": "UFL Open Beta",
@@ -90470,6 +90662,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23381_00",
+    "conceptId": 10010550,
+    "name": "Brick Buster",
+    "contentId": "HP8737-PPSA23381_00-0588502564675062",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA23397_00",
@@ -90592,6 +90792,22 @@
     "publisherId": "UP5682"
   },
   {
+    "titleId": "PPSA23443_00",
+    "conceptId": 10011195,
+    "name": "Local News with Cliff Rockslide",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23444_00",
+    "conceptId": 10011195,
+    "name": "Local News with Cliff Rockslide",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23446_00",
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
@@ -90704,6 +90920,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23571_00",
+    "conceptId": 10011251,
+    "name": "Cazzarion: Coin Pilot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23602_00",
     "conceptId": 10011269,
     "name": "Zombie Legion",
@@ -90747,9 +90971,9 @@
     "titleId": "PPSA23628_00",
     "conceptId": 10010822,
     "name": "Cazzarion: Forest Defense",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA23628_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA23727_00",
@@ -90803,6 +91027,14 @@
     "titleId": "PPSA23848_00",
     "conceptId": 10011424,
     "name": "Light Snake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23880_00",
+    "conceptId": 10011436,
+    "name": "Poopy Time",
     "contentId": null,
     "region": null,
     "publisherId": null
