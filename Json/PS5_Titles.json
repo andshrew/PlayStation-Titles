@@ -2923,9 +2923,9 @@
     "titleId": "PPSA02055_00",
     "conceptId": 234784,
     "name": "Rocksmith\u2122+",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0001-PPSA02055_00-RS300000000000EU",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA02056_00",
@@ -37539,9 +37539,9 @@
     "titleId": "PPSA08741_00",
     "conceptId": 10005544,
     "name": "Astor: Blade of the Monolith",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0134-PPSA08741_00-ASTORBLADE000000",
+    "region": "UP",
+    "publisherId": "UP0134"
   },
   {
     "titleId": "PPSA08742_00",
@@ -62896,6 +62896,14 @@
     "publisherId": "HP0036"
   },
   {
+    "titleId": "PPSA15210_00",
+    "conceptId": 10007902,
+    "name": "DRAGON BALL: Sparking! ZERO",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA15215_00",
     "conceptId": 10007203,
     "name": "Tin Can",
@@ -71947,9 +71955,9 @@
     "titleId": "PPSA17213_00",
     "conceptId": 10008708,
     "name": "Downward: Enhanced Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA17213_00-DOWNARDBASEPS5US",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA17214_00",
@@ -76202,10 +76210,10 @@
   {
     "titleId": "PPSA18338_00",
     "conceptId": 10009134,
-    "name": "Touhou Spell Carnival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u6771\u65b9\u30b9\u30da\u30eb\u30ab\u30fc\u30cb\u30d0\u30eb",
+    "contentId": "JP0031-PPSA18338_00-TH2SPELLCARNIVAL",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA18351_00",
@@ -77682,8 +77690,8 @@
   {
     "titleId": "PPSA18743_00",
     "conceptId": 10009210,
-    "name": "Killer Klowns from Outer Space: The Game",
-    "contentId": null,
+    "name": "Killer Klowns From Outer Space: The Game",
+    "contentId": "UP3095-PPSA18743_00-KILLERKLOWNS0001",
     "region": "UP",
     "publisherId": "UP3095"
   },
@@ -81088,6 +81096,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA19577_00",
+    "conceptId": 10008719,
+    "name": "Kunitsu-Gami: Path of the Goddess PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0102"
+  },
+  {
     "titleId": "PPSA19579_00",
     "conceptId": 10004749,
     "name": "Car Mechanic Simulator VR",
@@ -82475,6 +82491,14 @@
     "titleId": "PPSA19955_00",
     "conceptId": 10008034,
     "name": "THRONE AND LIBERTY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19957_00",
+    "conceptId": 10009727,
+    "name": "Spot The Differences! Party",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -84608,6 +84632,22 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA20546_00",
+    "conceptId": 10005318,
+    "name": "The First Descendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20547_00",
+    "conceptId": 10005318,
+    "name": "The First Descendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20549_00",
     "conceptId": 10009763,
     "name": "Zenless Zone Zero",
@@ -85094,6 +85134,14 @@
     "contentId": "UP0891-PPSA20710_00-SUPERDESTROLXLRG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA20711_00",
+    "conceptId": 10010048,
+    "name": "VALORANT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20720_00",
@@ -85814,6 +85862,22 @@
     "contentId": "HP6661-PPSA20990_00-0003062251999696",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA20991_00",
+    "conceptId": 10010168,
+    "name": "The Jumping Alphabet Soup - DEMO",
+    "contentId": "EP6664-PPSA20991_00-0192602146591142",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA20992_00",
+    "conceptId": 10010168,
+    "name": "The Jumping Alphabet Soup - DEMO",
+    "contentId": "UP6664-PPSA20992_00-0163911341270375",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA20993_00",
@@ -87320,12 +87384,36 @@
     "publisherId": "UB0157"
   },
   {
+    "titleId": "PPSA21559_00",
+    "conceptId": 10002684,
+    "name": "\u30a2\u30b9\u30c8\u30ed\u30dc\u30c3\u30c8",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA21564_00",
+    "conceptId": 10002684,
+    "name": "ASTRO BOT",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA21567_00",
     "conceptId": 10002684,
     "name": "ASTRO BOT",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA21568_00",
+    "conceptId": 10002684,
+    "name": "ASTRO BOT",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA21569_00",
@@ -87835,17 +87923,17 @@
     "titleId": "PPSA21714_00",
     "conceptId": 10010464,
     "name": "Rider's Spirits",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA21714_00-RIDERSSPIRITSRAG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA21715_00",
     "conceptId": 10010464,
     "name": "Rider's Spirits",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA21715_00-RIDERSSPIRITSRAG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA21718_00",
@@ -88808,6 +88896,38 @@
     "publisherId": "HP1212"
   },
   {
+    "titleId": "PPSA22195_00",
+    "conceptId": 10010659,
+    "name": "Glowface",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22196_00",
+    "conceptId": 10010659,
+    "name": "Glowface",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22197_00",
+    "conceptId": 10010659,
+    "name": "Glowface",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22198_00",
+    "conceptId": 10010659,
+    "name": "Glowface",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22223_00",
     "conceptId": 10010667,
     "name": "Retropolis 2: Never Say Goodbye",
@@ -88974,6 +89094,14 @@
     "contentId": "EP0917-PPSA22308_00-0337764291796146",
     "region": "EP",
     "publisherId": "EP0917"
+  },
+  {
+    "titleId": "PPSA22329_00",
+    "conceptId": 10010480,
+    "name": "Everafter Falls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22338_00",
@@ -89264,12 +89392,20 @@
     "publisherId": "UB0429"
   },
   {
+    "titleId": "PPSA22423_00",
+    "conceptId": 10010707,
+    "name": "Shopping Clutter Winter Break",
+    "contentId": "EB0620-PPSA22423_00-0269990861134123",
+    "region": "EB",
+    "publisherId": "EB0620"
+  },
+  {
     "titleId": "PPSA22424_00",
     "conceptId": 10010705,
-    "name": "Shopping Clutter: Halloween Mystery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shopping Clutter Halloween Mystery",
+    "contentId": "UB0429-PPSA22424_00-0799076070100968",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA22425_00",
@@ -89896,6 +90032,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA22727_00",
+    "conceptId": 10010784,
+    "name": "How to Sing to Open Your Heart Remastered PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22730_00",
     "conceptId": 10010816,
     "name": "Blast Frenzy",
@@ -89931,17 +90075,17 @@
     "titleId": "PPSA22734_00",
     "conceptId": 10010872,
     "name": "Guess the Door",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA22734_00-0084048556792871",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA22735_00",
     "conceptId": 10010872,
     "name": "Guess the Door",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA22735_00-0992428424178150",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA22741_00",
@@ -90584,6 +90728,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA23297_00",
+    "conceptId": 10000666,
+    "name": "Sushi Break",
+    "contentId": "HP4312-PPSA23297_00-0961962040522557",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA23298_00",
     "conceptId": 10000666,
     "name": "Sushi Break",
@@ -90890,34 +91042,34 @@
   {
     "titleId": "PPSA23527_00",
     "conceptId": 10011226,
-    "name": "Football Striker 2024 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football Striker 2024",
+    "contentId": "EP6664-PPSA23527_00-0951904886919431",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA23528_00",
     "conceptId": 10011226,
-    "name": "Football Striker 2024 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football Striker 2024",
+    "contentId": "UP6664-PPSA23528_00-0132472276866209",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA23529_00",
     "conceptId": 10011226,
-    "name": "Football Striker 2024 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football Striker 2024",
+    "contentId": "JP6595-PPSA23529_00-0927254664480572",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA23530_00",
     "conceptId": 10011226,
-    "name": "Football Striker 2024 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football Striker 2024",
+    "contentId": "HP6661-PPSA23530_00-0911488194376525",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA23571_00",
@@ -90942,6 +91094,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23623_00",
+    "conceptId": 10010790,
+    "name": "Cazzarion: Pop The Bubble",
+    "contentId": "JB0377-PPSA23623_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
   },
   {
     "titleId": "PPSA23625_00",
@@ -91011,9 +91171,9 @@
     "titleId": "PPSA23785_00",
     "conceptId": 10011389,
     "name": "Fridge Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA23785_00-0081808876446317",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA23834_00",
@@ -91030,6 +91190,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23863_00",
+    "conceptId": 10010890,
+    "name": "Cazzarion: Robot Rush",
+    "contentId": "HB0405-PPSA23863_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23864_00",
+    "conceptId": 10010890,
+    "name": "Cazzarion: Robot Rush",
+    "contentId": "JB0377-PPSA23864_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
   },
   {
     "titleId": "PPSA23880_00",
