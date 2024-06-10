@@ -24296,6 +24296,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA06326_00",
+    "conceptId": 10004231,
+    "name": "CYGNI: All Guns Blazing",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA06327_00",
     "conceptId": 10004401,
     "name": "Arkanoid - Eternal Battle",
@@ -62896,6 +62904,22 @@
     "publisherId": "HP0036"
   },
   {
+    "titleId": "PPSA15207_00",
+    "conceptId": 10007902,
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb Sparking! ZERO",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA15208_00",
+    "conceptId": 10007902,
+    "name": "DRAGON BALL: Sparking! ZERO",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA15210_00",
     "conceptId": 10007902,
     "name": "DRAGON BALL: Sparking! ZERO",
@@ -63078,6 +63102,14 @@
     "contentId": "EP4829-PPSA15257_00-BIGBREAKAWAY0000",
     "region": "EP",
     "publisherId": "EP4829"
+  },
+  {
+    "titleId": "PPSA15258_00",
+    "conceptId": 10007590,
+    "name": "Volgarr the Viking II",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7818"
   },
   {
     "titleId": "PPSA15260_00",
@@ -73390,6 +73422,14 @@
     "contentId": "HP6478-PPSA17594_00-GRIMORIOOFGAMES0",
     "region": "HP",
     "publisherId": "HP6478"
+  },
+  {
+    "titleId": "PPSA17597_00",
+    "conceptId": 10008755,
+    "name": "SONIC X SHADOW GENERATIONS PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA17601_00",
@@ -85192,6 +85232,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA20707_00",
+    "conceptId": 10010063,
+    "name": "Pogo Stick Champion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20709_00",
     "conceptId": 10010064,
     "name": "Super Destronaut Landed X Loaded",
@@ -90928,6 +90976,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23379_00",
+    "conceptId": 10011161,
+    "name": "Cazzarion: Tank Killer",
+    "contentId": "JB0377-PPSA23379_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23380_00",
+    "conceptId": 10011161,
+    "name": "Cazzarion: Tank Killer",
+    "contentId": "HB0405-PPSA23380_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
     "titleId": "PPSA23381_00",
     "conceptId": 10010550,
     "name": "Brick Buster",
@@ -91107,9 +91171,9 @@
     "titleId": "PPSA23456_00",
     "conceptId": 10011204,
     "name": "Super Ninja Miner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8623-PPSA23456_00-0171684171174900",
+    "region": "UP",
+    "publisherId": "UP8623"
   },
   {
     "titleId": "PPSA23476_00",
@@ -91203,9 +91267,9 @@
     "titleId": "PPSA23571_00",
     "conceptId": 10011251,
     "name": "Cazzarion: Coin Pilot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA23571_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA23572_00",
@@ -91219,9 +91283,9 @@
     "titleId": "PPSA23573_00",
     "conceptId": 10011251,
     "name": "Cazzarion: Coin Pilot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA23573_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA23602_00",
@@ -91296,6 +91360,14 @@
     "publisherId": "EB0792"
   },
   {
+    "titleId": "PPSA23759_00",
+    "conceptId": 10011256,
+    "name": "Grand Prix Racing Universal",
+    "contentId": "UP7552-PPSA23759_00-0958493482647496",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA23761_00",
     "conceptId": 10010839,
     "name": "Cazzarion: Whack A Zombie",
@@ -91348,6 +91420,14 @@
     "conceptId": 10010890,
     "name": "Cazzarion: Robot Rush",
     "contentId": "JB0377-PPSA23864_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23865_00",
+    "conceptId": 10010916,
+    "name": "Cazzarion: Sky Flight",
+    "contentId": "JB0377-PPSA23865_00-XXXXXXXXXXXXXXXX",
     "region": "JB",
     "publisherId": "JB0377"
   },
