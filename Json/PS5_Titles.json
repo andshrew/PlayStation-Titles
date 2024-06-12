@@ -52736,6 +52736,14 @@
     "publisherId": "JP7649"
   },
   {
+    "titleId": "PPSA11302_00",
+    "conceptId": 10006536,
+    "name": "Pretty Bird 9",
+    "contentId": "HP7695-PPSA11302_00-5816083406669672",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
     "titleId": "PPSA11303_00",
     "conceptId": 10006537,
     "name": "Bilmo",
@@ -52782,6 +52790,14 @@
     "contentId": "EP7666-PPSA11311_00-0773694589832529",
     "region": "EP",
     "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA11312_00",
+    "conceptId": 10006538,
+    "name": "Flipy",
+    "contentId": "JP7649-PPSA11312_00-9874704974565606",
+    "region": "JP",
+    "publisherId": "JP7649"
   },
   {
     "titleId": "PPSA11317_00",
@@ -63171,9 +63187,9 @@
     "titleId": "PPSA15272_00",
     "conceptId": 10007912,
     "name": "Backpack Hero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7791-PPSA15272_00-0958642995703930",
+    "region": "EP",
+    "publisherId": "EP7791"
   },
   {
     "titleId": "PPSA15274_00",
@@ -67168,6 +67184,22 @@
     "publisherId": "HP1390"
   },
   {
+    "titleId": "PPSA16105_00",
+    "conceptId": 10008183,
+    "name": "Life is Strange: Double Exposure",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA16107_00",
+    "conceptId": 10008183,
+    "name": "\u30e9\u30a4\u30d5 \u30a4\u30ba \u30b9\u30c8\u30ec\u30f3\u30b8 \u30c0\u30d6\u30eb\u30a8\u30af\u30b9\u30dd\u30fc\u30b8\u30e3\u30fc",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
     "titleId": "PPSA16108_00",
     "conceptId": 10008183,
     "name": "Life is Strange: Double Exposure (TC/SC/KR Ver.)",
@@ -67414,6 +67446,14 @@
     "contentId": "EP3729-PPSA16158_00-DIEAGAIN000PS5EU",
     "region": "EP",
     "publisherId": "EP3729"
+  },
+  {
+    "titleId": "PPSA16160_00",
+    "conceptId": 10008248,
+    "name": "Monster Jam\u2122 Showdown",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16161_00",
@@ -68950,6 +68990,14 @@
     "contentId": "EP7072-PPSA16511_00-0826232777670209",
     "region": "EP",
     "publisherId": "EP7072"
+  },
+  {
+    "titleId": "PPSA16512_00",
+    "conceptId": 10003237,
+    "name": "Make Way",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16513_00",
@@ -83395,7 +83443,7 @@
     "titleId": "PPSA20153_00",
     "conceptId": 10009803,
     "name": "Slime Rancher 2",
-    "contentId": null,
+    "contentId": "EP2149-PPSA20153_00-0225081361902222",
     "region": "EP",
     "publisherId": "EP2149"
   },
@@ -85312,6 +85360,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20719_00",
+    "conceptId": 221898,
+    "name": "HBO Max",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20720_00",
     "conceptId": 10010028,
     "name": "Ready, Steady, Ship!",
@@ -86432,6 +86488,14 @@
     "publisherId": "EP4064"
   },
   {
+    "titleId": "PPSA21130_00",
+    "conceptId": 10010232,
+    "name": "CONSCRIPT",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4064"
+  },
+  {
     "titleId": "PPSA21134_00",
     "conceptId": 10010234,
     "name": "X-Force Under Attack",
@@ -86499,7 +86563,7 @@
     "titleId": "PPSA21155_00",
     "conceptId": 10007965,
     "name": "V Rising",
-    "contentId": null,
+    "contentId": "JP1076-PPSA21155_00-0000000000000001",
     "region": "JP",
     "publisherId": "JP1076"
   },
@@ -86507,7 +86571,7 @@
     "titleId": "PPSA21156_00",
     "conceptId": 10007965,
     "name": "V Rising",
-    "contentId": null,
+    "contentId": "HP0922-PPSA21156_00-0000000000000001",
     "region": "HP",
     "publisherId": "HP0922"
   },
@@ -86926,6 +86990,14 @@
     "contentId": "HP3536-PPSA21299_00-0996282416757669",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA21300_00",
+    "conceptId": 10010296,
+    "name": "Sly Raccoon",
+    "contentId": "UP9000-PPSA21300_00-SCUS971980000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA21321_00",
@@ -88680,6 +88752,14 @@
     "publisherId": "HP2486"
   },
   {
+    "titleId": "PPSA21985_00",
+    "conceptId": 10010584,
+    "name": "STAR WARS The Clone Wars",
+    "contentId": "UP1082-PPSA21985_00-SLUS205100000000",
+    "region": "UP",
+    "publisherId": "UP1082"
+  },
+  {
     "titleId": "PPSA21992_00",
     "conceptId": 10010585,
     "name": "Cazzarion: Shellfish Frenzy",
@@ -88963,7 +89043,7 @@
     "titleId": "PPSA22125_00",
     "conceptId": 10009803,
     "name": "Slime Rancher 2",
-    "contentId": null,
+    "contentId": "JP2343-PPSA22125_00-0369962475903066",
     "region": "JP",
     "publisherId": "JP2343"
   },
@@ -89798,6 +89878,22 @@
     "contentId": "EP7333-PPSA22510_00-0831828859075460",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA22513_00",
+    "conceptId": 10005724,
+    "name": "Welcome to Paradize Demo",
+    "contentId": "EP6665-PPSA22513_00-PZP00DEMO0000000",
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA22514_00",
+    "conceptId": 10005724,
+    "name": "Welcome to Paradize Demo",
+    "contentId": "UP6665-PPSA22514_00-PZP00DEMO0000000",
+    "region": "UP",
+    "publisherId": "UP6665"
   },
   {
     "titleId": "PPSA22519_00",
