@@ -23200,6 +23200,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA06104_00",
+    "conceptId": 10004231,
+    "name": "CYGNI: All Guns Blazing",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0101"
+  },
+  {
     "titleId": "PPSA06106_00",
     "conceptId": 10004263,
     "name": "Hammerwatch II",
@@ -25112,6 +25120,14 @@
     "publisherId": "UP7384"
   },
   {
+    "titleId": "PPSA06471_00",
+    "conceptId": 10004486,
+    "name": "Until Then",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06472_00",
     "conceptId": 10000588,
     "name": "Liege Dragon",
@@ -25139,9 +25155,9 @@
     "titleId": "PPSA06478_00",
     "conceptId": 10004488,
     "name": "Dig or Die",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0958-PPSA06478_00-DIGORDIEPS5EU000",
+    "region": "EP",
+    "publisherId": "EP0958"
   },
   {
     "titleId": "PPSA06479_00",
@@ -33502,6 +33518,14 @@
     "contentId": "UP4312-PPSA08050_00-7480555375187745",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA08051_00",
+    "conceptId": 10005245,
+    "name": "Dustborn Pre-Order Bundle",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1628"
   },
   {
     "titleId": "PPSA08055_00",
@@ -52688,6 +52712,22 @@
     "publisherId": "EP7666"
   },
   {
+    "titleId": "PPSA11293_00",
+    "conceptId": 10006534,
+    "name": "Cario 3",
+    "contentId": "JP7649-PPSA11293_00-5692511566022134",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA11294_00",
+    "conceptId": 10006534,
+    "name": "Cario 3",
+    "contentId": "HP7695-PPSA11294_00-5225664035888138",
+    "region": "HP",
+    "publisherId": "HP7695"
+  },
+  {
     "titleId": "PPSA11295_00",
     "conceptId": 10006535,
     "name": "Cario 4",
@@ -52710,6 +52750,14 @@
     "contentId": "JP7649-PPSA11297_00-2231368310041686",
     "region": "JP",
     "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA11298_00",
+    "conceptId": 10006535,
+    "name": "Cario 4",
+    "contentId": "HP7695-PPSA11298_00-5086336955219997",
+    "region": "HP",
+    "publisherId": "HP7695"
   },
   {
     "titleId": "PPSA11299_00",
@@ -52758,6 +52806,14 @@
     "contentId": "EP7666-PPSA11304_00-0113120709680938",
     "region": "EP",
     "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA11306_00",
+    "conceptId": 10006537,
+    "name": "Bilmo",
+    "contentId": "HP7695-PPSA11306_00-8641219373196802",
+    "region": "HP",
+    "publisherId": "HP7695"
   },
   {
     "titleId": "PPSA11307_00",
@@ -54038,6 +54094,22 @@
     "contentId": "UP1440-PPSA12358_00-1914734457969461",
     "region": "UP",
     "publisherId": "UP1440"
+  },
+  {
+    "titleId": "PPSA12359_00",
+    "conceptId": 10006849,
+    "name": "Last Night of Winter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA12360_00",
+    "conceptId": 10006849,
+    "name": "Last Night of Winter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA12361_00",
@@ -65474,8 +65546,8 @@
   {
     "titleId": "PPSA15750_00",
     "conceptId": 10006837,
-    "name": "Rocket Knight Adventures: Re-Sparked Collection PS4 & PS5",
-    "contentId": null,
+    "name": "Rocket Knight Adventures: Re-Sparked!",
+    "contentId": "EP0101-PPSA15750_00-0754189893171292",
     "region": "EP",
     "publisherId": "EP0101"
   },
@@ -67192,6 +67264,14 @@
     "publisherId": "UP0082"
   },
   {
+    "titleId": "PPSA16106_00",
+    "conceptId": 10008183,
+    "name": "Life is Strange: Double Exposure",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
     "titleId": "PPSA16107_00",
     "conceptId": 10008183,
     "name": "\u30e9\u30a4\u30d5 \u30a4\u30ba \u30b9\u30c8\u30ec\u30f3\u30b8 \u30c0\u30d6\u30eb\u30a8\u30af\u30b9\u30dd\u30fc\u30b8\u30e3\u30fc",
@@ -67923,7 +68003,7 @@
     "titleId": "PPSA16262_00",
     "conceptId": 10007965,
     "name": "V Rising",
-    "contentId": null,
+    "contentId": "EP0775-PPSA16262_00-0000000000000001",
     "region": "EP",
     "publisherId": "EP0775"
   },
@@ -67931,7 +68011,7 @@
     "titleId": "PPSA16263_00",
     "conceptId": 10007965,
     "name": "V Rising",
-    "contentId": null,
+    "contentId": "UP0779-PPSA16263_00-0000000000000001",
     "region": "UP",
     "publisherId": "UP0779"
   },
@@ -82696,6 +82776,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19959_00",
+    "conceptId": 10009727,
+    "name": "Spot The Differences : Party!",
+    "contentId": "HP4119-PPSA19959_00-3417809989211701",
+    "region": "HP",
+    "publisherId": "HP4119"
+  },
+  {
+    "titleId": "PPSA19960_00",
+    "conceptId": 10009727,
+    "name": "Spot The Differences : Party!",
+    "contentId": "JP0081-PPSA19960_00-3417809989211701",
+    "region": "JP",
+    "publisherId": "JP0081"
+  },
+  {
     "titleId": "PPSA19961_00",
     "conceptId": 10009729,
     "name": "DanMachi BATTLE CHRONICLE",
@@ -83435,7 +83531,7 @@
     "titleId": "PPSA20152_00",
     "conceptId": 10009803,
     "name": "Slime Rancher 2",
-    "contentId": null,
+    "contentId": "UP2293-PPSA20152_00-0019683213812595",
     "region": "UP",
     "publisherId": "UP2293"
   },
@@ -85784,6 +85880,22 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA20869_00",
+    "conceptId": 10009492,
+    "name": "Whacking Hell!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20870_00",
+    "conceptId": 10009492,
+    "name": "Whacking Hell!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20873_00",
     "conceptId": 10007222,
     "name": "Turbo Golf Racing",
@@ -87131,9 +87243,25 @@
     "titleId": "PPSA21362_00",
     "conceptId": 10010315,
     "name": "Hidden Cats in Paris",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA21362_00-0023723522959765",
+    "region": "EP",
+    "publisherId": "EP6985"
+  },
+  {
+    "titleId": "PPSA21363_00",
+    "conceptId": 10010315,
+    "name": "Hidden Cats in Paris",
+    "contentId": "JP6954-PPSA21363_00-0207789007028619",
+    "region": "JP",
+    "publisherId": "JP6954"
+  },
+  {
+    "titleId": "PPSA21364_00",
+    "conceptId": 10010315,
+    "name": "Hidden Cats in Paris",
+    "contentId": "HP0874-PPSA21364_00-0636634692028829",
+    "region": "HP",
+    "publisherId": "HP0874"
   },
   {
     "titleId": "PPSA21371_00",
@@ -88552,6 +88680,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21898_00",
+    "conceptId": 10010085,
+    "name": "Lifeless Moon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21899_00",
+    "conceptId": 10010085,
+    "name": "Lifeless Moon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21902_00",
     "conceptId": 10005149,
     "name": "The Jekoos",
@@ -89034,8 +89178,8 @@
   {
     "titleId": "PPSA22124_00",
     "conceptId": 10009803,
-    "name": "Slime Rancher Rainbow Bundle",
-    "contentId": null,
+    "name": "Slime Rancher 2",
+    "contentId": "HP2245-PPSA22124_00-0000019198349081",
     "region": "HP",
     "publisherId": "HP2245"
   },
@@ -89766,6 +89910,30 @@
     "contentId": "HB0504-PPSA22461_00-0859219315978787",
     "region": "HB",
     "publisherId": "HB0504"
+  },
+  {
+    "titleId": "PPSA22464_00",
+    "conceptId": 10010566,
+    "name": "Fruit Mountain",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22465_00",
+    "conceptId": 10010566,
+    "name": "\u30d5\u30eb\u30fc\u30c4\u30de\u30a6\u30f3\u30c6\u30f3",
+    "contentId": "JP1557-PPSA22465_00-0237540524641542",
+    "region": "JP",
+    "publisherId": "JP1557"
+  },
+  {
+    "titleId": "PPSA22466_00",
+    "conceptId": 10010566,
+    "name": "Fruit Mountain",
+    "contentId": "HP1419-PPSA22466_00-0282991040666720",
+    "region": "HP",
+    "publisherId": "HP1419"
   },
   {
     "titleId": "PPSA22467_00",
@@ -90667,9 +90835,9 @@
     "titleId": "PPSA22890_00",
     "conceptId": 10010749,
     "name": "Dead Station 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA22890_00-0313157373772697",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA22891_00",
@@ -90683,17 +90851,17 @@
     "titleId": "PPSA22892_00",
     "conceptId": 10010749,
     "name": "Dead Station 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA22892_00-0022913575843431",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA22893_00",
     "conceptId": 10010749,
     "name": "Dead Station 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7843-PPSA22893_00-0624939098578612",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA22910_00",
@@ -91552,6 +91720,14 @@
     "publisherId": "JP8422"
   },
   {
+    "titleId": "PPSA23729_00",
+    "conceptId": 10009449,
+    "name": "Toy Trains",
+    "contentId": "HP8468-PPSA23729_00-TOYTRAIN00000000",
+    "region": "HP",
+    "publisherId": "HP8468"
+  },
+  {
     "titleId": "PPSA23746_00",
     "conceptId": 10011368,
     "name": "Bad Birds!",
@@ -91582,6 +91758,14 @@
     "contentId": "HB0405-PPSA23762_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23784_00",
+    "conceptId": 10011388,
+    "name": "The Boys Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23785_00",
@@ -91659,6 +91843,30 @@
     "titleId": "PPSA23931_00",
     "conceptId": 10011457,
     "name": "Frog Jumper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24099_00",
+    "conceptId": 10011388,
+    "name": "The Boys Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24134_00",
+    "conceptId": 10011388,
+    "name": "The Boys Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24135_00",
+    "conceptId": 10011388,
+    "name": "The Boys Escape",
     "contentId": null,
     "region": null,
     "publisherId": null
