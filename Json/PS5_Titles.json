@@ -28336,6 +28336,22 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA07047_00",
+    "conceptId": 10004779,
+    "name": "Naheulbeuk's Dungeon Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07048_00",
+    "conceptId": 10004779,
+    "name": "Naheulbeuk's Dungeon Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07051_00",
     "conceptId": 10004780,
     "name": "\u30b3\u30fc\u30d2\u30fc\u30c8\u30fc\u30af \u30a8\u30d4\u30bd\u30fc\u30c92\uff1a\u30cf\u30a4\u30d3\u30b9\u30ab\u30b9\uff06\u30d0\u30bf\u30d5\u30e9\u30a4",
@@ -30108,8 +30124,8 @@
     "conceptId": 10004425,
     "name": "Flintlock: The Siege of Dawn",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP7579"
   },
   {
     "titleId": "PPSA07388_00",
@@ -52808,6 +52824,14 @@
     "publisherId": "EP7666"
   },
   {
+    "titleId": "PPSA11305_00",
+    "conceptId": 10006537,
+    "name": "Bilmo",
+    "contentId": "JP7649-PPSA11305_00-3256283507092259",
+    "region": "JP",
+    "publisherId": "JP7649"
+  },
+  {
     "titleId": "PPSA11306_00",
     "conceptId": 10006537,
     "name": "Bilmo",
@@ -52854,6 +52878,14 @@
     "contentId": "JP7649-PPSA11312_00-9874704974565606",
     "region": "JP",
     "publisherId": "JP7649"
+  },
+  {
+    "titleId": "PPSA11313_00",
+    "conceptId": 10006538,
+    "name": "Flipy",
+    "contentId": "HP7695-PPSA11313_00-1700663061677065",
+    "region": "HP",
+    "publisherId": "HP7695"
   },
   {
     "titleId": "PPSA11317_00",
@@ -63522,8 +63554,8 @@
   {
     "titleId": "PPSA15338_00",
     "conceptId": 10006837,
-    "name": "Rocket Knight Adventures: Re-Sparked Collection PS4 & PS5",
-    "contentId": null,
+    "name": "Rocket Knight Adventures: Re-Sparked!",
+    "contentId": "UP0101-PPSA15338_00-0503752447745981",
     "region": "UP",
     "publisherId": "UP0101"
   },
@@ -67200,6 +67232,14 @@
     "publisherId": "HP1127"
   },
   {
+    "titleId": "PPSA16097_00",
+    "conceptId": 10008215,
+    "name": "Visions of Mana PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
     "titleId": "PPSA16098_00",
     "conceptId": 10008233,
     "name": "\u30b0\u30e9\u30f3\u30c7\u30a3\u30a2",
@@ -67526,6 +67566,14 @@
     "contentId": "EP3729-PPSA16158_00-DIEAGAIN000PS5EU",
     "region": "EP",
     "publisherId": "EP3729"
+  },
+  {
+    "titleId": "PPSA16159_00",
+    "conceptId": 10008248,
+    "name": "Monster Jam\u2122 Showdown",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16160_00",
@@ -70606,6 +70654,14 @@
     "contentId": "EP4382-PPSA16848_00-FALCONEERBULWARK",
     "region": "EP",
     "publisherId": "EP4382"
+  },
+  {
+    "titleId": "PPSA16853_00",
+    "conceptId": 10008544,
+    "name": "Parasol Stars: The Story of Bubble Bobble III",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16860_00",
@@ -82762,18 +82818,18 @@
   {
     "titleId": "PPSA19957_00",
     "conceptId": 10009727,
-    "name": "Spot The Differences! Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Spot The Differences : Party!",
+    "contentId": "UP4082-PPSA19957_00-3417809989211701",
+    "region": "UP",
+    "publisherId": "UP4082"
   },
   {
     "titleId": "PPSA19958_00",
     "conceptId": 10009727,
-    "name": "Spot The Differences! Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Spot The Differences : Party!",
+    "contentId": "EP4119-PPSA19958_00-3417809989211701",
+    "region": "EP",
+    "publisherId": "EP4119"
   },
   {
     "titleId": "PPSA19959_00",
@@ -85131,9 +85187,9 @@
     "titleId": "PPSA20589_00",
     "conceptId": 10010005,
     "name": "Froggy Bouncing Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA20589_00-FROGGYBOUNCINGRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA20590_00",
@@ -85974,6 +86030,14 @@
     "contentId": "UP4140-PPSA20899_00-0826949566091234",
     "region": "UP",
     "publisherId": "UP4140"
+  },
+  {
+    "titleId": "PPSA20917_00",
+    "conceptId": 10007756,
+    "name": "Magical Drop VI",
+    "contentId": "JP4138-PPSA20917_00-0708094165254002",
+    "region": "JP",
+    "publisherId": "JP4138"
   },
   {
     "titleId": "PPSA20922_00",
@@ -87235,9 +87299,9 @@
     "titleId": "PPSA21361_00",
     "conceptId": 10010315,
     "name": "Hidden Cats in Paris",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA21361_00-0735255990804451",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA21362_00",
@@ -88656,6 +88720,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21884_00",
+    "conceptId": 10010535,
+    "name": "Astrune Academy",
+    "contentId": "JP0013-PPSA21884_00-JP0AACADEMY00PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA21887_00",
     "conceptId": 10009818,
     "name": "Adventure Bar Story",
@@ -89386,18 +89458,18 @@
   {
     "titleId": "PPSA22225_00",
     "conceptId": 10010667,
-    "name": "Retropolis 2: Never Say Goodbye",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Retropolis 2",
+    "contentId": "JP3631-PPSA22225_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA22226_00",
     "conceptId": 10010667,
-    "name": "Retropolis 2: Never Say Goodbye",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Retropolis 2",
+    "contentId": "HP3536-PPSA22226_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA22233_00",
@@ -89435,6 +89507,22 @@
     "titleId": "PPSA22239_00",
     "conceptId": 235227,
     "name": "Ghost of Tsushima",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22240_00",
+    "conceptId": 10010670,
+    "name": "Scholar's Mate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22241_00",
+    "conceptId": 10010670,
+    "name": "Scholar's Mate",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -89912,12 +90000,20 @@
     "publisherId": "HB0504"
   },
   {
+    "titleId": "PPSA22463_00",
+    "conceptId": 10010566,
+    "name": "Fruit Mountain",
+    "contentId": "UP1298-PPSA22463_00-0194826462721830",
+    "region": "UP",
+    "publisherId": "UP1298"
+  },
+  {
     "titleId": "PPSA22464_00",
     "conceptId": 10010566,
     "name": "Fruit Mountain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1291-PPSA22464_00-0777314181134068",
+    "region": "EP",
+    "publisherId": "EP1291"
   },
   {
     "titleId": "PPSA22465_00",
@@ -90843,9 +90939,9 @@
     "titleId": "PPSA22891_00",
     "conceptId": 10010749,
     "name": "Dead Station 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA22891_00-0080898284314529",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA22892_00",
@@ -91264,6 +91360,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA23332_00",
+    "conceptId": 10009062,
+    "name": "Ariko's Enchanted Forest",
+    "contentId": "HP8737-PPSA23332_00-0433097612459506",
+    "region": "HP",
+    "publisherId": "HP8737"
+  },
+  {
     "titleId": "PPSA23334_00",
     "conceptId": 10010550,
     "name": "Brick Buster",
@@ -91536,6 +91640,14 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23450_00",
+    "conceptId": 10010281,
+    "name": "Guess the Flag!",
+    "contentId": "EP6878-PPSA23450_00-0760102569901223",
+    "region": "EP",
+    "publisherId": "EP6878"
+  },
+  {
     "titleId": "PPSA23456_00",
     "conceptId": 10011204,
     "name": "Super Ninja Miner",
@@ -91672,6 +91784,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23621_00",
+    "conceptId": 10011292,
+    "name": "Learn to Play Vol. 3 - Mice Love Cheese",
+    "contentId": "UP2005-PPSA23621_00-MICELOVECHEESE00",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
     "titleId": "PPSA23623_00",
     "conceptId": 10010790,
     "name": "Cazzarion: Pop The Bubble",
@@ -91795,9 +91915,9 @@
     "titleId": "PPSA23849_00",
     "conceptId": 10011425,
     "name": "Color Snake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA23849_00-0029139356163728",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA23863_00",
@@ -91846,6 +91966,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23991_00",
+    "conceptId": 10010957,
+    "name": "Cazzarion: Zombie Drive",
+    "contentId": "JB0377-PPSA23991_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23992_00",
+    "conceptId": 10010957,
+    "name": "Cazzarion: Zombie Drive",
+    "contentId": "HB0405-PPSA23992_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA24099_00",
