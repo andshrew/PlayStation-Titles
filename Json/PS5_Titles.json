@@ -30116,8 +30116,8 @@
     "conceptId": 10004425,
     "name": "Flintlock: The Siege of Dawn",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP7581"
   },
   {
     "titleId": "PPSA07383_00",
@@ -30214,6 +30214,14 @@
     "contentId": "UP6261-PPSA07397_00-2269912040644408",
     "region": "UP",
     "publisherId": "UP6261"
+  },
+  {
+    "titleId": "PPSA07398_00",
+    "conceptId": 10004947,
+    "name": "New World: Aeternum",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5267"
   },
   {
     "titleId": "PPSA07404_00",
@@ -30526,6 +30534,14 @@
     "contentId": "UP7675-PPSA07458_00-9296859045603890",
     "region": "UP",
     "publisherId": "UP7675"
+  },
+  {
+    "titleId": "PPSA07460_00",
+    "conceptId": 10004947,
+    "name": "New World: Aeternum",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5447"
   },
   {
     "titleId": "PPSA07467_00",
@@ -63482,8 +63498,8 @@
   {
     "titleId": "PPSA15306_00",
     "conceptId": 10007941,
-    "name": "\u771f\u30fb\u5973\u795e\u8ee2\u751f\u2164 Vengeance PS4&PS5",
-    "contentId": null,
+    "name": "\u771f\u30fb\u5973\u795e\u8ee2\u751f\u2164 Vengeance",
+    "contentId": "JP0005-PPSA15306_00-SMTVDXJP00000000",
     "region": "JP",
     "publisherId": "JP0005"
   },
@@ -64338,8 +64354,8 @@
   {
     "titleId": "PPSA15486_00",
     "conceptId": 10007941,
-    "name": "Shin Megami Tensei V: Vengeance",
-    "contentId": null,
+    "name": "\u771f\u30fb\u5973\u795e\u8f49\u751f\u2164 Vengeance",
+    "contentId": "HP0177-PPSA15486_00-SMTVDXASIA000000",
     "region": "HP",
     "publisherId": "HP0177"
   },
@@ -70704,6 +70720,14 @@
     "publisherId": "EP4382"
   },
   {
+    "titleId": "PPSA16852_00",
+    "conceptId": 10008544,
+    "name": "Parasol Stars: The Story of Bubble Bobble III",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16853_00",
     "conceptId": 10008544,
     "name": "Parasol Stars: The Story of Bubble Bobble III",
@@ -74033,6 +74057,14 @@
   },
   {
     "titleId": "PPSA17676_00",
+    "conceptId": 10008885,
+    "name": "Primal Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17677_00",
     "conceptId": 10008885,
     "name": "Primal Survivors",
     "contentId": null,
@@ -85512,6 +85544,22 @@
     "publisherId": "UB0172"
   },
   {
+    "titleId": "PPSA20684_00",
+    "conceptId": 10010056,
+    "name": "MyRummy",
+    "contentId": "EP3024-PPSA20684_00-MYRUMMYSCHMPS5EU",
+    "region": "EP",
+    "publisherId": "EP3024"
+  },
+  {
+    "titleId": "PPSA20685_00",
+    "conceptId": 10010056,
+    "name": "MyRummy",
+    "contentId": "UP3165-PPSA20685_00-MYRUMMYSCHMPS5US",
+    "region": "UP",
+    "publisherId": "UP3165"
+  },
+  {
     "titleId": "PPSA20686_00",
     "conceptId": 10010041,
     "name": "The Last Case of Benedict Fox Definitive Edition",
@@ -86104,6 +86152,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20897_00",
+    "conceptId": 10010103,
+    "name": "Tarzan VR\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20898_00",
     "conceptId": 10009616,
     "name": "Geometry Survivor",
@@ -86478,6 +86534,14 @@
     "contentId": "JP4138-PPSA21020_00-0418363627211130",
     "region": "JP",
     "publisherId": "JP4138"
+  },
+  {
+    "titleId": "PPSA21025_00",
+    "conceptId": 10004909,
+    "name": "MADiSON",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21026_00",
@@ -91480,6 +91544,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA23328_00",
+    "conceptId": 10006916,
+    "name": "Ball Dodge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23332_00",
     "conceptId": 10009062,
     "name": "Ariko's Enchanted Forest",
@@ -91776,6 +91848,38 @@
     "publisherId": "UP8623"
   },
   {
+    "titleId": "PPSA23458_00",
+    "conceptId": 10011208,
+    "name": "Octopo",
+    "contentId": "UP7668-PPSA23458_00-0949079329328904",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23461_00",
+    "conceptId": 10011208,
+    "name": "Octopo",
+    "contentId": "UP7668-PPSA23461_00-0570848422030743",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23462_00",
+    "conceptId": 10011208,
+    "name": "Octopo",
+    "contentId": "UP7668-PPSA23462_00-0963659912851727",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23463_00",
+    "conceptId": 10011208,
+    "name": "Octopo",
+    "contentId": "UP7668-PPSA23463_00-0814992239743854",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA23476_00",
     "conceptId": 10011209,
     "name": "Neon Bash",
@@ -91899,9 +92003,9 @@
     "titleId": "PPSA23603_00",
     "conceptId": 10011270,
     "name": "Sky Dunk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0612-PPSA23603_00-0141572521588309",
+    "region": "UB",
+    "publisherId": "UB0612"
   },
   {
     "titleId": "PPSA23621_00",
@@ -91950,6 +92054,14 @@
     "contentId": "HB0405-PPSA23628_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23685_00",
+    "conceptId": 10008971,
+    "name": "Off The Grid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23727_00",
@@ -92003,9 +92115,9 @@
     "titleId": "PPSA23750_00",
     "conceptId": 10011369,
     "name": "Cazzarion: Portal Pilot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA23750_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA23759_00",
@@ -92144,6 +92256,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24108_00",
+    "conceptId": 10011560,
+    "name": "2048 Boys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24134_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
@@ -92155,6 +92275,30 @@
     "titleId": "PPSA24135_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24160_00",
+    "conceptId": 10011560,
+    "name": "2048 Boys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24161_00",
+    "conceptId": 10011560,
+    "name": "2048 Boys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24162_00",
+    "conceptId": 10011560,
+    "name": "2048 Boys",
     "contentId": null,
     "region": null,
     "publisherId": null
