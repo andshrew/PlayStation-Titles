@@ -65418,8 +65418,8 @@
   {
     "titleId": "PPSA15716_00",
     "conceptId": 10007941,
-    "name": "Shin Megami Tensei V: Vengeance",
-    "contentId": null,
+    "name": "SHIN MEGAMI TENSEI V: Vengeance",
+    "contentId": "UP0177-PPSA15716_00-SMTVDXUS00000000",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -91440,6 +91440,14 @@
     "publisherId": "HP6545"
   },
   {
+    "titleId": "PPSA23228_00",
+    "conceptId": 10006916,
+    "name": "Ball Dodge",
+    "contentId": "UP7962-PPSA23228_00-0721202939844046",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
     "titleId": "PPSA23239_00",
     "conceptId": 10011093,
     "name": "Greed 2: Forbidden Experiments",
@@ -91547,9 +91555,9 @@
     "titleId": "PPSA23328_00",
     "conceptId": 10006916,
     "name": "Ball Dodge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7960-PPSA23328_00-0179725103677138",
+    "region": "EP",
+    "publisherId": "EP7960"
   },
   {
     "titleId": "PPSA23332_00",
@@ -91590,6 +91598,38 @@
     "contentId": "HP8737-PPSA23357_00-0810945102552422",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA23365_00",
+    "conceptId": 10011156,
+    "name": "Cazzarion: Flak Battle",
+    "contentId": "EB0629-PPSA23365_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA23366_00",
+    "conceptId": 10011156,
+    "name": "Cazzarion: Flak Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23367_00",
+    "conceptId": 10011156,
+    "name": "Cazzarion: Flak Battle",
+    "contentId": "JB0377-PPSA23367_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23368_00",
+    "conceptId": 10011156,
+    "name": "Cazzarion: Flak Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23373_00",
@@ -91960,6 +92000,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA23537_00",
+    "conceptId": 10011200,
+    "name": "Goblins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23570_00",
     "conceptId": 10011251,
     "name": "Cazzarion: Coin Pilot",
@@ -91990,6 +92038,14 @@
     "contentId": "HB0405-PPSA23573_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23591_00",
+    "conceptId": 10011262,
+    "name": "Cyber Citizen Shockman Zero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23602_00",
