@@ -2915,9 +2915,9 @@
     "titleId": "PPSA02054_00",
     "conceptId": 234784,
     "name": "Rocksmith\u2122+",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0001-PPSA02054_00-RS300000000000NA",
+    "region": "UP",
+    "publisherId": "UP0001"
   },
   {
     "titleId": "PPSA02055_00",
@@ -89104,6 +89104,14 @@
     "publisherId": "UP5641"
   },
   {
+    "titleId": "PPSA21974_00",
+    "conceptId": 10010578,
+    "name": "\u30b4\u30fc\u30b9\u30c8\u30cf\u30f3\u30bf\u30fc",
+    "contentId": "UP9000-PPSA21974_00-SLUS209930000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA21981_00",
     "conceptId": 10007313,
     "name": "Dungeon Party",
@@ -89738,18 +89746,18 @@
   {
     "titleId": "PPSA22251_00",
     "conceptId": 10010683,
-    "name": "Horror Tales: The Beggar",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Horror Tales - The Beggar",
+    "contentId": "UP3252-PPSA22251_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA22252_00",
     "conceptId": 10010683,
-    "name": "Horror Tales: The Beggar",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Horror Tales - The Beggar",
+    "contentId": "EP3111-PPSA22252_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA22263_00",
@@ -91528,6 +91536,14 @@
     "publisherId": "EP4312"
   },
   {
+    "titleId": "PPSA23269_00",
+    "conceptId": 10011020,
+    "name": "Sushi Plus",
+    "contentId": "UP4312-PPSA23269_00-0743377088294630",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA23271_00",
     "conceptId": 10011020,
     "name": "Sushi Plus",
@@ -91611,9 +91627,9 @@
     "titleId": "PPSA23366_00",
     "conceptId": 10011156,
     "name": "Cazzarion: Flak Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA23366_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA23367_00",
@@ -91627,9 +91643,9 @@
     "titleId": "PPSA23368_00",
     "conceptId": 10011156,
     "name": "Cazzarion: Flak Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA23368_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA23373_00",
@@ -91952,6 +91968,70 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA23506_00",
+    "conceptId": 10011220,
+    "name": "I Love Finding Cats & Pups - Collector's Edition",
+    "contentId": "EP1411-PPSA23506_00-0912508108896569",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23507_00",
+    "conceptId": 10011220,
+    "name": "I Love Finding Cats & Pups - Collector's Edition",
+    "contentId": "EP1411-PPSA23507_00-0813736546381400",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23508_00",
+    "conceptId": 10011220,
+    "name": "I Love Finding Cats & Pups - Collector's Edition",
+    "contentId": "EP1411-PPSA23508_00-0612935207858598",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23509_00",
+    "conceptId": 10011220,
+    "name": "I Love Finding Cats & Pups - Collector's Edition",
+    "contentId": "EP1411-PPSA23509_00-0429323995507722",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23514_00",
+    "conceptId": 10011222,
+    "name": "So Much Stuff 3: Odds & Ends - Collector's Edition",
+    "contentId": "EP1411-PPSA23514_00-0174219728201887",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23515_00",
+    "conceptId": 10011222,
+    "name": "So Much Stuff 3: Odds & Ends - Collector's Edition",
+    "contentId": "EP1411-PPSA23515_00-0610547668153167",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23516_00",
+    "conceptId": 10011222,
+    "name": "So Much Stuff 3: Odds & Ends - Collector's Edition",
+    "contentId": "EP1411-PPSA23516_00-0574989092856980",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23517_00",
+    "conceptId": 10011222,
+    "name": "So Much Stuff 3: Odds & Ends - Collector's Edition",
+    "contentId": "EP1411-PPSA23517_00-0560892936022752",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA23523_00",
     "conceptId": 10010824,
     "name": "Supermarket Shopping Simulator",
@@ -92003,9 +92083,17 @@
     "titleId": "PPSA23537_00",
     "conceptId": 10011200,
     "name": "Goblins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA23537_00-0215166035983913",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA23539_00",
+    "conceptId": 10011200,
+    "name": "Goblins",
+    "contentId": "UP4312-PPSA23539_00-0207538860816213",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA23570_00",
@@ -92110,6 +92198,38 @@
     "contentId": "HB0405-PPSA23628_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23655_00",
+    "conceptId": 10011307,
+    "name": "Gallery of Things: Reveries",
+    "contentId": "EP1411-PPSA23655_00-0537978972216402",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23656_00",
+    "conceptId": 10011307,
+    "name": "Gallery of Things: Reveries",
+    "contentId": "EP1411-PPSA23656_00-0750741534182981",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23657_00",
+    "conceptId": 10011307,
+    "name": "Gallery of Things: Reveries",
+    "contentId": "EP1411-PPSA23657_00-0305327927815123",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23658_00",
+    "conceptId": 10011307,
+    "name": "Gallery of Things: Reveries",
+    "contentId": "EP1411-PPSA23658_00-0721791757192810",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA23685_00",
