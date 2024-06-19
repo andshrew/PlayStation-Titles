@@ -25128,6 +25128,14 @@
     "publisherId": "UP7384"
   },
   {
+    "titleId": "PPSA06470_00",
+    "conceptId": 10004486,
+    "name": "Until Then",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06471_00",
     "conceptId": 10004486,
     "name": "Until Then",
@@ -32882,8 +32890,8 @@
   {
     "titleId": "PPSA07905_00",
     "conceptId": 10005163,
-    "name": "Still Wakes the Deep",
-    "contentId": null,
+    "name": "Still Wakes The Deep",
+    "contentId": "EP7072-PPSA07905_00-SWTD000000000001",
     "region": "EP",
     "publisherId": "EP7072"
   },
@@ -42800,6 +42808,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA09614_00",
+    "conceptId": 10001474,
+    "name": "GRAVEN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09615_00",
     "conceptId": 10005842,
     "name": "MythForce",
@@ -46691,9 +46707,9 @@
     "titleId": "PPSA10285_00",
     "conceptId": 10006176,
     "name": "Roxy Raccoon's Pinball Panic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA10285_00-ROXYRACCOONSPPAN",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA10286_00",
@@ -61366,6 +61382,14 @@
     "contentId": "UP1191-PPSA14298_00-0385103818746826",
     "region": "UP",
     "publisherId": "UP1191"
+  },
+  {
+    "titleId": "PPSA14300_00",
+    "conceptId": 10007589,
+    "name": "LEGO Star Wars II: The Original Trilogy",
+    "contentId": "UP1082-PPSA14300_00-ULUS101550000000",
+    "region": "UP",
+    "publisherId": "UP1082"
   },
   {
     "titleId": "PPSA14305_00",
@@ -85392,6 +85416,22 @@
     "publisherId": "UP5869"
   },
   {
+    "titleId": "PPSA20611_00",
+    "conceptId": 10010018,
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8III\u3000\u305d\u3057\u3066\u4f1d\u8aac\u3078\u2026",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA20614_00",
+    "conceptId": 10010018,
+    "name": "DRAGON QUEST III HD-2D Remake",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
     "titleId": "PPSA20619_00",
     "conceptId": 10008305,
     "name": "The House of Da Vinci",
@@ -86146,18 +86186,18 @@
   {
     "titleId": "PPSA20896_00",
     "conceptId": 10010103,
-    "name": "Tarzan VR\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tarzan VR",
+    "contentId": "UP8536-PPSA20896_00-TARZANPSVR200000",
+    "region": "UP",
+    "publisherId": "UP8536"
   },
   {
     "titleId": "PPSA20897_00",
     "conceptId": 10010103,
-    "name": "Tarzan VR\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tarzan VR",
+    "contentId": "EP8726-PPSA20897_00-TARZANPSVR2EUROP",
+    "region": "EP",
+    "publisherId": "EP8726"
   },
   {
     "titleId": "PPSA20898_00",
@@ -88080,6 +88120,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA21583_00",
+    "conceptId": 10010414,
+    "name": "RPM - Road Punk Mayhem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21598_00",
     "conceptId": 10010422,
     "name": "Jewel Match Atlantis Solitaire: Collector's Edition",
@@ -89166,6 +89214,22 @@
     "contentId": "EB0629-PPSA21993_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA22006_00",
+    "conceptId": 10010213,
+    "name": "Selfloss",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22007_00",
+    "conceptId": 10010213,
+    "name": "Selfloss",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22009_00",
@@ -91091,9 +91155,9 @@
     "titleId": "PPSA22886_00",
     "conceptId": 10010928,
     "name": "Glyphs of Gitzan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA22886_00-GLYPHSOFGITZAN00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA22887_00",
@@ -91950,6 +92014,14 @@
     "contentId": "UP8787-PPSA23477_00-0398655791290995",
     "region": "UP",
     "publisherId": "UP8787"
+  },
+  {
+    "titleId": "PPSA23495_00",
+    "conceptId": 10011077,
+    "name": "K-ONE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23497_00",
