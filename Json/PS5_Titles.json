@@ -2931,9 +2931,9 @@
     "titleId": "PPSA02056_00",
     "conceptId": 234784,
     "name": "Rocksmith\u2122+",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0001-PPSA02056_00-RS300000000000JP",
+    "region": "JP",
+    "publisherId": "JP0001"
   },
   {
     "titleId": "PPSA02057_00",
@@ -64056,6 +64056,14 @@
     "publisherId": "EP3323"
   },
   {
+    "titleId": "PPSA15434_00",
+    "conceptId": 10007988,
+    "name": "Thank Goodness You're Here!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15435_00",
     "conceptId": 10006209,
     "name": "Superfidos",
@@ -66088,6 +66096,14 @@
     "publisherId": "JP8438"
   },
   {
+    "titleId": "PPSA15841_00",
+    "conceptId": 10008152,
+    "name": "Suicide Guy: The Lost Dreams",
+    "contentId": "UP2796-PPSA15841_00-0328426223003635",
+    "region": "UP",
+    "publisherId": "UP2796"
+  },
+  {
     "titleId": "PPSA15843_00",
     "conceptId": 10008154,
     "name": "Sakura MMO Extra",
@@ -67028,6 +67044,14 @@
     "conceptId": 10007113,
     "name": "\u30de\u30af\u30ed\u30b9 -Shooting Insight-",
     "contentId": "JP0540-PPSA16040_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0540"
+  },
+  {
+    "titleId": "PPSA16041_00",
+    "conceptId": 10008219,
+    "name": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e Quest of Memories",
+    "contentId": "JP0540-PPSA16041_00-MTPS500000000000",
     "region": "JP",
     "publisherId": "JP0540"
   },
@@ -69560,6 +69584,14 @@
     "publisherId": "EP0082"
   },
   {
+    "titleId": "PPSA16566_00",
+    "conceptId": 10008428,
+    "name": "Romancing SaGa 2: Revenge of the Seven - PS4&PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
     "titleId": "PPSA16567_00",
     "conceptId": 10008430,
     "name": "The Wizards - Dark Times",
@@ -71262,6 +71294,14 @@
     "contentId": "EP1875-PPSA16943_00-SWBATTLEFRONT000",
     "region": "EP",
     "publisherId": "EP1875"
+  },
+  {
+    "titleId": "PPSA16947_00",
+    "conceptId": 10008494,
+    "name": "The Inheritance of Crimson Manor",
+    "contentId": "UP8650-PPSA16947_00-0186662604269082",
+    "region": "UP",
+    "publisherId": "UP8650"
   },
   {
     "titleId": "PPSA16954_00",
@@ -74115,9 +74155,9 @@
     "titleId": "PPSA17674_00",
     "conceptId": 10008885,
     "name": "Primal Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA17674_00-0226317086061107",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA17675_00",
@@ -74276,6 +74316,14 @@
     "conceptId": 10005546,
     "name": "99 Seconds",
     "contentId": "JP5432-PPSA17722_00-0246059533303742",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA17723_00",
+    "conceptId": 10005607,
+    "name": "99 Moves",
+    "contentId": "JP5432-PPSA17723_00-0301104646367141",
     "region": "JP",
     "publisherId": "JP5432"
   },
@@ -79656,6 +79704,14 @@
     "publisherId": "UP3511"
   },
   {
+    "titleId": "PPSA19114_00",
+    "conceptId": 10005046,
+    "name": "REYNATIS\uff0f\u30ec\u30ca\u30c6\u30a3\u30b9",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA19115_00",
     "conceptId": 10009413,
     "name": "\u30c7\u30a4\u30f4\u30fb\u30b6\u30fb\u30c0\u30a4\u30d0\u30fc",
@@ -84312,12 +84368,44 @@
     "publisherId": "HP0177"
   },
   {
+    "titleId": "PPSA20322_00",
+    "conceptId": 10004834,
+    "name": "Stellar Interface",
+    "contentId": "UP7698-PPSA20322_00-0580836260807434",
+    "region": "UP",
+    "publisherId": "UP7698"
+  },
+  {
     "titleId": "PPSA20323_00",
     "conceptId": 10008833,
     "name": "BAR \u30b9\u30c6\u30e9\u30a2\u30d3\u30b9 \u4f53\u9a13\u7248",
     "contentId": "JP0404-PPSA20323_00-BARSTELLABYSS002",
     "region": "JP",
     "publisherId": "JP0404"
+  },
+  {
+    "titleId": "PPSA20325_00",
+    "conceptId": 10009817,
+    "name": "Space Penguins",
+    "contentId": "UP2913-PPSA20325_00-0979286470248286",
+    "region": "UP",
+    "publisherId": "UP2913"
+  },
+  {
+    "titleId": "PPSA20326_00",
+    "conceptId": 10009817,
+    "name": "Space Penguins",
+    "contentId": "EP2775-PPSA20326_00-0023085785891987",
+    "region": "EP",
+    "publisherId": "EP2775"
+  },
+  {
+    "titleId": "PPSA20327_00",
+    "conceptId": 10009817,
+    "name": "SPACE PENGUINS",
+    "contentId": "JP2953-PPSA20327_00-0177846804702583",
+    "region": "JP",
+    "publisherId": "JP2953"
   },
   {
     "titleId": "PPSA20328_00",
@@ -85747,9 +85835,9 @@
     "titleId": "PPSA20707_00",
     "conceptId": 10010063,
     "name": "Pogo Stick Champion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA20707_00-POGOSTICKCHAMPRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA20708_00",
@@ -86211,17 +86299,33 @@
     "titleId": "PPSA20869_00",
     "conceptId": 10009492,
     "name": "Whacking Hell!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4082-PPSA20869_00-8567892792094208",
+    "region": "UP",
+    "publisherId": "UP4082"
   },
   {
     "titleId": "PPSA20870_00",
     "conceptId": 10009492,
     "name": "Whacking Hell!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4119-PPSA20870_00-8567892792094208",
+    "region": "EP",
+    "publisherId": "EP4119"
+  },
+  {
+    "titleId": "PPSA20871_00",
+    "conceptId": 10009492,
+    "name": "Whacking Hell!",
+    "contentId": "HP4119-PPSA20871_00-8567892792094208",
+    "region": "HP",
+    "publisherId": "HP4119"
+  },
+  {
+    "titleId": "PPSA20872_00",
+    "conceptId": 10009492,
+    "name": "Whacking Hell!",
+    "contentId": "JP0081-PPSA20872_00-8567892792094208",
+    "region": "JP",
+    "publisherId": "JP0081"
   },
   {
     "titleId": "PPSA20873_00",
@@ -86262,6 +86366,14 @@
     "contentId": "EP2228-PPSA20880_00-0940668011748776",
     "region": "EP",
     "publisherId": "EP2228"
+  },
+  {
+    "titleId": "PPSA20881_00",
+    "conceptId": 10009368,
+    "name": "Beat the beats Demo",
+    "contentId": "UP2365-PPSA20881_00-0048784336288304",
+    "region": "UP",
+    "publisherId": "UP2365"
   },
   {
     "titleId": "PPSA20883_00",
@@ -88512,6 +88624,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21668_00",
+    "conceptId": 10010451,
+    "name": "Marvel Rivals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21671_00",
     "conceptId": 10008826,
     "name": "Enotria",
@@ -89346,18 +89466,18 @@
   {
     "titleId": "PPSA22006_00",
     "conceptId": 10010213,
-    "name": "Selfloss",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Selfloss Demo",
+    "contentId": "UP1260-PPSA22006_00-SELFLOSSDEMO0000",
+    "region": "UP",
+    "publisherId": "UP1260"
   },
   {
     "titleId": "PPSA22007_00",
     "conceptId": 10010213,
-    "name": "Selfloss",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Selfloss Demo",
+    "contentId": "EP1121-PPSA22007_00-SELFLOSSDEMO0000",
+    "region": "EP",
+    "publisherId": "EP1121"
   },
   {
     "titleId": "PPSA22009_00",
@@ -89699,9 +89819,9 @@
     "titleId": "PPSA22146_00",
     "conceptId": 10010641,
     "name": "Windstorm: Start of a Great Friendship - Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3945-PPSA22146_00-0436562948304184",
+    "region": "EP",
+    "publisherId": "EP3945"
   },
   {
     "titleId": "PPSA22147_00",
@@ -90035,9 +90155,17 @@
     "titleId": "PPSA22329_00",
     "conceptId": 10010480,
     "name": "Everafter Falls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3425-PPSA22329_00-0307150410790950",
+    "region": "JP",
+    "publisherId": "JP3425"
+  },
+  {
+    "titleId": "PPSA22330_00",
+    "conceptId": 10010480,
+    "name": "Everafter Falls",
+    "contentId": "HP3332-PPSA22330_00-0927107788497841",
+    "region": "HP",
+    "publisherId": "HP3332"
   },
   {
     "titleId": "PPSA22338_00",
@@ -91240,6 +91368,38 @@
     "publisherId": "HP8232"
   },
   {
+    "titleId": "PPSA22768_00",
+    "conceptId": 10010888,
+    "name": "A Burger in Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22769_00",
+    "conceptId": 10010888,
+    "name": "A Burger in Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22770_00",
+    "conceptId": 10010888,
+    "name": "A Burger in Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22771_00",
+    "conceptId": 10010888,
+    "name": "A Burger in Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22776_00",
     "conceptId": 10010580,
     "name": "Horrific Xanatorium",
@@ -91624,6 +91784,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA23130_00",
+    "conceptId": 10011036,
+    "name": "Greed 3: Old Enemies Returning",
+    "contentId": "EP1629-PPSA23130_00-GREED3OERJDPS5EU",
+    "region": "EP",
+    "publisherId": "EP1629"
+  },
+  {
     "titleId": "PPSA23146_00",
     "conceptId": 10011040,
     "name": "Prune & Milo",
@@ -91686,6 +91854,14 @@
     "contentId": "EP7349-PPSA23211_00-0293379550492930",
     "region": "EP",
     "publisherId": "EP7349"
+  },
+  {
+    "titleId": "PPSA23212_00",
+    "conceptId": 10011004,
+    "name": "Summer Games Beach Volley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23226_00",
@@ -92104,6 +92280,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23445_00",
+    "conceptId": 10011198,
+    "name": "Bouncy Chicken",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23446_00",
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
@@ -92198,6 +92382,22 @@
     "contentId": "UP8787-PPSA23477_00-0398655791290995",
     "region": "UP",
     "publisherId": "UP8787"
+  },
+  {
+    "titleId": "PPSA23490_00",
+    "conceptId": 10011215,
+    "name": "Faces of Illusion: The Twin Phantoms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23491_00",
+    "conceptId": 10011215,
+    "name": "Faces of Illusion: The Twin Phantoms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23495_00",
@@ -92659,9 +92859,9 @@
     "titleId": "PPSA23931_00",
     "conceptId": 10011457,
     "name": "Frog Jumper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA23931_00-FROGJUMPER000000",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA23991_00",
@@ -92678,6 +92878,14 @@
     "contentId": "HB0405-PPSA23992_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA24008_00",
+    "conceptId": 10011159,
+    "name": "Air Sea Modern Conflict",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24099_00",
