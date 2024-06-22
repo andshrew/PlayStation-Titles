@@ -22536,6 +22536,14 @@
     "publisherId": "HP0101"
   },
   {
+    "titleId": "PPSA05990_00",
+    "conceptId": 10004231,
+    "name": "CYGNI: All Guns Blazing",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0101"
+  },
+  {
     "titleId": "PPSA05992_00",
     "conceptId": 10003900,
     "name": "Madden 23 Internal Test Realm",
@@ -32906,8 +32914,8 @@
   {
     "titleId": "PPSA07906_00",
     "conceptId": 10005163,
-    "name": "Still Wakes the Deep",
-    "contentId": null,
+    "name": "Still Wakes The Deep",
+    "contentId": "UP7076-PPSA07906_00-SWTD000000000001",
     "region": "UP",
     "publisherId": "UP7076"
   },
@@ -63272,6 +63280,22 @@
     "publisherId": "EP7562"
   },
   {
+    "titleId": "PPSA15240_00",
+    "conceptId": 10007903,
+    "name": "Princess Maker 2 Regeneration",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15243_00",
+    "conceptId": 10007903,
+    "name": "Princess Maker 2 Regeneration",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15245_00",
     "conceptId": 10007381,
     "name": "Phantom Blade: Executioners",
@@ -66102,6 +66126,14 @@
     "contentId": "UP2796-PPSA15841_00-0328426223003635",
     "region": "UP",
     "publisherId": "UP2796"
+  },
+  {
+    "titleId": "PPSA15842_00",
+    "conceptId": 10008152,
+    "name": "Suicide Guy: The Lost Dreams",
+    "contentId": "EP2659-PPSA15842_00-0973913630125450",
+    "region": "EP",
+    "publisherId": "EP2659"
   },
   {
     "titleId": "PPSA15843_00",
@@ -69568,6 +69600,14 @@
     "publisherId": "EP7657"
   },
   {
+    "titleId": "PPSA16563_00",
+    "conceptId": 10008428,
+    "name": "\u30ed\u30de\u30f3\u30b7\u30f3\u30b0 \u30b5\u30ac2 \u30ea\u30d9\u30f3\u30b8\u30aa\u30d6\u30b6\u30bb\u30d6\u30f3 - PS4&PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
     "titleId": "PPSA16564_00",
     "conceptId": 10008428,
     "name": "Romancing SaGa 2: Revenge of the Seven - PS4&PS5",
@@ -71934,6 +71974,14 @@
     "contentId": "EP7297-PPSA17108_00-0208298213827699",
     "region": "EP",
     "publisherId": "EP7297"
+  },
+  {
+    "titleId": "PPSA17110_00",
+    "conceptId": 10008659,
+    "name": "ForeVR Cornhole",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17111_00",
@@ -76875,9 +76923,9 @@
     "titleId": "PPSA18384_00",
     "conceptId": 10008858,
     "name": "Times & Galaxy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5480-PPSA18384_00-TIMESANDGALAXY00",
+    "region": "UP",
+    "publisherId": "UP5480"
   },
   {
     "titleId": "PPSA18385_00",
@@ -85843,9 +85891,9 @@
     "titleId": "PPSA20708_00",
     "conceptId": 10010063,
     "name": "Pogo Stick Champion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA20708_00-POGOSTICKCHAMPRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA20709_00",
@@ -85867,6 +85915,14 @@
     "titleId": "PPSA20711_00",
     "conceptId": 10010048,
     "name": "VALORANT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20718_00",
+    "conceptId": 232337,
+    "name": "Windlands 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -88907,17 +88963,17 @@
     "titleId": "PPSA21750_00",
     "conceptId": 10010480,
     "name": "Everafter Falls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3385-PPSA21750_00-0876654385790276",
+    "region": "UP",
+    "publisherId": "UP3385"
   },
   {
     "titleId": "PPSA21751_00",
     "conceptId": 10010480,
     "name": "Everafter Falls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3245-PPSA21751_00-0501913275627825",
+    "region": "EP",
+    "publisherId": "EP3245"
   },
   {
     "titleId": "PPSA21759_00",
@@ -89827,9 +89883,9 @@
     "titleId": "PPSA22147_00",
     "conceptId": 10010641,
     "name": "Windstorm: Start of a Great Friendship - Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4196-PPSA22147_00-0278280584462238",
+    "region": "UP",
+    "publisherId": "UP4196"
   },
   {
     "titleId": "PPSA22148_00",
@@ -89939,33 +89995,33 @@
     "titleId": "PPSA22195_00",
     "conceptId": 10010659,
     "name": "Glowface",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA22195_00-0566892101009196",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA22196_00",
     "conceptId": 10010659,
     "name": "Glowface",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA22196_00-0742313445020148",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA22197_00",
     "conceptId": 10010659,
     "name": "Glowface",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA22197_00-0823660086155999",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA22198_00",
     "conceptId": 10010659,
     "name": "Glowface",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA22198_00-0245184464233582",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA22223_00",
@@ -90595,17 +90651,17 @@
     "titleId": "PPSA22475_00",
     "conceptId": 10010753,
     "name": "The Ouroboros King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA22475_00-0901285359070644",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA22476_00",
     "conceptId": 10010753,
     "name": "The Ouroboros King",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA22476_00-0045504320618086",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA22477_00",
@@ -91696,6 +91752,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23017_00",
+    "conceptId": 10005046,
+    "name": "REYNATIS TRIAL VERSION",
+    "contentId": "JP0536-PPSA23017_00-DEMOPS5000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA23032_00",
     "conceptId": 10010905,
     "name": "Tile Cross",
@@ -92387,17 +92451,17 @@
     "titleId": "PPSA23490_00",
     "conceptId": 10011215,
     "name": "Faces of Illusion: The Twin Phantoms",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1667-PPSA23490_00-THEATPS52024SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
   },
   {
     "titleId": "PPSA23491_00",
     "conceptId": 10011215,
     "name": "Faces of Illusion: The Twin Phantoms",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1681-PPSA23491_00-THEATPS52024SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA23495_00",
@@ -92848,6 +92912,22 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23878_00",
+    "conceptId": 10010622,
+    "name": "Fantasy Beauties Premium Edition",
+    "contentId": "EP2402-PPSA23878_00-FANTASYPREMEUPS5",
+    "region": "EP",
+    "publisherId": "EP2402"
+  },
+  {
+    "titleId": "PPSA23879_00",
+    "conceptId": 10010622,
+    "name": "Fantasy Beauties Premium Edition",
+    "contentId": "UP2538-PPSA23879_00-FANTASYPREMUSPS5",
+    "region": "UP",
+    "publisherId": "UP2538"
+  },
+  {
     "titleId": "PPSA23880_00",
     "conceptId": 10011436,
     "name": "Poopy Time",
@@ -92878,6 +92958,22 @@
     "contentId": "HB0405-PPSA23992_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23994_00",
+    "conceptId": 10011497,
+    "name": "Cazzarion: Ship Hunting",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23995_00",
+    "conceptId": 10011497,
+    "name": "Cazzarion: Ship Hunting",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24008_00",
