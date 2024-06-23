@@ -22544,6 +22544,14 @@
     "publisherId": "EP0101"
   },
   {
+    "titleId": "PPSA05991_00",
+    "conceptId": 10004231,
+    "name": "CYGNI: All Guns Blazing",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0101"
+  },
+  {
     "titleId": "PPSA05992_00",
     "conceptId": 10003900,
     "name": "Madden 23 Internal Test Realm",
@@ -43424,6 +43432,14 @@
     "publisherId": "HP0957"
   },
   {
+    "titleId": "PPSA09725_00",
+    "conceptId": 10005127,
+    "name": "Neon Blood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09726_00",
     "conceptId": 10005968,
     "name": "Letterbox by POWGI",
@@ -64080,6 +64096,14 @@
     "publisherId": "EP3323"
   },
   {
+    "titleId": "PPSA15433_00",
+    "conceptId": 10007988,
+    "name": "Thank Goodness You're Here!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15434_00",
     "conceptId": 10007988,
     "name": "Thank Goodness You're Here!",
@@ -66230,6 +66254,14 @@
     "contentId": "HP0101-PPSA15856_00-METALGEAR1AND2PS",
     "region": "HP",
     "publisherId": "HP0101"
+  },
+  {
+    "titleId": "PPSA15866_00",
+    "conceptId": 10008118,
+    "name": "Fate Seeker II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15867_00",
@@ -72979,17 +73011,17 @@
     "titleId": "PPSA17361_00",
     "conceptId": 10008758,
     "name": "Rusted Moss",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0969-PPSA17361_00-0011226281304057",
+    "region": "UP",
+    "publisherId": "UP0969"
   },
   {
     "titleId": "PPSA17362_00",
     "conceptId": 10008758,
     "name": "Rusted Moss",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0122-PPSA17362_00-0181148056812340",
+    "region": "EP",
+    "publisherId": "EP0122"
   },
   {
     "titleId": "PPSA17364_00",
@@ -74219,17 +74251,17 @@
     "titleId": "PPSA17676_00",
     "conceptId": 10008885,
     "name": "Primal Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA17676_00-0205290090589498",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA17677_00",
     "conceptId": 10008885,
     "name": "Primal Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA17677_00-0358579962034803",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA17678_00",
@@ -74243,9 +74275,9 @@
     "titleId": "PPSA17679_00",
     "conceptId": 10008885,
     "name": "Primal Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA17679_00-0420648207754680",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA17687_00",
@@ -76931,9 +76963,9 @@
     "titleId": "PPSA18385_00",
     "conceptId": 10008858,
     "name": "Times & Galaxy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5661-PPSA18385_00-TIMESANDGALAXY00",
+    "region": "EP",
+    "publisherId": "EP5661"
   },
   {
     "titleId": "PPSA18388_00",
@@ -85672,6 +85704,14 @@
     "publisherId": "JP8033"
   },
   {
+    "titleId": "PPSA20632_00",
+    "conceptId": 10008118,
+    "name": "Fate Seeker II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20633_00",
     "conceptId": 10009439,
     "name": "Big Shots",
@@ -92718,6 +92758,14 @@
     "contentId": "HB0405-PPSA23628_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23639_00",
+    "conceptId": 10011297,
+    "name": "Guess The Object",
+    "contentId": "UP7668-PPSA23639_00-0446587974791037",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23655_00",
