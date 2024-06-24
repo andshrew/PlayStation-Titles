@@ -32256,6 +32256,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA07765_00",
+    "conceptId": 10005127,
+    "name": "Neon Blood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA07766_00",
     "conceptId": 10005127,
     "name": "Neon Blood",
@@ -43272,6 +43280,14 @@
     "publisherId": "EP9000"
   },
   {
+    "titleId": "PPSA09695_00",
+    "conceptId": 10005947,
+    "name": "Daxter",
+    "contentId": "UP9000-PPSA09695_00-NPUG803290000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA09697_00",
     "conceptId": 10005949,
     "name": "Oktoberfest Fun",
@@ -43430,6 +43446,14 @@
     "contentId": "HP0957-PPSA09723_00-1409116869451629",
     "region": "HP",
     "publisherId": "HP0957"
+  },
+  {
+    "titleId": "PPSA09724_00",
+    "conceptId": 10005127,
+    "name": "Neon Blood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA09725_00",
@@ -72008,6 +72032,14 @@
     "publisherId": "EP7297"
   },
   {
+    "titleId": "PPSA17109_00",
+    "conceptId": 10008659,
+    "name": "ForeVR Cornhole",
+    "contentId": "UP7299-PPSA17109_00-0112085036425194",
+    "region": "UP",
+    "publisherId": "UP7299"
+  },
+  {
     "titleId": "PPSA17110_00",
     "conceptId": 10008659,
     "name": "ForeVR Cornhole",
@@ -93019,9 +93051,25 @@
     "titleId": "PPSA23995_00",
     "conceptId": 10011497,
     "name": "Cazzarion: Ship Hunting",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA23995_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA23996_00",
+    "conceptId": 10011497,
+    "name": "Cazzarion: Ship Hunting",
+    "contentId": "JB0377-PPSA23996_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA23997_00",
+    "conceptId": 10011497,
+    "name": "Cazzarion: Ship Hunting",
+    "contentId": "HB0405-PPSA23997_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA24008_00",
