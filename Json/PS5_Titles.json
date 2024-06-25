@@ -57024,6 +57024,14 @@
     "publisherId": "EP8543"
   },
   {
+    "titleId": "PPSA13465_00",
+    "conceptId": 10005318,
+    "name": "The First Descendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13470_00",
     "conceptId": 10007227,
     "name": "Loot River",
@@ -72043,9 +72051,9 @@
     "titleId": "PPSA17110_00",
     "conceptId": 10008659,
     "name": "ForeVR Cornhole",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7297-PPSA17110_00-0093391725994227",
+    "region": "EP",
+    "publisherId": "EP7297"
   },
   {
     "titleId": "PPSA17111_00",
@@ -81942,6 +81950,22 @@
     "contentId": "UP6472-PPSA19623_00-SAVETHEWORLD0000",
     "region": "UP",
     "publisherId": "UP6472"
+  },
+  {
+    "titleId": "PPSA19624_00",
+    "conceptId": 10009607,
+    "name": "Bum Simulator",
+    "contentId": "UP1564-PPSA19624_00-CLABS0BS20231009",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
+    "titleId": "PPSA19625_00",
+    "conceptId": 10009607,
+    "name": "Bum Simulator",
+    "contentId": "EP1549-PPSA19625_00-CLABS1BS20231009",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA19626_00",
@@ -92472,6 +92496,14 @@
     "publisherId": "UP8623"
   },
   {
+    "titleId": "PPSA23457_00",
+    "conceptId": 10011205,
+    "name": "Feed My Raptor",
+    "contentId": "UB0796-PPSA23457_00-0622585395521965",
+    "region": "UB",
+    "publisherId": "UB0796"
+  },
+  {
     "titleId": "PPSA23458_00",
     "conceptId": 10011208,
     "name": "Octopo",
@@ -93043,9 +93075,9 @@
     "titleId": "PPSA23994_00",
     "conceptId": 10011497,
     "name": "Cazzarion: Ship Hunting",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA23994_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA23995_00",
@@ -93080,6 +93112,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24048_00",
+    "conceptId": 10010432,
+    "name": "SWORN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24099_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
@@ -93107,6 +93147,14 @@
     "titleId": "PPSA24135_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24140_00",
+    "conceptId": 10011577,
+    "name": "Elemental Cube",
     "contentId": null,
     "region": null,
     "publisherId": null
