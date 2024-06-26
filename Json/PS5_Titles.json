@@ -42842,10 +42842,10 @@
   {
     "titleId": "PPSA09614_00",
     "conceptId": 10001474,
-    "name": "GRAVEN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Graven",
+    "contentId": "EP2552-PPSA09614_00-GRAVENPS500000EU",
+    "region": "EP",
+    "publisherId": "EP2552"
   },
   {
     "titleId": "PPSA09615_00",
@@ -63184,6 +63184,14 @@
     "publisherId": "HP0700"
   },
   {
+    "titleId": "PPSA15209_00",
+    "conceptId": 10007892,
+    "name": "SPY\u00d7ANYA: Operation Memories PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15210_00",
     "conceptId": 10007902,
     "name": "DRAGON BALL: Sparking! ZERO",
@@ -63198,6 +63206,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA15213_00",
+    "conceptId": 10007892,
+    "name": "SPY\u00d7ANYA: Operation Memories PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15215_00",
@@ -63329,6 +63345,14 @@
   },
   {
     "titleId": "PPSA15240_00",
+    "conceptId": 10007903,
+    "name": "Princess Maker 2 Regeneration",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15242_00",
     "conceptId": 10007903,
     "name": "Princess Maker 2 Regeneration",
     "contentId": null,
@@ -65278,6 +65302,14 @@
     "contentId": "JP5849-PPSA15655_00-AIRTWISTERPS5JAP",
     "region": "JP",
     "publisherId": "JP5849"
+  },
+  {
+    "titleId": "PPSA15656_00",
+    "conceptId": 10008074,
+    "name": "Disney Epic Mickey: Rebrushed",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4389"
   },
   {
     "titleId": "PPSA15658_00",
@@ -88128,6 +88160,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21413_00",
+    "conceptId": 10010338,
+    "name": "Frogun Encore Demo",
+    "contentId": "UP5155-PPSA21413_00-FROGUNENCORE0000",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
     "titleId": "PPSA21426_00",
     "conceptId": 10004929,
     "name": "Time Rift",
@@ -89536,6 +89576,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA21962_00",
+    "conceptId": 10008967,
+    "name": "King Arthur: Knight's Tale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21967_00",
     "conceptId": 10010573,
     "name": "Heritage of Eternal Splitting",
@@ -89859,6 +89907,14 @@
     "titleId": "PPSA22073_00",
     "conceptId": 10002783,
     "name": "Rivalia: Dungeon Raiders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22074_00",
+    "conceptId": 10005969,
+    "name": "Exophobia",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -91968,6 +92024,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23148_00",
+    "conceptId": 10005969,
+    "name": "Exophobia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23167_00",
     "conceptId": 10010824,
     "name": "Supermarket Shopping Simulator",
@@ -93120,6 +93184,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24077_00",
+    "conceptId": 10011546,
+    "name": "Snake Seeker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24078_00",
+    "conceptId": 10011546,
+    "name": "Snake Seeker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24079_00",
+    "conceptId": 10011546,
+    "name": "Snake Seeker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24099_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
@@ -93179,6 +93267,14 @@
     "titleId": "PPSA24162_00",
     "conceptId": 10011560,
     "name": "2048 Boys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24418_00",
+    "conceptId": 10011546,
+    "name": "Snake Seeker",
     "contentId": null,
     "region": null,
     "publisherId": null
