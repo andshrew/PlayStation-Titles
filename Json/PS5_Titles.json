@@ -63208,6 +63208,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA15212_00",
+    "conceptId": 10007892,
+    "name": "SPY\u00d7FAMILY \u9593\u8adc\u5bb6\u5bb6\u9152 \u65e5\u8a18\u5927\u4f5c\u6230",
+    "contentId": "HP0700-PPSA15212_00-MAINGAME00000000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA15213_00",
     "conceptId": 10007892,
     "name": "SPY\u00d7ANYA: Operation Memories PS4 & PS5",
@@ -63345,6 +63353,14 @@
   },
   {
     "titleId": "PPSA15240_00",
+    "conceptId": 10007903,
+    "name": "Princess Maker 2 Regeneration",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15241_00",
     "conceptId": 10007903,
     "name": "Princess Maker 2 Regeneration",
     "contentId": null,
@@ -65270,6 +65286,14 @@
     "contentId": "JP3588-PPSA15648_00-000000REDMATTER2",
     "region": "JP",
     "publisherId": "JP3588"
+  },
+  {
+    "titleId": "PPSA15651_00",
+    "conceptId": 10008074,
+    "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30a8\u30d4\u30c3\u30af\u30df\u30c3\u30ad\u30fc\uff1aRebrushed",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2880"
   },
   {
     "titleId": "PPSA15652_00",
@@ -75216,6 +75240,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA17912_00",
+    "conceptId": 10008977,
+    "name": "B\u014d: Path of the Teal Lotus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17923_00",
     "conceptId": 10008721,
     "name": "Mystic Pillars - Remastered",
@@ -82088,6 +82120,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19644_00",
+    "conceptId": 10009612,
+    "name": "Farming Simulator 25",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4399"
+  },
+  {
     "titleId": "PPSA19648_00",
     "conceptId": 10007409,
     "name": "Koi-Koi : Love Blossoms",
@@ -82886,6 +82926,22 @@
     "contentId": "UP0891-PPSA19862_00-SKELERBOYRATAGAM",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA19865_00",
+    "conceptId": 10009696,
+    "name": "Nocturnal Visitors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19866_00",
+    "conceptId": 10009696,
+    "name": "Nocturnal Visitors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19867_00",
@@ -84510,6 +84566,14 @@
     "contentId": "UP1440-PPSA20305_00-REVEILARTBOOKNA5",
     "region": "UP",
     "publisherId": "UP1440"
+  },
+  {
+    "titleId": "PPSA20309_00",
+    "conceptId": 10009874,
+    "name": "Arcade Paradise VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20310_00",
@@ -88147,17 +88211,17 @@
     "titleId": "PPSA21411_00",
     "conceptId": 10010338,
     "name": "Frogun Encore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5155-PPSA21411_00-FROGUNENCORE0000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA21412_00",
     "conceptId": 10010338,
     "name": "Frogun Encore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5335-PPSA21412_00-FROGUNENCORE0000",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA21413_00",
@@ -88166,6 +88230,14 @@
     "contentId": "UP5155-PPSA21413_00-FROGUNENCORE0000",
     "region": "UP",
     "publisherId": "UP5155"
+  },
+  {
+    "titleId": "PPSA21414_00",
+    "conceptId": 10010338,
+    "name": "Frogun Encore Demo",
+    "contentId": "EP5335-PPSA21414_00-FROGUNENCORE0000",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA21426_00",
@@ -89072,6 +89144,22 @@
     "publisherId": "UP7359"
   },
   {
+    "titleId": "PPSA21722_00",
+    "conceptId": 10009816,
+    "name": "\u7206\u8d70\u6b21\u5143\u30cd\u30d7\u30c6\u30e5\u30fc\u30cc VS\u5de8\u795e\u30b9\u30e9\u30a4\u30cc NEPBIKE\u5275\u520a\u53f7",
+    "contentId": "JP0031-PPSA21722_00-DXCONTENTART0001",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
+    "titleId": "PPSA21723_00",
+    "conceptId": 10009816,
+    "name": "\u7206\u8d70\u6b21\u5143\u30cd\u30d7\u30c6\u30e5\u30fc\u30cc VS\u5de8\u795e\u30b9\u30e9\u30a4\u30cc \u7206\u8d70\u97f3\u697dCD",
+    "contentId": "JP0031-PPSA21723_00-DXCONTENTSND0001",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
     "titleId": "PPSA21735_00",
     "conceptId": 10004850,
     "name": "Trinity Fusion Demo",
@@ -89331,9 +89419,9 @@
     "titleId": "PPSA21876_00",
     "conceptId": 10010532,
     "name": "Fortress Challenge - Fort Boyard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4295-PPSA21876_00-FB202400000PS5EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA21877_00",
@@ -89560,6 +89648,14 @@
     "publisherId": "JP4832"
   },
   {
+    "titleId": "PPSA21954_00",
+    "conceptId": 10010568,
+    "name": "SteamWorld Heist II",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5360"
+  },
+  {
     "titleId": "PPSA21955_00",
     "conceptId": 10010569,
     "name": "Cazzarion: Astro Bouncer",
@@ -89574,6 +89670,14 @@
     "contentId": "EB0629-PPSA21956_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA21961_00",
+    "conceptId": 10008967,
+    "name": "King Arthur: Knight's Tale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21962_00",
@@ -89702,6 +89806,14 @@
     "contentId": "UP4892-PPSA22011_00-0142195691221373",
     "region": "UP",
     "publisherId": "UP4892"
+  },
+  {
+    "titleId": "PPSA22013_00",
+    "conceptId": 10010568,
+    "name": "SteamWorld Heist II",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5180"
   },
   {
     "titleId": "PPSA22016_00",
@@ -90643,9 +90755,9 @@
     "titleId": "PPSA22420_00",
     "conceptId": 232562,
     "name": "Blacksad: Under the Skin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4295-PPSA22420_00-BLACKSADPS5000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA22421_00",
@@ -91394,10 +91506,10 @@
   {
     "titleId": "PPSA22727_00",
     "conceptId": 10010784,
-    "name": "How to Sing to Open Your Heart Remastered PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u5fc3\u3092\u958b\u304f\u6b4c\u3044\u65b9\u2605\u30ea\u30de\u30b9\u30bf\u30fc\u7248",
+    "contentId": "UB0538-PPSA22727_00-KOKOUTAREROS3V3R",
+    "region": "UB",
+    "publisherId": "UB0538"
   },
   {
     "titleId": "PPSA22730_00",
@@ -92635,9 +92747,9 @@
     "titleId": "PPSA23495_00",
     "conceptId": 10011077,
     "name": "K-ONE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0810-PPSA23495_00-0718631530060355",
+    "region": "UB",
+    "publisherId": "UB0810"
   },
   {
     "titleId": "PPSA23497_00",
@@ -92819,6 +92931,14 @@
     "titleId": "PPSA23591_00",
     "conceptId": 10011262,
     "name": "Cyber Citizen Shockman Zero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23596_00",
+    "conceptId": 10010394,
+    "name": "Offroad Mechanic Simulator",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -93187,25 +93307,25 @@
     "titleId": "PPSA24077_00",
     "conceptId": 10011546,
     "name": "Snake Seeker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA24077_00-0108877042822476",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA24078_00",
     "conceptId": 10011546,
     "name": "Snake Seeker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA24078_00-0108825072923886",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA24079_00",
     "conceptId": 10011546,
     "name": "Snake Seeker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA24079_00-0301904541977069",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA24099_00",
@@ -93272,11 +93392,19 @@
     "publisherId": null
   },
   {
-    "titleId": "PPSA24418_00",
-    "conceptId": 10011546,
-    "name": "Snake Seeker",
+    "titleId": "PPSA24176_00",
+    "conceptId": 10011591,
+    "name": "Funbits - Betty's Brawl",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24418_00",
+    "conceptId": 10011546,
+    "name": "Snake Seeker",
+    "contentId": "UP8787-PPSA24418_00-0703343312171315",
+    "region": "UP",
+    "publisherId": "UP8787"
   }
 ]
