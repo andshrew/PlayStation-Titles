@@ -25147,9 +25147,9 @@
     "titleId": "PPSA06470_00",
     "conceptId": 10004486,
     "name": "Until Then",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4735-PPSA06470_00-0000000UNTILTHEN",
+    "region": "UP",
+    "publisherId": "UP4735"
   },
   {
     "titleId": "PPSA06471_00",
@@ -62016,6 +62016,30 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA14415_00",
+    "conceptId": 10007640,
+    "name": "Knights & Guns",
+    "contentId": "EP6290-PPSA14415_00-0229692421700194",
+    "region": "EP",
+    "publisherId": "EP6290"
+  },
+  {
+    "titleId": "PPSA14417_00",
+    "conceptId": 10007640,
+    "name": "Knights & Guns",
+    "contentId": "HP6274-PPSA14417_00-0510601514288190",
+    "region": "HP",
+    "publisherId": "HP6274"
+  },
+  {
+    "titleId": "PPSA14418_00",
+    "conceptId": 10007640,
+    "name": "Knights & Guns",
+    "contentId": "JP6207-PPSA14418_00-0888405149852493",
+    "region": "JP",
+    "publisherId": "JP6207"
+  },
+  {
     "titleId": "PPSA14425_00",
     "conceptId": 229969,
     "name": "Mineko's Night Market",
@@ -63217,6 +63241,14 @@
   },
   {
     "titleId": "PPSA15213_00",
+    "conceptId": 10007892,
+    "name": "SPY\u00d7ANYA: Operation Memories PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15214_00",
     "conceptId": 10007892,
     "name": "SPY\u00d7ANYA: Operation Memories PS4 & PS5",
     "contentId": null,
@@ -65334,6 +65366,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP4389"
+  },
+  {
+    "titleId": "PPSA15657_00",
+    "conceptId": 10008074,
+    "name": "Disney Epic Mickey: Rebrushed",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA15658_00",
@@ -69808,6 +69848,22 @@
     "publisherId": "UP8121"
   },
   {
+    "titleId": "PPSA16582_00",
+    "conceptId": 10008437,
+    "name": "Flock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16584_00",
+    "conceptId": 10008437,
+    "name": "Flock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16591_00",
     "conceptId": 10004405,
     "name": "NARAKA:BLADEPOINT",
@@ -71083,9 +71139,9 @@
     "titleId": "PPSA16879_00",
     "conceptId": 10008559,
     "name": "Go Go Jump!!!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA16879_00-GOGOJUMP00000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA16881_00",
@@ -71402,10 +71458,10 @@
   {
     "titleId": "PPSA16934_00",
     "conceptId": 10008586,
-    "name": "NeoSprint",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neo Sprint",
+    "contentId": "EP0182-PPSA16934_00-V171123U20223900",
+    "region": "EP",
+    "publisherId": "EP0182"
   },
   {
     "titleId": "PPSA16938_00",
@@ -79091,9 +79147,9 @@
     "titleId": "PPSA18904_00",
     "conceptId": 235286,
     "name": "Party Poppers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1246-PPSA18904_00-0526134922671039",
+    "region": "EP",
+    "publisherId": "EP1246"
   },
   {
     "titleId": "PPSA18909_00",
@@ -82931,9 +82987,9 @@
     "titleId": "PPSA19865_00",
     "conceptId": 10009696,
     "name": "Nocturnal Visitors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA19865_00-NOCTURNALVISITRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA19866_00",
@@ -84150,6 +84206,14 @@
     "contentId": "HP6766-PPSA20187_00-0182548593242271",
     "region": "HP",
     "publisherId": "HP6766"
+  },
+  {
+    "titleId": "PPSA20192_00",
+    "conceptId": 10009816,
+    "name": "\u7206\u8d70\u6b21\u5143\u30cd\u30d7\u30c6\u30e5\u30fc\u30cc VS\u5de8\u795e\u30b9\u30e9\u30a4\u30cc",
+    "contentId": "JP0031-PPSA20192_00-NEPBIKEMAINGAME0",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA20193_00",
@@ -86462,6 +86526,14 @@
     "contentId": "HP1792-PPSA20823_00-SYPS5AWESOMEPEA3",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA20824_00",
+    "conceptId": 10010102,
+    "name": "Yars Rising",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20829_00",
@@ -89112,6 +89184,14 @@
     "publisherId": "HP1546"
   },
   {
+    "titleId": "PPSA21712_00",
+    "conceptId": 10010460,
+    "name": "34 Sports Games - World Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21714_00",
     "conceptId": 10010464,
     "name": "Rider's Spirits",
@@ -89435,9 +89515,9 @@
     "titleId": "PPSA21878_00",
     "conceptId": 10010532,
     "name": "Fortress Challenge - Fort Boyard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1475-PPSA21878_00-FB202400000PS5US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA21879_00",
@@ -89862,6 +89942,38 @@
     "contentId": "UP5682-PPSA22029_00-0719190675745713",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA22030_00",
+    "conceptId": 10010598,
+    "name": "Overdrive Blaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22031_00",
+    "conceptId": 10010598,
+    "name": "Overdrive Blaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22032_00",
+    "conceptId": 10010598,
+    "name": "Overdrive Blaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22033_00",
+    "conceptId": 10010598,
+    "name": "Overdrive Blaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22048_00",
@@ -90640,6 +90752,14 @@
     "publisherId": "HB0669"
   },
   {
+    "titleId": "PPSA22388_00",
+    "conceptId": 10008977,
+    "name": "B\u014d: Path of the Teal Lotus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22390_00",
     "conceptId": 10010727,
     "name": "My Incubi Harem",
@@ -90763,9 +90883,9 @@
     "titleId": "PPSA22421_00",
     "conceptId": 232562,
     "name": "Blacksad: Under the Skin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1475-PPSA22421_00-BLACKSADPS5000US",
+    "region": "UP",
+    "publisherId": "UP1475"
   },
   {
     "titleId": "PPSA22422_00",
@@ -91512,6 +91632,14 @@
     "publisherId": "UB0538"
   },
   {
+    "titleId": "PPSA22729_00",
+    "conceptId": 10008977,
+    "name": "B\u014d: Path of the Teal Lotus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22730_00",
     "conceptId": 10010816,
     "name": "Blast Frenzy",
@@ -91558,6 +91686,30 @@
     "contentId": "HP7354-PPSA22735_00-0992428424178150",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA22737_00",
+    "conceptId": 10010874,
+    "name": "Supermarket Simulator Manager",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22738_00",
+    "conceptId": 10010874,
+    "name": "Supermarket Simulator Manager",
+    "contentId": "JP7206-PPSA22738_00-0568115827489934",
+    "region": "JP",
+    "publisherId": "JP7206"
+  },
+  {
+    "titleId": "PPSA22739_00",
+    "conceptId": 10010874,
+    "name": "Supermarket Simulator Manager",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22741_00",
@@ -91808,6 +91960,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA22862_00",
+    "conceptId": 10001790,
+    "name": "Hulu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22863_00",
     "conceptId": 10001790,
     "name": "Hulu",
@@ -92022,6 +92182,22 @@
     "contentId": "JP0536-PPSA23017_00-DEMOPS5000000000",
     "region": "JP",
     "publisherId": "JP0536"
+  },
+  {
+    "titleId": "PPSA23018_00",
+    "conceptId": 10010974,
+    "name": "Radikal Fighters",
+    "contentId": "EP5640-PPSA23018_00-RFGAME00000000EU",
+    "region": "EP",
+    "publisherId": "EP5640"
+  },
+  {
+    "titleId": "PPSA23019_00",
+    "conceptId": 10010974,
+    "name": "Radikal Fighters",
+    "contentId": "UP5459-PPSA23019_00-RFGAME00000000US",
+    "region": "UP",
+    "publisherId": "UP5459"
   },
   {
     "titleId": "PPSA23032_00",
@@ -92936,6 +93112,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23595_00",
+    "conceptId": 10010160,
+    "name": "Hairdresser Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23596_00",
     "conceptId": 10010394,
     "name": "Offroad Mechanic Simulator",
@@ -93394,10 +93578,10 @@
   {
     "titleId": "PPSA24176_00",
     "conceptId": 10011591,
-    "name": "Funbits - Betty's Brawl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Minifun - Betty's Brawl",
+    "contentId": "EP1612-PPSA24176_00-BETTYSBRAWLGAME0",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA24418_00",
