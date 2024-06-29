@@ -37456,6 +37456,14 @@
     "publisherId": "HP9000"
   },
   {
+    "titleId": "PPSA08707_00",
+    "conceptId": 10004727,
+    "name": "\u30d3\u30e8\u30f3\u30c9\u30b0\u30c3\u30c9\uff06\u30a4\u30fc\u30d6\u30eb 20\u5468\u5e74\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
+    "contentId": "JP0001-PPSA08707_00-BGER000000000000",
+    "region": "JP",
+    "publisherId": "JP0001"
+  },
+  {
     "titleId": "PPSA08708_00",
     "conceptId": 10005529,
     "name": "SILENT HILL 2",
@@ -47718,6 +47726,14 @@
     "contentId": "JP0075-PPSA10413_00-APLAGUEOUTBURST0",
     "region": "JP",
     "publisherId": "JP0075"
+  },
+  {
+    "titleId": "PPSA10415_00",
+    "conceptId": 10006212,
+    "name": "Evotinction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10416_00",
@@ -59768,6 +59784,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA13977_00",
+    "conceptId": 10005803,
+    "name": "SCHiM",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13986_00",
     "conceptId": 10007398,
     "name": "TramSim - Console Edition",
@@ -63242,10 +63266,10 @@
   {
     "titleId": "PPSA15213_00",
     "conceptId": 10007892,
-    "name": "SPY\u00d7ANYA: Operation Memories PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SPY\u00d7ANYA: Operation Memories",
+    "contentId": "EP0700-PPSA15213_00-MAINGAME00000000",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA15214_00",
@@ -69363,9 +69387,9 @@
     "titleId": "PPSA16492_00",
     "conceptId": 10007340,
     "name": "Gigantosaurus: Dino Sports",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA16492_00-GTCGBASEGAME0001",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA16493_00",
@@ -69856,7 +69880,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16583_00",
+    "conceptId": 10008437,
+    "name": "Flock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16584_00",
+    "conceptId": 10008437,
+    "name": "Flock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16585_00",
     "conceptId": 10008437,
     "name": "Flock",
     "contentId": null,
@@ -71088,6 +71128,14 @@
     "publisherId": "HP8474"
   },
   {
+    "titleId": "PPSA16869_00",
+    "conceptId": 10008552,
+    "name": "STAR WARS\u2122: Bounty Hunter\u2122",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1032"
+  },
+  {
     "titleId": "PPSA16873_00",
     "conceptId": 10008557,
     "name": "Sunny Caf\u00e9",
@@ -71131,9 +71179,9 @@
     "titleId": "PPSA16878_00",
     "conceptId": 10008559,
     "name": "Go Go Jump!!!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA16878_00-GOGOJUMP00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA16879_00",
@@ -71450,10 +71498,10 @@
   {
     "titleId": "PPSA16933_00",
     "conceptId": 10008586,
-    "name": "NeoSprint",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neo Sprint",
+    "contentId": "UP0182-PPSA16933_00-V171123U20223900",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA16934_00",
@@ -71462,6 +71510,14 @@
     "contentId": "EP0182-PPSA16934_00-V171123U20223900",
     "region": "EP",
     "publisherId": "EP0182"
+  },
+  {
+    "titleId": "PPSA16937_00",
+    "conceptId": 10008552,
+    "name": "STAR WARS\u2122: Bounty Hunter\u2122",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1875"
   },
   {
     "titleId": "PPSA16938_00",
@@ -82995,9 +83051,9 @@
     "titleId": "PPSA19866_00",
     "conceptId": 10009696,
     "name": "Nocturnal Visitors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA19866_00-NOCTURNALVISITRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19867_00",
@@ -87563,9 +87619,9 @@
     "titleId": "PPSA21179_00",
     "conceptId": 10010243,
     "name": "Bloodhound",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0811-PPSA21179_00-0026212370270112",
+    "region": "EB",
+    "publisherId": "EB0811"
   },
   {
     "titleId": "PPSA21180_00",
@@ -88584,6 +88640,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21536_00",
+    "conceptId": 10010395,
+    "name": "Creature Lab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21537_00",
+    "conceptId": 10010395,
+    "name": "Creature Lab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21542_00",
     "conceptId": 10009214,
     "name": "Potato Sack Racing Simulator 2024 Demo",
@@ -89184,12 +89256,20 @@
     "publisherId": "HP1546"
   },
   {
-    "titleId": "PPSA21712_00",
+    "titleId": "PPSA21711_00",
     "conceptId": 10010460,
     "name": "34 Sports Games - World Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA21712_00",
+    "conceptId": 10010460,
+    "name": "34 Sports Games - World Edition",
+    "contentId": "EP2955-PPSA21712_00-34GAMESWORLD0000",
+    "region": "EP",
+    "publisherId": "EP2955"
   },
   {
     "titleId": "PPSA21714_00",
@@ -91688,12 +91768,20 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA22736_00",
+    "conceptId": 10010874,
+    "name": "Supermarket Simulator Manager",
+    "contentId": "UP7234-PPSA22736_00-0436172992502314",
+    "region": "UP",
+    "publisherId": "UP7234"
+  },
+  {
     "titleId": "PPSA22737_00",
     "conceptId": 10010874,
     "name": "Supermarket Simulator Manager",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7231-PPSA22737_00-0283443976622981",
+    "region": "EP",
+    "publisherId": "EP7231"
   },
   {
     "titleId": "PPSA22738_00",
@@ -91707,9 +91795,9 @@
     "titleId": "PPSA22739_00",
     "conceptId": 10010874,
     "name": "Supermarket Simulator Manager",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7252-PPSA22739_00-0749894431765012",
+    "region": "HP",
+    "publisherId": "HP7252"
   },
   {
     "titleId": "PPSA22741_00",
@@ -91843,33 +91931,33 @@
     "titleId": "PPSA22768_00",
     "conceptId": 10010888,
     "name": "A Burger in Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA22768_00-0777905459124515",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA22769_00",
     "conceptId": 10010888,
     "name": "A Burger in Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA22769_00-0256479562464030",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA22770_00",
     "conceptId": 10010888,
     "name": "A Burger in Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA22770_00-0184536433907636",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA22771_00",
     "conceptId": 10010888,
     "name": "A Burger in Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA22771_00-0463171876655533",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA22776_00",
@@ -92126,6 +92214,14 @@
     "contentId": "EP5864-PPSA22997_00-0526052818247755",
     "region": "EP",
     "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA23004_00",
+    "conceptId": 10010968,
+    "name": "Let's Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23005_00",
@@ -92779,17 +92875,17 @@
     "titleId": "PPSA23443_00",
     "conceptId": 10011195,
     "name": "Local News with Cliff Rockslide",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA23443_00-0802430954894091",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA23444_00",
     "conceptId": 10011195,
     "name": "Local News with Cliff Rockslide",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA23444_00-0045694710771567",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA23445_00",
@@ -92886,6 +92982,14 @@
     "contentId": "UP7668-PPSA23463_00-0814992239743854",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23464_00",
+    "conceptId": 10011210,
+    "name": "Runnero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23476_00",
@@ -93070,6 +93174,22 @@
     "contentId": "UP4312-PPSA23539_00-0207538860816213",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA23540_00",
+    "conceptId": 10011200,
+    "name": "Goblins",
+    "contentId": "JP0089-PPSA23540_00-0935665901411095",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA23541_00",
+    "conceptId": 10011200,
+    "name": "Goblins",
+    "contentId": "HP4312-PPSA23541_00-0628907128347065",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA23570_00",
@@ -93475,9 +93595,9 @@
     "titleId": "PPSA24008_00",
     "conceptId": 10011159,
     "name": "Air Sea Modern Conflict",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-PPSA24008_00-0193588373535182",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "PPSA24048_00",
@@ -93523,6 +93643,38 @@
     "titleId": "PPSA24108_00",
     "conceptId": 10011560,
     "name": "2048 Boys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24129_00",
+    "conceptId": 10011573,
+    "name": "Cazzarion: Bomber Attack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24130_00",
+    "conceptId": 10011573,
+    "name": "Cazzarion: Bomber Attack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24131_00",
+    "conceptId": 10011573,
+    "name": "Cazzarion: Bomber Attack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24132_00",
+    "conceptId": 10011573,
+    "name": "Cazzarion: Bomber Attack",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -93582,6 +93734,22 @@
     "contentId": "EP1612-PPSA24176_00-BETTYSBRAWLGAME0",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA24283_00",
+    "conceptId": 10011437,
+    "name": "Planet Divers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24285_00",
+    "conceptId": 10011437,
+    "name": "Planet Divers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24418_00",
