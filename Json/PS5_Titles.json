@@ -42344,6 +42344,14 @@
     "publisherId": "UP4912"
   },
   {
+    "titleId": "PPSA09528_00",
+    "conceptId": 10005841,
+    "name": "2XKO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09532_00",
     "conceptId": 10002154,
     "name": "NFL ProERA '22",
@@ -54283,9 +54291,9 @@
     "titleId": "PPSA12360_00",
     "conceptId": 10006849,
     "name": "Last Night of Winter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4912-PPSA12360_00-LASTNIGHTWINTER0",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA12361_00",
@@ -57067,9 +57075,9 @@
     "titleId": "PPSA13465_00",
     "conceptId": 10005318,
     "name": "The First Descendant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3685-PPSA13465_00-0404969663258693",
+    "region": "UP",
+    "publisherId": "UP3685"
   },
   {
     "titleId": "PPSA13470_00",
@@ -59803,6 +59811,14 @@
     "titleId": "PPSA13968_00",
     "conceptId": 10002313,
     "name": "The Crew Motorfest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA13976_00",
+    "conceptId": 10005803,
+    "name": "SCHiM",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -63306,10 +63322,10 @@
   {
     "titleId": "PPSA15214_00",
     "conceptId": 10007892,
-    "name": "SPY\u00d7ANYA: Operation Memories PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SPY\u00d7ANYA: Operation Memories",
+    "contentId": "UP0700-PPSA15214_00-MAINGAME00000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA15215_00",
@@ -88080,6 +88096,14 @@
     "publisherId": "UP3867"
   },
   {
+    "titleId": "PPSA21343_00",
+    "conceptId": 10002564,
+    "name": "Distance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21346_00",
     "conceptId": 10010308,
     "name": "Pretty Girls Escape PLUS",
@@ -88414,6 +88438,14 @@
     "contentId": "UP6718-PPSA21426_00-0659370178468908",
     "region": "UP",
     "publisherId": "UP6718"
+  },
+  {
+    "titleId": "PPSA21427_00",
+    "conceptId": 10002564,
+    "name": "Distance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21428_00",
@@ -89875,17 +89907,17 @@
     "titleId": "PPSA21961_00",
     "conceptId": 10008967,
     "name": "King Arthur: Knight's Tale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8019-PPSA21961_00-KAKT00000SIEJAJA",
+    "region": "JP",
+    "publisherId": "JP8019"
   },
   {
     "titleId": "PPSA21962_00",
     "conceptId": 10008967,
     "name": "King Arthur: Knight's Tale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8065-PPSA21962_00-KAKT000000SIEJAA",
+    "region": "HP",
+    "publisherId": "HP8065"
   },
   {
     "titleId": "PPSA21967_00",
@@ -91240,6 +91272,30 @@
     "publisherId": "HP6477"
   },
   {
+    "titleId": "PPSA22495_00",
+    "conceptId": 10010724,
+    "name": "Rooftop Rascal: The Alley Cat",
+    "contentId": "EB0933-PPSA22495_00-0646700481106433",
+    "region": "EB",
+    "publisherId": "EB0933"
+  },
+  {
+    "titleId": "PPSA22496_00",
+    "conceptId": 10010724,
+    "name": "Rooftop Rascal: The Alley Cat",
+    "contentId": "UB0738-PPSA22496_00-0077705611930727",
+    "region": "UB",
+    "publisherId": "UB0738"
+  },
+  {
+    "titleId": "PPSA22497_00",
+    "conceptId": 10010724,
+    "name": "Rooftop Rascal: The Alley Cat",
+    "contentId": "JB0678-PPSA22497_00-0162620060648469",
+    "region": "JB",
+    "publisherId": "JB0678"
+  },
+  {
     "titleId": "PPSA22498_00",
     "conceptId": 10010724,
     "name": "Rooftop Rascal: The Alley Cat",
@@ -92206,6 +92262,14 @@
     "contentId": "JB0377-PPSA22911_00-XXXXXXXXXXXXXXXX",
     "region": "JB",
     "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA22914_00",
+    "conceptId": 10010849,
+    "name": "WitchSpring R",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP8613"
   },
   {
     "titleId": "PPSA22925_00",
@@ -93336,6 +93400,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23592_00",
+    "conceptId": 10011264,
+    "name": "Deathchron",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23595_00",
     "conceptId": 10010160,
     "name": "Hairdresser Simulator",
@@ -93560,6 +93632,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA23823_00",
+    "conceptId": 10011414,
+    "name": "BACKROOMS BROTHERHOOD PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23834_00",
     "conceptId": 10002695,
     "name": "Concord\u2122",
@@ -93643,6 +93723,14 @@
     "titleId": "PPSA23881_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23882_00",
+    "conceptId": 10011438,
+    "name": "Tetrack",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -93779,17 +93867,17 @@
     "titleId": "PPSA24131_00",
     "conceptId": 10011573,
     "name": "Cazzarion: Bomber Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0377-PPSA24131_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
   },
   {
     "titleId": "PPSA24132_00",
     "conceptId": 10011573,
     "name": "Cazzarion: Bomber Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA24132_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA24134_00",
@@ -93848,6 +93936,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA24209_00",
+    "conceptId": 10011390,
+    "name": "Cubic Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24283_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
@@ -93867,6 +93963,30 @@
     "titleId": "PPSA24285_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24286_00",
+    "conceptId": 10011438,
+    "name": "Tetrack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24288_00",
+    "conceptId": 10011438,
+    "name": "Tetrack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24322_00",
+    "conceptId": 10010245,
+    "name": "The Street 10 VR",
     "contentId": null,
     "region": null,
     "publisherId": null
