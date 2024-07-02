@@ -26954,10 +26954,10 @@
   {
     "titleId": "PPSA06778_00",
     "conceptId": 10004642,
-    "name": "Exo One",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ExoOne",
+    "contentId": "UP5580-PPSA06778_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP5580"
   },
   {
     "titleId": "PPSA06780_00",
@@ -42866,10 +42866,10 @@
   {
     "titleId": "PPSA09613_00",
     "conceptId": 10001474,
-    "name": "GRAVEN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Graven",
+    "contentId": "UP2690-PPSA09613_00-GRAVENPS500000US",
+    "region": "UP",
+    "publisherId": "UP2690"
   },
   {
     "titleId": "PPSA09614_00",
@@ -90000,6 +90000,22 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA21997_00",
+    "conceptId": 10010587,
+    "name": "Thief Simulator 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21998_00",
+    "conceptId": 10010587,
+    "name": "Thief Simulator 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22006_00",
     "conceptId": 10010213,
     "name": "Selfloss Demo",
@@ -90718,6 +90734,22 @@
     "contentId": "EB0301-PPSA22269_00-0583235076078455",
     "region": "EB",
     "publisherId": "EB0301"
+  },
+  {
+    "titleId": "PPSA22291_00",
+    "conceptId": 10010694,
+    "name": "A Night on the Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22292_00",
+    "conceptId": 10010694,
+    "name": "A Night on the Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22307_00",
@@ -92200,6 +92232,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22884_00",
+    "conceptId": 10010927,
+    "name": "Kiki - A Vibrant 3D Platformer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22885_00",
+    "conceptId": 10010927,
+    "name": "Kiki - A Vibrant 3D Platformer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22886_00",
     "conceptId": 10010928,
     "name": "Glyphs of Gitzan",
@@ -93440,6 +93488,22 @@
     "publisherId": "UB0612"
   },
   {
+    "titleId": "PPSA23607_00",
+    "conceptId": 10011275,
+    "name": "Tiny Pixels Vol. 1 - Ninpo Blast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23609_00",
+    "conceptId": 10011277,
+    "name": "SokoPenguin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23621_00",
     "conceptId": 10011292,
     "name": "Learn to Play Vol. 3 - Mice Love Cheese",
@@ -93616,6 +93680,14 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23768_00",
+    "conceptId": 10011378,
+    "name": "Cattie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23784_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
@@ -93630,6 +93702,14 @@
     "contentId": "EB0805-PPSA23785_00-0081808876446317",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA23786_00",
+    "conceptId": 10011390,
+    "name": "Cubic Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23823_00",
@@ -93851,17 +93931,17 @@
     "titleId": "PPSA24129_00",
     "conceptId": 10011573,
     "name": "Cazzarion: Bomber Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA24129_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA24130_00",
     "conceptId": 10011573,
     "name": "Cazzarion: Bomber Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA24130_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA24131_00",
@@ -93936,6 +94016,22 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA24207_00",
+    "conceptId": 10011390,
+    "name": "Cubic Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24208_00",
+    "conceptId": 10011390,
+    "name": "Cubic Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24209_00",
     "conceptId": 10011390,
     "name": "Cubic Riders",
@@ -93976,6 +94072,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24287_00",
+    "conceptId": 10011438,
+    "name": "Tetrack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24288_00",
     "conceptId": 10011438,
     "name": "Tetrack",
@@ -93987,6 +94091,38 @@
     "titleId": "PPSA24322_00",
     "conceptId": 10010245,
     "name": "The Street 10 VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24396_00",
+    "conceptId": 10011702,
+    "name": "APPLESNATCH!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24397_00",
+    "conceptId": 10011702,
+    "name": "APPLESNATCH!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24398_00",
+    "conceptId": 10011702,
+    "name": "APPLESNATCH!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24399_00",
+    "conceptId": 10011702,
+    "name": "APPLESNATCH!",
     "contentId": null,
     "region": null,
     "publisherId": null
