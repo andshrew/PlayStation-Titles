@@ -26946,10 +26946,10 @@
   {
     "titleId": "PPSA06777_00",
     "conceptId": 10004642,
-    "name": "Exo One",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ExoOne",
+    "contentId": "EP5761-PPSA06777_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP5761"
   },
   {
     "titleId": "PPSA06778_00",
@@ -43512,6 +43512,14 @@
     "publisherId": "EP3597"
   },
   {
+    "titleId": "PPSA09729_00",
+    "conceptId": 10005969,
+    "name": "Exophobia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09730_00",
     "conceptId": 10001555,
     "name": "\u5973\u795e\u7570\u805e\u9304\uff13 Reload",
@@ -51136,6 +51144,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA10998_00",
+    "conceptId": 10006212,
+    "name": "Evotinction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA11005_00",
     "conceptId": 234318,
     "name": "Sail Forth",
@@ -57078,6 +57094,14 @@
     "contentId": "UP3685-PPSA13465_00-0404969663258693",
     "region": "UP",
     "publisherId": "UP3685"
+  },
+  {
+    "titleId": "PPSA13466_00",
+    "conceptId": 10005318,
+    "name": "The First Descendant",
+    "contentId": "EP3539-PPSA13466_00-0595974263978906",
+    "region": "EP",
+    "publisherId": "EP3539"
   },
   {
     "titleId": "PPSA13470_00",
@@ -64688,6 +64712,14 @@
     "publisherId": "UP6733"
   },
   {
+    "titleId": "PPSA15496_00",
+    "conceptId": 10003670,
+    "name": "Closer the Distance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15500_00",
     "conceptId": 10003574,
     "name": "The Foglands",
@@ -69771,17 +69803,17 @@
     "titleId": "PPSA16555_00",
     "conceptId": 10008426,
     "name": "Hot Blood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA16555_00-HOTBLOOD00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA16556_00",
     "conceptId": 10008426,
     "name": "Hot Blood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA16556_00-HOTBLOOD00000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA16557_00",
@@ -76856,6 +76888,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA18259_00",
+    "conceptId": 10009074,
+    "name": "Dead Rising Deluxe Remaster",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
     "titleId": "PPSA18260_00",
     "conceptId": 10003491,
     "name": "Very Bad Dreams",
@@ -76974,6 +77014,14 @@
     "contentId": "EP0600-PPSA18298_00-0909602420696630",
     "region": "EP",
     "publisherId": "EP0600"
+  },
+  {
+    "titleId": "PPSA18302_00",
+    "conceptId": 10009074,
+    "name": "\u30c7\u30c3\u30c9\u30e9\u30a4\u30b8\u30f3\u30b0 \u30c7\u30e9\u30c3\u30af\u30b9\u30ea\u30de\u30b9\u30bf\u30fc",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA18319_00",
@@ -78579,6 +78627,22 @@
     "titleId": "PPSA18746_00",
     "conceptId": 10002695,
     "name": "Concord\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18750_00",
+    "conceptId": 10009292,
+    "name": "Cyber Mission",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18751_00",
+    "conceptId": 10009292,
+    "name": "Cyber Mission",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -85224,6 +85288,14 @@
     "publisherId": "HP5798"
   },
   {
+    "titleId": "PPSA20454_00",
+    "conceptId": 10009572,
+    "name": "Eden Genesis PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20455_00",
     "conceptId": 10009940,
     "name": "Mystery Box: Hidden Secrets",
@@ -86288,6 +86360,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20717_00",
+    "conceptId": 232337,
+    "name": "Windlands 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20718_00",
     "conceptId": 232337,
     "name": "Windlands 2",
@@ -87070,6 +87150,14 @@
     "contentId": "HP7695-PPSA20974_00-0876296190494606",
     "region": "HP",
     "publisherId": "HP7695"
+  },
+  {
+    "titleId": "PPSA20978_00",
+    "conceptId": 10010165,
+    "name": "Sneaky Rat",
+    "contentId": "UP7103-PPSA20978_00-PPGPURASNEAKYRAT",
+    "region": "UP",
+    "publisherId": "UP7103"
   },
   {
     "titleId": "PPSA20981_00",
@@ -89014,6 +89102,30 @@
     "contentId": "HP6691-PPSA21637_00-GOODGUYSGAMPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA21640_00",
+    "conceptId": 10008719,
+    "name": "Kunitsu-Gami: Path of the Goddess - Demo",
+    "contentId": "UP0102-PPSA21640_00-KUNITSUGAMID1000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
+    "titleId": "PPSA21641_00",
+    "conceptId": 10008719,
+    "name": "Kunitsu-Gami: Path of the Goddess - Demo",
+    "contentId": "EP0102-PPSA21641_00-KUNITSUGAMID1000",
+    "region": "EP",
+    "publisherId": "EP0102"
+  },
+  {
+    "titleId": "PPSA21642_00",
+    "conceptId": 10008719,
+    "name": "\u7947\uff1aPath of the Goddess - Demo",
+    "contentId": "JP0102-PPSA21642_00-KUNITSUGAMID1000",
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA21643_00",
@@ -92168,6 +92280,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22805_00",
+    "conceptId": 10008719,
+    "name": "Kunitsu-Gami: Path of the Goddess",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22809_00",
     "conceptId": 10010901,
     "name": "Mystic Warriors Battleground",
@@ -93328,6 +93448,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA23518_00",
+    "conceptId": 10004842,
+    "name": "Infinity Nikki",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23523_00",
     "conceptId": 10010824,
     "name": "Supermarket Shopping Simulator",
@@ -93714,10 +93842,10 @@
   {
     "titleId": "PPSA23823_00",
     "conceptId": 10011414,
-    "name": "BACKROOMS BROTHERHOOD PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Backrooms Brotherhood",
+    "contentId": "UP5682-PPSA23823_00-0675078879036948",
+    "region": "UP",
+    "publisherId": "UP5682"
   },
   {
     "titleId": "PPSA23834_00",
@@ -93814,6 +93942,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23927_00",
+    "conceptId": 10011364,
+    "name": "AeonX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23929_00",
+    "conceptId": 10011364,
+    "name": "AeonX",
+    "contentId": "JP0089-PPSA23929_00-0986318837734787",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA23931_00",
@@ -94088,9 +94232,113 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24310_00",
+    "conceptId": 232885,
+    "name": "Sky",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24322_00",
     "conceptId": 10010245,
     "name": "The Street 10 VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24353_00",
+    "conceptId": 10011683,
+    "name": "Cola Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24354_00",
+    "conceptId": 10011683,
+    "name": "Cola Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24355_00",
+    "conceptId": 10011683,
+    "name": "Cola Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24356_00",
+    "conceptId": 10011683,
+    "name": "Cola Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24361_00",
+    "conceptId": 10011685,
+    "name": "Sumo Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24362_00",
+    "conceptId": 10011685,
+    "name": "Sumo Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24363_00",
+    "conceptId": 10011685,
+    "name": "Sumo Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24364_00",
+    "conceptId": 10011685,
+    "name": "Sumo Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24365_00",
+    "conceptId": 10011558,
+    "name": "Hearthstorm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24366_00",
+    "conceptId": 10011558,
+    "name": "Hearthstorm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24367_00",
+    "conceptId": 10011558,
+    "name": "Hearthstorm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24368_00",
+    "conceptId": 10011686,
+    "name": "Tiny Speedster",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -94134,5 +94382,13 @@
     "contentId": "UP8787-PPSA24418_00-0703343312171315",
     "region": "UP",
     "publisherId": "UP8787"
+  },
+  {
+    "titleId": "PPSA24508_00",
+    "conceptId": 10011764,
+    "name": "Astral Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
