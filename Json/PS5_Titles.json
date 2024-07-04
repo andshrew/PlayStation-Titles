@@ -36320,6 +36320,14 @@
     "publisherId": "HP0106"
   },
   {
+    "titleId": "PPSA08525_00",
+    "conceptId": 10005433,
+    "name": "Gravitators",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08526_00",
     "conceptId": 10005387,
     "name": "Baldur's Gate: Dark Alliance II",
@@ -43512,6 +43520,14 @@
     "publisherId": "EP3597"
   },
   {
+    "titleId": "PPSA09728_00",
+    "conceptId": 10005969,
+    "name": "Exophobia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09729_00",
     "conceptId": 10005969,
     "name": "Exophobia",
@@ -47758,6 +47774,14 @@
     "contentId": "JP0075-PPSA10413_00-APLAGUEOUTBURST0",
     "region": "JP",
     "publisherId": "JP0075"
+  },
+  {
+    "titleId": "PPSA10414_00",
+    "conceptId": 10006212,
+    "name": "Evotinction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10415_00",
@@ -62688,6 +62712,22 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA14676_00",
+    "conceptId": 10007742,
+    "name": "Harvest Days",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14679_00",
+    "conceptId": 10007742,
+    "name": "Harvest Days",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14680_00",
     "conceptId": 10007743,
     "name": "PERISH",
@@ -64713,6 +64753,30 @@
   },
   {
     "titleId": "PPSA15496_00",
+    "conceptId": 10003670,
+    "name": "Closer the Distance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15497_00",
+    "conceptId": 10003670,
+    "name": "Closer the Distance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15498_00",
+    "conceptId": 10003670,
+    "name": "Closer the Distance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15499_00",
     "conceptId": 10003670,
     "name": "Closer the Distance",
     "contentId": null,
@@ -87160,6 +87224,14 @@
     "publisherId": "UP7103"
   },
   {
+    "titleId": "PPSA20979_00",
+    "conceptId": 10010165,
+    "name": "Sneaky Rat",
+    "contentId": "EP7099-PPSA20979_00-PPGPURASNEAKYRAT",
+    "region": "EP",
+    "publisherId": "EP7099"
+  },
+  {
     "titleId": "PPSA20981_00",
     "conceptId": 10008787,
     "name": "The Ramsey",
@@ -90448,6 +90520,38 @@
     "publisherId": "JP1349"
   },
   {
+    "titleId": "PPSA22109_00",
+    "conceptId": 10010179,
+    "name": "Disaster Band",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22110_00",
+    "conceptId": 10010179,
+    "name": "Disaster Band",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22111_00",
+    "conceptId": 10010179,
+    "name": "Disaster Band",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22112_00",
+    "conceptId": 10010179,
+    "name": "Disaster Band",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22124_00",
     "conceptId": 10009803,
     "name": "Slime Rancher 2",
@@ -91234,10 +91338,10 @@
   {
     "titleId": "PPSA22446_00",
     "conceptId": 200115,
-    "name": "Agatha Christie - The ABC Murders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Agatha Christie: The ABC Murders",
+    "contentId": "EP4295-PPSA22446_00-ABCMURDERSPS50EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA22447_00",
@@ -91910,6 +92014,14 @@
     "contentId": "EP5864-PPSA22667_00-0273172639098227",
     "region": "EP",
     "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA22668_00",
+    "conceptId": 10010769,
+    "name": "Deadlink - OST Bundle",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2627"
   },
   {
     "titleId": "PPSA22670_00",
@@ -92760,6 +92872,14 @@
     "publisherId": "UB0612"
   },
   {
+    "titleId": "PPSA23191_00",
+    "conceptId": 10011072,
+    "name": "Flip It",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23204_00",
     "conceptId": 10010869,
     "name": "Trust No One",
@@ -92806,6 +92926,38 @@
     "contentId": "EP1629-PPSA23239_00-GREED2FEXJDPS5EU",
     "region": "EP",
     "publisherId": "EP1629"
+  },
+  {
+    "titleId": "PPSA23243_00",
+    "conceptId": 10011096,
+    "name": "Platform Twister - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23244_00",
+    "conceptId": 10011096,
+    "name": "Platform Twister - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23245_00",
+    "conceptId": 10011096,
+    "name": "Platform Twister - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23246_00",
+    "conceptId": 10011096,
+    "name": "Platform Twister - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23254_00",
@@ -92894,6 +93046,14 @@
     "contentId": "HP4312-PPSA23271_00-0002005789250379",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA23296_00",
+    "conceptId": 10009637,
+    "name": "Captain Toonhead Vs. The Punks from Outer Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23297_00",
@@ -93062,6 +93222,22 @@
     "contentId": "HP8737-PPSA23381_00-0588502564675062",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA23392_00",
+    "conceptId": 10011169,
+    "name": "Box Smash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23394_00",
+    "conceptId": 10011169,
+    "name": "Box Smash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23397_00",
@@ -93595,9 +93771,9 @@
     "titleId": "PPSA23596_00",
     "conceptId": 10010394,
     "name": "Offroad Mechanic Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA23596_00-0742551381817956",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA23602_00",
@@ -93947,9 +94123,17 @@
     "titleId": "PPSA23927_00",
     "conceptId": 10011364,
     "name": "AeonX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA23927_00-0546004045615449",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA23928_00",
+    "conceptId": 10011364,
+    "name": "AeonX",
+    "contentId": "UP4312-PPSA23928_00-0439986449368917",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA23929_00",
@@ -94064,6 +94248,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24100_00",
+    "conceptId": 10011558,
+    "name": "Hearthstorm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24108_00",
     "conceptId": 10011560,
     "name": "2048 Boys",
@@ -94123,9 +94315,9 @@
     "titleId": "PPSA24140_00",
     "conceptId": 10011577,
     "name": "Elemental Cube",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0301-PPSA24140_00-0727013853533001",
+    "region": "EB",
+    "publisherId": "EB0301"
   },
   {
     "titleId": "PPSA24160_00",
