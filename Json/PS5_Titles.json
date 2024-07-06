@@ -19296,6 +19296,14 @@
     "publisherId": "UP2106"
   },
   {
+    "titleId": "PPSA05362_00",
+    "conceptId": 10003816,
+    "name": "Parkitect Deluxe Edition",
+    "contentId": "UP2106-PPSA05362_00-PARKITECT0000000",
+    "region": "UP",
+    "publisherId": "UP2106"
+  },
+  {
     "titleId": "PPSA05364_00",
     "conceptId": 10003835,
     "name": "The Serpent Rogue",
@@ -25646,6 +25654,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA06569_00",
+    "conceptId": 10004518,
+    "name": "SWORD ART ONLINE Fractured Daydream",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA06570_00",
@@ -62728,6 +62744,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14677_00",
+    "conceptId": 10007742,
+    "name": "Harvest Days",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14678_00",
+    "conceptId": 10007742,
+    "name": "Harvest Days",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14679_00",
     "conceptId": 10007742,
     "name": "Harvest Days",
@@ -88907,9 +88939,9 @@
     "titleId": "PPSA21537_00",
     "conceptId": 10010395,
     "name": "Creature Lab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA21537_00-0825080155857245",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA21542_00",
@@ -89198,6 +89230,14 @@
     "contentId": "HP6691-PPSA21637_00-GOODGUYSGAMPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA21638_00",
+    "conceptId": 10010440,
+    "name": "Sky Climb",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21640_00",
@@ -90331,9 +90371,9 @@
     "titleId": "PPSA22031_00",
     "conceptId": 10010598,
     "name": "Overdrive Blaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA22031_00-0606784351364392",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA22032_00",
@@ -90347,9 +90387,9 @@
     "titleId": "PPSA22033_00",
     "conceptId": 10010598,
     "name": "Overdrive Blaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA22033_00-0259279089002724",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA22048_00",
@@ -92816,6 +92856,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA23075_00",
+    "conceptId": 10010440,
+    "name": "Sky Climb",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23111_00",
     "conceptId": 10011024,
     "name": "Learn to Play Vol. 2 - A Simple Shooter",
@@ -92923,9 +92971,9 @@
     "titleId": "PPSA23212_00",
     "conceptId": 10011004,
     "name": "Summer Games Beach Volley",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-PPSA23212_00-0548411255700861",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "PPSA23226_00",
@@ -93251,17 +93299,17 @@
     "titleId": "PPSA23392_00",
     "conceptId": 10011169,
     "name": "Box Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA23392_00-0716197680841235",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA23393_00",
     "conceptId": 10011169,
     "name": "Box Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA23393_00-0748523140467302",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA23394_00",
@@ -93912,12 +93960,20 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23629_00",
+    "conceptId": 10011294,
+    "name": "Caretaker",
+    "contentId": "EP8070-PPSA23629_00-0535955839518130",
+    "region": "EP",
+    "publisherId": "EP8070"
+  },
+  {
     "titleId": "PPSA23630_00",
     "conceptId": 10011294,
     "name": "Caretaker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8070-PPSA23630_00-0813887504485278",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA23639_00",
@@ -94520,6 +94576,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24315_00",
+    "conceptId": 10011664,
+    "name": "Cazzarion: Mosquito Hunt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24316_00",
+    "conceptId": 10011664,
+    "name": "Cazzarion: Mosquito Hunt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24317_00",
+    "conceptId": 10011664,
+    "name": "Cazzarion: Mosquito Hunt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24318_00",
+    "conceptId": 10011664,
+    "name": "Cazzarion: Mosquito Hunt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24322_00",
     "conceptId": 10010245,
     "name": "The Street 10 VR",
@@ -94643,17 +94731,17 @@
     "titleId": "PPSA24398_00",
     "conceptId": 10011702,
     "name": "APPLESNATCH!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA24398_00-0280013600097130",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA24399_00",
     "conceptId": 10011702,
     "name": "APPLESNATCH!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA24399_00-0955455045107616",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA24418_00",
