@@ -25648,6 +25648,14 @@
     "publisherId": "EP4060"
   },
   {
+    "titleId": "PPSA06567_00",
+    "conceptId": 10004518,
+    "name": "SWORD ART ONLINE Fractured Daydream",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA06568_00",
     "conceptId": 10004518,
     "name": "SWORD ART ONLINE Fractured Daydream",
@@ -79731,9 +79739,9 @@
     "titleId": "PPSA18987_00",
     "conceptId": 10001886,
     "name": "The Legend of Heroes: Trails through Daybreak",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA18987_00-KURONOKISEKIEU00",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA18988_00",
@@ -89712,6 +89720,14 @@
     "publisherId": "UB0561"
   },
   {
+    "titleId": "PPSA21780_00",
+    "conceptId": 10008883,
+    "name": "Fur Squadron",
+    "contentId": "JP5187-PPSA21780_00-0394876776759620",
+    "region": "JP",
+    "publisherId": "JP5187"
+  },
+  {
     "titleId": "PPSA21784_00",
     "conceptId": 10010491,
     "name": "Chimp Quest: Spirit Isle",
@@ -94320,6 +94336,30 @@
     "publisherId": "UP7578"
   },
   {
+    "titleId": "PPSA23961_00",
+    "conceptId": 10011472,
+    "name": "RACING BROS MAFIAS REVENGE",
+    "contentId": "EP8062-PPSA23961_00-0260990986464843",
+    "region": "EP",
+    "publisherId": "EP8062"
+  },
+  {
+    "titleId": "PPSA23968_00",
+    "conceptId": 10009164,
+    "name": "Morkull Ragast's Rage",
+    "contentId": "JP7769-PPSA23968_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP7769"
+  },
+  {
+    "titleId": "PPSA23969_00",
+    "conceptId": 10009164,
+    "name": "Morkull Ragast's Rage",
+    "contentId": "HP7815-PPSA23969_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP7815"
+  },
+  {
     "titleId": "PPSA23991_00",
     "conceptId": 10010957,
     "name": "Cazzarion: Zombie Drive",
@@ -94552,6 +94592,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24213_00",
+    "conceptId": 10011603,
+    "name": "Abathor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24283_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
@@ -94619,9 +94667,9 @@
     "titleId": "PPSA24316_00",
     "conceptId": 10011664,
     "name": "Cazzarion: Mosquito Hunt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA24316_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA24317_00",
@@ -94635,9 +94683,9 @@
     "titleId": "PPSA24318_00",
     "conceptId": 10011664,
     "name": "Cazzarion: Mosquito Hunt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA24318_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA24322_00",
