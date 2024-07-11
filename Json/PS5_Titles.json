@@ -25648,6 +25648,14 @@
     "publisherId": "EP4060"
   },
   {
+    "titleId": "PPSA06566_00",
+    "conceptId": 10004518,
+    "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30d5\u30e9\u30af\u30c1\u30e5\u30a2\u30fc\u30c9 \u30c7\u30a4\u30c9\u30ea\u30fc\u30e0",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA06567_00",
     "conceptId": 10004518,
     "name": "SWORD ART ONLINE Fractured Daydream",
@@ -31814,6 +31822,22 @@
     "contentId": "EP3111-PPSA07689_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA07691_00",
+    "conceptId": 10005096,
+    "name": "No Umbrellas Allowed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA07692_00",
+    "conceptId": 10005096,
+    "name": "No Umbrellas Allowed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA07693_00",
@@ -68114,10 +68138,10 @@
   {
     "titleId": "PPSA16159_00",
     "conceptId": 10008248,
-    "name": "Monster Jam\u2122 Showdown",
+    "name": "Monster Jam\u2122 Showdown PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4356"
   },
   {
     "titleId": "PPSA16160_00",
@@ -81144,12 +81168,20 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA19312_00",
+    "conceptId": 10008497,
+    "name": "The 7th Guest",
+    "contentId": "EP6324-PPSA19312_00-0862542480799380",
+    "region": "EP",
+    "publisherId": "EP6324"
+  },
+  {
     "titleId": "PPSA19313_00",
     "conceptId": 10008497,
     "name": "The 7th Guest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6325-PPSA19313_00-0451359017230154",
+    "region": "UP",
+    "publisherId": "UP6325"
   },
   {
     "titleId": "PPSA19314_00",
@@ -86472,6 +86504,14 @@
     "publisherId": "HB0123"
   },
   {
+    "titleId": "PPSA20689_00",
+    "conceptId": 10007314,
+    "name": "Born Of Bread",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20705_00",
     "conceptId": 10010062,
     "name": "TP Bullet",
@@ -89298,10 +89338,10 @@
   {
     "titleId": "PPSA21638_00",
     "conceptId": 10010440,
-    "name": "Sky Climb",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SkyClimb",
+    "contentId": "UP0458-PPSA21638_00-QPFJL2A5627PH6ZT",
+    "region": "UP",
+    "publisherId": "UP0458"
   },
   {
     "titleId": "PPSA21640_00",
@@ -89912,6 +89952,14 @@
     "publisherId": "UP0814"
   },
   {
+    "titleId": "PPSA21838_00",
+    "conceptId": 10006894,
+    "name": "ArcRunner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21842_00",
     "conceptId": 10009812,
     "name": "Fishbowl Demo",
@@ -90070,6 +90118,14 @@
     "contentId": "UP7605-PPSA21902_00-0813654427160992",
     "region": "UP",
     "publisherId": "UP7605"
+  },
+  {
+    "titleId": "PPSA21908_00",
+    "conceptId": 10007955,
+    "name": "Tales from Toyotoki: Arrival of the Witch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21911_00",
@@ -90686,6 +90742,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA22120_00",
+    "conceptId": 10010481,
+    "name": "NBA 2K25 Hall of Fame Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
+  },
+  {
+    "titleId": "PPSA22121_00",
+    "conceptId": 10010481,
+    "name": "NBA 2K25 Hall of Fame Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1001"
   },
   {
     "titleId": "PPSA22124_00",
@@ -92955,9 +93027,9 @@
     "titleId": "PPSA23065_00",
     "conceptId": 10010994,
     "name": "True Colours - A Date With Deception",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA23065_00-TRUECOLOURS00000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA23071_00",
@@ -93038,6 +93110,14 @@
     "contentId": "EB0301-PPSA23167_00-0232029968374630",
     "region": "EB",
     "publisherId": "EB0301"
+  },
+  {
+    "titleId": "PPSA23177_00",
+    "conceptId": 10009246,
+    "name": "PPA Pickleball Tour 2025",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23179_00",
@@ -94384,6 +94464,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23901_00",
+    "conceptId": 10011447,
+    "name": "No Brakez",
+    "contentId": "UP7126-PPSA23901_00-0827552549119226",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
+    "titleId": "PPSA23902_00",
+    "conceptId": 10011447,
+    "name": "No Brakez",
+    "contentId": "EP7123-PPSA23902_00-0849505799561817",
+    "region": "EP",
+    "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA23903_00",
+    "conceptId": 10011447,
+    "name": "No Brakez",
+    "contentId": "JP7094-PPSA23903_00-0157173747354899",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA23904_00",
+    "conceptId": 10011447,
+    "name": "No Brakez",
+    "contentId": "HP7141-PPSA23904_00-0701757197184065",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
     "titleId": "PPSA23927_00",
     "conceptId": 10011364,
     "name": "AeonX",
@@ -94798,6 +94910,14 @@
     "contentId": "UP5682-PPSA24322_00-0889584236404182",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA24352_00",
+    "conceptId": 10011087,
+    "name": "Trivia: Knowledge Trainer - the Quiz Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24353_00",
