@@ -19296,6 +19296,14 @@
     "publisherId": "UP2106"
   },
   {
+    "titleId": "PPSA05361_00",
+    "conceptId": 10003816,
+    "name": "Parkitect Deluxe Edition",
+    "contentId": "EP0958-PPSA05361_00-PARKITECT0000000",
+    "region": "EP",
+    "publisherId": "EP0958"
+  },
+  {
     "titleId": "PPSA05362_00",
     "conceptId": 10003816,
     "name": "Parkitect Deluxe Edition",
@@ -48008,6 +48016,14 @@
     "publisherId": "UP3949"
   },
   {
+    "titleId": "PPSA10472_00",
+    "conceptId": 10006226,
+    "name": "\u30d7\u30ed\u91ce\u7403\u30b9\u30d4\u30ea\u30c3\u30c42024-2025",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA10473_00",
     "conceptId": 10006208,
     "name": "Brave's Rage",
@@ -52355,9 +52371,9 @@
     "titleId": "PPSA11201_00",
     "conceptId": 10001252,
     "name": "The Five Covens",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA11201_00-9215295779935728",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA11202_00",
@@ -68146,10 +68162,10 @@
   {
     "titleId": "PPSA16160_00",
     "conceptId": 10008248,
-    "name": "Monster Jam\u2122 Showdown",
+    "name": "Monster Jam\u2122 Showdown PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1981"
   },
   {
     "titleId": "PPSA16161_00",
@@ -86024,6 +86040,22 @@
     "publisherId": "EB0198"
   },
   {
+    "titleId": "PPSA20556_00",
+    "conceptId": 10009992,
+    "name": "Frogurai",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20557_00",
+    "conceptId": 10009992,
+    "name": "Frogurai",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20567_00",
     "conceptId": 10009997,
     "name": "Dungeons and Goblins",
@@ -86426,18 +86458,18 @@
   {
     "titleId": "PPSA20665_00",
     "conceptId": 10010044,
-    "name": "The Infinite Inside",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Infinite Inside",
+    "contentId": "EP8035-PPSA20665_00-0578155218583107",
+    "region": "EP",
+    "publisherId": "EP8035"
   },
   {
     "titleId": "PPSA20666_00",
     "conceptId": 10010044,
     "name": "The Infinite Inside",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5843-PPSA20666_00-0719905930009619",
+    "region": "UP",
+    "publisherId": "UP5843"
   },
   {
     "titleId": "PPSA20667_00",
@@ -90427,17 +90459,17 @@
     "titleId": "PPSA21997_00",
     "conceptId": 10010587,
     "name": "Thief Simulator 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA21997_00-0261948773137492",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA21998_00",
     "conceptId": 10010587,
     "name": "Thief Simulator 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5805-PPSA21998_00-0601561958036511",
+    "region": "UP",
+    "publisherId": "UP5805"
   },
   {
     "titleId": "PPSA22006_00",
@@ -92898,10 +92930,18 @@
   {
     "titleId": "PPSA22949_00",
     "conceptId": 10006235,
-    "name": "Quiz Thiz USA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Quiz Thiz USA - DEMO",
+    "contentId": "EP6664-PPSA22949_00-0573632216290050",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA22950_00",
+    "conceptId": 10006235,
+    "name": "Quiz Thiz USA - DEMO",
+    "contentId": "UP6664-PPSA22950_00-0772978318166347",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA22951_00",
@@ -93282,18 +93322,18 @@
   {
     "titleId": "PPSA23243_00",
     "conceptId": 10011096,
-    "name": "Platform Twister - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Platform Twister",
+    "contentId": "EP6664-PPSA23243_00-0117600307495362",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA23244_00",
     "conceptId": 10011096,
-    "name": "Platform Twister - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Platform Twister",
+    "contentId": "UP6664-PPSA23244_00-0424884040913507",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA23245_00",
@@ -93595,17 +93635,17 @@
     "titleId": "PPSA23394_00",
     "conceptId": 10011169,
     "name": "Box Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA23394_00-0107051200609797",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA23395_00",
     "conceptId": 10011169,
     "name": "Box Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA23395_00-0306684582188012",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA23397_00",
@@ -94112,6 +94152,22 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA23548_00",
+    "conceptId": 10011239,
+    "name": "Dogs And Paws",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23549_00",
+    "conceptId": 10011239,
+    "name": "Dogs And Paws",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23570_00",
     "conceptId": 10011251,
     "name": "Cazzarion: Coin Pilot",
@@ -94323,9 +94379,17 @@
     "titleId": "PPSA23700_00",
     "conceptId": 10011334,
     "name": "Xtreme Club Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8121-PPSA23700_00-0822332561735077",
+    "region": "UP",
+    "publisherId": "UP8121"
+  },
+  {
+    "titleId": "PPSA23701_00",
+    "conceptId": 10011334,
+    "name": "Xtreme Club Racing",
+    "contentId": "UP8121-PPSA23701_00-0984043424044817",
+    "region": "UP",
+    "publisherId": "UP8121"
   },
   {
     "titleId": "PPSA23727_00",
@@ -94410,10 +94474,10 @@
   {
     "titleId": "PPSA23764_00",
     "conceptId": 10011374,
-    "name": "Anomaly Pools",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "AnomalyPools",
+    "contentId": "EP8070-PPSA23764_00-0931586913078020",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA23768_00",
@@ -94624,6 +94688,22 @@
     "publisherId": "EB0792"
   },
   {
+    "titleId": "PPSA23936_00",
+    "conceptId": 10011460,
+    "name": "Faster Than Bolt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23937_00",
+    "conceptId": 10011460,
+    "name": "Faster Than Bolt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23944_00",
     "conceptId": 10008690,
     "name": "Luto",
@@ -94779,9 +94859,9 @@
     "titleId": "PPSA24099_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24099_00-0672434193796047",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24100_00",
@@ -95051,9 +95131,9 @@
     "titleId": "PPSA24353_00",
     "conceptId": 10011683,
     "name": "Cola Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24353_00-0453280424440486",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24354_00",
@@ -95067,17 +95147,17 @@
     "titleId": "PPSA24355_00",
     "conceptId": 10011683,
     "name": "Cola Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24355_00-0481065892448833",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24356_00",
     "conceptId": 10011683,
     "name": "Cola Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24356_00-0158658114714992",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24361_00",
@@ -95184,6 +95264,38 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA24408_00",
+    "conceptId": 10011709,
+    "name": "Bowling In A Skate Park",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24409_00",
+    "conceptId": 10011709,
+    "name": "Bowling In A Skate Park",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24410_00",
+    "conceptId": 10011709,
+    "name": "Bowling In A Skate Park",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24412_00",
+    "conceptId": 10011709,
+    "name": "Bowling In A Skate Park",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24418_00",
     "conceptId": 10011546,
     "name": "Snake Seeker",
@@ -95275,6 +95387,38 @@
     "titleId": "PPSA24615_00",
     "conceptId": 10011811,
     "name": "Axe Ace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24624_00",
+    "conceptId": 10011817,
+    "name": "Rolling Wheels",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24625_00",
+    "conceptId": 10011817,
+    "name": "Rolling Wheels",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24626_00",
+    "conceptId": 10011817,
+    "name": "Rolling Wheels",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24627_00",
+    "conceptId": 10011817,
+    "name": "Rolling Wheels",
     "contentId": null,
     "region": null,
     "publisherId": null
