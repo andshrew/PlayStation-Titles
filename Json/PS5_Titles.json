@@ -71235,9 +71235,9 @@
     "titleId": "PPSA16835_00",
     "conceptId": 10008444,
     "name": "Alaskan Road Truckers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3573-PPSA16835_00-ATS0000000000000",
+    "region": "UP",
+    "publisherId": "UP3573"
   },
   {
     "titleId": "PPSA16836_00",
@@ -71315,9 +71315,9 @@
     "titleId": "PPSA16853_00",
     "conceptId": 10008544,
     "name": "Parasol Stars: The Story of Bubble Bobble III",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8012-PPSA16853_00-PARASOLSTARSP5US",
+    "region": "UP",
+    "publisherId": "UP8012"
   },
   {
     "titleId": "PPSA16860_00",
@@ -73222,6 +73222,14 @@
     "contentId": "EP2005-PPSA17295_00-DOUGSNIGHTMARE00",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA17296_00",
+    "conceptId": 10008740,
+    "name": "Asphalt Legends Unite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17306_00",
@@ -88264,6 +88272,22 @@
     "publisherId": "UB0536"
   },
   {
+    "titleId": "PPSA21251_00",
+    "conceptId": 10010261,
+    "name": "Chrysolite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21252_00",
+    "conceptId": 10010261,
+    "name": "Chrysolite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21268_00",
     "conceptId": 10008801,
     "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
@@ -94155,17 +94179,33 @@
     "titleId": "PPSA23548_00",
     "conceptId": 10011239,
     "name": "Dogs And Paws",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23548_00-0623452640930944",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23549_00",
     "conceptId": 10011239,
     "name": "Dogs And Paws",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23549_00-0960182370796540",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23550_00",
+    "conceptId": 10011239,
+    "name": "Dogs And Paws",
+    "contentId": "UP7668-PPSA23550_00-0430597512641676",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23551_00",
+    "conceptId": 10011239,
+    "name": "Dogs And Paws",
+    "contentId": "UP7668-PPSA23551_00-0188201047186068",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23570_00",
@@ -94995,17 +95035,17 @@
     "titleId": "PPSA24208_00",
     "conceptId": 10011390,
     "name": "Cubic Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24208_00-0481415526169753",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24209_00",
     "conceptId": 10011390,
     "name": "Cubic Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24209_00-0632194798645712",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24212_00",
@@ -95139,9 +95179,9 @@
     "titleId": "PPSA24354_00",
     "conceptId": 10011683,
     "name": "Cola Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24354_00-0618242566951915",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24355_00",
@@ -95355,6 +95395,30 @@
     "titleId": "PPSA24548_00",
     "conceptId": 10011780,
     "name": "Cazzarion: Jumping Tiger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24563_00",
+    "conceptId": 10011788,
+    "name": "CORN GUARD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24565_00",
+    "conceptId": 10011788,
+    "name": "CORN GUARD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24566_00",
+    "conceptId": 10011788,
+    "name": "CORN GUARD",
     "contentId": null,
     "region": null,
     "publisherId": null
