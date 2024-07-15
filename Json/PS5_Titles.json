@@ -28427,9 +28427,9 @@
     "titleId": "PPSA07047_00",
     "conceptId": 10004779,
     "name": "Naheulbeuk's Dungeon Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1309-PPSA07047_00-7873530796454029",
+    "region": "UP",
+    "publisherId": "UP1309"
   },
   {
     "titleId": "PPSA07048_00",
@@ -76960,6 +76960,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA18239_00",
+    "conceptId": 10009096,
+    "name": "Zumba Garden",
+    "contentId": "UP1421-PPSA18239_00-0002610918493611",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
     "titleId": "PPSA18240_00",
     "conceptId": 10009097,
     "name": "Pool Pro 2022",
@@ -78802,10 +78810,10 @@
   {
     "titleId": "PPSA18746_00",
     "conceptId": 10002695,
-    "name": "Concord\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Concord Beta",
+    "contentId": "UP9000-PPSA18746_00-CONCORDBETA00001",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA18750_00",
@@ -82370,8 +82378,8 @@
   {
     "titleId": "PPSA19591_00",
     "conceptId": 10009597,
-    "name": "Darkest Dungeon II PS4 & PS5",
-    "contentId": null,
+    "name": "Darkest Dungeon II",
+    "contentId": "EP2483-PPSA19591_00-0077100591410995",
     "region": "EP",
     "publisherId": "EP2483"
   },
@@ -94547,9 +94555,9 @@
     "titleId": "PPSA23786_00",
     "conceptId": 10011390,
     "name": "Cubic Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA23786_00-0076217552562200",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA23823_00",
@@ -95027,9 +95035,9 @@
     "titleId": "PPSA24207_00",
     "conceptId": 10011390,
     "name": "Cubic Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24207_00-0388526070587055",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24208_00",
@@ -95304,6 +95312,22 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA24402_00",
+    "conceptId": 10011707,
+    "name": "Cazzarion: Shooting Gallery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24403_00",
+    "conceptId": 10011707,
+    "name": "Cazzarion: Shooting Gallery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24408_00",
     "conceptId": 10011709,
     "name": "Bowling In A Skate Park",
@@ -95400,7 +95424,31 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24549_00",
+    "conceptId": 10011780,
+    "name": "Cazzarion: Jumping Tiger",
+    "contentId": "JB0377-PPSA24549_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA24550_00",
+    "conceptId": 10011780,
+    "name": "Cazzarion: Jumping Tiger",
+    "contentId": "HB0405-PPSA24550_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
     "titleId": "PPSA24563_00",
+    "conceptId": 10011788,
+    "name": "CORN GUARD",
+    "contentId": "EP8743-PPSA24563_00-0768299831215422",
+    "region": "EP",
+    "publisherId": "EP8743"
+  },
+  {
+    "titleId": "PPSA24564_00",
     "conceptId": 10011788,
     "name": "CORN GUARD",
     "contentId": null,
@@ -95411,17 +95459,17 @@
     "titleId": "PPSA24565_00",
     "conceptId": 10011788,
     "name": "CORN GUARD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA24565_00-0711210041105270",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA24566_00",
     "conceptId": 10011788,
     "name": "CORN GUARD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA24566_00-0967981538470744",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA24612_00",
@@ -95483,6 +95531,38 @@
     "titleId": "PPSA24627_00",
     "conceptId": 10011817,
     "name": "Rolling Wheels",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24628_00",
+    "conceptId": 10011818,
+    "name": "Wheel Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24629_00",
+    "conceptId": 10011818,
+    "name": "Wheel Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24630_00",
+    "conceptId": 10011818,
+    "name": "Wheel Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24631_00",
+    "conceptId": 10011818,
+    "name": "Wheel Riders",
     "contentId": null,
     "region": null,
     "publisherId": null
