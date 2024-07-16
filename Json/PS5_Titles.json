@@ -26235,9 +26235,9 @@
     "titleId": "PPSA06653_00",
     "conceptId": 10004572,
     "name": "Hamster Playground",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7594-PPSA06653_00-HMUSPS5000000001",
+    "region": "UP",
+    "publisherId": "UP7594"
   },
   {
     "titleId": "PPSA06654_00",
@@ -77328,6 +77328,14 @@
     "publisherId": "JP0031"
   },
   {
+    "titleId": "PPSA18343_00",
+    "conceptId": 10009135,
+    "name": "Exhausted Man",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18351_00",
     "conceptId": 10003232,
     "name": "\u30df\u30af\u3068\u6c34\u6ca1\u90fd\u5e02\u3000\u5ec3\u589f\u306e\u8b0e",
@@ -78438,6 +78446,14 @@
     "contentId": "UP1564-PPSA18640_00-0381380112015651",
     "region": "UP",
     "publisherId": "UP1564"
+  },
+  {
+    "titleId": "PPSA18642_00",
+    "conceptId": 10008991,
+    "name": "Thief Simulator VR: Greenview Street",
+    "contentId": "HP1680-PPSA18642_00-0740882820770304",
+    "region": "HP",
+    "publisherId": "HP1680"
   },
   {
     "titleId": "PPSA18643_00",
@@ -82370,8 +82386,8 @@
   {
     "titleId": "PPSA19590_00",
     "conceptId": 10009597,
-    "name": "Darkest Dungeon II PS4 & PS5",
-    "contentId": null,
+    "name": "Darkest Dungeon II",
+    "contentId": "UP2619-PPSA19590_00-0191103846959805",
     "region": "UP",
     "publisherId": "UP2619"
   },
@@ -91739,9 +91755,9 @@
     "titleId": "PPSA22456_00",
     "conceptId": 10010636,
     "name": "Let's School",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA22456_00-0553961054210847",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA22457_00",
@@ -93728,6 +93744,14 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23423_00",
+    "conceptId": 10011184,
+    "name": "Death Noodle Delivery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23429_00",
     "conceptId": 10010119,
     "name": "Worm War",
@@ -94384,6 +94408,38 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA23651_00",
+    "conceptId": 10011306,
+    "name": "Silverwood Bay: An Eleanor Grey Mystery Collector's Edition",
+    "contentId": "EP1411-PPSA23651_00-0970604768873587",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23652_00",
+    "conceptId": 10011306,
+    "name": "Silverwood Bay: An Eleanor Grey Mystery Collector's Edition",
+    "contentId": "EP1411-PPSA23652_00-0581396526652569",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23653_00",
+    "conceptId": 10011306,
+    "name": "Silverwood Bay: An Eleanor Grey Mystery Collector's Edition",
+    "contentId": "EP1411-PPSA23653_00-0410651697537335",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23654_00",
+    "conceptId": 10011306,
+    "name": "Silverwood Bay: An Eleanor Grey Mystery Collector's Edition",
+    "contentId": "EP1411-PPSA23654_00-0234318212993227",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA23655_00",
     "conceptId": 10011307,
     "name": "Gallery of Things: Reveries",
@@ -94412,6 +94468,38 @@
     "conceptId": 10011307,
     "name": "Gallery of Things: Reveries",
     "contentId": "EP1411-PPSA23658_00-0721791757192810",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23659_00",
+    "conceptId": 10011308,
+    "name": "Destination Paradise - Collector's Edition",
+    "contentId": "EP1411-PPSA23659_00-0708497842321000",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23660_00",
+    "conceptId": 10011308,
+    "name": "Destination Paradise - Collector's Edition",
+    "contentId": "EP1411-PPSA23660_00-0165489697272773",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23661_00",
+    "conceptId": 10011308,
+    "name": "Destination Paradise - Collector's Edition",
+    "contentId": "EP1411-PPSA23661_00-0409294102200224",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23662_00",
+    "conceptId": 10011308,
+    "name": "Destination Paradise - Collector's Edition",
+    "contentId": "EP1411-PPSA23662_00-0007805474828461",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -94560,6 +94648,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA23821_00",
+    "conceptId": 10010636,
+    "name": "Let's School",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23823_00",
     "conceptId": 10011414,
     "name": "Backrooms Brotherhood",
@@ -94630,6 +94726,38 @@
     "contentId": "HB0405-PPSA23866_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23869_00",
+    "conceptId": 10011433,
+    "name": "Just Find It 3 - Collector's Edition",
+    "contentId": "EP1411-PPSA23869_00-0373720926957358",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23870_00",
+    "conceptId": 10011433,
+    "name": "Just Find It 3 - Collector's Edition",
+    "contentId": "EP1411-PPSA23870_00-0461049535886508",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23871_00",
+    "conceptId": 10011433,
+    "name": "Just Find It 3 - Collector's Edition",
+    "contentId": "EP1411-PPSA23871_00-0825555243536886",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA23872_00",
+    "conceptId": 10011433,
+    "name": "Just Find It 3 - Collector's Edition",
+    "contentId": "EP1411-PPSA23872_00-0884051505721317",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA23878_00",
@@ -95411,17 +95539,17 @@
     "titleId": "PPSA24547_00",
     "conceptId": 10011780,
     "name": "Cazzarion: Jumping Tiger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA24547_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA24548_00",
     "conceptId": 10011780,
     "name": "Cazzarion: Jumping Tiger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA24548_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA24549_00",
@@ -95451,9 +95579,9 @@
     "titleId": "PPSA24564_00",
     "conceptId": 10011788,
     "name": "CORN GUARD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA24564_00-0122916652517930",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA24565_00",
