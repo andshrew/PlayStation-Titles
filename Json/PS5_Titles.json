@@ -26227,9 +26227,9 @@
     "titleId": "PPSA06652_00",
     "conceptId": 10004572,
     "name": "Hamster Playground",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7592-PPSA06652_00-HMEUPS5000000001",
+    "region": "EP",
+    "publisherId": "EP7592"
   },
   {
     "titleId": "PPSA06653_00",
@@ -28435,9 +28435,9 @@
     "titleId": "PPSA07048_00",
     "conceptId": 10004779,
     "name": "Naheulbeuk's Dungeon Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1302-PPSA07048_00-3085869294320118",
+    "region": "EP",
+    "publisherId": "EP1302"
   },
   {
     "titleId": "PPSA07051_00",
@@ -70384,6 +70384,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16645_00",
+    "conceptId": 10008451,
+    "name": "7 Days to Die - Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16646_00",
     "conceptId": 10005891,
     "name": "CROSSFIRE: Sierra Squad",
@@ -77328,7 +77336,31 @@
     "publisherId": "JP0031"
   },
   {
+    "titleId": "PPSA18342_00",
+    "conceptId": 10009135,
+    "name": "Exhausted Man",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18343_00",
+    "conceptId": 10009135,
+    "name": "Exhausted Man",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18344_00",
+    "conceptId": 10009135,
+    "name": "Exhausted Man",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18345_00",
     "conceptId": 10009135,
     "name": "Exhausted Man",
     "contentId": null,
@@ -78099,7 +78131,7 @@
     "titleId": "PPSA18567_00",
     "conceptId": 10008801,
     "name": "\u9b3c\u6ec5\u306e\u5203 \u76ee\u6307\u305b\uff01\u6700\u5f37\u968a\u58eb\uff01",
-    "contentId": null,
+    "contentId": "JP3372-PPSA18567_00-SAIKYOTAISHI0000",
     "region": "JP",
     "publisherId": "JP3372"
   },
@@ -78446,6 +78478,14 @@
     "contentId": "UP1564-PPSA18640_00-0381380112015651",
     "region": "UP",
     "publisherId": "UP1564"
+  },
+  {
+    "titleId": "PPSA18641_00",
+    "conceptId": 10008991,
+    "name": "Thief Simulator VR: Greenview Street",
+    "contentId": "JP1821-PPSA18641_00-0093842738282780",
+    "region": "JP",
+    "publisherId": "JP1821"
   },
   {
     "titleId": "PPSA18642_00",
@@ -87056,6 +87096,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20834_00",
+    "conceptId": 10005248,
+    "name": "GUNDAM BREAKER 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20835_00",
+    "conceptId": 10005248,
+    "name": "GUNDAM BREAKER 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20839_00",
     "conceptId": 10007526,
     "name": "Mothered",
@@ -88315,7 +88371,7 @@
     "titleId": "PPSA21268_00",
     "conceptId": 10008801,
     "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
-    "contentId": null,
+    "contentId": "EP0177-PPSA21268_00-SAIKYOTAISHI0000",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -88323,7 +88379,7 @@
     "titleId": "PPSA21269_00",
     "conceptId": 10008801,
     "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
-    "contentId": null,
+    "contentId": "UP0177-PPSA21269_00-SAIKYOTAISHI0000",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -89259,9 +89315,9 @@
     "titleId": "PPSA21582_00",
     "conceptId": 10010414,
     "name": "RPM - Road Punk Mayhem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA21582_00-ROADPUNKMAYHEM00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA21583_00",
@@ -91352,6 +91408,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22299_00",
+    "conceptId": 10010698,
+    "name": "Bleak Faith: Forsaken",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22307_00",
     "conceptId": 10010690,
     "name": "PO'ed: Definitive Edition",
@@ -91763,17 +91827,17 @@
     "titleId": "PPSA22457_00",
     "conceptId": 10010636,
     "name": "Let's School",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2011-PPSA22457_00-0673589309886197",
+    "region": "EP",
+    "publisherId": "EP2011"
   },
   {
     "titleId": "PPSA22458_00",
     "conceptId": 10010636,
     "name": "Let's School",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6412-PPSA22458_00-0838001956126445",
+    "region": "JP",
+    "publisherId": "JP6412"
   },
   {
     "titleId": "PPSA22459_00",
@@ -93075,9 +93139,9 @@
     "titleId": "PPSA23005_00",
     "conceptId": 10010494,
     "name": "CLeM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5663-PPSA23005_00-0065932065753128",
+    "region": "EP",
+    "publisherId": "EP5663"
   },
   {
     "titleId": "PPSA23006_00",
@@ -93160,6 +93224,14 @@
     "publisherId": "EB0467"
   },
   {
+    "titleId": "PPSA23034_00",
+    "conceptId": 10010979,
+    "name": "Shoulders of Giants: Ultimate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23042_00",
     "conceptId": 10009062,
     "name": "Ariko's Enchanted Forest",
@@ -93238,6 +93310,14 @@
     "contentId": "EP2005-PPSA23112_00-ASIMPLESHOOTER00",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA23124_00",
+    "conceptId": 10011028,
+    "name": "Summoner",
+    "contentId": "UP4389-PPSA23124_00-SLUS200740000000",
+    "region": "UP",
+    "publisherId": "UP4389"
   },
   {
     "titleId": "PPSA23130_00",
@@ -93536,6 +93616,22 @@
     "publisherId": "JP8693"
   },
   {
+    "titleId": "PPSA23335_00",
+    "conceptId": 10011137,
+    "name": "Hidden Cats in Rome",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23336_00",
+    "conceptId": 10011137,
+    "name": "Hidden Cats in Rome",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23345_00",
     "conceptId": 10004289,
     "name": "UFL Open Beta",
@@ -93822,6 +93918,22 @@
     "contentId": "UP5682-PPSA23440_00-0159138770074166",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA23441_00",
+    "conceptId": 10009975,
+    "name": "Drift Racing Madness",
+    "contentId": "UP2136-PPSA23441_00-0903209898812734",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA23442_00",
+    "conceptId": 10009975,
+    "name": "Drift Racing Madness",
+    "contentId": "EP4476-PPSA23442_00-0058893585879886",
+    "region": "EP",
+    "publisherId": "EP4476"
   },
   {
     "titleId": "PPSA23443_00",
@@ -94512,6 +94624,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23688_00",
+    "conceptId": 10011323,
+    "name": "Aero The Acro-Bat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23700_00",
     "conceptId": 10011334,
     "name": "Xtreme Club Racing",
@@ -94651,9 +94771,9 @@
     "titleId": "PPSA23821_00",
     "conceptId": 10010636,
     "name": "Let's School",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8406-PPSA23821_00-0420797104571222",
+    "region": "HP",
+    "publisherId": "HP8406"
   },
   {
     "titleId": "PPSA23823_00",
@@ -94832,6 +94952,14 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA23921_00",
+    "conceptId": 10008034,
+    "name": "THRONE AND LIBERTY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23927_00",
     "conceptId": 10011364,
     "name": "AeonX",
@@ -94854,6 +94982,14 @@
     "contentId": "JP0089-PPSA23929_00-0986318837734787",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA23930_00",
+    "conceptId": 10011364,
+    "name": "AeonX",
+    "contentId": "HP4312-PPSA23930_00-0609334502087221",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA23931_00",
