@@ -59955,9 +59955,9 @@
     "titleId": "PPSA13977_00",
     "conceptId": 10005803,
     "name": "SCHiM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7967-PPSA13977_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP7967"
   },
   {
     "titleId": "PPSA13986_00",
@@ -65032,6 +65032,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15517_00",
+    "conceptId": 10008034,
+    "name": "THRONE AND LIBERTY: Standard Early Access Pack",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5267"
+  },
+  {
+    "titleId": "PPSA15518_00",
+    "conceptId": 10008034,
+    "name": "THRONE AND LIBERTY: Standard Early Access Pack",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5447"
+  },
+  {
     "titleId": "PPSA15520_00",
     "conceptId": 10007547,
     "name": "Swoon! Earth Escape",
@@ -68224,6 +68240,14 @@
     "publisherId": "EP3301"
   },
   {
+    "titleId": "PPSA16163_00",
+    "conceptId": 10008245,
+    "name": "The Casting of Frank Stone\u2122",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4939"
+  },
+  {
     "titleId": "PPSA16164_00",
     "conceptId": 10008249,
     "name": "RUN MAN",
@@ -70163,17 +70187,17 @@
     "titleId": "PPSA16583_00",
     "conceptId": 10008437,
     "name": "Flock",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2333-PPSA16583_00-FLOCK00000000000",
+    "region": "EP",
+    "publisherId": "EP2333"
   },
   {
     "titleId": "PPSA16584_00",
     "conceptId": 10008437,
     "name": "Flock",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP2517-PPSA16584_00-FLOCK00000000000",
+    "region": "JP",
+    "publisherId": "JP2517"
   },
   {
     "titleId": "PPSA16585_00",
@@ -75667,9 +75691,9 @@
     "titleId": "PPSA17913_00",
     "conceptId": 10008977,
     "name": "B\u014d: Path of the Teal Lotus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3717-PPSA17913_00-BOTEALLOTUS000EU",
+    "region": "EP",
+    "publisherId": "EP3717"
   },
   {
     "titleId": "PPSA17923_00",
@@ -85464,12 +85488,20 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA20383_00",
+    "conceptId": 10004670,
+    "name": "NeonLore",
+    "contentId": "UP5877-PPSA20383_00-0475950923951211",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA20384_00",
     "conceptId": 10004670,
     "name": "NeonLore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8070-PPSA20384_00-0438052273032871",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA20388_00",
@@ -88675,9 +88707,9 @@
     "titleId": "PPSA21343_00",
     "conceptId": 10002564,
     "name": "Distance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0562-PPSA21343_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP0562"
   },
   {
     "titleId": "PPSA21346_00",
@@ -89019,9 +89051,9 @@
     "titleId": "PPSA21427_00",
     "conceptId": 10002564,
     "name": "Distance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0559-PPSA21427_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP0559"
   },
   {
     "titleId": "PPSA21428_00",
@@ -91528,7 +91560,31 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22298_00",
+    "conceptId": 10010698,
+    "name": "Bleak Faith: Forsaken",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22299_00",
+    "conceptId": 10010698,
+    "name": "Bleak Faith: Forsaken",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22300_00",
+    "conceptId": 10010698,
+    "name": "Bleak Faith: Forsaken",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22301_00",
     "conceptId": 10010698,
     "name": "Bleak Faith: Forsaken",
     "contentId": null,
@@ -93560,12 +93616,20 @@
     "publisherId": "UB0612"
   },
   {
+    "titleId": "PPSA23190_00",
+    "conceptId": 10011072,
+    "name": "Flip It",
+    "contentId": "UP7335-PPSA23190_00-0515581297910619",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA23191_00",
     "conceptId": 10011072,
     "name": "Flip It",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA23191_00-0202322314009373",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA23204_00",
@@ -94563,9 +94627,17 @@
     "titleId": "PPSA23579_00",
     "conceptId": 10008360,
     "name": "Ultimate General: Gettysburg",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6138-PPSA23579_00-0371809197698521",
+    "region": "EP",
+    "publisherId": "EP6138"
+  },
+  {
+    "titleId": "PPSA23580_00",
+    "conceptId": 10008360,
+    "name": "Ultimate General: Gettysburg",
+    "contentId": "UP6139-PPSA23580_00-0048562019511281",
+    "region": "UP",
+    "publisherId": "UP6139"
   },
   {
     "titleId": "PPSA23591_00",
@@ -95024,6 +95096,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23838_00",
+    "conceptId": 10011298,
+    "name": "Find The Thing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23848_00",
     "conceptId": 10011424,
     "name": "Light Snake",
@@ -95139,9 +95219,9 @@
     "titleId": "PPSA23881_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA23881_00-0096837411806771",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA23882_00",
@@ -95202,10 +95282,10 @@
   {
     "titleId": "PPSA23923_00",
     "conceptId": 10008034,
-    "name": "THRONE AND LIBERTY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Throne And Liberty",
+    "contentId": "JP7550-PPSA23923_00-TLPS5BETA3000000",
+    "region": "JP",
+    "publisherId": "JP7550"
   },
   {
     "titleId": "PPSA23927_00",
@@ -95382,6 +95462,14 @@
     "contentId": "UP7552-PPSA24008_00-0193588373535182",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA24009_00",
+    "conceptId": 10009419,
+    "name": "UNABLES",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24018_00",
@@ -95611,25 +95699,25 @@
     "titleId": "PPSA24283_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24283_00-0575006246746599",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24284_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24284_00-0308075664640400",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24285_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24285_00-0301874059596616",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24286_00",
@@ -95806,6 +95894,30 @@
     "contentId": "EP1612-PPSA24368_00-TINYSPEEDSTER000",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA24375_00",
+    "conceptId": 10011689,
+    "name": "Vikings Pinball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24376_00",
+    "conceptId": 10011689,
+    "name": "Vikings Pinball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24377_00",
+    "conceptId": 10011689,
+    "name": "Vikings Pinball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24379_00",
@@ -96115,8 +96227,8 @@
     "titleId": "PPSA24839_00",
     "conceptId": 10011922,
     "name": "Pixicharm - Shurikoo Sprint",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA24839_00-SHURIKOOSPRINT00",
+    "region": "EP",
+    "publisherId": "EP1612"
   }
 ]
