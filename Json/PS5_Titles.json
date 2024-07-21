@@ -13442,8 +13442,8 @@
   {
     "titleId": "PPSA04185_00",
     "conceptId": 10003151,
-    "name": "EA SPORTS\u2122 College Football 25 Standard Edition",
-    "contentId": null,
+    "name": "EA SPORTS\u2122 College Football 25",
+    "contentId": "EP0006-PPSA04185_00-COLLEGEFB25GAME1",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -68392,6 +68392,14 @@
     "publisherId": "UP7721"
   },
   {
+    "titleId": "PPSA16194_00",
+    "conceptId": 10008034,
+    "name": "\u30b9\u30ed\u30fc\u30f3\u30fb\u30a2\u30f3\u30c9\u30fb\u30ea\u30d0\u30c6\u30a3\uff1a\u65e9\u671f\u30a2\u30af\u30bb\u30b9\u30d1\u30c3\u30af \u2010 \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP7550"
+  },
+  {
     "titleId": "PPSA16195_00",
     "conceptId": 10005896,
     "name": "Persona 5 Tactica",
@@ -82418,8 +82426,8 @@
   {
     "titleId": "PPSA19576_00",
     "conceptId": 10008719,
-    "name": "Kunitsu-Gami: Path of the Goddess PS4 & PS5",
-    "contentId": null,
+    "name": "Kunitsu-Gami: Path of the Goddess",
+    "contentId": "UP0102-PPSA19576_00-KUNITSUGAMI00000",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -83574,6 +83582,14 @@
     "contentId": "HP0102-PPSA19870_00-DD2DEMO000000000",
     "region": "HP",
     "publisherId": "HP0102"
+  },
+  {
+    "titleId": "PPSA19871_00",
+    "conceptId": 10008193,
+    "name": "COMPOUND",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19879_00",
@@ -86227,9 +86243,9 @@
     "titleId": "PPSA20557_00",
     "conceptId": 10009992,
     "name": "Frogurai",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA20557_00-FROGURAIRATALIGA",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA20567_00",
@@ -93104,6 +93120,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22867_00",
+    "conceptId": 10005046,
+    "name": "REYNATIS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22870_00",
     "conceptId": 10009762,
     "name": "EA SPORTS FC\u2122 25",
@@ -95091,17 +95115,33 @@
     "titleId": "PPSA23837_00",
     "conceptId": 10011298,
     "name": "Find The Thing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23837_00-0258210220678803",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23838_00",
     "conceptId": 10011298,
     "name": "Find The Thing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23838_00-0227324570032075",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23839_00",
+    "conceptId": 10011298,
+    "name": "Find The Thing",
+    "contentId": "UP7668-PPSA23839_00-0464985496283319",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23840_00",
+    "conceptId": 10011298,
+    "name": "Find The Thing",
+    "contentId": "UP7668-PPSA23840_00-0202281305942924",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23848_00",
@@ -95913,6 +95953,14 @@
   },
   {
     "titleId": "PPSA24377_00",
+    "conceptId": 10011689,
+    "name": "Vikings Pinball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24378_00",
     "conceptId": 10011689,
     "name": "Vikings Pinball",
     "contentId": null,
