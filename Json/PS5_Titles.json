@@ -95528,6 +95528,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24034_00",
+    "conceptId": 10003440,
+    "name": "Unicorn Break",
+    "contentId": "JP0089-PPSA24034_00-0232411151803627",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA24035_00",
+    "conceptId": 10003440,
+    "name": "Unicorn Break",
+    "contentId": "HP4312-PPSA24035_00-0889464368712596",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA24048_00",
     "conceptId": 10010432,
     "name": "SWORN",
@@ -96011,9 +96027,9 @@
     "titleId": "PPSA24402_00",
     "conceptId": 10011707,
     "name": "Cazzarion: Shooting Gallery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA24402_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA24403_00",
@@ -96022,6 +96038,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24404_00",
+    "conceptId": 10011707,
+    "name": "Cazzarion: Shooting Gallery",
+    "contentId": "JB0377-PPSA24404_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA24405_00",
+    "conceptId": 10011707,
+    "name": "Cazzarion: Shooting Gallery",
+    "contentId": "HB0405-PPSA24405_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA24408_00",
