@@ -13434,8 +13434,8 @@
   {
     "titleId": "PPSA04184_00",
     "conceptId": 10003151,
-    "name": "EA SPORTS\u2122 College Football 25 Standard Edition",
-    "contentId": null,
+    "name": "EA SPORTS\u2122 College Football 25",
+    "contentId": "UP0006-PPSA04184_00-COLLEGEFB25GAME1",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -43360,6 +43360,14 @@
     "publisherId": "EP6890"
   },
   {
+    "titleId": "PPSA09689_00",
+    "conceptId": 10005945,
+    "name": "ExoCross",
+    "contentId": "UP7951-PPSA09689_00-2214775524052532",
+    "region": "UP",
+    "publisherId": "UP7951"
+  },
+  {
     "titleId": "PPSA09691_00",
     "conceptId": 10005948,
     "name": "Pizza Fun",
@@ -65288,6 +65296,22 @@
     "publisherId": "EP3862"
   },
   {
+    "titleId": "PPSA15557_00",
+    "conceptId": 10006321,
+    "name": "MIDNIGHT Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15559_00",
+    "conceptId": 10006321,
+    "name": "MIDNIGHT Remastered",
+    "contentId": "JP6732-PPSA15559_00-0217278351858827",
+    "region": "JP",
+    "publisherId": "JP6732"
+  },
+  {
     "titleId": "PPSA15561_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
@@ -67982,6 +68006,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA16109_00",
+    "conceptId": 10006285,
+    "name": "The Mortuary Assistant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16110_00",
@@ -75480,6 +75512,14 @@
     "publisherId": "EP7562"
   },
   {
+    "titleId": "PPSA17860_00",
+    "conceptId": 10008909,
+    "name": "Shadows of the Damned: Hella Remastered",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP7543"
+  },
+  {
     "titleId": "PPSA17861_00",
     "conceptId": 10008909,
     "name": "Shadows of the Damned: Hella Remastered",
@@ -77467,9 +77507,9 @@
     "titleId": "PPSA18342_00",
     "conceptId": 10009135,
     "name": "Exhausted Man",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1947-PPSA18342_00-2023072800000050",
+    "region": "UP",
+    "publisherId": "UP1947"
   },
   {
     "titleId": "PPSA18343_00",
@@ -79858,8 +79898,8 @@
   {
     "titleId": "PPSA18970_00",
     "conceptId": 10002862,
-    "name": "EARTH DEFENSE FORCE 6 PS4 & PS5",
-    "contentId": null,
+    "name": "Earth Defense Force 6",
+    "contentId": "EP3036-PPSA18970_00-EDF6MASTERPKG000",
     "region": "EP",
     "publisherId": "EP3036"
   },
@@ -80742,6 +80782,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP7782"
+  },
+  {
+    "titleId": "PPSA19159_00",
+    "conceptId": 10009172,
+    "name": "Train Traffic Manager",
+    "contentId": "EP6290-PPSA19159_00-0667656521132356",
+    "region": "EP",
+    "publisherId": "EP6290"
   },
   {
     "titleId": "PPSA19166_00",
@@ -85776,6 +85824,14 @@
     "publisherId": "HP5798"
   },
   {
+    "titleId": "PPSA20445_00",
+    "conceptId": 10009936,
+    "name": "Paint the Town Red VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20454_00",
     "conceptId": 10009572,
     "name": "Eden Genesis PS4 & PS5",
@@ -86875,17 +86931,17 @@
     "titleId": "PPSA20717_00",
     "conceptId": 232337,
     "name": "Windlands 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1512-PPSA20717_00-0WINDLANDS2PSVR2",
+    "region": "UP",
+    "publisherId": "UP1512"
   },
   {
     "titleId": "PPSA20718_00",
     "conceptId": 232337,
     "name": "Windlands 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1499-PPSA20718_00-WINDLANDS2WISIEE",
+    "region": "EP",
+    "publisherId": "EP1499"
   },
   {
     "titleId": "PPSA20719_00",
@@ -88587,17 +88643,17 @@
     "titleId": "PPSA21251_00",
     "conceptId": 10010261,
     "name": "Chrysolite",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6974-PPSA21251_00-CHRYSOLITE000USA",
+    "region": "UP",
+    "publisherId": "UP6974"
   },
   {
     "titleId": "PPSA21252_00",
     "conceptId": 10010261,
     "name": "Chrysolite",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6969-PPSA21252_00-CHRYSOLITE000EUR",
+    "region": "EP",
+    "publisherId": "EP6969"
   },
   {
     "titleId": "PPSA21268_00",
@@ -91675,33 +91731,33 @@
     "titleId": "PPSA22279_00",
     "conceptId": 10010672,
     "name": "Lakeview Cabin Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6778-PPSA22279_00-0380904186566070",
+    "region": "UP",
+    "publisherId": "UP6778"
   },
   {
     "titleId": "PPSA22280_00",
     "conceptId": 10010672,
     "name": "Lakeview Cabin Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6776-PPSA22280_00-0011951449399682",
+    "region": "EP",
+    "publisherId": "EP6776"
   },
   {
     "titleId": "PPSA22281_00",
     "conceptId": 10010672,
     "name": "Lakeview Cabin Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6727-PPSA22281_00-0501632218847334",
+    "region": "JP",
+    "publisherId": "JP6727"
   },
   {
     "titleId": "PPSA22282_00",
     "conceptId": 10010672,
     "name": "Lakeview Cabin Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6784-PPSA22282_00-0009744382544114",
+    "region": "HP",
+    "publisherId": "HP6784"
   },
   {
     "titleId": "PPSA22291_00",
@@ -91907,9 +91963,9 @@
     "titleId": "PPSA22379_00",
     "conceptId": 10007500,
     "name": "Daydream: Forgotten Sorrow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8339-PPSA22379_00-0976996144231294",
+    "region": "UP",
+    "publisherId": "UP8339"
   },
   {
     "titleId": "PPSA22381_00",
@@ -92416,6 +92472,14 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA22516_00",
+    "conceptId": 10010768,
+    "name": "Golf Vs Zombies",
+    "contentId": "UP6963-PPSA22516_00-ZZZZZZZZZZZZZZZZ",
+    "region": "UP",
+    "publisherId": "UP6963"
+  },
+  {
     "titleId": "PPSA22519_00",
     "conceptId": 10004542,
     "name": "ANIMAL WELL",
@@ -92537,6 +92601,14 @@
   },
   {
     "titleId": "PPSA22544_00",
+    "conceptId": 10010736,
+    "name": "Cilla",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22545_00",
     "conceptId": 10010736,
     "name": "Cilla",
     "contentId": null,
@@ -93352,6 +93424,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22876_00",
+    "conceptId": 10010922,
+    "name": "Overboss",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22877_00",
+    "conceptId": 10010922,
+    "name": "Overboss",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22878_00",
+    "conceptId": 10010922,
+    "name": "Overboss",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22884_00",
     "conceptId": 10010927,
     "name": "Kiki - A Vibrant 3D Platformer",
@@ -93888,6 +93984,14 @@
     "publisherId": "UP7962"
   },
   {
+    "titleId": "PPSA23229_00",
+    "conceptId": 10011082,
+    "name": "\u82f1\u96c4\u4f1d\u8aac \u754c\u306e\u8ecc\u8de1 -Farewell, O Zemuria- (PS4 & PS5)",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0425"
+  },
+  {
     "titleId": "PPSA23239_00",
     "conceptId": 10011093,
     "name": "Greed 2: Forbidden Experiments",
@@ -94024,6 +94128,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA23280_00",
+    "conceptId": 10011111,
+    "name": "Pepper Grinder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23296_00",
     "conceptId": 10009637,
     "name": "Captain Toonhead vs. The Punks from Outer Space",
@@ -94075,17 +94187,17 @@
     "titleId": "PPSA23335_00",
     "conceptId": 10011137,
     "name": "Hidden Cats in Rome",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6954-PPSA23335_00-0376633564001599",
+    "region": "JP",
+    "publisherId": "JP6954"
   },
   {
     "titleId": "PPSA23336_00",
     "conceptId": 10011137,
     "name": "Hidden Cats in Rome",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6954-PPSA23336_00-0998810038142771",
+    "region": "JP",
+    "publisherId": "JP6954"
   },
   {
     "titleId": "PPSA23337_00",
@@ -94592,6 +94704,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23472_00",
+    "conceptId": 10011212,
+    "name": "Fly Fly",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23476_00",
     "conceptId": 10011209,
     "name": "Neon Bash",
@@ -94684,6 +94804,14 @@
     "conceptId": 10011221,
     "name": "ITFOS",
     "contentId": "UP2136-PPSA23512_00-0185650270143375",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA23513_00",
+    "conceptId": 10011221,
+    "name": "ITFOS",
+    "contentId": "UP2136-PPSA23513_00-0478858942262489",
     "region": "UP",
     "publisherId": "UP2136"
   },
@@ -94907,9 +95035,9 @@
     "titleId": "PPSA23595_00",
     "conceptId": 10010160,
     "name": "Hairdresser Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6941-PPSA23595_00-0893233998288381",
+    "region": "EP",
+    "publisherId": "EP6941"
   },
   {
     "titleId": "PPSA23596_00",
@@ -95152,6 +95280,14 @@
     "publisherId": "UP8121"
   },
   {
+    "titleId": "PPSA23702_00",
+    "conceptId": 10011335,
+    "name": "Steel Racer",
+    "contentId": "EP0896-PPSA23702_00-STEELRACERRATALA",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA23712_00",
     "conceptId": 231308,
     "name": "INAZUMA ELEVEN: Victory Road Demo\u00a0\"Leave Your Inazuma Mark on the World!\"",
@@ -95254,6 +95390,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23782_00",
+    "conceptId": 222913,
+    "name": "\u30a2\u30b9\u30c7\u30a3\u30d0\u30a4\u30f3\u30cf\u30fc\u30c4",
+    "contentId": "JP0013-PPSA23782_00-JP0AHEARTS000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA23784_00",
@@ -95496,6 +95640,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23887_00",
+    "conceptId": 227202,
+    "name": "\u30ec\u30f4\u30ca\u30f3\u30c8\u30b5\u30fc\u30ac",
+    "contentId": "JP0013-PPSA23887_00-JP0REVESAGA00PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA23901_00",
     "conceptId": 10011447,
     "name": "No Brakez",
@@ -95592,6 +95744,14 @@
     "publisherId": "EB0792"
   },
   {
+    "titleId": "PPSA23932_00",
+    "conceptId": 222913,
+    "name": "Asdivine Hearts",
+    "contentId": "UP2500-PPSA23932_00-US0AHEARTS000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA23936_00",
     "conceptId": 10011460,
     "name": "Faster Than Bolt",
@@ -95602,10 +95762,10 @@
   {
     "titleId": "PPSA23937_00",
     "conceptId": 10011460,
-    "name": "Faster Than Bolt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Faster than Bolt",
+    "contentId": "EP6922-PPSA23937_00-0182222007743899",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA23944_00",
@@ -95728,6 +95888,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24001_00",
+    "conceptId": 10011464,
+    "name": "Agent Walker: Secret Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24008_00",
     "conceptId": 10011159,
     "name": "Air Sea Modern Conflict",
@@ -95792,6 +95960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24059_00",
+    "conceptId": 228682,
+    "name": "\u5fd8\u5931\u306e\u30a4\u30b9\u30c8\u30ea\u30a2",
+    "contentId": "JP0013-PPSA24059_00-JP0ANTIQUIA00PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA24077_00",
     "conceptId": 10011546,
     "name": "Snake Seeker",
@@ -95816,6 +95992,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA24094_00",
+    "conceptId": 229896,
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30b7\u30f3\u30ab\u30fc",
+    "contentId": "JP0013-PPSA24094_00-JP0DSINKER000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA24099_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
@@ -95838,6 +96022,14 @@
     "contentId": "EB0805-PPSA24108_00-0582771257318592",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA24128_00",
+    "conceptId": 10011500,
+    "name": "Cultist Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24129_00",
@@ -95936,6 +96128,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24169_00",
+    "conceptId": 10011590,
+    "name": "Glowface in Love - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24176_00",
     "conceptId": 10011591,
     "name": "Minifun - Betty's Brawl",
@@ -95979,9 +96179,9 @@
     "titleId": "PPSA24213_00",
     "conceptId": 10011603,
     "name": "Abathor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA24213_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA24224_00",
@@ -95993,6 +96193,14 @@
   },
   {
     "titleId": "PPSA24263_00",
+    "conceptId": 10011645,
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae III",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24264_00",
     "conceptId": 10011645,
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III",
     "contentId": null,
@@ -96459,17 +96667,25 @@
     "titleId": "PPSA24511_00",
     "conceptId": 10011716,
     "name": "Dragon Break Classic Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA24511_00-0076876556970931",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA24512_00",
+    "conceptId": 10011716,
+    "name": "Dragon Break Classic Plus",
+    "contentId": "UP4312-PPSA24512_00-0428081029469888",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA24525_00",
     "conceptId": 10010269,
-    "name": "Deathbound",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Deathbound DEMO",
+    "contentId": "EB0970-PPSA24525_00-DEATHBOUNDDEMO00",
+    "region": "EB",
+    "publisherId": "EB0970"
   },
   {
     "titleId": "PPSA24547_00",
