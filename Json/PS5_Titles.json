@@ -33680,6 +33680,14 @@
     "publisherId": "EP1628"
   },
   {
+    "titleId": "PPSA08052_00",
+    "conceptId": 10005245,
+    "name": "DUSTBORN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08055_00",
     "conceptId": 10005244,
     "name": "Under The Waves",
@@ -62859,9 +62867,9 @@
     "titleId": "PPSA14676_00",
     "conceptId": 10007742,
     "name": "Harvest Days",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3550-PPSA14676_00-HARVESTDAYSPS5EU",
+    "region": "EP",
+    "publisherId": "EP3550"
   },
   {
     "titleId": "PPSA14677_00",
@@ -62875,17 +62883,17 @@
     "titleId": "PPSA14678_00",
     "conceptId": 10007742,
     "name": "Harvest Days",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3736-PPSA14678_00-HARVESTDAYSPS5JP",
+    "region": "JP",
+    "publisherId": "JP3736"
   },
   {
     "titleId": "PPSA14679_00",
     "conceptId": 10007742,
     "name": "Harvest Days",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3640-PPSA14679_00-HARVESTDAYSPS5AS",
+    "region": "HP",
+    "publisherId": "HP3640"
   },
   {
     "titleId": "PPSA14680_00",
@@ -65302,6 +65310,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15558_00",
+    "conceptId": 10006321,
+    "name": "MIDNIGHT Remastered",
+    "contentId": "UP6782-PPSA15558_00-0789609209452037",
+    "region": "UP",
+    "publisherId": "UP6782"
   },
   {
     "titleId": "PPSA15559_00",
@@ -70742,6 +70758,14 @@
     "contentId": "EP7678-PPSA16678_00-HAUNTIISIEEPS500",
     "region": "EP",
     "publisherId": "EP7678"
+  },
+  {
+    "titleId": "PPSA16680_00",
+    "conceptId": 10002695,
+    "name": "Concord\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16681_00",
@@ -80530,8 +80554,8 @@
   {
     "titleId": "PPSA19114_00",
     "conceptId": 10005046,
-    "name": "REYNATIS\uff0f\u30ec\u30ca\u30c6\u30a3\u30b9",
-    "contentId": null,
+    "name": "REYNATIS",
+    "contentId": "JP0536-PPSA19114_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP0536"
   },
@@ -80790,6 +80814,14 @@
     "contentId": "EP6290-PPSA19159_00-0667656521132356",
     "region": "EP",
     "publisherId": "EP6290"
+  },
+  {
+    "titleId": "PPSA19161_00",
+    "conceptId": 10009172,
+    "name": "Train Traffic Manager",
+    "contentId": "JP6207-PPSA19161_00-0085394855083550",
+    "region": "JP",
+    "publisherId": "JP6207"
   },
   {
     "titleId": "PPSA19166_00",
@@ -82320,6 +82352,14 @@
     "publisherId": "HP7632"
   },
   {
+    "titleId": "PPSA19516_00",
+    "conceptId": 10004945,
+    "name": "Gori: Cuddly Carnage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19526_00",
     "conceptId": 10007319,
     "name": "\u30a4\u30fc\u30b9\u30fb\u30e1\u30e2\u30ef\u30fc\u30eb -\u30d5\u30a7\u30eb\u30ac\u30ca\u306e\u8a93\u3044-",
@@ -83379,9 +83419,9 @@
     "titleId": "PPSA19800_00",
     "conceptId": 10009671,
     "name": "Arranger: A Role-Puzzling Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7315-PPSA19800_00-GERARRANGERARRAN",
+    "region": "UP",
+    "publisherId": "UP7315"
   },
   {
     "titleId": "PPSA19801_00",
@@ -85825,6 +85865,14 @@
   },
   {
     "titleId": "PPSA20445_00",
+    "conceptId": 10009936,
+    "name": "Paint the Town Red VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20446_00",
     "conceptId": 10009936,
     "name": "Paint the Town Red VR",
     "contentId": null,
@@ -88622,6 +88670,14 @@
     "contentId": "JP3553-PPSA21227_00-AGEOFWATER000000",
     "region": "JP",
     "publisherId": "JP3553"
+  },
+  {
+    "titleId": "PPSA21237_00",
+    "conceptId": 10010256,
+    "name": "Monster Train",
+    "contentId": "UP1050-PPSA21237_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP1050"
   },
   {
     "titleId": "PPSA21249_00",
@@ -93235,9 +93291,9 @@
     "titleId": "PPSA22767_00",
     "conceptId": 10010887,
     "name": "The Fall of Elena Temple",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5670-PPSA22767_00-ELENATEMPLEFALLE",
+    "region": "EP",
+    "publisherId": "EP5670"
   },
   {
     "titleId": "PPSA22768_00",
@@ -93942,6 +93998,22 @@
     "contentId": "EP7333-PPSA23191_00-0202322314009373",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA23192_00",
+    "conceptId": 10011072,
+    "name": "Flip It",
+    "contentId": "JP7309-PPSA23192_00-0448260783912820",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA23193_00",
+    "conceptId": 10011072,
+    "name": "Flip It",
+    "contentId": "HP7354-PPSA23193_00-0848384657400729",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA23204_00",
@@ -95752,12 +95824,20 @@
     "publisherId": "UP2500"
   },
   {
+    "titleId": "PPSA23933_00",
+    "conceptId": 222913,
+    "name": "Asdivine Hearts",
+    "contentId": "EP2363-PPSA23933_00-EU0AHEARTS000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA23936_00",
     "conceptId": 10011460,
-    "name": "Faster Than Bolt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Faster than Bolt",
+    "contentId": "EP6922-PPSA23936_00-0171169110290625",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA23937_00",
@@ -95883,17 +95963,17 @@
     "titleId": "PPSA24000_00",
     "conceptId": 10011464,
     "name": "Agent Walker: Secret Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1667-PPSA24000_00-AGENT2024PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP1667"
   },
   {
     "titleId": "PPSA24001_00",
     "conceptId": 10011464,
     "name": "Agent Walker: Secret Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1681-PPSA24001_00-AGENT2024PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP1681"
   },
   {
     "titleId": "PPSA24008_00",
@@ -95914,26 +95994,34 @@
   {
     "titleId": "PPSA24018_00",
     "conceptId": 10011508,
-    "name": "Maze of Portals - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Maze of Portals",
+    "contentId": "EP6664-PPSA24018_00-0551670857742548",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA24019_00",
     "conceptId": 10011508,
-    "name": "Maze of Portals - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Maze of Portals",
+    "contentId": "UP6664-PPSA24019_00-0794621100891224",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA24020_00",
+    "conceptId": 10011508,
+    "name": "Maze of Portals",
+    "contentId": "JP6595-PPSA24020_00-0453501608619012",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA24021_00",
     "conceptId": 10011508,
-    "name": "Maze of Portals - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Maze of Portals",
+    "contentId": "HP6661-PPSA24021_00-0697322671352534",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA24034_00",
@@ -96011,9 +96099,9 @@
     "titleId": "PPSA24100_00",
     "conceptId": 10011558,
     "name": "Hearthstorm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24100_00-0913509829253808",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24108_00",
@@ -96115,17 +96203,17 @@
     "titleId": "PPSA24163_00",
     "conceptId": 10011415,
     "name": "Circus of TimTim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA24163_00-0352340346069115",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA24164_00",
     "conceptId": 10011415,
     "name": "Circus of TimTim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA24164_00-0999758017037280",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA24169_00",
@@ -96427,25 +96515,25 @@
     "titleId": "PPSA24365_00",
     "conceptId": 10011558,
     "name": "Hearthstorm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24365_00-0281582826622092",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24366_00",
     "conceptId": 10011558,
     "name": "Hearthstorm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24366_00-0799557150784886",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24367_00",
     "conceptId": 10011558,
     "name": "Hearthstorm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24367_00-0659125357012993",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24368_00",
