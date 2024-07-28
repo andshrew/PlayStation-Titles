@@ -43611,9 +43611,9 @@
     "titleId": "PPSA09728_00",
     "conceptId": 10005969,
     "name": "Exophobia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA09728_00-6292018448157346",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA09729_00",
@@ -60587,9 +60587,9 @@
     "titleId": "PPSA14097_00",
     "conceptId": 10007500,
     "name": "Daydream: Forgotten Sorrow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7488-PPSA14097_00-DAYDREAM49791580",
+    "region": "EP",
+    "publisherId": "EP7488"
   },
   {
     "titleId": "PPSA14098_00",
@@ -62356,8 +62356,8 @@
     "conceptId": 10007649,
     "name": "TIEBREAK: Official game of the ATP and WTA",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA14457_00",
@@ -62875,9 +62875,9 @@
     "titleId": "PPSA14677_00",
     "conceptId": 10007742,
     "name": "Harvest Days",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3696-PPSA14677_00-HARVESTDAYSPS5NA",
+    "region": "UP",
+    "publisherId": "UP3696"
   },
   {
     "titleId": "PPSA14678_00",
@@ -65216,6 +65216,14 @@
     "publisherId": "EP0281"
   },
   {
+    "titleId": "PPSA15540_00",
+    "conceptId": 10002695,
+    "name": "Concord\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15541_00",
     "conceptId": 10008045,
     "name": "Little Disaster",
@@ -65326,6 +65334,14 @@
     "contentId": "JP6732-PPSA15559_00-0217278351858827",
     "region": "JP",
     "publisherId": "JP6732"
+  },
+  {
+    "titleId": "PPSA15560_00",
+    "conceptId": 10006321,
+    "name": "MIDNIGHT Remastered",
+    "contentId": "HP6788-PPSA15560_00-0168728964249234",
+    "region": "HP",
+    "publisherId": "HP6788"
   },
   {
     "titleId": "PPSA15561_00",
@@ -70530,10 +70546,10 @@
   {
     "titleId": "PPSA16645_00",
     "conceptId": 10008451,
-    "name": "7 Days to Die - Console Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "7 Days To Die - Console Edition",
+    "contentId": "UP0727-PPSA16645_00-0184103882519534",
+    "region": "UP",
+    "publisherId": "UP0727"
   },
   {
     "titleId": "PPSA16646_00",
@@ -77539,17 +77555,17 @@
     "titleId": "PPSA18343_00",
     "conceptId": 10009135,
     "name": "Exhausted Man",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1931-PPSA18343_00-2023072800000051",
+    "region": "EP",
+    "publisherId": "EP1931"
   },
   {
     "titleId": "PPSA18344_00",
     "conceptId": 10009135,
-    "name": "Exhausted Man",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u75b2\u5f0a\u3057\u305f\u4eba",
+    "contentId": "JP2205-PPSA18344_00-2023072800000052",
+    "region": "JP",
+    "publisherId": "JP2205"
   },
   {
     "titleId": "PPSA18345_00",
@@ -80816,12 +80832,28 @@
     "publisherId": "EP6290"
   },
   {
+    "titleId": "PPSA19160_00",
+    "conceptId": 10009172,
+    "name": "Train Traffic Manager",
+    "contentId": "UP6291-PPSA19160_00-0859332877238651",
+    "region": "UP",
+    "publisherId": "UP6291"
+  },
+  {
     "titleId": "PPSA19161_00",
     "conceptId": 10009172,
     "name": "Train Traffic Manager",
     "contentId": "JP6207-PPSA19161_00-0085394855083550",
     "region": "JP",
     "publisherId": "JP6207"
+  },
+  {
+    "titleId": "PPSA19162_00",
+    "conceptId": 10009172,
+    "name": "Train Traffic Manager",
+    "contentId": "HP6274-PPSA19162_00-0143805109453265",
+    "region": "HP",
+    "publisherId": "HP6274"
   },
   {
     "titleId": "PPSA19166_00",
@@ -81082,8 +81114,8 @@
   {
     "titleId": "PPSA19238_00",
     "conceptId": 10002862,
-    "name": "EARTH DEFENSE FORCE 6 PS4 & PS5",
-    "contentId": null,
+    "name": "Earth Defense Force 6",
+    "contentId": "UP3177-PPSA19238_00-EDF6MASTERPKG000",
     "region": "UP",
     "publisherId": "UP3177"
   },
@@ -82384,6 +82416,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA19539_00",
+    "conceptId": 10004945,
+    "name": "Gori: Cuddly Carnage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19540_00",
     "conceptId": 10006425,
     "name": "The Mobius Machine Demo",
@@ -83427,9 +83467,9 @@
     "titleId": "PPSA19801_00",
     "conceptId": 10009671,
     "name": "Arranger: A Role-Puzzling Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7313-PPSA19801_00-GERARRANGERARRAN",
+    "region": "EP",
+    "publisherId": "EP7313"
   },
   {
     "titleId": "PPSA19802_00",
@@ -84568,6 +84608,22 @@
     "publisherId": "HP3460"
   },
   {
+    "titleId": "PPSA20099_00",
+    "conceptId": 10009783,
+    "name": "Sports & Wild Pinball",
+    "contentId": "UP6927-PPSA20099_00-0606508233962189",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
+    "titleId": "PPSA20100_00",
+    "conceptId": 10009783,
+    "name": "Sports & Wild Pinball",
+    "contentId": "EP6922-PPSA20100_00-0750591366493388",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA20102_00",
     "conceptId": 10009784,
     "name": "Astro Rangers",
@@ -84840,6 +84896,22 @@
     "publisherId": "EP2149"
   },
   {
+    "titleId": "PPSA20165_00",
+    "conceptId": 10003621,
+    "name": "JigsawFinale",
+    "contentId": "UP5877-PPSA20165_00-0592645639535792",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA20166_00",
+    "conceptId": 10003621,
+    "name": "JigSawFinale",
+    "contentId": "EP8070-PPSA20166_00-0597098977152749",
+    "region": "EP",
+    "publisherId": "EP8070"
+  },
+  {
     "titleId": "PPSA20167_00",
     "conceptId": 10008910,
     "name": "\u5e7b\u65e5\u306e\u30e8\u30cf\u30cd - NUMAZU in the MIRAGE - \u4f53\u9a13\u7248",
@@ -85035,9 +85107,9 @@
     "titleId": "PPSA20226_00",
     "conceptId": 10009836,
     "name": "Frontier Hunter: Erza\u2019s Wheel of Fortune",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8714-PPSA20226_00-0366737879737304",
+    "region": "HP",
+    "publisherId": "HP8714"
   },
   {
     "titleId": "PPSA20227_00",
@@ -85131,9 +85203,9 @@
     "titleId": "PPSA20253_00",
     "conceptId": 10009836,
     "name": "Frontier Hunter: Erza\u2019s Wheel of Fortune",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0156-PPSA20253_00-0356426194093105",
+    "region": "EB",
+    "publisherId": "EB0156"
   },
   {
     "titleId": "PPSA20257_00",
@@ -85307,9 +85379,9 @@
     "titleId": "PPSA20294_00",
     "conceptId": 10009836,
     "name": "Frontier Hunter: Erza\u2019s Wheel of Fortune",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8765-PPSA20294_00-0468286247016892",
+    "region": "UP",
+    "publisherId": "UP8765"
   },
   {
     "titleId": "PPSA20299_00",
@@ -86859,9 +86931,9 @@
     "titleId": "PPSA20676_00",
     "conceptId": 10010048,
     "name": "VALORANT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3993-PPSA20676_00-VALORANT00000000",
+    "region": "UP",
+    "publisherId": "UP3993"
   },
   {
     "titleId": "PPSA20683_00",
@@ -86971,9 +87043,9 @@
     "titleId": "PPSA20711_00",
     "conceptId": 10010048,
     "name": "VALORANT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3847-PPSA20711_00-VALORANT00000000",
+    "region": "EP",
+    "publisherId": "EP3847"
   },
   {
     "titleId": "PPSA20717_00",
@@ -92082,10 +92154,10 @@
   {
     "titleId": "PPSA22393_00",
     "conceptId": 10009836,
-    "name": "Frontier Hunter: Erza\u2019s Wheel of Fortune",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30cf\u30f3\u30bf\u30fc \uff5e\u30a8\u30eb\u30b6\u306e\u904b\u547d\u306e\u8f2a\uff5e",
+    "contentId": "JP8669-PPSA22393_00-0150626059830940",
+    "region": "JP",
+    "publisherId": "JP8669"
   },
   {
     "titleId": "PPSA22394_00",
@@ -94771,17 +94843,33 @@
     "titleId": "PPSA23471_00",
     "conceptId": 10011212,
     "name": "Fly Fly",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23471_00-0377288556605471",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23472_00",
     "conceptId": 10011212,
     "name": "Fly Fly",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23472_00-0267177261060942",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23473_00",
+    "conceptId": 10011212,
+    "name": "Fly Fly",
+    "contentId": "UP7668-PPSA23473_00-0061094507857710",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23474_00",
+    "conceptId": 10011212,
+    "name": "Fly Fly",
+    "contentId": "UP7668-PPSA23474_00-0446953538516665",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23476_00",
@@ -96088,6 +96176,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA24098_00",
+    "conceptId": 10011557,
+    "name": "Population Quiz",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24099_00",
     "conceptId": 10011388,
     "name": "The Boys Escape",
@@ -96339,25 +96435,25 @@
     "titleId": "PPSA24286_00",
     "conceptId": 10011438,
     "name": "Tetrack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24286_00-0151787490588134",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24287_00",
     "conceptId": 10011438,
     "name": "Tetrack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24287_00-0298825331316163",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24288_00",
     "conceptId": 10011438,
     "name": "Tetrack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24288_00-0059214876132967",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24310_00",
