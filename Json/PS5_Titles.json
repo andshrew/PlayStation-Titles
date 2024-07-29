@@ -65315,9 +65315,9 @@
     "titleId": "PPSA15557_00",
     "conceptId": 10006321,
     "name": "MIDNIGHT Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6780-PPSA15557_00-0925277559266588",
+    "region": "EP",
+    "publisherId": "EP6780"
   },
   {
     "titleId": "PPSA15558_00",
@@ -95240,6 +95240,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23611_00",
+    "conceptId": 10010275,
+    "name": "The Case of the Golden Idol",
+    "contentId": "UP3639-PPSA23611_00-0516491076450540",
+    "region": "UP",
+    "publisherId": "UP3639"
+  },
+  {
     "titleId": "PPSA23621_00",
     "conceptId": 10011292,
     "name": "Learn to Play Vol. 3 - Mice Love Cheese",
@@ -95510,6 +95518,14 @@
     "contentId": "HB0405-PPSA23750_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23754_00",
+    "conceptId": 10011372,
+    "name": "Escape from the Pharaoh's Tomb",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23759_00",
@@ -95795,9 +95811,9 @@
     "titleId": "PPSA23882_00",
     "conceptId": 10011438,
     "name": "Tetrack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA23882_00-0109868292044931",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA23887_00",
@@ -96326,6 +96342,14 @@
     "contentId": "EP1612-PPSA24176_00-BETTYSBRAWLGAME0",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA24177_00",
+    "conceptId": 10011594,
+    "name": "Color Dodge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24207_00",
@@ -96963,6 +96987,38 @@
     "titleId": "PPSA24615_00",
     "conceptId": 10011811,
     "name": "Axe Ace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24620_00",
+    "conceptId": 10011816,
+    "name": "Long Yard Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24621_00",
+    "conceptId": 10011816,
+    "name": "Long Yard Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24622_00",
+    "conceptId": 10011816,
+    "name": "Long Yard Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24623_00",
+    "conceptId": 10011816,
+    "name": "Long Yard Run",
     "contentId": null,
     "region": null,
     "publisherId": null
