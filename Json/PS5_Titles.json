@@ -90779,9 +90779,9 @@
     "titleId": "PPSA21911_00",
     "conceptId": 10006439,
     "name": "Sword & Fairy Inn 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA21911_00-SWORDFAIRYINN200",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA21914_00",
@@ -95856,6 +95856,22 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA23917_00",
+    "conceptId": 10011454,
+    "name": "Moonlit Embrace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23918_00",
+    "conceptId": 10011454,
+    "name": "Moonlit Embrace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23921_00",
     "conceptId": 10008034,
     "name": "Throne And Liberty",
@@ -96352,6 +96368,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24178_00",
+    "conceptId": 10011594,
+    "name": "Color Dodge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24207_00",
     "conceptId": 10011390,
     "name": "Cubic Riders",
@@ -96822,6 +96846,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24453_00",
+    "conceptId": 10011737,
+    "name": "City Builder",
+    "contentId": "EP1411-PPSA24453_00-0758134305859776",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24454_00",
+    "conceptId": 10011737,
+    "name": "City Builder",
+    "contentId": "EP1411-PPSA24454_00-0648439763944208",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24455_00",
+    "conceptId": 10011737,
+    "name": "City Builder",
+    "contentId": "EP1411-PPSA24455_00-0378862304966734",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24456_00",
+    "conceptId": 10011737,
+    "name": "City Builder",
+    "contentId": "EP1411-PPSA24456_00-0098818797084538",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA24477_00",
