@@ -71947,7 +71947,7 @@
     "titleId": "PPSA16937_00",
     "conceptId": 10008552,
     "name": "STAR WARS\u2122: Bounty Hunter\u2122",
-    "contentId": null,
+    "contentId": "EP1875-PPSA16937_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP1875"
   },
@@ -84192,6 +84192,22 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA19983_00",
+    "conceptId": 10008215,
+    "name": "\u8056\u5263\u4f1d\u8aac VISIONS of MANA DEMO",
+    "contentId": "JP0082-PPSA19983_00-VOMPS5JPNDEMO001",
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA19984_00",
+    "conceptId": 10008215,
+    "name": "Visions of Mana DEMO",
+    "contentId": "UP0082-PPSA19984_00-VOMPS5NADEMO0001",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA19985_00",
     "conceptId": 10008215,
     "name": "Visions of Mana DEMO",
@@ -87452,8 +87468,8 @@
     "conceptId": 10010102,
     "name": "Yars Rising",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA20829_00",
@@ -88424,6 +88440,30 @@
     "publisherId": "JP6412"
   },
   {
+    "titleId": "PPSA21121_00",
+    "conceptId": 10010231,
+    "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21122_00",
+    "conceptId": 10010231,
+    "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21123_00",
+    "conceptId": 10010231,
+    "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21124_00",
     "conceptId": 10009801,
     "name": "CleanSheet",
@@ -88814,6 +88854,14 @@
     "contentId": "EP6969-PPSA21252_00-CHRYSOLITE000EUR",
     "region": "EP",
     "publisherId": "EP6969"
+  },
+  {
+    "titleId": "PPSA21267_00",
+    "conceptId": 10010269,
+    "name": "Deathbound",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21268_00",
@@ -92800,6 +92848,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA22553_00",
+    "conceptId": 10009901,
+    "name": "Jett Rider",
+    "contentId": "JP1134-PPSA22553_00-0401752660526313",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
     "titleId": "PPSA22555_00",
     "conceptId": 10010790,
     "name": "Cazzarion: Pop The Bubble",
@@ -93090,8 +93146,8 @@
   {
     "titleId": "PPSA22668_00",
     "conceptId": 10010769,
-    "name": "Deadlink - OST Bundle",
-    "contentId": null,
+    "name": "Deadlink",
+    "contentId": "EP2627-PPSA22668_00-DEADLINKPS500000",
     "region": "EP",
     "publisherId": "EP2627"
   },
@@ -93510,6 +93566,22 @@
     "contentId": "EP2005-PPSA22830_00-GHOSTTEENESCAPE0",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA22832_00",
+    "conceptId": 10010909,
+    "name": "Hidden Through Time 2: Discovery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22834_00",
+    "conceptId": 10010909,
+    "name": "Hidden Through Time 2: Discovery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22841_00",
@@ -94408,6 +94480,14 @@
     "publisherId": "JP6954"
   },
   {
+    "titleId": "PPSA23344_00",
+    "conceptId": 10007957,
+    "name": "Oddsparks: An Automation Adventure",
+    "contentId": "EP4539-PPSA23344_00-0163554754575218",
+    "region": "EP",
+    "publisherId": "EP4539"
+  },
+  {
     "titleId": "PPSA23345_00",
     "conceptId": 10004289,
     "name": "UFL Open Beta",
@@ -94619,9 +94699,9 @@
     "titleId": "PPSA23423_00",
     "conceptId": 10011184,
     "name": "Death Noodle Delivery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1935-PPSA23423_00-0411171782374016",
+    "region": "EP",
+    "publisherId": "EP1935"
   },
   {
     "titleId": "PPSA23429_00",
@@ -95512,6 +95592,14 @@
     "publisherId": "JP0720"
   },
   {
+    "titleId": "PPSA23726_00",
+    "conceptId": 10011339,
+    "name": "Webgeon Speedrun Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23727_00",
     "conceptId": 10009449,
     "name": "Toy Trains",
@@ -95754,10 +95842,10 @@
   {
     "titleId": "PPSA23850_00",
     "conceptId": 10010769,
-    "name": "Deadlink",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Deadlink - Official Soundtrack",
+    "contentId": "EP2627-PPSA23850_00-DEADLINKOST00000",
+    "region": "EP",
+    "publisherId": "EP2627"
   },
   {
     "titleId": "PPSA23863_00",
@@ -96155,9 +96243,9 @@
     "titleId": "PPSA24009_00",
     "conceptId": 10009419,
     "name": "UNABLES",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4138-PPSA24009_00-0916659771165904",
+    "region": "JP",
+    "publisherId": "JP4138"
   },
   {
     "titleId": "PPSA24018_00",
@@ -96470,6 +96558,38 @@
     "contentId": "EP0896-PPSA24224_00-RETROREVENGERSRG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA24240_00",
+    "conceptId": 10011633,
+    "name": "Clutter's Greatest Hits - Collector's Edition",
+    "contentId": "EP1411-PPSA24240_00-0327239518052689",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24241_00",
+    "conceptId": 10011633,
+    "name": "Clutter's Greatest Hits - Collector's Edition",
+    "contentId": "EP1411-PPSA24241_00-0384264815889757",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24242_00",
+    "conceptId": 10011633,
+    "name": "Clutter's Greatest Hits - Collector's Edition",
+    "contentId": "EP1411-PPSA24242_00-0661172705913303",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24243_00",
+    "conceptId": 10011633,
+    "name": "Clutter's Greatest Hits - Collector's Edition",
+    "contentId": "EP1411-PPSA24243_00-0634155709875358",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA24263_00",
@@ -96896,6 +97016,102 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24433_00",
+    "conceptId": 10011731,
+    "name": "Lots of Things 2: Travel and Search Collector's Edition",
+    "contentId": "EP1411-PPSA24433_00-0270188250153317",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24434_00",
+    "conceptId": 10011731,
+    "name": "Lots of Things 2: Travel and Search Collector's Edition",
+    "contentId": "EP1411-PPSA24434_00-0039237826929127",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24435_00",
+    "conceptId": 10011731,
+    "name": "Lots of Things 2: Travel and Search Collector's Edition",
+    "contentId": "EP1411-PPSA24435_00-0787061794729695",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24436_00",
+    "conceptId": 10011731,
+    "name": "Lots of Things 2: Travel and Search Collector's Edition",
+    "contentId": "EP1411-PPSA24436_00-0020910578202940",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24437_00",
+    "conceptId": 10011733,
+    "name": "Big Adventure: Trip to Europe 6 - Collector's Edition",
+    "contentId": "EP1411-PPSA24437_00-0122967438678659",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24438_00",
+    "conceptId": 10011733,
+    "name": "Big Adventure: Trip to Europe 6 - Collector's Edition",
+    "contentId": "EP1411-PPSA24438_00-0773630428413777",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24439_00",
+    "conceptId": 10011733,
+    "name": "Big Adventure: Trip to Europe 6 - Collector's Edition",
+    "contentId": "EP1411-PPSA24439_00-0374598301505345",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24440_00",
+    "conceptId": 10011733,
+    "name": "Big Adventure: Trip to Europe 6 - Collector's Edition",
+    "contentId": "EP1411-PPSA24440_00-0601299736133289",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24441_00",
+    "conceptId": 10011734,
+    "name": "Nature Escapes 4: Collector's Edition",
+    "contentId": "EP1411-PPSA24441_00-0383356160741794",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24442_00",
+    "conceptId": 10011734,
+    "name": "Nature Escapes 4: Collector's Edition",
+    "contentId": "EP1411-PPSA24442_00-0455822444665036",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24443_00",
+    "conceptId": 10011734,
+    "name": "Nature Escapes 4: Collector's Edition",
+    "contentId": "EP1411-PPSA24443_00-0736853770506908",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24444_00",
+    "conceptId": 10011734,
+    "name": "Nature Escapes 4: Collector's Edition",
+    "contentId": "EP1411-PPSA24444_00-0600317262120209",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA24453_00",
     "conceptId": 10011737,
     "name": "City Builder",
@@ -96924,6 +97140,38 @@
     "conceptId": 10011737,
     "name": "City Builder",
     "contentId": "EP1411-PPSA24456_00-0098818797084538",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24457_00",
+    "conceptId": 10011738,
+    "name": "Fables Mosaic: Cinderella",
+    "contentId": "EP1411-PPSA24457_00-0030223845939872",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24458_00",
+    "conceptId": 10011738,
+    "name": "Fables Mosaic: Cinderella",
+    "contentId": "EP1411-PPSA24458_00-0468985324331624",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24459_00",
+    "conceptId": 10011738,
+    "name": "Fables Mosaic: Cinderella",
+    "contentId": "EP1411-PPSA24459_00-0595261577708012",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24460_00",
+    "conceptId": 10011738,
+    "name": "Fables Mosaic: Cinderella",
+    "contentId": "EP1411-PPSA24460_00-0490116935661805",
     "region": "EP",
     "publisherId": "EP1411"
   },
