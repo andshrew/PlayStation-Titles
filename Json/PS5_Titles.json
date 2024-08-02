@@ -62875,9 +62875,9 @@
     "titleId": "PPSA14674_00",
     "conceptId": 10001260,
     "name": "MARS 2120",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA14674_00-2120MARSPS5QUBEU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA14676_00",
@@ -64056,6 +64056,14 @@
     "publisherId": "JP0001"
   },
   {
+    "titleId": "PPSA15319_00",
+    "conceptId": 10007954,
+    "name": "The Plucky Squire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15328_00",
     "conceptId": 10007253,
     "name": "Shame Legacy",
@@ -64520,12 +64528,28 @@
     "publisherId": "EP3323"
   },
   {
-    "titleId": "PPSA15433_00",
-    "conceptId": 10007988,
-    "name": "Thank Goodness You're Here!",
+    "titleId": "PPSA15430_00",
+    "conceptId": 10007898,
+    "name": "Mad Devils: Damned-finitive Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15432_00",
+    "conceptId": 10007898,
+    "name": "Mad Devils: Damned-finitive Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15433_00",
+    "conceptId": 10007988,
+    "name": "Thank Goodness You're Here!",
+    "contentId": "UP3971-PPSA15433_00-THANKGOODNESSYOU",
+    "region": "UP",
+    "publisherId": "UP3971"
   },
   {
     "titleId": "PPSA15434_00",
@@ -77952,6 +77976,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA18444_00",
+    "conceptId": 10009040,
+    "name": "Blocky Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18446_00",
     "conceptId": 10007543,
     "name": "Celebrities Hacked Premium Edition",
@@ -85040,6 +85072,14 @@
     "publisherId": "HP6766"
   },
   {
+    "titleId": "PPSA20188_00",
+    "conceptId": 10009815,
+    "name": "Blood Hunting",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP8727"
+  },
+  {
     "titleId": "PPSA20192_00",
     "conceptId": 10009816,
     "name": "\u7206\u8d70\u6b21\u5143\u30cd\u30d7\u30c6\u30e5\u30fc\u30cc VS\u5de8\u795e\u30b9\u30e9\u30a4\u30cc",
@@ -85966,6 +86006,22 @@
     "contentId": "HP4459-PPSA20434_00-SKERRITUALPS5ASI",
     "region": "HP",
     "publisherId": "HP4459"
+  },
+  {
+    "titleId": "PPSA20437_00",
+    "conceptId": 10009904,
+    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20438_00",
+    "conceptId": 10009904,
+    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20439_00",
@@ -87979,9 +88035,9 @@
     "titleId": "PPSA20980_00",
     "conceptId": 10007192,
     "name": "Quriocity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8344-PPSA20980_00-0340146480548387",
+    "region": "UP",
+    "publisherId": "UP8344"
   },
   {
     "titleId": "PPSA20981_00",
@@ -88440,6 +88496,14 @@
     "publisherId": "JP6412"
   },
   {
+    "titleId": "PPSA21120_00",
+    "conceptId": 10010231,
+    "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21121_00",
     "conceptId": 10010231,
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
@@ -88856,6 +88920,22 @@
     "publisherId": "EP6969"
   },
   {
+    "titleId": "PPSA21264_00",
+    "conceptId": 10010269,
+    "name": "Deathbound",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21265_00",
+    "conceptId": 10010269,
+    "name": "Deathbound",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21267_00",
     "conceptId": 10010269,
     "name": "Deathbound",
@@ -89234,18 +89314,18 @@
   {
     "titleId": "PPSA21381_00",
     "conceptId": 10010307,
-    "name": "Tombi! Special Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tomba! Special Edition",
+    "contentId": "UP6893-PPSA21381_00-0240103642659799",
+    "region": "UP",
+    "publisherId": "UP6893"
   },
   {
     "titleId": "PPSA21382_00",
     "conceptId": 10010307,
     "name": "Tombi! Special Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6890-PPSA21382_00-0410268520525028",
+    "region": "EP",
+    "publisherId": "EP6890"
   },
   {
     "titleId": "PPSA21389_00",
@@ -90531,9 +90611,9 @@
     "titleId": "PPSA21781_00",
     "conceptId": 10007192,
     "name": "Quriocity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8534-PPSA21781_00-0845649175857950",
+    "region": "EP",
+    "publisherId": "EP8534"
   },
   {
     "titleId": "PPSA21784_00",
@@ -90598,6 +90678,14 @@
     "contentId": "EP5864-PPSA21798_00-0650218531199692",
     "region": "EP",
     "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA21799_00",
+    "conceptId": 10010503,
+    "name": "Turn to Mine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21813_00",
@@ -91984,6 +92072,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22293_00",
+    "conceptId": 10010695,
+    "name": "TENSEI",
+    "contentId": "JB0718-PPSA22293_00-0030400113964403",
+    "region": "JB",
+    "publisherId": "JB0718"
+  },
+  {
     "titleId": "PPSA22298_00",
     "conceptId": 10010698,
     "name": "Bleak Faith: Forsaken",
@@ -92400,6 +92496,14 @@
     "publisherId": "EB0620"
   },
   {
+    "titleId": "PPSA22428_00",
+    "conceptId": 10010738,
+    "name": "Plastomorphosis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22446_00",
     "conceptId": 200115,
     "name": "Agatha Christie: The ABC Murders",
@@ -92811,9 +92915,9 @@
     "titleId": "PPSA22544_00",
     "conceptId": 10010736,
     "name": "Cilla",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1007-PPSA22544_00-CILLAPS5000000EU",
+    "region": "EB",
+    "publisherId": "EB1007"
   },
   {
     "titleId": "PPSA22545_00",
@@ -92826,18 +92930,18 @@
   {
     "titleId": "PPSA22546_00",
     "conceptId": 10010736,
-    "name": "Cilla",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b7\u30e9",
+    "contentId": "JB0752-PPSA22546_00-CILLAPS5000000JP",
+    "region": "JB",
+    "publisherId": "JB0752"
   },
   {
     "titleId": "PPSA22547_00",
     "conceptId": 10010736,
     "name": "Cilla",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0780-PPSA22547_00-CILLAPS5000000AS",
+    "region": "HB",
+    "publisherId": "HB0780"
   },
   {
     "titleId": "PPSA22552_00",
@@ -92854,6 +92958,14 @@
     "contentId": "JP1134-PPSA22553_00-0401752660526313",
     "region": "JP",
     "publisherId": "JP1134"
+  },
+  {
+    "titleId": "PPSA22554_00",
+    "conceptId": 10009901,
+    "name": "Jett Rider",
+    "contentId": "HP0980-PPSA22554_00-0699542592544829",
+    "region": "HP",
+    "publisherId": "HP0980"
   },
   {
     "titleId": "PPSA22555_00",
@@ -93568,7 +93680,23 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA22831_00",
+    "conceptId": 10010909,
+    "name": "Hidden Through Time 2: Discovery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22832_00",
+    "conceptId": 10010909,
+    "name": "Hidden Through Time 2: Discovery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22833_00",
     "conceptId": 10010909,
     "name": "Hidden Through Time 2: Discovery",
     "contentId": null,
@@ -93902,6 +94030,14 @@
     "contentId": "EP5864-PPSA22997_00-0526052818247755",
     "region": "EP",
     "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA22999_00",
+    "conceptId": 10010944,
+    "name": "Love is all around",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23004_00",
@@ -95554,10 +95690,10 @@
   {
     "titleId": "PPSA23688_00",
     "conceptId": 10011323,
-    "name": "Aero The Acro-Bat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Aero the Acro-Bat",
+    "contentId": "EP0896-PPSA23688_00-AEROTHEACROBATRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA23700_00",
@@ -95992,6 +96128,14 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA23911_00",
+    "conceptId": 10011449,
+    "name": "Aero The Acro-Bat: Rascal Rival Revenge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23917_00",
     "conceptId": 10011454,
     "name": "Moonlit Embrace",
@@ -96294,6 +96438,22 @@
     "contentId": "HP4312-PPSA24035_00-0889464368712596",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA24041_00",
+    "conceptId": 227202,
+    "name": "Revenant Saga",
+    "contentId": "UP2500-PPSA24041_00-US0REVESAGA00PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA24042_00",
+    "conceptId": 227202,
+    "name": "Revenant Saga",
+    "contentId": "EP2363-PPSA24042_00-EU0REVESAGA00PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA24048_00",
@@ -96795,33 +96955,33 @@
     "titleId": "PPSA24361_00",
     "conceptId": 10011685,
     "name": "Sumo Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24361_00-0071451575517853",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24362_00",
     "conceptId": 10011685,
     "name": "Sumo Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24362_00-0260214902475140",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24363_00",
     "conceptId": 10011685,
     "name": "Sumo Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24363_00-0140872841164662",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24364_00",
     "conceptId": 10011685,
     "name": "Sumo Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24364_00-0163875972294506",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24365_00",
@@ -97112,6 +97272,38 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA24446_00",
+    "conceptId": 10011736,
+    "name": "Sweet Home Look and Find - Collector's Edition",
+    "contentId": "EP1411-PPSA24446_00-0558969363263636",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24447_00",
+    "conceptId": 10011736,
+    "name": "Sweet Home Look and Find - Collector's Edition",
+    "contentId": "EP1411-PPSA24447_00-0172767223091920",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24448_00",
+    "conceptId": 10011736,
+    "name": "Sweet Home Look and Find - Collector's Edition",
+    "contentId": "EP1411-PPSA24448_00-0540880619716232",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24450_00",
+    "conceptId": 10011736,
+    "name": "Sweet Home Look and Find - Collector's Edition",
+    "contentId": "EP1411-PPSA24450_00-0251443084129684",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA24453_00",
     "conceptId": 10011737,
     "name": "City Builder",
@@ -97172,6 +97364,38 @@
     "conceptId": 10011738,
     "name": "Fables Mosaic: Cinderella",
     "contentId": "EP1411-PPSA24460_00-0490116935661805",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24462_00",
+    "conceptId": 10011740,
+    "name": "Duck Hunting Challenge",
+    "contentId": "EP1411-PPSA24462_00-0748039856690924",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24463_00",
+    "conceptId": 10011740,
+    "name": "Duck Hunting Challenge",
+    "contentId": "EP1411-PPSA24463_00-0937891831251143",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24464_00",
+    "conceptId": 10011740,
+    "name": "Duck Hunting Challenge",
+    "contentId": "EP1411-PPSA24464_00-0208107806056408",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24465_00",
+    "conceptId": 10011740,
+    "name": "Duck Hunting Challenge",
+    "contentId": "EP1411-PPSA24465_00-0227867115191762",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -97475,6 +97699,14 @@
     "titleId": "PPSA24870_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25202_00",
+    "conceptId": 10012091,
+    "name": "Pixicharm - Fit Frog's Feast",
     "contentId": null,
     "region": null,
     "publisherId": null
