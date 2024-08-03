@@ -62520,6 +62520,14 @@
     "publisherId": "HP0700"
   },
   {
+    "titleId": "PPSA14484_00",
+    "conceptId": 10007670,
+    "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14485_00",
     "conceptId": 10007670,
     "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
@@ -64555,9 +64563,9 @@
     "titleId": "PPSA15434_00",
     "conceptId": 10007988,
     "name": "Thank Goodness You're Here!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3825-PPSA15434_00-THANKGOODNESSYOU",
+    "region": "EP",
+    "publisherId": "EP3825"
   },
   {
     "titleId": "PPSA15435_00",
@@ -64962,10 +64970,10 @@
   {
     "titleId": "PPSA15496_00",
     "conceptId": 10003670,
-    "name": "Closer the Distance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Closer The Distance",
+    "contentId": "UP2908-PPSA15496_00-CLOSERDISTANCENA",
+    "region": "UP",
+    "publisherId": "UP2908"
   },
   {
     "titleId": "PPSA15497_00",
@@ -64978,10 +64986,10 @@
   {
     "titleId": "PPSA15498_00",
     "conceptId": 10003670,
-    "name": "Closer the Distance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Closer The Distance",
+    "contentId": "JP2948-PPSA15498_00-CLOSERDISTANCEJA",
+    "region": "JP",
+    "publisherId": "JP2948"
   },
   {
     "titleId": "PPSA15499_00",
@@ -77976,6 +77984,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA18443_00",
+    "conceptId": 10009040,
+    "name": "Blocky Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18444_00",
     "conceptId": 10009040,
     "name": "Blocky Farm",
@@ -82032,6 +82048,14 @@
     "publisherId": "UP2767"
   },
   {
+    "titleId": "PPSA19417_00",
+    "conceptId": 10009534,
+    "name": "Core Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19418_00",
     "conceptId": 10008580,
     "name": "Cannibal Abduction",
@@ -82286,6 +82310,14 @@
     "contentId": "HP1419-PPSA19470_00-SIEASIA000000000",
     "region": "HP",
     "publisherId": "HP1419"
+  },
+  {
+    "titleId": "PPSA19476_00",
+    "conceptId": 10004151,
+    "name": "Harry Potter: Quidditch Champions",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19477_00",
@@ -87603,9 +87635,9 @@
     "titleId": "PPSA20858_00",
     "conceptId": 10006285,
     "name": "The Mortuary Assistant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7254-PPSA20858_00-0843944606871225",
+    "region": "HP",
+    "publisherId": "HP7254"
   },
   {
     "titleId": "PPSA20859_00",
@@ -89728,6 +89760,22 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA21500_00",
+    "conceptId": 10010380,
+    "name": "Marble Maze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21502_00",
+    "conceptId": 10010380,
+    "name": "Marble Maze - DEMO",
+    "contentId": "JP6595-PPSA21502_00-0475962430888392",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
     "titleId": "PPSA21515_00",
     "conceptId": 10010381,
     "name": "Wizardry: Proving Grounds of the Mad Overlord",
@@ -90681,6 +90729,14 @@
   },
   {
     "titleId": "PPSA21799_00",
+    "conceptId": 10010503,
+    "name": "Turn to Mine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21800_00",
     "conceptId": 10010503,
     "name": "Turn to Mine",
     "contentId": null,
@@ -92499,9 +92555,17 @@
     "titleId": "PPSA22428_00",
     "conceptId": 10010738,
     "name": "Plastomorphosis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6139-PPSA22428_00-0147725198649095",
+    "region": "UP",
+    "publisherId": "UP6139"
+  },
+  {
+    "titleId": "PPSA22429_00",
+    "conceptId": 10010738,
+    "name": "Plastomorphosis",
+    "contentId": "EP6138-PPSA22429_00-0413546816108275",
+    "region": "EP",
+    "publisherId": "EP6138"
   },
   {
     "titleId": "PPSA22446_00",
@@ -92923,9 +92987,9 @@
     "titleId": "PPSA22545_00",
     "conceptId": 10010736,
     "name": "Cilla",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0812-PPSA22545_00-CILLAPS5000000US",
+    "region": "UB",
+    "publisherId": "UB0812"
   },
   {
     "titleId": "PPSA22546_00",
@@ -94832,6 +94896,14 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23418_00",
+    "conceptId": 10011087,
+    "name": "Knowledge Trainer",
+    "contentId": "UB0615-PPSA23418_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0615"
+  },
+  {
     "titleId": "PPSA23423_00",
     "conceptId": 10011184,
     "name": "Death Noodle Delivery",
@@ -96139,17 +96211,17 @@
     "titleId": "PPSA23917_00",
     "conceptId": 10011454,
     "name": "Moonlit Embrace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA23917_00-0325877554676683",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA23918_00",
     "conceptId": 10011454,
     "name": "Moonlit Embrace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA23918_00-0833596632213098",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA23921_00",
@@ -97419,25 +97491,25 @@
     "titleId": "PPSA24492_00",
     "conceptId": 10011761,
     "name": "Colorama Cubes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24492_00-0377257777537777",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24493_00",
     "conceptId": 10011761,
     "name": "Colorama Cubes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24493_00-0188334159904748",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24494_00",
     "conceptId": 10011761,
     "name": "Colorama Cubes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24494_00-0545862913353225",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24508_00",
