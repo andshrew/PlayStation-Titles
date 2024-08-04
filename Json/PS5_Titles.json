@@ -51315,9 +51315,9 @@
     "titleId": "PPSA11008_00",
     "conceptId": 10006439,
     "name": "Sword & Fairy Inn 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA11008_00-SWORDFAIRYINN200",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA11009_00",
@@ -62875,9 +62875,9 @@
     "titleId": "PPSA14673_00",
     "conceptId": 10001260,
     "name": "MARS 2120",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA14673_00-2120MARSPS5QUBNA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA14674_00",
@@ -64544,6 +64544,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15431_00",
+    "conceptId": 10007898,
+    "name": "Mad Devils: Damned-finitive Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15432_00",
     "conceptId": 10007898,
     "name": "Mad Devils: Damned-finitive Edition",
@@ -64978,10 +64986,10 @@
   {
     "titleId": "PPSA15497_00",
     "conceptId": 10003670,
-    "name": "Closer the Distance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Closer The Distance",
+    "contentId": "EP2770-PPSA15497_00-CLOSERDISTANCEEU",
+    "region": "EP",
+    "publisherId": "EP2770"
   },
   {
     "titleId": "PPSA15498_00",
@@ -64994,10 +65002,10 @@
   {
     "titleId": "PPSA15499_00",
     "conceptId": 10003670,
-    "name": "Closer the Distance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Closer The Distance",
+    "contentId": "HP2854-PPSA15499_00-CLOSERDISTANCEAS",
+    "region": "HP",
+    "publisherId": "HP2854"
   },
   {
     "titleId": "PPSA15500_00",
@@ -71595,7 +71603,7 @@
     "titleId": "PPSA16869_00",
     "conceptId": 10008552,
     "name": "STAR WARS\u2122: Bounty Hunter\u2122",
-    "contentId": null,
+    "contentId": "UP1032-PPSA16869_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP1032"
   },
@@ -78000,6 +78008,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18445_00",
+    "conceptId": 10009040,
+    "name": "Blocky Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18446_00",
     "conceptId": 10007543,
     "name": "Celebrities Hacked Premium Edition",
@@ -81646,6 +81662,30 @@
     "contentId": "UP6093-PPSA19320_00-0067009921549802",
     "region": "UP",
     "publisherId": "UP6093"
+  },
+  {
+    "titleId": "PPSA19333_00",
+    "conceptId": 10004103,
+    "name": "Mr. Hibbl - DEMO",
+    "contentId": "EP6664-PPSA19333_00-0006125758817947",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA19334_00",
+    "conceptId": 10004103,
+    "name": "Mr. Hibbl - DEMO",
+    "contentId": "UP6664-PPSA19334_00-0656185315887893",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA19335_00",
+    "conceptId": 10004103,
+    "name": "Mr. Hibbl - DEMO",
+    "contentId": "JP6595-PPSA19335_00-0007786402363962",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA19340_00",
@@ -87627,9 +87667,9 @@
     "titleId": "PPSA20857_00",
     "conceptId": 10006285,
     "name": "The Mortuary Assistant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7208-PPSA20857_00-0921971461422727",
+    "region": "JP",
+    "publisherId": "JP7208"
   },
   {
     "titleId": "PPSA20858_00",
@@ -89762,10 +89802,18 @@
   {
     "titleId": "PPSA21500_00",
     "conceptId": 10010380,
-    "name": "Marble Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Marble Maze - DEMO",
+    "contentId": "EP6664-PPSA21500_00-0993666582498640",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA21501_00",
+    "conceptId": 10010380,
+    "name": "Marble Maze - DEMO",
+    "contentId": "UP6664-PPSA21501_00-0944839083930862",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA21502_00",
@@ -89774,6 +89822,14 @@
     "contentId": "JP6595-PPSA21502_00-0475962430888392",
     "region": "JP",
     "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA21503_00",
+    "conceptId": 10010380,
+    "name": "Marble Maze - DEMO",
+    "contentId": "HP6661-PPSA21503_00-0793897915704102",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA21515_00",
@@ -93168,6 +93224,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22633_00",
+    "conceptId": 10003910,
+    "name": "Test Drive Unlimited Solar Crown",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22637_00",
     "conceptId": 10010032,
     "name": "BIT.TRIP RERUNNER",
@@ -95584,6 +95648,14 @@
     "publisherId": "UP3639"
   },
   {
+    "titleId": "PPSA23613_00",
+    "conceptId": 10008851,
+    "name": "Beach Invasion 1944",
+    "contentId": "UB0165-PPSA23613_00-0412764031395971",
+    "region": "UB",
+    "publisherId": "UB0165"
+  },
+  {
     "titleId": "PPSA23621_00",
     "conceptId": 10011292,
     "name": "Learn to Play Vol. 3 - Mice Love Cheese",
@@ -95912,6 +95984,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23774_00",
+    "conceptId": 10010116,
+    "name": "Grieve",
+    "contentId": "UP7667-PPSA23774_00-MYPROJECT1234567",
+    "region": "UP",
+    "publisherId": "UP7667"
+  },
+  {
     "titleId": "PPSA23782_00",
     "conceptId": 222913,
     "name": "\u30a2\u30b9\u30c7\u30a3\u30d0\u30a4\u30f3\u30cf\u30fc\u30c4",
@@ -96054,6 +96134,38 @@
     "contentId": "EP2627-PPSA23850_00-DEADLINKOST00000",
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA23857_00",
+    "conceptId": 10011427,
+    "name": "Robot vs Monsters",
+    "contentId": "UP7668-PPSA23857_00-0451960572502162",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23858_00",
+    "conceptId": 10011427,
+    "name": "Robot vs Monsters",
+    "contentId": "UP7668-PPSA23858_00-0359391767289545",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23859_00",
+    "conceptId": 10011427,
+    "name": "Robot vs Monsters",
+    "contentId": "UP7668-PPSA23859_00-0344549464069797",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23860_00",
+    "conceptId": 10011427,
+    "name": "Robot vs Monsters",
+    "contentId": "UP7668-PPSA23860_00-0009307681987484",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23863_00",
@@ -96318,6 +96430,14 @@
     "contentId": "EP6922-PPSA23937_00-0182222007743899",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA23942_00",
+    "conceptId": 10011462,
+    "name": "Only Up Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23944_00",
@@ -96739,6 +96859,14 @@
     "titleId": "PPSA24178_00",
     "conceptId": 10011594,
     "name": "Color Dodge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24197_00",
+    "conceptId": 10011598,
+    "name": "GOMAN stuck in the avici hell",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -97483,9 +97611,9 @@
     "titleId": "PPSA24491_00",
     "conceptId": 10011761,
     "name": "Colorama Cubes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24491_00-0825417027344824",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24492_00",
