@@ -81688,6 +81688,14 @@
     "publisherId": "JP6595"
   },
   {
+    "titleId": "PPSA19336_00",
+    "conceptId": 10004103,
+    "name": "Mr. Hibbl - DEMO",
+    "contentId": "HP6661-PPSA19336_00-0439271808674547",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA19340_00",
     "conceptId": 10009259,
     "name": "The Jumping Food Memory - DEMO",
@@ -96699,9 +96707,9 @@
     "titleId": "PPSA24098_00",
     "conceptId": 10011557,
     "name": "Population Quiz",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6878-PPSA24098_00-0639791374411486",
+    "region": "EP",
+    "publisherId": "EP6878"
   },
   {
     "titleId": "PPSA24099_00",
@@ -96867,9 +96875,9 @@
     "titleId": "PPSA24197_00",
     "conceptId": 10011598,
     "name": "GOMAN stuck in the avici hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6788-PPSA24197_00-GOMANDEMO0000000",
+    "region": "UP",
+    "publisherId": "UP6788"
   },
   {
     "titleId": "PPSA24207_00",
@@ -96910,6 +96918,14 @@
     "contentId": "EP3111-PPSA24213_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA24220_00",
+    "conceptId": 10011606,
+    "name": "Thermonuclear",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24224_00",
@@ -97862,6 +97878,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24829_00",
+    "conceptId": 10009904,
+    "name": "\u95c7\u306e\u4ed5\u4e8b\u4ebaKAGE Shadow of The Ninja DEMO",
+    "contentId": "JP0221-PPSA24829_00-0035330123890702",
+    "region": "JP",
+    "publisherId": "JP0221"
+  },
+  {
+    "titleId": "PPSA24830_00",
+    "conceptId": 10009904,
+    "name": "Shadow of the Ninja DEMO",
+    "contentId": "HP5741-PPSA24830_00-0718112818499947",
+    "region": "HP",
+    "publisherId": "HP5741"
   },
   {
     "titleId": "PPSA24839_00",
