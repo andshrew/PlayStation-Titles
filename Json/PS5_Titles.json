@@ -51307,9 +51307,9 @@
     "titleId": "PPSA11007_00",
     "conceptId": 10006439,
     "name": "Sword & Fairy Inn 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA11007_00-SWORDFAIRYINN200",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA11008_00",
@@ -68099,17 +68099,17 @@
     "titleId": "PPSA16109_00",
     "conceptId": 10006285,
     "name": "The Mortuary Assistant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7236-PPSA16109_00-DREADXPTMASIEA00",
+    "region": "UP",
+    "publisherId": "UP7236"
   },
   {
     "titleId": "PPSA16110_00",
     "conceptId": 10006285,
     "name": "The Mortuary Assistant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7233-PPSA16110_00-DREADXPTMASIEE00",
+    "region": "EP",
+    "publisherId": "EP7233"
   },
   {
     "titleId": "PPSA16111_00",
@@ -91472,6 +91472,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22042_00",
+    "conceptId": 10010390,
+    "name": "Darksword: Battle Eternity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22043_00",
+    "conceptId": 10010390,
+    "name": "Darksword: Battle Eternity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22048_00",
     "conceptId": 10010605,
     "name": "Chronicles of Magic: Divided Kingdom",
@@ -94952,6 +94968,22 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23408_00",
+    "conceptId": 10011175,
+    "name": "Tower",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23409_00",
+    "conceptId": 10011175,
+    "name": "Tower",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23411_00",
     "conceptId": 10011000,
     "name": "Cazzarion: Star Collector",
@@ -95883,9 +95915,9 @@
     "titleId": "PPSA23726_00",
     "conceptId": 10011339,
     "name": "Webgeon Speedrun Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7654-PPSA23726_00-0549730535641331",
+    "region": "EP",
+    "publisherId": "EP7654"
   },
   {
     "titleId": "PPSA23727_00",
@@ -97392,6 +97424,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24429_00",
+    "conceptId": 10011730,
+    "name": "Viking Heroes V - Collector's edition",
+    "contentId": "EP1411-PPSA24429_00-0199762959788593",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24430_00",
+    "conceptId": 10011730,
+    "name": "Viking Heroes V - Collector's edition",
+    "contentId": "EP1411-PPSA24430_00-0696523273253667",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24431_00",
+    "conceptId": 10011730,
+    "name": "Viking Heroes V - Collector's edition",
+    "contentId": "EP1411-PPSA24431_00-0956470752922226",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA24432_00",
+    "conceptId": 10011730,
+    "name": "Viking Heroes V - Collector's edition",
+    "contentId": "EP1411-PPSA24432_00-0196903768460798",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA24433_00",
     "conceptId": 10011731,
     "name": "Lots of Things 2: Travel and Search Collector's Edition",
@@ -97875,6 +97939,38 @@
     "titleId": "PPSA24631_00",
     "conceptId": 10011818,
     "name": "Wheel Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24656_00",
+    "conceptId": 10008991,
+    "name": "Thief Simulator VR: Greenview Street",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24658_00",
+    "conceptId": 10008991,
+    "name": "Thief Simulator VR: Greenview Street",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24659_00",
+    "conceptId": 10008991,
+    "name": "Thief Simulator VR: Greenview Street",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24660_00",
+    "conceptId": 10008991,
+    "name": "Thief Simulator VR: Greenview Street",
     "contentId": null,
     "region": null,
     "publisherId": null
