@@ -36168,6 +36168,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA08476_00",
+    "conceptId": 10000465,
+    "name": "Dead Age II",
+    "contentId": "EP0822-PPSA08476_00-DEADAGEII0000EU5",
+    "region": "EP",
+    "publisherId": "EP0822"
+  },
+  {
     "titleId": "PPSA08478_00",
     "conceptId": 10002212,
     "name": "Cave Digger 2: Dig Harder",
@@ -63315,7 +63323,7 @@
     "titleId": "PPSA15064_00",
     "conceptId": 10007859,
     "name": "Cat Quest III",
-    "contentId": null,
+    "contentId": "EP7579-PPSA15064_00-CQ300000000PS5EU",
     "region": "EP",
     "publisherId": "EP7579"
   },
@@ -63323,7 +63331,7 @@
     "titleId": "PPSA15065_00",
     "conceptId": 10007859,
     "name": "Cat Quest III",
-    "contentId": null,
+    "contentId": "UP7581-PPSA15065_00-CQ300000000PS5US",
     "region": "UP",
     "publisherId": "UP7581"
   },
@@ -63714,34 +63722,34 @@
   {
     "titleId": "PPSA15240_00",
     "conceptId": 10007903,
-    "name": "Princess Maker 2 Regeneration",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30e1\u30fc\u30ab\u30fc\uff12 \u30ea\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "contentId": "JP6005-PPSA15240_00-PRINCESSMAKER200",
+    "region": "JP",
+    "publisherId": "JP6005"
   },
   {
     "titleId": "PPSA15241_00",
     "conceptId": 10007903,
     "name": "Princess Maker 2 Regeneration",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6091-PPSA15241_00-PRINCESSMAKER200",
+    "region": "UP",
+    "publisherId": "UP6091"
   },
   {
     "titleId": "PPSA15242_00",
     "conceptId": 10007903,
     "name": "Princess Maker 2 Regeneration",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6090-PPSA15242_00-PRINCESSMAKER200",
+    "region": "EP",
+    "publisherId": "EP6090"
   },
   {
     "titleId": "PPSA15243_00",
     "conceptId": 10007903,
     "name": "Princess Maker 2 Regeneration",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6073-PPSA15243_00-PRINCESSMAKER200",
+    "region": "HP",
+    "publisherId": "HP6073"
   },
   {
     "titleId": "PPSA15245_00",
@@ -63795,7 +63803,7 @@
     "titleId": "PPSA15258_00",
     "conceptId": 10007590,
     "name": "Volgarr the Viking II",
-    "contentId": null,
+    "contentId": "UP7818-PPSA15258_00-0729324666947219",
     "region": "UP",
     "publisherId": "UP7818"
   },
@@ -63803,7 +63811,7 @@
     "titleId": "PPSA15260_00",
     "conceptId": 10007590,
     "name": "Volgarr the Viking II",
-    "contentId": null,
+    "contentId": "EP7816-PPSA15260_00-0063073300732616",
     "region": "EP",
     "publisherId": "EP7816"
   },
@@ -72784,6 +72792,14 @@
     "publisherId": "HP1711"
   },
   {
+    "titleId": "PPSA17141_00",
+    "conceptId": 10008674,
+    "name": "Pneumata",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17143_00",
     "conceptId": 10008675,
     "name": "Enchanted Portals",
@@ -80272,6 +80288,14 @@
     "publisherId": "EP3036"
   },
   {
+    "titleId": "PPSA19006_00",
+    "conceptId": 10009366,
+    "name": "A Quiet Place: The Road Ahead",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6856"
+  },
+  {
     "titleId": "PPSA19007_00",
     "conceptId": 10009366,
     "name": "A Quiet Place: The Road Ahead",
@@ -82522,10 +82546,10 @@
   {
     "titleId": "PPSA19516_00",
     "conceptId": 10004945,
-    "name": "Gori: Cuddly Carnage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gori: Cuddly Carnage Demo",
+    "contentId": "EP4382-PPSA19516_00-GORICUDDLYDEMO00",
+    "region": "EP",
+    "publisherId": "EP4382"
   },
   {
     "titleId": "PPSA19526_00",
@@ -82554,10 +82578,10 @@
   {
     "titleId": "PPSA19539_00",
     "conceptId": 10004945,
-    "name": "Gori: Cuddly Carnage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gori: Cuddly Carnage Demo",
+    "contentId": "UP4382-PPSA19539_00-GORICUDDLYDEMO00",
+    "region": "UP",
+    "publisherId": "UP4382"
   },
   {
     "titleId": "PPSA19540_00",
@@ -85374,6 +85398,14 @@
     "contentId": "EP1549-PPSA20238_00-CLABS1FT20231109",
     "region": "EP",
     "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA20242_00",
+    "conceptId": 10009838,
+    "name": "Date Z",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20253_00",
@@ -88514,10 +88546,10 @@
   {
     "titleId": "PPSA21098_00",
     "conceptId": 10008699,
-    "name": "Koumajou Remilia: Scarlet Symphony",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Koumajou Remilia",
+    "contentId": "EP0287-PPSA21098_00-0626906171871403",
+    "region": "EP",
+    "publisherId": "EP0287"
   },
   {
     "titleId": "PPSA21099_00",
@@ -89035,17 +89067,17 @@
     "titleId": "PPSA21265_00",
     "conceptId": 10010269,
     "name": "Deathbound",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2081-PPSA21265_00-DEATHBOUND000000",
+    "region": "UP",
+    "publisherId": "UP2081"
   },
   {
     "titleId": "PPSA21267_00",
     "conceptId": 10010269,
     "name": "Deathbound",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2081-PPSA21267_00-DEATHBOUND000000",
+    "region": "HP",
+    "publisherId": "HP2081"
   },
   {
     "titleId": "PPSA21268_00",
@@ -91064,6 +91096,14 @@
     "publisherId": "JP0365"
   },
   {
+    "titleId": "PPSA21890_00",
+    "conceptId": 10010538,
+    "name": "Caravan SandWitch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21891_00",
     "conceptId": 10010538,
     "name": "Caravan SandWitch",
@@ -91240,10 +91280,18 @@
     "publisherId": "JP4832"
   },
   {
+    "titleId": "PPSA21950_00",
+    "conceptId": 10010567,
+    "name": "Magnus Trilogy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21954_00",
     "conceptId": 10010568,
     "name": "SteamWorld Heist II",
-    "contentId": null,
+    "contentId": "EP5360-PPSA21954_00-STEAMWORLDHEIST2",
     "region": "EP",
     "publisherId": "EP5360"
   },
@@ -91448,6 +91496,14 @@
     "publisherId": "EB0529"
   },
   {
+    "titleId": "PPSA22017_00",
+    "conceptId": 10001178,
+    "name": "Iron Meat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22022_00",
     "conceptId": 10010592,
     "name": "Spin the Lighthouse",
@@ -91539,9 +91595,9 @@
     "titleId": "PPSA22042_00",
     "conceptId": 10010390,
     "name": "Darksword: Battle Eternity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0014-PPSA22042_00-0983168160584247",
+    "region": "UB",
+    "publisherId": "UB0014"
   },
   {
     "titleId": "PPSA22043_00",
@@ -92273,6 +92329,30 @@
   },
   {
     "titleId": "PPSA22283_00",
+    "conceptId": 10010671,
+    "name": "Rewind or Die",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22284_00",
+    "conceptId": 10010671,
+    "name": "Rewind or Die",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22285_00",
+    "conceptId": 10010671,
+    "name": "Rewind or Die",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22286_00",
     "conceptId": 10010671,
     "name": "Rewind or Die",
     "contentId": null,
@@ -93336,6 +93416,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22630_00",
+    "conceptId": 10010806,
+    "name": "Rise Eterna War",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22633_00",
     "conceptId": 10003910,
     "name": "Test Drive Unlimited Solar Crown",
@@ -93430,6 +93518,14 @@
     "contentId": "HP8504-PPSA22651_00-0199216975772002",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA22658_00",
+    "conceptId": 10010829,
+    "name": "Atama",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22660_00",
@@ -94792,6 +94888,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA23276_00",
+    "conceptId": 10011105,
+    "name": "The Exit 8",
+    "contentId": "JP0122-PPSA23276_00-0712963327800940",
+    "region": "JP",
+    "publisherId": "JP0122"
+  },
+  {
     "titleId": "PPSA23280_00",
     "conceptId": 10011111,
     "name": "Pepper Grinder",
@@ -96099,9 +96203,9 @@
     "titleId": "PPSA23754_00",
     "conceptId": 10011372,
     "name": "Escape from the Pharaoh's Tomb",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA23754_00-ESCAPEPHARAOHSRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA23759_00",
@@ -96294,6 +96398,14 @@
     "contentId": "EP2627-PPSA23850_00-DEADLINKOST00000",
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA23853_00",
+    "conceptId": 10011375,
+    "name": "Space Bouncer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23854_00",
@@ -96683,9 +96795,9 @@
     "titleId": "PPSA23973_00",
     "conceptId": 10011471,
     "name": "Donut Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP4312-PPSA23973_00-0946477631824807",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA23984_00",
@@ -96939,9 +97051,9 @@
     "titleId": "PPSA24128_00",
     "conceptId": 10011500,
     "name": "Cultist Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4713-PPSA24128_00-0519863325343393",
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA24129_00",
@@ -97040,6 +97152,14 @@
     "publisherId": "UP6718"
   },
   {
+    "titleId": "PPSA24168_00",
+    "conceptId": 10011590,
+    "name": "Glowface in Love",
+    "contentId": "EP6664-PPSA24168_00-0534298333213805",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA24169_00",
     "conceptId": 10011590,
     "name": "Glowface in Love - PS4 & PS5",
@@ -97050,18 +97170,18 @@
   {
     "titleId": "PPSA24170_00",
     "conceptId": 10011590,
-    "name": "Glowface in Love - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Glowface in Love",
+    "contentId": "JP6595-PPSA24170_00-0102719724338075",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA24171_00",
     "conceptId": 10011590,
-    "name": "Glowface in Love - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Glowface in Love",
+    "contentId": "HP6661-PPSA24171_00-0488570314592538",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA24176_00",
@@ -97086,6 +97206,14 @@
     "contentId": "EB0792-PPSA24178_00-COLORDODGE000000",
     "region": "EB",
     "publisherId": "EB0792"
+  },
+  {
+    "titleId": "PPSA24186_00",
+    "conceptId": 228682,
+    "name": "Antiquia Lost",
+    "contentId": "UP2500-PPSA24186_00-US0ANTIQUIA00PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA24188_00",
@@ -97158,6 +97286,14 @@
     "contentId": "EP0896-PPSA24224_00-RETROREVENGERSRG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA24225_00",
+    "conceptId": 10011612,
+    "name": "Boom Robots",
+    "contentId": "UP7578-PPSA24225_00-0255933215061965",
+    "region": "UP",
+    "publisherId": "UP7578"
   },
   {
     "titleId": "PPSA24240_00",
@@ -98008,12 +98144,20 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA24594_00",
+    "conceptId": 10011800,
+    "name": "Space Surveyor",
+    "contentId": "UB0701-PPSA24594_00-0834841781628801",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
     "titleId": "PPSA24595_00",
     "conceptId": 10011800,
     "name": "Space Surveyor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0896-PPSA24595_00-0416585813380905",
+    "region": "EB",
+    "publisherId": "EB0896"
   },
   {
     "titleId": "PPSA24596_00",
@@ -98022,6 +98166,14 @@
     "contentId": "JB0640-PPSA24596_00-0203042475823342",
     "region": "JB",
     "publisherId": "JB0640"
+  },
+  {
+    "titleId": "PPSA24597_00",
+    "conceptId": 10011800,
+    "name": "Space Surveyor",
+    "contentId": "HB0669-PPSA24597_00-0077047531594164",
+    "region": "HB",
+    "publisherId": "HB0669"
   },
   {
     "titleId": "PPSA24612_00",
@@ -98272,9 +98424,25 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24925_00",
+    "conceptId": 10011960,
+    "name": "Cazzarion: Treasure Diver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24926_00",
     "conceptId": 10011960,
     "name": "Cazzarion: Treasure Diver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24980_00",
+    "conceptId": 10011996,
+    "name": "Boys Race",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -98304,7 +98472,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25077_00",
+    "conceptId": 10012039,
+    "name": "2048 Snake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25078_00",
+    "conceptId": 10012039,
+    "name": "2048 Snake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25079_00",
     "conceptId": 10012039,
     "name": "2048 Snake",
     "contentId": null,
