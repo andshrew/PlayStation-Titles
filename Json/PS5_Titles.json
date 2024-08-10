@@ -8568,6 +8568,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA03203_00",
+    "conceptId": 10002560,
+    "name": "Classic Racers Elite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03208_00",
     "conceptId": 235227,
     "name": "Ghost of Tsushima",
@@ -36427,9 +36435,9 @@
     "titleId": "PPSA08525_00",
     "conceptId": 10005433,
     "name": "Gravitators",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA08525_00-GRAVITATORS00000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA08526_00",
@@ -62522,8 +62530,8 @@
   {
     "titleId": "PPSA14483_00",
     "conceptId": 10007670,
-    "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles PS4 & PS5",
-    "contentId": null,
+    "name": "\u95dc\u65bc\u6211\u8f49\u751f\u8b8a\u6210\u53f2\u840a\u59c6\u9019\u6a94\u4e8b \u5766\u6d3e\u65af\u7279\u958b\u62d3\u8b5a",
+    "contentId": "HP0700-PPSA14483_00-MAINGAME00000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -62531,17 +62539,17 @@
     "titleId": "PPSA14484_00",
     "conceptId": 10007670,
     "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0700-PPSA14484_00-MAINGAME00000000",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA14485_00",
     "conceptId": 10007670,
     "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0700-PPSA14485_00-MAINGAME00000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA14486_00",
@@ -63243,9 +63251,9 @@
     "titleId": "PPSA14752_00",
     "conceptId": 235319,
     "name": "Delirium",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA14752_00-0096601426010539",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA14753_00",
@@ -72790,6 +72798,14 @@
     "contentId": "HP1711-PPSA17136_00-SKULLPIRATES0000",
     "region": "HP",
     "publisherId": "HP1711"
+  },
+  {
+    "titleId": "PPSA17139_00",
+    "conceptId": 10008674,
+    "name": "Pneumata",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17141_00",
@@ -85400,6 +85416,14 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA20241_00",
+    "conceptId": 10009838,
+    "name": "Date Z",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20242_00",
     "conceptId": 10009838,
     "name": "Date Z",
@@ -89059,9 +89083,9 @@
     "titleId": "PPSA21264_00",
     "conceptId": 10010269,
     "name": "Deathbound",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4385-PPSA21264_00-DEATHBOUND000000",
+    "region": "EP",
+    "publisherId": "EP4385"
   },
   {
     "titleId": "PPSA21265_00",
@@ -89070,6 +89094,14 @@
     "contentId": "UP2081-PPSA21265_00-DEATHBOUND000000",
     "region": "UP",
     "publisherId": "UP2081"
+  },
+  {
+    "titleId": "PPSA21266_00",
+    "conceptId": 10010269,
+    "name": "Deathbound",
+    "contentId": "JP0087-PPSA21266_00-DEATHBOUND000000",
+    "region": "JP",
+    "publisherId": "JP0087"
   },
   {
     "titleId": "PPSA21267_00",
@@ -89760,6 +89792,14 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA21444_00",
+    "conceptId": 10010353,
+    "name": "DOOM + DOOM II",
+    "contentId": "UP1003-PPSA21444_00-OSIRIS2000000000",
+    "region": "UP",
+    "publisherId": "UP1003"
+  },
+  {
     "titleId": "PPSA21456_00",
     "conceptId": 10010361,
     "name": "Empty Shell",
@@ -89950,6 +89990,14 @@
     "contentId": "UP7996-PPSA21524_00-0452682857612824",
     "region": "UP",
     "publisherId": "UP7996"
+  },
+  {
+    "titleId": "PPSA21529_00",
+    "conceptId": 10010392,
+    "name": "Mining Mechs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21533_00",
@@ -91483,7 +91531,7 @@
     "titleId": "PPSA22013_00",
     "conceptId": 10010568,
     "name": "SteamWorld Heist II",
-    "contentId": null,
+    "contentId": "UP5180-PPSA22013_00-STEAMWORLDHEIST2",
     "region": "UP",
     "publisherId": "UP5180"
   },
@@ -93416,7 +93464,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22629_00",
+    "conceptId": 10010806,
+    "name": "Rise Eterna War",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22630_00",
+    "conceptId": 10010806,
+    "name": "Rise Eterna War",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22631_00",
     "conceptId": 10010806,
     "name": "Rise Eterna War",
     "contentId": null,
@@ -93682,10 +93746,10 @@
   {
     "titleId": "PPSA22717_00",
     "conceptId": 10010861,
-    "name": "Campfire Oasis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Campfire of Oasis",
+    "contentId": "UB0796-PPSA22717_00-0816005983445540",
+    "region": "UB",
+    "publisherId": "UB0796"
   },
   {
     "titleId": "PPSA22727_00",
@@ -94888,6 +94952,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA23274_00",
+    "conceptId": 10011103,
+    "name": "Bocce VR Simulator",
+    "contentId": "EP6878-PPSA23274_00-0312284748143134",
+    "region": "EP",
+    "publisherId": "EP6878"
+  },
+  {
     "titleId": "PPSA23276_00",
     "conceptId": 10011105,
     "name": "The Exit 8",
@@ -95187,17 +95259,17 @@
     "titleId": "PPSA23408_00",
     "conceptId": 10011175,
     "name": "Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA23408_00-0450369068807297",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA23409_00",
     "conceptId": 10011175,
     "name": "Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA23409_00-0862759192301688",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA23411_00",
@@ -97162,10 +97234,10 @@
   {
     "titleId": "PPSA24169_00",
     "conceptId": 10011590,
-    "name": "Glowface in Love - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Glowface in Love",
+    "contentId": "UP6664-PPSA24169_00-0628014001507919",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA24170_00",
@@ -97214,6 +97286,14 @@
     "contentId": "UP2500-PPSA24186_00-US0ANTIQUIA00PS5",
     "region": "UP",
     "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA24187_00",
+    "conceptId": 228682,
+    "name": "Antiquia Lost",
+    "contentId": "EP2363-PPSA24187_00-EU0ANTIQUIA00PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA24188_00",
@@ -97723,17 +97803,17 @@
     "titleId": "PPSA24410_00",
     "conceptId": 10011709,
     "name": "Bowling In A Skate Park",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24410_00-0751153540027832",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24412_00",
     "conceptId": 10011709,
     "name": "Bowling In A Skate Park",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24412_00-0232881690309586",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24418_00",
@@ -98046,6 +98126,14 @@
     "contentId": "EB0805-PPSA24494_00-0545862913353225",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA24504_00",
+    "conceptId": 10010745,
+    "name": "Baby Boomer 2: 35 Years Too Soon PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24508_00",
@@ -98472,6 +98560,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25073_00",
+    "conceptId": 10012038,
+    "name": "Forest Cafe Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25074_00",
+    "conceptId": 10012038,
+    "name": "Forest Cafe Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25075_00",
+    "conceptId": 10012038,
+    "name": "Forest Cafe Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25076_00",
+    "conceptId": 10012038,
+    "name": "Forest Cafe Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25077_00",
     "conceptId": 10012039,
     "name": "2048 Snake",
@@ -98507,8 +98627,8 @@
     "titleId": "PPSA25202_00",
     "conceptId": 10012091,
     "name": "Pixicharm - Fit Frog's Feast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA25202_00-FITFROGSFEAST000",
+    "region": "EP",
+    "publisherId": "EP1612"
   }
 ]
