@@ -36427,9 +36427,9 @@
     "titleId": "PPSA08524_00",
     "conceptId": 10005433,
     "name": "Gravitators",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA08524_00-GRAVITATORS00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA08525_00",
@@ -62522,8 +62522,8 @@
   {
     "titleId": "PPSA14482_00",
     "conceptId": 10007670,
-    "name": "\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u30c6\u30f3\u30da\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u30ba PS4 & PS5",
-    "contentId": null,
+    "name": "\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u30c6\u30f3\u30da\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u30ba",
+    "contentId": "JP0700-PPSA14482_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -63259,9 +63259,9 @@
     "titleId": "PPSA14753_00",
     "conceptId": 235319,
     "name": "Delirium",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA14753_00-0235119108832393",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA14953_00",
@@ -72800,6 +72800,14 @@
     "publisherId": "HP1711"
   },
   {
+    "titleId": "PPSA17138_00",
+    "conceptId": 10008674,
+    "name": "Pneumata",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17139_00",
     "conceptId": 10008674,
     "name": "Pneumata",
@@ -73146,10 +73154,10 @@
   {
     "titleId": "PPSA17203_00",
     "conceptId": 10008699,
-    "name": "Koumajou Remilia: Scarlet Symphony",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Koumajou Remilia",
+    "contentId": "UP0287-PPSA17203_00-0126704605902759",
+    "region": "UP",
+    "publisherId": "UP0287"
   },
   {
     "titleId": "PPSA17206_00",
@@ -76646,6 +76654,14 @@
     "contentId": "JP0082-PPSA18087_00-FOAMSTARSOBPARTY",
     "region": "JP",
     "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA18089_00",
+    "conceptId": 10009034,
+    "name": "Matchbox\u2122 Driving Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18094_00",
@@ -82830,6 +82846,14 @@
     "contentId": "UP1440-PPSA19582_00-INKULINATINAPS50",
     "region": "UP",
     "publisherId": "UP1440"
+  },
+  {
+    "titleId": "PPSA19584_00",
+    "conceptId": 10009287,
+    "name": "Edge of Sanity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19585_00",
@@ -91907,9 +91931,9 @@
     "titleId": "PPSA22116_00",
     "conceptId": 10009877,
     "name": "Lost in Play",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0260-PPSA22116_00-LIPPS5ASIAZZZZZZ",
+    "region": "HB",
+    "publisherId": "HB0260"
   },
   {
     "titleId": "PPSA22120_00",
@@ -96475,17 +96499,33 @@
     "titleId": "PPSA23853_00",
     "conceptId": 10011375,
     "name": "Space Bouncer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23853_00-0105667370601071",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23854_00",
     "conceptId": 10011375,
     "name": "Space Bouncer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23854_00-0154532784754767",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23855_00",
+    "conceptId": 10011375,
+    "name": "Space Bouncer",
+    "contentId": "UP7668-PPSA23855_00-0565509178115826",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23856_00",
+    "conceptId": 10011375,
+    "name": "Space Bouncer",
+    "contentId": "UP7668-PPSA23856_00-0203514177411664",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23857_00",
@@ -97787,17 +97827,17 @@
     "titleId": "PPSA24408_00",
     "conceptId": 10011709,
     "name": "Bowling In A Skate Park",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24408_00-0902290217100640",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24409_00",
     "conceptId": 10011709,
     "name": "Bowling In A Skate Park",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24409_00-0528049913194958",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24410_00",
@@ -98331,33 +98371,33 @@
     "titleId": "PPSA24624_00",
     "conceptId": 10011817,
     "name": "Rolling Wheels",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24624_00-0963806112824650",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24625_00",
     "conceptId": 10011817,
     "name": "Rolling Wheels",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24625_00-0750670119832586",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24626_00",
     "conceptId": 10011817,
     "name": "Rolling Wheels",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24626_00-0796176032460123",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24627_00",
     "conceptId": 10011817,
     "name": "Rolling Wheels",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24627_00-0817551377787358",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24628_00",
@@ -98451,6 +98491,14 @@
     "titleId": "PPSA24660_00",
     "conceptId": 10008991,
     "name": "Thief Simulator VR: Greenview Street",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24725_00",
+    "conceptId": 10010745,
+    "name": "Baby Boomer 2: 35 Years Too Soon PS4 & PS5",
     "contentId": null,
     "region": null,
     "publisherId": null
