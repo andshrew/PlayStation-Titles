@@ -23251,7 +23251,7 @@
     "titleId": "PPSA06104_00",
     "conceptId": 10004231,
     "name": "CYGNI: All Guns Blazing",
-    "contentId": null,
+    "contentId": "HP0101-PPSA06104_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP0101"
   },
@@ -94163,9 +94163,9 @@
     "titleId": "PPSA22834_00",
     "conceptId": 10010909,
     "name": "Hidden Through Time 2: Discovery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0088-PPSA22834_00-0271955572546120",
+    "region": "HP",
+    "publisherId": "HP0088"
   },
   {
     "titleId": "PPSA22841_00",
@@ -94595,9 +94595,9 @@
     "titleId": "PPSA23034_00",
     "conceptId": 10010979,
     "name": "Shoulders of Giants: Ultimate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7922-PPSA23034_00-0533265296725879",
+    "region": "UP",
+    "publisherId": "UP7922"
   },
   {
     "titleId": "PPSA23042_00",
@@ -94824,6 +94824,22 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA23218_00",
+    "conceptId": 10001221,
+    "name": "Pachi Pachi On A Roll",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23219_00",
+    "conceptId": 10001221,
+    "name": "Pachi Pachi On A Roll",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23226_00",
     "conceptId": 10007144,
     "name": "Black Myth: Wukong Digital Deluxe Edition",
@@ -95038,6 +95054,14 @@
     "contentId": "JP0089-PPSA23298_00-0792209160390154",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA23317_00",
+    "conceptId": 10009887,
+    "name": "Beyond Galaxyland",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23328_00",
@@ -97544,6 +97568,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24307_00",
+    "conceptId": 10011660,
+    "name": "Moe Waifu H Genius",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24310_00",
     "conceptId": 232885,
     "name": "Sky",
@@ -97590,6 +97622,14 @@
     "contentId": "UP5682-PPSA24322_00-0889584236404182",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA24323_00",
+    "conceptId": 10011669,
+    "name": "Castaway",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24352_00",
@@ -98552,6 +98592,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA24840_00",
+    "conceptId": 10011776,
+    "name": "Rooftop Rascal: The Midnight Cat",
+    "contentId": "EB0933-PPSA24840_00-0922165838774922",
+    "region": "EB",
+    "publisherId": "EB0933"
+  },
+  {
     "titleId": "PPSA24867_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
@@ -98691,6 +98739,14 @@
     "titleId": "PPSA25080_00",
     "conceptId": 10012039,
     "name": "2048 Snake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25168_00",
+    "conceptId": 10004289,
+    "name": "UFL",
     "contentId": null,
     "region": null,
     "publisherId": null
