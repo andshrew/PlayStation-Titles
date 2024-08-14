@@ -24355,7 +24355,7 @@
     "titleId": "PPSA06326_00",
     "conceptId": 10004231,
     "name": "CYGNI: All Guns Blazing",
-    "contentId": null,
+    "contentId": "JP0101-PPSA06326_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -73232,6 +73232,14 @@
     "publisherId": "EP6890"
   },
   {
+    "titleId": "PPSA17221_00",
+    "conceptId": 212779,
+    "name": "Minecraft",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17225_00",
     "conceptId": 10008698,
     "name": "Coral Island",
@@ -90032,6 +90040,22 @@
     "publisherId": "UP7996"
   },
   {
+    "titleId": "PPSA21525_00",
+    "conceptId": 10008669,
+    "name": "Thunder Ray",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21526_00",
+    "conceptId": 10008669,
+    "name": "Thunder Ray",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21529_00",
     "conceptId": 10010392,
     "name": "Mining Mechs",
@@ -90731,6 +90755,14 @@
     "titleId": "PPSA21698_00",
     "conceptId": 10009762,
     "name": "EA SPORTS FC\u2122 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21709_00",
+    "conceptId": 10010382,
+    "name": "Leo: The Firefighter Cat",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -91526,6 +91558,14 @@
     "contentId": "UP5805-PPSA21998_00-0601561958036511",
     "region": "UP",
     "publisherId": "UP5805"
+  },
+  {
+    "titleId": "PPSA22000_00",
+    "conceptId": 10010588,
+    "name": "Ship Graveyard Simulator 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22006_00",
@@ -93530,10 +93570,10 @@
   {
     "titleId": "PPSA22633_00",
     "conceptId": 10003910,
-    "name": "Test Drive Unlimited Solar Crown",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Test Drive Unlimited Solar Crown - Closed Beta",
+    "contentId": "EP6665-PPSA22633_00-TDUSCBETA0000000",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA22637_00",
@@ -94139,25 +94179,25 @@
     "titleId": "PPSA22831_00",
     "conceptId": 10010909,
     "name": "Hidden Through Time 2: Discovery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1725-PPSA22831_00-0891967828678859",
+    "region": "UP",
+    "publisherId": "UP1725"
   },
   {
     "titleId": "PPSA22832_00",
     "conceptId": 10010909,
     "name": "Hidden Through Time 2: Discovery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8922-PPSA22832_00-0105141641488531",
+    "region": "EP",
+    "publisherId": "EP8922"
   },
   {
     "titleId": "PPSA22833_00",
     "conceptId": 10010909,
     "name": "Hidden Through Time 2: Discovery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7123-PPSA22833_00-0240089192674559",
+    "region": "JP",
+    "publisherId": "JP7123"
   },
   {
     "titleId": "PPSA22834_00",
@@ -94179,9 +94219,25 @@
     "titleId": "PPSA22842_00",
     "conceptId": 10010907,
     "name": "Cat's Request",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA22842_00-SYPS5CATSREQUEST",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA22843_00",
+    "conceptId": 10010907,
+    "name": "Cat's Request",
+    "contentId": "JP1932-PPSA22843_00-SYPS5CATSREQUEST",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA22845_00",
+    "conceptId": 10010907,
+    "name": "Cat's Request",
+    "contentId": "HP1792-PPSA22845_00-SYPS5CATSREQUEST",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA22854_00",
@@ -96027,9 +96083,9 @@
     "titleId": "PPSA23607_00",
     "conceptId": 10011275,
     "name": "Tiny Pixels Vol. 1 - Ninpo Blast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA23607_00-NINPOBLAST000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA23609_00",
@@ -96270,6 +96326,14 @@
     "contentId": "JP0720-PPSA23712_00-INZMDEMO00000000",
     "region": "JP",
     "publisherId": "JP0720"
+  },
+  {
+    "titleId": "PPSA23717_00",
+    "conceptId": 10004903,
+    "name": "Horror Adventure : Zombie Edition (VR)",
+    "contentId": "EP8934-PPSA23717_00-0547491470809463",
+    "region": "EP",
+    "publisherId": "EP8934"
   },
   {
     "titleId": "PPSA23726_00",
@@ -96966,6 +97030,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23989_00",
+    "conceptId": 10011494,
+    "name": "Wordle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23990_00",
+    "conceptId": 10008983,
+    "name": "KIBORG: Arena",
+    "contentId": "JB0540-PPSA23990_00-0042377827750236",
+    "region": "JB",
+    "publisherId": "JB0540"
   },
   {
     "titleId": "PPSA23991_00",
@@ -98272,6 +98352,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24546_00",
+    "conceptId": 10011779,
+    "name": "Damikira",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24547_00",
     "conceptId": 10011780,
     "name": "Cazzarion: Jumping Tiger",
@@ -98758,6 +98846,38 @@
     "contentId": "EP1612-PPSA25202_00-FITFROGSFEAST000",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA25329_00",
+    "conceptId": 10012141,
+    "name": "Flippy Jump",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25330_00",
+    "conceptId": 10012141,
+    "name": "Flippy Jump",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25331_00",
+    "conceptId": 10012141,
+    "name": "Flippy Jump",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25332_00",
+    "conceptId": 10012141,
+    "name": "Flippy Jump",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25333_00",
