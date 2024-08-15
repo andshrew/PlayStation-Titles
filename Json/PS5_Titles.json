@@ -18560,6 +18560,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA05228_00",
+    "conceptId": 10003785,
+    "name": "Rogue Sentry",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA05232_00",
     "conceptId": 10003786,
     "name": "Splash Cars",
@@ -36182,6 +36190,14 @@
     "contentId": "EP0822-PPSA08476_00-DEADAGEII0000EU5",
     "region": "EP",
     "publisherId": "EP0822"
+  },
+  {
+    "titleId": "PPSA08477_00",
+    "conceptId": 10000465,
+    "name": "Dead Age II",
+    "contentId": "UP0825-PPSA08477_00-DEADAGEII0000US5",
+    "region": "UP",
+    "publisherId": "UP0825"
   },
   {
     "titleId": "PPSA08478_00",
@@ -54888,6 +54904,14 @@
     "publisherId": "UP3535"
   },
   {
+    "titleId": "PPSA12450_00",
+    "conceptId": 10004821,
+    "name": "SunnySide",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12452_00",
     "conceptId": 10004600,
     "name": "Cosmonious High Demo",
@@ -64562,10 +64586,10 @@
   {
     "titleId": "PPSA15431_00",
     "conceptId": 10007898,
-    "name": "Mad Devils: Damned-finitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mad Devils",
+    "contentId": "EP6970-PPSA15431_00-0960698537765207",
+    "region": "EP",
+    "publisherId": "EP6970"
   },
   {
     "titleId": "PPSA15432_00",
@@ -69166,6 +69190,14 @@
     "contentId": "EP1555-PPSA16356_00-0577835053750500",
     "region": "EP",
     "publisherId": "EP1555"
+  },
+  {
+    "titleId": "PPSA16358_00",
+    "conceptId": 234014,
+    "name": "HUNT: SHOWDOWN 1896",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16359_00",
@@ -82968,6 +83000,14 @@
     "publisherId": "EP7860"
   },
   {
+    "titleId": "PPSA19608_00",
+    "conceptId": 10009601,
+    "name": "Perennial Order",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19610_00",
     "conceptId": 10009531,
     "name": "Dead Hook",
@@ -85475,6 +85515,14 @@
     "titleId": "PPSA20242_00",
     "conceptId": 10009838,
     "name": "Date Z",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20246_00",
+    "conceptId": 10005430,
+    "name": "Sky Oceans: Wings For Hire",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -90347,17 +90395,17 @@
     "titleId": "PPSA21628_00",
     "conceptId": 10002038,
     "name": "Green Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6469-PPSA21628_00-0233386470989011",
+    "region": "UP",
+    "publisherId": "UP6469"
   },
   {
     "titleId": "PPSA21629_00",
     "conceptId": 10002038,
     "name": "Green Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6468-PPSA21629_00-0323454533773134",
+    "region": "EP",
+    "publisherId": "EP6468"
   },
   {
     "titleId": "PPSA21632_00",
@@ -91558,6 +91606,14 @@
     "contentId": "UP5805-PPSA21998_00-0601561958036511",
     "region": "UP",
     "publisherId": "UP5805"
+  },
+  {
+    "titleId": "PPSA21999_00",
+    "conceptId": 10010588,
+    "name": "Ship Graveyard Simulator 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22000_00",
@@ -93544,6 +93600,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22617_00",
+    "conceptId": 10010811,
+    "name": "Metal: Hellsinger VR",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1850"
+  },
+  {
     "titleId": "PPSA22629_00",
     "conceptId": 10010806,
     "name": "Rise Eterna War",
@@ -94211,9 +94275,9 @@
     "titleId": "PPSA22841_00",
     "conceptId": 10010907,
     "name": "Cat's Request",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA22841_00-SYPS5CATSREQUEST",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA22842_00",
@@ -96336,6 +96400,14 @@
     "publisherId": "EP8934"
   },
   {
+    "titleId": "PPSA23718_00",
+    "conceptId": 10004903,
+    "name": "Horror Adventure : Zombie Edition (VR)",
+    "contentId": "UP3362-PPSA23718_00-0168580697509988",
+    "region": "UP",
+    "publisherId": "UP3362"
+  },
+  {
     "titleId": "PPSA23726_00",
     "conceptId": 10011339,
     "name": "Webgeon Speedrun Edition",
@@ -97034,10 +97106,10 @@
   {
     "titleId": "PPSA23989_00",
     "conceptId": 10011494,
-    "name": "Wordle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Zodiac Quest",
+    "contentId": "UB0752-PPSA23989_00-0259457036866444",
+    "region": "UB",
+    "publisherId": "UB0752"
   },
   {
     "titleId": "PPSA23990_00",
@@ -97211,9 +97283,9 @@
     "titleId": "PPSA24070_00",
     "conceptId": 10011542,
     "name": "Tiny Whaley 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7654-PPSA24070_00-0127502795392483",
+    "region": "EP",
+    "publisherId": "EP7654"
   },
   {
     "titleId": "PPSA24077_00",
@@ -97960,6 +98032,14 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA24406_00",
+    "conceptId": 10010848,
+    "name": "Detective - Minerva Case",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24408_00",
     "conceptId": 10011709,
     "name": "Bowling In A Skate Park",
@@ -98336,6 +98416,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA24513_00",
+    "conceptId": 10011716,
+    "name": "Dragon Break Classic Plus",
+    "contentId": "JP0089-PPSA24513_00-0737629093272632",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA24514_00",
+    "conceptId": 10011716,
+    "name": "Dragon Break Classic Plus",
+    "contentId": "HP4312-PPSA24514_00-0205980929506640",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA24525_00",
     "conceptId": 10010269,
     "name": "Deathbound DEMO",
@@ -98618,34 +98714,34 @@
   {
     "titleId": "PPSA24656_00",
     "conceptId": 10008991,
-    "name": "Thief Simulator VR: Greenview Street",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Thief Simulator VR: Prologue",
+    "contentId": "EP1549-PPSA24656_00-0793310492596592",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA24658_00",
     "conceptId": 10008991,
-    "name": "Thief Simulator VR: Greenview Street",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Thief Simulator VR: Prologue",
+    "contentId": "EP1549-PPSA24658_00-0636246198765438",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA24659_00",
     "conceptId": 10008991,
-    "name": "Thief Simulator VR: Greenview Street",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Thief Simulator VR: Prologue",
+    "contentId": "EP1549-PPSA24659_00-0376579872224791",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA24660_00",
     "conceptId": 10008991,
-    "name": "Thief Simulator VR: Greenview Street",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Thief Simulator VR: Prologue",
+    "contentId": "EP1549-PPSA24660_00-0014038753580894",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA24725_00",
@@ -98835,6 +98931,14 @@
     "titleId": "PPSA25168_00",
     "conceptId": 10004289,
     "name": "UFL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25173_00",
+    "conceptId": 10005967,
+    "name": "Neo Harbor Rescue Squad",
     "contentId": null,
     "region": null,
     "publisherId": null
