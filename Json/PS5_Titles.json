@@ -59448,6 +59448,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA13876_00",
+    "conceptId": 10007394,
+    "name": "The Seed: Unit 7",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13878_00",
     "conceptId": 10007396,
     "name": "Little Goody Two Shoes",
@@ -64578,10 +64586,10 @@
   {
     "titleId": "PPSA15430_00",
     "conceptId": 10007898,
-    "name": "Mad Devils: Damned-finitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mad Devils",
+    "contentId": "UP6975-PPSA15430_00-0734382919642410",
+    "region": "UP",
+    "publisherId": "UP6975"
   },
   {
     "titleId": "PPSA15431_00",
@@ -69190,6 +69198,14 @@
     "contentId": "EP1555-PPSA16356_00-0577835053750500",
     "region": "EP",
     "publisherId": "EP1555"
+  },
+  {
+    "titleId": "PPSA16357_00",
+    "conceptId": 234014,
+    "name": "HUNT: SHOWDOWN",
+    "contentId": "EP4291-PPSA16357_00-HUNTSHOWDOWN0000",
+    "region": "EP",
+    "publisherId": "EP4291"
   },
   {
     "titleId": "PPSA16358_00",
@@ -77832,6 +77848,14 @@
     "publisherId": "EP5335"
   },
   {
+    "titleId": "PPSA18379_00",
+    "conceptId": 10009142,
+    "name": "Shadow Tactics: Aiko's Choice",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18381_00",
     "conceptId": 10006228,
     "name": "OPERATION SERPENS",
@@ -84027,9 +84051,9 @@
     "titleId": "PPSA19871_00",
     "conceptId": 10008193,
     "name": "COMPOUND",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8685-PPSA19871_00-0045382154441042",
+    "region": "UP",
+    "publisherId": "UP8685"
   },
   {
     "titleId": "PPSA19879_00",
@@ -87595,9 +87619,9 @@
     "titleId": "PPSA20775_00",
     "conceptId": 10010078,
     "name": "Phantom Spark",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2680-PPSA20775_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP2680"
   },
   {
     "titleId": "PPSA20777_00",
@@ -88755,33 +88779,33 @@
     "titleId": "PPSA21120_00",
     "conceptId": 10010231,
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA21120_00-00000WDA2PS5SIEA",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA21121_00",
     "conceptId": 10010231,
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4293-PPSA21121_00-00000WDA2PS5SIEE",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA21122_00",
     "conceptId": 10010231,
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6327-PPSA21122_00-00WDA2PS5SIEJAJA",
+    "region": "JP",
+    "publisherId": "JP6327"
   },
   {
     "titleId": "PPSA21123_00",
     "conceptId": 10010231,
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6394-PPSA21123_00-00WDA2PS5SIEJAAS",
+    "region": "HP",
+    "publisherId": "HP6394"
   },
   {
     "titleId": "PPSA21124_00",
@@ -90864,6 +90888,22 @@
     "publisherId": "UP7359"
   },
   {
+    "titleId": "PPSA21720_00",
+    "conceptId": 10010042,
+    "name": "Unholy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21721_00",
+    "conceptId": 10010042,
+    "name": "Unholy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21722_00",
     "conceptId": 10009816,
     "name": "\u7206\u8d70\u6b21\u5143\u30cd\u30d7\u30c6\u30e5\u30fc\u30cc VS\u5de8\u795e\u30b9\u30e9\u30a4\u30cc NEPBIKE\u5275\u520a\u53f7",
@@ -90886,6 +90926,14 @@
     "contentId": "UP2329-PPSA21735_00-TRINITYFDEMOP5US",
     "region": "UP",
     "publisherId": "UP2329"
+  },
+  {
+    "titleId": "PPSA21737_00",
+    "conceptId": 227097,
+    "name": "Arizona Sunshine\u00ae Remake",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3535"
   },
   {
     "titleId": "PPSA21740_00",
@@ -91038,6 +91086,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA21801_00",
+    "conceptId": 10010503,
+    "name": "Turn to Mine",
+    "contentId": "JP1932-PPSA21801_00-SYPS5TURNTOMINE0",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA21813_00",
@@ -94379,25 +94435,25 @@
     "titleId": "PPSA22876_00",
     "conceptId": 10010922,
     "name": "Overboss",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA22876_00-0770858082508412",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA22877_00",
     "conceptId": 10010922,
     "name": "Overboss",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4199-PPSA22877_00-0220780777839354",
+    "region": "UP",
+    "publisherId": "UP4199"
   },
   {
     "titleId": "PPSA22878_00",
     "conceptId": 10010922,
     "name": "Overboss",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4138-PPSA22878_00-0958706437443698",
+    "region": "JP",
+    "publisherId": "JP4138"
   },
   {
     "titleId": "PPSA22884_00",
@@ -94838,6 +94894,14 @@
     "contentId": "HP6477-PPSA23148_00-0802806800674349",
     "region": "HP",
     "publisherId": "HP6477"
+  },
+  {
+    "titleId": "PPSA23160_00",
+    "conceptId": 10010726,
+    "name": "\u6625\u5f85\u3061\u30c8\u30ed\u30a4\u30c0\u30eb",
+    "contentId": "JP0013-PPSA23160_00-JP0HARUMACHI0PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA23167_00",
@@ -96248,6 +96312,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA23650_00",
+    "conceptId": 10011305,
+    "name": "Into the Radius",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2907"
+  },
+  {
     "titleId": "PPSA23651_00",
     "conceptId": 10011306,
     "name": "Silverwood Bay: An Eleanor Grey Mystery Collector's Edition",
@@ -96382,6 +96454,14 @@
     "contentId": "EP0896-PPSA23702_00-STEELRACERRATALA",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA23709_00",
+    "conceptId": 10011336,
+    "name": "Dadish 3D",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23712_00",
@@ -96878,6 +96958,14 @@
     "contentId": "HP7141-PPSA23904_00-0701757197184065",
     "region": "HP",
     "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA23910_00",
+    "conceptId": 10010500,
+    "name": "Antstream Arcade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23911_00",
@@ -97536,6 +97624,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24195_00",
+    "conceptId": 229896,
+    "name": "Dragon Sinker: Descendants of Legend",
+    "contentId": "UP2500-PPSA24195_00-US0DSINKER000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA24196_00",
+    "conceptId": 229896,
+    "name": "Dragon Sinker: Descendants of Legend",
+    "contentId": "EP2363-PPSA24196_00-EU0DSINKER000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA24197_00",
     "conceptId": 10011598,
     "name": "GOMAN stuck in the avici hell",
@@ -98088,6 +98192,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24426_00",
+    "conceptId": 10011726,
+    "name": "Murder Is Game Over: Streaming Death",
+    "contentId": "EP0896-PPSA24426_00-MURDERISGAMEO2RG",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA24429_00",
     "conceptId": 10011730,
     "name": "Viking Heroes V - Collector's edition",
@@ -98555,33 +98667,33 @@
     "titleId": "PPSA24612_00",
     "conceptId": 10011811,
     "name": "Axe Ace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24612_00-0690437201360605",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24613_00",
     "conceptId": 10011811,
     "name": "Axe Ace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24613_00-0370186968461843",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24614_00",
     "conceptId": 10011811,
     "name": "Axe Ace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24614_00-0228222336392701",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24615_00",
     "conceptId": 10011811,
     "name": "Axe Ace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24615_00-0113616982925137",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24620_00",
@@ -98752,6 +98864,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24776_00",
+    "conceptId": 10011895,
+    "name": "Parking Masters",
+    "contentId": "UB0227-PPSA24776_00-PARKINGMASTERS01",
+    "region": "UB",
+    "publisherId": "UB0227"
+  },
+  {
     "titleId": "PPSA24829_00",
     "conceptId": 10009904,
     "name": "\u95c7\u306e\u4ed5\u4e8b\u4ebaKAGE Shadow of The Ninja DEMO",
@@ -98830,6 +98950,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24973_00",
+    "conceptId": 10011970,
+    "name": "The Great Fleece",
+    "contentId": "UB0001-PPSA24973_00-0168363449914703",
+    "region": "UB",
+    "publisherId": "UB0001"
   },
   {
     "titleId": "PPSA24980_00",
@@ -98938,10 +99066,10 @@
   {
     "titleId": "PPSA25173_00",
     "conceptId": 10005967,
-    "name": "Neo Harbor Rescue Squad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neo Harbor Rescue Squad Demo",
+    "contentId": "EP4538-PPSA25173_00-NEOHARBORRESCUE0",
+    "region": "EP",
+    "publisherId": "EP4538"
   },
   {
     "titleId": "PPSA25202_00",
@@ -99011,6 +99139,38 @@
     "titleId": "PPSA25336_00",
     "conceptId": 10012142,
     "name": "Robbery Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25337_00",
+    "conceptId": 10012143,
+    "name": "Animal Battle Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25338_00",
+    "conceptId": 10012143,
+    "name": "Animal Battle Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25339_00",
+    "conceptId": 10012143,
+    "name": "Animal Battle Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25340_00",
+    "conceptId": 10012143,
+    "name": "Animal Battle Arena",
     "contentId": null,
     "region": null,
     "publisherId": null
