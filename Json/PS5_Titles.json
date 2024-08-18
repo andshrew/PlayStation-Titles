@@ -25032,6 +25032,14 @@
     "publisherId": "UP5180"
   },
   {
+    "titleId": "PPSA06448_00",
+    "conceptId": 10004478,
+    "name": "Alien: Rogue Incursion",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2147"
+  },
+  {
     "titleId": "PPSA06450_00",
     "conceptId": 10002650,
     "name": "In Nightmare",
@@ -54912,6 +54920,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA12451_00",
+    "conceptId": 10004821,
+    "name": "SunnySide",
+    "contentId": "EP1121-PPSA12451_00-8353369229578929",
+    "region": "EP",
+    "publisherId": "EP1121"
+  },
+  {
     "titleId": "PPSA12452_00",
     "conceptId": 10004600,
     "name": "Cosmonious High Demo",
@@ -69210,10 +69226,10 @@
   {
     "titleId": "PPSA16358_00",
     "conceptId": 234014,
-    "name": "HUNT: SHOWDOWN 1896",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "HUNT: SHOWDOWN",
+    "contentId": "UP4291-PPSA16358_00-HUNTSHOWDOWN0000",
+    "region": "UP",
+    "publisherId": "UP4291"
   },
   {
     "titleId": "PPSA16359_00",
@@ -87480,6 +87496,22 @@
     "publisherId": "EP6958"
   },
   {
+    "titleId": "PPSA20722_00",
+    "conceptId": 10005046,
+    "name": "REYNATIS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20723_00",
+    "conceptId": 10005046,
+    "name": "REYNATIS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20728_00",
     "conceptId": 10008040,
     "name": "Dead End City",
@@ -88166,6 +88198,14 @@
     "contentId": "HP0202-PPSA20933_00-0527657545668622",
     "region": "HP",
     "publisherId": "HP0202"
+  },
+  {
+    "titleId": "PPSA20934_00",
+    "conceptId": 10010141,
+    "name": "Lunar Nightmare",
+    "contentId": "UP5877-PPSA20934_00-0992670268009087",
+    "region": "UP",
+    "publisherId": "UP5877"
   },
   {
     "titleId": "PPSA20935_00",
@@ -91603,9 +91643,9 @@
     "titleId": "PPSA21964_00",
     "conceptId": 10010541,
     "name": "House of Golf 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0265-PPSA21964_00-HOUSE0OF0GOLF100",
+    "region": "UB",
+    "publisherId": "UB0265"
   },
   {
     "titleId": "PPSA21965_00",
@@ -92078,6 +92118,14 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0001"
+  },
+  {
+    "titleId": "PPSA22102_00",
+    "conceptId": 10010627,
+    "name": "Squirrel with a Gun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22106_00",
@@ -92627,25 +92675,25 @@
     "titleId": "PPSA22284_00",
     "conceptId": 10010671,
     "name": "Rewind or Die",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6776-PPSA22284_00-0642498473957089",
+    "region": "EP",
+    "publisherId": "EP6776"
   },
   {
     "titleId": "PPSA22285_00",
     "conceptId": 10010671,
     "name": "Rewind or Die",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6727-PPSA22285_00-0296663882187533",
+    "region": "JP",
+    "publisherId": "JP6727"
   },
   {
     "titleId": "PPSA22286_00",
     "conceptId": 10010671,
     "name": "Rewind or Die",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6784-PPSA22286_00-0046770786440981",
+    "region": "HP",
+    "publisherId": "HP6784"
   },
   {
     "titleId": "PPSA22291_00",
@@ -94984,6 +95032,14 @@
     "publisherId": "EB0301"
   },
   {
+    "titleId": "PPSA23172_00",
+    "conceptId": 10011063,
+    "name": "Keylocker | Turn Based Cyberpunk Action",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23177_00",
     "conceptId": 10009246,
     "name": "Pickleball",
@@ -96840,6 +96896,38 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA23841_00",
+    "conceptId": 10011347,
+    "name": "Tower Hover",
+    "contentId": "UP7668-PPSA23841_00-0108356337711360",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23842_00",
+    "conceptId": 10011347,
+    "name": "Tower Hover",
+    "contentId": "UP7668-PPSA23842_00-0860544160939789",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23843_00",
+    "conceptId": 10011347,
+    "name": "Tower Hover",
+    "contentId": "UP7668-PPSA23843_00-0366484426458342",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23844_00",
+    "conceptId": 10011347,
+    "name": "Tower Hover",
+    "contentId": "UP7668-PPSA23844_00-0451317379317081",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA23848_00",
     "conceptId": 10011424,
     "name": "Light Snake",
@@ -97432,6 +97520,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA24032_00",
+    "conceptId": 10011318,
+    "name": "Mute Crimson DX",
+    "contentId": "UP8654-PPSA24032_00-0627962515370550",
+    "region": "UP",
+    "publisherId": "UP8654"
+  },
+  {
     "titleId": "PPSA24034_00",
     "conceptId": 10003440,
     "name": "Unicorn Break",
@@ -97888,6 +97984,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24271_00",
+    "conceptId": 10002268,
+    "name": "Space Break",
+    "contentId": "JP0089-PPSA24271_00-0967436398056193",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
     "titleId": "PPSA24283_00",
     "conceptId": 10011437,
     "name": "Planet Divers",
@@ -97934,6 +98038,14 @@
     "contentId": "EB0805-PPSA24288_00-0059214876132967",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA24297_00",
+    "conceptId": 10002268,
+    "name": "Space Break",
+    "contentId": "HP4312-PPSA24297_00-0097073227323378",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA24307_00",
@@ -98139,33 +98251,33 @@
     "titleId": "PPSA24375_00",
     "conceptId": 10011689,
     "name": "Vikings Pinball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24375_00-0673370828228999",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24376_00",
     "conceptId": 10011689,
     "name": "Vikings Pinball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24376_00-0003620118472901",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24377_00",
     "conceptId": 10011689,
     "name": "Vikings Pinball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24377_00-0923394482204412",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24378_00",
     "conceptId": 10011689,
     "name": "Vikings Pinball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24378_00-0370245857527505",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24379_00",
@@ -98610,10 +98722,10 @@
   {
     "titleId": "PPSA24504_00",
     "conceptId": 10010745,
-    "name": "Baby Boomer 2: 35 Years Too Soon PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Baby Boomer 2: 35 Years Too Soon Demo",
+    "contentId": "UP7605-PPSA24504_00-0301367929416415",
+    "region": "UP",
+    "publisherId": "UP7605"
   },
   {
     "titleId": "PPSA24508_00",
@@ -99104,6 +99216,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24990_00",
+    "conceptId": 10011776,
+    "name": "Rooftop Rascal: The Midnight Cat",
+    "contentId": "JB0678-PPSA24990_00-0645933289015327",
+    "region": "JB",
+    "publisherId": "JB0678"
+  },
+  {
+    "titleId": "PPSA24992_00",
+    "conceptId": 10011776,
+    "name": "Rooftop Rascal: The Midnight Cat",
+    "contentId": "UB0738-PPSA24992_00-0875217836444521",
+    "region": "UB",
+    "publisherId": "UB0738"
+  },
+  {
     "titleId": "PPSA25073_00",
     "conceptId": 10012038,
     "name": "Forest Cafe Simulator",
@@ -99291,6 +99419,30 @@
     "titleId": "PPSA25387_00",
     "conceptId": 10012171,
     "name": "Pixicharm - Dinoluship",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25477_00",
+    "conceptId": 10012244,
+    "name": "Farm Champions: Harvest Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25478_00",
+    "conceptId": 10012244,
+    "name": "Farm Champions: Harvest Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25480_00",
+    "conceptId": 10012244,
+    "name": "Farm Champions: Harvest Battle",
     "contentId": null,
     "region": null,
     "publisherId": null
