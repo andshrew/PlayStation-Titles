@@ -22571,7 +22571,7 @@
     "titleId": "PPSA05990_00",
     "conceptId": 10004231,
     "name": "CYGNI: All Guns Blazing",
-    "contentId": null,
+    "contentId": "EP0101-PPSA05990_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP0101"
   },
@@ -78392,6 +78392,14 @@
     "publisherId": "EP8723"
   },
   {
+    "titleId": "PPSA18515_00",
+    "conceptId": 10006912,
+    "name": "Trigger Dungeon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18516_00",
     "conceptId": 10009194,
     "name": "Mystic Academy: Escape Room",
@@ -79914,8 +79922,8 @@
   {
     "titleId": "PPSA18890_00",
     "conceptId": 10009326,
-    "name": "EA SPORTS\u2122 Madden NFL 25 Deluxe Edition PS5 & PS4 + Limited Time Bonus",
-    "contentId": null,
+    "name": "Madden NFL 25",
+    "contentId": "EP0006-PPSA18890_00-MADDENNFL25GAME0",
     "region": "EP",
     "publisherId": "EP0006"
   },
@@ -82948,8 +82956,8 @@
     "conceptId": 10009287,
     "name": "Edge of Sanity",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA19585_00",
@@ -96560,6 +96568,22 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA23666_00",
+    "conceptId": 10011313,
+    "name": "The Line",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23667_00",
+    "conceptId": 10011313,
+    "name": "The Line",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23685_00",
     "conceptId": 10008971,
     "name": "Off The Grid",
@@ -96622,6 +96646,14 @@
     "contentId": "JP0720-PPSA23712_00-INZMDEMO00000000",
     "region": "JP",
     "publisherId": "JP0720"
+  },
+  {
+    "titleId": "PPSA23716_00",
+    "conceptId": 10002965,
+    "name": "Space Explore VR",
+    "contentId": "UP3362-PPSA23716_00-0883855358811957",
+    "region": "UP",
+    "publisherId": "UP3362"
   },
   {
     "titleId": "PPSA23717_00",
@@ -99096,6 +99128,14 @@
     "publisherId": "UB0227"
   },
   {
+    "titleId": "PPSA24820_00",
+    "conceptId": 10011267,
+    "name": "Pilot Flight Simulation",
+    "contentId": "UB0529-PPSA24820_00-0030550632117721",
+    "region": "UB",
+    "publisherId": "UB0529"
+  },
+  {
     "titleId": "PPSA24829_00",
     "conceptId": 10009904,
     "name": "\u95c7\u306e\u4ed5\u4e8b\u4ebaKAGE Shadow of The Ninja DEMO",
@@ -99214,6 +99254,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24989_00",
+    "conceptId": 10011776,
+    "name": "Rooftop Rascal: The Midnight Cat",
+    "contentId": "UB0738-PPSA24989_00-0737953412434172",
+    "region": "UB",
+    "publisherId": "UB0738"
   },
   {
     "titleId": "PPSA24990_00",
@@ -99424,6 +99472,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25473_00",
+    "conceptId": 10012243,
+    "name": "Parcel Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25474_00",
+    "conceptId": 10012243,
+    "name": "Parcel Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25475_00",
+    "conceptId": 10012243,
+    "name": "Parcel Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25476_00",
+    "conceptId": 10012243,
+    "name": "Parcel Escape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25477_00",
     "conceptId": 10012244,
     "name": "Farm Champions: Harvest Battle",
@@ -99433,6 +99513,14 @@
   },
   {
     "titleId": "PPSA25478_00",
+    "conceptId": 10012244,
+    "name": "Farm Champions: Harvest Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25479_00",
     "conceptId": 10012244,
     "name": "Farm Champions: Harvest Battle",
     "contentId": null,
