@@ -78416,6 +78416,14 @@
     "publisherId": "JP8438"
   },
   {
+    "titleId": "PPSA18518_00",
+    "conceptId": 10006912,
+    "name": "Trigger Dungeon",
+    "contentId": "UP8260-PPSA18518_00-0239125711380205",
+    "region": "UP",
+    "publisherId": "UP8260"
+  },
+  {
     "titleId": "PPSA18522_00",
     "conceptId": 10005723,
     "name": "Robby's Adventure",
@@ -82948,8 +82956,8 @@
     "conceptId": 10009287,
     "name": "Edge of Sanity",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA19584_00",
@@ -90616,6 +90624,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA21652_00",
+    "conceptId": 10010444,
+    "name": "Tribe: Primitive Builder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21658_00",
     "conceptId": 10009245,
     "name": "SMITE 2",
@@ -91190,6 +91206,14 @@
     "contentId": "HP1792-PPSA21802_00-SYPS5TURNTOMINE0",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA21806_00",
+    "conceptId": 10010419,
+    "name": "Girl Genius: Adventures In Castle Heterodyne",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21813_00",
@@ -94656,6 +94680,22 @@
     "publisherId": "JB0377"
   },
   {
+    "titleId": "PPSA22912_00",
+    "conceptId": 10000276,
+    "name": "Horror Adventure VR",
+    "contentId": "EP8934-PPSA22912_00-0498902976689875",
+    "region": "EP",
+    "publisherId": "EP8934"
+  },
+  {
+    "titleId": "PPSA22913_00",
+    "conceptId": 10000276,
+    "name": "Horror Adventure VR",
+    "contentId": "UP3362-PPSA22913_00-0714840720408489",
+    "region": "UP",
+    "publisherId": "UP3362"
+  },
+  {
     "titleId": "PPSA22914_00",
     "conceptId": 10010849,
     "name": "WitchSpring R",
@@ -94902,6 +94942,22 @@
     "contentId": "JP8693-PPSA23042_00-0530368324072571",
     "region": "JP",
     "publisherId": "JP8693"
+  },
+  {
+    "titleId": "PPSA23047_00",
+    "conceptId": 10010985,
+    "name": "The Perplexing Orb: Bounce Challenge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23048_00",
+    "conceptId": 10010985,
+    "name": "The Perplexing Orb: Bounce Challenge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23056_00",
@@ -95162,8 +95218,8 @@
   {
     "titleId": "PPSA23226_00",
     "conceptId": 10007144,
-    "name": "Black Myth: Wukong Digital Deluxe Edition",
-    "contentId": null,
+    "name": "Black Myth: Wukong",
+    "contentId": "HP6545-PPSA23226_00-GAME000000000000",
     "region": "HP",
     "publisherId": "HP6545"
   },
@@ -96848,6 +96904,22 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA23799_00",
+    "conceptId": 10011401,
+    "name": "TimeSplitters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23801_00",
+    "conceptId": 10011401,
+    "name": "TimeSplitters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23811_00",
     "conceptId": 10011408,
     "name": "Honeyland",
@@ -96958,6 +97030,14 @@
     "contentId": "UP7668-PPSA23844_00-0451317379317081",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23847_00",
+    "conceptId": 10011401,
+    "name": "Timesplitters Future Perfect",
+    "contentId": "EP4062-PPSA23847_00-SLUS211480000000",
+    "region": "EP",
+    "publisherId": "EP4062"
   },
   {
     "titleId": "PPSA23848_00",
