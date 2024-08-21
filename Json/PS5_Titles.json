@@ -22579,7 +22579,7 @@
     "titleId": "PPSA05991_00",
     "conceptId": 10004231,
     "name": "CYGNI: All Guns Blazing",
-    "contentId": null,
+    "contentId": "UP0101-PPSA05991_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP0101"
   },
@@ -68184,6 +68184,14 @@
     "publisherId": "UP0312"
   },
   {
+    "titleId": "PPSA16112_00",
+    "conceptId": 10008083,
+    "name": "The Utility Room",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16118_00",
     "conceptId": 10006269,
     "name": "Redemption Reapers",
@@ -75662,6 +75670,14 @@
     "contentId": "EP0122-PPSA17838_00-0147635648135484",
     "region": "EP",
     "publisherId": "EP0122"
+  },
+  {
+    "titleId": "PPSA17844_00",
+    "conceptId": 10001989,
+    "name": "Unknown 9: Awakening PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA17847_00",
@@ -90384,6 +90400,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA21593_00",
+    "conceptId": 10010408,
+    "name": "Akimbot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21598_00",
     "conceptId": 10010422,
     "name": "Jewel Match Atlantis Solitaire: Collector's Edition",
@@ -90624,12 +90648,20 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA21651_00",
+    "conceptId": 10010444,
+    "name": "Tribe: Primitive Builder",
+    "contentId": "UP1564-PPSA21651_00-CLABSTPB20240202",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA21652_00",
     "conceptId": 10010444,
     "name": "Tribe: Primitive Builder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA21652_00-CLABSTPB20240202",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA21658_00",
@@ -90926,6 +90958,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA21704_00",
+    "conceptId": 10006210,
+    "name": "Kingdom Come: Deliverance II",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4062"
+  },
+  {
+    "titleId": "PPSA21705_00",
+    "conceptId": 10006210,
+    "name": "Kingdom Come: Deliverance II",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2047"
   },
   {
     "titleId": "PPSA21709_00",
@@ -93688,6 +93736,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA22583_00",
+    "conceptId": 10010798,
+    "name": "World of Outlaws: Dirt Racing 24",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1456"
+  },
+  {
     "titleId": "PPSA22586_00",
     "conceptId": 10010766,
     "name": "Bit Dungeon Plus",
@@ -94504,6 +94560,22 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA22847_00",
+    "conceptId": 10006545,
+    "name": "House Flipper 2",
+    "contentId": "JP5002-PPSA22847_00-HOUSEFLIPPER02JP",
+    "region": "JP",
+    "publisherId": "JP5002"
+  },
+  {
+    "titleId": "PPSA22848_00",
+    "conceptId": 10006545,
+    "name": "House Flipper 2",
+    "contentId": "HP5063-PPSA22848_00-HOUSEFLIPPER02AS",
+    "region": "HP",
+    "publisherId": "HP5063"
+  },
+  {
     "titleId": "PPSA22854_00",
     "conceptId": 10010916,
     "name": "Cazzarion: Sky Flight",
@@ -95016,6 +95088,22 @@
     "publisherId": "EP0455"
   },
   {
+    "titleId": "PPSA23100_00",
+    "conceptId": 10011012,
+    "name": "Snooker Blitz",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23101_00",
+    "conceptId": 10011012,
+    "name": "Snooker Blitz",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23111_00",
     "conceptId": 10011024,
     "name": "Learn to Play Vol. 2 - A Simple Shooter",
@@ -95094,6 +95182,14 @@
     "contentId": "EB0301-PPSA23167_00-0232029968374630",
     "region": "EB",
     "publisherId": "EB0301"
+  },
+  {
+    "titleId": "PPSA23169_00",
+    "conceptId": 10008452,
+    "name": "Naive Boy Super Lash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23172_00",
@@ -95440,6 +95536,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23324_00",
+    "conceptId": 10011135,
+    "name": "Billy's Game Show",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23325_00",
+    "conceptId": 10011135,
+    "name": "Billy's Game Show",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23328_00",
     "conceptId": 10006916,
     "name": "Ball Dodge",
@@ -95526,6 +95638,14 @@
     "contentId": "HP8737-PPSA23357_00-0810945102552422",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA23364_00",
+    "conceptId": 10011130,
+    "name": "Train Sim World\u00ae 5: Standard Edition PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2866"
   },
   {
     "titleId": "PPSA23365_00",
@@ -96704,6 +96824,14 @@
     "publisherId": "JP0720"
   },
   {
+    "titleId": "PPSA23715_00",
+    "conceptId": 10002965,
+    "name": "Space Explore VR",
+    "contentId": "EP8934-PPSA23715_00-0840705951010326",
+    "region": "EP",
+    "publisherId": "EP8934"
+  },
+  {
     "titleId": "PPSA23716_00",
     "conceptId": 10002965,
     "name": "Space Explore VR",
@@ -96907,17 +97035,25 @@
     "titleId": "PPSA23799_00",
     "conceptId": 10011401,
     "name": "TimeSplitters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4062-PPSA23799_00-SLUS200900000000",
+    "region": "EP",
+    "publisherId": "EP4062"
+  },
+  {
+    "titleId": "PPSA23800_00",
+    "conceptId": 10010539,
+    "name": "Project_Tower",
+    "contentId": "UB0173-PPSA23800_00-PROJECTTOWERDEMO",
+    "region": "UB",
+    "publisherId": "UB0173"
   },
   {
     "titleId": "PPSA23801_00",
     "conceptId": 10011401,
-    "name": "TimeSplitters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TimeSplitters 2",
+    "contentId": "EP4062-PPSA23801_00-SLUS203140000000",
+    "region": "EP",
+    "publisherId": "EP4062"
   },
   {
     "titleId": "PPSA23811_00",
@@ -97504,6 +97640,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23986_00",
+    "conceptId": 10008927,
+    "name": "Mangavania 2",
+    "contentId": "JP1932-PPSA23986_00-SYPS5MANGAVANIA2",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA23987_00",
+    "conceptId": 10008927,
+    "name": "Mangavania 2",
+    "contentId": "HP1792-PPSA23987_00-SYPS5MANGAVANIA2",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA23989_00",
     "conceptId": 10011494,
     "name": "Zodiac Quest",
@@ -97598,6 +97750,14 @@
     "contentId": "JP4138-PPSA24009_00-0916659771165904",
     "region": "JP",
     "publisherId": "JP4138"
+  },
+  {
+    "titleId": "PPSA24012_00",
+    "conceptId": 10011505,
+    "name": "Games Advent Calendar 2024",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24018_00",
@@ -98966,6 +99126,22 @@
     "contentId": "UP8553-PPSA24566_00-0967981538470744",
     "region": "UP",
     "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA24569_00",
+    "conceptId": 10010944,
+    "name": "Love is all around",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24576_00",
+    "conceptId": 10004903,
+    "name": "Horror Adventure : Zombie Edition (VR) Demo",
+    "contentId": "EP8934-PPSA24576_00-0204190295380350",
+    "region": "EP",
+    "publisherId": "EP8934"
   },
   {
     "titleId": "PPSA24594_00",
