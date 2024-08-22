@@ -25040,6 +25040,14 @@
     "publisherId": "EP2147"
   },
   {
+    "titleId": "PPSA06449_00",
+    "conceptId": 10004478,
+    "name": "Alien: Rogue Incursion",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2292"
+  },
+  {
     "titleId": "PPSA06450_00",
     "conceptId": 10002650,
     "name": "In Nightmare",
@@ -75672,6 +75680,22 @@
     "publisherId": "EP0122"
   },
   {
+    "titleId": "PPSA17841_00",
+    "conceptId": 10001989,
+    "name": "Unknown 9: Awakening PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA17842_00",
+    "conceptId": 10001989,
+    "name": "Unknown 9: Awakening",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5028"
+  },
+  {
     "titleId": "PPSA17844_00",
     "conceptId": 10001989,
     "name": "Unknown 9: Awakening PS4 & PS5",
@@ -78411,9 +78435,9 @@
     "titleId": "PPSA18515_00",
     "conceptId": 10006912,
     "name": "Trigger Dungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8451-PPSA18515_00-0005043129557523",
+    "region": "EP",
+    "publisherId": "EP8451"
   },
   {
     "titleId": "PPSA18516_00",
@@ -89304,6 +89328,14 @@
     "publisherId": "EP6969"
   },
   {
+    "titleId": "PPSA21258_00",
+    "conceptId": 10010264,
+    "name": "The Karate Kid: Street Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21264_00",
     "conceptId": 10010269,
     "name": "Deathbound",
@@ -90400,6 +90432,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA21588_00",
+    "conceptId": 10010408,
+    "name": "Akimbot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21593_00",
     "conceptId": 10010408,
     "name": "Akimbot",
@@ -91448,6 +91488,14 @@
     "publisherId": "UP1440"
   },
   {
+    "titleId": "PPSA21881_00",
+    "conceptId": 10006210,
+    "name": "Kingdom Come: Deliverance II",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0108"
+  },
+  {
     "titleId": "PPSA21883_00",
     "conceptId": 10009057,
     "name": "The Book of Death",
@@ -92204,8 +92252,8 @@
     "conceptId": 10010627,
     "name": "Squirrel with a Gun",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP2080"
   },
   {
     "titleId": "PPSA22106_00",
@@ -92494,6 +92542,22 @@
     "contentId": "HP1212-PPSA22190_00-ARMEDGELATINOUS1",
     "region": "HP",
     "publisherId": "HP1212"
+  },
+  {
+    "titleId": "PPSA22192_00",
+    "conceptId": 10010505,
+    "name": "Time Trap: Hidden Objects",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22193_00",
+    "conceptId": 10010505,
+    "name": "\u30bf\u30a4\u30e0\u30c8\u30e9\u30c3\u30d7: \u30a2\u30a4\u30c6\u30e0\u63a2\u3057\u30b2\u30fc\u30e0",
+    "contentId": "JP7888-PPSA22193_00-0798247516618493",
+    "region": "JP",
+    "publisherId": "JP7888"
   },
   {
     "titleId": "PPSA22195_00",
@@ -94808,6 +94872,22 @@
     "publisherId": "HB0669"
   },
   {
+    "titleId": "PPSA22934_00",
+    "conceptId": 10010943,
+    "name": "Espresso Tycoon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22935_00",
+    "conceptId": 10010943,
+    "name": "Espresso Tycoon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22949_00",
     "conceptId": 10006235,
     "name": "Quiz Thiz USA - DEMO",
@@ -95187,9 +95267,9 @@
     "titleId": "PPSA23169_00",
     "conceptId": 10008452,
     "name": "Naive Boy Super Lash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0305-PPSA23169_00-0290753496886840",
+    "region": "EP",
+    "publisherId": "EP0305"
   },
   {
     "titleId": "PPSA23172_00",
@@ -95502,6 +95582,14 @@
     "contentId": "EP3643-PPSA23280_00-PEPPERGRIND00001",
     "region": "EP",
     "publisherId": "EP3643"
+  },
+  {
+    "titleId": "PPSA23287_00",
+    "conceptId": 10008452,
+    "name": "Naive Boy Super Lash",
+    "contentId": "EP0305-PPSA23287_00-0474545226533712",
+    "region": "EP",
+    "publisherId": "EP0305"
   },
   {
     "titleId": "PPSA23296_00",
@@ -97627,17 +97715,17 @@
     "titleId": "PPSA23984_00",
     "conceptId": 10008927,
     "name": "Mangavania 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA23984_00-SYPS5MANGAVANIA2",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA23985_00",
     "conceptId": 10008927,
     "name": "Mangavania 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA23985_00-SYPS5MANGAVANIA2",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA23986_00",
@@ -97686,6 +97774,14 @@
     "contentId": "HB0405-PPSA23992_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23993_00",
+    "conceptId": 10011495,
+    "name": "SUPERMARKET SIMULATOR PRO PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23994_00",
@@ -97918,6 +98014,30 @@
     "contentId": "EB0805-PPSA24108_00-0582771257318592",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA24116_00",
+    "conceptId": 10009492,
+    "name": "Whacking Hell!",
+    "contentId": "EP4119-PPSA24116_00-0916299215602216",
+    "region": "EP",
+    "publisherId": "EP4119"
+  },
+  {
+    "titleId": "PPSA24117_00",
+    "conceptId": 10009492,
+    "name": "Whacking Hell!",
+    "contentId": "JP0081-PPSA24117_00-0207139277852259",
+    "region": "JP",
+    "publisherId": "JP0081"
+  },
+  {
+    "titleId": "PPSA24118_00",
+    "conceptId": 10009492,
+    "name": "Whacking Hell!",
+    "contentId": "HP4119-PPSA24118_00-0473052149980385",
+    "region": "HP",
+    "publisherId": "HP4119"
   },
   {
     "titleId": "PPSA24128_00",
@@ -99130,10 +99250,10 @@
   {
     "titleId": "PPSA24569_00",
     "conceptId": 10010944,
-    "name": "Love is all around",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u3057\u307e\u3063\u305f!\u7f8e\u4eba\u306b\u56f2\u307e\u308c\u305f!",
+    "contentId": "JP8361-PPSA24569_00-0356293129047812",
+    "region": "JP",
+    "publisherId": "JP8361"
   },
   {
     "titleId": "PPSA24576_00",
@@ -99142,6 +99262,14 @@
     "contentId": "EP8934-PPSA24576_00-0204190295380350",
     "region": "EP",
     "publisherId": "EP8934"
+  },
+  {
+    "titleId": "PPSA24577_00",
+    "conceptId": 10004903,
+    "name": "Horror Adventure : Zombie Edition (VR) Demo",
+    "contentId": "UP3362-PPSA24577_00-0672433563558265",
+    "region": "UP",
+    "publisherId": "UP3362"
   },
   {
     "titleId": "PPSA24594_00",
@@ -99275,9 +99403,9 @@
     "titleId": "PPSA24628_00",
     "conceptId": 10011818,
     "name": "Wheel Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24628_00-0072275958871779",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24629_00",
@@ -99291,17 +99419,17 @@
     "titleId": "PPSA24630_00",
     "conceptId": 10011818,
     "name": "Wheel Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24630_00-0146315741903132",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24631_00",
     "conceptId": 10011818,
     "name": "Wheel Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24631_00-0339247853474046",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24632_00",
@@ -99454,6 +99582,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24905_00",
+    "conceptId": 10011945,
+    "name": "Run & Jump Guy",
+    "contentId": "EP5077-PPSA24905_00-0252565351251848",
+    "region": "EP",
+    "publisherId": "EP5077"
   },
   {
     "titleId": "PPSA24925_00",
