@@ -8568,6 +8568,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA03202_00",
+    "conceptId": 10002560,
+    "name": "Classic Racers Elite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03203_00",
     "conceptId": 10002560,
     "name": "Classic Racers Elite",
@@ -33706,8 +33714,8 @@
   {
     "titleId": "PPSA08051_00",
     "conceptId": 10005245,
-    "name": "Dustborn Pre-Order Bundle",
-    "contentId": null,
+    "name": "Dustborn",
+    "contentId": "EP1628-PPSA08051_00-DUSTBORN00000001",
     "region": "EP",
     "publisherId": "EP1628"
   },
@@ -62448,6 +62456,14 @@
     "publisherId": "EP6665"
   },
   {
+    "titleId": "PPSA14455_00",
+    "conceptId": 10007652,
+    "name": "Empire of the Ants",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4295"
+  },
+  {
     "titleId": "PPSA14457_00",
     "conceptId": 10007314,
     "name": "Born Of Bread",
@@ -64590,6 +64606,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA15421_00",
+    "conceptId": 10007897,
+    "name": "Until Dawn\u2122",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA15426_00",
@@ -80048,6 +80072,14 @@
     "publisherId": "EP1246"
   },
   {
+    "titleId": "PPSA18906_00",
+    "conceptId": 10007897,
+    "name": "Until Dawn -\u60e8\u5287\u306e\u5c71\u8358-",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA18909_00",
     "conceptId": 10009338,
     "name": "Terminal 81",
@@ -81998,6 +82030,14 @@
     "contentId": "UP8353-PPSA19356_00-0957568172760437",
     "region": "UP",
     "publisherId": "UP8353"
+  },
+  {
+    "titleId": "PPSA19359_00",
+    "conceptId": 10009499,
+    "name": "FATAL FURY: City of the Wolves - Special Edition",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0576"
   },
   {
     "titleId": "PPSA19361_00",
@@ -89336,6 +89376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21259_00",
+    "conceptId": 10010264,
+    "name": "The Karate Kid: Street Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21264_00",
     "conceptId": 10010269,
     "name": "Deathbound",
@@ -91000,6 +91048,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21703_00",
+    "conceptId": 10010458,
+    "name": "Vampire Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21704_00",
     "conceptId": 10006210,
     "name": "Kingdom Come: Deliverance II",
@@ -91579,17 +91635,17 @@
     "titleId": "PPSA21907_00",
     "conceptId": 10007955,
     "name": "Tales from Toyotoki: Arrival of the Witch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1024-PPSA21907_00-TALESFRMTOYOTOKI",
+    "region": "UP",
+    "publisherId": "UP1024"
   },
   {
     "titleId": "PPSA21908_00",
     "conceptId": 10007955,
     "name": "Tales from Toyotoki: Arrival of the Witch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1024-PPSA21908_00-TALESFRMTOYOTOKI",
+    "region": "EP",
+    "publisherId": "EP1024"
   },
   {
     "titleId": "PPSA21911_00",
@@ -92488,6 +92544,22 @@
     "publisherId": "EP5864"
   },
   {
+    "titleId": "PPSA22179_00",
+    "conceptId": 10009762,
+    "name": "EA SPORTS FC\u2122 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22180_00",
+    "conceptId": 10009762,
+    "name": "EA SPORTS FC\u2122 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22182_00",
     "conceptId": 10010655,
     "name": "Cazzarion: Gunslinger",
@@ -92544,12 +92616,20 @@
     "publisherId": "HP1212"
   },
   {
+    "titleId": "PPSA22191_00",
+    "conceptId": 10010505,
+    "name": "Time Trap: Hidden Objects",
+    "contentId": "UP7907-PPSA22191_00-0896287683945679",
+    "region": "UP",
+    "publisherId": "UP7907"
+  },
+  {
     "titleId": "PPSA22192_00",
     "conceptId": 10010505,
     "name": "Time Trap: Hidden Objects",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7905-PPSA22192_00-0558793663449726",
+    "region": "EP",
+    "publisherId": "EP7905"
   },
   {
     "titleId": "PPSA22193_00",
@@ -92558,6 +92638,14 @@
     "contentId": "JP7888-PPSA22193_00-0798247516618493",
     "region": "JP",
     "publisherId": "JP7888"
+  },
+  {
+    "titleId": "PPSA22194_00",
+    "conceptId": 10010505,
+    "name": "Time Trap: Hidden Objects",
+    "contentId": "HP7934-PPSA22194_00-0826611545162816",
+    "region": "HP",
+    "publisherId": "HP7934"
   },
   {
     "titleId": "PPSA22195_00",
@@ -93923,25 +94011,25 @@
     "titleId": "PPSA22629_00",
     "conceptId": 10010806,
     "name": "Rise Eterna War",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA22629_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA22630_00",
     "conceptId": 10010806,
     "name": "Rise Eterna War",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4199-PPSA22630_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP4199"
   },
   {
     "titleId": "PPSA22631_00",
     "conceptId": 10010806,
     "name": "Rise Eterna War",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4138-PPSA22631_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP4138"
   },
   {
     "titleId": "PPSA22633_00",
@@ -95064,6 +95152,14 @@
     "publisherId": "UP5459"
   },
   {
+    "titleId": "PPSA23023_00",
+    "conceptId": 10010975,
+    "name": "KILL KNIGHT PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23032_00",
     "conceptId": 10010905,
     "name": "Tile Cross",
@@ -95418,10 +95514,10 @@
   {
     "titleId": "PPSA23230_00",
     "conceptId": 10011085,
-    "name": "Operation: Polygon Storm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u5175\u56e3\u7a81\u6483\uff1a\u73fe\u4ee3\u6226\u4e89",
+    "contentId": "HP6978-PPSA23230_00-0000000000OPSPS5",
+    "region": "HP",
+    "publisherId": "HP6978"
   },
   {
     "titleId": "PPSA23239_00",
@@ -96856,6 +96952,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23687_00",
+    "conceptId": 10002684,
+    "name": "ASTRO BOT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23688_00",
     "conceptId": 10011323,
     "name": "Aero the Acro-Bat",
@@ -97664,6 +97768,14 @@
     "publisherId": "EP8062"
   },
   {
+    "titleId": "PPSA23962_00",
+    "conceptId": 10011473,
+    "name": "Learn to Play Vol. 5 - Break the Blocks",
+    "contentId": "UP2005-PPSA23962_00-BREAKTHEBLOCKS00",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
     "titleId": "PPSA23968_00",
     "conceptId": 10009164,
     "name": "Morkull Ragast's Rage",
@@ -97778,10 +97890,10 @@
   {
     "titleId": "PPSA23993_00",
     "conceptId": 10011495,
-    "name": "SUPERMARKET SIMULATOR PRO PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SUPERMARKET SIMULATOR PRO",
+    "contentId": "UP5682-PPSA23993_00-0923927755343587",
+    "region": "UP",
+    "publisherId": "UP5682"
   },
   {
     "titleId": "PPSA23994_00",
@@ -97934,6 +98046,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24057_00",
+    "conceptId": 10009492,
+    "name": "Whacking Hell!",
+    "contentId": "UP4082-PPSA24057_00-0214839801157451",
+    "region": "UP",
+    "publisherId": "UP4082"
   },
   {
     "titleId": "PPSA24059_00",
@@ -98291,9 +98411,9 @@
     "titleId": "PPSA24220_00",
     "conceptId": 10011606,
     "name": "Thermonuclear",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA24220_00-THERMONUCLEARRGM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA24224_00",
@@ -99339,33 +99459,33 @@
     "titleId": "PPSA24620_00",
     "conceptId": 10011816,
     "name": "Long Yard Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24620_00-0051862327106906",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24621_00",
     "conceptId": 10011816,
     "name": "Long Yard Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24621_00-0669539433272983",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24622_00",
     "conceptId": 10011816,
     "name": "Long Yard Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24622_00-0299585974371885",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24623_00",
     "conceptId": 10011816,
     "name": "Long Yard Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24623_00-0944803633724349",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24624_00",
@@ -99411,9 +99531,9 @@
     "titleId": "PPSA24629_00",
     "conceptId": 10011818,
     "name": "Wheel Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24629_00-0002440338106057",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24630_00",
@@ -99608,6 +99728,30 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA24957_00",
+    "conceptId": 10011984,
+    "name": "The Jumping Ice Cube - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24958_00",
+    "conceptId": 10011984,
+    "name": "The Jumping Ice Cube - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24959_00",
+    "conceptId": 10011984,
+    "name": "The Jumping Ice Cube - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24973_00",
     "conceptId": 10011970,
     "name": "The Great Fleece",
@@ -99643,6 +99787,30 @@
     "titleId": "PPSA24983_00",
     "conceptId": 10011996,
     "name": "Boys Race",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24985_00",
+    "conceptId": 10011711,
+    "name": "A Bibelot: Prototo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24986_00",
+    "conceptId": 10011711,
+    "name": "A Bibelot: Prototo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24987_00",
+    "conceptId": 10011711,
+    "name": "A Bibelot: Prototo",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -99856,12 +100024,28 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25376_00",
+    "conceptId": 10012163,
+    "name": "MinefieldCombat",
+    "contentId": "EP4476-PPSA25376_00-0363101017776331",
+    "region": "EP",
+    "publisherId": "EP4476"
+  },
+  {
+    "titleId": "PPSA25377_00",
+    "conceptId": 10012163,
+    "name": "MinefieldCombat",
+    "contentId": "UP2136-PPSA25377_00-0031959160279590",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
     "titleId": "PPSA25387_00",
     "conceptId": 10012171,
     "name": "Pixicharm - Dinoluship",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA25387_00-DINOLUSHIPGAME00",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA25473_00",
@@ -99923,6 +100107,14 @@
     "titleId": "PPSA25480_00",
     "conceptId": 10012244,
     "name": "Farm Champions: Harvest Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25608_00",
+    "conceptId": 10011711,
+    "name": "A Bibelot: Prototo",
     "contentId": null,
     "region": null,
     "publisherId": null
