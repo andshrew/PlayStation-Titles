@@ -33184,6 +33184,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA07930_00",
+    "conceptId": 10001989,
+    "name": "Unknown 9: Awakening",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA07931_00",
     "conceptId": 10003045,
     "name": "THE ORIGIN: Blind Maid",
@@ -69848,6 +69856,22 @@
     "publisherId": "HP0332"
   },
   {
+    "titleId": "PPSA16456_00",
+    "conceptId": 10008376,
+    "name": "Super Dark Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16458_00",
+    "conceptId": 10008376,
+    "name": "Super Dark Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16460_00",
     "conceptId": 10008376,
     "name": "Super Dark Deception Demo",
@@ -79384,6 +79408,14 @@
     "publisherId": "UP3095"
   },
   {
+    "titleId": "PPSA18744_00",
+    "conceptId": 10009268,
+    "name": "NHL\u00ae 25 Deluxe Edition PS5 + Limited Time Bonus",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA18746_00",
     "conceptId": 10002695,
     "name": "Concord Beta",
@@ -82969,6 +83001,14 @@
   },
   {
     "titleId": "PPSA19563_00",
+    "conceptId": 10009580,
+    "name": "Looney Tunes: Wacky World of Sports",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19564_00",
     "conceptId": 10009580,
     "name": "Looney Tunes: Wacky World of Sports",
     "contentId": null,
@@ -96987,17 +97027,17 @@
     "titleId": "PPSA23666_00",
     "conceptId": 10011313,
     "name": "The Line",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA23666_00-0556940374038826",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA23667_00",
     "conceptId": 10011313,
     "name": "The Line",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA23667_00-0451073034397434",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA23685_00",
@@ -97346,8 +97386,8 @@
   {
     "titleId": "PPSA23834_00",
     "conceptId": 10002695,
-    "name": "Concord\u2122",
-    "contentId": null,
+    "name": "Concord",
+    "contentId": "UP9000-PPSA23834_00-CONCORD000000000",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -98376,12 +98416,28 @@
     "publisherId": "EB0792"
   },
   {
+    "titleId": "PPSA24180_00",
+    "conceptId": 10011595,
+    "name": "Correct Picture",
+    "contentId": "UP7668-PPSA24180_00-0693679372836468",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA24181_00",
     "conceptId": 10011595,
     "name": "Correct Picture",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA24181_00-0804106147093478",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24182_00",
+    "conceptId": 10011595,
+    "name": "Correct Picture",
+    "contentId": "UP7668-PPSA24182_00-0174469823217518",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA24183_00",
@@ -99875,25 +99931,25 @@
     "titleId": "PPSA24985_00",
     "conceptId": 10011711,
     "name": "A Bibelot: Prototo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA24985_00-0250488627067539",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA24986_00",
     "conceptId": 10011711,
     "name": "A Bibelot: Prototo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA24986_00-0132167604884366",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA24987_00",
     "conceptId": 10011711,
     "name": "A Bibelot: Prototo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA24987_00-0411058505121654",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA24989_00",
@@ -100195,8 +100251,8 @@
     "titleId": "PPSA25608_00",
     "conceptId": 10011711,
     "name": "A Bibelot: Prototo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA25608_00-0547775911464383",
+    "region": "HB",
+    "publisherId": "HB0876"
   }
 ]
