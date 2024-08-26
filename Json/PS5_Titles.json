@@ -296,6 +296,14 @@
     "publisherId": "EP1001"
   },
   {
+    "titleId": "PPSA01390_00",
+    "conceptId": 10000586,
+    "name": "Dragon Age\u2122: The Veilguard",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA01395_00",
     "conceptId": 10000593,
     "name": "GoonyaFighter JigglyHapticEdition",
@@ -69864,7 +69872,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16457_00",
+    "conceptId": 10008376,
+    "name": "Super Dark Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16458_00",
+    "conceptId": 10008376,
+    "name": "Super Dark Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16459_00",
     "conceptId": 10008376,
     "name": "Super Dark Deception",
     "contentId": null,
@@ -87520,6 +87544,14 @@
     "publisherId": "UP3993"
   },
   {
+    "titleId": "PPSA20682_00",
+    "conceptId": 10010055,
+    "name": "Tents and Trees",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20683_00",
     "conceptId": 10010041,
     "name": "The Last Case of Benedict Fox",
@@ -99427,6 +99459,14 @@
     "titleId": "PPSA24536_00",
     "conceptId": 10011773,
     "name": "Forests, Fields and Fortresses",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24542_00",
+    "conceptId": 10011777,
+    "name": "Customers From Hell",
     "contentId": null,
     "region": null,
     "publisherId": null
