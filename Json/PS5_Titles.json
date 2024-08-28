@@ -82435,9 +82435,9 @@
     "titleId": "PPSA19417_00",
     "conceptId": 10009534,
     "name": "Core Keeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2520-PPSA19417_00-0407635045707470",
+    "region": "EP",
+    "publisherId": "EP2520"
   },
   {
     "titleId": "PPSA19418_00",
@@ -90882,18 +90882,18 @@
   {
     "titleId": "PPSA21658_00",
     "conceptId": 10009245,
-    "name": "SMITE 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SMITE 2 Playtest",
+    "contentId": "UP0334-PPSA21658_00-S2PLAYTESTDEMOXX",
+    "region": "UP",
+    "publisherId": "UP0334"
   },
   {
     "titleId": "PPSA21659_00",
     "conceptId": 10009245,
-    "name": "SMITE 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SMITE 2 Playtest",
+    "contentId": "EP0331-PPSA21659_00-S2PLAYTESTDEMOXX",
+    "region": "EP",
+    "publisherId": "EP0331"
   },
   {
     "titleId": "PPSA21662_00",
@@ -91483,6 +91483,22 @@
     "titleId": "PPSA21806_00",
     "conceptId": 10010419,
     "name": "Girl Genius: Adventures In Castle Heterodyne",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21808_00",
+    "conceptId": 10010507,
+    "name": "Forklift Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21809_00",
+    "conceptId": 10010507,
+    "name": "Forklift Simulator",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -93563,17 +93579,17 @@
     "titleId": "PPSA22451_00",
     "conceptId": 10010746,
     "name": "Crypt Custodian",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5155-PPSA22451_00-CRYPTCUSTODIAN00",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA22452_00",
     "conceptId": 10010746,
     "name": "Crypt Custodian",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5335-PPSA22452_00-CRYPTCUSTODIAN00",
+    "region": "EP",
+    "publisherId": "EP5335"
   },
   {
     "titleId": "PPSA22453_00",
@@ -95371,17 +95387,17 @@
     "titleId": "PPSA23047_00",
     "conceptId": 10010985,
     "name": "The Perplexing Orb: Bounce Challenge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4947-PPSA23047_00-BOUNCECHALLENGE1",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA23048_00",
     "conceptId": 10010985,
     "name": "The Perplexing Orb: Bounce Challenge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5133-PPSA23048_00-BOUNCECHALLENGE1",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA23056_00",
@@ -95890,10 +95906,10 @@
   {
     "titleId": "PPSA23317_00",
     "conceptId": 10009887,
-    "name": "Beyond Galaxyland",
+    "name": "Beyond Galaxyland (PS4 & PS5)",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP6960"
   },
   {
     "titleId": "PPSA23324_00",
@@ -96904,12 +96920,20 @@
     "publisherId": "UP2005"
   },
   {
-    "titleId": "PPSA23609_00",
-    "conceptId": 10011277,
-    "name": "SokoPenguin",
+    "titleId": "PPSA23608_00",
+    "conceptId": 10011276,
+    "name": "Purpose 1951",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23609_00",
+    "conceptId": 10011277,
+    "name": "SokoPenguin",
+    "contentId": "UP2005-PPSA23609_00-SOKOPENGUIN00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA23611_00",
@@ -98216,6 +98240,30 @@
     "publisherId": "EP2363"
   },
   {
+    "titleId": "PPSA24044_00",
+    "conceptId": 10008074,
+    "name": "Disney Epic Mickey: Rebrushed - Demo",
+    "contentId": "JP2880-PPSA24044_00-EPICMICKEYDEMO00",
+    "region": "JP",
+    "publisherId": "JP2880"
+  },
+  {
+    "titleId": "PPSA24045_00",
+    "conceptId": 10008074,
+    "name": "Disney Epic Mickey: Rebrushed - Demo",
+    "contentId": "UP4389-PPSA24045_00-EPICMICKEYDEMO00",
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
+    "titleId": "PPSA24046_00",
+    "conceptId": 10008074,
+    "name": "Disney Epic Mickey: Rebrushed - Demo",
+    "contentId": "EP4389-PPSA24046_00-EPICMICKEYDEMO00",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA24048_00",
     "conceptId": 10010432,
     "name": "SWORN",
@@ -98286,6 +98334,14 @@
     "contentId": "UP0700-PPSA24085_00-TAIKORFDEMO00000",
     "region": "UP",
     "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA24086_00",
+    "conceptId": 10008356,
+    "name": "Taiko no Tatsujin: Rhythm Festival DEMO",
+    "contentId": "EP0700-PPSA24086_00-TAIKORFDEMO00000",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA24087_00",
