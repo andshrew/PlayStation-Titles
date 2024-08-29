@@ -68250,10 +68250,10 @@
   {
     "titleId": "PPSA16112_00",
     "conceptId": 10008083,
-    "name": "The Utility Room",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TheUtilityRoom",
+    "contentId": "EB0056-PPSA16112_00-0826723932222830",
+    "region": "EB",
+    "publisherId": "EB0056"
   },
   {
     "titleId": "PPSA16118_00",
@@ -68490,8 +68490,8 @@
   {
     "titleId": "PPSA16159_00",
     "conceptId": 10008248,
-    "name": "Monster Jam\u2122 Showdown PS4 & PS5",
-    "contentId": null,
+    "name": "Monster Jam\u2122 Showdown",
+    "contentId": "EP4356-PPSA16159_00-MONSTERJAMGAME00",
     "region": "EP",
     "publisherId": "EP4356"
   },
@@ -69582,6 +69582,22 @@
     "contentId": "JP0013-PPSA16409_00-JP0RAGINGB000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA16410_00",
+    "conceptId": 10008356,
+    "name": "\u592a\u9f13\u306e\u9054\u4eba \u30c9\u30f3\u30c0\u30d5\u30eb\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA16412_00",
+    "conceptId": 10008356,
+    "name": "Taiko no Tatsujin: Rhythm Festival",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA16414_00",
@@ -71246,6 +71262,22 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP4139"
+  },
+  {
+    "titleId": "PPSA16738_00",
+    "conceptId": 10008499,
+    "name": "TRANSFORMERS: Galactic Trials",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16739_00",
+    "conceptId": 10008499,
+    "name": "TRANSFORMERS: Galactic Trials",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16742_00",
@@ -91224,6 +91256,14 @@
     "publisherId": "EP2955"
   },
   {
+    "titleId": "PPSA21713_00",
+    "conceptId": 10008083,
+    "name": "TheUtilityRoom",
+    "contentId": "JP8570-PPSA21713_00-0582049717390919",
+    "region": "JP",
+    "publisherId": "JP8570"
+  },
+  {
     "titleId": "PPSA21714_00",
     "conceptId": 10010464,
     "name": "Rider's Spirits",
@@ -91491,9 +91531,9 @@
     "titleId": "PPSA21808_00",
     "conceptId": 10010507,
     "name": "Forklift Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA21808_00-0228255891001749",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA21809_00",
@@ -91894,6 +91934,14 @@
     "contentId": "UP6472-PPSA21941_00-TFURAFTERMIDNIGH",
     "region": "UP",
     "publisherId": "UP6472"
+  },
+  {
+    "titleId": "PPSA21944_00",
+    "conceptId": 10010551,
+    "name": "\u30de\u30fc\u30eb\u738b\u56fd\u306e\u4eba\u5f62\u59eb",
+    "contentId": "JP0404-PPSA21944_00-0018451995708564",
+    "region": "JP",
+    "publisherId": "JP0404"
   },
   {
     "titleId": "PPSA21946_00",
@@ -92672,6 +92720,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA22161_00",
+    "conceptId": 10003642,
+    "name": "Skydance's BEHEMOTH",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2579"
+  },
+  {
     "titleId": "PPSA22171_00",
     "conceptId": 10010652,
     "name": "Drift Streets Japan",
@@ -92686,6 +92742,14 @@
     "contentId": "EP5864-PPSA22172_00-0414843150001797",
     "region": "EP",
     "publisherId": "EP5864"
+  },
+  {
+    "titleId": "PPSA22176_00",
+    "conceptId": 10009669,
+    "name": "KAMITSUBAKI CITY ENSEMBLE",
+    "contentId": "UP2777-PPSA22176_00-ABCDEF0123456789",
+    "region": "UP",
+    "publisherId": "UP2777"
   },
   {
     "titleId": "PPSA22179_00",
@@ -94008,6 +94072,14 @@
     "publisherId": "HB0780"
   },
   {
+    "titleId": "PPSA22548_00",
+    "conceptId": 10010714,
+    "name": "Shogun Showdown - Demo",
+    "contentId": "UP8767-PPSA22548_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP8767"
+  },
+  {
     "titleId": "PPSA22552_00",
     "conceptId": 10010789,
     "name": "\u53cb\u60c5\u306e\u914d\u9054",
@@ -94440,6 +94512,22 @@
     "publisherId": "EP7994"
   },
   {
+    "titleId": "PPSA22697_00",
+    "conceptId": 10010746,
+    "name": "Crypt Custodian Demo",
+    "contentId": "UP5155-PPSA22697_00-CRYPTCUSTODIANDM",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
+    "titleId": "PPSA22698_00",
+    "conceptId": 10010746,
+    "name": "Crypt Custodian Demo",
+    "contentId": "EP5335-PPSA22698_00-CRYPTCUSTODIANDM",
+    "region": "EP",
+    "publisherId": "EP5335"
+  },
+  {
     "titleId": "PPSA22700_00",
     "conceptId": 10010848,
     "name": "Detective - Minerva Case",
@@ -94750,6 +94838,22 @@
     "contentId": "EP2363-PPSA22777_00-EU0HXANA00000PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA22778_00",
+    "conceptId": 10010714,
+    "name": "Shogun Showdown",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22779_00",
+    "conceptId": 10010714,
+    "name": "Shogun Showdown",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22780_00",
@@ -95114,8 +95218,8 @@
   {
     "titleId": "PPSA22914_00",
     "conceptId": 10010849,
-    "name": "WitchSpring R",
-    "contentId": null,
+    "name": "WitchSpringR",
+    "contentId": "HP8613-PPSA22914_00-0214997861666486",
     "region": "HP",
     "publisherId": "HP8613"
   },
@@ -95155,17 +95259,17 @@
     "titleId": "PPSA22934_00",
     "conceptId": 10010943,
     "name": "Espresso Tycoon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1564-PPSA22934_00-0804440860795389",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA22935_00",
     "conceptId": 10010943,
     "name": "Espresso Tycoon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA22935_00-0691769472998398",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA22949_00",
@@ -95382,6 +95486,14 @@
     "contentId": "JP8693-PPSA23042_00-0530368324072571",
     "region": "JP",
     "publisherId": "JP8693"
+  },
+  {
+    "titleId": "PPSA23043_00",
+    "conceptId": 10010983,
+    "name": "Snow Scout",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23047_00",
@@ -97024,6 +97136,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA23643_00",
+    "conceptId": 10011082,
+    "name": "The Legend of Heroes: Kai no Kiseki -Farewell, O Zemuria- (PS4 & PS5)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA23650_00",
     "conceptId": 10011305,
     "name": "Into the Radius",
@@ -97354,10 +97474,10 @@
   {
     "titleId": "PPSA23765_00",
     "conceptId": 10009904,
-    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u95c7\u306e\u4ed5\u4e8b\u4ebaKAGE Shadow of The Ninja Digital Soundtrack",
+    "contentId": "JP0221-PPSA23765_00-0348813167382030",
+    "region": "JP",
+    "publisherId": "JP0221"
   },
   {
     "titleId": "PPSA23768_00",
@@ -97378,10 +97498,10 @@
   {
     "titleId": "PPSA23777_00",
     "conceptId": 10009904,
-    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow of the Ninja Digital Soundtrack",
+    "contentId": "HP5741-PPSA23777_00-0597864035702842",
+    "region": "HP",
+    "publisherId": "HP5741"
   },
   {
     "titleId": "PPSA23782_00",
@@ -97686,6 +97806,14 @@
     "contentId": "HB0405-PPSA23866_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA23868_00",
+    "conceptId": 10011082,
+    "name": "The Legend of Heroes: KAI NO KISEKI -Farewell, O Zemuria-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23869_00",
@@ -99920,6 +100048,14 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA24661_00",
+    "conceptId": 10011829,
+    "name": "Melobot - A Last Song",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24725_00",
     "conceptId": 10010745,
     "name": "Baby Boomer 2: 35 Years Too Soon Mega Chad Edition",
@@ -99958,6 +100094,14 @@
     "contentId": "HP5741-PPSA24830_00-0718112818499947",
     "region": "HP",
     "publisherId": "HP5741"
+  },
+  {
+    "titleId": "PPSA24836_00",
+    "conceptId": 10009904,
+    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24839_00",
@@ -100003,6 +100147,22 @@
     "titleId": "PPSA24870_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24901_00",
+    "conceptId": 10004816,
+    "name": "SYNDUALITY: Echo of Ada",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24902_00",
+    "conceptId": 10004816,
+    "name": "SYNDUALITY: Echo of Ada",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -100142,6 +100302,22 @@
     "contentId": "UB0738-PPSA24992_00-0875217836444521",
     "region": "UB",
     "publisherId": "UB0738"
+  },
+  {
+    "titleId": "PPSA25031_00",
+    "conceptId": 10011963,
+    "name": "Drift Master Simulator",
+    "contentId": "UB1013-PPSA25031_00-0088015487764926",
+    "region": "UB",
+    "publisherId": "UB1013"
+  },
+  {
+    "titleId": "PPSA25042_00",
+    "conceptId": 10008083,
+    "name": "The Utility Room",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25073_00",
@@ -100411,6 +100587,38 @@
     "titleId": "PPSA25480_00",
     "conceptId": 10012244,
     "name": "Farm Champions: Harvest Battle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25583_00",
+    "conceptId": 10012284,
+    "name": "Pin Strike",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25584_00",
+    "conceptId": 10012284,
+    "name": "Pin Strike",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25585_00",
+    "conceptId": 10012284,
+    "name": "Pin Strike",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25586_00",
+    "conceptId": 10012284,
+    "name": "Pin Strike",
     "contentId": null,
     "region": null,
     "publisherId": null
