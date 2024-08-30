@@ -25632,6 +25632,14 @@
     "publisherId": "JP0507"
   },
   {
+    "titleId": "PPSA06543_00",
+    "conceptId": 10002149,
+    "name": "Katana Kata",
+    "contentId": "EP6138-PPSA06543_00-5505359004001678",
+    "region": "EP",
+    "publisherId": "EP6138"
+  },
+  {
     "titleId": "PPSA06547_00",
     "conceptId": 10004493,
     "name": "DrumBox",
@@ -35816,6 +35824,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA08408_00",
+    "conceptId": 10005382,
+    "name": "Blazing Strike",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08409_00",
     "conceptId": 10005383,
     "name": "Backgammon",
@@ -36942,6 +36958,14 @@
     "contentId": "HP6885-PPSA08604_00-CORRECTPRODUCT00",
     "region": "HP",
     "publisherId": "HP6885"
+  },
+  {
+    "titleId": "PPSA08605_00",
+    "conceptId": 10005382,
+    "name": "Blazing Strike",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA08606_00",
@@ -65576,6 +65600,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA15569_00",
+    "conceptId": 10008059,
+    "name": "Nick Jr. Party Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15572_00",
     "conceptId": 10008055,
     "name": "SOUTH PARK: SNOW DAY!",
@@ -67546,10 +67578,10 @@
   {
     "titleId": "PPSA15969_00",
     "conceptId": 10008083,
-    "name": "The Utility Room",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TheUtilityRoom",
+    "contentId": "UP8665-PPSA15969_00-0716537119731847",
+    "region": "UP",
+    "publisherId": "UP8665"
   },
   {
     "titleId": "PPSA15974_00",
@@ -68106,16 +68138,16 @@
   {
     "titleId": "PPSA16094_00",
     "conceptId": 10008215,
-    "name": "\u8056\u5263\u4f1d\u8aac VISIONS of MANA PS4 & PS5",
-    "contentId": null,
+    "name": "\u8056\u5263\u4f1d\u8aac VISIONS of MANA",
+    "contentId": "JP0082-PPSA16094_00-VOMPS5JPN0000001",
     "region": "JP",
     "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA16095_00",
     "conceptId": 10008215,
-    "name": "Visions of Mana PS4 & PS5",
-    "contentId": null,
+    "name": "\u8056\u528d\u50b3\u8aaa Visions of Mana",
+    "contentId": "HP0082-PPSA16095_00-VOMPS5ASIA000001",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -68498,8 +68530,8 @@
   {
     "titleId": "PPSA16160_00",
     "conceptId": 10008248,
-    "name": "Monster Jam\u2122 Showdown PS4 & PS5",
-    "contentId": null,
+    "name": "Monster Jam\u2122 Showdown",
+    "contentId": "UP1981-PPSA16160_00-MONSTERJAMGAME00",
     "region": "UP",
     "publisherId": "UP1981"
   },
@@ -69590,6 +69622,14 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA16411_00",
+    "conceptId": 10008356,
+    "name": "Taiko no Tatsujin: Rhythm Festival",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA16412_00",
@@ -73504,6 +73544,22 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA17245_00",
+    "conceptId": 10008636,
+    "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17246_00",
+    "conceptId": 10008636,
+    "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17248_00",
     "conceptId": 10008723,
     "name": "Sokobalien",
@@ -74326,6 +74382,22 @@
     "contentId": "EP1053-PPSA17455_00-0099906695056532",
     "region": "EP",
     "publisherId": "EP1053"
+  },
+  {
+    "titleId": "PPSA17464_00",
+    "conceptId": 10008807,
+    "name": "Barbie Project Friendship\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17465_00",
+    "conceptId": 10008807,
+    "name": "Barbie Project Friendship\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17476_00",
@@ -77776,6 +77848,14 @@
     "publisherId": "JP0102"
   },
   {
+    "titleId": "PPSA18305_00",
+    "conceptId": 10004292,
+    "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA18319_00",
     "conceptId": 10008826,
     "name": "Enotria",
@@ -78978,8 +79058,8 @@
   {
     "titleId": "PPSA18619_00",
     "conceptId": 10009245,
-    "name": "SMITE 2 Founder's Edition",
-    "contentId": null,
+    "name": "SMITE 2",
+    "contentId": "UP0334-PPSA18619_00-SMITE2XXXXXXXXXX",
     "region": "UP",
     "publisherId": "UP0334"
   },
@@ -85571,7 +85651,7 @@
     "titleId": "PPSA20188_00",
     "conceptId": 10009815,
     "name": "Blood Hunting",
-    "contentId": null,
+    "contentId": "UP8727-PPSA20188_00-0333740456812142",
     "region": "UP",
     "publisherId": "UP8727"
   },
@@ -86330,10 +86410,10 @@
   {
     "titleId": "PPSA20381_00",
     "conceptId": 10009904,
-    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u95c7\u306e\u4ed5\u4e8b\u4ebaKAGE Shadow of The Ninja",
+    "contentId": "JP0221-PPSA20381_00-0844692035881975",
+    "region": "JP",
+    "publisherId": "JP0221"
   },
   {
     "titleId": "PPSA20383_00",
@@ -86546,18 +86626,18 @@
   {
     "titleId": "PPSA20437_00",
     "conceptId": 10009904,
-    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow of the Ninja - Reborn",
+    "contentId": "EP8204-PPSA20437_00-SHADOWNINJAPS5EU",
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA20438_00",
     "conceptId": 10009904,
-    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow of the Ninja - Reborn",
+    "contentId": "UP8012-PPSA20438_00-SHADOWNINJAPS5US",
+    "region": "UP",
+    "publisherId": "UP8012"
   },
   {
     "titleId": "PPSA20439_00",
@@ -86594,10 +86674,10 @@
   {
     "titleId": "PPSA20450_00",
     "conceptId": 10009904,
-    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow of the Ninja",
+    "contentId": "HP5741-PPSA20450_00-0707019132237634",
+    "region": "HP",
+    "publisherId": "HP5741"
   },
   {
     "titleId": "PPSA20454_00",
@@ -90635,17 +90715,17 @@
     "titleId": "PPSA21588_00",
     "conceptId": 10010408,
     "name": "Akimbot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8459-PPSA21588_00-0869491730041839",
+    "region": "EP",
+    "publisherId": "EP8459"
   },
   {
     "titleId": "PPSA21593_00",
     "conceptId": 10010408,
     "name": "Akimbot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8268-PPSA21593_00-0686254385570430",
+    "region": "UP",
+    "publisherId": "UP8268"
   },
   {
     "titleId": "PPSA21598_00",
@@ -90662,6 +90742,14 @@
     "contentId": "UP1421-PPSA21599_00-0752148353623920",
     "region": "UP",
     "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA21600_00",
+    "conceptId": 10010423,
+    "name": "Wer wei\u00df denn sowas? - Das 3. Spiel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21605_00",
@@ -91211,9 +91299,9 @@
     "titleId": "PPSA21703_00",
     "conceptId": 10010458,
     "name": "Vampire Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0324-PPSA21703_00-VAMPIRESURVIVORS",
+    "region": "EB",
+    "publisherId": "EB0324"
   },
   {
     "titleId": "PPSA21704_00",
@@ -91235,9 +91323,9 @@
     "titleId": "PPSA21709_00",
     "conceptId": 10010382,
     "name": "Leo: The Firefighter Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4735-PPSA21709_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4735"
   },
   {
     "titleId": "PPSA21711_00",
@@ -91539,9 +91627,9 @@
     "titleId": "PPSA21809_00",
     "conceptId": 10010507,
     "name": "Forklift Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3003-PPSA21809_00-0534722968620497",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA21813_00",
@@ -92744,6 +92832,22 @@
     "publisherId": "EP5864"
   },
   {
+    "titleId": "PPSA22174_00",
+    "conceptId": 10009669,
+    "name": "KAMITSUBAKI CITY ENSEMBLE",
+    "contentId": "HP2723-PPSA22174_00-ABCDEF0123456789",
+    "region": "HP",
+    "publisherId": "HP2723"
+  },
+  {
+    "titleId": "PPSA22175_00",
+    "conceptId": 10009669,
+    "name": "KAMITSUBAKI CITY ENSEMBLE",
+    "contentId": "EP2640-PPSA22175_00-ABCDEF0123456789",
+    "region": "EP",
+    "publisherId": "EP2640"
+  },
+  {
     "titleId": "PPSA22176_00",
     "conceptId": 10009669,
     "name": "KAMITSUBAKI CITY ENSEMBLE",
@@ -92886,6 +92990,38 @@
     "contentId": "HP6661-PPSA22198_00-0245184464233582",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA22199_00",
+    "conceptId": 10010659,
+    "name": "Glowface - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22201_00",
+    "conceptId": 10010659,
+    "name": "Glowface - DEMO",
+    "contentId": "JP6595-PPSA22201_00-0120474882099039",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA22202_00",
+    "conceptId": 10010659,
+    "name": "Glowface - DEMO",
+    "contentId": "HP6661-PPSA22202_00-0371482746737245",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA22203_00",
+    "conceptId": 10010660,
+    "name": "Bridges & Docks",
+    "contentId": "UB0284-PPSA22203_00-0149902250498815",
+    "region": "UB",
+    "publisherId": "UB0284"
   },
   {
     "titleId": "PPSA22223_00",
@@ -93262,6 +93398,14 @@
     "contentId": "JP3914-PPSA22361_00-PS5DIEAGAINJAPAN",
     "region": "JP",
     "publisherId": "JP3914"
+  },
+  {
+    "titleId": "PPSA22365_00",
+    "conceptId": 10010714,
+    "name": "Shogun Showdown - Demo",
+    "contentId": "EB0158-PPSA22365_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0158"
   },
   {
     "titleId": "PPSA22368_00",
@@ -94888,6 +95032,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22808_00",
+    "conceptId": 10010819,
+    "name": "ROAD TO EXOTICS!",
+    "contentId": "EB1022-PPSA22808_00-0987291463751257",
+    "region": "EB",
+    "publisherId": "EB1022"
+  },
+  {
     "titleId": "PPSA22809_00",
     "conceptId": 10010901,
     "name": "Mystic Warriors Battleground",
@@ -95496,6 +95648,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23044_00",
+    "conceptId": 10010983,
+    "name": "Snow Scout",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23047_00",
     "conceptId": 10010985,
     "name": "The Perplexing Orb: Bounce Challenge",
@@ -95571,17 +95731,17 @@
     "titleId": "PPSA23100_00",
     "conceptId": 10011012,
     "name": "Snooker Blitz",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4068-PPSA23100_00-SNOOKERBLITZCPG1",
+    "region": "UP",
+    "publisherId": "UP4068"
   },
   {
     "titleId": "PPSA23101_00",
     "conceptId": 10011012,
     "name": "Snooker Blitz",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4068-PPSA23101_00-SNOOKERBLITZCPG1",
+    "region": "EP",
+    "publisherId": "EP4068"
   },
   {
     "titleId": "PPSA23111_00",
@@ -96270,6 +96430,14 @@
     "contentId": "HP7354-PPSA23395_00-0306684582188012",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA23396_00",
+    "conceptId": 10010759,
+    "name": "Rugrats: Adventures in Gameland",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23397_00",
@@ -97568,6 +97736,14 @@
     "publisherId": "EP4062"
   },
   {
+    "titleId": "PPSA23803_00",
+    "conceptId": 10011403,
+    "name": "Vigour",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23811_00",
     "conceptId": 10011408,
     "name": "Honeyland",
@@ -98848,6 +99024,14 @@
     "publisherId": "UP7578"
   },
   {
+    "titleId": "PPSA24234_00",
+    "conceptId": 224923,
+    "name": "\u30ec\u30a4\u30b8\u30f3\u30b0\u30eb\u30fc\u30d7",
+    "contentId": "JP0013-PPSA24234_00-JP000REIJINGLUP5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA24240_00",
     "conceptId": 10011633,
     "name": "Clutter's Greatest Hits - Collector's Edition",
@@ -99299,9 +99483,9 @@
     "titleId": "PPSA24406_00",
     "conceptId": 10010848,
     "name": "Detective - Minerva Case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA24406_00-DETECTIVEMINERVA",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA24408_00",
@@ -99715,9 +99899,9 @@
     "titleId": "PPSA24536_00",
     "conceptId": 10011773,
     "name": "Forests, Fields and Fortresses",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA24536_00-FORESTSFIELDSFRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA24542_00",
@@ -100098,10 +100282,18 @@
   {
     "titleId": "PPSA24836_00",
     "conceptId": 10009904,
-    "name": "Shadow of the Ninja - Reborn PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow of the Ninja - Reborn Digital Soundtrack",
+    "contentId": "EP8204-PPSA24836_00-DIGITALOSTBPS5EU",
+    "region": "EP",
+    "publisherId": "EP8204"
+  },
+  {
+    "titleId": "PPSA24837_00",
+    "conceptId": 10009904,
+    "name": "Shadow of the Ninja - Reborn Digital Soundtrack",
+    "contentId": "UP8012-PPSA24837_00-DIGITALOSTBPS5US",
+    "region": "UP",
+    "publisherId": "UP8012"
   },
   {
     "titleId": "PPSA24839_00",
@@ -100174,6 +100366,22 @@
     "contentId": "EP5077-PPSA24905_00-0252565351251848",
     "region": "EP",
     "publisherId": "EP5077"
+  },
+  {
+    "titleId": "PPSA24922_00",
+    "conceptId": 10009904,
+    "name": "Shadow of the Ninja - Reborn DEMO",
+    "contentId": "EP8204-PPSA24922_00-SHADOWXDEMOPS5EU",
+    "region": "EP",
+    "publisherId": "EP8204"
+  },
+  {
+    "titleId": "PPSA24923_00",
+    "conceptId": 10009904,
+    "name": "Shadow of the Ninja - Reborn DEMO",
+    "contentId": "UP8012-PPSA24923_00-SHADOWXDEMOPS5US",
+    "region": "UP",
+    "publisherId": "UP8012"
   },
   {
     "titleId": "PPSA24925_00",
@@ -100619,6 +100827,30 @@
     "titleId": "PPSA25586_00",
     "conceptId": 10012284,
     "name": "Pin Strike",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25588_00",
+    "conceptId": 10012285,
+    "name": "Zen Drift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25589_00",
+    "conceptId": 10012285,
+    "name": "Zen Drift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25590_00",
+    "conceptId": 10012285,
+    "name": "Zen Drift",
     "contentId": null,
     "region": null,
     "publisherId": null
