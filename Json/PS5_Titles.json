@@ -33842,8 +33842,8 @@
   {
     "titleId": "PPSA08064_00",
     "conceptId": 10005248,
-    "name": "GUNDAM BREAKER 4 PS4 & PS5",
-    "contentId": null,
+    "name": "GUNDAM BREAKER 4",
+    "contentId": "EP0700-PPSA08064_00-GUNDAMBREAKER4P1",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -34995,7 +34995,7 @@
     "titleId": "PPSA08260_00",
     "conceptId": 10005323,
     "name": "Star Wars Outlaws",
-    "contentId": null,
+    "contentId": "EP0001-PPSA08260_00-GAME000000000000",
     "region": "EP",
     "publisherId": "EP0001"
   },
@@ -63392,6 +63392,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14955_00",
+    "conceptId": 10005526,
+    "name": "Back Then",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14956_00",
     "conceptId": 10007831,
     "name": "Prison Architect 2",
@@ -65912,6 +65920,14 @@
     "publisherId": "EP0131"
   },
   {
+    "titleId": "PPSA15645_00",
+    "conceptId": 10007943,
+    "name": "Castlevania Dominus Collection",
+    "contentId": "JP0101-PPSA15645_00-DOMINUSCOLLECTIO",
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA15648_00",
     "conceptId": 10007229,
     "name": "Red Matter 2",
@@ -68154,8 +68170,8 @@
   {
     "titleId": "PPSA16096_00",
     "conceptId": 10008215,
-    "name": "Visions of Mana PS4 & PS5",
-    "contentId": null,
+    "name": "Visions of Mana",
+    "contentId": "UP0082-PPSA16096_00-VOMPS5NA00000001",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -69931,9 +69947,9 @@
     "titleId": "PPSA16456_00",
     "conceptId": 10008376,
     "name": "Super Dark Deception",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0299-PPSA16456_00-0672594645193797",
+    "region": "UP",
+    "publisherId": "UP0299"
   },
   {
     "titleId": "PPSA16457_00",
@@ -69947,17 +69963,17 @@
     "titleId": "PPSA16458_00",
     "conceptId": 10008376,
     "name": "Super Dark Deception",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0559-PPSA16458_00-0503119566927374",
+    "region": "JP",
+    "publisherId": "JP0559"
   },
   {
     "titleId": "PPSA16459_00",
     "conceptId": 10008376,
     "name": "Super Dark Deception",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0332-PPSA16459_00-0546379283696864",
+    "region": "HP",
+    "publisherId": "HP0332"
   },
   {
     "titleId": "PPSA16460_00",
@@ -78387,9 +78403,9 @@
     "titleId": "PPSA18444_00",
     "conceptId": 10009040,
     "name": "Blocky Farm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA18444_00-0777391313944550",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA18445_00",
@@ -79066,8 +79082,8 @@
   {
     "titleId": "PPSA18620_00",
     "conceptId": 10009245,
-    "name": "SMITE 2 Founder's Edition",
-    "contentId": null,
+    "name": "SMITE 2",
+    "contentId": "EP0331-PPSA18620_00-SMITE2XXXXXXXXXX",
     "region": "EP",
     "publisherId": "EP0331"
   },
@@ -83306,10 +83322,10 @@
   {
     "titleId": "PPSA19593_00",
     "conceptId": 10008937,
-    "name": "KAMiBAKO - Mythology of Cube -",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u795e\u7bb1- Mythology of Cube -",
+    "contentId": "JP7583-PPSA19593_00-0163087958784060",
+    "region": "JP",
+    "publisherId": "JP7583"
   },
   {
     "titleId": "PPSA19597_00",
@@ -85875,9 +85891,9 @@
     "titleId": "PPSA20242_00",
     "conceptId": 10009838,
     "name": "Date Z",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7592-PPSA20242_00-0111655925542042",
+    "region": "EP",
+    "publisherId": "EP7592"
   },
   {
     "titleId": "PPSA20246_00",
@@ -87070,6 +87086,14 @@
     "contentId": "UP5459-PPSA20522_00-0249636723801216",
     "region": "UP",
     "publisherId": "UP5459"
+  },
+  {
+    "titleId": "PPSA20526_00",
+    "conceptId": 10009977,
+    "name": "Son and Bone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20529_00",
@@ -92994,10 +93018,18 @@
   {
     "titleId": "PPSA22199_00",
     "conceptId": 10010659,
-    "name": "Glowface - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Glowface - DEMO",
+    "contentId": "EP6664-PPSA22199_00-0484229572092486",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA22200_00",
+    "conceptId": 10010659,
+    "name": "Glowface - DEMO",
+    "contentId": "UP6664-PPSA22200_00-0562348255396331",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA22201_00",
@@ -93022,6 +93054,14 @@
     "contentId": "UB0284-PPSA22203_00-0149902250498815",
     "region": "UB",
     "publisherId": "UB0284"
+  },
+  {
+    "titleId": "PPSA22204_00",
+    "conceptId": 10010660,
+    "name": "Bridges & Docks",
+    "contentId": "EB0467-PPSA22204_00-0139309998110926",
+    "region": "EB",
+    "publisherId": "EB0467"
   },
   {
     "titleId": "PPSA22223_00",
@@ -98136,6 +98176,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA23920_00",
+    "conceptId": 10011454,
+    "name": "Moonlit Embrace",
+    "contentId": "HP7354-PPSA23920_00-0915477309234257",
+    "region": "HP",
+    "publisherId": "HP7354"
+  },
+  {
     "titleId": "PPSA23921_00",
     "conceptId": 10008034,
     "name": "Throne And Liberty",
@@ -98262,6 +98310,14 @@
     "contentId": "UP7578-PPSA23948_00-0274224845332461",
     "region": "UP",
     "publisherId": "UP7578"
+  },
+  {
+    "titleId": "PPSA23952_00",
+    "conceptId": 10011470,
+    "name": "Deep Beyond",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23961_00",
@@ -99160,12 +99216,20 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA24304_00",
+    "conceptId": 224923,
+    "name": "Raging Loop",
+    "contentId": "UP2500-PPSA24304_00-US000REIJINGLUP5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA24305_00",
     "conceptId": 224923,
     "name": "Raging Loop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA24305_00-EU000REIJINGLUP5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA24307_00",
@@ -99275,17 +99339,17 @@
     "titleId": "PPSA24357_00",
     "conceptId": 10011684,
     "name": "Run, Sandwich, Run!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24357_00-0709189995161435",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24358_00",
     "conceptId": 10011684,
     "name": "Run, Sandwich, Run!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24358_00-0631679273599759",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24359_00",
@@ -99299,9 +99363,9 @@
     "titleId": "PPSA24360_00",
     "conceptId": 10011684,
     "name": "Run, Sandwich, Run!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24360_00-0519885941731986",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24361_00",
@@ -100800,6 +100864,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25519_00",
+    "conceptId": 10008104,
+    "name": "Techno Banter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25583_00",
     "conceptId": 10012284,
     "name": "Pin Strike",
@@ -100827,6 +100899,14 @@
     "titleId": "PPSA25586_00",
     "conceptId": 10012284,
     "name": "Pin Strike",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25587_00",
+    "conceptId": 10012285,
+    "name": "Zen Drift",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -100862,5 +100942,13 @@
     "contentId": "HB0876-PPSA25608_00-0547775911464383",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA25639_00",
+    "conceptId": 10012312,
+    "name": "Pixicharm - Fruboom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
