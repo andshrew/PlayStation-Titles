@@ -25448,6 +25448,22 @@
     "publisherId": "EP4134"
   },
   {
+    "titleId": "PPSA06517_00",
+    "conceptId": 234386,
+    "name": "Risk of Rain 2",
+    "contentId": "EP0290-PPSA06517_00-RISKOFRAIN2SIEE0",
+    "region": "EP",
+    "publisherId": "EP0290"
+  },
+  {
+    "titleId": "PPSA06518_00",
+    "conceptId": 234386,
+    "name": "Risk of Rain 2",
+    "contentId": "JP0550-PPSA06518_00-RISKOFRAIN2SIEJ0",
+    "region": "JP",
+    "publisherId": "JP0550"
+  },
+  {
     "titleId": "PPSA06519_00",
     "conceptId": 232049,
     "name": "Ice Cream Surfer",
@@ -33834,8 +33850,8 @@
   {
     "titleId": "PPSA08063_00",
     "conceptId": 10005248,
-    "name": "GUNDAM BREAKER 4 PS4 & PS5",
-    "contentId": null,
+    "name": "GUNDAM BREAKER 4",
+    "contentId": "HP0700-PPSA08063_00-GUNDAMBREAKER4P1",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -63392,6 +63408,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14954_00",
+    "conceptId": 10005526,
+    "name": "Back Then",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14955_00",
     "conceptId": 10005526,
     "name": "Back Then",
@@ -64254,6 +64278,14 @@
     "contentId": "UP0101-PPSA15338_00-0503752447745981",
     "region": "UP",
     "publisherId": "UP0101"
+  },
+  {
+    "titleId": "PPSA15341_00",
+    "conceptId": 10007960,
+    "name": "SpongeBob SquarePants\u2122: The Patrick Star Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15342_00",
@@ -65609,6 +65641,14 @@
   },
   {
     "titleId": "PPSA15569_00",
+    "conceptId": 10008059,
+    "name": "Nick Jr. Party Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15570_00",
     "conceptId": 10008059,
     "name": "Nick Jr. Party Adventure",
     "contentId": null,
@@ -68178,8 +68218,8 @@
   {
     "titleId": "PPSA16097_00",
     "conceptId": 10008215,
-    "name": "Visions of Mana PS4 & PS5",
-    "contentId": null,
+    "name": "Visions of Mana",
+    "contentId": "EP0082-PPSA16097_00-VOMPS5EU00000001",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -69955,9 +69995,9 @@
     "titleId": "PPSA16457_00",
     "conceptId": 10008376,
     "name": "Super Dark Deception",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0297-PPSA16457_00-0067256770180992",
+    "region": "EP",
+    "publisherId": "EP0297"
   },
   {
     "titleId": "PPSA16458_00",
@@ -77432,6 +77472,14 @@
     "publisherId": "EP5279"
   },
   {
+    "titleId": "PPSA18208_00",
+    "conceptId": 10009078,
+    "name": "Bloomtown: A Different Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18210_00",
     "conceptId": 233559,
     "name": "Paper Beast Enhanced Edition",
@@ -78395,9 +78443,9 @@
     "titleId": "PPSA18443_00",
     "conceptId": 10009040,
     "name": "Blocky Farm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4199-PPSA18443_00-0962065676180674",
+    "region": "UP",
+    "publisherId": "UP4199"
   },
   {
     "titleId": "PPSA18444_00",
@@ -84088,6 +84136,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19795_00",
+    "conceptId": 10009669,
+    "name": "\u795e\u693f\u5e02\u5354\u594f\u4e2d\u3002",
+    "contentId": "JP0536-PPSA19795_00-ABCDEF0123456789",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA19800_00",
     "conceptId": 10009671,
     "name": "Arranger: A Role-Puzzling Adventure",
@@ -85536,6 +85592,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA20142_00",
+    "conceptId": 10009799,
+    "name": "Survival: Fountain of Youth - Captain's Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20145_00",
     "conceptId": 10009800,
     "name": "Saviorless",
@@ -85883,9 +85947,9 @@
     "titleId": "PPSA20241_00",
     "conceptId": 10009838,
     "name": "Date Z",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7594-PPSA20241_00-0753094590812807",
+    "region": "UP",
+    "publisherId": "UP7594"
   },
   {
     "titleId": "PPSA20242_00",
@@ -87089,6 +87153,14 @@
   },
   {
     "titleId": "PPSA20526_00",
+    "conceptId": 10009977,
+    "name": "Son and Bone",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20527_00",
     "conceptId": 10009977,
     "name": "Son and Bone",
     "contentId": null,
@@ -89059,6 +89131,22 @@
     "titleId": "PPSA21083_00",
     "conceptId": 10009763,
     "name": "Zenless Zone Zero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21084_00",
+    "conceptId": 10010213,
+    "name": "Selfloss",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21085_00",
+    "conceptId": 10010213,
+    "name": "Selfloss",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -96024,6 +96112,14 @@
     "publisherId": "HP6978"
   },
   {
+    "titleId": "PPSA23238_00",
+    "conceptId": 10000276,
+    "name": "Horror Adventure VR Demo",
+    "contentId": "EP8934-PPSA23238_00-0343373349953649",
+    "region": "EP",
+    "publisherId": "EP8934"
+  },
+  {
     "titleId": "PPSA23239_00",
     "conceptId": 10011093,
     "name": "Greed 2: Forbidden Experiments",
@@ -98176,6 +98272,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA23919_00",
+    "conceptId": 10011454,
+    "name": "Moonlit Embrace",
+    "contentId": "JP7309-PPSA23919_00-0725025091037948",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
     "titleId": "PPSA23920_00",
     "conceptId": 10011454,
     "name": "Moonlit Embrace",
@@ -99088,6 +99192,38 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA24236_00",
+    "conceptId": 10011631,
+    "name": "Mushroom Colors",
+    "contentId": "UP7668-PPSA24236_00-0811877463432363",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24237_00",
+    "conceptId": 10011631,
+    "name": "Mushroom Colors",
+    "contentId": "UP7668-PPSA24237_00-0242644205721412",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24238_00",
+    "conceptId": 10011631,
+    "name": "Mushroom Colors",
+    "contentId": "UP7668-PPSA24238_00-0088415335883451",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24239_00",
+    "conceptId": 10011631,
+    "name": "Mushroom Colors",
+    "contentId": "UP7668-PPSA24239_00-0340473133550119",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA24240_00",
     "conceptId": 10011633,
     "name": "Clutter's Greatest Hits - Collector's Edition",
@@ -99355,9 +99491,9 @@
     "titleId": "PPSA24359_00",
     "conceptId": 10011684,
     "name": "Run, Sandwich, Run!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24359_00-0853994156980138",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24360_00",
@@ -100379,25 +100515,25 @@
     "titleId": "PPSA24867_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24867_00-0607326540377554",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24868_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24868_00-0877771407297959",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24869_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24869_00-0345587329641564",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24870_00",
