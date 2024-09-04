@@ -21760,6 +21760,14 @@
     "publisherId": "EP2430"
   },
   {
+    "titleId": "PPSA05834_00",
+    "conceptId": 10004151,
+    "name": "Harry Potter: Quidditch Champions",
+    "contentId": "UP1018-PPSA05834_00-QUIDDITCH0000000",
+    "region": "UP",
+    "publisherId": "UP1018"
+  },
+  {
     "titleId": "PPSA05840_00",
     "conceptId": 10004153,
     "name": "Idol Manager",
@@ -25454,6 +25462,14 @@
     "contentId": "EP4134-PPSA06515_00-5161702175221372",
     "region": "EP",
     "publisherId": "EP4134"
+  },
+  {
+    "titleId": "PPSA06516_00",
+    "conceptId": 234386,
+    "name": "Risk of Rain 2",
+    "contentId": "UP0292-PPSA06516_00-RISKOFRAIN2SIEA0",
+    "region": "UP",
+    "publisherId": "UP0292"
   },
   {
     "titleId": "PPSA06517_00",
@@ -30331,7 +30347,7 @@
     "titleId": "PPSA07393_00",
     "conceptId": 10004945,
     "name": "Gori: Cuddly Carnage",
-    "contentId": null,
+    "contentId": "UP4382-PPSA07393_00-GORICUDDLYCARNAG",
     "region": "UP",
     "publisherId": "UP4382"
   },
@@ -33874,8 +33890,8 @@
   {
     "titleId": "PPSA08065_00",
     "conceptId": 10005248,
-    "name": "GUNDAM BREAKER 4 PS4\u00ae & PS5\u00ae",
-    "contentId": null,
+    "name": "GUNDAM BREAKER 4",
+    "contentId": "UP0700-PPSA08065_00-GUNDAMBREAKER4P1",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -77400,6 +77416,14 @@
     "publisherId": "UP2777"
   },
   {
+    "titleId": "PPSA18168_00",
+    "conceptId": 10009069,
+    "name": "The Holy Gosh Darn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18169_00",
     "conceptId": 10009069,
     "name": "The Holy Gosh Darn",
@@ -85664,6 +85688,14 @@
     "publisherId": "EP2149"
   },
   {
+    "titleId": "PPSA20155_00",
+    "conceptId": 10009804,
+    "name": "ToyBox Puzzle",
+    "contentId": "UB0488-PPSA20155_00-TOYBOXPUZZLE2023",
+    "region": "UB",
+    "publisherId": "UB0488"
+  },
+  {
     "titleId": "PPSA20165_00",
     "conceptId": 10003621,
     "name": "JigsawFinale",
@@ -90691,9 +90723,9 @@
     "titleId": "PPSA21529_00",
     "conceptId": 10010392,
     "name": "Mining Mechs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA21529_00-MININGMECHS00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA21533_00",
@@ -90822,6 +90854,14 @@
     "contentId": "UP1681-PPSA21570_00-TTALE2024PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA21574_00",
+    "conceptId": 10004947,
+    "name": "New World: Aeternum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21576_00",
@@ -95888,6 +95928,14 @@
     "publisherId": "EP0455"
   },
   {
+    "titleId": "PPSA23093_00",
+    "conceptId": 10000421,
+    "name": "The Suicide Of Rachel Foster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23100_00",
     "conceptId": 10011012,
     "name": "Snooker Blitz",
@@ -96390,6 +96438,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23327_00",
+    "conceptId": 10011135,
+    "name": "Billy's Game Show",
+    "contentId": "HP1792-PPSA23327_00-SYPS5BILLYSGAMES",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA23328_00",
@@ -97624,6 +97680,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA23673_00",
+    "conceptId": 10011316,
+    "name": "Chimp Test",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23674_00",
+    "conceptId": 10011316,
+    "name": "Chimp Test",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23685_00",
     "conceptId": 10008971,
     "name": "Off The Grid",
@@ -97798,6 +97870,14 @@
     "contentId": "EP0896-PPSA23754_00-ESCAPEPHARAOHSRG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA23756_00",
+    "conceptId": 10010443,
+    "name": "Amer Fighting Open Beta",
+    "contentId": "EP7303-PPSA23756_00-0185436026654002",
+    "region": "EP",
+    "publisherId": "EP7303"
   },
   {
     "titleId": "PPSA23759_00",
@@ -100912,6 +100992,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24904_00",
+    "conceptId": 10004816,
+    "name": "SYNDUALITY: Echo of Ada",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24905_00",
     "conceptId": 10011945,
     "name": "Run & Jump Guy",
@@ -101494,6 +101582,54 @@
     "contentId": "HB0876-PPSA25608_00-0547775911464383",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA25628_00",
+    "conceptId": 10012305,
+    "name": "Rooftop Rascal: The Drizzle Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25629_00",
+    "conceptId": 10012305,
+    "name": "Rooftop Rascal: The Drizzle Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25630_00",
+    "conceptId": 10012306,
+    "name": "Fill The Cup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25631_00",
+    "conceptId": 10012306,
+    "name": "Fill The Cup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25632_00",
+    "conceptId": 10012306,
+    "name": "Fill The Cup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25633_00",
+    "conceptId": 10012306,
+    "name": "Fill The Cup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25639_00",
