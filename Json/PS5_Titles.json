@@ -62456,6 +62456,14 @@
     "publisherId": "JP6207"
   },
   {
+    "titleId": "PPSA14419_00",
+    "conceptId": 10007641,
+    "name": "Flint: Treasure of Oblivion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14425_00",
     "conceptId": 229969,
     "name": "Mineko's Night Market",
@@ -70138,10 +70146,10 @@
   {
     "titleId": "PPSA16486_00",
     "conceptId": 10008388,
-    "name": "Paper Ghost Stories: Third Eye Open",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30da\u30fc\u30d1\u30fc\u30b4\u30fc\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u30ba\uff1a\u30b5\u30fc\u30c9\u30a2\u30a4\u30aa\u30fc\u30d7\u30f3",
+    "contentId": "JP0211-PPSA16486_00-0838570216359996",
+    "region": "JP",
+    "publisherId": "JP0211"
   },
   {
     "titleId": "PPSA16487_00",
@@ -79544,6 +79552,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA18716_00",
+    "conceptId": 10009282,
+    "name": "Skautfold: Into the Fray",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18718_00",
     "conceptId": 233275,
     "name": "Bartender VR Simulator",
@@ -85840,6 +85856,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA20203_00",
+    "conceptId": 10009822,
+    "name": "Garden Witch Life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20209_00",
     "conceptId": 10009830,
     "name": "Dream Bakery",
@@ -86054,6 +86078,14 @@
     "contentId": "UP2014-PPSA20257_00-BROADSWORD000000",
     "region": "UP",
     "publisherId": "UP2014"
+  },
+  {
+    "titleId": "PPSA20260_00",
+    "conceptId": 10009854,
+    "name": "The Last Shot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20262_00",
@@ -89992,6 +90024,22 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA21324_00",
+    "conceptId": 10009572,
+    "name": "Eden Genesis Demo",
+    "contentId": "EP7009-PPSA21324_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP7009"
+  },
+  {
+    "titleId": "PPSA21325_00",
+    "conceptId": 10009572,
+    "name": "Eden Genesis Demo",
+    "contentId": "UP7013-PPSA21325_00-0573268239074327",
+    "region": "UP",
+    "publisherId": "UP7013"
+  },
+  {
     "titleId": "PPSA21328_00",
     "conceptId": 10010303,
     "name": "Ball Destiny",
@@ -90857,6 +90905,14 @@
   },
   {
     "titleId": "PPSA21574_00",
+    "conceptId": 10004947,
+    "name": "New World: Aeternum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21575_00",
     "conceptId": 10004947,
     "name": "New World: Aeternum",
     "contentId": null,
@@ -96427,17 +96483,17 @@
     "titleId": "PPSA23324_00",
     "conceptId": 10011135,
     "name": "Billy's Game Show",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA23324_00-SYPS5BILLYSGAMES",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA23325_00",
     "conceptId": 10011135,
     "name": "Billy's Game Show",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA23325_00-SYPS5BILLYSGAMES",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA23327_00",
@@ -97544,6 +97600,14 @@
     "publisherId": "EP8070"
   },
   {
+    "titleId": "PPSA23636_00",
+    "conceptId": 10011296,
+    "name": "Shogun Showdown",
+    "contentId": "HP3256-PPSA23636_00-P5SHOGUNSHOWDOWN",
+    "region": "HP",
+    "publisherId": "HP3256"
+  },
+  {
     "titleId": "PPSA23639_00",
     "conceptId": 10011297,
     "name": "Guess The Object",
@@ -98011,9 +98075,9 @@
     "titleId": "PPSA23803_00",
     "conceptId": 10011403,
     "name": "Vigour",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7683-PPSA23803_00-0939036321668145",
+    "region": "HP",
+    "publisherId": "HP7683"
   },
   {
     "titleId": "PPSA23811_00",
@@ -100208,6 +100272,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24501_00",
+    "conceptId": 10008024,
+    "name": "Die Again",
+    "contentId": "JP3914-PPSA24501_00-0DIEAGAINDEMOPS5",
+    "region": "JP",
+    "publisherId": "JP3914"
+  },
+  {
     "titleId": "PPSA24504_00",
     "conceptId": 10010745,
     "name": "Baby Boomer 2: 35 Years Too Soon Demo",
@@ -101320,6 +101392,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA25303_00",
+    "conceptId": 10011924,
+    "name": "Night of the Dead Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25329_00",
     "conceptId": 10012141,
     "name": "Flippy Jump",
@@ -101512,6 +101592,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25580_00",
+    "conceptId": 10010944,
+    "name": "\u5b8c\u86cb\uff01\u6211\u88ab\u7f8e\u5973\u5305\u56f4\u4e86\uff01\u4f53\u9a8c\u7248",
+    "contentId": "HP8406-PPSA25580_00-NIUPS5LIAADEMO01",
+    "region": "HP",
+    "publisherId": "HP8406"
+  },
+  {
     "titleId": "PPSA25583_00",
     "conceptId": 10012284,
     "name": "Pin Strike",
@@ -101603,33 +101691,33 @@
     "titleId": "PPSA25630_00",
     "conceptId": 10012306,
     "name": "Fill The Cup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA25630_00-0164292532712706",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA25631_00",
     "conceptId": 10012306,
     "name": "Fill The Cup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA25631_00-0562928925887258",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA25632_00",
     "conceptId": 10012306,
     "name": "Fill The Cup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA25632_00-0716934988603855",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA25633_00",
     "conceptId": 10012306,
     "name": "Fill The Cup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA25633_00-0707508289131185",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA25639_00",
