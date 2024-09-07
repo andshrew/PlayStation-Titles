@@ -35050,8 +35050,8 @@
   {
     "titleId": "PPSA08262_00",
     "conceptId": 10005323,
-    "name": "Star Wars Outlaws",
-    "contentId": null,
+    "name": "\u30b9\u30bf\u30fc\u30fb\u30a6\u30a9\u30fc\u30ba \u7121\u6cd5\u8005\u305f\u3061",
+    "contentId": "JP0001-PPSA08262_00-GAME000000000000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -60336,6 +60336,14 @@
     "publisherId": "HP7617"
   },
   {
+    "titleId": "PPSA14027_00",
+    "conceptId": 10005529,
+    "name": "SILENT HILL 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14028_00",
     "conceptId": 10005529,
     "name": "SILENT HILL 2",
@@ -74392,6 +74400,14 @@
     "publisherId": "EP1555"
   },
   {
+    "titleId": "PPSA17419_00",
+    "conceptId": 10008585,
+    "name": "MONOPOLY\u00ae",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17422_00",
     "conceptId": 10008790,
     "name": "Expeditions: A Mudrunner Game",
@@ -82280,6 +82296,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19338_00",
+    "conceptId": 10009491,
+    "name": "MindSeize",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19340_00",
     "conceptId": 10009259,
     "name": "The Jumping Food Memory - DEMO",
@@ -84078,6 +84102,14 @@
     "contentId": "UP0190-PPSA19757_00-0665448538356919",
     "region": "UP",
     "publisherId": "UP0190"
+  },
+  {
+    "titleId": "PPSA19758_00",
+    "conceptId": 10009656,
+    "name": "\u30ec\u30c3\u30c4\u30d7\u30ec\u30a4\uff01\u30aa\u30a4\u30f3\u30af\u30b2\u30fc\u30e0\u30ba",
+    "contentId": "JP7197-PPSA19758_00-0256883583705507",
+    "region": "JP",
+    "publisherId": "JP7197"
   },
   {
     "titleId": "PPSA19762_00",
@@ -86592,6 +86624,14 @@
     "publisherId": "EP5026"
   },
   {
+    "titleId": "PPSA20372_00",
+    "conceptId": 10009899,
+    "name": "Cosmic Paradox: Noire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20373_00",
     "conceptId": 10009899,
     "name": "Cosmic Paradox: Noire",
@@ -86782,6 +86822,14 @@
     "contentId": "EB0629-PPSA20415_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA20416_00",
+    "conceptId": 10009656,
+    "name": "Let's Play! Oink Games",
+    "contentId": "UP7225-PPSA20416_00-0615607020075164",
+    "region": "UP",
+    "publisherId": "UP7225"
   },
   {
     "titleId": "PPSA20419_00",
@@ -87283,17 +87331,17 @@
     "titleId": "PPSA20526_00",
     "conceptId": 10009977,
     "name": "Son and Bone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5503-PPSA20526_00-0686911898978764",
+    "region": "UP",
+    "publisherId": "UP5503"
   },
   {
     "titleId": "PPSA20527_00",
     "conceptId": 10009977,
     "name": "Son and Bone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5684-PPSA20527_00-0511269297220205",
+    "region": "EP",
+    "publisherId": "EP5684"
   },
   {
     "titleId": "PPSA20529_00",
@@ -89440,6 +89488,14 @@
     "publisherId": "JP6412"
   },
   {
+    "titleId": "PPSA21116_00",
+    "conceptId": 10010193,
+    "name": "63 Days",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21120_00",
     "conceptId": 10010231,
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition",
@@ -90488,6 +90544,22 @@
     "publisherId": "EP5335"
   },
   {
+    "titleId": "PPSA21416_00",
+    "conceptId": 231987,
+    "name": "Path Of Exile",
+    "contentId": "UP4781-PPSA21416_00-GGGPS5GAMEFULL01",
+    "region": "UP",
+    "publisherId": "UP4781"
+  },
+  {
+    "titleId": "PPSA21417_00",
+    "conceptId": 231987,
+    "name": "Path of Exile",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21422_00",
     "conceptId": 10004289,
     "name": "UFL (F2P) Starter Pack",
@@ -90923,7 +90995,7 @@
     "titleId": "PPSA21564_00",
     "conceptId": 10002684,
     "name": "ASTRO BOT",
-    "contentId": null,
+    "contentId": "UP9000-PPSA21564_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -90931,7 +91003,7 @@
     "titleId": "PPSA21567_00",
     "conceptId": 10002684,
     "name": "ASTRO BOT",
-    "contentId": null,
+    "contentId": "EP9000-PPSA21567_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -90939,7 +91011,7 @@
     "titleId": "PPSA21568_00",
     "conceptId": 10002684,
     "name": "ASTRO BOT",
-    "contentId": null,
+    "contentId": "HP9000-PPSA21568_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP9000"
   },
@@ -91907,9 +91979,9 @@
     "titleId": "PPSA21806_00",
     "conceptId": 10010419,
     "name": "Girl Genius: Adventures In Castle Heterodyne",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4513-PPSA21806_00-0369772552341882",
+    "region": "EP",
+    "publisherId": "EP4513"
   },
   {
     "titleId": "PPSA21808_00",
@@ -91942,6 +92014,14 @@
     "contentId": "UP1643-PPSA21814_00-GREED2FEXJDPS5US",
     "region": "UP",
     "publisherId": "UP1643"
+  },
+  {
+    "titleId": "PPSA21821_00",
+    "conceptId": 10010512,
+    "name": "The Jackbox Naughty Pack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21826_00",
@@ -92523,9 +92603,9 @@
     "titleId": "PPSA22000_00",
     "conceptId": 10010588,
     "name": "Ship Graveyard Simulator 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5805-PPSA22000_00-0016064972222521",
+    "region": "UP",
+    "publisherId": "UP5805"
   },
   {
     "titleId": "PPSA22006_00",
@@ -93334,6 +93414,14 @@
     "contentId": "EB0467-PPSA22204_00-0139309998110926",
     "region": "EB",
     "publisherId": "EB0467"
+  },
+  {
+    "titleId": "PPSA22214_00",
+    "conceptId": 10010607,
+    "name": "Exographer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22223_00",
@@ -94968,6 +95056,14 @@
     "publisherId": "EP7994"
   },
   {
+    "titleId": "PPSA22692_00",
+    "conceptId": 10009684,
+    "name": "Paladin's Passage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22697_00",
     "conceptId": 10010746,
     "name": "Crypt Custodian Demo",
@@ -95003,9 +95099,9 @@
     "titleId": "PPSA22703_00",
     "conceptId": 10010850,
     "name": "SUNSOFT is Back! Retro Game Selection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5098-PPSA22703_00-0741388558666457",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA22717_00",
@@ -96098,10 +96194,18 @@
   {
     "titleId": "PPSA23127_00",
     "conceptId": 10011033,
-    "name": "Deathtrap Dungeon: The Interactive Video Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Deathtrap Dungeon: The Interactive Video Game",
+    "contentId": "EP4796-PPSA23127_00-0680126787744572",
+    "region": "EP",
+    "publisherId": "EP4796"
+  },
+  {
+    "titleId": "PPSA23128_00",
+    "conceptId": 10011033,
+    "name": "Deathtrap Dungeon: The Interactive Video Game",
+    "contentId": "UP4624-PPSA23128_00-0890047077908652",
+    "region": "UP",
+    "publisherId": "UP4624"
   },
   {
     "titleId": "PPSA23130_00",
@@ -97811,17 +97915,17 @@
     "titleId": "PPSA23673_00",
     "conceptId": 10011316,
     "name": "Chimp Test",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA23673_00-0392779134104337",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA23674_00",
     "conceptId": 10011316,
     "name": "Chimp Test",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA23674_00-0393841798205154",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA23685_00",
@@ -98547,9 +98651,9 @@
     "titleId": "PPSA23910_00",
     "conceptId": 10010500,
     "name": "Antstream Arcade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8246-PPSA23910_00-0922590386555607",
+    "region": "UP",
+    "publisherId": "UP8246"
   },
   {
     "titleId": "PPSA23911_00",
@@ -100368,6 +100472,22 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24499_00",
+    "conceptId": 10008024,
+    "name": "Die Again",
+    "contentId": "EP3729-PPSA24499_00-0DIEAGAINDEMOPS5",
+    "region": "EP",
+    "publisherId": "EP3729"
+  },
+  {
+    "titleId": "PPSA24500_00",
+    "conceptId": 10008024,
+    "name": "Die Again",
+    "contentId": "UP3876-PPSA24500_00-0DIEAGAINDEMOPS5",
+    "region": "UP",
+    "publisherId": "UP3876"
+  },
+  {
     "titleId": "PPSA24501_00",
     "conceptId": 10008024,
     "name": "Die Again",
@@ -100526,6 +100646,22 @@
     "contentId": "JP8361-PPSA24569_00-0356293129047812",
     "region": "JP",
     "publisherId": "JP8361"
+  },
+  {
+    "titleId": "PPSA24574_00",
+    "conceptId": 10002965,
+    "name": "Space Explore VR Demo",
+    "contentId": "EP8934-PPSA24574_00-0929701531130643",
+    "region": "EP",
+    "publisherId": "EP8934"
+  },
+  {
+    "titleId": "PPSA24575_00",
+    "conceptId": 10002965,
+    "name": "Space Explore VR Demo",
+    "contentId": "UP3362-PPSA24575_00-0825296248826635",
+    "region": "UP",
+    "publisherId": "UP3362"
   },
   {
     "titleId": "PPSA24576_00",
@@ -101512,6 +101648,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA25278_00",
+    "conceptId": 10012125,
+    "name": "1-2-Whopping Word Search!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25303_00",
     "conceptId": 10011924,
     "name": "Night of the Dead Simulator",
@@ -101800,6 +101944,22 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA25626_00",
+    "conceptId": 10012305,
+    "name": "Rooftop Rascal: The Drizzle Cat",
+    "contentId": "EB0933-PPSA25626_00-0860055580542061",
+    "region": "EB",
+    "publisherId": "EB0933"
+  },
+  {
+    "titleId": "PPSA25627_00",
+    "conceptId": 10012305,
+    "name": "Rooftop Rascal: The Drizzle Cat",
+    "contentId": "UB0738-PPSA25627_00-0173997594148317",
+    "region": "UB",
+    "publisherId": "UB0738"
+  },
+  {
     "titleId": "PPSA25628_00",
     "conceptId": 10012305,
     "name": "Rooftop Rascal: The Drizzle Cat",
@@ -101811,9 +101971,9 @@
     "titleId": "PPSA25629_00",
     "conceptId": 10012305,
     "name": "Rooftop Rascal: The Drizzle Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0738-PPSA25629_00-0895666376103700",
+    "region": "UB",
+    "publisherId": "UB0738"
   },
   {
     "titleId": "PPSA25630_00",
