@@ -8579,9 +8579,9 @@
     "titleId": "PPSA03202_00",
     "conceptId": 10002560,
     "name": "Classic Racers Elite",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4358-PPSA03202_00-CLASSICRACERSEU5",
+    "region": "EP",
+    "publisherId": "EP4358"
   },
   {
     "titleId": "PPSA03203_00",
@@ -17342,6 +17342,14 @@
     "contentId": "UP6965-PPSA04958_00-ROKI000000000000",
     "region": "UP",
     "publisherId": "UP6965"
+  },
+  {
+    "titleId": "PPSA04962_00",
+    "conceptId": 10003642,
+    "name": "Skydance's BEHEMOTH",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2533"
   },
   {
     "titleId": "PPSA04967_00",
@@ -77536,6 +77544,14 @@
     "publisherId": "JP7583"
   },
   {
+    "titleId": "PPSA18191_00",
+    "conceptId": 10009076,
+    "name": "Hot Wheels Monster Trucks: Stunt Mayhem\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18201_00",
     "conceptId": 10009077,
     "name": "Stilt",
@@ -77550,6 +77566,14 @@
     "contentId": "EP5279-PPSA18202_00-XXXXXXXXXXXXXXXX",
     "region": "EP",
     "publisherId": "EP5279"
+  },
+  {
+    "titleId": "PPSA18207_00",
+    "conceptId": 10009078,
+    "name": "Bloomtown: A Different Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18208_00",
@@ -83523,9 +83547,9 @@
     "titleId": "PPSA19608_00",
     "conceptId": 10009601,
     "name": "Perennial Order",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4541-PPSA19608_00-PERENNIALORDEREU",
+    "region": "EP",
+    "publisherId": "EP4541"
   },
   {
     "titleId": "PPSA19609_00",
@@ -85912,6 +85936,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20204_00",
+    "conceptId": 10009822,
+    "name": "Garden Witch Life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20209_00",
     "conceptId": 10009830,
     "name": "Dream Bakery",
@@ -86830,6 +86862,14 @@
     "contentId": "UP7225-PPSA20416_00-0615607020075164",
     "region": "UP",
     "publisherId": "UP7225"
+  },
+  {
+    "titleId": "PPSA20417_00",
+    "conceptId": 10009656,
+    "name": "Let's Play! Oink Games",
+    "contentId": "EP7222-PPSA20417_00-0645459621330008",
+    "region": "EP",
+    "publisherId": "EP7222"
   },
   {
     "titleId": "PPSA20419_00",
@@ -91216,6 +91256,22 @@
     "publisherId": "HP0874"
   },
   {
+    "titleId": "PPSA21624_00",
+    "conceptId": 10010434,
+    "name": "A hole new World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21625_00",
+    "conceptId": 10010434,
+    "name": "A hole new World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21626_00",
     "conceptId": 10010435,
     "name": "In Celebration of Violence",
@@ -92595,9 +92651,9 @@
     "titleId": "PPSA21999_00",
     "conceptId": 10010588,
     "name": "Ship Graveyard Simulator 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA21999_00-0019917856764833",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA22000_00",
@@ -98851,17 +98907,33 @@
     "titleId": "PPSA23964_00",
     "conceptId": 10011476,
     "name": "Crasho Cars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23964_00-0256672652472248",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23965_00",
     "conceptId": 10011476,
     "name": "Crasho Cars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA23965_00-0246340392900608",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23966_00",
+    "conceptId": 10011476,
+    "name": "Crasho Cars",
+    "contentId": "UP7668-PPSA23966_00-0423313891183341",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23967_00",
+    "conceptId": 10011476,
+    "name": "Crasho Cars",
+    "contentId": "UP7668-PPSA23967_00-0232495037911784",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA23968_00",
@@ -101656,6 +101728,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25279_00",
+    "conceptId": 10012125,
+    "name": "1-2-Whopping Word Search!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25303_00",
     "conceptId": 10011924,
     "name": "Night of the Dead Simulator",
@@ -101856,6 +101936,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25528_00",
+    "conceptId": 10008869,
+    "name": "Faaast Penguin Demo",
+    "contentId": "JP2953-PPSA25528_00-0951901002222381",
+    "region": "JP",
+    "publisherId": "JP2953"
+  },
+  {
     "titleId": "PPSA25529_00",
     "conceptId": 10011848,
     "name": "Operation Bodycam",
@@ -102014,5 +102102,21 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA25640_00",
+    "conceptId": 10012312,
+    "name": "Pixicharm - Fruboom",
+    "contentId": "EP1612-PPSA25640_00-PIXICHARMFRUBOOM",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA25641_00",
+    "conceptId": 10012312,
+    "name": "Pixicharm - Fruboom",
+    "contentId": "EP1612-PPSA25641_00-PIXICHARMFRUBOOM",
+    "region": "EP",
+    "publisherId": "EP1612"
   }
 ]
