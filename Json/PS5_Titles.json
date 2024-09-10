@@ -8587,9 +8587,9 @@
     "titleId": "PPSA03203_00",
     "conceptId": 10002560,
     "name": "Classic Racers Elite",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3515-PPSA03203_00-CLASSICRACERSUS5",
+    "region": "UP",
+    "publisherId": "UP3515"
   },
   {
     "titleId": "PPSA03208_00",
@@ -82696,6 +82696,14 @@
     "publisherId": "HP5846"
   },
   {
+    "titleId": "PPSA19407_00",
+    "conceptId": 10009314,
+    "name": "Cat Rescue Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19410_00",
     "conceptId": 10009288,
     "name": "Sky Roll!",
@@ -83555,9 +83563,9 @@
     "titleId": "PPSA19609_00",
     "conceptId": 10009601,
     "name": "Perennial Order",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1470-PPSA19609_00-PERENNIALORDERUS",
+    "region": "UP",
+    "publisherId": "UP1470"
   },
   {
     "titleId": "PPSA19610_00",
@@ -90536,6 +90544,14 @@
     "publisherId": "EP4293"
   },
   {
+    "titleId": "PPSA21407_00",
+    "conceptId": 10010336,
+    "name": "Tau Cubis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21409_00",
     "conceptId": 233666,
     "name": "Annihilation",
@@ -92158,6 +92174,14 @@
     "contentId": "EP8786-PPSA21842_00-0561667761275020",
     "region": "EP",
     "publisherId": "EP8786"
+  },
+  {
+    "titleId": "PPSA21848_00",
+    "conceptId": 10010521,
+    "name": "Shadows of Doubt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21850_00",
@@ -98464,6 +98488,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA23846_00",
+    "conceptId": 10011421,
+    "name": "Totally Spies! - Cyber Mission",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23847_00",
     "conceptId": 10011401,
     "name": "Timesplitters Future Perfect",
@@ -101700,6 +101732,38 @@
     "conceptId": 10012042,
     "name": "Fable Mosaic: Little Red Riding Hood",
     "contentId": "EP1411-PPSA25103_00-0204263054742594",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25108_00",
+    "conceptId": 10012044,
+    "name": "Fable Mosaic: Snow White and the Seven Dwarfs",
+    "contentId": "EP1411-PPSA25108_00-0112970892572110",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25109_00",
+    "conceptId": 10012044,
+    "name": "Fable Mosaic: Snow White and the Seven Dwarfs",
+    "contentId": "EP1411-PPSA25109_00-0206527687802519",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25110_00",
+    "conceptId": 10012044,
+    "name": "Fable Mosaic: Snow White and the Seven Dwarfs",
+    "contentId": "EP1411-PPSA25110_00-0873532339610005",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25111_00",
+    "conceptId": 10012044,
+    "name": "Fable Mosaic: Snow White and the Seven Dwarfs",
+    "contentId": "EP1411-PPSA25111_00-0086909811579721",
     "region": "EP",
     "publisherId": "EP1411"
   },
