@@ -76800,6 +76800,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA18001_00",
+    "conceptId": 10009016,
+    "name": "Heavy Cargo - The Truck Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18003_00",
     "conceptId": 10007130,
     "name": "Ghostbusters: Rise of the Ghost Lord",
@@ -82995,7 +83003,7 @@
     "titleId": "PPSA19462_00",
     "conceptId": 10009549,
     "name": "Wild Bastards",
-    "contentId": null,
+    "contentId": "UP2080-PPSA19462_00-WILDBASTARDSXXXX",
     "region": "UP",
     "publisherId": "UP2080"
   },
@@ -83259,7 +83267,7 @@
     "titleId": "PPSA19544_00",
     "conceptId": 10009574,
     "name": "Fabledom",
-    "contentId": null,
+    "contentId": "EB0235-PPSA19544_00-FABLEDOMPS5SIEE0",
     "region": "EB",
     "publisherId": "EB0235"
   },
@@ -84874,10 +84882,10 @@
   {
     "titleId": "PPSA19932_00",
     "conceptId": 10009719,
-    "name": "Crossy Road Castle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crossy Road\u00ae Castle",
+    "contentId": "EB0224-PPSA19932_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0224"
   },
   {
     "titleId": "PPSA19936_00",
@@ -85774,6 +85782,14 @@
     "contentId": "JP5432-PPSA20136_00-0870264602906109",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA20141_00",
+    "conceptId": 10009799,
+    "name": "Survival: Fountain of Youth - Captain's Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20142_00",
@@ -88928,6 +88944,14 @@
     "publisherId": "EP7099"
   },
   {
+    "titleId": "PPSA20939_00",
+    "conceptId": 10010145,
+    "name": "Potionomics: Masterwork Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20940_00",
     "conceptId": 10004929,
     "name": "Time Rift",
@@ -90792,6 +90816,14 @@
     "publisherId": "UP1003"
   },
   {
+    "titleId": "PPSA21455_00",
+    "conceptId": 10010227,
+    "name": "Crimen - Mercenary Tales",
+    "contentId": "UP3291-PPSA21455_00-0009811648811321",
+    "region": "UP",
+    "publisherId": "UP3291"
+  },
+  {
     "titleId": "PPSA21456_00",
     "conceptId": 10010361,
     "name": "Empty Shell",
@@ -90822,6 +90854,14 @@
     "contentId": "UP1475-PPSA21459_00-SMURFSPARTYPS5US",
     "region": "UP",
     "publisherId": "UP1475"
+  },
+  {
+    "titleId": "PPSA21462_00",
+    "conceptId": 10010227,
+    "name": "Crimen - Mercenary Tales",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21463_00",
@@ -91883,9 +91923,9 @@
     "titleId": "PPSA21721_00",
     "conceptId": 10010042,
     "name": "Unholy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7608-PPSA21721_00-0621573960951978",
+    "region": "EP",
+    "publisherId": "EP7608"
   },
   {
     "titleId": "PPSA21722_00",
@@ -91966,6 +92006,14 @@
     "contentId": "HP5846-PPSA21759_00-YSMEMOIRFELGHANA",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA21767_00",
+    "conceptId": 10010026,
+    "name": "The House of Da Vinci 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21768_00",
@@ -92379,9 +92427,9 @@
     "titleId": "PPSA21891_00",
     "conceptId": 10010538,
     "name": "Caravan SandWitch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0045-PPSA21891_00-CARAVANSANDWITCH",
+    "region": "UB",
+    "publisherId": "UB0045"
   },
   {
     "titleId": "PPSA21898_00",
@@ -95920,6 +95968,14 @@
     "publisherId": "HP8613"
   },
   {
+    "titleId": "PPSA22915_00",
+    "conceptId": 10010885,
+    "name": "SekimorigamiSaien",
+    "contentId": "JB0574-PPSA22915_00-0927982866436471",
+    "region": "JB",
+    "publisherId": "JB0574"
+  },
+  {
     "titleId": "PPSA22925_00",
     "conceptId": 10010501,
     "name": "EzQuiz",
@@ -95966,6 +96022,14 @@
     "contentId": "EP1549-PPSA22935_00-0691769472998398",
     "region": "EP",
     "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA22940_00",
+    "conceptId": 10010946,
+    "name": "Aerial_Knight's We Never Yield",
+    "contentId": "EP0822-PPSA22940_00-WENEVERYIELDPS5E",
+    "region": "EP",
+    "publisherId": "EP0822"
   },
   {
     "titleId": "PPSA22949_00",
@@ -96195,9 +96259,9 @@
     "titleId": "PPSA23044_00",
     "conceptId": 10010983,
     "name": "Snow Scout",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0382-PPSA23044_00-0560116075068378",
+    "region": "UB",
+    "publisherId": "UB0382"
   },
   {
     "titleId": "PPSA23047_00",
@@ -96278,6 +96342,14 @@
     "contentId": "EP8923-PPSA23093_00-RACHELFOSTERPS5V",
     "region": "EP",
     "publisherId": "EP8923"
+  },
+  {
+    "titleId": "PPSA23094_00",
+    "conceptId": 10000421,
+    "name": "The Suicide Of Rachel Foster",
+    "contentId": "UP1440-PPSA23094_00-RACHELFOSTERPS5V",
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA23100_00",
@@ -98123,9 +98195,9 @@
     "titleId": "PPSA23669_00",
     "conceptId": 10011313,
     "name": "The Line",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA23669_00-0406650351326094",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA23673_00",
@@ -99051,12 +99123,28 @@
     "titleId": "PPSA23952_00",
     "conceptId": 10011470,
     "name": "Deep Beyond",
+    "contentId": "UB0946-PPSA23952_00-DEEPBEYOND000PS5",
+    "region": "UB",
+    "publisherId": "UB0946"
+  },
+  {
+    "titleId": "PPSA23957_00",
+    "conceptId": 10011383,
+    "name": "Cricket: Jae's Really Peculiar Game",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA23957_00",
+    "titleId": "PPSA23958_00",
+    "conceptId": 10011383,
+    "name": "Cricket: Jae's Really Peculiar Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23959_00",
     "conceptId": 10011383,
     "name": "Cricket: Jae's Really Peculiar Game",
     "contentId": null,
@@ -99366,6 +99454,22 @@
     "contentId": "HP4312-PPSA24035_00-0889464368712596",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA24036_00",
+    "conceptId": 10005046,
+    "name": "REYNATIS DEMO VERSION",
+    "contentId": "UP1063-PPSA24036_00-DEMOPS5000000000",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
+    "titleId": "PPSA24037_00",
+    "conceptId": 10005046,
+    "name": "REYNATIS DEMO VERSION",
+    "contentId": "EP1063-PPSA24037_00-DEMOPS5000000000",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA24041_00",
@@ -101240,6 +101344,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24739_00",
+    "conceptId": 10006212,
+    "name": "Evotinction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24740_00",
     "conceptId": 10006212,
     "name": "Evotinction",
@@ -101611,9 +101723,9 @@
     "titleId": "PPSA24879_00",
     "conceptId": 10005235,
     "name": "WW2: Bunker Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7375-PPSA24879_00-0368175179737928",
+    "region": "UP",
+    "publisherId": "UP7375"
   },
   {
     "titleId": "PPSA24880_00",
@@ -101731,41 +101843,41 @@
     "titleId": "PPSA24928_00",
     "conceptId": 10011960,
     "name": "Cazzarion: Treasure Diver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA24928_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA24957_00",
     "conceptId": 10011984,
-    "name": "The Jumping Ice Cube - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Ice Cube",
+    "contentId": "EP6664-PPSA24957_00-0768806854668239",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA24958_00",
     "conceptId": 10011984,
-    "name": "The Jumping Ice Cube - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Ice Cube",
+    "contentId": "UP6664-PPSA24958_00-0616694803756845",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA24959_00",
     "conceptId": 10011984,
-    "name": "The Jumping Ice Cube - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Ice Cube",
+    "contentId": "JP6595-PPSA24959_00-0971915066546798",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA24960_00",
     "conceptId": 10011984,
-    "name": "The Jumping Ice Cube - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Ice Cube",
+    "contentId": "HP6661-PPSA24960_00-0548937733498036",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA24965_00",
@@ -101835,9 +101947,9 @@
     "titleId": "PPSA24983_00",
     "conceptId": 10011996,
     "name": "Boys Race",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA24983_00-0629581868140507",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA24985_00",
@@ -101890,18 +102002,18 @@
   {
     "titleId": "PPSA25007_00",
     "conceptId": 10009287,
-    "name": "Edge of Sanity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Edge of Sanity Artbook",
+    "contentId": "EP8923-PPSA25007_00-EOSARTBOOKPS5000",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA25008_00",
     "conceptId": 10009287,
-    "name": "Edge of Sanity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Edge of Sanity Soundtrack",
+    "contentId": "EP8923-PPSA25008_00-EOSSOUNDTRACKPS5",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA25031_00",
@@ -101915,6 +102027,14 @@
     "titleId": "PPSA25042_00",
     "conceptId": 10008083,
     "name": "The Utility Room",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25043_00",
+    "conceptId": 10001850,
+    "name": "God of War Ragnar\u00f6k",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -102608,6 +102728,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25738_00",
+    "conceptId": 10012388,
+    "name": "Save The Doge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25739_00",
     "conceptId": 10012388,
     "name": "Save The Doge",
@@ -102632,6 +102760,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25742_00",
+    "conceptId": 10012389,
+    "name": "Dunk Trickster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25743_00",
     "conceptId": 10012389,
     "name": "Dunk Trickster",
@@ -102648,12 +102784,20 @@
     "publisherId": null
   },
   {
-    "titleId": "PPSA25746_00",
-    "conceptId": 10012254,
-    "name": "Shmoupity Shmoup",
+    "titleId": "PPSA25745_00",
+    "conceptId": 10012389,
+    "name": "Dunk Trickster",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA25746_00",
+    "conceptId": 10012254,
+    "name": "Shmoupity Shmoup",
+    "contentId": "UB0908-PPSA25746_00-0958261034423190",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA25747_00",
