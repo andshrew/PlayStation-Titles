@@ -33680,6 +33680,14 @@
     "publisherId": "JP0082"
   },
   {
+    "titleId": "PPSA08031_00",
+    "conceptId": 10005224,
+    "name": "Between Horizons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08033_00",
     "conceptId": 10005250,
     "name": "Monster Hunter Rise",
@@ -48034,10 +48042,10 @@
   {
     "titleId": "PPSA10415_00",
     "conceptId": 10006212,
-    "name": "Evotinction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EVOTINCTION",
+    "contentId": "UP3589-PPSA10415_00-4950124515607797",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA10416_00",
@@ -56434,10 +56442,10 @@
   {
     "titleId": "PPSA13240_00",
     "conceptId": 10006212,
-    "name": "Evotinction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EVOTINCTION",
+    "contentId": "JP3631-PPSA13240_00-0516323371410434",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA13247_00",
@@ -83720,6 +83728,14 @@
     "publisherId": "EP5335"
   },
   {
+    "titleId": "PPSA19633_00",
+    "conceptId": 10009610,
+    "name": "Planet Coaster 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2377"
+  },
+  {
     "titleId": "PPSA19635_00",
     "conceptId": 10009611,
     "name": "Submarines",
@@ -90859,9 +90875,9 @@
     "titleId": "PPSA21462_00",
     "conceptId": 10010227,
     "name": "Crimen - Mercenary Tales",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3151-PPSA21462_00-0035088265454706",
+    "region": "EP",
+    "publisherId": "EP3151"
   },
   {
     "titleId": "PPSA21463_00",
@@ -91408,6 +91424,14 @@
     "publisherId": "EP6468"
   },
   {
+    "titleId": "PPSA21631_00",
+    "conceptId": 10010437,
+    "name": "Poppy Playtime: Chapter 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21632_00",
     "conceptId": 10000392,
     "name": "Reed 2",
@@ -91915,9 +91939,9 @@
     "titleId": "PPSA21720_00",
     "conceptId": 10010042,
     "name": "Unholy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7610-PPSA21720_00-0319726599762543",
+    "region": "UP",
+    "publisherId": "UP7610"
   },
   {
     "titleId": "PPSA21721_00",
@@ -94070,6 +94094,14 @@
     "contentId": "UP8339-PPSA22379_00-0976996144231294",
     "region": "UP",
     "publisherId": "UP8339"
+  },
+  {
+    "titleId": "PPSA22380_00",
+    "conceptId": 10010722,
+    "name": "Poppy Playtime: Chapter 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22381_00",
@@ -98187,9 +98219,9 @@
     "titleId": "PPSA23668_00",
     "conceptId": 10011313,
     "name": "The Line",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA23668_00-0368498832226878",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA23669_00",
@@ -98606,6 +98638,14 @@
     "contentId": "UP5682-PPSA23823_00-0675078879036948",
     "region": "UP",
     "publisherId": "UP5682"
+  },
+  {
+    "titleId": "PPSA23832_00",
+    "conceptId": 10011419,
+    "name": "Cryptmaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23834_00",
@@ -100198,6 +100238,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24311_00",
+    "conceptId": 10011661,
+    "name": "Bubble Aim",
+    "contentId": "UP7668-PPSA24311_00-0900733135481808",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24312_00",
+    "conceptId": 10011661,
+    "name": "Bubble Aim",
+    "contentId": "UP7668-PPSA24312_00-0065740249070207",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24313_00",
+    "conceptId": 10011661,
+    "name": "Bubble Aim",
+    "contentId": "UP7668-PPSA24313_00-0289124621912726",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24314_00",
+    "conceptId": 10011661,
+    "name": "Bubble Aim",
+    "contentId": "UP7668-PPSA24314_00-0332716477656210",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA24315_00",
@@ -101835,9 +101907,9 @@
     "titleId": "PPSA24927_00",
     "conceptId": 10011960,
     "name": "Cazzarion: Treasure Diver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0377-PPSA24927_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
   },
   {
     "titleId": "PPSA24928_00",
@@ -102040,6 +102112,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25044_00",
+    "conceptId": 10001850,
+    "name": "God of War Ragnar\u00f6k",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25052_00",
     "conceptId": 10012028,
     "name": "Perfect Klondike Solitaire",
@@ -102232,6 +102312,14 @@
     "publisherId": "EP4538"
   },
   {
+    "titleId": "PPSA25179_00",
+    "conceptId": 10008826,
+    "name": "Enotria: The Last Song",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25197_00",
     "conceptId": 10012086,
     "name": "DaylightDread",
@@ -102299,33 +102387,33 @@
     "titleId": "PPSA25329_00",
     "conceptId": 10012141,
     "name": "Flippy Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25329_00-0300164150368522",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25330_00",
     "conceptId": 10012141,
     "name": "Flippy Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25330_00-0199022997208788",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25331_00",
     "conceptId": 10012141,
     "name": "Flippy Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25331_00-0781946759632361",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25332_00",
     "conceptId": 10012141,
     "name": "Flippy Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25332_00-0306450246151430",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25333_00",
@@ -102600,6 +102688,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25604_00",
+    "conceptId": 10012289,
+    "name": "PAWS & CLEAN",
+    "contentId": "UB0796-PPSA25604_00-0454595303358429",
+    "region": "UB",
+    "publisherId": "UB0796"
+  },
+  {
     "titleId": "PPSA25608_00",
     "conceptId": 10011711,
     "name": "A Bibelot: Prototo",
@@ -102803,25 +102899,25 @@
     "titleId": "PPSA25747_00",
     "conceptId": 10012254,
     "name": "Shmoupity Shmoup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA25747_00-0083579089639501",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA25748_00",
     "conceptId": 10012254,
     "name": "Shmoupity Shmoup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA25748_00-0182462688389754",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA25750_00",
     "conceptId": 10012254,
     "name": "Shmoupity Shmoup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA25750_00-0551758963736188",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA25752_00",
