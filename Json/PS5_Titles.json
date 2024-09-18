@@ -25696,6 +25696,14 @@
     "publisherId": "EP6138"
   },
   {
+    "titleId": "PPSA06544_00",
+    "conceptId": 10002149,
+    "name": "Katana Kata",
+    "contentId": "UP6139-PPSA06544_00-8714400477432109",
+    "region": "UP",
+    "publisherId": "UP6139"
+  },
+  {
     "titleId": "PPSA06547_00",
     "conceptId": 10004493,
     "name": "DrumBox",
@@ -50347,9 +50355,9 @@
     "titleId": "PPSA10823_00",
     "conceptId": 225261,
     "name": "Nubla 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA10823_00-1239813268576195",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA10824_00",
@@ -61998,6 +62006,14 @@
     "contentId": "HP7967-PPSA14318_00-0098557181275796",
     "region": "HP",
     "publisherId": "HP7967"
+  },
+  {
+    "titleId": "PPSA14319_00",
+    "conceptId": 10007598,
+    "name": "Secret Agent Clank",
+    "contentId": "UP9000-PPSA14319_00-UCUS986970000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA14325_00",
@@ -77168,6 +77184,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18092_00",
+    "conceptId": 10009033,
+    "name": "Monster High\u2122 Skulltimate Secrets\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18093_00",
+    "conceptId": 10009033,
+    "name": "Monster High\u2122 Skulltimate Secrets\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18094_00",
     "conceptId": 10009047,
     "name": "Geometric Sniper Z",
@@ -87992,6 +88024,14 @@
     "publisherId": "UP2148"
   },
   {
+    "titleId": "PPSA20649_00",
+    "conceptId": 10010035,
+    "name": "Super XYX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20651_00",
     "conceptId": 10010034,
     "name": "The Star Named EOS",
@@ -90899,6 +90939,14 @@
     "titleId": "PPSA21463_00",
     "conceptId": 10004947,
     "name": "New World: Aeternum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21480_00",
+    "conceptId": 10008760,
+    "name": "Broken Sword - Shadow of the Templars: Reforged",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -93891,9 +93939,9 @@
     "titleId": "PPSA22291_00",
     "conceptId": 10010694,
     "name": "A Night on the Farm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA22291_00-ANIGHTONTHEFARM0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA22292_00",
@@ -94907,7 +94955,7 @@
     "titleId": "PPSA22583_00",
     "conceptId": 10010798,
     "name": "World of Outlaws: Dirt Racing 24",
-    "contentId": null,
+    "contentId": "UP1456-PPSA22583_00-WOO2024BASEPS5US",
     "region": "UP",
     "publisherId": "UP1456"
   },
@@ -95062,6 +95110,14 @@
     "contentId": "EP6665-PPSA22633_00-TDUSCBETA0000000",
     "region": "EP",
     "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA22636_00",
+    "conceptId": 10009896,
+    "name": "The Bridge Curse 2: The Extrication",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22637_00",
@@ -96078,6 +96134,14 @@
     "contentId": "EP0822-PPSA22940_00-WENEVERYIELDPS5E",
     "region": "EP",
     "publisherId": "EP0822"
+  },
+  {
+    "titleId": "PPSA22948_00",
+    "conceptId": 10010951,
+    "name": "Mr Moskeeto",
+    "contentId": "UP9000-PPSA22948_00-SLUS203750000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA22949_00",
@@ -97824,6 +97888,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA23535_00",
+    "conceptId": 10011230,
+    "name": "SkyGunner",
+    "contentId": "UP9000-PPSA23535_00-SLUS203840000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA23537_00",
     "conceptId": 10011200,
     "name": "Goblins",
@@ -98624,12 +98696,44 @@
     "publisherId": "HP7683"
   },
   {
+    "titleId": "PPSA23806_00",
+    "conceptId": 231670,
+    "name": "Darksiders II Deathinitive Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
+    "titleId": "PPSA23807_00",
+    "conceptId": 231670,
+    "name": "Darksiders II Deathinitive Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4389"
+  },
+  {
+    "titleId": "PPSA23808_00",
+    "conceptId": 231670,
+    "name": "Darksiders II Deathinitive Edition",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2880"
+  },
+  {
     "titleId": "PPSA23811_00",
     "conceptId": 10011408,
     "name": "Honeyland",
     "contentId": "UP8511-PPSA23811_00-0578417928158975",
     "region": "UP",
     "publisherId": "UP8511"
+  },
+  {
+    "titleId": "PPSA23817_00",
+    "conceptId": 10011410,
+    "name": "Beyond Border",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23818_00",
@@ -99190,6 +99294,14 @@
     "contentId": "UP7578-PPSA23948_00-0274224845332461",
     "region": "UP",
     "publisherId": "UP7578"
+  },
+  {
+    "titleId": "PPSA23951_00",
+    "conceptId": 10011469,
+    "name": "Astrea: Six-Sided Oracles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23952_00",
@@ -101872,6 +101984,14 @@
     "publisherId": "HP7394"
   },
   {
+    "titleId": "PPSA24886_00",
+    "conceptId": 10011936,
+    "name": "Mimi the Cat: New Friends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24901_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY: Echo of Ada",
@@ -102424,6 +102544,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25207_00",
+    "conceptId": 10012096,
+    "name": "To the Moon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25238_00",
     "conceptId": 10009217,
     "name": "Dice Assassin",
@@ -102712,6 +102840,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25564_00",
+    "conceptId": 10011410,
+    "name": "Beyond Border",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25565_00",
+    "conceptId": 10011410,
+    "name": "Beyond Border",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25566_00",
+    "conceptId": 10011410,
+    "name": "Beyond Border",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25580_00",
     "conceptId": 10010944,
     "name": "\u5b8c\u86cb\uff01\u6211\u88ab\u7f8e\u5973\u5305\u56f4\u4e86\uff01\u4f53\u9a8c\u7248",
@@ -102832,6 +102984,14 @@
     "publisherId": "EP4476"
   },
   {
+    "titleId": "PPSA25619_00",
+    "conceptId": 231334,
+    "name": "Minefield",
+    "contentId": "UP2136-PPSA25619_00-0751492049267590",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
     "titleId": "PPSA25626_00",
     "conceptId": 10012305,
     "name": "Rooftop Rascal: The Drizzle Cat",
@@ -102926,6 +103086,14 @@
     "contentId": "EP1612-PPSA25641_00-PIXICHARMFRUBOOM",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA25647_00",
+    "conceptId": 10012316,
+    "name": "Skater's Solstice",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25676_00",
@@ -103064,25 +103232,57 @@
     "publisherId": "EP7577"
   },
   {
+    "titleId": "PPSA25776_00",
+    "conceptId": 10012411,
+    "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30d1\u30cb\u30c3\u30af",
+    "contentId": "UB0675-PPSA25776_00-0448055965227240",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
     "titleId": "PPSA25785_00",
     "conceptId": 10009217,
     "name": "Dice Assassin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA25785_00-DICEASS000000112",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA25786_00",
     "conceptId": 10009217,
     "name": "Dice Assassin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA25786_00-DICEASS000000114",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA25787_00",
     "conceptId": 10009217,
     "name": "Dice Assassin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25789_00",
+    "conceptId": 10011936,
+    "name": "Mimi the Cat: New Friends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25790_00",
+    "conceptId": 10011936,
+    "name": "Mimi the Cat: New Friends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25791_00",
+    "conceptId": 10011936,
+    "name": "Mimi the Cat: New Friends",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -103123,6 +103323,22 @@
     "titleId": "PPSA25877_00",
     "conceptId": 10012472,
     "name": "Pixicharm - Moo & Move",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25900_00",
+    "conceptId": 10010944,
+    "name": "\u3057\u307e\u3063\u305f!\u7f8e\u4eba\u306b\u56f2\u307e\u308c\u305f!Demo",
+    "contentId": "JP8361-PPSA25900_00-NIUPS5LIAADEMO03",
+    "region": "JP",
+    "publisherId": "JP8361"
+  },
+  {
+    "titleId": "PPSA26063_00",
+    "conceptId": 10012570,
+    "name": "Tiny Starfighters",
     "contentId": null,
     "region": null,
     "publisherId": null
