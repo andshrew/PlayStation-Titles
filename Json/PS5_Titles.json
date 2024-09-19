@@ -48050,10 +48050,10 @@
   {
     "titleId": "PPSA10414_00",
     "conceptId": 10006212,
-    "name": "Evotinction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EVOTINCTION",
+    "contentId": "EP3446-PPSA10414_00-8060928778109910",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA10415_00",
@@ -49275,9 +49275,9 @@
     "titleId": "PPSA10631_00",
     "conceptId": 230975,
     "name": "Nubla",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA10631_00-0454720625833702",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA10634_00",
@@ -60400,6 +60400,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14029_00",
+    "conceptId": 10005529,
+    "name": "SILENT HILL 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14030_00",
+    "conceptId": 10005529,
+    "name": "SILENT HILL 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14031_00",
     "conceptId": 10005287,
     "name": "RWBY \u30a2\u30ed\u30a6\u30d5\u30a7\u30eb",
@@ -64339,9 +64355,9 @@
     "titleId": "PPSA15319_00",
     "conceptId": 10007954,
     "name": "The Plucky Squire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3643-PPSA15319_00-PLUCKYSQUIRE0000",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA15328_00",
@@ -77176,6 +77192,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18090_00",
+    "conceptId": 10008971,
+    "name": "Off The Grid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18091_00",
     "conceptId": 10009034,
     "name": "Matchbox\u2122 Driving Adventures",
@@ -82938,10 +82962,10 @@
   {
     "titleId": "PPSA19436_00",
     "conceptId": 10004518,
-    "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SWORD ART ONLINE Fractured Daydream BETA TEST",
+    "contentId": "EP0700-PPSA19436_00-SWORDARTONLINE07",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA19437_00",
@@ -83270,6 +83294,14 @@
     "contentId": "JP0425-PPSA19526_00-YSMEMOIRFELGHANA",
     "region": "JP",
     "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA19532_00",
+    "conceptId": 10009567,
+    "name": "Ctrl Alt Ego",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19537_00",
@@ -86291,9 +86323,17 @@
     "titleId": "PPSA20260_00",
     "conceptId": 10009854,
     "name": "The Last Shot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA20260_00-SYPS5THELASTSHOT",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA20261_00",
+    "conceptId": 10009854,
+    "name": "The Last Shot",
+    "contentId": "HP1792-PPSA20261_00-SYPS5THELASTSHOT",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA20262_00",
@@ -90754,10 +90794,10 @@
   {
     "titleId": "PPSA21417_00",
     "conceptId": 231987,
-    "name": "Path of Exile",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Path Of Exile",
+    "contentId": "EP4956-PPSA21417_00-GGGPS5GAMEFULL01",
+    "region": "EP",
+    "publisherId": "EP4956"
   },
   {
     "titleId": "PPSA21422_00",
@@ -91584,6 +91624,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA21646_00",
+    "conceptId": 10008428,
+    "name": "Romancing SaGa 2: Revenge of the Seven Demo",
+    "contentId": "UP0082-PPSA21646_00-ROMASAGA2RDEMONA",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA21649_00",
     "conceptId": 10010442,
     "name": "Rebel Transmute",
@@ -92096,12 +92144,20 @@
     "publisherId": "HP5846"
   },
   {
+    "titleId": "PPSA21766_00",
+    "conceptId": 10010026,
+    "name": "The House of Da Vinci 3",
+    "contentId": "UP6169-PPSA21766_00-HOUSEOFDAVINCI03",
+    "region": "UP",
+    "publisherId": "UP6169"
+  },
+  {
     "titleId": "PPSA21767_00",
     "conceptId": 10010026,
     "name": "The House of Da Vinci 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6168-PPSA21767_00-HOUSEOFDAVINCI03",
+    "region": "EP",
+    "publisherId": "EP6168"
   },
   {
     "titleId": "PPSA21768_00",
@@ -93947,9 +94003,9 @@
     "titleId": "PPSA22292_00",
     "conceptId": 10010694,
     "name": "A Night on the Farm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA22292_00-ANIGHTONTHEFARM0",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA22293_00",
@@ -95110,6 +95166,14 @@
     "contentId": "EP6665-PPSA22633_00-TDUSCBETA0000000",
     "region": "EP",
     "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA22635_00",
+    "conceptId": 10009896,
+    "name": "The Bridge Curse 2: The Extrication",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22636_00",
@@ -97138,8 +97202,8 @@
   {
     "titleId": "PPSA23364_00",
     "conceptId": 10011130,
-    "name": "Train Sim World\u00ae 5: Standard Edition PS4 & PS5",
-    "contentId": null,
+    "name": "Train Sim World 5",
+    "contentId": "EP2866-PPSA23364_00-TRAINSIMWORLD5DG",
     "region": "EP",
     "publisherId": "EP2866"
   },
@@ -98179,9 +98243,9 @@
     "titleId": "PPSA23641_00",
     "conceptId": 10011301,
     "name": "Hidden Cats in Berlin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA23641_00-0420240954388914",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA23643_00",
@@ -99264,6 +99328,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA23938_00",
+    "conceptId": 10011460,
+    "name": "Faster than Bolt",
+    "contentId": "JP5432-PPSA23938_00-0446904290172362",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA23942_00",
     "conceptId": 10011462,
     "name": "Only Up Rush",
@@ -99438,6 +99510,14 @@
     "contentId": "HP4312-PPSA23973_00-0946477631824807",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA23982_00",
+    "conceptId": 10011059,
+    "name": "\u30e2\u30ce\u30b9\u30da\u30fc\u30b9\u30c9 \u30e9\u30d0\u30fc\u30ba \u8a66\u904a\u7248",
+    "contentId": "UP7788-PPSA23982_00-MSLPS5DEMO000000",
+    "region": "UP",
+    "publisherId": "UP7788"
   },
   {
     "titleId": "PPSA23984_00",
@@ -102240,6 +102320,30 @@
     "publisherId": "UB0738"
   },
   {
+    "titleId": "PPSA25001_00",
+    "conceptId": 10010495,
+    "name": "Climber: Sky is the Limit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25002_00",
+    "conceptId": 10010495,
+    "name": "Climber: Sky is the Limit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25003_00",
+    "conceptId": 10010495,
+    "name": "Climber: Sky is the Limit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25007_00",
     "conceptId": 10009287,
     "name": "Edge of Sanity Artbook",
@@ -102514,10 +102618,10 @@
   {
     "titleId": "PPSA25179_00",
     "conceptId": 10008826,
-    "name": "Enotria: The Last Song",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Enotria Art and Sound",
+    "contentId": "UP7782-PPSA25179_00-0176365726737628",
+    "region": "UP",
+    "publisherId": "UP7782"
   },
   {
     "titleId": "PPSA25197_00",
@@ -102555,9 +102659,9 @@
     "titleId": "PPSA25238_00",
     "conceptId": 10009217,
     "name": "Dice Assassin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25238_00-DICEASS000000111",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25241_00",
@@ -102579,6 +102683,22 @@
     "titleId": "PPSA25266_00",
     "conceptId": 10012092,
     "name": "pureya - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25267_00",
+    "conceptId": 10012120,
+    "name": "Cazzarion: Drone Flight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25268_00",
+    "conceptId": 10012120,
+    "name": "Cazzarion: Drone Flight",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -103096,6 +103216,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25648_00",
+    "conceptId": 10012317,
+    "name": "BODYCAM SHOOTER PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25676_00",
     "conceptId": 10000421,
     "name": "The Suicide of Rachel Foster Artbook",
@@ -103259,9 +103387,9 @@
     "titleId": "PPSA25787_00",
     "conceptId": 10009217,
     "name": "Dice Assassin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA25787_00-DICEASS000000113",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA25789_00",
