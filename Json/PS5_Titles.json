@@ -64512,6 +64512,22 @@
     "publisherId": "EP0782"
   },
   {
+    "titleId": "PPSA15355_00",
+    "conceptId": 10007747,
+    "name": "Food Boy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15356_00",
+    "conceptId": 10007747,
+    "name": "Food Boy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15363_00",
     "conceptId": 10005856,
     "name": "Omega Strikers",
@@ -73259,9 +73275,9 @@
     "titleId": "PPSA17141_00",
     "conceptId": 10008674,
     "name": "Pneumata",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA17141_00-0318875288040097",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA17143_00",
@@ -78003,7 +78019,7 @@
     "titleId": "PPSA18259_00",
     "conceptId": 10009074,
     "name": "Dead Rising Deluxe Remaster",
-    "contentId": null,
+    "contentId": "UP0102-PPSA18259_00-DEADRISING000001",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -81642,8 +81658,8 @@
   {
     "titleId": "PPSA19157_00",
     "conceptId": 10008826,
-    "name": "Enotria: The Last Song Standard Edition",
-    "contentId": null,
+    "name": "Enotria",
+    "contentId": "UP7782-PPSA19157_00-0997729108798940",
     "region": "UP",
     "publisherId": "UP7782"
   },
@@ -82443,9 +82459,9 @@
     "titleId": "PPSA19337_00",
     "conceptId": 10009491,
     "name": "MindSeize",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA19337_00-SYPS5MINDSEIZE00",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA19338_00",
@@ -82454,6 +82470,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA19339_00",
+    "conceptId": 10009491,
+    "name": "MindSeize",
+    "contentId": "HP1792-PPSA19339_00-SYPS5MINDSEIZE00",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA19340_00",
@@ -85968,6 +85992,14 @@
     "publisherId": "UB0488"
   },
   {
+    "titleId": "PPSA20164_00",
+    "conceptId": 10009203,
+    "name": "Slitterhead",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20165_00",
     "conceptId": 10003621,
     "name": "JigsawFinale",
@@ -86347,9 +86379,9 @@
     "titleId": "PPSA20259_00",
     "conceptId": 10009854,
     "name": "The Last Shot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA20259_00-SYPS5THELASTSHOT",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA20260_00",
@@ -86862,6 +86894,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20375_00",
+    "conceptId": 10009899,
+    "name": "Cosmic Paradox: Noire",
+    "contentId": "JP7323-PPSA20375_00-0468770885987413",
+    "region": "JP",
+    "publisherId": "JP7323"
   },
   {
     "titleId": "PPSA20378_00",
@@ -87522,8 +87562,8 @@
   {
     "titleId": "PPSA20515_00",
     "conceptId": 10008826,
-    "name": "Enotria: The Last Song Standard Edition",
-    "contentId": null,
+    "name": "Enotria",
+    "contentId": "EP7780-PPSA20515_00-0232483321110628",
     "region": "EP",
     "publisherId": "EP7780"
   },
@@ -87538,8 +87578,8 @@
   {
     "titleId": "PPSA20517_00",
     "conceptId": 10008826,
-    "name": "Enotria: The Last Song Standard Edition",
-    "contentId": null,
+    "name": "Enotria",
+    "contentId": "HP7809-PPSA20517_00-0261152093022893",
     "region": "HP",
     "publisherId": "HP7809"
   },
@@ -88112,6 +88152,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20650_00",
+    "conceptId": 10010035,
+    "name": "Super XYX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20651_00",
     "conceptId": 10010034,
     "name": "The Star Named EOS",
@@ -88251,9 +88299,9 @@
     "titleId": "PPSA20689_00",
     "conceptId": 10007314,
     "name": "Born Of Bread",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA20689_00-BOBPS5SIEJA00000",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA20705_00",
@@ -90195,17 +90243,17 @@
     "titleId": "PPSA21258_00",
     "conceptId": 10010264,
     "name": "The Karate Kid: Street Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0283-PPSA21258_00-0545877962476479",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA21259_00",
     "conceptId": 10010264,
     "name": "The Karate Kid: Street Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0281-PPSA21259_00-0494366621029670",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA21264_00",
@@ -90966,6 +91014,22 @@
     "contentId": "UP1003-PPSA21444_00-OSIRIS2000000000",
     "region": "UP",
     "publisherId": "UP1003"
+  },
+  {
+    "titleId": "PPSA21450_00",
+    "conceptId": 10007199,
+    "name": "Ys X: Nordics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21451_00",
+    "conceptId": 10007199,
+    "name": "Ys X: Nordics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21455_00",
@@ -92236,6 +92300,14 @@
     "conceptId": 10010488,
     "name": "The Murder Of Sherlock Holmes",
     "contentId": "UB0561-PPSA21776_00-0811483022402755",
+    "region": "UB",
+    "publisherId": "UB0561"
+  },
+  {
+    "titleId": "PPSA21777_00",
+    "conceptId": 10010489,
+    "name": "Welcome to Empyreum",
+    "contentId": "UB0561-PPSA21777_00-0714047252043803",
     "region": "UB",
     "publisherId": "UB0561"
   },
@@ -94307,9 +94379,9 @@
     "titleId": "PPSA22380_00",
     "conceptId": 10010722,
     "name": "Poppy Playtime: Chapter 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8103-PPSA22380_00-PLAYTIMECHAPTER3",
+    "region": "UP",
+    "publisherId": "UP8103"
   },
   {
     "titleId": "PPSA22381_00",
@@ -95043,9 +95115,25 @@
     "titleId": "PPSA22549_00",
     "conceptId": 10010489,
     "name": "Welcome to Empyreum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0753-PPSA22549_00-0560255235584444",
+    "region": "EB",
+    "publisherId": "EB0753"
+  },
+  {
+    "titleId": "PPSA22550_00",
+    "conceptId": 10010489,
+    "name": "\u30a6\u30a7\u30eb\u30ab\u30e0\u30fb\u30c8\u30a5\u30fb\u30a8\u30f3\u30d4\u30ea\u30a6\u30e0",
+    "contentId": "JB0500-PPSA22550_00-0716579966320458",
+    "region": "JB",
+    "publisherId": "JB0500"
+  },
+  {
+    "titleId": "PPSA22551_00",
+    "conceptId": 10010489,
+    "name": "Welcome to Empyreum",
+    "contentId": "HB0529-PPSA22551_00-0951243283144521",
+    "region": "HB",
+    "publisherId": "HB0529"
   },
   {
     "titleId": "PPSA22552_00",
@@ -95371,9 +95459,9 @@
     "titleId": "PPSA22658_00",
     "conceptId": 10010829,
     "name": "Atama",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0878-PPSA22658_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0878"
   },
   {
     "titleId": "PPSA22660_00",
@@ -95824,12 +95912,36 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA22772_00",
+    "conceptId": 10010888,
+    "name": "A Burger in Space - DEMO",
+    "contentId": "EP6664-PPSA22772_00-0824246780645878",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA22773_00",
+    "conceptId": 10010888,
+    "name": "A Burger in Space - DEMO",
+    "contentId": "UP6664-PPSA22773_00-0420698929505244",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA22774_00",
     "conceptId": 10010888,
     "name": "A Burger in Space - DEMO",
     "contentId": "JP6595-PPSA22774_00-0809024124946423",
     "region": "JP",
     "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA22775_00",
+    "conceptId": 10010888,
+    "name": "A Burger in Space - DEMO",
+    "contentId": "HP6661-PPSA22775_00-0388006242751461",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA22776_00",
@@ -96667,25 +96779,25 @@
     "titleId": "PPSA23103_00",
     "conceptId": 10011019,
     "name": "Home Safety Hotline",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6727-PPSA23103_00-0118926238014695",
+    "region": "JP",
+    "publisherId": "JP6727"
   },
   {
     "titleId": "PPSA23104_00",
     "conceptId": 10011019,
     "name": "Home Safety Hotline",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6778-PPSA23104_00-0782396638080530",
+    "region": "UP",
+    "publisherId": "UP6778"
   },
   {
     "titleId": "PPSA23105_00",
     "conceptId": 10011019,
     "name": "Home Safety Hotline",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6776-PPSA23105_00-0601228882710534",
+    "region": "EP",
+    "publisherId": "EP6776"
   },
   {
     "titleId": "PPSA23106_00",
@@ -96798,6 +96910,14 @@
     "contentId": "EP0305-PPSA23169_00-0290753496886840",
     "region": "EP",
     "publisherId": "EP0305"
+  },
+  {
+    "titleId": "PPSA23171_00",
+    "conceptId": 10011034,
+    "name": "Lethal Corporation",
+    "contentId": "UB0529-PPSA23171_00-0945389515043065",
+    "region": "UB",
+    "publisherId": "UB0529"
   },
   {
     "titleId": "PPSA23172_00",
@@ -97294,6 +97414,14 @@
     "contentId": "JP6954-PPSA23338_00-0154814217600523",
     "region": "JP",
     "publisherId": "JP6954"
+  },
+  {
+    "titleId": "PPSA23342_00",
+    "conceptId": 10009896,
+    "name": "The Bridge Curse 2: The Extrication",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23344_00",
@@ -97904,6 +98032,14 @@
     "publisherId": "UP8787"
   },
   {
+    "titleId": "PPSA23488_00",
+    "conceptId": 10009896,
+    "name": "The Bridge Curse 2: The Extrication",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23490_00",
     "conceptId": 10011215,
     "name": "Faces of Illusion: The Twin Phantoms",
@@ -98384,10 +98520,18 @@
     "publisherId": "HP5846"
   },
   {
+    "titleId": "PPSA23645_00",
+    "conceptId": 10003211,
+    "name": "CROSSBOW: Bloodnight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23650_00",
     "conceptId": 10011305,
-    "name": "Into the Radius",
-    "contentId": null,
+    "name": "Into The Radius",
+    "contentId": "EP2907-PPSA23650_00-7493991186232836",
     "region": "EP",
     "publisherId": "EP2907"
   },
@@ -99515,9 +99659,9 @@
     "titleId": "PPSA23957_00",
     "conceptId": 10011383,
     "name": "Cricket: Jae's Really Peculiar Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA23957_00-0958524889330778",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA23958_00",
@@ -99998,6 +100142,22 @@
     "contentId": "HP0700-PPSA24087_00-TAIKORFDEMO00000",
     "region": "HP",
     "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA24089_00",
+    "conceptId": 10011553,
+    "name": "Frogo Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24090_00",
+    "conceptId": 10011553,
+    "name": "Frogo Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24094_00",
@@ -101272,6 +101432,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24478_00",
+    "conceptId": 10011704,
+    "name": "Like a Dragon: Pirate Yakuza in Hawaii PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0177"
+  },
+  {
     "titleId": "PPSA24491_00",
     "conceptId": 10011761,
     "name": "Colorama Cubes",
@@ -102099,17 +102267,17 @@
     "titleId": "PPSA24831_00",
     "conceptId": 10011918,
     "name": "Road Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA24831_00-0498207307704036",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA24832_00",
     "conceptId": 10011918,
     "name": "Road Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA24832_00-0350379085141261",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA24836_00",
@@ -102426,34 +102594,34 @@
   {
     "titleId": "PPSA24965_00",
     "conceptId": 10011985,
-    "name": "Galactic Guardian - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Galactic Guardian",
+    "contentId": "EP6664-PPSA24965_00-0420267253547897",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA24966_00",
     "conceptId": 10011985,
-    "name": "Galactic Guardian - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Galactic Guardian",
+    "contentId": "UP6664-PPSA24966_00-0695719932984270",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA24967_00",
     "conceptId": 10011985,
-    "name": "Galactic Guardian - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Galactic Guardian",
+    "contentId": "JP6595-PPSA24967_00-0963021693224084",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA24968_00",
     "conceptId": 10011985,
-    "name": "Galactic Guardian - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Galactic Guardian",
+    "contentId": "HP6661-PPSA24968_00-0627078339779632",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA24973_00",
@@ -102547,9 +102715,9 @@
     "titleId": "PPSA25000_00",
     "conceptId": 10010495,
     "name": "Climber: Sky is the Limit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7373-PPSA25000_00-0055205536080777",
+    "region": "EP",
+    "publisherId": "EP7373"
   },
   {
     "titleId": "PPSA25001_00",
@@ -102834,10 +103002,18 @@
   {
     "titleId": "PPSA25154_00",
     "conceptId": 10006247,
-    "name": "Quiz Thiz United Kingdom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Quiz Thiz United Kingdom - DEMO",
+    "contentId": "EP6664-PPSA25154_00-0769263296514959",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25155_00",
+    "conceptId": 10006247,
+    "name": "Quiz Thiz United Kingdom - DEMO",
+    "contentId": "UP6664-PPSA25155_00-0777636301032099",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA25156_00",
@@ -102992,6 +103168,14 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA25328_00",
+    "conceptId": 10012037,
+    "name": "Mortar Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25329_00",
     "conceptId": 10012141,
     "name": "Flippy Jump",
@@ -103043,9 +103227,9 @@
     "titleId": "PPSA25335_00",
     "conceptId": 10012142,
     "name": "Robbery Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25335_00-0797634014942950",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25336_00",
@@ -103091,9 +103275,17 @@
     "titleId": "PPSA25371_00",
     "conceptId": 10012117,
     "name": "Halloween Pumpkin Brawl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA25371_00-0181543338051892",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA25372_00",
+    "conceptId": 10012117,
+    "name": "Halloween Pumpkin Brawl",
+    "contentId": "UP4312-PPSA25372_00-0935659261478639",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA25376_00",
@@ -103760,12 +103952,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25876_00",
+    "conceptId": 10012472,
+    "name": "Pixicharm - Moo & Move",
+    "contentId": "EP1612-PPSA25876_00-MOOANDMOVEGAME00",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
     "titleId": "PPSA25877_00",
     "conceptId": 10012472,
     "name": "Pixicharm - Moo & Move",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA25877_00-MOOANDMOVEGAME00",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA25878_00",
@@ -103778,10 +103978,10 @@
   {
     "titleId": "PPSA25879_00",
     "conceptId": 10012472,
-    "name": "Moo & Move",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pixicharm - Moo & Move",
+    "contentId": "EP1612-PPSA25879_00-MOOANDMOVEGAME00",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA25900_00",
