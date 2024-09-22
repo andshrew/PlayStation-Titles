@@ -14867,7 +14867,7 @@
     "titleId": "PPSA04452_00",
     "conceptId": 10003330,
     "name": "Warhammer 40,000: Space Marine 2",
-    "contentId": null,
+    "contentId": "UP4133-PPSA04452_00-SPACEMARINESII00",
     "region": "UP",
     "publisherId": "UP4133"
   },
@@ -26080,6 +26080,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06611_00",
+    "conceptId": 10001497,
+    "name": "Princess Farmer",
+    "contentId": "EP5403-PPSA06611_00-PRINCESSFARM5EUR",
+    "region": "EP",
+    "publisherId": "EP5403"
+  },
+  {
     "titleId": "PPSA06612_00",
     "conceptId": 10004547,
     "name": "Spidersaurs",
@@ -33699,9 +33707,9 @@
     "titleId": "PPSA08031_00",
     "conceptId": 10005224,
     "name": "Between Horizons",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5470-PPSA08031_00-DTBETWEHORIZSIEE",
+    "region": "EP",
+    "publisherId": "EP5470"
   },
   {
     "titleId": "PPSA08033_00",
@@ -62540,8 +62548,8 @@
     "conceptId": 10007641,
     "name": "Flint: Treasure of Oblivion",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA14425_00",
@@ -78147,15 +78155,15 @@
     "titleId": "PPSA18301_00",
     "conceptId": 10009074,
     "name": "Dead Rising Deluxe Remaster",
-    "contentId": null,
+    "contentId": "EP0102-PPSA18301_00-DEADRISING000001",
     "region": "EP",
     "publisherId": "EP0102"
   },
   {
     "titleId": "PPSA18302_00",
     "conceptId": 10009074,
-    "name": "\u30c7\u30c3\u30c9\u30e9\u30a4\u30b8\u30f3\u30b0 \u30c7\u30e9\u30c3\u30af\u30b9\u30ea\u30de\u30b9\u30bf\u30fc",
-    "contentId": null,
+    "name": "Dead Rising Deluxe Remaster",
+    "contentId": "JP0102-PPSA18302_00-DEADRISING000001",
     "region": "JP",
     "publisherId": "JP0102"
   },
@@ -82467,9 +82475,9 @@
     "titleId": "PPSA19338_00",
     "conceptId": 10009491,
     "name": "MindSeize",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA19338_00-SYPS5MINDSEIZE00",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA19339_00",
@@ -83002,10 +83010,10 @@
   {
     "titleId": "PPSA19437_00",
     "conceptId": 10004518,
-    "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SWORD ART ONLINE Fractured Daydream BETA TEST",
+    "contentId": "UP0700-PPSA19437_00-SWORDARTONLINE07",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA19438_00",
@@ -84830,6 +84838,22 @@
     "contentId": "EP6718-PPSA19888_00-0742570081451133",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA19890_00",
+    "conceptId": 10004518,
+    "name": "SWORD ART ONLINE Fractured Daydream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19891_00",
+    "conceptId": 10004518,
+    "name": "SWORD ART ONLINE Fractured Daydream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19894_00",
@@ -86883,17 +86907,17 @@
     "titleId": "PPSA20372_00",
     "conceptId": 10009899,
     "name": "Cosmic Paradox: Noire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA20372_00-0018074913236815",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA20373_00",
     "conceptId": 10009899,
     "name": "Cosmic Paradox: Noire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA20373_00-0441235039854554",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA20375_00",
@@ -88064,6 +88088,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20627_00",
+    "conceptId": 10010019,
+    "name": "All You Need is Help",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20629_00",
     "conceptId": 10008721,
     "name": "Mystic Pillars - Remastered Book Bundle",
@@ -88094,6 +88126,14 @@
     "contentId": "HP7100-PPSA20634_00-0488388387481074",
     "region": "HP",
     "publisherId": "HP7100"
+  },
+  {
+    "titleId": "PPSA20635_00",
+    "conceptId": 10010023,
+    "name": "Party Animals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20637_00",
@@ -91635,9 +91675,9 @@
     "titleId": "PPSA21631_00",
     "conceptId": 10010437,
     "name": "Poppy Playtime: Chapter 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8103-PPSA21631_00-0349038686339467",
+    "region": "UP",
+    "publisherId": "UP8103"
   },
   {
     "titleId": "PPSA21632_00",
@@ -96803,9 +96843,9 @@
     "titleId": "PPSA23106_00",
     "conceptId": 10011019,
     "name": "Home Safety Hotline",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6784-PPSA23106_00-0014786512440953",
+    "region": "HP",
+    "publisherId": "HP6784"
   },
   {
     "titleId": "PPSA23111_00",
@@ -100147,17 +100187,33 @@
     "titleId": "PPSA24089_00",
     "conceptId": 10011553,
     "name": "Frogo Deluxe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA24089_00-0227670168444334",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA24090_00",
     "conceptId": 10011553,
     "name": "Frogo Deluxe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7668-PPSA24090_00-0160154472368080",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24091_00",
+    "conceptId": 10011553,
+    "name": "Frogo Deluxe",
+    "contentId": "UP7668-PPSA24091_00-0707122563445046",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24092_00",
+    "conceptId": 10011553,
+    "name": "Frogo Deluxe",
+    "contentId": "UP7668-PPSA24092_00-0096112221650760",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA24094_00",
@@ -103243,25 +103299,25 @@
     "titleId": "PPSA25337_00",
     "conceptId": 10012143,
     "name": "Animal Battle Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25337_00-0373482785408564",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25338_00",
     "conceptId": 10012143,
     "name": "Animal Battle Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25338_00-0603102699483358",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25339_00",
     "conceptId": 10012143,
     "name": "Animal Battle Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25339_00-0658818288922779",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25340_00",
@@ -103868,6 +103924,14 @@
     "conceptId": 10012411,
     "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30d1\u30cb\u30c3\u30af",
     "contentId": "UB0675-PPSA25776_00-0448055965227240",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
+    "titleId": "PPSA25780_00",
+    "conceptId": 10012413,
+    "name": "Speed Overflow",
+    "contentId": "UB0675-PPSA25780_00-0421879739047271",
     "region": "UB",
     "publisherId": "UB0675"
   },
