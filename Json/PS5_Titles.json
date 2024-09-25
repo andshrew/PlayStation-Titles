@@ -58392,12 +58392,28 @@
     "publisherId": "EP2397"
   },
   {
+    "titleId": "PPSA13647_00",
+    "conceptId": 10007288,
+    "name": "[REDACTED]",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1970"
+  },
+  {
     "titleId": "PPSA13649_00",
     "conceptId": 10004766,
     "name": "GrimGrimoire OnceMore Demo",
     "contentId": "EP1063-PPSA13649_00-GRIMGRIMOIREDEMO",
     "region": "EP",
     "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA13650_00",
+    "conceptId": 10007288,
+    "name": "[REDACTED]",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP2146"
   },
   {
     "titleId": "PPSA13651_00",
@@ -66179,7 +66195,7 @@
     "titleId": "PPSA15656_00",
     "conceptId": 10008074,
     "name": "Disney Epic Mickey: Rebrushed",
-    "contentId": null,
+    "contentId": "UP4389-PPSA15656_00-EPICMICKEYREMAKE",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -90544,6 +90560,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA21322_00",
+    "conceptId": 10010300,
+    "name": "Miraculous: Paris Under Siege",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21323_00",
     "conceptId": 10010300,
     "name": "Miraculous: Paris Under Siege",
@@ -95024,6 +95048,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA22511_00",
+    "conceptId": 10010767,
+    "name": "Alien Cleaner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22512_00",
     "conceptId": 10010767,
     "name": "Alien Cleaner",
@@ -97434,8 +97466,8 @@
   {
     "titleId": "PPSA23317_00",
     "conceptId": 10009887,
-    "name": "Beyond Galaxyland (PS4 & PS5)",
-    "contentId": null,
+    "name": "Beyond Galaxyland",
+    "contentId": "EP6960-PPSA23317_00-0086063057913198",
     "region": "EP",
     "publisherId": "EP6960"
   },
@@ -100528,6 +100560,14 @@
     "publisherId": "EB0792"
   },
   {
+    "titleId": "PPSA24179_00",
+    "conceptId": 10011593,
+    "name": "Predator: Hunting Grounds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24180_00",
     "conceptId": 10011595,
     "name": "Correct Picture",
@@ -102520,6 +102560,22 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24871_00",
+    "conceptId": 10008417,
+    "name": "Alchemist: The Potion Monger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24872_00",
+    "conceptId": 10008417,
+    "name": "Alchemist: The Potion Monger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24873_00",
     "conceptId": 10008417,
     "name": "Alchemist: The Potion Monger",
@@ -103275,17 +103331,17 @@
     "titleId": "PPSA25267_00",
     "conceptId": 10012120,
     "name": "Cazzarion: Drone Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA25267_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA25268_00",
     "conceptId": 10012120,
     "name": "Cazzarion: Drone Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA25268_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA25278_00",
@@ -103584,6 +103640,14 @@
     "publisherId": "UB0529"
   },
   {
+    "titleId": "PPSA25540_00",
+    "conceptId": 231761,
+    "name": "Diablo\u00ae IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25541_00",
     "conceptId": 10010249,
     "name": "Andromeda Survivors",
@@ -103606,6 +103670,22 @@
     "contentId": "HP8462-PPSA25543_00-0246680552214158",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA25544_00",
+    "conceptId": 231761,
+    "name": "Diablo\u00ae IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25545_00",
+    "conceptId": 231761,
+    "name": "Diablo\u00ae IV",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25564_00",
@@ -103872,6 +103952,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25671_00",
+    "conceptId": 10012338,
+    "name": "\u9280\u306e\u65a7 - The Honest Elf",
+    "contentId": "UB0675-PPSA25671_00-0230290400190310",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
     "titleId": "PPSA25676_00",
     "conceptId": 10000421,
     "name": "The Suicide of Rachel Foster Artbook",
@@ -104038,6 +104126,14 @@
     "contentId": "EP7577-PPSA25753_00-0972890058018268",
     "region": "EP",
     "publisherId": "EP7577"
+  },
+  {
+    "titleId": "PPSA25755_00",
+    "conceptId": 10012396,
+    "name": "Burst Hero",
+    "contentId": "UB0675-PPSA25755_00-0156471035049263",
+    "region": "UB",
+    "publisherId": "UB0675"
   },
   {
     "titleId": "PPSA25776_00",
