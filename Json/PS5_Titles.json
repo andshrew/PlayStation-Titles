@@ -58392,12 +58392,28 @@
     "publisherId": "EP2397"
   },
   {
+    "titleId": "PPSA13646_00",
+    "conceptId": 10007288,
+    "name": "[REDACTED]",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1987"
+  },
+  {
     "titleId": "PPSA13647_00",
     "conceptId": 10007288,
     "name": "[REDACTED]",
     "contentId": null,
     "region": "EP",
     "publisherId": "EP1970"
+  },
+  {
+    "titleId": "PPSA13648_00",
+    "conceptId": 10007288,
+    "name": "[REDACTED]",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP2243"
   },
   {
     "titleId": "PPSA13649_00",
@@ -64555,9 +64571,9 @@
     "titleId": "PPSA15356_00",
     "conceptId": 10007747,
     "name": "Food Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0782-PPSA15356_00-0527230257416053",
+    "region": "EP",
+    "publisherId": "EP0782"
   },
   {
     "titleId": "PPSA15363_00",
@@ -66488,6 +66504,14 @@
     "publisherId": "EP0177"
   },
   {
+    "titleId": "PPSA15718_00",
+    "conceptId": 10008117,
+    "name": "Raiden NOVA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15719_00",
     "conceptId": 10002494,
     "name": "Tin Hearts",
@@ -67627,7 +67651,7 @@
     "titleId": "PPSA15928_00",
     "conceptId": 10008165,
     "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
-    "contentId": null,
+    "contentId": "EP3036-PPSA15928_00-EDFWORLDBROTHER2",
     "region": "EP",
     "publisherId": "EP3036"
   },
@@ -77560,6 +77584,14 @@
     "publisherId": "UP4912"
   },
   {
+    "titleId": "PPSA18152_00",
+    "conceptId": 10009063,
+    "name": "Legacy of Kain\u2122 Soul Reaver 1&2 Remastered",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1875"
+  },
+  {
     "titleId": "PPSA18156_00",
     "conceptId": 10008403,
     "name": "Llamasoft: The Jeff Minter Story",
@@ -77627,9 +77659,9 @@
     "titleId": "PPSA18169_00",
     "conceptId": 10009069,
     "name": "The Holy Gosh Darn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5816-PPSA18169_00-0127148584327091",
+    "region": "EP",
+    "publisherId": "EP5816"
   },
   {
     "titleId": "PPSA18170_00",
@@ -77746,10 +77778,10 @@
   {
     "titleId": "PPSA18207_00",
     "conceptId": 10009078,
-    "name": "Bloomtown: A Different Story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bloomtown a Different Story",
+    "contentId": "UP4744-PPSA18207_00-0395130479595738",
+    "region": "UP",
+    "publisherId": "UP4744"
   },
   {
     "titleId": "PPSA18208_00",
@@ -78654,6 +78686,14 @@
     "contentId": "EP0546-PPSA18425_00-BEMFEITOREGPS5EU",
     "region": "EP",
     "publisherId": "EP0546"
+  },
+  {
+    "titleId": "PPSA18431_00",
+    "conceptId": 10009158,
+    "name": "Five Nights at Freddy's: Into the Pit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18434_00",
@@ -82764,8 +82804,8 @@
     "conceptId": 10009509,
     "name": "Metro Awakening",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP3535"
   },
   {
     "titleId": "PPSA19389_00",
@@ -83371,9 +83411,9 @@
     "titleId": "PPSA19533_00",
     "conceptId": 10009567,
     "name": "Ctrl Alt Ego",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4886-PPSA19533_00-0181073161031268",
+    "region": "EP",
+    "publisherId": "EP4886"
   },
   {
     "titleId": "PPSA19537_00",
@@ -84110,6 +84150,14 @@
     "contentId": "UP7305-PPSA19707_00-0080915506762794",
     "region": "UP",
     "publisherId": "UP7305"
+  },
+  {
+    "titleId": "PPSA19712_00",
+    "conceptId": 10009636,
+    "name": "Sphinx - Riddles of the Nile",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19714_00",
@@ -85491,9 +85539,9 @@
     "titleId": "PPSA20052_00",
     "conceptId": 10009765,
     "name": "Worms Armageddon: Anniversary Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4064-PPSA20052_00-WORMSARMAGEDDON0",
+    "region": "EP",
+    "publisherId": "EP4064"
   },
   {
     "titleId": "PPSA20053_00",
@@ -92651,7 +92699,7 @@
     "titleId": "PPSA21837_00",
     "conceptId": 10010519,
     "name": "LOLLIPOP CHAINSAW RePOP",
-    "contentId": null,
+    "contentId": "JP7907-PPSA21837_00-ROM0000000000000",
     "region": "JP",
     "publisherId": "JP7907"
   },
@@ -93150,6 +93198,14 @@
     "contentId": "EB0629-PPSA21993_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA21994_00",
+    "conceptId": 10010439,
+    "name": "Fae Farm",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2233"
   },
   {
     "titleId": "PPSA21997_00",
@@ -94182,6 +94238,22 @@
     "contentId": "JP0013-PPSA22263_00-JP0HXANA00000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA22264_00",
+    "conceptId": 10010526,
+    "name": "FANTASIAN Neo Dimension",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA22265_00",
+    "conceptId": 10010526,
+    "name": "FANTASIAN Neo Dimension",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA22267_00",
@@ -96403,17 +96475,17 @@
     "titleId": "PPSA22888_00",
     "conceptId": 10010929,
     "name": "ZombFarm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA22888_00-ZOMBFARM00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA22889_00",
     "conceptId": 10010929,
     "name": "ZombFarm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA22889_00-ZOMBFARM00000000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA22890_00",
@@ -96976,6 +97048,14 @@
     "publisherId": "UP4389"
   },
   {
+    "titleId": "PPSA23126_00",
+    "conceptId": 10011027,
+    "name": "Palworld",
+    "contentId": "UP6360-PPSA23126_00-PAL0000000000000",
+    "region": "UP",
+    "publisherId": "UP6360"
+  },
+  {
     "titleId": "PPSA23127_00",
     "conceptId": 10011033,
     "name": "Deathtrap Dungeon: The Interactive Video Game",
@@ -97202,8 +97282,8 @@
   {
     "titleId": "PPSA23229_00",
     "conceptId": 10011082,
-    "name": "\u82f1\u96c4\u4f1d\u8aac \u754c\u306e\u8ecc\u8de1 -Farewell, O Zemuria- (PS4 & PS5)",
-    "contentId": null,
+    "name": "\u82f1\u96c4\u4f1d\u8aac \u754c\u306e\u8ecc\u8de1",
+    "contentId": "JP0425-PPSA23229_00-EDKAINOKISEKI001",
     "region": "JP",
     "publisherId": "JP0425"
   },
@@ -98650,8 +98730,8 @@
   {
     "titleId": "PPSA23643_00",
     "conceptId": 10011082,
-    "name": "The Legend of Heroes: Kai no Kiseki -Farewell, O Zemuria- (PS4 & PS5)",
-    "contentId": null,
+    "name": "\u82f1\u96c4\u50b3\u8aaa \u754c\u4e4b\u8ecc\u8de1",
+    "contentId": "HP5846-PPSA23643_00-EDKAINOKISEKI001",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -99507,9 +99587,9 @@
     "titleId": "PPSA23873_00",
     "conceptId": 10011434,
     "name": "Ricky Recharge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA23873_00-0028781214166865",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA23878_00",
@@ -100464,6 +100544,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24144_00",
+    "conceptId": 10011578,
+    "name": "Creepy Tale: Some Other Place",
+    "contentId": "JP1932-PPSA24144_00-SYPS5CREEPYTALE4",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA24145_00",
+    "conceptId": 10011578,
+    "name": "Creepy Tale: Some Other Place",
+    "contentId": "HP1792-PPSA24145_00-SYPS5CREEPYTALE4",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA24160_00",
     "conceptId": 10011560,
     "name": "2048 Boys",
@@ -101315,6 +101411,14 @@
     "titleId": "PPSA24421_00",
     "conceptId": 10001260,
     "name": "MARS 2120",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24423_00",
+    "conceptId": 10011143,
+    "name": "Slay the Princess - The Pristine Cut",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -102416,6 +102520,14 @@
     "publisherId": "UB0529"
   },
   {
+    "titleId": "PPSA24828_00",
+    "conceptId": 10011915,
+    "name": "Cats and Seek : Osaka",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24829_00",
     "conceptId": 10009904,
     "name": "\u95c7\u306e\u4ed5\u4e8b\u4ebaKAGE Shadow of The Ninja DEMO",
@@ -103307,9 +103419,9 @@
     "titleId": "PPSA25241_00",
     "conceptId": 10009045,
     "name": "Farmer Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25241_00-FARMSURV00000011",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25245_00",
@@ -103542,6 +103654,30 @@
     "contentId": "EP1612-PPSA25387_00-DINOLUSHIPGAME00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA25424_00",
+    "conceptId": 10001029,
+    "name": "\u30e1\u30bf\u30d5\u30a1\u30fc\uff1a\u30ea\u30d5\u30a1\u30f3\u30bf\u30b8\u30aa \uff5e\u30d7\u30ed\u30ed\u30fc\u30b0\u4f53\u9a13\u7248\uff5e",
+    "contentId": "JP0005-PPSA25424_00-METAPHORJPTRIAL1",
+    "region": "JP",
+    "publisherId": "JP0005"
+  },
+  {
+    "titleId": "PPSA25425_00",
+    "conceptId": 10001029,
+    "name": "Metaphor: ReFantazio - Prologue Demo",
+    "contentId": "UP0177-PPSA25425_00-METAPHORNATRIAL1",
+    "region": "UP",
+    "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA25426_00",
+    "conceptId": 10001029,
+    "name": "Metaphor: ReFantazio - Prologue Demo",
+    "contentId": "EP0177-PPSA25426_00-METAPHOREUTRIAL1",
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA25460_00",
@@ -103787,25 +103923,25 @@
     "titleId": "PPSA25591_00",
     "conceptId": 10009045,
     "name": "Farmer Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25591_00-FARMSURV00000012",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25592_00",
     "conceptId": 10009045,
     "name": "Farmer Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25592_00-FARMSURV00000014",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25593_00",
     "conceptId": 10009045,
     "name": "Farmer Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25593_00-FARMSURV00000013",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25604_00",
