@@ -29016,6 +29016,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA07139_00",
+    "conceptId": 10004816,
+    "name": "SYNDUALITY Echo of Ada",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA07142_00",
     "conceptId": 10004820,
     "name": "Sk\u00e1bma\u2122 - Snowfall",
@@ -61808,6 +61816,14 @@
     "publisherId": "UP4108"
   },
   {
+    "titleId": "PPSA14262_00",
+    "conceptId": 10007575,
+    "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE (PS4 & PS5)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0106"
+  },
+  {
     "titleId": "PPSA14263_00",
     "conceptId": 10007577,
     "name": "TRANSFORMERS: EARTHSPARK - Expedition",
@@ -66202,8 +66218,8 @@
   {
     "titleId": "PPSA15651_00",
     "conceptId": 10008074,
-    "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30a8\u30d4\u30c3\u30af\u30df\u30c3\u30ad\u30fc\uff1aRebrushed",
-    "contentId": null,
+    "name": "Disney Epic Mickey: Rebrushed",
+    "contentId": "JP2880-PPSA15651_00-EPICMICKEYREMAKE",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -69088,6 +69104,22 @@
     "publisherId": "UP4361"
   },
   {
+    "titleId": "PPSA16217_00",
+    "conceptId": 10008299,
+    "name": "Parcel Corps",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16218_00",
+    "conceptId": 10008299,
+    "name": "Parcel Corps",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16219_00",
     "conceptId": 10004500,
     "name": "Operation Wolf Returns: First Mission VR",
@@ -71830,6 +71862,14 @@
     "contentId": "EP5335-PPSA16784_00-LBDEMO0000000000",
     "region": "EP",
     "publisherId": "EP5335"
+  },
+  {
+    "titleId": "PPSA16786_00",
+    "conceptId": 10008521,
+    "name": "Neva",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16789_00",
@@ -77691,9 +77731,9 @@
     "titleId": "PPSA18168_00",
     "conceptId": 10009069,
     "name": "The Holy Gosh Darn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5634-PPSA18168_00-0894492642037976",
+    "region": "UP",
+    "publisherId": "UP5634"
   },
   {
     "titleId": "PPSA18169_00",
@@ -78731,9 +78771,9 @@
     "titleId": "PPSA18431_00",
     "conceptId": 10009158,
     "name": "Five Nights at Freddy's: Into the Pit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7596-PPSA18431_00-0232004869778224",
+    "region": "UP",
+    "publisherId": "UP7596"
   },
   {
     "titleId": "PPSA18434_00",
@@ -82836,8 +82876,8 @@
     "conceptId": 10009509,
     "name": "Metro Awakening",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP3392"
   },
   {
     "titleId": "PPSA19384_00",
@@ -83422,6 +83462,14 @@
     "contentId": "HP7632-PPSA19509_00-0332519902015381",
     "region": "HP",
     "publisherId": "HP7632"
+  },
+  {
+    "titleId": "PPSA19512_00",
+    "conceptId": 10009509,
+    "name": "Metro Awakening",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP3575"
   },
   {
     "titleId": "PPSA19516_00",
@@ -84198,6 +84246,14 @@
     "contentId": "UP7305-PPSA19707_00-0080915506762794",
     "region": "UP",
     "publisherId": "UP7305"
+  },
+  {
+    "titleId": "PPSA19711_00",
+    "conceptId": 10009636,
+    "name": "Sphinx",
+    "contentId": "EP4902-PPSA19711_00-0899031354144654",
+    "region": "EP",
+    "publisherId": "EP4902"
   },
   {
     "titleId": "PPSA19712_00",
@@ -88243,9 +88299,9 @@
     "titleId": "PPSA20627_00",
     "conceptId": 10010019,
     "name": "All You Need is Help",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0743-PPSA20627_00-ZZZZZZZZZZZZZZZZ",
+    "region": "EP",
+    "publisherId": "EP0743"
   },
   {
     "titleId": "PPSA20628_00",
@@ -88910,6 +88966,14 @@
     "contentId": "EB0792-PPSA20816_00-ESCAPETHEGLITCH1",
     "region": "EB",
     "publisherId": "EB0792"
+  },
+  {
+    "titleId": "PPSA20817_00",
+    "conceptId": 10010100,
+    "name": "Orange Season",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20819_00",
@@ -92779,9 +92843,9 @@
     "titleId": "PPSA21848_00",
     "conceptId": 10010521,
     "name": "Shadows of Doubt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2660-PPSA21848_00-0569247932870698",
+    "region": "UP",
+    "publisherId": "UP2660"
   },
   {
     "titleId": "PPSA21850_00",
@@ -93768,6 +93832,14 @@
     "publisherId": "EP1001"
   },
   {
+    "titleId": "PPSA22123_00",
+    "conceptId": 10008850,
+    "name": "Soul Stalker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22124_00",
     "conceptId": 10009803,
     "name": "Slime Rancher 2",
@@ -94144,12 +94216,20 @@
     "publisherId": "EB0467"
   },
   {
+    "titleId": "PPSA22213_00",
+    "conceptId": 10010607,
+    "name": "Exographer",
+    "contentId": "UP3059-PPSA22213_00-EXOGRAPHER000000",
+    "region": "UP",
+    "publisherId": "UP3059"
+  },
+  {
     "titleId": "PPSA22214_00",
     "conceptId": 10010607,
     "name": "Exographer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4186-PPSA22214_00-EXOGRAPHER000000",
+    "region": "EP",
+    "publisherId": "EP4186"
   },
   {
     "titleId": "PPSA22217_00",
@@ -95035,9 +95115,9 @@
     "titleId": "PPSA22462_00",
     "conceptId": 10009698,
     "name": "Western Slot Machine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA22462_00-WESTERNSLOTMACHI",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA22463_00",
@@ -95227,9 +95307,9 @@
     "titleId": "PPSA22512_00",
     "conceptId": 10010767,
     "name": "Alien Cleaner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA22512_00-0693312053811391",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA22513_00",
@@ -96720,6 +96800,14 @@
     "publisherId": "EP0822"
   },
   {
+    "titleId": "PPSA22941_00",
+    "conceptId": 10010946,
+    "name": "Aerial_Knight's We Never Yield",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22948_00",
     "conceptId": 10010951,
     "name": "Mr Moskeeto",
@@ -97632,6 +97720,38 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA23306_00",
+    "conceptId": 10001029,
+    "name": "Metaphor: ReFantazio",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23307_00",
+    "conceptId": 10001029,
+    "name": "Metaphor: ReFantazio",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23308_00",
+    "conceptId": 10001029,
+    "name": "Metaphor: ReFantazio",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23309_00",
+    "conceptId": 10001029,
+    "name": "Metaphor: ReFantazio",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23310_00",
     "conceptId": 10011086,
     "name": "Beneath Oresa",
@@ -98027,9 +98147,9 @@
     "titleId": "PPSA23426_00",
     "conceptId": 10011186,
     "name": "Grand Rush VR Highway Car Traffic Racing Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0714-PPSA23426_00-0073527026641672",
+    "region": "UB",
+    "publisherId": "UB0714"
   },
   {
     "titleId": "PPSA23429_00",
@@ -98850,10 +98970,10 @@
   {
     "titleId": "PPSA23645_00",
     "conceptId": 10003211,
-    "name": "CROSSBOW: Bloodnight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crossbow: Bloodnight",
+    "contentId": "EP6170-PPSA23645_00-CROSSBOW00000000",
+    "region": "EP",
+    "publisherId": "EP6170"
   },
   {
     "titleId": "PPSA23650_00",
@@ -102370,34 +102490,34 @@
   {
     "titleId": "PPSA24738_00",
     "conceptId": 10006212,
-    "name": "Evotinction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Evotinction Mini Soundtrack",
+    "contentId": "EP3446-PPSA24738_00-0401997256596426",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA24739_00",
     "conceptId": 10006212,
-    "name": "Evotinction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Evotinction Mini Soundtrack",
+    "contentId": "EP3446-PPSA24739_00-0993534277217945",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA24740_00",
     "conceptId": 10006212,
-    "name": "Evotinction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Evotinction Mini Soundtrack",
+    "contentId": "EP3446-PPSA24740_00-0499848394229021",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA24741_00",
     "conceptId": 10006212,
-    "name": "Evotinction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Evotinction Mini Soundtrack",
+    "contentId": "EP3446-PPSA24741_00-0116449285817323",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA24776_00",
@@ -102835,9 +102955,9 @@
     "titleId": "PPSA24872_00",
     "conceptId": 10008417,
     "name": "Alchemist: The Potion Monger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7373-PPSA24872_00-0191774584866988",
+    "region": "EP",
+    "publisherId": "EP7373"
   },
   {
     "titleId": "PPSA24873_00",
@@ -103235,9 +103355,9 @@
     "titleId": "PPSA25010_00",
     "conceptId": 10011252,
     "name": "Mr Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0337-PPSA25010_00-0553159113651351",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA25031_00",
@@ -103680,12 +103800,20 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA25327_00",
+    "conceptId": 10012037,
+    "name": "Mortar Master",
+    "contentId": "EP4476-PPSA25327_00-0997773653624431",
+    "region": "EP",
+    "publisherId": "EP4476"
+  },
+  {
     "titleId": "PPSA25328_00",
     "conceptId": 10012037,
     "name": "Mortar Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2136-PPSA25328_00-0220591862895463",
+    "region": "UP",
+    "publisherId": "UP2136"
   },
   {
     "titleId": "PPSA25329_00",
@@ -103827,9 +103955,9 @@
     "titleId": "PPSA25397_00",
     "conceptId": 10011510,
     "name": "Encircled",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0983-PPSA25397_00-0140042456365836",
+    "region": "UB",
+    "publisherId": "UB0983"
   },
   {
     "titleId": "PPSA25424_00",
@@ -103942,6 +104070,14 @@
     "contentId": "JP6849-PPSA25526_00-0946464081800182",
     "region": "JP",
     "publisherId": "JP6849"
+  },
+  {
+    "titleId": "PPSA25527_00",
+    "conceptId": 10011391,
+    "name": "Before Exit: Supermarket",
+    "contentId": "HP6900-PPSA25527_00-0410087520419648",
+    "region": "HP",
+    "publisherId": "HP6900"
   },
   {
     "titleId": "PPSA25528_00",
@@ -104320,10 +104456,26 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA25689_00",
+    "conceptId": 10012351,
+    "name": "Nightshade Ninja Warrior",
+    "contentId": "UB0008-PPSA25689_00-0271503417944885",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA25690_00",
     "conceptId": 10012352,
     "name": "Shark Adventure",
     "contentId": "UB0008-PPSA25690_00-0682446311641083",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA25696_00",
+    "conceptId": 10012358,
+    "name": "Animal Drifters",
+    "contentId": "UB0008-PPSA25696_00-0453906701400785",
     "region": "UB",
     "publisherId": "UB0008"
   },
@@ -104547,25 +104699,25 @@
     "titleId": "PPSA25820_00",
     "conceptId": 10012324,
     "name": "Quack Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7656-PPSA25820_00-0278375426972846",
+    "region": "UP",
+    "publisherId": "UP7656"
   },
   {
     "titleId": "PPSA25821_00",
     "conceptId": 10012324,
     "name": "Quack Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7637-PPSA25821_00-0328537506203411",
+    "region": "JP",
+    "publisherId": "JP7637"
   },
   {
     "titleId": "PPSA25822_00",
     "conceptId": 10012324,
     "name": "Quack Jump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7654-PPSA25822_00-0681816626140976",
+    "region": "EP",
+    "publisherId": "EP7654"
   },
   {
     "titleId": "PPSA25846_00",
@@ -104638,6 +104790,54 @@
     "contentId": "JP8361-PPSA25900_00-NIUPS5LIAADEMO03",
     "region": "JP",
     "publisherId": "JP8361"
+  },
+  {
+    "titleId": "PPSA25920_00",
+    "conceptId": 10009135,
+    "name": "\u75b2\u52b4\u56f0\u618a\u30de\u30f3 \u4f53\u9a13\u7248",
+    "contentId": "JP2205-PPSA25920_00-2024090600000052",
+    "region": "JP",
+    "publisherId": "JP2205"
+  },
+  {
+    "titleId": "PPSA25921_00",
+    "conceptId": 10009135,
+    "name": "Exhausted Man Demo",
+    "contentId": "JP2205-PPSA25921_00-2024090600000053",
+    "region": "JP",
+    "publisherId": "JP2205"
+  },
+  {
+    "titleId": "PPSA25977_00",
+    "conceptId": 10012533,
+    "name": "Honey Farm Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25978_00",
+    "conceptId": 10012533,
+    "name": "Honey Farm Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25979_00",
+    "conceptId": 10012533,
+    "name": "Honey Farm Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25980_00",
+    "conceptId": 10012533,
+    "name": "Honey Farm Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26063_00",
