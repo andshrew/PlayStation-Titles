@@ -32920,6 +32920,14 @@
     "publisherId": "EP0131"
   },
   {
+    "titleId": "PPSA07862_00",
+    "conceptId": 10005176,
+    "name": "Monster Hunter Wilds",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
     "titleId": "PPSA07863_00",
     "conceptId": 10005142,
     "name": "Resident Evil Director\u2019s Cut",
@@ -52302,6 +52310,14 @@
     "contentId": "JP0507-PPSA11144_00-WONDERFULLIFE000",
     "region": "JP",
     "publisherId": "JP0507"
+  },
+  {
+    "titleId": "PPSA11146_00",
+    "conceptId": 10006488,
+    "name": "AI LIMIT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA11147_00",
@@ -85050,10 +85066,10 @@
   {
     "titleId": "PPSA19890_00",
     "conceptId": 10004518,
-    "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SWORD ART ONLINE Fractured Daydream \u30df\u30cb\u30b2\u30fc\u30e0\u4ed8\u304d\u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af\uff06\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0700-PPSA19890_00-SAOFDARTANDSOUND",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA19891_00",
@@ -88747,9 +88763,9 @@
     "titleId": "PPSA20723_00",
     "conceptId": 10005046,
     "name": "REYNATIS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA20723_00-REYNATISPS5EU000",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA20728_00",
@@ -90790,6 +90806,14 @@
     "contentId": "UP9000-PPSA21300_00-SCUS971980000000",
     "region": "UP",
     "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA21318_00",
+    "conceptId": 10010299,
+    "name": "Last Time I Saw You",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21321_00",
@@ -96936,6 +96960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22946_00",
+    "conceptId": 223683,
+    "name": "LEGO\u00ae  Harry Potter\u2122 Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22948_00",
     "conceptId": 10010951,
     "name": "Mr Moskeeto",
@@ -101272,6 +101304,14 @@
     "publisherId": "EP6880"
   },
   {
+    "titleId": "PPSA24251_00",
+    "conceptId": 10011636,
+    "name": "Dagon: Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24263_00",
     "conceptId": 10011645,
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III",
@@ -103664,6 +103704,38 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA25082_00",
+    "conceptId": 10012040,
+    "name": "Bust a Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25083_00",
+    "conceptId": 10012040,
+    "name": "Bust a Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25084_00",
+    "conceptId": 10012040,
+    "name": "Bust a Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25085_00",
+    "conceptId": 10012040,
+    "name": "Bust a Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25100_00",
     "conceptId": 10012042,
     "name": "Fable Mosaic: Little Red Riding Hood",
@@ -104786,10 +104858,10 @@
   {
     "titleId": "PPSA25751_00",
     "conceptId": 10010426,
-    "name": "The Smurfs - Dreams",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Smurfs \u2013 Dreams",
+    "contentId": "EP4295-PPSA25751_00-SMRFDRMDEMOPS5WW",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA25752_00",
@@ -104984,6 +105056,38 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA25880_00",
+    "conceptId": 10012473,
+    "name": "Path Builder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25881_00",
+    "conceptId": 10012473,
+    "name": "Path Builder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25882_00",
+    "conceptId": 10012473,
+    "name": "Path Builder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25883_00",
+    "conceptId": 10012473,
+    "name": "Path Builder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25900_00",
     "conceptId": 10010944,
     "name": "\u3057\u307e\u3063\u305f!\u7f8e\u4eba\u306b\u56f2\u307e\u308c\u305f!Demo",
@@ -105054,5 +105158,53 @@
     "contentId": "EP1612-PPSA26063_00-TINYSTARFIGHTERS",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA26110_00",
+    "conceptId": 10012617,
+    "name": "Roll Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26111_00",
+    "conceptId": 10012617,
+    "name": "Roll Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26112_00",
+    "conceptId": 10012617,
+    "name": "Roll Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26113_00",
+    "conceptId": 10012617,
+    "name": "Roll Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26133_00",
+    "conceptId": 10012629,
+    "name": "Aradia's Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26247_00",
+    "conceptId": 10012712,
+    "name": "Kickabit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
