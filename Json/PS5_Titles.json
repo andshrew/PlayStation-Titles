@@ -29016,6 +29016,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA07138_00",
+    "conceptId": 10004816,
+    "name": "SYNDUALITY Echo of Ada",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA07139_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY Echo of Ada",
@@ -48230,6 +48238,14 @@
     "contentId": "JP0507-PPSA10451_00-ARTBOOKPS5000000",
     "region": "JP",
     "publisherId": "JP0507"
+  },
+  {
+    "titleId": "PPSA10454_00",
+    "conceptId": 10005392,
+    "name": "Camp Sunshine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA10455_00",
@@ -74304,6 +74320,14 @@
     "publisherId": "EP0182"
   },
   {
+    "titleId": "PPSA17331_00",
+    "conceptId": 10008747,
+    "name": "Starship Troopers: Continuum",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP8825"
+  },
+  {
     "titleId": "PPSA17339_00",
     "conceptId": 10008639,
     "name": "Choo-Choo Charles",
@@ -79635,7 +79659,7 @@
     "titleId": "PPSA18630_00",
     "conceptId": 10009057,
     "name": "Master Detective Archives: RAIN CODE Plus",
-    "contentId": null,
+    "contentId": "EP4947-PPSA18630_00-RAINCODEPLUSMAST",
     "region": "EP",
     "publisherId": "EP4947"
   },
@@ -85090,10 +85114,10 @@
   {
     "titleId": "PPSA19893_00",
     "conceptId": 10004518,
-    "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame",
+    "contentId": "UP0700-PPSA19893_00-SAOFDARTANDSOUND",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA19894_00",
@@ -91488,6 +91512,14 @@
     "publisherId": "UP4456"
   },
   {
+    "titleId": "PPSA21484_00",
+    "conceptId": 10009622,
+    "name": "Farmagia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21485_00",
     "conceptId": 10009326,
     "name": "EA SPORTS\u2122 Madden NFL 25",
@@ -92768,6 +92800,14 @@
     "publisherId": "UP2514"
   },
   {
+    "titleId": "PPSA21793_00",
+    "conceptId": 10008183,
+    "name": "Life is Strange: Double Exposure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21797_00",
     "conceptId": 10008759,
     "name": "Sticks Aim Trainer",
@@ -93122,18 +93162,18 @@
   {
     "titleId": "PPSA21900_00",
     "conceptId": 10009057,
-    "name": "Master Detective Archives: RAIN CODE Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Book of Death",
+    "contentId": "UP4774-PPSA21900_00-0509250238433498",
+    "region": "UP",
+    "publisherId": "UP4774"
   },
   {
     "titleId": "PPSA21901_00",
     "conceptId": 10009057,
-    "name": "Master Detective Archives: RAIN CODE Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Book of Death",
+    "contentId": "EP4947-PPSA21901_00-0485087642965289",
+    "region": "EP",
+    "publisherId": "EP4947"
   },
   {
     "titleId": "PPSA21902_00",
@@ -93250,18 +93290,18 @@
   {
     "titleId": "PPSA21935_00",
     "conceptId": 10009057,
-    "name": "Master Detective Archives: RAIN CODE Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Noise of Neon",
+    "contentId": "UP4774-PPSA21935_00-0212527544457668",
+    "region": "UP",
+    "publisherId": "UP4774"
   },
   {
     "titleId": "PPSA21936_00",
     "conceptId": 10009057,
-    "name": "Master Detective Archives: RAIN CODE Plus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Noise of Neon",
+    "contentId": "EP4947-PPSA21936_00-0677634803777552",
+    "region": "EP",
+    "publisherId": "EP4947"
   },
   {
     "titleId": "PPSA21940_00",
@@ -96312,6 +96352,22 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA22747_00",
+    "conceptId": 10010876,
+    "name": "Card-en-Ciel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22748_00",
+    "conceptId": 10010876,
+    "name": "Card-en-Ciel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22755_00",
     "conceptId": 10010881,
     "name": "Rail Trail",
@@ -97256,6 +97312,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA23069_00",
+    "conceptId": 10010996,
+    "name": "The Legend of Santa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23071_00",
     "conceptId": 10011000,
     "name": "Cazzarion: Star Collector",
@@ -97878,6 +97942,14 @@
     "contentId": "JP0089-PPSA23298_00-0792209160390154",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA23299_00",
+    "conceptId": 10011121,
+    "name": "Pearls of Atlantis",
+    "contentId": "UB0429-PPSA23299_00-0450280834770729",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA23306_00",
@@ -99288,6 +99360,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA23675_00",
+    "conceptId": 10011316,
+    "name": "Chimp Test",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23676_00",
+    "conceptId": 10011316,
+    "name": "Chimp Test",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23685_00",
     "conceptId": 10008971,
     "name": "Off The Grid",
@@ -100400,6 +100488,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA23979_00",
+    "conceptId": 10011485,
+    "name": "Zero the Kamikaze Squirrel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23980_00",
     "conceptId": 10011486,
     "name": "Massi",
@@ -101067,9 +101163,9 @@
     "titleId": "PPSA24179_00",
     "conceptId": 10011593,
     "name": "Predator: Hunting Grounds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3095-PPSA24179_00-PREDATORHUNTGAME",
+    "region": "UP",
+    "publisherId": "UP3095"
   },
   {
     "titleId": "PPSA24180_00",
@@ -103936,6 +104032,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25211_00",
+    "conceptId": 10010663,
+    "name": "RetroRealms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25212_00",
+    "conceptId": 10010663,
+    "name": "RetroRealms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25237_00",
     "conceptId": 10005430,
     "name": "Sky Oceans: Wings For Hire",
@@ -104046,6 +104158,38 @@
     "contentId": "EP3877-PPSA25303_00-NOTDSBASEGAME000",
     "region": "EP",
     "publisherId": "EP3877"
+  },
+  {
+    "titleId": "PPSA25311_00",
+    "conceptId": 10012134,
+    "name": "Bomb The Town",
+    "contentId": "UB0701-PPSA25311_00-0261767117249084",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
+    "titleId": "PPSA25312_00",
+    "conceptId": 10012134,
+    "name": "Bomb The Town",
+    "contentId": "EB0896-PPSA25312_00-0823151993169211",
+    "region": "EB",
+    "publisherId": "EB0896"
+  },
+  {
+    "titleId": "PPSA25313_00",
+    "conceptId": 10012134,
+    "name": "Bomb The Town",
+    "contentId": "JB0640-PPSA25313_00-0502561018145944",
+    "region": "JB",
+    "publisherId": "JB0640"
+  },
+  {
+    "titleId": "PPSA25314_00",
+    "conceptId": 10012134,
+    "name": "Bomb The Town",
+    "contentId": "HB0669-PPSA25314_00-0887387373042695",
+    "region": "HB",
+    "publisherId": "HB0669"
   },
   {
     "titleId": "PPSA25327_00",
@@ -105195,6 +105339,14 @@
     "titleId": "PPSA26133_00",
     "conceptId": 10012629,
     "name": "Aradia's Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26209_00",
+    "conceptId": 10012684,
+    "name": "Pixicharm Collection 1",
     "contentId": null,
     "region": null,
     "publisherId": null
