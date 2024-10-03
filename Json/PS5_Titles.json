@@ -29032,6 +29032,14 @@
     "publisherId": "HP0700"
   },
   {
+    "titleId": "PPSA07140_00",
+    "conceptId": 10004816,
+    "name": "SYNDUALITY Echo of Ada",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA07141_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY Echo of Ada",
@@ -63088,6 +63096,14 @@
     "publisherId": "EP0317"
   },
   {
+    "titleId": "PPSA14632_00",
+    "conceptId": 10007722,
+    "name": "LEGO\u00ae \u30db\u30e9\u30a4\u30be\u30f3 \u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
     "titleId": "PPSA14636_00",
     "conceptId": 10007229,
     "name": "Red Matter 2",
@@ -73624,6 +73640,14 @@
     "publisherId": "EP1003"
   },
   {
+    "titleId": "PPSA17170_00",
+    "conceptId": 10008684,
+    "name": "Micro Mages",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17172_00",
     "conceptId": 10007199,
     "name": "\u4f0a\u8607X -\u5317\u5883\u6b77\u96aa-",
@@ -79651,7 +79675,7 @@
     "titleId": "PPSA18629_00",
     "conceptId": 10009057,
     "name": "Master Detective Archives: RAIN CODE Plus",
-    "contentId": null,
+    "contentId": "UP4774-PPSA18629_00-RAINCODEPLUSMAST",
     "region": "UP",
     "publisherId": "UP4774"
   },
@@ -85098,18 +85122,18 @@
   {
     "titleId": "PPSA19891_00",
     "conceptId": 10004518,
-    "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame",
+    "contentId": "HP0700-PPSA19891_00-SAOFDARTANDSOUND",
+    "region": "HP",
+    "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA19892_00",
     "conceptId": 10004518,
-    "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SWORD ART ONLINE Fractured Daydream Digital Artbook, Soundtrack, and Minigame",
+    "contentId": "EP0700-PPSA19892_00-SAOFDARTANDSOUND",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA19893_00",
@@ -88952,6 +88976,14 @@
     "publisherId": "HB0080"
   },
   {
+    "titleId": "PPSA20773_00",
+    "conceptId": 10001003,
+    "name": "Wingspan",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20775_00",
     "conceptId": 10010078,
     "name": "Phantom Spark",
@@ -92784,6 +92816,14 @@
     "publisherId": "HP1546"
   },
   {
+    "titleId": "PPSA21788_00",
+    "conceptId": 10008183,
+    "name": "Life is Strange: Double Exposure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21789_00",
     "conceptId": 10010493,
     "name": "F1\u00ae Manager 2024",
@@ -94568,6 +94608,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA22256_00",
+    "conceptId": 10010685,
+    "name": "\u904a\u3093\u3067\u5c06\u68cb\u304c\u5f37\u304f\u306a\u308b\uff01 \u9280\u661f\u5c06\u68cbDX2",
+    "contentId": "JP0239-PPSA22256_00-0333827892056753",
+    "region": "JP",
+    "publisherId": "JP0239"
+  },
+  {
     "titleId": "PPSA22260_00",
     "conceptId": 10008497,
     "name": "7\u4eba\u76ee\u306e\u30b2\u30b9\u30c8",
@@ -95766,6 +95814,14 @@
     "contentId": "UP2136-PPSA22562_00-0107064165015991",
     "region": "UP",
     "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA22563_00",
+    "conceptId": 10010793,
+    "name": "Albatroz",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22583_00",
@@ -97210,10 +97266,10 @@
   {
     "titleId": "PPSA23023_00",
     "conceptId": 10010975,
-    "name": "KILL KNIGHT PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "KILL KNIGHT",
+    "contentId": "UP2430-PPSA23023_00-PLYKILLKNIGHTPS5",
+    "region": "UP",
+    "publisherId": "UP2430"
   },
   {
     "titleId": "PPSA23032_00",
@@ -98376,6 +98432,14 @@
     "publisherId": "EP1935"
   },
   {
+    "titleId": "PPSA23425_00",
+    "conceptId": 10007992,
+    "name": "Spectrolite",
+    "contentId": "JP5187-PPSA23425_00-0756958734805146",
+    "region": "JP",
+    "publisherId": "JP5187"
+  },
+  {
     "titleId": "PPSA23426_00",
     "conceptId": 10011186,
     "name": "Grand Rush VR Highway Car Traffic Racing Simulator",
@@ -99406,6 +99470,14 @@
     "contentId": "EP0896-PPSA23689_00-AEROTHEACROBA2RG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA23691_00",
+    "conceptId": 10011327,
+    "name": "Insectum - Epic Battles of Bugs",
+    "contentId": "HP3379-PPSA23691_00-0086117028956046",
+    "region": "HP",
+    "publisherId": "HP3379"
   },
   {
     "titleId": "PPSA23692_00",
@@ -100936,6 +101008,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24112_00",
+    "conceptId": 10011561,
+    "name": "Amanda the Adventurer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24116_00",
     "conceptId": 10009492,
     "name": "Whacking Hell!",
@@ -102379,9 +102459,9 @@
     "titleId": "PPSA24546_00",
     "conceptId": 10011779,
     "name": "Damikira",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA24546_00-DAMIKIRA00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA24547_00",
@@ -104382,6 +104462,14 @@
     "contentId": "UP2005-PPSA25460_00-LTPLABYRINTHGAME",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA25472_00",
+    "conceptId": 10011876,
+    "name": "Battlefront Trench Warriors: Ops of Warfare",
+    "contentId": "UP8681-PPSA25472_00-0685613929730871",
+    "region": "UP",
+    "publisherId": "UP8681"
   },
   {
     "titleId": "PPSA25473_00",
