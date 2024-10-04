@@ -57368,6 +57368,22 @@
     "publisherId": "EP1194"
   },
   {
+    "titleId": "PPSA13427_00",
+    "conceptId": 221727,
+    "name": "Horizon Zero Dawn\u2122 Remastered",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA13428_00",
+    "conceptId": 221727,
+    "name": "Horizon Zero Dawn\u2122 Remastered",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA13431_00",
     "conceptId": 10001697,
     "name": "SEASON: A letter to the future",
@@ -65626,8 +65642,8 @@
   {
     "titleId": "PPSA15518_00",
     "conceptId": 10008034,
-    "name": "THRONE AND LIBERTY: Standard Early Access Pack",
-    "contentId": null,
+    "name": "Throne And Liberty",
+    "contentId": "EP5447-PPSA15518_00-TLPSGAME00000000",
     "region": "EP",
     "publisherId": "EP5447"
   },
@@ -69074,8 +69090,8 @@
   {
     "titleId": "PPSA16194_00",
     "conceptId": 10008034,
-    "name": "\u30b9\u30ed\u30fc\u30f3\u30fb\u30a2\u30f3\u30c9\u30fb\u30ea\u30d0\u30c6\u30a3\uff1a\u65e9\u671f\u30a2\u30af\u30bb\u30b9\u30d1\u30c3\u30af \u2010 \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9",
-    "contentId": null,
+    "name": "Throne And Liberty",
+    "contentId": "JP7550-PPSA16194_00-TLPSGAME00000000",
     "region": "JP",
     "publisherId": "JP7550"
   },
@@ -69171,17 +69187,17 @@
     "titleId": "PPSA16217_00",
     "conceptId": 10008299,
     "name": "Parcel Corps",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7072-PPSA16217_00-PARCELCORPS00000",
+    "region": "EP",
+    "publisherId": "EP7072"
   },
   {
     "titleId": "PPSA16218_00",
     "conceptId": 10008299,
     "name": "Parcel Corps",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7076-PPSA16218_00-PARCELCORPS00000",
+    "region": "UP",
+    "publisherId": "UP7076"
   },
   {
     "titleId": "PPSA16219_00",
@@ -90195,7 +90211,7 @@
     "titleId": "PPSA21107_00",
     "conceptId": 10009845,
     "name": "Max Mustard",
-    "contentId": null,
+    "contentId": "EP3114-PPSA21107_00-0089129303761575",
     "region": "EP",
     "publisherId": "EP3114"
   },
@@ -91707,9 +91723,9 @@
     "titleId": "PPSA21525_00",
     "conceptId": 10008669,
     "name": "Thunder Ray",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA21525_00-THUNDERRAY000000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA21526_00",
@@ -92841,6 +92857,14 @@
   },
   {
     "titleId": "PPSA21793_00",
+    "conceptId": 10008183,
+    "name": "Life is Strange: Double Exposure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21795_00",
     "conceptId": 10008183,
     "name": "Life is Strange: Double Exposure",
     "contentId": null,
@@ -95824,6 +95848,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22564_00",
+    "conceptId": 10010793,
+    "name": "Albatroz",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22583_00",
     "conceptId": 10010798,
     "name": "World of Outlaws: Dirt Racing 24",
@@ -95947,7 +95979,7 @@
     "titleId": "PPSA22617_00",
     "conceptId": 10010811,
     "name": "Metal: Hellsinger VR",
-    "contentId": null,
+    "contentId": "UP1850-PPSA22617_00-MHELLSINGERPSVR2",
     "region": "UP",
     "publisherId": "UP1850"
   },
@@ -96190,6 +96222,14 @@
     "contentId": "UB0599-PPSA22675_00-SPINTHEBOOK00000",
     "region": "UB",
     "publisherId": "UB0599"
+  },
+  {
+    "titleId": "PPSA22679_00",
+    "conceptId": 10010838,
+    "name": "The Sekimeiya: Spun Glass",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22681_00",
@@ -99882,10 +99922,10 @@
   {
     "titleId": "PPSA23832_00",
     "conceptId": 10011419,
-    "name": "Cryptmaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CryptMaster",
+    "contentId": "HP3332-PPSA23832_00-0379245893885774",
+    "region": "HP",
+    "publisherId": "HP3332"
   },
   {
     "titleId": "PPSA23834_00",
@@ -100563,9 +100603,9 @@
     "titleId": "PPSA23979_00",
     "conceptId": 10011485,
     "name": "Zero the Kamikaze Squirrel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA23979_00-ZEROTHEKAMIKAZRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA23980_00",
@@ -101008,7 +101048,23 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24111_00",
+    "conceptId": 10011561,
+    "name": "Amanda the Adventurer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24112_00",
+    "conceptId": 10011561,
+    "name": "Amanda the Adventurer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24114_00",
     "conceptId": 10011561,
     "name": "Amanda the Adventurer",
     "contentId": null,
@@ -101384,6 +101440,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA24223_00",
+    "conceptId": 10011312,
+    "name": "While We Wait Here",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24224_00",
     "conceptId": 10011613,
     "name": "Retro Revengers",
@@ -101480,7 +101544,31 @@
     "publisherId": "EP6880"
   },
   {
+    "titleId": "PPSA24250_00",
+    "conceptId": 10011636,
+    "name": "Dagon: Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24251_00",
+    "conceptId": 10011636,
+    "name": "Dagon: Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24252_00",
+    "conceptId": 10011636,
+    "name": "Dagon: Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24253_00",
     "conceptId": 10011636,
     "name": "Dagon: Complete Edition",
     "contentId": null,
@@ -102856,6 +102944,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA24690_00",
+    "conceptId": 221727,
+    "name": "Horizon Zero Dawn\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24725_00",
     "conceptId": 10010745,
     "name": "Baby Boomer 2: 35 Years Too Soon Mega Chad Edition",
@@ -103304,6 +103400,14 @@
     "publisherId": "HP6147"
   },
   {
+    "titleId": "PPSA24862_00",
+    "conceptId": 10011243,
+    "name": "Wild Hunter: Sniper Rifle Adventures Simulator",
+    "contentId": "UP8703-PPSA24862_00-0361164396518596",
+    "region": "UP",
+    "publisherId": "UP8703"
+  },
+  {
     "titleId": "PPSA24867_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
@@ -103418,10 +103522,10 @@
   {
     "titleId": "PPSA24893_00",
     "conceptId": 10011944,
-    "name": "The Jumping Burger Rush - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Rush",
+    "contentId": "EP6664-PPSA24893_00-0377024587868189",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA24894_00",
@@ -103434,10 +103538,10 @@
   {
     "titleId": "PPSA24895_00",
     "conceptId": 10011944,
-    "name": "The Jumping Burger Rush - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Rush",
+    "contentId": "JP6595-PPSA24895_00-0697390244414898",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA24896_00",
@@ -104080,6 +104184,14 @@
     "publisherId": "UP7782"
   },
   {
+    "titleId": "PPSA25187_00",
+    "conceptId": 10012000,
+    "name": "Horror Clash",
+    "contentId": "EP4312-PPSA25187_00-0706788466917067",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
     "titleId": "PPSA25197_00",
     "conceptId": 10012086,
     "name": "DaylightDread",
@@ -104475,33 +104587,33 @@
     "titleId": "PPSA25473_00",
     "conceptId": 10012243,
     "name": "Parcel Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25473_00-0640367653163127",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25474_00",
     "conceptId": 10012243,
     "name": "Parcel Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25474_00-0243298550814979",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25475_00",
     "conceptId": 10012243,
     "name": "Parcel Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25475_00-0745988211103984",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25476_00",
     "conceptId": 10012243,
     "name": "Parcel Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25476_00-0807324265322921",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25477_00",
@@ -105427,9 +105539,9 @@
     "titleId": "PPSA26133_00",
     "conceptId": 10012629,
     "name": "Aradia's Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA26133_00-ARADIASJOURNEY00",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA26209_00",
