@@ -57384,6 +57384,14 @@
     "publisherId": "UP9000"
   },
   {
+    "titleId": "PPSA13429_00",
+    "conceptId": 221727,
+    "name": "Horizon Zero Dawn\u2122 Remastered",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA13431_00",
     "conceptId": 10001697,
     "name": "SEASON: A letter to the future",
@@ -65634,8 +65642,8 @@
   {
     "titleId": "PPSA15517_00",
     "conceptId": 10008034,
-    "name": "THRONE AND LIBERTY: Standard Early Access Pack",
-    "contentId": null,
+    "name": "Throne And Liberty",
+    "contentId": "UP5267-PPSA15517_00-TLPSGAME00000000",
     "region": "UP",
     "publisherId": "UP5267"
   },
@@ -80859,7 +80867,7 @@
     "titleId": "PPSA18906_00",
     "conceptId": 10007897,
     "name": "Until Dawn -\u60e8\u5287\u306e\u5c71\u8358-",
-    "contentId": null,
+    "contentId": "JP9000-PPSA18906_00-JP00000000000001",
     "region": "JP",
     "publisherId": "JP9000"
   },
@@ -86264,6 +86272,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA20131_00",
+    "conceptId": 10009795,
+    "name": "Adventure & Horror Pinball",
+    "contentId": "UP6927-PPSA20131_00-0087852988588715",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA20133_00",
     "conceptId": 10009795,
     "name": "Adventure & Horror Pinball",
@@ -91552,6 +91568,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21474_00",
+    "conceptId": 10009622,
+    "name": "Farmagia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21480_00",
     "conceptId": 10008760,
     "name": "Broken Sword - Shadow of the Templars: Reforged",
@@ -91731,9 +91755,9 @@
     "titleId": "PPSA21526_00",
     "conceptId": 10008669,
     "name": "Thunder Ray",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA21526_00-THUNDERRAY000000",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA21529_00",
@@ -96208,6 +96232,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA22671_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22674_00",
     "conceptId": 10010834,
     "name": "Spin the Book",
@@ -96225,6 +96257,14 @@
   },
   {
     "titleId": "PPSA22679_00",
+    "conceptId": 10010838,
+    "name": "The Sekimeiya: Spun Glass",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22680_00",
     "conceptId": 10010838,
     "name": "The Sekimeiya: Spun Glass",
     "contentId": null,
@@ -99448,6 +99488,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA23672_00",
+    "conceptId": 10007113,
+    "name": "MACROSS -Shooting Insight-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23673_00",
     "conceptId": 10011316,
     "name": "Chimp Test",
@@ -99467,17 +99515,17 @@
     "titleId": "PPSA23675_00",
     "conceptId": 10011316,
     "name": "Chimp Test",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA23675_00-0426631767680576",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA23676_00",
     "conceptId": 10011316,
     "name": "Chimp Test",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA23676_00-0041378480720518",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA23685_00",
@@ -99710,6 +99758,14 @@
     "contentId": "UP7552-PPSA23759_00-0958493482647496",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA23760_00",
+    "conceptId": 10008849,
+    "name": "Nikoderiko: The Magical World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23761_00",
@@ -101057,6 +101113,14 @@
   },
   {
     "titleId": "PPSA24112_00",
+    "conceptId": 10011561,
+    "name": "Amanda the Adventurer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24113_00",
     "conceptId": 10011561,
     "name": "Amanda the Adventurer",
     "contentId": null,
@@ -103530,10 +103594,10 @@
   {
     "titleId": "PPSA24894_00",
     "conceptId": 10011944,
-    "name": "The Jumping Burger Rush - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Rush",
+    "contentId": "UP6664-PPSA24894_00-0026853269765398",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA24895_00",
@@ -103546,10 +103610,10 @@
   {
     "titleId": "PPSA24896_00",
     "conceptId": 10011944,
-    "name": "The Jumping Burger Rush - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Rush",
+    "contentId": "HP6661-PPSA24896_00-0671206719936402",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA24901_00",
@@ -104190,6 +104254,14 @@
     "contentId": "EP4312-PPSA25187_00-0706788466917067",
     "region": "EP",
     "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA25188_00",
+    "conceptId": 10012000,
+    "name": "Horror Clash",
+    "contentId": "UP4312-PPSA25188_00-0956056923707242",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA25197_00",
@@ -105091,9 +105163,9 @@
     "titleId": "PPSA25727_00",
     "conceptId": 10012384,
     "name": "Math Genius: Addition Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA25727_00-0455417404312626",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA25737_00",
@@ -105299,6 +105371,22 @@
     "titleId": "PPSA25791_00",
     "conceptId": 10011936,
     "name": "Mimi the Cat: New Friends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25794_00",
+    "conceptId": 10012420,
+    "name": "Don't let him in",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25795_00",
+    "conceptId": 10012420,
+    "name": "Don't let him in",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -105547,6 +105635,38 @@
     "titleId": "PPSA26209_00",
     "conceptId": 10012684,
     "name": "Pixicharm Collection 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26218_00",
+    "conceptId": 10012695,
+    "name": "Gems Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26219_00",
+    "conceptId": 10012695,
+    "name": "Gems Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26220_00",
+    "conceptId": 10012695,
+    "name": "Gems Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26221_00",
+    "conceptId": 10012695,
+    "name": "Gems Rush",
     "contentId": null,
     "region": null,
     "publisherId": null
