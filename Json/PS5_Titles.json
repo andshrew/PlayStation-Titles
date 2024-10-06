@@ -64587,17 +64587,17 @@
     "titleId": "PPSA15340_00",
     "conceptId": 10007960,
     "name": "SpongeBob SquarePants\u2122: The Patrick Star Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA15340_00-PATRICKSIM01SIEA",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA15341_00",
     "conceptId": 10007960,
     "name": "SpongeBob SquarePants\u2122: The Patrick Star Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA15341_00-PATRICKSIM01SIEE",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA15342_00",
@@ -65026,8 +65026,8 @@
   {
     "titleId": "PPSA15421_00",
     "conceptId": 10007897,
-    "name": "Until Dawn\u2122",
-    "contentId": null,
+    "name": "Until Dawn",
+    "contentId": "EP9000-PPSA15421_00-FULLGAME00000001",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -80010,10 +80010,10 @@
   {
     "titleId": "PPSA18716_00",
     "conceptId": 10009282,
-    "name": "Skautfold: Into the Fray",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Skautfold : Into The Fray",
+    "contentId": "EP5098-PPSA18716_00-0634520781407326",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA18718_00",
@@ -86280,6 +86280,14 @@
     "publisherId": "UP6927"
   },
   {
+    "titleId": "PPSA20132_00",
+    "conceptId": 10009795,
+    "name": "Adventure & Horror Pinball",
+    "contentId": "EP6922-PPSA20132_00-0386846740072410",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA20133_00",
     "conceptId": 10009795,
     "name": "Adventure & Horror Pinball",
@@ -90856,6 +90864,14 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA21293_00",
+    "conceptId": 10010145,
+    "name": "Potionomics: Masterwork Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21296_00",
     "conceptId": 10010291,
     "name": "Withering Rooms",
@@ -94094,6 +94110,14 @@
     "contentId": "EP1001-PPSA22121_00-NBA2K25000000000",
     "region": "EP",
     "publisherId": "EP1001"
+  },
+  {
+    "titleId": "PPSA22122_00",
+    "conceptId": 10008850,
+    "name": "Soul Stalker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22123_00",
@@ -102648,6 +102672,38 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA24551_00",
+    "conceptId": 10011770,
+    "name": "Horn and Shields",
+    "contentId": "UP7668-PPSA24551_00-0887066269516230",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24552_00",
+    "conceptId": 10011770,
+    "name": "Horn and Shields",
+    "contentId": "UP7668-PPSA24552_00-0005448708811677",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24553_00",
+    "conceptId": 10011770,
+    "name": "Horn and Shields",
+    "contentId": "UP7668-PPSA24553_00-0837709046200474",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24554_00",
+    "conceptId": 10011770,
+    "name": "Horn and Shields",
+    "contentId": "UP7668-PPSA24554_00-0839816602133588",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA24563_00",
     "conceptId": 10011788,
     "name": "CORN GUARD",
@@ -104691,33 +104747,33 @@
     "titleId": "PPSA25477_00",
     "conceptId": 10012244,
     "name": "Farm Champions: Harvest Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25477_00-0431518058111058",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25478_00",
     "conceptId": 10012244,
     "name": "Farm Champions: Harvest Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25478_00-0562565493689540",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25479_00",
     "conceptId": 10012244,
     "name": "Farm Champions: Harvest Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25479_00-0680162200283241",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25480_00",
     "conceptId": 10012244,
     "name": "Farm Champions: Harvest Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25480_00-0307968083231247",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25519_00",
@@ -105120,6 +105176,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA25687_00",
+    "conceptId": 10012349,
+    "name": "Pool Puzzles",
+    "contentId": "UB0008-PPSA25687_00-0177406051130273",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA25689_00",
     "conceptId": 10012351,
     "name": "Nightshade Ninja Warrior",
@@ -105132,6 +105196,14 @@
     "conceptId": 10012352,
     "name": "Shark Adventure",
     "contentId": "UB0008-PPSA25690_00-0682446311641083",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA25693_00",
+    "conceptId": 10012355,
+    "name": "Shadow Quest",
+    "contentId": "UB0008-PPSA25693_00-0518132786050759",
     "region": "UB",
     "publisherId": "UB0008"
   },
