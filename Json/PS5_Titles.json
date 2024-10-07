@@ -78696,6 +78696,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18380_00",
+    "conceptId": 10009142,
+    "name": "Shadow Tactics: Aiko's Choice",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18381_00",
     "conceptId": 10006228,
     "name": "OPERATION SERPENS",
@@ -80146,8 +80154,8 @@
   {
     "titleId": "PPSA18744_00",
     "conceptId": 10009268,
-    "name": "NHL\u00ae 25 Deluxe Edition PS5 + Limited Time Bonus",
-    "contentId": null,
+    "name": "NHL 25",
+    "contentId": "UP0006-PPSA18744_00-NHLPS5HOCKEY2025",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -87838,6 +87846,14 @@
     "contentId": "UP8375-PPSA20496_00-0021138647974426",
     "region": "UP",
     "publisherId": "UP8375"
+  },
+  {
+    "titleId": "PPSA20498_00",
+    "conceptId": 10009966,
+    "name": "Cute Bite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20499_00",
@@ -101880,6 +101896,14 @@
     "publisherId": "UB1011"
   },
   {
+    "titleId": "PPSA24340_00",
+    "conceptId": 10011679,
+    "name": "Orbital Dance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24347_00",
     "conceptId": 10009937,
     "name": "The First Berserker: Khazan",
@@ -102787,6 +102811,14 @@
     "titleId": "PPSA24582_00",
     "conceptId": 10007897,
     "name": "Until Dawn\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24592_00",
+    "conceptId": 10011798,
+    "name": "Backrooms: Partygoers",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -103838,6 +103870,14 @@
     "contentId": "UB0001-PPSA24973_00-0168363449914703",
     "region": "UB",
     "publisherId": "UB0001"
+  },
+  {
+    "titleId": "PPSA24974_00",
+    "conceptId": 10010350,
+    "name": "Speedollama",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24980_00",
@@ -105651,9 +105691,9 @@
     "titleId": "PPSA26018_00",
     "conceptId": 10012127,
     "name": "Hyper Rider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1123-PPSA26018_00-0017060805443947",
+    "region": "EB",
+    "publisherId": "EB1123"
   },
   {
     "titleId": "PPSA26063_00",
@@ -105702,6 +105742,38 @@
     "contentId": "EP1612-PPSA26133_00-ARADIASJOURNEY00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA26200_00",
+    "conceptId": 10012677,
+    "name": "Stick Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26201_00",
+    "conceptId": 10012677,
+    "name": "Stick Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26202_00",
+    "conceptId": 10012677,
+    "name": "Stick Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26203_00",
+    "conceptId": 10012677,
+    "name": "Stick Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26209_00",
