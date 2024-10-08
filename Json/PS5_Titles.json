@@ -25787,7 +25787,7 @@
     "titleId": "PPSA06566_00",
     "conceptId": 10004518,
     "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30d5\u30e9\u30af\u30c1\u30e5\u30a2\u30fc\u30c9 \u30c7\u30a4\u30c9\u30ea\u30fc\u30e0",
-    "contentId": null,
+    "contentId": "JP0700-PPSA06566_00-SWORDARTONLINE07",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -86312,6 +86312,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA20139_00",
+    "conceptId": 10009798,
+    "name": "SlavicPunk: Oldtimer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20141_00",
     "conceptId": 10009799,
     "name": "Survival: Fountain of Youth - Captain's Edition",
@@ -87846,6 +87854,14 @@
     "contentId": "UP8375-PPSA20496_00-0021138647974426",
     "region": "UP",
     "publisherId": "UP8375"
+  },
+  {
+    "titleId": "PPSA20497_00",
+    "conceptId": 10009966,
+    "name": "Cute Bite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20498_00",
@@ -97194,10 +97210,10 @@
   {
     "titleId": "PPSA22946_00",
     "conceptId": 223683,
-    "name": "LEGO\u00ae  Harry Potter\u2122 Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LEGO\u00ae Harry Potter\u2122 Collection",
+    "contentId": "EP1018-PPSA22946_00-HARRYPOTTER17000",
+    "region": "EP",
+    "publisherId": "EP1018"
   },
   {
     "titleId": "PPSA22948_00",
@@ -100707,9 +100723,9 @@
     "titleId": "PPSA23980_00",
     "conceptId": 10011486,
     "name": "Massi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA23980_00-MASSIRATALAIKGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA23981_00",
@@ -101016,6 +101032,14 @@
     "publisherId": "EP7654"
   },
   {
+    "titleId": "PPSA24075_00",
+    "conceptId": 10011545,
+    "name": "Killing Time: Resurrected",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24077_00",
     "conceptId": 10011546,
     "name": "Snake Seeker",
@@ -101302,6 +101326,14 @@
     "contentId": "HP1792-PPSA24145_00-SYPS5CREEPYTALE4",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA24148_00",
+    "conceptId": 10011585,
+    "name": "Puppet House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24160_00",
@@ -102206,6 +102238,14 @@
     "contentId": "UP8787-PPSA24418_00-0703343312171315",
     "region": "UP",
     "publisherId": "UP8787"
+  },
+  {
+    "titleId": "PPSA24419_00",
+    "conceptId": 10011714,
+    "name": "Hunt and Fight: Action RPG",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7907"
   },
   {
     "titleId": "PPSA24421_00",
@@ -104403,9 +104443,9 @@
     "titleId": "PPSA25212_00",
     "conceptId": 10010663,
     "name": "RetroRealms",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6285-PPSA25212_00-0998060248225133",
+    "region": "EP",
+    "publisherId": "EP6285"
   },
   {
     "titleId": "PPSA25237_00",
@@ -105179,9 +105219,9 @@
     "titleId": "PPSA25675_00",
     "conceptId": 10012339,
     "name": "Blind - The Unseen Truth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0675-PPSA25675_00-0792379009763368",
+    "region": "UB",
+    "publisherId": "UB0675"
   },
   {
     "titleId": "PPSA25676_00",
@@ -105747,33 +105787,33 @@
     "titleId": "PPSA26200_00",
     "conceptId": 10012677,
     "name": "Stick Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA26200_00-0218575443319194",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA26201_00",
     "conceptId": 10012677,
     "name": "Stick Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA26201_00-0709570526695802",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA26202_00",
     "conceptId": 10012677,
     "name": "Stick Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA26202_00-0306586384311170",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA26203_00",
     "conceptId": 10012677,
     "name": "Stick Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA26203_00-0416078573848354",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA26209_00",
