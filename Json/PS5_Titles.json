@@ -25794,8 +25794,8 @@
   {
     "titleId": "PPSA06567_00",
     "conceptId": 10004518,
-    "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
+    "name": "\u5200\u528d\u795e\u57df \u788e\u5922\u908a\u5883",
+    "contentId": "HP0700-PPSA06567_00-SWORDARTONLINE07",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -25803,7 +25803,7 @@
     "titleId": "PPSA06568_00",
     "conceptId": 10004518,
     "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
+    "contentId": "EP0700-PPSA06568_00-SWORDARTONLINE07",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -60562,10 +60562,10 @@
   {
     "titleId": "PPSA14030_00",
     "conceptId": 10005529,
-    "name": "SILENT HILL 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SILENT HILL 2 - Bonus Content",
+    "contentId": "HP0101-PPSA14030_00-BONUS00000000000",
+    "region": "HP",
+    "publisherId": "HP0101"
   },
   {
     "titleId": "PPSA14031_00",
@@ -76392,6 +76392,14 @@
     "publisherId": "EP7072"
   },
   {
+    "titleId": "PPSA17851_00",
+    "conceptId": 10008959,
+    "name": "Starship Troopers: Extermination",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17853_00",
     "conceptId": 10008835,
     "name": "Alphadia I&II",
@@ -83438,6 +83446,14 @@
     "contentId": "HP1419-PPSA19470_00-SIEASIA000000000",
     "region": "HP",
     "publisherId": "HP1419"
+  },
+  {
+    "titleId": "PPSA19473_00",
+    "conceptId": 10008888,
+    "name": "Yatzi",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19476_00",
@@ -94768,6 +94784,14 @@
     "publisherId": "UP7664"
   },
   {
+    "titleId": "PPSA22268_00",
+    "conceptId": 10009622,
+    "name": "Farmagia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22269_00",
     "conceptId": 10010427,
     "name": "Mortal Fight: Lethal Revenge",
@@ -96382,6 +96406,14 @@
     "contentId": "EP5335-PPSA22698_00-CRYPTCUSTODIANDM",
     "region": "EP",
     "publisherId": "EP5335"
+  },
+  {
+    "titleId": "PPSA22699_00",
+    "conceptId": 10010737,
+    "name": "Fear the Spotlight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22700_00",
@@ -102840,6 +102872,14 @@
     "publisherId": "UP3362"
   },
   {
+    "titleId": "PPSA24578_00",
+    "conceptId": 10009622,
+    "name": "Farmagia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24581_00",
     "conceptId": 10007897,
     "name": "Until Dawn\u2122",
@@ -104418,18 +104458,18 @@
   {
     "titleId": "PPSA25205_00",
     "conceptId": 10012096,
-    "name": "To the Moon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "To The Moon",
+    "contentId": "EP0600-PPSA25205_00-0548147438841681",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA25207_00",
     "conceptId": 10012096,
-    "name": "To the Moon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "To The Moon",
+    "contentId": "EP0600-PPSA25207_00-0528611509447835",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA25211_00",
@@ -104590,6 +104630,14 @@
     "contentId": "HB0669-PPSA25314_00-0887387373042695",
     "region": "HB",
     "publisherId": "HB0669"
+  },
+  {
+    "titleId": "PPSA25318_00",
+    "conceptId": 10011866,
+    "name": "Songs of Silence",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25327_00",
@@ -105208,6 +105256,14 @@
     "publisherId": "EP5864"
   },
   {
+    "titleId": "PPSA25656_00",
+    "conceptId": 10012326,
+    "name": "Knight Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25671_00",
     "conceptId": 10012338,
     "name": "\u9280\u306e\u65a7 - The Honest Elf",
@@ -105302,6 +105358,22 @@
     "contentId": "UB0008-PPSA25697_00-0663576109236635",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA25711_00",
+    "conceptId": 10012375,
+    "name": "Tilting Tiles: Fires of Industry",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25712_00",
+    "conceptId": 10012375,
+    "name": "Tilting Tiles: Fires of Industry",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25725_00",
@@ -105506,10 +105578,10 @@
   {
     "titleId": "PPSA25789_00",
     "conceptId": 10011936,
-    "name": "Mimi the Cat: New Friends",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mimi The Cat: New Friends",
+    "contentId": "EP8701-PPSA25789_00-0928069686907327",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA25790_00",
@@ -105539,6 +105611,14 @@
     "titleId": "PPSA25795_00",
     "conceptId": 10012420,
     "name": "Don't let him in",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25809_00",
+    "conceptId": 10012429,
+    "name": "O.W.L Projekt",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -105782,6 +105862,14 @@
     "contentId": "EP1612-PPSA26133_00-ARADIASJOURNEY00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA26181_00",
+    "conceptId": 10012652,
+    "name": "Perfect Ninja Painter 2",
+    "contentId": "UP8623-PPSA26181_00-0268463280531193",
+    "region": "UP",
+    "publisherId": "UP8623"
   },
   {
     "titleId": "PPSA26200_00",
