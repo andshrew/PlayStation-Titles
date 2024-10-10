@@ -48251,9 +48251,9 @@
     "titleId": "PPSA10454_00",
     "conceptId": 10005392,
     "name": "Camp Sunshine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6604-PPSA10454_00-3989120908578944",
+    "region": "EP",
+    "publisherId": "EP6604"
   },
   {
     "titleId": "PPSA10455_00",
@@ -60538,10 +60538,10 @@
   {
     "titleId": "PPSA14027_00",
     "conceptId": 10005529,
-    "name": "SILENT HILL 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SILENT HILL 2 - Bonus Content",
+    "contentId": "JP0101-PPSA14027_00-BONUS00000000000",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA14028_00",
@@ -63987,7 +63987,7 @@
     "titleId": "PPSA15207_00",
     "conceptId": 10007902,
     "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb Sparking! ZERO",
-    "contentId": null,
+    "contentId": "JP0700-PPSA15207_00-DRAGONBALLSPARK0",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -68142,6 +68142,22 @@
     "contentId": "UP1643-PPSA16005_00-RUBBERDUCK0PS5US",
     "region": "UP",
     "publisherId": "UP1643"
+  },
+  {
+    "titleId": "PPSA16006_00",
+    "conceptId": 10008205,
+    "name": "Wildermyth: Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16007_00",
+    "conceptId": 10008205,
+    "name": "Wildermyth: Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16016_00",
@@ -77123,9 +77139,9 @@
     "titleId": "PPSA18001_00",
     "conceptId": 10009016,
     "name": "Heavy Cargo - The Truck Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA18001_00-0774800486474215",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA18002_00",
@@ -77475,9 +77491,9 @@
     "titleId": "PPSA18090_00",
     "conceptId": 10008971,
     "name": "Off The Grid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7157-PPSA18090_00-OFFTHEGRIDCLIENT",
+    "region": "UP",
+    "publisherId": "UP7157"
   },
   {
     "titleId": "PPSA18091_00",
@@ -83456,6 +83472,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19475_00",
+    "conceptId": 10008888,
+    "name": "Yatzi",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19476_00",
     "conceptId": 10004151,
     "name": "Harry Potter: Quidditch Champions",
@@ -86328,6 +86352,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA20138_00",
+    "conceptId": 10009798,
+    "name": "SlavicPunk: Oldtimer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20139_00",
     "conceptId": 10009798,
     "name": "SlavicPunk: Oldtimer",
@@ -86338,10 +86370,10 @@
   {
     "titleId": "PPSA20141_00",
     "conceptId": 10009799,
-    "name": "Survival: Fountain of Youth - Captain's Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Survival: Fountain of Youth",
+    "contentId": "UP4744-PPSA20141_00-0299100799350881",
+    "region": "UP",
+    "publisherId": "UP4744"
   },
   {
     "titleId": "PPSA20142_00",
@@ -88723,9 +88755,9 @@
     "titleId": "PPSA20682_00",
     "conceptId": 10010055,
     "name": "Tents and Trees",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0107-PPSA20682_00-0689024586664775",
+    "region": "EB",
+    "publisherId": "EB0107"
   },
   {
     "titleId": "PPSA20683_00",
@@ -90963,9 +90995,9 @@
     "titleId": "PPSA21318_00",
     "conceptId": 10010299,
     "name": "Last Time I Saw You",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0211-PPSA21318_00-0959408116819162",
+    "region": "JP",
+    "publisherId": "JP0211"
   },
   {
     "titleId": "PPSA21321_00",
@@ -91222,6 +91254,14 @@
     "contentId": "EP6890-PPSA21382_00-0410268520525028",
     "region": "EP",
     "publisherId": "EP6890"
+  },
+  {
+    "titleId": "PPSA21387_00",
+    "conceptId": 10010325,
+    "name": "Zombie Survivors",
+    "contentId": "UP8255-PPSA21387_00-07606800133901NA",
+    "region": "UP",
+    "publisherId": "UP8255"
   },
   {
     "titleId": "PPSA21388_00",
@@ -91992,6 +92032,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA21578_00",
+    "conceptId": 10009617,
+    "name": "Monarchy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21582_00",
     "conceptId": 10010414,
     "name": "RPM - Road Punk Mayhem",
@@ -92094,6 +92142,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA21613_00",
+    "conceptId": 10010236,
+    "name": "El Paso, Elsewhere",
+    "contentId": "EP6458-PPSA21613_00-ELPASOELSEWHEREX",
+    "region": "EP",
+    "publisherId": "EP6458"
   },
   {
     "titleId": "PPSA21614_00",
@@ -92792,6 +92848,14 @@
     "publisherId": "EP3392"
   },
   {
+    "titleId": "PPSA21739_00",
+    "conceptId": 227097,
+    "name": "Arizona Sunshine\u00ae",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21740_00",
     "conceptId": 10003586,
     "name": "\u30d0\u30eb\u30c0\u30fc\u30c0\u30c3\u30b7\u30e5\u30c7\u30e9\u30c3\u30af\u30b9",
@@ -92822,6 +92886,14 @@
     "contentId": "EP3245-PPSA21751_00-0501913275627825",
     "region": "EP",
     "publisherId": "EP3245"
+  },
+  {
+    "titleId": "PPSA21757_00",
+    "conceptId": 10010482,
+    "name": "Fantasy Friends: Dream Worlds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21759_00",
@@ -93390,6 +93462,30 @@
     "contentId": "UP8787-PPSA21917_00-0560074151737643",
     "region": "UP",
     "publisherId": "UP8787"
+  },
+  {
+    "titleId": "PPSA21925_00",
+    "conceptId": 10009617,
+    "name": "Monarchy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21926_00",
+    "conceptId": 10009617,
+    "name": "Monarchy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21927_00",
+    "conceptId": 10009617,
+    "name": "Monarchy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21929_00",
@@ -95003,6 +95099,14 @@
     "titleId": "PPSA22349_00",
     "conceptId": 10010711,
     "name": "Drova- Forsaken Kin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22358_00",
+    "conceptId": 10008755,
+    "name": "SONIC X SHADOW GENERATIONS",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -100080,6 +100184,14 @@
     "publisherId": "UP9000"
   },
   {
+    "titleId": "PPSA23835_00",
+    "conceptId": 10005046,
+    "name": "REYNATIS TRIAL VERSION",
+    "contentId": "HP0036-PPSA23835_00-DEMOPS5000000000",
+    "region": "HP",
+    "publisherId": "HP0036"
+  },
+  {
     "titleId": "PPSA23837_00",
     "conceptId": 10011298,
     "name": "Find The Thing",
@@ -101731,17 +101843,17 @@
     "titleId": "PPSA24252_00",
     "conceptId": 10011636,
     "name": "Dagon: Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA24252_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA24253_00",
     "conceptId": 10011636,
     "name": "Dagon: Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA24253_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA24263_00",
@@ -103144,6 +103256,14 @@
     "publisherId": "EP1947"
   },
   {
+    "titleId": "PPSA24670_00",
+    "conceptId": 10011838,
+    "name": "Stable Stories - Forest and Meadow Ride",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24673_00",
     "conceptId": 10011840,
     "name": "Rope Hope",
@@ -103515,9 +103635,9 @@
     "titleId": "PPSA24828_00",
     "conceptId": 10011915,
     "name": "Cats and Seek : Osaka",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA24828_00-0999759229955236",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA24829_00",
@@ -103640,6 +103760,14 @@
     "publisherId": "UP8703"
   },
   {
+    "titleId": "PPSA24863_00",
+    "conceptId": 10009955,
+    "name": "Dinosaur RPG - Dino Survival Simulator Survivor",
+    "contentId": "UP8681-PPSA24863_00-0278356483432573",
+    "region": "UP",
+    "publisherId": "UP8681"
+  },
+  {
     "titleId": "PPSA24867_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
@@ -103746,10 +103874,10 @@
   {
     "titleId": "PPSA24886_00",
     "conceptId": 10011936,
-    "name": "Mimi the Cat: New Friends",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mimi The Cat: New Friends",
+    "contentId": "UP8511-PPSA24886_00-0734533068288300",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA24893_00",
@@ -104491,9 +104619,9 @@
     "titleId": "PPSA25237_00",
     "conceptId": 10005430,
     "name": "Sky Oceans: Wings For Hire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA25237_00-SKYOCEANSPS5SIJA",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA25238_00",
@@ -105586,18 +105714,18 @@
   {
     "titleId": "PPSA25790_00",
     "conceptId": 10011936,
-    "name": "Mimi the Cat: New Friends",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mimi The Cat: New Friends",
+    "contentId": "JP8416-PPSA25790_00-0719879137073389",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA25791_00",
     "conceptId": 10011936,
-    "name": "Mimi the Cat: New Friends",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mimi The Cat: New Friends",
+    "contentId": "HP8462-PPSA25791_00-0913160848803770",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA25794_00",
@@ -105862,6 +105990,14 @@
     "contentId": "EP1612-PPSA26133_00-ARADIASJOURNEY00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA26166_00",
+    "conceptId": 10012652,
+    "name": "Perfect Ninja Painter 2",
+    "contentId": "UP8623-PPSA26166_00-0614602391560233",
+    "region": "UP",
+    "publisherId": "UP8623"
   },
   {
     "titleId": "PPSA26181_00",
