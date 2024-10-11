@@ -3010,8 +3010,8 @@
   {
     "titleId": "PPSA02075_00",
     "conceptId": 10001029,
-    "name": "\u30e1\u30bf\u30d5\u30a1\u30fc\uff1a\u30ea\u30d5\u30a1\u30f3\u30bf\u30b8\u30aa PS4 & PS5",
-    "contentId": null,
+    "name": "\u30e1\u30bf\u30d5\u30a1\u30fc\uff1a\u30ea\u30d5\u30a1\u30f3\u30bf\u30b8\u30aa",
+    "contentId": "JP0005-PPSA02075_00-METAPHORJP000001",
     "region": "JP",
     "publisherId": "JP0005"
   },
@@ -25811,7 +25811,7 @@
     "titleId": "PPSA06569_00",
     "conceptId": 10004518,
     "name": "SWORD ART ONLINE Fractured Daydream",
-    "contentId": null,
+    "contentId": "UP0700-PPSA06569_00-SWORDARTONLINE07",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -37827,7 +37827,7 @@
     "titleId": "PPSA08710_00",
     "conceptId": 10005529,
     "name": "SILENT HILL 2",
-    "contentId": null,
+    "contentId": "UP0101-PPSA08710_00-MAINGAME00000000",
     "region": "UP",
     "publisherId": "UP0101"
   },
@@ -60546,18 +60546,18 @@
   {
     "titleId": "PPSA14028_00",
     "conceptId": 10005529,
-    "name": "SILENT HILL 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SILENT HILL 2 - Bonus Content",
+    "contentId": "EP0101-PPSA14028_00-BONUS00000000000",
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA14029_00",
     "conceptId": 10005529,
-    "name": "SILENT HILL 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SILENT HILL 2 - Bonus Content",
+    "contentId": "UP0101-PPSA14029_00-BONUS00000000000",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA14030_00",
@@ -71864,6 +71864,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16756_00",
+    "conceptId": 10008489,
+    "name": "Star Wars\u2122: Episode I: Jedi Power Battles\u2122 PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1032"
+  },
+  {
     "titleId": "PPSA16759_00",
     "conceptId": 10008433,
     "name": "Cubic Figures 2",
@@ -77147,9 +77155,9 @@
     "titleId": "PPSA18002_00",
     "conceptId": 10009016,
     "name": "Heavy Cargo - The Truck Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3003-PPSA18002_00-0171202496107409",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA18003_00",
@@ -86378,10 +86386,10 @@
   {
     "titleId": "PPSA20142_00",
     "conceptId": 10009799,
-    "name": "Survival: Fountain of Youth - Captain's Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Survival: Fountain of Youth",
+    "contentId": "EP4917-PPSA20142_00-0729698374507428",
+    "region": "EP",
+    "publisherId": "EP4917"
   },
   {
     "titleId": "PPSA20145_00",
@@ -86990,6 +86998,22 @@
     "contentId": "UP8787-PPSA20284_00-0645648965156914",
     "region": "UP",
     "publisherId": "UP8787"
+  },
+  {
+    "titleId": "PPSA20288_00",
+    "conceptId": 10009861,
+    "name": "Kong: Survivor Instinct",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20289_00",
+    "conceptId": 10009861,
+    "name": "Kong: Survivor Instinct",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20294_00",
@@ -92142,6 +92166,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA21612_00",
+    "conceptId": 10010236,
+    "name": "El Paso, Elsewhere",
+    "contentId": "UP6459-PPSA21612_00-ELPASOELSEWHEREX",
+    "region": "UP",
+    "publisherId": "UP6459"
   },
   {
     "titleId": "PPSA21613_00",
@@ -98282,26 +98314,26 @@
   {
     "titleId": "PPSA23306_00",
     "conceptId": 10001029,
-    "name": "Metaphor: ReFantazio",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30e1\u30bf\u30d5\u30a1\u30fc\uff1a\u30ea\u30d5\u30a1\u30f3\u30bf\u30b8\u30aa \u30c7\u30b8\u30bf\u30eb\u30fb\u30d7\u30ec\u30df\u30a2\u30e0\u30fb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
+    "contentId": "JP0005-PPSA23306_00-METAPHORJPANV002",
+    "region": "JP",
+    "publisherId": "JP0005"
   },
   {
     "titleId": "PPSA23307_00",
     "conceptId": 10001029,
-    "name": "Metaphor: ReFantazio",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Metaphor: ReFantazio - Digital Soundtrack",
+    "contentId": "JP0177-PPSA23307_00-METAPHORJPANV003",
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA23308_00",
     "conceptId": 10001029,
-    "name": "Metaphor: ReFantazio",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30a2\u30c8\u30e9\u30b9\u30d6\u30e9\u30f3\u30c935th \u30c7\u30b8\u30bf\u30eb\u30fb\u30d2\u30b9\u30c8\u30ea\u30fc\u30d6\u30c3\u30af",
+    "contentId": "JP0005-PPSA23308_00-METAPHORJPANV004",
+    "region": "JP",
+    "publisherId": "JP0005"
   },
   {
     "titleId": "PPSA23309_00",
@@ -100888,6 +100920,14 @@
     "publisherId": "UP7788"
   },
   {
+    "titleId": "PPSA23983_00",
+    "conceptId": 10011145,
+    "name": "Necro Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23984_00",
     "conceptId": 10008927,
     "name": "Mangavania 2",
@@ -101315,33 +101355,33 @@
     "titleId": "PPSA24111_00",
     "conceptId": 10011561,
     "name": "Amanda the Adventurer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7254-PPSA24111_00-0714242922183498",
+    "region": "HP",
+    "publisherId": "HP7254"
   },
   {
     "titleId": "PPSA24112_00",
     "conceptId": 10011561,
     "name": "Amanda the Adventurer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7254-PPSA24112_00-0656819105545101",
+    "region": "HP",
+    "publisherId": "HP7254"
   },
   {
     "titleId": "PPSA24113_00",
     "conceptId": 10011561,
     "name": "Amanda the Adventurer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7254-PPSA24113_00-0287948396840940",
+    "region": "HP",
+    "publisherId": "HP7254"
   },
   {
     "titleId": "PPSA24114_00",
     "conceptId": 10011561,
     "name": "Amanda the Adventurer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7254-PPSA24114_00-0371746662708532",
+    "region": "HP",
+    "publisherId": "HP7254"
   },
   {
     "titleId": "PPSA24116_00",
@@ -101827,17 +101867,17 @@
     "titleId": "PPSA24250_00",
     "conceptId": 10011636,
     "name": "Dagon: Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA24250_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA24251_00",
     "conceptId": 10011636,
     "name": "Dagon: Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA24251_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA24252_00",
@@ -102651,9 +102691,9 @@
     "titleId": "PPSA24461_00",
     "conceptId": 10011739,
     "name": "My Big Sister: Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA24461_00-MYBIGSISTERREMRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA24462_00",
@@ -103208,6 +103248,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA24644_00",
+    "conceptId": 10011772,
+    "name": "MetroLand",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24656_00",
     "conceptId": 10008991,
     "name": "Thief Simulator VR: Prologue",
@@ -103259,9 +103307,17 @@
     "titleId": "PPSA24670_00",
     "conceptId": 10011838,
     "name": "Stable Stories - Forest and Meadow Ride",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4902-PPSA24670_00-0664412259838665",
+    "region": "EP",
+    "publisherId": "EP4902"
+  },
+  {
+    "titleId": "PPSA24671_00",
+    "conceptId": 10011838,
+    "name": "Stable Stories - Forest and Meadow Ride",
+    "contentId": "EP4902-PPSA24671_00-0635581741289231",
+    "region": "EP",
+    "publisherId": "EP4902"
   },
   {
     "titleId": "PPSA24673_00",
@@ -104355,17 +104411,17 @@
     "titleId": "PPSA25082_00",
     "conceptId": 10012040,
     "name": "Bust a Block",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA25082_00-0122529708381950",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA25083_00",
     "conceptId": 10012040,
     "name": "Bust a Block",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA25083_00-0088753938642435",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA25084_00",
@@ -104379,9 +104435,9 @@
     "titleId": "PPSA25085_00",
     "conceptId": 10012040,
     "name": "Bust a Block",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA25085_00-0159088169323513",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA25100_00",
@@ -104880,6 +104936,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA25354_00",
+    "conceptId": 10010574,
+    "name": "Sunderfolk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25371_00",
     "conceptId": 10012117,
     "name": "Halloween Pumpkin Brawl",
@@ -105272,6 +105336,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA25621_00",
+    "conceptId": 221727,
+    "name": "Horizon Zero Dawn\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25626_00",
     "conceptId": 10012305,
     "name": "Rooftop Rascal: The Drizzle Cat",
@@ -105392,6 +105464,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25669_00",
+    "conceptId": 10012336,
+    "name": "Learn to Play Vol. 7 - Safe Journey",
+    "contentId": "UP2005-PPSA25669_00-SAFEJOURNEY00000",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
     "titleId": "PPSA25671_00",
     "conceptId": 10012338,
     "name": "\u9280\u306e\u65a7 - The Honest Elf",
@@ -105430,6 +105510,14 @@
     "contentId": "JP0211-PPSA25683_00-0075766831480108",
     "region": "JP",
     "publisherId": "JP0211"
+  },
+  {
+    "titleId": "PPSA25684_00",
+    "conceptId": 10012346,
+    "name": "Casual Sport Series: Hockey",
+    "contentId": "UP7578-PPSA25684_00-0831219896395075",
+    "region": "UP",
+    "publisherId": "UP7578"
   },
   {
     "titleId": "PPSA25685_00",
@@ -106083,6 +106171,14 @@
     "titleId": "PPSA26247_00",
     "conceptId": 10012712,
     "name": "Kickabit",
+    "contentId": "EP1612-PPSA26247_00-KICKABITGAME0000",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA26343_00",
+    "conceptId": 10012771,
+    "name": "Rogue Flight",
     "contentId": null,
     "region": null,
     "publisherId": null
