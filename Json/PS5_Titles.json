@@ -18603,9 +18603,9 @@
     "titleId": "PPSA05228_00",
     "conceptId": 10003785,
     "name": "Rogue Sentry",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA05228_00-ROGUESENTRY00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA05232_00",
@@ -37811,7 +37811,7 @@
     "titleId": "PPSA08708_00",
     "conceptId": 10005529,
     "name": "SILENT HILL 2",
-    "contentId": null,
+    "contentId": "JP0101-PPSA08708_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -63994,8 +63994,8 @@
   {
     "titleId": "PPSA15208_00",
     "conceptId": 10007902,
-    "name": "DRAGON BALL: Sparking! ZERO",
-    "contentId": null,
+    "name": "\u4e03\u9f8d\u73e0 \u96fb\u5149\u70b8\u88c2\uff01ZERO",
+    "contentId": "HP0700-PPSA15208_00-DRAGONBALLSPARK0",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -64011,7 +64011,7 @@
     "titleId": "PPSA15210_00",
     "conceptId": 10007902,
     "name": "DRAGON BALL: Sparking! ZERO",
-    "contentId": null,
+    "contentId": "EP0700-PPSA15210_00-DRAGONBALLSPARK0",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -65971,17 +65971,17 @@
     "titleId": "PPSA15569_00",
     "conceptId": 10008059,
     "name": "Nick Jr. Party Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA15569_00-NJPABASEGAME0000",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA15570_00",
     "conceptId": 10008059,
     "name": "Nick Jr. Party Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3678-PPSA15570_00-NJPABASEGAME0000",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA15572_00",
@@ -76427,9 +76427,9 @@
     "titleId": "PPSA17851_00",
     "conceptId": 10008959,
     "name": "Starship Troopers: Extermination",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0029-PPSA17851_00-STARSHIPTROOPERS",
+    "region": "UB",
+    "publisherId": "UB0029"
   },
   {
     "titleId": "PPSA17853_00",
@@ -77827,6 +77827,14 @@
     "titleId": "PPSA18153_00",
     "conceptId": 10009063,
     "name": "Legacy of Kain\u2122 Soul Reaver 1&2 Remastered",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1032"
+  },
+  {
+    "titleId": "PPSA18154_00",
+    "conceptId": 10009064,
+    "name": "Tomb Raider IV-VI Remastered PS4 & PS5",
     "contentId": null,
     "region": "UP",
     "publisherId": "UP1032"
@@ -86803,9 +86811,9 @@
     "titleId": "PPSA20247_00",
     "conceptId": 10005430,
     "name": "Sky Oceans: Wings For Hire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4293-PPSA20247_00-SKYOCEANSPS5SIEE",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA20253_00",
@@ -89131,9 +89139,9 @@
     "titleId": "PPSA20773_00",
     "conceptId": 10001003,
     "name": "Wingspan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2723-PPSA20773_00-WINGSPAN0EU0PS5D",
+    "region": "EP",
+    "publisherId": "EP2723"
   },
   {
     "titleId": "PPSA20775_00",
@@ -89218,16 +89226,16 @@
   {
     "titleId": "PPSA20799_00",
     "conceptId": 10001029,
-    "name": "Metaphor: ReFantazio PS4 & PS5",
-    "contentId": null,
+    "name": "Metaphor: ReFantazio",
+    "contentId": "EP0177-PPSA20799_00-METAPHOREU000001",
     "region": "EP",
     "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA20800_00",
     "conceptId": 10001029,
-    "name": "Metaphor: ReFantazio PS4 & PS5",
-    "contentId": null,
+    "name": "Metaphor: ReFantazio",
+    "contentId": "UP0177-PPSA20800_00-METAPHORNA000001",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -93483,7 +93491,7 @@
     "titleId": "PPSA21915_00",
     "conceptId": 10009297,
     "name": "Undisputed",
-    "contentId": null,
+    "contentId": "UP2047-PPSA21915_00-UNDISPUTEDPS5NA1",
     "region": "UP",
     "publisherId": "UP2047"
   },
@@ -95745,6 +95753,22 @@
   },
   {
     "titleId": "PPSA22484_00",
+    "conceptId": 10009167,
+    "name": "AWAKEN - Astral Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22485_00",
+    "conceptId": 10009167,
+    "name": "AWAKEN - Astral Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22486_00",
     "conceptId": 10009167,
     "name": "AWAKEN - Astral Blade",
     "contentId": null,
@@ -100176,6 +100200,14 @@
     "publisherId": "JP2880"
   },
   {
+    "titleId": "PPSA23809_00",
+    "conceptId": 10011404,
+    "name": "Lost Chiko 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23811_00",
     "conceptId": 10011408,
     "name": "Honeyland",
@@ -102136,6 +102168,14 @@
     "publisherId": "UB1011"
   },
   {
+    "titleId": "PPSA24339_00",
+    "conceptId": 10011679,
+    "name": "Orbital Dance",
+    "contentId": "UP7335-PPSA24339_00-0197064854280336",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA24340_00",
     "conceptId": 10011679,
     "name": "Orbital Dance",
@@ -103448,6 +103488,38 @@
     "publisherId": "EP3446"
   },
   {
+    "titleId": "PPSA24751_00",
+    "conceptId": 10011888,
+    "name": "Zombies Crusher",
+    "contentId": "UP7668-PPSA24751_00-0367054228889291",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24752_00",
+    "conceptId": 10011888,
+    "name": "Zombies Crusher",
+    "contentId": "UP7668-PPSA24752_00-0200879798954702",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24753_00",
+    "conceptId": 10011888,
+    "name": "Zombies Crusher",
+    "contentId": "UP7668-PPSA24753_00-0661027746768515",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24754_00",
+    "conceptId": 10011888,
+    "name": "Zombies Crusher",
+    "contentId": "UP7668-PPSA24754_00-0021430063711363",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA24764_00",
     "conceptId": 10005592,
     "name": "Mokoko X",
@@ -103766,6 +103838,22 @@
     "contentId": "EP7333-PPSA24832_00-0350379085141261",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA24833_00",
+    "conceptId": 10011918,
+    "name": "Road Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24834_00",
+    "conceptId": 10011918,
+    "name": "Road Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24836_00",
@@ -104976,6 +105064,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA25343_00",
+    "conceptId": 10009065,
+    "name": "Ynglet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25354_00",
     "conceptId": 10010574,
     "name": "Sunderfolk",
@@ -105643,9 +105739,9 @@
     "titleId": "PPSA25698_00",
     "conceptId": 10012360,
     "name": "Samurai Warrior",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0008-PPSA25698_00-0991397476502686",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA25711_00",
@@ -105976,6 +106072,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25871_00",
+    "conceptId": 10011404,
+    "name": "Lost Chiko 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25873_00",
+    "conceptId": 10011404,
+    "name": "Lost Chiko 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25875_00",
+    "conceptId": 10011404,
+    "name": "Lost Chiko 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25876_00",
     "conceptId": 10012472,
     "name": "Pixicharm - Moo & Move",
@@ -106112,6 +106232,22 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA26080_00",
+    "conceptId": 10012260,
+    "name": "Bpop Attack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26082_00",
+    "conceptId": 10012260,
+    "name": "Bpop Attack",
+    "contentId": "JP0089-PPSA26082_00-0927282689531576",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
     "titleId": "PPSA26110_00",
     "conceptId": 10012617,
     "name": "Roll Ball",
@@ -106209,6 +106345,22 @@
   },
   {
     "titleId": "PPSA26210_00",
+    "conceptId": 10012691,
+    "name": "Shooter of the Arcana",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26211_00",
+    "conceptId": 10012691,
+    "name": "Shooter of the Arcana",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26212_00",
     "conceptId": 10012691,
     "name": "Shooter of the Arcana",
     "contentId": null,
