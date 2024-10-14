@@ -77816,6 +77816,14 @@
     "publisherId": "UP4912"
   },
   {
+    "titleId": "PPSA18151_00",
+    "conceptId": 10009064,
+    "name": "Tomb Raider IV-VI Remastered PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1875"
+  },
+  {
     "titleId": "PPSA18152_00",
     "conceptId": 10009063,
     "name": "Legacy of Kain\u2122 Soul Reaver 1&2 Remastered",
@@ -86803,9 +86811,9 @@
     "titleId": "PPSA20246_00",
     "conceptId": 10005430,
     "name": "Sky Oceans: Wings For Hire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA20246_00-SKYOCEANSPS5SIEA",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA20247_00",
@@ -93080,6 +93088,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21796_00",
+    "conceptId": 10008183,
+    "name": "Life is Strange: Double Exposure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21797_00",
     "conceptId": 10008759,
     "name": "Sticks Aim Trainer",
@@ -97150,6 +97166,14 @@
     "contentId": "EB0629-PPSA22855_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA22861_00",
+    "conceptId": 10010278,
+    "name": "Land of Mushrooms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22862_00",
@@ -105272,6 +105296,22 @@
     "publisherId": "UB0529"
   },
   {
+    "titleId": "PPSA25530_00",
+    "conceptId": 10012268,
+    "name": "The Exit Project: Backstreets PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25533_00",
+    "conceptId": 10012268,
+    "name": "The Exit Project: Backstreets PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25540_00",
     "conceptId": 231761,
     "name": "Diablo\u00ae IV",
@@ -106168,6 +106208,22 @@
     "publisherId": "JP8361"
   },
   {
+    "titleId": "PPSA25918_00",
+    "conceptId": 10009135,
+    "name": "Exhausted Man Demo",
+    "contentId": "JP2205-PPSA25918_00-2024090600000050",
+    "region": "JP",
+    "publisherId": "JP2205"
+  },
+  {
+    "titleId": "PPSA25919_00",
+    "conceptId": 10009135,
+    "name": "Exhausted Man",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25920_00",
     "conceptId": 10009135,
     "name": "\u75b2\u52b4\u56f0\u618a\u30de\u30f3 \u4f53\u9a13\u7248",
@@ -106235,9 +106291,17 @@
     "titleId": "PPSA26080_00",
     "conceptId": 10012260,
     "name": "Bpop Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA26080_00-0378831175733299",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA26081_00",
+    "conceptId": 10012260,
+    "name": "Bpop Attack",
+    "contentId": "UP4312-PPSA26081_00-0107876297562517",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA26082_00",
