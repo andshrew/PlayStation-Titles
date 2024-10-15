@@ -48259,9 +48259,9 @@
     "titleId": "PPSA10455_00",
     "conceptId": 10005392,
     "name": "Camp Sunshine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6605-PPSA10455_00-4607822857587378",
+    "region": "UP",
+    "publisherId": "UP6605"
   },
   {
     "titleId": "PPSA10460_00",
@@ -49427,7 +49427,7 @@
     "titleId": "PPSA10644_00",
     "conceptId": 10005529,
     "name": "SILENT HILL 2",
-    "contentId": null,
+    "contentId": "HP0101-PPSA10644_00-MAINGAME00000000",
     "region": "HP",
     "publisherId": "HP0101"
   },
@@ -52338,10 +52338,10 @@
   {
     "titleId": "PPSA11146_00",
     "conceptId": 10006488,
-    "name": "AI LIMIT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "AI LIMIT Demo",
+    "contentId": "HP7641-PPSA11146_00-AILIMITZCNRRCVER",
+    "region": "HP",
+    "publisherId": "HP7641"
   },
   {
     "titleId": "PPSA11147_00",
@@ -85864,6 +85864,14 @@
     "publisherId": "EP0006"
   },
   {
+    "titleId": "PPSA20051_00",
+    "conceptId": 10009764,
+    "name": "Run From Mummies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20052_00",
     "conceptId": 10009765,
     "name": "Worms Armageddon: Anniversary Edition",
@@ -91664,6 +91672,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21453_00",
+    "conceptId": 10007199,
+    "name": "Ys X: Nordics Demo",
+    "contentId": "EP1063-PPSA21453_00-YS10NORDICSTRIAL",
+    "region": "EP",
+    "publisherId": "EP1063"
+  },
+  {
     "titleId": "PPSA21455_00",
     "conceptId": 10010227,
     "name": "Crimen - Mercenary Tales",
@@ -95162,10 +95178,10 @@
   {
     "titleId": "PPSA22349_00",
     "conceptId": 10010711,
-    "name": "Drova- Forsaken Kin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Drova - Forsaken Kin",
+    "contentId": "EP0900-PPSA22349_00-0323294931730322",
+    "region": "EP",
+    "publisherId": "EP0900"
   },
   {
     "titleId": "PPSA22358_00",
@@ -96158,6 +96174,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA22579_00",
+    "conceptId": 10010795,
+    "name": "Mindcop Demo",
+    "contentId": "EB0235-PPSA22579_00-MINDCOPDEMOPS500",
+    "region": "EB",
+    "publisherId": "EB0235"
   },
   {
     "titleId": "PPSA22583_00",
@@ -97454,6 +97478,14 @@
     "contentId": "EP1018-PPSA22946_00-HARRYPOTTER17000",
     "region": "EP",
     "publisherId": "EP1018"
+  },
+  {
+    "titleId": "PPSA22947_00",
+    "conceptId": 10010950,
+    "name": "SIREN",
+    "contentId": "UP9000-PPSA22947_00-SCUS973550000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA22948_00",
@@ -100059,9 +100091,9 @@
     "titleId": "PPSA23760_00",
     "conceptId": 10008849,
     "name": "Nikoderiko: The Magical World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8483-PPSA23760_00-0381575129701522",
+    "region": "EP",
+    "publisherId": "EP8483"
   },
   {
     "titleId": "PPSA23761_00",
@@ -100598,6 +100630,14 @@
     "contentId": "EB0805-PPSA23882_00-0109868292044931",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA23885_00",
+    "conceptId": 10011441,
+    "name": "Little Big Adventure \u2013 Twinsen\u2019s Quest PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA23887_00",
@@ -101222,6 +101262,14 @@
     "contentId": "EP1063-PPSA24037_00-DEMOPS5000000000",
     "region": "EP",
     "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA24038_00",
+    "conceptId": 10007319,
+    "name": "Ys Memoire: The Oath in Felghana",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24041_00",
@@ -104592,6 +104640,30 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25090_00",
+    "conceptId": 10012041,
+    "name": "Color Swiper - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25092_00",
+    "conceptId": 10012041,
+    "name": "Color Swiper - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25093_00",
+    "conceptId": 10012041,
+    "name": "Color Swiper - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25100_00",
     "conceptId": 10012042,
     "name": "Fable Mosaic: Little Red Riding Hood",
@@ -105304,6 +105376,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25531_00",
+    "conceptId": 10012268,
+    "name": "The Exit Project: Backstreets PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25532_00",
+    "conceptId": 10012268,
+    "name": "The Exit Project: Backstreets PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25533_00",
     "conceptId": 10012268,
     "name": "The Exit Project: Backstreets PS4 & PS5",
@@ -105478,6 +105566,14 @@
     "contentId": "UP8511-PPSA25593_00-FARMSURV00000013",
     "region": "UP",
     "publisherId": "UP8511"
+  },
+  {
+    "titleId": "PPSA25594_00",
+    "conceptId": 10012041,
+    "name": "Color Swiper - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25604_00",
@@ -106115,9 +106211,9 @@
     "titleId": "PPSA25871_00",
     "conceptId": 10011404,
     "name": "Lost Chiko 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7656-PPSA25871_00-0255632779533781",
+    "region": "UP",
+    "publisherId": "UP7656"
   },
   {
     "titleId": "PPSA25873_00",
@@ -106218,10 +106314,10 @@
   {
     "titleId": "PPSA25919_00",
     "conceptId": 10009135,
-    "name": "Exhausted Man",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Exhausted Man Demo",
+    "contentId": "JP2205-PPSA25919_00-2024090600000051",
+    "region": "JP",
+    "publisherId": "JP2205"
   },
   {
     "titleId": "PPSA25920_00",
@@ -106238,6 +106334,14 @@
     "contentId": "JP2205-PPSA25921_00-2024090600000053",
     "region": "JP",
     "publisherId": "JP2205"
+  },
+  {
+    "titleId": "PPSA25934_00",
+    "conceptId": 10012503,
+    "name": "Gamer Quest",
+    "contentId": "UB0752-PPSA25934_00-0856993565321990",
+    "region": "UB",
+    "publisherId": "UB0752"
   },
   {
     "titleId": "PPSA25977_00",
