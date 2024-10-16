@@ -91672,6 +91672,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21452_00",
+    "conceptId": 10007199,
+    "name": "Ys X: Nordics Demo",
+    "contentId": "UP1063-PPSA21452_00-YS10NORDICSTRIAL",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
     "titleId": "PPSA21453_00",
     "conceptId": 10007199,
     "name": "Ys X: Nordics Demo",
@@ -99539,9 +99547,9 @@
     "titleId": "PPSA23608_00",
     "conceptId": 10011276,
     "name": "Purpose 1951",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA23608_00-PURPOSE1951GAME0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA23609_00",
@@ -100235,7 +100243,7 @@
     "titleId": "PPSA23806_00",
     "conceptId": 231670,
     "name": "Darksiders II Deathinitive Edition",
-    "contentId": null,
+    "contentId": "EP4389-PPSA23806_00-DARKSIDERS2PS5GP",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -100243,7 +100251,7 @@
     "titleId": "PPSA23807_00",
     "conceptId": 231670,
     "name": "Darksiders II Deathinitive Edition",
-    "contentId": null,
+    "contentId": "UP4389-PPSA23807_00-DARKSIDERS2PS5GP",
     "region": "UP",
     "publisherId": "UP4389"
   },
@@ -100251,7 +100259,7 @@
     "titleId": "PPSA23808_00",
     "conceptId": 231670,
     "name": "Darksiders II Deathinitive Edition",
-    "contentId": null,
+    "contentId": "JP2880-PPSA23808_00-DARKSIDERS2PS5GP",
     "region": "JP",
     "publisherId": "JP2880"
   },
@@ -100259,9 +100267,9 @@
     "titleId": "PPSA23809_00",
     "conceptId": 10011404,
     "name": "Lost Chiko 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7654-PPSA23809_00-0853172799286761",
+    "region": "EP",
+    "publisherId": "EP7654"
   },
   {
     "titleId": "PPSA23811_00",
@@ -105248,6 +105256,22 @@
     "publisherId": "EP0177"
   },
   {
+    "titleId": "PPSA25438_00",
+    "conceptId": 10012211,
+    "name": "JankenUp!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25439_00",
+    "conceptId": 10012211,
+    "name": "JankenUp!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25460_00",
     "conceptId": 10012231,
     "name": "Learn to Play Vol. 6 - Labyrinth",
@@ -106219,17 +106243,17 @@
     "titleId": "PPSA25873_00",
     "conceptId": 10011404,
     "name": "Lost Chiko 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7683-PPSA25873_00-0777277063083795",
+    "region": "HP",
+    "publisherId": "HP7683"
   },
   {
     "titleId": "PPSA25875_00",
     "conceptId": 10011404,
     "name": "Lost Chiko 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7683-PPSA25875_00-0538503737670682",
+    "region": "HP",
+    "publisherId": "HP7683"
   },
   {
     "titleId": "PPSA25876_00",
@@ -106302,6 +106326,38 @@
     "contentId": "JP8361-PPSA25900_00-NIUPS5LIAADEMO03",
     "region": "JP",
     "publisherId": "JP8361"
+  },
+  {
+    "titleId": "PPSA25908_00",
+    "conceptId": 10012487,
+    "name": "Say Cheese!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25909_00",
+    "conceptId": 10012487,
+    "name": "Say Cheese!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25910_00",
+    "conceptId": 10012487,
+    "name": "Say Cheese!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25911_00",
+    "conceptId": 10012487,
+    "name": "Say Cheese!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25918_00",
@@ -106504,6 +106560,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA26206_00",
+    "conceptId": 10012384,
+    "name": "Math Genius: Addition Edition",
+    "contentId": "UB1022-PPSA26206_00-MATHGENIUSADDEU0",
+    "region": "UB",
+    "publisherId": "UB1022"
+  },
+  {
     "titleId": "PPSA26209_00",
     "conceptId": 10012684,
     "name": "Pixicharm Collection 1",
@@ -106614,6 +106678,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA26319_00",
+    "conceptId": 10012384,
+    "name": "Math Genius: Addition Edition",
+    "contentId": "UB1022-PPSA26319_00-MATHGENIUSADDAS0",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA26343_00",
