@@ -17723,9 +17723,9 @@
     "titleId": "PPSA05037_00",
     "conceptId": 10002962,
     "name": "8-Bit Adventures 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6980-PPSA05037_00-9851265139312456",
+    "region": "EP",
+    "publisherId": "EP6980"
   },
   {
     "titleId": "PPSA05038_00",
@@ -32952,6 +32952,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA07866_00",
+    "conceptId": 10005160,
+    "name": "\u30c7\u30a3\u30ce\u30af\u30e9\u30a4\u30b7\u30b9",
+    "contentId": "JP0102-PPSA07866_00-SLPS021800000000",
+    "region": "JP",
+    "publisherId": "JP0102"
+  },
+  {
     "titleId": "PPSA07868_00",
     "conceptId": 10004567,
     "name": "Amazing Superhero Squad",
@@ -47064,6 +47072,14 @@
     "publisherId": "EP8091"
   },
   {
+    "titleId": "PPSA10268_00",
+    "conceptId": 10006171,
+    "name": "MechWarrior 5: Clans",
+    "contentId": "EP6911-PPSA10268_00-MWARCLANSSIEEPS5",
+    "region": "EP",
+    "publisherId": "EP6911"
+  },
+  {
     "titleId": "PPSA10269_00",
     "conceptId": 10006172,
     "name": "Read Only Memories: NEURODIVER",
@@ -59771,9 +59787,9 @@
     "titleId": "PPSA13876_00",
     "conceptId": 10007394,
     "name": "The Seed: Unit 7",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA13876_00-THESEEDUNITSEVEN",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA13878_00",
@@ -71987,17 +72003,17 @@
     "titleId": "PPSA16785_00",
     "conceptId": 10008521,
     "name": "Neva",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3643-PPSA16785_00-0524521320023310",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA16786_00",
     "conceptId": 10008521,
     "name": "Neva",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3643-PPSA16786_00-0950123183894118",
+    "region": "EP",
+    "publisherId": "EP3643"
   },
   {
     "titleId": "PPSA16789_00",
@@ -75123,9 +75139,9 @@
     "titleId": "PPSA17520_00",
     "conceptId": 10005382,
     "name": "Blazing Strike",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5938-PPSA17520_00-BLAZINGSTRIKEPS5",
+    "region": "EP",
+    "publisherId": "EP5938"
   },
   {
     "titleId": "PPSA17521_00",
@@ -78010,10 +78026,10 @@
   {
     "titleId": "PPSA18191_00",
     "conceptId": 10009076,
-    "name": "Hot Wheels Monster Trucks: Stunt Mayhem\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hot Wheels Monster Trucks: Stunt Mayhem",
+    "contentId": "UP0283-PPSA18191_00-HOTWMONSTERTRUCK",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA18192_00",
@@ -81363,7 +81379,7 @@
     "titleId": "PPSA19006_00",
     "conceptId": 10009366,
     "name": "A Quiet Place: The Road Ahead",
-    "contentId": null,
+    "contentId": "UP6856-PPSA19006_00-AQPBASEGAME00000",
     "region": "UP",
     "publisherId": "UP6856"
   },
@@ -88896,6 +88912,14 @@
     "publisherId": "JP0075"
   },
   {
+    "titleId": "PPSA20699_00",
+    "conceptId": 10010060,
+    "name": "Self-Delusion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20700_00",
     "conceptId": 10010060,
     "name": "Self-Delusion",
@@ -91168,6 +91192,22 @@
     "publisherId": "UP3867"
   },
   {
+    "titleId": "PPSA21337_00",
+    "conceptId": 10010305,
+    "name": "Clock Tower: Rewind",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21339_00",
+    "conceptId": 10010305,
+    "name": "Clock Tower: Rewind",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21343_00",
     "conceptId": 10002564,
     "name": "Distance",
@@ -91760,6 +91800,22 @@
     "publisherId": "UP1475"
   },
   {
+    "titleId": "PPSA21460_00",
+    "conceptId": 10010214,
+    "name": "Across the Obelisk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21461_00",
+    "conceptId": 10010214,
+    "name": "Across the Obelisk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21462_00",
     "conceptId": 10010227,
     "name": "Crimen - Mercenary Tales",
@@ -92074,10 +92130,10 @@
   {
     "titleId": "PPSA21565_00",
     "conceptId": 10005439,
-    "name": "House Builder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "House Builder Overtime",
+    "contentId": "UP1564-PPSA21565_00-0857274377780230",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA21566_00",
@@ -92326,6 +92382,14 @@
     "contentId": "HP0874-PPSA21622_00-0992652047858557",
     "region": "HP",
     "publisherId": "HP0874"
+  },
+  {
+    "titleId": "PPSA21623_00",
+    "conceptId": 10009622,
+    "name": "Farmagia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21624_00",
@@ -92970,8 +93034,8 @@
   {
     "titleId": "PPSA21738_00",
     "conceptId": 227097,
-    "name": "Arizona Sunshine\u00ae Remake",
-    "contentId": null,
+    "name": "Arizona Sunshine Remake",
+    "contentId": "EP3392-PPSA21738_00-VERTVERTAS1HDEGU",
     "region": "EP",
     "publisherId": "EP3392"
   },
@@ -98434,8 +98498,8 @@
   {
     "titleId": "PPSA23294_00",
     "conceptId": 10011109,
-    "name": "Arsene Lupin - Once A Thief PS4 & PS5",
-    "contentId": null,
+    "name": "Ars\u00e8ne Lupin: Once A Thief",
+    "contentId": "EP4295-PPSA23294_00-LUPINPS5000000EU",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -101123,9 +101187,9 @@
     "titleId": "PPSA23983_00",
     "conceptId": 10011145,
     "name": "Necro Story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0865-PPSA23983_00-NECROSTORYPS5000",
+    "region": "UB",
+    "publisherId": "UB0865"
   },
   {
     "titleId": "PPSA23984_00",
@@ -102104,6 +102168,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA24260_00",
+    "conceptId": 10007319,
+    "name": "Ys Memoire: The Oath in Felghana",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24263_00",
     "conceptId": 10011645,
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III",
@@ -102198,6 +102270,14 @@
     "contentId": "HP4312-PPSA24297_00-0097073227323378",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA24300_00",
+    "conceptId": 10011658,
+    "name": "It Could Happen to You",
+    "contentId": "EP0896-PPSA24300_00-ITCOULDHAPPENTRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA24304_00",
@@ -103475,9 +103555,9 @@
     "titleId": "PPSA24644_00",
     "conceptId": 10011772,
     "name": "MetroLand",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA24644_00-METROLANDPS5NA00",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA24645_00",
@@ -105259,9 +105339,9 @@
     "titleId": "PPSA25343_00",
     "conceptId": 10009065,
     "name": "Ynglet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3332-PPSA25343_00-0736412934239971",
+    "region": "HP",
+    "publisherId": "HP3332"
   },
   {
     "titleId": "PPSA25354_00",
@@ -106043,25 +106123,25 @@
     "titleId": "PPSA25738_00",
     "conceptId": 10012388,
     "name": "Save The Doge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25738_00-0867714778078937",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25739_00",
     "conceptId": 10012388,
     "name": "Save The Doge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25739_00-0530857689132238",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25740_00",
     "conceptId": 10012388,
     "name": "Save The Doge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25740_00-0222188949018473",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25741_00",
@@ -106504,6 +106584,14 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA25955_00",
+    "conceptId": 10012515,
+    "name": "Hexa River",
+    "contentId": "EB1391-PPSA25955_00-0809902671693682",
+    "region": "EB",
+    "publisherId": "EB1391"
+  },
+  {
     "titleId": "PPSA25977_00",
     "conceptId": 10012533,
     "name": "Honey Farm Simulator",
@@ -106616,6 +106704,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA26147_00",
+    "conceptId": 10012029,
+    "name": "\u30c9\u30c3\u30b0\u30de\u30f3 \u30df\u30c3\u30b7\u30e7\u30f3\u30fb\u30ef\u30f3\u30dd\u30c3\u30b7\u30d6\u30eb \u30c7\u30e2\u7248",
+    "contentId": "EP3945-PPSA26147_00-DOGMANPS5DEMOPKG",
+    "region": "EP",
+    "publisherId": "EP3945"
+  },
+  {
     "titleId": "PPSA26166_00",
     "conceptId": 10012652,
     "name": "Perfect Ninja Painter 2",
@@ -106630,6 +106726,14 @@
     "contentId": "UP8623-PPSA26181_00-0268463280531193",
     "region": "UP",
     "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA26184_00",
+    "conceptId": 10011310,
+    "name": "Anomaly Agent",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26200_00",
@@ -106800,6 +106904,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA26327_00",
+    "conceptId": 10012754,
+    "name": "Grand Prix Formula One",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26343_00",
     "conceptId": 10012771,
     "name": "Rogue Flight",
@@ -106811,6 +106923,38 @@
     "titleId": "PPSA26413_00",
     "conceptId": 10009861,
     "name": "Kong: Survivor Instinct",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26466_00",
+    "conceptId": 10012846,
+    "name": "Rooftop Rascal: The Spooky Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26467_00",
+    "conceptId": 10012846,
+    "name": "Rooftop Rascal: The Spooky Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26468_00",
+    "conceptId": 10012846,
+    "name": "Rooftop Rascal: The Spooky Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26469_00",
+    "conceptId": 10012846,
+    "name": "Rooftop Rascal: The Spooky Cat",
     "contentId": null,
     "region": null,
     "publisherId": null
