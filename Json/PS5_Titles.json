@@ -37098,10 +37098,10 @@
   {
     "titleId": "PPSA08605_00",
     "conceptId": 10005382,
-    "name": "Blazing Strike",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d6\u30ec\u30a4\u30b8\u30f3\u30b0\u30b9\u30c8\u30e9\u30a4\u30af",
+    "contentId": "HP6885-PPSA08605_00-BLAZINGSTRIKEPS5",
+    "region": "HP",
+    "publisherId": "HP6885"
   },
   {
     "titleId": "PPSA08606_00",
@@ -73672,6 +73672,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA17160_00",
+    "conceptId": 10005728,
+    "name": "Together We Live",
+    "contentId": "EP2363-PPSA17160_00-EU0IKIMASHOU0PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA17161_00",
     "conceptId": 10007964,
     "name": "Box To The Beat VR",
@@ -74050,10 +74058,10 @@
   {
     "titleId": "PPSA17245_00",
     "conceptId": 10008636,
-    "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TMNT: Mutants Unleashed",
+    "contentId": "UP3824-PPSA17245_00-000000000000SIEA",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA17246_00",
@@ -76410,8 +76418,8 @@
   {
     "titleId": "PPSA17841_00",
     "conceptId": 10001989,
-    "name": "Unknown 9: Awakening PS4 & PS5",
-    "contentId": null,
+    "name": "Unknown 9: Awakening",
+    "contentId": "UP0700-PPSA17841_00-UNKNOWN90000GAME",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -76419,7 +76427,7 @@
     "titleId": "PPSA17842_00",
     "conceptId": 10001989,
     "name": "Unknown 9: Awakening",
-    "contentId": null,
+    "contentId": "HP5028-PPSA17842_00-UNKNOWN90000GAME",
     "region": "HP",
     "publisherId": "HP5028"
   },
@@ -93026,8 +93034,8 @@
   {
     "titleId": "PPSA21737_00",
     "conceptId": 227097,
-    "name": "Arizona Sunshine\u00ae Remake",
-    "contentId": null,
+    "name": "Arizona Sunshine Remake",
+    "contentId": "UP3535-PPSA21737_00-VERTVERTAS1HDUGU",
     "region": "UP",
     "publisherId": "UP3535"
   },
@@ -99304,6 +99312,14 @@
     "publisherId": "UP8787"
   },
   {
+    "titleId": "PPSA23487_00",
+    "conceptId": 10003236,
+    "name": "House Flipper VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23488_00",
     "conceptId": 10009896,
     "name": "The Bridge Curse 2: The Extrication",
@@ -101491,9 +101507,9 @@
     "titleId": "PPSA24075_00",
     "conceptId": 10011545,
     "name": "Killing Time: Resurrected",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0913-PPSA24075_00-0592964266082330",
+    "region": "UP",
+    "publisherId": "UP0913"
   },
   {
     "titleId": "PPSA24077_00",
@@ -102712,6 +102728,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24413_00",
+    "conceptId": 10011662,
+    "name": "Fears to Fathom - Ironbark Lookout",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24418_00",
     "conceptId": 10011546,
     "name": "Snake Seeker",
@@ -103382,6 +103406,14 @@
     "contentId": "HB0669-PPSA24597_00-0077047531594164",
     "region": "HB",
     "publisherId": "HB0669"
+  },
+  {
+    "titleId": "PPSA24603_00",
+    "conceptId": 10009622,
+    "name": "Farmagia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24604_00",
@@ -105051,9 +105083,9 @@
     "titleId": "PPSA25211_00",
     "conceptId": 10010663,
     "name": "RetroRealms",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6286-PPSA25211_00-0401575818674760",
+    "region": "UP",
+    "publisherId": "UP6286"
   },
   {
     "titleId": "PPSA25212_00",
@@ -106048,12 +106080,28 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA25692_00",
+    "conceptId": 10012354,
+    "name": "Neon Hell",
+    "contentId": "UB0008-PPSA25692_00-0276165976894230",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA25693_00",
     "conceptId": 10012355,
     "name": "Shadow Quest",
     "contentId": "UB0008-PPSA25693_00-0518132786050759",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA25694_00",
+    "conceptId": 10012356,
+    "name": "Heroic Pirates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25696_00",
@@ -106147,41 +106195,41 @@
     "titleId": "PPSA25741_00",
     "conceptId": 10012388,
     "name": "Save The Doge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25741_00-0280207402642085",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25742_00",
     "conceptId": 10012389,
     "name": "Dunk Trickster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25742_00-0348457096634137",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25743_00",
     "conceptId": 10012389,
     "name": "Dunk Trickster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25743_00-0458589131517368",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25744_00",
     "conceptId": 10012389,
     "name": "Dunk Trickster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25744_00-0390281784949976",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25745_00",
     "conceptId": 10012389,
     "name": "Dunk Trickster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25745_00-0903162004898588",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25746_00",
@@ -106907,9 +106955,9 @@
     "titleId": "PPSA26327_00",
     "conceptId": 10012754,
     "name": "Grand Prix Formula One",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-PPSA26327_00-0758802503007078",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "PPSA26343_00",
