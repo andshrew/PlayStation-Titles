@@ -30459,7 +30459,7 @@
     "titleId": "PPSA07398_00",
     "conceptId": 10004947,
     "name": "New World: Aeternum",
-    "contentId": null,
+    "contentId": "UP5267-PPSA07398_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP5267"
   },
@@ -32808,6 +32808,22 @@
     "publisherId": "EP7669"
   },
   {
+    "titleId": "PPSA07831_00",
+    "conceptId": 10005160,
+    "name": "Dino Crisis",
+    "contentId": "UP0102-PPSA07831_00-SLUS009220000000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
+    "titleId": "PPSA07832_00",
+    "conceptId": 10005160,
+    "name": "Dino Crisis",
+    "contentId": "EP0102-PPSA07832_00-SLES022070000000",
+    "region": "EP",
+    "publisherId": "EP0102"
+  },
+  {
     "titleId": "PPSA07833_00",
     "conceptId": 10003231,
     "name": "Salt and Sacrifice",
@@ -33331,7 +33347,7 @@
     "titleId": "PPSA07930_00",
     "conceptId": 10001989,
     "name": "Unknown 9: Awakening",
-    "contentId": null,
+    "contentId": "EP0700-PPSA07930_00-UNKNOWN90000GAME",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -64736,6 +64752,14 @@
     "publisherId": "EP0782"
   },
   {
+    "titleId": "PPSA15357_00",
+    "conceptId": 10007668,
+    "name": "UDO",
+    "contentId": "UP0785-PPSA15357_00-0555736516980646",
+    "region": "UP",
+    "publisherId": "UP0785"
+  },
+  {
     "titleId": "PPSA15363_00",
     "conceptId": 10005856,
     "name": "Omega Strikers",
@@ -66931,6 +66955,14 @@
     "titleId": "PPSA15768_00",
     "conceptId": 10007950,
     "name": "Ubisoft+ Classics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA15770_00",
+    "conceptId": 10008129,
+    "name": "Retreat To Enen",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -73672,6 +73704,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA17159_00",
+    "conceptId": 10005728,
+    "name": "Together We Live",
+    "contentId": "UP2500-PPSA17159_00-US0IKIMASHOU0PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA17160_00",
     "conceptId": 10005728,
     "name": "Together We Live",
@@ -74926,6 +74966,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17471_00",
+    "conceptId": 10008811,
+    "name": "\u30d7\u30ed\u91ce\u7403\u30b9\u30d4\u30ea\u30c3\u30c4 myBALLPARK",
+    "contentId": "JP0101-PPSA17471_00-PROBBSPIRITSMYBP",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA17476_00",
@@ -78042,10 +78090,10 @@
   {
     "titleId": "PPSA18192_00",
     "conceptId": 10009076,
-    "name": "Hot Wheels Monster Trucks: Stunt Mayhem\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hot Wheels Monster Trucks: Stunt Mayhem",
+    "contentId": "EP0281-PPSA18192_00-HOTWMONSTERTRUCK",
+    "region": "EP",
+    "publisherId": "EP0281"
   },
   {
     "titleId": "PPSA18201_00",
@@ -81395,7 +81443,7 @@
     "titleId": "PPSA19007_00",
     "conceptId": 10009366,
     "name": "A Quiet Place: The Road Ahead",
-    "contentId": null,
+    "contentId": "EP6853-PPSA19007_00-AQPBASEGAME00000",
     "region": "EP",
     "publisherId": "EP6853"
   },
@@ -99328,6 +99376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23489_00",
+    "conceptId": 10003236,
+    "name": "House Flipper VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23490_00",
     "conceptId": 10011215,
     "name": "Faces of Illusion: The Twin Phantoms",
@@ -102432,6 +102488,38 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA24343_00",
+    "conceptId": 10011681,
+    "name": "Spot It",
+    "contentId": "UP7668-PPSA24343_00-0709182897352069",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24344_00",
+    "conceptId": 10011681,
+    "name": "Spot It",
+    "contentId": "UP7668-PPSA24344_00-0416210509535355",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24345_00",
+    "conceptId": 10011681,
+    "name": "Spot It",
+    "contentId": "UP7668-PPSA24345_00-0522108582052146",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24346_00",
+    "conceptId": 10011681,
+    "name": "Spot It",
+    "contentId": "UP7668-PPSA24346_00-0122182825045930",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA24347_00",
     "conceptId": 10009937,
     "name": "The First Berserker: Khazan",
@@ -105472,6 +105560,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25457_00",
+    "conceptId": 10002962,
+    "name": "8-Bit Adventures 2 Demo",
+    "contentId": "UP6984-PPSA25457_00-0202865803663892",
+    "region": "UP",
+    "publisherId": "UP6984"
+  },
+  {
     "titleId": "PPSA25460_00",
     "conceptId": 10012231,
     "name": "Learn to Play Vol. 6 - Labyrinth",
@@ -106099,9 +106195,9 @@
     "titleId": "PPSA25694_00",
     "conceptId": 10012356,
     "name": "Heroic Pirates",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0008-PPSA25694_00-0909670406504369",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA25696_00",
