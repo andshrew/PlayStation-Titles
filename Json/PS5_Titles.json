@@ -66960,6 +66960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15769_00",
+    "conceptId": 10008129,
+    "name": "Retreat To Enen",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15770_00",
     "conceptId": 10008129,
     "name": "Retreat To Enen",
@@ -74106,10 +74114,10 @@
   {
     "titleId": "PPSA17246_00",
     "conceptId": 10008636,
-    "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TMNT: Mutants Unleashed",
+    "contentId": "EP3678-PPSA17246_00-000000000000SIEE",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA17248_00",
@@ -76482,8 +76490,8 @@
   {
     "titleId": "PPSA17844_00",
     "conceptId": 10001989,
-    "name": "Unknown 9: Awakening PS4 & PS5",
-    "contentId": null,
+    "name": "Unknown 9: Awakening",
+    "contentId": "JP0700-PPSA17844_00-UNKNOWN90000GAME",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -103160,6 +103168,14 @@
     "publisherId": "JP0177"
   },
   {
+    "titleId": "PPSA24485_00",
+    "conceptId": 10011674,
+    "name": "Taboo Trial",
+    "contentId": "UB0675-PPSA24485_00-0322440109199253",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
     "titleId": "PPSA24491_00",
     "conceptId": 10011761,
     "name": "Colorama Cubes",
@@ -104158,6 +104174,22 @@
     "contentId": "UB0529-PPSA24820_00-0030550632117721",
     "region": "UB",
     "publisherId": "UB0529"
+  },
+  {
+    "titleId": "PPSA24821_00",
+    "conceptId": 10011912,
+    "name": "Circle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24822_00",
+    "conceptId": 10011912,
+    "name": "Circle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24828_00",
@@ -106992,6 +107024,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26242_00",
+    "conceptId": 10012709,
+    "name": "Chronos Time",
+    "contentId": "UB0796-PPSA26242_00-0831106760302453",
+    "region": "UB",
+    "publisherId": "UB0796"
+  },
+  {
     "titleId": "PPSA26247_00",
     "conceptId": 10012712,
     "name": "Kickabit",
@@ -107075,9 +107115,9 @@
     "titleId": "PPSA26466_00",
     "conceptId": 10012846,
     "name": "Rooftop Rascal: The Spooky Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0933-PPSA26466_00-0113910632473032",
+    "region": "EB",
+    "publisherId": "EB0933"
   },
   {
     "titleId": "PPSA26467_00",
@@ -107091,16 +107131,16 @@
     "titleId": "PPSA26468_00",
     "conceptId": 10012846,
     "name": "Rooftop Rascal: The Spooky Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0678-PPSA26468_00-0354091295296744",
+    "region": "JB",
+    "publisherId": "JB0678"
   },
   {
     "titleId": "PPSA26469_00",
     "conceptId": 10012846,
     "name": "Rooftop Rascal: The Spooky Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0706-PPSA26469_00-0680400219966589",
+    "region": "HB",
+    "publisherId": "HB0706"
   }
 ]
