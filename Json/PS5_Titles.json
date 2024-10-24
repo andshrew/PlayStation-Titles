@@ -20851,9 +20851,9 @@
     "titleId": "PPSA05639_00",
     "conceptId": 10002962,
     "name": "8-Bit Adventures 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6984-PPSA05639_00-8676898247436439",
+    "region": "UP",
+    "publisherId": "UP6984"
   },
   {
     "titleId": "PPSA05642_00",
@@ -30779,7 +30779,7 @@
     "titleId": "PPSA07460_00",
     "conceptId": 10004947,
     "name": "New World: Aeternum",
-    "contentId": null,
+    "contentId": "EP5447-PPSA07460_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP5447"
   },
@@ -48347,7 +48347,7 @@
     "titleId": "PPSA10472_00",
     "conceptId": 10006226,
     "name": "\u30d7\u30ed\u91ce\u7403\u30b9\u30d4\u30ea\u30c3\u30c42024-2025",
-    "contentId": null,
+    "contentId": "JP0101-PPSA10472_00-PROBBSPIRITS2024",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -58592,6 +58592,14 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA13654_00",
+    "conceptId": 10007290,
+    "name": "on Sunday 2",
+    "contentId": "EP7938-PPSA13654_00-0515193768573786",
+    "region": "EP",
+    "publisherId": "EP7938"
+  },
+  {
     "titleId": "PPSA13655_00",
     "conceptId": 10004787,
     "name": "\u9b54\u754c\u6230\u8a18 DISGAEA 7",
@@ -61938,8 +61946,8 @@
   {
     "titleId": "PPSA14260_00",
     "conceptId": 10007575,
-    "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE (PS4 & PS5)",
-    "contentId": null,
+    "name": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE",
+    "contentId": "UP4108-PPSA14260_00-SAN8RGAME0000000",
     "region": "UP",
     "publisherId": "UP4108"
   },
@@ -71034,8 +71042,8 @@
   {
     "titleId": "PPSA16566_00",
     "conceptId": 10008428,
-    "name": "Romancing SaGa 2: Revenge of the Seven - PS4&PS5",
-    "contentId": null,
+    "name": "\u5fa9\u6d3b\u90aa\u795e2 \u4e03\u82f1\u96c4\u7684\u5fa9\u4ec7",
+    "contentId": "HP0082-PPSA16566_00-ROMANCINGSAGA2RA",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -73803,9 +73811,9 @@
     "titleId": "PPSA17170_00",
     "conceptId": 10008684,
     "name": "Micro Mages",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8599-PPSA17170_00-0395164079175805",
+    "region": "UP",
+    "publisherId": "UP8599"
   },
   {
     "titleId": "PPSA17172_00",
@@ -88832,6 +88840,14 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA20643_00",
+    "conceptId": 10009982,
+    "name": "Metal Slug Tactics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20648_00",
     "conceptId": 10010032,
     "name": "BIT.TRIP RERUNNER",
@@ -88843,9 +88859,9 @@
     "titleId": "PPSA20649_00",
     "conceptId": 10010035,
     "name": "Super XYX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA20649_00-SUPERXYX00000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA20650_00",
@@ -89134,6 +89150,14 @@
     "contentId": "EP1063-PPSA20723_00-REYNATISPS5EU000",
     "region": "EP",
     "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA20724_00",
+    "conceptId": 10010067,
+    "name": "Towers of Aghasba",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6785"
   },
   {
     "titleId": "PPSA20728_00",
@@ -89883,9 +89907,9 @@
     "titleId": "PPSA20939_00",
     "conceptId": 10010145,
     "name": "Potionomics: Masterwork Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1023-PPSA20939_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA20940_00",
@@ -92378,8 +92402,8 @@
   {
     "titleId": "PPSA21607_00",
     "conceptId": 10010426,
-    "name": "The Smurfs - Dreams PS4 & PS5",
-    "contentId": null,
+    "name": "The Smurfs \u2013 Dreams",
+    "contentId": "EP4295-PPSA21607_00-SMURFSDREAMPS5EU",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -93390,6 +93414,22 @@
     "contentId": "UP3003-PPSA21809_00-0534722968620497",
     "region": "UP",
     "publisherId": "UP3003"
+  },
+  {
+    "titleId": "PPSA21810_00",
+    "conceptId": 10010508,
+    "name": "Slime 3K: Rise Against Despot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21811_00",
+    "conceptId": 10010508,
+    "name": "Slime 3K: Rise Against Despot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21813_00",
@@ -95995,25 +96035,25 @@
     "titleId": "PPSA22483_00",
     "conceptId": 10009167,
     "name": "AWAKEN - Astral Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA22483_00-AWAKMGPS500000US",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA22484_00",
     "conceptId": 10009167,
     "name": "AWAKEN - Astral Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA22484_00-AWAKMGPS500000EU",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA22485_00",
     "conceptId": 10009167,
     "name": "AWAKEN - Astral Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7843-PPSA22485_00-AWAKMGPS500000JP",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA22486_00",
@@ -96238,6 +96278,14 @@
     "contentId": "HP8504-PPSA22538_00-0443713175058005",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA22541_00",
+    "conceptId": 10010770,
+    "name": "DARKNESS ROLLERCOASTER - PSVR2 REMASTERED VERSION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22542_00",
@@ -96571,9 +96619,9 @@
     "titleId": "PPSA22635_00",
     "conceptId": 10009896,
     "name": "The Bridge Curse 2: The Extrication",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA22635_00-BRIDCURS2SIEAPS5",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA22636_00",
@@ -96859,9 +96907,9 @@
     "titleId": "PPSA22699_00",
     "conceptId": 10010737,
     "name": "Fear the Spotlight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8651-PPSA22699_00-FEARTHESPOTLIGHT",
+    "region": "UP",
+    "publisherId": "UP8651"
   },
   {
     "titleId": "PPSA22700_00",
@@ -97022,6 +97070,14 @@
     "contentId": "HP4312-PPSA22744_00-0143232190002975",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA22746_00",
+    "conceptId": 10010876,
+    "name": "\u30ab\u30eb\u30c9\u30a2\u30f3\u30b7\u30a7\u30eb",
+    "contentId": "JP1368-PPSA22746_00-CARDCIELAPPWW000",
+    "region": "JP",
+    "publisherId": "JP1368"
   },
   {
     "titleId": "PPSA22747_00",
@@ -103568,6 +103624,14 @@
     "publisherId": "HB0669"
   },
   {
+    "titleId": "PPSA24598_00",
+    "conceptId": 10009622,
+    "name": "Farmagia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24603_00",
     "conceptId": 10009622,
     "name": "Farmagia",
@@ -104856,6 +104920,22 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA25013_00",
+    "conceptId": 10005682,
+    "name": "Ravenswatch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25014_00",
+    "conceptId": 10005682,
+    "name": "Ravenswatch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25031_00",
     "conceptId": 10011963,
     "name": "Drift Master Simulator",
@@ -105392,6 +105472,14 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA25304_00",
+    "conceptId": 10012131,
+    "name": "CAFE 0 ~The Sleeping Beast~ REMASTERED PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25311_00",
     "conceptId": 10012134,
     "name": "Bomb The Town",
@@ -105630,6 +105718,14 @@
     "contentId": "EP0177-PPSA25426_00-METAPHOREUTRIAL1",
     "region": "EP",
     "publisherId": "EP0177"
+  },
+  {
+    "titleId": "PPSA25432_00",
+    "conceptId": 10012204,
+    "name": "Hidden Cats in Spooky Town",
+    "contentId": "EP6985-PPSA25432_00-0202719401030659",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA25438_00",
@@ -106344,6 +106440,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA25729_00",
+    "conceptId": 10009982,
+    "name": "Metal Slug Tactics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25737_00",
     "conceptId": 10012387,
     "name": "10-Second Ghost",
@@ -106747,9 +106851,9 @@
     "titleId": "PPSA25908_00",
     "conceptId": 10012487,
     "name": "Say Cheese!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25908_00-SAYCHE9999999001",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25909_00",
@@ -106763,17 +106867,17 @@
     "titleId": "PPSA25910_00",
     "conceptId": 10012487,
     "name": "Say Cheese!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA25910_00-SAYCHE9999999004",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA25911_00",
     "conceptId": 10012487,
     "name": "Say Cheese!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA25911_00-SAYCHE9999999003",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA25918_00",
@@ -106864,6 +106968,14 @@
     "publisherId": "EB1123"
   },
   {
+    "titleId": "PPSA26053_00",
+    "conceptId": 10012559,
+    "name": "AMEDAMA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26063_00",
     "conceptId": 10012570,
     "name": "Tiny Starfighters",
@@ -106894,6 +107006,14 @@
     "contentId": "JP0089-PPSA26082_00-0927282689531576",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA26083_00",
+    "conceptId": 10012260,
+    "name": "Bpop Attack",
+    "contentId": "HP4312-PPSA26083_00-0868087125437454",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA26110_00",
@@ -107179,9 +107299,9 @@
     "titleId": "PPSA26413_00",
     "conceptId": 10009861,
     "name": "Kong: Survivor Instinct",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8260-PPSA26413_00-0115760711334705",
+    "region": "HP",
+    "publisherId": "HP8260"
   },
   {
     "titleId": "PPSA26466_00",
