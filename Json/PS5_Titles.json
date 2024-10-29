@@ -75624,6 +75624,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA17623_00",
+    "conceptId": 10008870,
+    "name": "Mizuchi",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17624_00",
     "conceptId": 10007282,
     "name": "Brotato",
@@ -78884,8 +78892,8 @@
     "conceptId": 10009142,
     "name": "Shadow Tactics: Aiko's Choice",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA18380_00",
@@ -85611,9 +85619,9 @@
     "titleId": "PPSA19939_00",
     "conceptId": 10009710,
     "name": "Vengeance Hunters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0688-PPSA19939_00-VENGEANCEHUNTERS",
+    "region": "EB",
+    "publisherId": "EB0688"
   },
   {
     "titleId": "PPSA19940_00",
@@ -98179,9 +98187,9 @@
     "titleId": "PPSA23069_00",
     "conceptId": 10010996,
     "name": "The Legend of Santa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8408-PPSA23069_00-0562520711252135",
+    "region": "UP",
+    "publisherId": "UP8408"
   },
   {
     "titleId": "PPSA23071_00",
@@ -99950,6 +99958,14 @@
     "contentId": "EP0896-PPSA23592_00-DEATHCHRONRATGAM",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA23594_00",
+    "conceptId": 10011265,
+    "name": "Megaton",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23595_00",
@@ -101824,6 +101840,30 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA24060_00",
+    "conceptId": 10011532,
+    "name": "FAIRY TAIL\uff12 (PS4 & PS5)",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA24061_00",
+    "conceptId": 10011532,
+    "name": "FAIRY TAIL 2 (PS4 & PS5)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0106"
+  },
+  {
+    "titleId": "PPSA24062_00",
+    "conceptId": 10011532,
+    "name": "FAIRY TAIL 2 (PS4 & PS5)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4108"
+  },
+  {
     "titleId": "PPSA24070_00",
     "conceptId": 10011542,
     "name": "Tiny Whaley 2",
@@ -102338,18 +102378,18 @@
   {
     "titleId": "PPSA24189_00",
     "conceptId": 10005176,
-    "name": "Monster Hunter Wilds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Monster Hunter Wilds Beta test",
+    "contentId": "UP0102-PPSA24189_00-OBT0000000000000",
+    "region": "UP",
+    "publisherId": "UP0102"
   },
   {
     "titleId": "PPSA24190_00",
     "conceptId": 10005176,
-    "name": "Monster Hunter Wilds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Monster Hunter Wilds Beta test",
+    "contentId": "HP0102-PPSA24190_00-OBT0000000000000",
+    "region": "HP",
+    "publisherId": "HP0102"
   },
   {
     "titleId": "PPSA24195_00",
@@ -103064,6 +103104,14 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA24395_00",
+    "conceptId": 10011701,
+    "name": "Last Escape: Dead Complex",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24396_00",
     "conceptId": 10011702,
     "name": "APPLESNATCH!",
@@ -103174,6 +103222,14 @@
     "contentId": "UB0270-PPSA24413_00-0670789077557363",
     "region": "UB",
     "publisherId": "UB0270"
+  },
+  {
+    "titleId": "PPSA24415_00",
+    "conceptId": 10011178,
+    "name": "your average old school shmup",
+    "contentId": "EB1103-PPSA24415_00-0045644019710150",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA24418_00",
@@ -103827,9 +103883,9 @@
     "titleId": "PPSA24592_00",
     "conceptId": 10011798,
     "name": "Backrooms: Partygoers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA24592_00-BACKROOMSPARTYRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA24594_00",
@@ -106608,6 +106664,30 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA25610_00",
+    "conceptId": 10011178,
+    "name": "your average old school shmup",
+    "contentId": "UB0908-PPSA25610_00-0929551561255204",
+    "region": "UB",
+    "publisherId": "UB0908"
+  },
+  {
+    "titleId": "PPSA25611_00",
+    "conceptId": 10011178,
+    "name": "your average old school shmup",
+    "contentId": "JB0847-PPSA25611_00-0364986729142928",
+    "region": "JB",
+    "publisherId": "JB0847"
+  },
+  {
+    "titleId": "PPSA25612_00",
+    "conceptId": 10011178,
+    "name": "your average old school shmup",
+    "contentId": "HB0876-PPSA25612_00-0633770979892129",
+    "region": "HB",
+    "publisherId": "HB0876"
+  },
+  {
     "titleId": "PPSA25618_00",
     "conceptId": 231334,
     "name": "Minefield",
@@ -107734,6 +107814,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA26198_00",
+    "conceptId": 10012676,
+    "name": "Cozy Claw Machine",
+    "contentId": "UB0752-PPSA26198_00-0058857765711634",
+    "region": "UB",
+    "publisherId": "UB0752"
   },
   {
     "titleId": "PPSA26200_00",
