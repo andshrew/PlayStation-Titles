@@ -57443,7 +57443,7 @@
     "titleId": "PPSA13429_00",
     "conceptId": 221727,
     "name": "Horizon Zero Dawn\u2122 Remastered",
-    "contentId": null,
+    "contentId": "JP9000-PPSA13429_00-HORIZONREMASTER1",
     "region": "JP",
     "publisherId": "JP9000"
   },
@@ -66987,17 +66987,17 @@
     "titleId": "PPSA15769_00",
     "conceptId": 10008129,
     "name": "Retreat To Enen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6705-PPSA15769_00-0755042886398554",
+    "region": "UP",
+    "publisherId": "UP6705"
   },
   {
     "titleId": "PPSA15770_00",
     "conceptId": 10008129,
     "name": "Retreat To Enen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6704-PPSA15770_00-0359955030039330",
+    "region": "EP",
+    "publisherId": "EP6704"
   },
   {
     "titleId": "PPSA15771_00",
@@ -68739,7 +68739,7 @@
     "titleId": "PPSA16105_00",
     "conceptId": 10008183,
     "name": "Life is Strange: Double Exposure",
-    "contentId": null,
+    "contentId": "UP0082-PPSA16105_00-0460099951583879",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -68755,15 +68755,15 @@
     "titleId": "PPSA16107_00",
     "conceptId": 10008183,
     "name": "\u30e9\u30a4\u30d5 \u30a4\u30ba \u30b9\u30c8\u30ec\u30f3\u30b8 \u30c0\u30d6\u30eb\u30a8\u30af\u30b9\u30dd\u30fc\u30b8\u30e3\u30fc",
-    "contentId": null,
+    "contentId": "JP0082-PPSA16107_00-0257634009158496",
     "region": "JP",
     "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA16108_00",
     "conceptId": 10008183,
-    "name": "Life is Strange: Double Exposure (TC/SC/KR Ver.)",
-    "contentId": null,
+    "name": "Life is Strange: Double Exposure",
+    "contentId": "HP0082-PPSA16108_00-0219803075252028",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -79504,6 +79504,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA18529_00",
+    "conceptId": 10009198,
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7816"
+  },
+  {
     "titleId": "PPSA18532_00",
     "conceptId": 10008677,
     "name": "Bulletstorm VR",
@@ -85619,9 +85627,9 @@
     "titleId": "PPSA19938_00",
     "conceptId": 10009710,
     "name": "Vengeance Hunters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0497-PPSA19938_00-VENGEANCEHUNTERS",
+    "region": "UB",
+    "publisherId": "UB0497"
   },
   {
     "titleId": "PPSA19939_00",
@@ -85635,9 +85643,9 @@
     "titleId": "PPSA19940_00",
     "conceptId": 10009710,
     "name": "Vengeance Hunters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0436-PPSA19940_00-VENGEANCEHUNTERS",
+    "region": "JB",
+    "publisherId": "JB0436"
   },
   {
     "titleId": "PPSA19941_00",
@@ -89896,6 +89904,22 @@
     "publisherId": "EP6681"
   },
   {
+    "titleId": "PPSA20911_00",
+    "conceptId": 217611,
+    "name": "3on3 FreeStyle",
+    "contentId": "HP1573-PPSA20911_00-3ON3FREESTYLE001",
+    "region": "HP",
+    "publisherId": "HP1573"
+  },
+  {
+    "titleId": "PPSA20913_00",
+    "conceptId": 217611,
+    "name": "3on3 FreeStyle",
+    "contentId": "EP1439-PPSA20913_00-3ON3FREESTYLE001",
+    "region": "EP",
+    "publisherId": "EP1439"
+  },
+  {
     "titleId": "PPSA20915_00",
     "conceptId": 10007756,
     "name": "Magical Drop VI",
@@ -93258,10 +93282,10 @@
   {
     "titleId": "PPSA21739_00",
     "conceptId": 227097,
-    "name": "Arizona Sunshine\u00ae",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Arizona Sunshine Remake",
+    "contentId": "JP3575-PPSA21739_00-VERTVERTAS1HDJGU",
+    "region": "JP",
+    "publisherId": "JP3575"
   },
   {
     "titleId": "PPSA21740_00",
@@ -98160,6 +98184,14 @@
     "publisherId": "EP5133"
   },
   {
+    "titleId": "PPSA23051_00",
+    "conceptId": 10010990,
+    "name": "\u30a6\u30eb\u30d5\u30d5\u30a1\u30f3\u30b0\u30fb\u30b9\u30ab\u30eb\u30d5\u30a1\u30f3\u30b0 \u30b5\u30bf\u30fc\u30f3\u30c8\u30ea\u30d3\u30e5\u30fc\u30c8 Boosted",
+    "contentId": "JP1091-PPSA23051_00-0631759658956663",
+    "region": "JP",
+    "publisherId": "JP1091"
+  },
+  {
     "titleId": "PPSA23056_00",
     "conceptId": 10010991,
     "name": "Cazzarion: Rocket Raid",
@@ -98530,10 +98562,10 @@
   {
     "titleId": "PPSA23217_00",
     "conceptId": 10011059,
-    "name": "Monospaced Lovers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30e2\u30ce\u30b9\u30da\u30fc\u30b9\u30c9 \u30e9\u30d0\u30fc\u30ba",
+    "contentId": "UP7788-PPSA23217_00-MSLPS50000000000",
+    "region": "UP",
+    "publisherId": "UP7788"
   },
   {
     "titleId": "PPSA23218_00",
@@ -99907,9 +99939,9 @@
     "titleId": "PPSA23569_00",
     "conceptId": 10011250,
     "name": "Bottle: Pilgrim Redux",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3729-PPSA23569_00-BOTTLEPILGRIMPS5",
+    "region": "EP",
+    "publisherId": "EP3729"
   },
   {
     "titleId": "PPSA23570_00",
@@ -100923,9 +100955,9 @@
     "titleId": "PPSA23846_00",
     "conceptId": 10011421,
     "name": "Totally Spies! - Cyber Mission",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4295-PPSA23846_00-TSCYBERMISSPS5EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA23847_00",
@@ -101168,6 +101200,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA23895_00",
+    "conceptId": 10008850,
+    "name": "Soul Stalker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23901_00",
     "conceptId": 10011447,
     "name": "No Brakez",
@@ -101382,6 +101422,14 @@
     "contentId": "UP7578-PPSA23948_00-0274224845332461",
     "region": "UP",
     "publisherId": "UP7578"
+  },
+  {
+    "titleId": "PPSA23950_00",
+    "conceptId": 10009078,
+    "name": "Bloomtown a Different Story Demo",
+    "contentId": "UP4744-PPSA23950_00-0526163712895803",
+    "region": "UP",
+    "publisherId": "UP4744"
   },
   {
     "titleId": "PPSA23951_00",
@@ -101878,6 +101926,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4108"
+  },
+  {
+    "titleId": "PPSA24065_00",
+    "conceptId": 10011537,
+    "name": "Spirit Mancer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24070_00",
@@ -102771,17 +102827,17 @@
     "titleId": "PPSA24308_00",
     "conceptId": 10010305,
     "name": "Clock Tower: Rewind",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0202-PPSA24308_00-CLOCKTOWERPS5JPN",
+    "region": "JP",
+    "publisherId": "JP0202"
   },
   {
     "titleId": "PPSA24309_00",
     "conceptId": 10010305,
     "name": "Clock Tower: Rewind",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0202-PPSA24309_00-CLOCKTOWERPS5ASI",
+    "region": "HP",
+    "publisherId": "HP0202"
   },
   {
     "titleId": "PPSA24310_00",
@@ -102936,6 +102992,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24348_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24352_00",
     "conceptId": 10011087,
     "name": "Trivia: Knowledge Trainer - the Quiz Game",
@@ -103070,6 +103134,22 @@
     "contentId": "EP1612-PPSA24368_00-TINYSPEEDSTER000",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA24369_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24374_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24375_00",
@@ -105891,9 +105971,9 @@
     "titleId": "PPSA25215_00",
     "conceptId": 10012082,
     "name": "Raiden NOVA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2035-PPSA25215_00-RAIDENNOVASIEAUP",
+    "region": "UP",
+    "publisherId": "UP2035"
   },
   {
     "titleId": "PPSA25237_00",
@@ -106018,10 +106098,10 @@
   {
     "titleId": "PPSA25304_00",
     "conceptId": 10012131,
-    "name": "CAFE 0 ~The Sleeping Beast~ REMASTERED PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ab\u30d5\u30a7\u30fb\u30bc\u30ed\uff5e\u7720\u308c\u308b\u91ce\u7363\uff5eREMASTERED",
+    "contentId": "UB0538-PPSA25304_00-BEASTREROS3V3RT3",
+    "region": "UB",
+    "publisherId": "UB0538"
   },
   {
     "titleId": "PPSA25311_00",
@@ -106880,6 +106960,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA25674_00",
+    "conceptId": 10010120,
+    "name": "For the Warp",
+    "contentId": "UP7698-PPSA25674_00-0348979540925903",
+    "region": "UP",
+    "publisherId": "UP7698"
+  },
+  {
     "titleId": "PPSA25675_00",
     "conceptId": 10012339,
     "name": "Blind - The Unseen Truth",
@@ -107304,6 +107392,14 @@
     "publisherId": "UP6718"
   },
   {
+    "titleId": "PPSA25796_00",
+    "conceptId": 10011668,
+    "name": "Stunt Paradise",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25809_00",
     "conceptId": 10012429,
     "name": "O.W.L Projekt",
@@ -107592,10 +107688,34 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25981_00",
+    "conceptId": 10012535,
+    "name": "Project 13: Taxidermy Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25982_00",
+    "conceptId": 10012535,
+    "name": "Project 13: Taxidermy Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25988_00",
     "conceptId": 10011250,
     "name": "Bottle: Pilgrim Redux (Demo)",
     "contentId": "EP3729-PPSA25988_00-BOTTLEDEMOPS5000",
+    "region": "EP",
+    "publisherId": "EP3729"
+  },
+  {
+    "titleId": "PPSA25989_00",
+    "conceptId": 10011249,
+    "name": "Nephise: Ascension - Demo",
+    "contentId": "EP3729-PPSA25989_00-NEPHISDEMOPS5000",
     "region": "EP",
     "publisherId": "EP3729"
   },
@@ -107840,6 +107960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26195_00",
+    "conceptId": 10012390,
+    "name": "\u6226\u4e89\u5f8c\u306e\u751f\u5b58",
+    "contentId": "UB0837-PPSA26195_00-0578803147231303",
+    "region": "UB",
+    "publisherId": "UB0837"
+  },
+  {
     "titleId": "PPSA26198_00",
     "conceptId": 10012676,
     "name": "Cozy Claw Machine",
@@ -108027,9 +108155,9 @@
     "titleId": "PPSA26263_00",
     "conceptId": 10012720,
     "name": "Cazzarion: Drone Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA26263_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA26277_00",
@@ -108070,6 +108198,30 @@
     "contentId": "EP3446-PPSA26343_00-PROJCTBRIGHTSIDE",
     "region": "EP",
     "publisherId": "EP3446"
+  },
+  {
+    "titleId": "PPSA26365_00",
+    "conceptId": 10012788,
+    "name": "Buildozer Simulator",
+    "contentId": "EP4476-PPSA26365_00-0886361485230040",
+    "region": "EP",
+    "publisherId": "EP4476"
+  },
+  {
+    "titleId": "PPSA26366_00",
+    "conceptId": 10012788,
+    "name": "Buildozer Simulator",
+    "contentId": "UP2136-PPSA26366_00-0129859513832989",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA26409_00",
+    "conceptId": 10012819,
+    "name": "Math Genius: Multiplication",
+    "contentId": "UB1022-PPSA26409_00-MATHGENIUSMULTJP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA26413_00",
