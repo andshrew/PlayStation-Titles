@@ -57435,7 +57435,7 @@
     "titleId": "PPSA13428_00",
     "conceptId": 221727,
     "name": "Horizon Zero Dawn\u2122 Remastered",
-    "contentId": null,
+    "contentId": "UP9000-PPSA13428_00-HORIZONREMASTER1",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -68747,7 +68747,7 @@
     "titleId": "PPSA16106_00",
     "conceptId": 10008183,
     "name": "Life is Strange: Double Exposure",
-    "contentId": null,
+    "contentId": "EP0082-PPSA16106_00-0205280659600578",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -73899,6 +73899,14 @@
     "titleId": "PPSA17181_00",
     "conceptId": 10008690,
     "name": "Luto",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17182_00",
+    "conceptId": 10008692,
+    "name": "Songs of Conquest",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -79502,6 +79510,14 @@
     "contentId": "HP6691-PPSA18525_00-ROBBYADVENTPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA18528_00",
+    "conceptId": 10009198,
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP7818"
   },
   {
     "titleId": "PPSA18529_00",
@@ -85848,6 +85864,38 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA19988_00",
+    "conceptId": 10009737,
+    "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b0\u30ec\u30a4\u30bb\u30b9 \u30a8\u30d5 \u30ea\u30de\u30b9\u30bf\u30fc PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA19989_00",
+    "conceptId": 10009737,
+    "name": "Tales of Graces f Remastered PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA19990_00",
+    "conceptId": 10009737,
+    "name": "Tales of Graces\u2122f Remastered",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA19991_00",
+    "conceptId": 10009737,
+    "name": "Tales of Graces f Remastered PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA19992_00",
     "conceptId": 10008215,
     "name": "\u8056\u528d\u50b3\u8aaa Visions of Mana \u9ad4\u9a57\u7248",
@@ -88728,6 +88776,22 @@
     "publisherId": "EP7711"
   },
   {
+    "titleId": "PPSA20601_00",
+    "conceptId": 10009667,
+    "name": "Reel Fishing: Days of Summer",
+    "contentId": "EP1014-PPSA20601_00-RFBOOK00000PS5EU",
+    "region": "EP",
+    "publisherId": "EP1014"
+  },
+  {
+    "titleId": "PPSA20603_00",
+    "conceptId": 10009667,
+    "name": "Reel Fishing: Days of Summer",
+    "contentId": "HP1014-PPSA20603_00-RFBOOK00000PS5AS",
+    "region": "HP",
+    "publisherId": "HP1014"
+  },
+  {
     "titleId": "PPSA20604_00",
     "conceptId": 10000585,
     "name": "Sweetest Monster",
@@ -89134,6 +89198,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA20701_00",
+    "conceptId": 10010060,
+    "name": "Self-Delusion",
+    "contentId": "JP1932-PPSA20701_00-SYPS5SELFDELUSIO",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA20702_00",
+    "conceptId": 10010060,
+    "name": "Self-Delusion",
+    "contentId": "HP1792-PPSA20702_00-SYPS5SELFDELUSIO",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA20705_00",
@@ -89912,12 +89992,28 @@
     "publisherId": "HP1573"
   },
   {
+    "titleId": "PPSA20912_00",
+    "conceptId": 217611,
+    "name": "3on3 FreeStyle",
+    "contentId": "JP1709-PPSA20912_00-3ON3FREESTYLE001",
+    "region": "JP",
+    "publisherId": "JP1709"
+  },
+  {
     "titleId": "PPSA20913_00",
     "conceptId": 217611,
     "name": "3on3 FreeStyle",
     "contentId": "EP1439-PPSA20913_00-3ON3FREESTYLE001",
     "region": "EP",
     "publisherId": "EP1439"
+  },
+  {
+    "titleId": "PPSA20914_00",
+    "conceptId": 217611,
+    "name": "3on3 FreeStyle",
+    "contentId": "UP1450-PPSA20914_00-3ON3FREESTYLE001",
+    "region": "UP",
+    "publisherId": "UP1450"
   },
   {
     "titleId": "PPSA20915_00",
@@ -93547,17 +93643,17 @@
     "titleId": "PPSA21810_00",
     "conceptId": 10010508,
     "name": "Slime 3K: Rise Against Despot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0097-PPSA21810_00-SLIME3K000000000",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA21811_00",
     "conceptId": 10010508,
     "name": "Slime 3K: Rise Against Despot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0096-PPSA21811_00-SLIME3K000000000",
+    "region": "EP",
+    "publisherId": "EP0096"
   },
   {
     "titleId": "PPSA21813_00",
@@ -97912,6 +98008,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22945_00",
+    "conceptId": 10010949,
+    "name": "Unsolved Case Series",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22946_00",
     "conceptId": 223683,
     "name": "LEGO\u00ae Harry Potter\u2122 Collection",
@@ -98014,6 +98118,14 @@
     "contentId": "EB0629-PPSA22979_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA22981_00",
+    "conceptId": 10010833,
+    "name": "MXGP 24: The Official Game",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA22997_00",
@@ -98190,6 +98302,22 @@
     "contentId": "JP1091-PPSA23051_00-0631759658956663",
     "region": "JP",
     "publisherId": "JP1091"
+  },
+  {
+    "titleId": "PPSA23052_00",
+    "conceptId": 10010990,
+    "name": "WolfFang SkullFang Saturn Tribute Boosted",
+    "contentId": "UP0794-PPSA23052_00-0241254237769839",
+    "region": "UP",
+    "publisherId": "UP0794"
+  },
+  {
+    "titleId": "PPSA23053_00",
+    "conceptId": 10010990,
+    "name": "WolfFang SkullFang Saturn Tribute Boosted",
+    "contentId": "EP0791-PPSA23053_00-0390414969882177",
+    "region": "EP",
+    "publisherId": "EP0791"
   },
   {
     "titleId": "PPSA23056_00",
@@ -100552,6 +100680,14 @@
     "publisherId": "JP8422"
   },
   {
+    "titleId": "PPSA23728_00",
+    "conceptId": 10011340,
+    "name": "ELDERBORN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23729_00",
     "conceptId": 10009449,
     "name": "Toy Trains",
@@ -101251,9 +101387,9 @@
     "titleId": "PPSA23911_00",
     "conceptId": 10011449,
     "name": "Aero The Acro-Bat: Rascal Rival Revenge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA23911_00-AERORASCALRIVARG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA23917_00",
@@ -102134,6 +102270,14 @@
     "contentId": "HP4119-PPSA24118_00-0473052149980385",
     "region": "HP",
     "publisherId": "HP4119"
+  },
+  {
+    "titleId": "PPSA24120_00",
+    "conceptId": 10011564,
+    "name": "Journey to Kreisia",
+    "contentId": "JP0013-PPSA24120_00-JP0JKREISIA00PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA24124_00",
@@ -104026,10 +104170,10 @@
   {
     "titleId": "PPSA24603_00",
     "conceptId": 10009622,
-    "name": "Farmagia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u300a\u9b54\u8fb2\u50b3\u8a18 FARMAGIA\u300b\u6578\u4f4d\u7f8e\u8853\u8a2d\u5b9a\u96c6\uff06\u539f\u8072\u5e36",
+    "contentId": "HP0177-PPSA24603_00-FARMAGIADDX00001",
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA24604_00",
@@ -104314,10 +104458,10 @@
   {
     "titleId": "PPSA24690_00",
     "conceptId": 221727,
-    "name": "Horizon Zero Dawn\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Horizon Zero Dawn\u2122 Artbook",
+    "contentId": "EP9000-PPSA24690_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA24725_00",
@@ -106003,9 +106147,9 @@
     "titleId": "PPSA25242_00",
     "conceptId": 10011203,
     "name": "Vampire Hunters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7512-PPSA25242_00-0576577522657797",
+    "region": "UP",
+    "publisherId": "UP7512"
   },
   {
     "titleId": "PPSA25245_00",
@@ -106014,6 +106158,14 @@
     "contentId": "UP8511-PPSA25245_00-0482904319581867",
     "region": "UP",
     "publisherId": "UP8511"
+  },
+  {
+    "titleId": "PPSA25259_00",
+    "conceptId": 10012111,
+    "name": "DragonDungeon",
+    "contentId": "EP8070-PPSA25259_00-0670569571526042",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA25266_00",
@@ -106054,6 +106206,14 @@
     "contentId": "EP5133-PPSA25279_00-WHOPPINGWORDSEAR",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA25292_00",
+    "conceptId": 10012127,
+    "name": "Hyper Rider",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25293_00",
@@ -106506,34 +106666,34 @@
   {
     "titleId": "PPSA25530_00",
     "conceptId": 10012268,
-    "name": "The Exit Project: Backstreets PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Exit Project: Backstreets",
+    "contentId": "EB0805-PPSA25530_00-0639631840898132",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25531_00",
     "conceptId": 10012268,
-    "name": "The Exit Project: Backstreets PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Exit Project: Backstreets",
+    "contentId": "EB0805-PPSA25531_00-0891525846571689",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25532_00",
     "conceptId": 10012268,
-    "name": "The Exit Project: Backstreets PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Exit Project: Backstreets",
+    "contentId": "EB0805-PPSA25532_00-0121184185189939",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25533_00",
     "conceptId": 10012268,
-    "name": "The Exit Project: Backstreets PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Exit Project: Backstreets",
+    "contentId": "EB0805-PPSA25533_00-0724008219536252",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25534_00",
@@ -106939,9 +107099,9 @@
     "titleId": "PPSA25656_00",
     "conceptId": 10012326,
     "name": "Knight Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5864-PPSA25656_00-0917439062383750",
+    "region": "EP",
+    "publisherId": "EP5864"
   },
   {
     "titleId": "PPSA25669_00",
@@ -107560,6 +107720,38 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA25890_00",
+    "conceptId": 10012479,
+    "name": "Garten of Banban 6",
+    "contentId": "UP3528-PPSA25890_00-GARTENOFBANBAN06",
+    "region": "UP",
+    "publisherId": "UP3528"
+  },
+  {
+    "titleId": "PPSA25891_00",
+    "conceptId": 10012479,
+    "name": "Garten of Banban 6",
+    "contentId": "EP3385-PPSA25891_00-GARTENOFBANBAN06",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA25892_00",
+    "conceptId": 10012479,
+    "name": "Garten of Banban 6",
+    "contentId": "JP3568-PPSA25892_00-GARTENOFBANBAN06",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
+    "titleId": "PPSA25893_00",
+    "conceptId": 10012479,
+    "name": "Garten of Banban 6",
+    "contentId": "HP3473-PPSA25893_00-GARTENOFBANBAN06",
+    "region": "HP",
+    "publisherId": "HP3473"
+  },
+  {
     "titleId": "PPSA25898_00",
     "conceptId": 10012480,
     "name": "\u9632\u885b\u30de\u30b9\u30bf\u30fc",
@@ -107718,6 +107910,30 @@
     "contentId": "EP3729-PPSA25989_00-NEPHISDEMOPS5000",
     "region": "EP",
     "publisherId": "EP3729"
+  },
+  {
+    "titleId": "PPSA25994_00",
+    "conceptId": 10012537,
+    "name": "Outbreak: Shades of Horror Chromatic Split",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25997_00",
+    "conceptId": 10012539,
+    "name": "Codex Lost",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25998_00",
+    "conceptId": 10012539,
+    "name": "Codex Lost",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26000_00",
@@ -107894,6 +108110,14 @@
     "contentId": "EP3945-PPSA26147_00-DOGMANPS5DEMOPKG",
     "region": "EP",
     "publisherId": "EP3945"
+  },
+  {
+    "titleId": "PPSA26161_00",
+    "conceptId": 10011929,
+    "name": "Bus Driving Simulator : EVO",
+    "contentId": "EP2649-PPSA26161_00-0769344621511152",
+    "region": "EP",
+    "publisherId": "EP2649"
   },
   {
     "titleId": "PPSA26166_00",
@@ -108216,6 +108440,22 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA26407_00",
+    "conceptId": 10012819,
+    "name": "Math Genius: Multiplication",
+    "contentId": "UB1022-PPSA26407_00-MATHGENIUSMULTEU",
+    "region": "UB",
+    "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA26408_00",
+    "conceptId": 10012819,
+    "name": "Math Genius: Multiplication",
+    "contentId": "UB1022-PPSA26408_00-MATHGENIUSMULTAS",
+    "region": "UB",
+    "publisherId": "UB1022"
+  },
+  {
     "titleId": "PPSA26409_00",
     "conceptId": 10012819,
     "name": "Math Genius: Multiplication",
@@ -108262,6 +108502,14 @@
     "contentId": "HB0706-PPSA26469_00-0680400219966589",
     "region": "HB",
     "publisherId": "HB0706"
+  },
+  {
+    "titleId": "PPSA26534_00",
+    "conceptId": 10012909,
+    "name": "Pro Flight Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26544_00",
