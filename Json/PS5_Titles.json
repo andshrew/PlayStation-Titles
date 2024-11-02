@@ -39763,9 +39763,9 @@
     "titleId": "PPSA09030_00",
     "conceptId": 10005673,
     "name": "Phasmophobia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7789-PPSA09030_00-5648706170853559",
+    "region": "EP",
+    "publisherId": "EP7789"
   },
   {
     "titleId": "PPSA09033_00",
@@ -57427,7 +57427,7 @@
     "titleId": "PPSA13427_00",
     "conceptId": 221727,
     "name": "Horizon Zero Dawn\u2122 Remastered",
-    "contentId": null,
+    "contentId": "EP9000-PPSA13427_00-HORIZONREMASTER1",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -58547,7 +58547,7 @@
     "titleId": "PPSA13646_00",
     "conceptId": 10007288,
     "name": "[REDACTED]",
-    "contentId": null,
+    "contentId": "UP1987-PPSA13646_00-00000BIRDPS5SIEA",
     "region": "UP",
     "publisherId": "UP1987"
   },
@@ -58555,7 +58555,7 @@
     "titleId": "PPSA13647_00",
     "conceptId": 10007288,
     "name": "[REDACTED]",
-    "contentId": null,
+    "contentId": "EP1970-PPSA13647_00-00000BIRDPS5SIEE",
     "region": "EP",
     "publisherId": "EP1970"
   },
@@ -58563,7 +58563,7 @@
     "titleId": "PPSA13648_00",
     "conceptId": 10007288,
     "name": "[REDACTED]",
-    "contentId": null,
+    "contentId": "JP2243-PPSA13648_00-000BIRDPS5SIEJAJ",
     "region": "JP",
     "publisherId": "JP2243"
   },
@@ -58579,7 +58579,7 @@
     "titleId": "PPSA13650_00",
     "conceptId": 10007288,
     "name": "[REDACTED]",
-    "contentId": null,
+    "contentId": "HP2146-PPSA13650_00-000BIRDPS5SIEJAA",
     "region": "HP",
     "publisherId": "HP2146"
   },
@@ -66714,10 +66714,10 @@
   {
     "titleId": "PPSA15718_00",
     "conceptId": 10008117,
-    "name": "Raiden NOVA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u96f7\u96fbNOVA",
+    "contentId": "JP0622-PPSA15718_00-RAIDENNOVAMOSSJP",
+    "region": "JP",
+    "publisherId": "JP0622"
   },
   {
     "titleId": "PPSA15719_00",
@@ -76627,7 +76627,7 @@
     "titleId": "PPSA17859_00",
     "conceptId": 10008909,
     "name": "Shadows of the Damned: Hella Remastered",
-    "contentId": null,
+    "contentId": "EP7562-PPSA17859_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP7562"
   },
@@ -76635,7 +76635,7 @@
     "titleId": "PPSA17860_00",
     "conceptId": 10008909,
     "name": "Shadows of the Damned: Hella Remastered",
-    "contentId": null,
+    "contentId": "JP7543-PPSA17860_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP7543"
   },
@@ -79080,6 +79080,14 @@
     "publisherId": "EP8790"
   },
   {
+    "titleId": "PPSA18421_00",
+    "conceptId": 10009157,
+    "name": "\u9b54\u5c0e\u7269\u8a9e \u30d5\u30a3\u30a2\u3068\u4e0d\u601d\u8b70\u306a\u5b66\u6821",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
     "titleId": "PPSA18422_00",
     "conceptId": 233596,
     "name": "Human Anatomy VR",
@@ -80206,6 +80214,30 @@
     "contentId": "HP6691-PPSA18705_00-BLINPOSTMANPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA18707_00",
+    "conceptId": 10009279,
+    "name": "DEATH NOTE Killer Within",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18708_00",
+    "conceptId": 10009279,
+    "name": "DEATH NOTE Killer Within",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18709_00",
+    "conceptId": 10009279,
+    "name": "DEATH NOTE Killer Within",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18711_00",
@@ -84514,10 +84546,10 @@
   {
     "titleId": "PPSA19673_00",
     "conceptId": 10009622,
-    "name": "Farmagia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FARMAGIA",
+    "contentId": "JP0507-PPSA19673_00-FARMAGIA00000001",
+    "region": "JP",
+    "publisherId": "JP0507"
   },
   {
     "titleId": "PPSA19678_00",
@@ -86888,6 +86920,14 @@
     "publisherId": "UP1470"
   },
   {
+    "titleId": "PPSA20208_00",
+    "conceptId": 10009827,
+    "name": "Cuisineer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20209_00",
     "conceptId": 10009830,
     "name": "Dream Bakery",
@@ -88784,6 +88824,14 @@
     "publisherId": "EP1014"
   },
   {
+    "titleId": "PPSA20602_00",
+    "conceptId": 10009667,
+    "name": "Reel Fishing: Days of Summer",
+    "contentId": "JP1198-PPSA20602_00-RFBOOK00000PS5JP",
+    "region": "JP",
+    "publisherId": "JP1198"
+  },
+  {
     "titleId": "PPSA20603_00",
     "conceptId": 10009667,
     "name": "Reel Fishing: Days of Summer",
@@ -89187,9 +89235,9 @@
     "titleId": "PPSA20699_00",
     "conceptId": 10010060,
     "name": "Self-Delusion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA20699_00-SYPS5SELFDELUSIO",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA20700_00",
@@ -92171,9 +92219,9 @@
     "titleId": "PPSA21474_00",
     "conceptId": 10009622,
     "name": "Farmagia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4492-PPSA21474_00-FARMAGIA00000001",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA21480_00",
@@ -92187,9 +92235,9 @@
     "titleId": "PPSA21484_00",
     "conceptId": 10009622,
     "name": "Farmagia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1023-PPSA21484_00-FARMAGIA00000001",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA21485_00",
@@ -92722,10 +92770,10 @@
   {
     "titleId": "PPSA21623_00",
     "conceptId": 10009622,
-    "name": "Farmagia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u9b54\u8fb2\u50b3\u8a18 FARMAGIA",
+    "contentId": "HP0177-PPSA21623_00-FARMAGIA00000001",
+    "region": "HP",
+    "publisherId": "HP0177"
   },
   {
     "titleId": "PPSA21624_00",
@@ -95450,10 +95498,10 @@
   {
     "titleId": "PPSA22268_00",
     "conceptId": 10009622,
-    "name": "Farmagia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FARMAGIA(\u30d5\u30a1\u30fc\u30de\u30ae\u30a2) \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af\uff06\u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0507-PPSA22268_00-FARMAGIADDX00001",
+    "region": "JP",
+    "publisherId": "JP0507"
   },
   {
     "titleId": "PPSA22269_00",
@@ -96667,9 +96715,9 @@
     "titleId": "PPSA22563_00",
     "conceptId": 10010793,
     "name": "Albatroz",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4541-PPSA22563_00-ALBATROZEU000000",
+    "region": "EP",
+    "publisherId": "EP4541"
   },
   {
     "titleId": "PPSA22564_00",
@@ -96918,6 +96966,14 @@
     "contentId": "HP8232-PPSA22641_00-0686265810289941",
     "region": "HP",
     "publisherId": "HP8232"
+  },
+  {
+    "titleId": "PPSA22642_00",
+    "conceptId": 10010821,
+    "name": "Supermarket Simulator 2024",
+    "contentId": "EB0720-PPSA22642_00-0817896597940059",
+    "region": "EB",
+    "publisherId": "EB0720"
   },
   {
     "titleId": "PPSA22643_00",
@@ -98010,10 +98066,10 @@
   {
     "titleId": "PPSA22945_00",
     "conceptId": 10010949,
-    "name": "Unsolved Case Series",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Unsolved Case: Killer Popularity CE",
+    "contentId": "EB0620-PPSA22945_00-UNSOLVEDCASEKP00",
+    "region": "EB",
+    "publisherId": "EB0620"
   },
   {
     "titleId": "PPSA22946_00",
@@ -100139,9 +100195,9 @@
     "titleId": "PPSA23594_00",
     "conceptId": 10011265,
     "name": "Megaton",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6556-PPSA23594_00-0735705384361389",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA23595_00",
@@ -103928,6 +103984,22 @@
     "publisherId": "EB0970"
   },
   {
+    "titleId": "PPSA24528_00",
+    "conceptId": 10011768,
+    "name": "Jumping Boy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24529_00",
+    "conceptId": 10011768,
+    "name": "Jumping Boy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24536_00",
     "conceptId": 10011773,
     "name": "Forests, Fields and Fortresses",
@@ -104098,10 +104170,10 @@
   {
     "titleId": "PPSA24578_00",
     "conceptId": 10009622,
-    "name": "Farmagia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Farmagia Digital Artbook & OST",
+    "contentId": "EP4492-PPSA24578_00-FARMAGIADDX00001",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA24581_00",
@@ -104162,10 +104234,10 @@
   {
     "titleId": "PPSA24598_00",
     "conceptId": 10009622,
-    "name": "Farmagia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Farmagia Digital Artbook & OST",
+    "contentId": "UP1023-PPSA24598_00-FARMAGIADDX00001",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA24603_00",
@@ -104462,6 +104534,14 @@
     "contentId": "EP9000-PPSA24690_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP9000"
+  },
+  {
+    "titleId": "PPSA24705_00",
+    "conceptId": 10011863,
+    "name": "Irem Collection Volume 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24725_00",
@@ -106248,6 +106328,30 @@
     "publisherId": "HB0669"
   },
   {
+    "titleId": "PPSA25297_00",
+    "conceptId": 10007722,
+    "name": "LEGO\u00ae Horizon Adventures\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25298_00",
+    "conceptId": 10007722,
+    "name": "LEGO\u00ae Horizon Adventures\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25300_00",
+    "conceptId": 10004234,
+    "name": "VED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25303_00",
     "conceptId": 10011924,
     "name": "Night of the Dead Simulator",
@@ -106299,6 +106403,22 @@
     "titleId": "PPSA25318_00",
     "conceptId": 10011866,
     "name": "Songs of Silence",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25322_00",
+    "conceptId": 10012138,
+    "name": "Cubic Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25323_00",
+    "conceptId": 10012138,
+    "name": "Cubic Run",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -106472,12 +106592,20 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA25393_00",
+    "conceptId": 10012176,
+    "name": "Heart of a Knight",
+    "contentId": "UP7335-PPSA25393_00-0140117899646590",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA25394_00",
     "conceptId": 10012176,
     "name": "Heart of a Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA25394_00-0091460620383190",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA25397_00",
@@ -106486,6 +106614,22 @@
     "contentId": "UB0983-PPSA25397_00-0140042456365836",
     "region": "UB",
     "publisherId": "UB0983"
+  },
+  {
+    "titleId": "PPSA25411_00",
+    "conceptId": 10012191,
+    "name": "Venus Vacation PRISM - DEAD OR ALIVE Xtreme -",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA25412_00",
+    "conceptId": 10012191,
+    "name": "Venus Vacation PRISM - DEAD OR ALIVE Xtreme -",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0106"
   },
   {
     "titleId": "PPSA25424_00",
@@ -108075,25 +108219,25 @@
     "titleId": "PPSA26111_00",
     "conceptId": 10012617,
     "name": "Roll Ball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26111_00-0949885027423837",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26112_00",
     "conceptId": 10012617,
     "name": "Roll Ball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26112_00-0141913395595140",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26113_00",
     "conceptId": 10012617,
     "name": "Roll Ball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26113_00-0554375508753860",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26133_00",
@@ -108440,6 +108584,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA26406_00",
+    "conceptId": 10012819,
+    "name": "Math Genius: Multiplication",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26407_00",
     "conceptId": 10012819,
     "name": "Math Genius: Multiplication",
@@ -108507,9 +108659,9 @@
     "titleId": "PPSA26534_00",
     "conceptId": 10012909,
     "name": "Pro Flight Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-PPSA26534_00-0606486229871157",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "PPSA26544_00",
