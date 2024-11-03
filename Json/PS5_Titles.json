@@ -76619,7 +76619,7 @@
     "titleId": "PPSA17858_00",
     "conceptId": 10008909,
     "name": "Shadows of the Damned: Hella Remastered",
-    "contentId": null,
+    "contentId": "UP7564-PPSA17858_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP7564"
   },
@@ -76643,7 +76643,7 @@
     "titleId": "PPSA17861_00",
     "conceptId": 10008909,
     "name": "Shadows of the Damned: Hella Remastered",
-    "contentId": null,
+    "contentId": "HP7588-PPSA17861_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP7588"
   },
@@ -77374,6 +77374,14 @@
     "contentId": "EP6265-PPSA18008_00-0686449963656785",
     "region": "EP",
     "publisherId": "EP6265"
+  },
+  {
+    "titleId": "PPSA18009_00",
+    "conceptId": 10007669,
+    "name": "Gorilla Tag",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18013_00",
@@ -81920,6 +81928,14 @@
     "publisherId": "UP5843"
   },
   {
+    "titleId": "PPSA19108_00",
+    "conceptId": 10009408,
+    "name": "Emme Saves the Galaxy",
+    "contentId": "UP8158-PPSA19108_00-EMMESAVESTHEGALA",
+    "region": "UP",
+    "publisherId": "UP8158"
+  },
+  {
     "titleId": "PPSA19109_00",
     "conceptId": 10007404,
     "name": "\u30de\u30fc\u30ba\u30d9\u30fc\u30b9",
@@ -85054,6 +85070,14 @@
     "contentId": "HP4625-PPSA19789_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP4625"
+  },
+  {
+    "titleId": "PPSA19790_00",
+    "conceptId": 10009667,
+    "name": "Reel Fishing: Days of Summer",
+    "contentId": "UP1014-PPSA19790_00-RFBOOK00000PS5US",
+    "region": "UP",
+    "publisherId": "UP1014"
   },
   {
     "titleId": "PPSA19794_00",
@@ -88930,10 +88954,10 @@
   {
     "titleId": "PPSA20621_00",
     "conceptId": 10000586,
-    "name": "Dragon Age\u2122: The Veilguard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30a8\u30a4\u30b8\u2122: \u30f4\u30a7\u30a4\u30eb\u306e\u5b88\u8b77\u8005",
+    "contentId": "UP0006-PPSA20621_00-DRAGONAGE0400000",
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA20625_00",
@@ -89243,9 +89267,9 @@
     "titleId": "PPSA20700_00",
     "conceptId": 10010060,
     "name": "Self-Delusion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA20700_00-SYPS5SELFDELUSIO",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA20701_00",
@@ -93448,6 +93472,14 @@
     "publisherId": "HP7379"
   },
   {
+    "titleId": "PPSA21747_00",
+    "conceptId": 10010333,
+    "name": "DYNABLASTER",
+    "contentId": "HP7379-PPSA21747_00-0385496631232155",
+    "region": "HP",
+    "publisherId": "HP7379"
+  },
+  {
     "titleId": "PPSA21750_00",
     "conceptId": 10010480,
     "name": "Everafter Falls",
@@ -96723,9 +96755,9 @@
     "titleId": "PPSA22564_00",
     "conceptId": 10010793,
     "name": "Albatroz",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1470-PPSA22564_00-ALBATROZUS000000",
+    "region": "UP",
+    "publisherId": "UP1470"
   },
   {
     "titleId": "PPSA22577_00",
@@ -102888,6 +102920,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24261_00",
+    "conceptId": 10011643,
+    "name": "Dorfs: Hammers for Hire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24263_00",
     "conceptId": 10011645,
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III",
@@ -105552,6 +105592,14 @@
     "publisherId": "EB1221"
   },
   {
+    "titleId": "PPSA24999_00",
+    "conceptId": 10009203,
+    "name": "Slitterhead",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25000_00",
     "conceptId": 10010495,
     "name": "Climber: Sky is the Limit",
@@ -105702,6 +105750,30 @@
     "contentId": "EP1411-PPSA25055_00-0662554850876691",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25056_00",
+    "conceptId": 10012031,
+    "name": "Arcade Room Simulator",
+    "contentId": "UP7668-PPSA25056_00-0990650496584795",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25057_00",
+    "conceptId": 10012031,
+    "name": "Arcade Room Simulator",
+    "contentId": "UP7668-PPSA25057_00-0768865339693239",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25058_00",
+    "conceptId": 10012031,
+    "name": "Arcade Room Simulator",
+    "contentId": "UP7668-PPSA25058_00-0779749521998597",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA25073_00",
@@ -108211,9 +108283,9 @@
     "titleId": "PPSA26110_00",
     "conceptId": 10012617,
     "name": "Roll Ball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26110_00-0511529969653173",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26111_00",
@@ -108427,9 +108499,9 @@
     "titleId": "PPSA26217_00",
     "conceptId": 10012693,
     "name": "JIGSAW CHRONICLES: Haunting Tales",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0928-PPSA26217_00-0801584322547060",
+    "region": "UB",
+    "publisherId": "UB0928"
   },
   {
     "titleId": "PPSA26218_00",
