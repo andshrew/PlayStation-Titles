@@ -299,7 +299,7 @@
     "titleId": "PPSA01390_00",
     "conceptId": 10000586,
     "name": "Dragon Age\u2122: The Veilguard",
-    "contentId": null,
+    "contentId": "UP0006-PPSA01390_00-DRAGONAGE0400000",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -63787,9 +63787,9 @@
     "titleId": "PPSA14955_00",
     "conceptId": 10005526,
     "name": "Back Then",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0814-PPSA14955_00-0192604961482671",
+    "region": "UP",
+    "publisherId": "UP0814"
   },
   {
     "titleId": "PPSA14956_00",
@@ -80243,9 +80243,9 @@
     "titleId": "PPSA18708_00",
     "conceptId": 10009279,
     "name": "DEATH NOTE Killer Within",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0700-PPSA18708_00-DEATHNOTE0000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA18709_00",
@@ -84563,6 +84563,14 @@
     "titleId": "PPSA19663_00",
     "conceptId": 10006155,
     "name": "Test Tracks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19665_00",
+    "conceptId": 225004,
+    "name": "Xuan Yuan Sword: The Gate of Firmament",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -89115,9 +89123,9 @@
     "titleId": "PPSA20643_00",
     "conceptId": 10009982,
     "name": "Metal Slug Tactics",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1470-PPSA20643_00-MSTSIEE000000000",
+    "region": "EP",
+    "publisherId": "EP1470"
   },
   {
     "titleId": "PPSA20648_00",
@@ -89678,6 +89686,14 @@
     "contentId": "EP8383-PPSA20786_00-0643940191149684",
     "region": "EP",
     "publisherId": "EP8383"
+  },
+  {
+    "titleId": "PPSA20792_00",
+    "conceptId": 10010083,
+    "name": "\u30d0\u30c8\u30eb\u30b9\u30d4\u30ea\u30c3\u30c4 \u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc",
+    "contentId": "JP0536-PPSA20792_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
   },
   {
     "titleId": "PPSA20797_00",
@@ -92250,10 +92266,10 @@
   {
     "titleId": "PPSA21461_00",
     "conceptId": 10010214,
-    "name": "Across the Obelisk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Across The Obelisk",
+    "contentId": "UP4139-PPSA21461_00-ACROSSTHEOBELISK",
+    "region": "UP",
+    "publisherId": "UP4139"
   },
   {
     "titleId": "PPSA21462_00",
@@ -92651,9 +92667,9 @@
     "titleId": "PPSA21578_00",
     "conceptId": 10009617,
     "name": "Monarchy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3921-PPSA21578_00-0300068809870791",
+    "region": "EP",
+    "publisherId": "EP3921"
   },
   {
     "titleId": "PPSA21582_00",
@@ -94171,25 +94187,25 @@
     "titleId": "PPSA21925_00",
     "conceptId": 10009617,
     "name": "Monarchy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4140-PPSA21925_00-0691834874689342",
+    "region": "UP",
+    "publisherId": "UP4140"
   },
   {
     "titleId": "PPSA21926_00",
     "conceptId": 10009617,
     "name": "Monarchy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4110-PPSA21926_00-0734914678683231",
+    "region": "JP",
+    "publisherId": "JP4110"
   },
   {
     "titleId": "PPSA21927_00",
     "conceptId": 10009617,
     "name": "Monarchy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP4019-PPSA21927_00-0521252752419751",
+    "region": "HP",
+    "publisherId": "HP4019"
   },
   {
     "titleId": "PPSA21929_00",
@@ -99784,6 +99800,14 @@
     "publisherId": "EP6878"
   },
   {
+    "titleId": "PPSA23451_00",
+    "conceptId": 10011179,
+    "name": "Bioframe Outpost",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23456_00",
     "conceptId": 10011204,
     "name": "Super Ninja Miner",
@@ -100214,6 +100238,14 @@
     "contentId": "UP7668-PPSA23551_00-0188201047186068",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA23567_00",
+    "conceptId": 10011248,
+    "name": "Run Tekila Run!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23569_00",
@@ -102272,6 +102304,22 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA24080_00",
+    "conceptId": 10010913,
+    "name": "Rage of the Dragons NEO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24081_00",
+    "conceptId": 10010913,
+    "name": "Rage of the Dragons NEO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24083_00",
     "conceptId": 10008356,
     "name": "\u592a\u9f13\u306e\u9054\u4eba \u30c9\u30f3\u30c0\u30d5\u30eb\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb \u4f53\u9a13\u7248",
@@ -102550,6 +102598,14 @@
     "contentId": "UP8448-PPSA24148_00-0365126564213846",
     "region": "UP",
     "publisherId": "UP8448"
+  },
+  {
+    "titleId": "PPSA24152_00",
+    "conceptId": 10010145,
+    "name": "Potionomics: Masterwork Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24160_00",
@@ -103650,8 +103706,8 @@
   {
     "titleId": "PPSA24419_00",
     "conceptId": 10011714,
-    "name": "Hunt and Fight: Action RPG",
-    "contentId": null,
+    "name": "Hunt and Fight",
+    "contentId": "UP7907-PPSA24419_00-0354463712001924",
     "region": "UP",
     "publisherId": "UP7907"
   },
@@ -106432,6 +106488,14 @@
     "publisherId": "EP5133"
   },
   {
+    "titleId": "PPSA25287_00",
+    "conceptId": 10007474,
+    "name": "The Devil Within: Satgat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25292_00",
     "conceptId": 10012127,
     "name": "Hyper Rider",
@@ -106824,6 +106888,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25442_00",
+    "conceptId": 10010629,
+    "name": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30fb\u30d6\u30ec\u30a4\u30d6 \u30ea\u30de\u30b9\u30bf\u30fc\u30c9",
+    "contentId": "JP0404-PPSA25442_00-PB1FULLGAME00000",
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
     "titleId": "PPSA25457_00",
     "conceptId": 10002962,
     "name": "8-Bit Adventures 2 Demo",
@@ -106987,33 +107059,33 @@
     "titleId": "PPSA25534_00",
     "conceptId": 10012269,
     "name": "Duck Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25534_00-DUCKRUN000990011",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25535_00",
     "conceptId": 10012269,
     "name": "Duck Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25535_00-DUCKRUN000990012",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25536_00",
     "conceptId": 10012269,
     "name": "Duck Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25536_00-DUCKRUN000990014",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25537_00",
     "conceptId": 10012269,
     "name": "Duck Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA25537_00-DUCKRUN000990013",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA25540_00",
@@ -107584,6 +107656,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA25700_00",
+    "conceptId": 10012365,
+    "name": "The Glory of America",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25711_00",
     "conceptId": 10012375,
     "name": "Tilting Tiles: Fires of Industry",
@@ -108126,6 +108206,14 @@
     "contentId": "HP8462-PPSA25911_00-SAYCHE9999999003",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA25913_00",
+    "conceptId": 10010913,
+    "name": "Rage of the Dragons NEO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25918_00",
@@ -108782,6 +108870,22 @@
     "contentId": "EB0629-PPSA26263_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA26267_00",
+    "conceptId": 10012724,
+    "name": "Waifu Impact 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26268_00",
+    "conceptId": 10012724,
+    "name": "Waifu Impact 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26277_00",
