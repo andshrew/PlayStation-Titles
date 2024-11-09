@@ -70163,7 +70163,7 @@
     "titleId": "PPSA16411_00",
     "conceptId": 10008356,
     "name": "Taiko no Tatsujin: Rhythm Festival",
-    "contentId": null,
+    "contentId": "UP0700-PPSA16411_00-TAIKORHYTHMFES00",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -77411,9 +77411,9 @@
     "titleId": "PPSA18009_00",
     "conceptId": 10007669,
     "name": "Gorilla Tag",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8371-PPSA18009_00-GORILLATAGMAINGA",
+    "region": "UP",
+    "publisherId": "UP8371"
   },
   {
     "titleId": "PPSA18013_00",
@@ -82832,6 +82832,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA19290_00",
+    "conceptId": 10009473,
+    "name": "Railroads Online",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19291_00",
     "conceptId": 10009474,
     "name": "Ancient Dungeon",
@@ -85752,6 +85760,14 @@
     "publisherId": "EB0224"
   },
   {
+    "titleId": "PPSA19933_00",
+    "conceptId": 10009720,
+    "name": "Case Files: Behind Closed Doors",
+    "contentId": "UP5429-PPSA19933_00-0353663746730133",
+    "region": "UP",
+    "publisherId": "UP5429"
+  },
+  {
     "titleId": "PPSA19934_00",
     "conceptId": 10009720,
     "name": "Case Files: Behind Closed Doors",
@@ -86859,7 +86875,7 @@
     "titleId": "PPSA20164_00",
     "conceptId": 10009203,
     "name": "\u91ce\u72d7\u5b50: Slitterhead",
-    "contentId": null,
+    "contentId": "JP7494-PPSA20164_00-0012552736897420",
     "region": "JP",
     "publisherId": "JP7494"
   },
@@ -87611,9 +87627,9 @@
     "titleId": "PPSA20334_00",
     "conceptId": 10009878,
     "name": "Magical Bakery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4541-PPSA20334_00-MAGICALBAKERYEU0",
+    "region": "EP",
+    "publisherId": "EP4541"
   },
   {
     "titleId": "PPSA20338_00",
@@ -87651,9 +87667,9 @@
     "titleId": "PPSA20342_00",
     "conceptId": 10009878,
     "name": "Magical Bakery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1470-PPSA20342_00-MAGICALBAKERYUS0",
+    "region": "UP",
+    "publisherId": "UP1470"
   },
   {
     "titleId": "PPSA20343_00",
@@ -88907,9 +88923,9 @@
     "titleId": "PPSA20597_00",
     "conceptId": 10010007,
     "name": "Let's Sing 2025",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3617-PPSA20597_00-LS2025000SIEEPS5",
+    "region": "EP",
+    "publisherId": "EP3617"
   },
   {
     "titleId": "PPSA20598_00",
@@ -94395,7 +94411,7 @@
     "titleId": "PPSA21952_00",
     "conceptId": 10009203,
     "name": "Slitterhead",
-    "contentId": null,
+    "contentId": "EP7513-PPSA21952_00-0904618682776230",
     "region": "EP",
     "publisherId": "EP7513"
   },
@@ -95614,6 +95630,30 @@
     "contentId": "JP0239-PPSA22256_00-0333827892056753",
     "region": "JP",
     "publisherId": "JP0239"
+  },
+  {
+    "titleId": "PPSA22257_00",
+    "conceptId": 10009074,
+    "name": "Dead Rising Deluxe Remaster Demo",
+    "contentId": "UP0102-PPSA22257_00-DEADRISINGDEMO01",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
+    "titleId": "PPSA22258_00",
+    "conceptId": 10009074,
+    "name": "Dead Rising Deluxe Remaster Demo",
+    "contentId": "EP0102-PPSA22258_00-DEADRISINGDEMO01",
+    "region": "EP",
+    "publisherId": "EP0102"
+  },
+  {
+    "titleId": "PPSA22259_00",
+    "conceptId": 10009074,
+    "name": "Dead Rising Deluxe Remaster Demo",
+    "contentId": "JP0102-PPSA22259_00-DEADRISINGDEMO01",
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA22260_00",
@@ -97835,9 +97875,9 @@
     "titleId": "PPSA22821_00",
     "conceptId": 10010339,
     "name": "Techtonica",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0259-PPSA22821_00-0573190523836592",
+    "region": "UP",
+    "publisherId": "UP0259"
   },
   {
     "titleId": "PPSA22829_00",
@@ -99875,9 +99915,9 @@
     "titleId": "PPSA23451_00",
     "conceptId": 10011179,
     "name": "Bioframe Outpost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1075-PPSA23451_00-OBIOFRAMEOUTPOST",
+    "region": "EB",
+    "publisherId": "EB1075"
   },
   {
     "titleId": "PPSA23456_00",
@@ -100946,10 +100986,10 @@
   {
     "titleId": "PPSA23728_00",
     "conceptId": 10011340,
-    "name": "ELDERBORN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Elderborn",
+    "contentId": "EP6170-PPSA23728_00-ELDERBORN0000000",
+    "region": "EP",
+    "publisherId": "EP6170"
   },
   {
     "titleId": "PPSA23729_00",
@@ -106928,6 +106968,14 @@
     "publisherId": "HP0106"
   },
   {
+    "titleId": "PPSA25420_00",
+    "conceptId": 203897,
+    "name": "Tom Clancy's Rainbow Six\u00ae Siege",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25424_00",
     "conceptId": 10001029,
     "name": "\u30e1\u30bf\u30d5\u30a1\u30fc\uff1a\u30ea\u30d5\u30a1\u30f3\u30bf\u30b8\u30aa \uff5e\u30d7\u30ed\u30ed\u30fc\u30b0\u4f53\u9a13\u7248\uff5e",
@@ -107074,10 +107122,10 @@
   {
     "titleId": "PPSA25519_00",
     "conceptId": 10008104,
-    "name": "Techno Banter",
+    "name": "Techno Banter: Ultimate Mix",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP2627"
   },
   {
     "titleId": "PPSA25526_00",
@@ -108427,9 +108475,9 @@
     "titleId": "PPSA25994_00",
     "conceptId": 10012537,
     "name": "Outbreak: Shades of Horror Chromatic Split",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6088-PPSA25994_00-0570459330518610",
+    "region": "UP",
+    "publisherId": "UP6088"
   },
   {
     "titleId": "PPSA25997_00",
@@ -108843,33 +108891,33 @@
     "titleId": "PPSA26218_00",
     "conceptId": 10012695,
     "name": "Gems Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26218_00-0013060314936329",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26219_00",
     "conceptId": 10012695,
     "name": "Gems Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26219_00-0479614034020919",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26220_00",
     "conceptId": 10012695,
     "name": "Gems Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26220_00-0325910177756754",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26221_00",
     "conceptId": 10012695,
     "name": "Gems Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26221_00-0623230845166631",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26234_00",
@@ -108923,9 +108971,9 @@
     "titleId": "PPSA26258_00",
     "conceptId": 10012718,
     "name": "Skydivers Paradise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26258_00-0369355451250948",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26259_00",
@@ -109112,6 +109160,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA26444_00",
+    "conceptId": 10012840,
+    "name": "Racing Champions",
+    "contentId": "UP7578-PPSA26444_00-0093975096739513",
+    "region": "UP",
+    "publisherId": "UP7578"
+  },
+  {
     "titleId": "PPSA26466_00",
     "conceptId": 10012846,
     "name": "Rooftop Rascal: The Spooky Cat",
@@ -109171,6 +109227,22 @@
     "titleId": "PPSA26550_00",
     "conceptId": 10012922,
     "name": "Magnitude",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26741_00",
+    "conceptId": 10012933,
+    "name": "GGmuks Casino: Slots",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26742_00",
+    "conceptId": 10012933,
+    "name": "GGmuks Casino: Slots",
     "contentId": null,
     "region": null,
     "publisherId": null
