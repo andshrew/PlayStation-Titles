@@ -62883,7 +62883,7 @@
     "titleId": "PPSA14455_00",
     "conceptId": 10007652,
     "name": "Empire of the Ants",
-    "contentId": null,
+    "contentId": "EP4295-PPSA14455_00-EOAPS500000000EU",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -73136,6 +73136,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16998_00",
+    "conceptId": 10008613,
+    "name": "Uncle Chop's Rocket Shop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16999_00",
     "conceptId": 10008613,
     "name": "Uncle Chop's Rocket Shop",
@@ -83331,7 +83339,7 @@
     "titleId": "PPSA19383_00",
     "conceptId": 10009509,
     "name": "Metro Awakening",
-    "contentId": null,
+    "contentId": "EP3392-PPSA19383_00-IMPACT0000000000",
     "region": "EP",
     "publisherId": "EP3392"
   },
@@ -83339,7 +83347,7 @@
     "titleId": "PPSA19384_00",
     "conceptId": 10009509,
     "name": "Metro Awakening",
-    "contentId": null,
+    "contentId": "UP3535-PPSA19384_00-IMPACT0000000000",
     "region": "UP",
     "publisherId": "UP3535"
   },
@@ -86926,6 +86934,14 @@
     "contentId": "HP1419-PPSA20170_00-YOHANETRIAL00000",
     "region": "HP",
     "publisherId": "HP1419"
+  },
+  {
+    "titleId": "PPSA20172_00",
+    "conceptId": 10004010,
+    "name": "Puzzle Frenzy",
+    "contentId": "UP5877-PPSA20172_00-0828377210318006",
+    "region": "UP",
+    "publisherId": "UP5877"
   },
   {
     "titleId": "PPSA20173_00",
@@ -94403,7 +94419,7 @@
     "titleId": "PPSA21951_00",
     "conceptId": 10009203,
     "name": "Slitterhead",
-    "contentId": null,
+    "contentId": "UP7515-PPSA21951_00-0340824062504240",
     "region": "UP",
     "publisherId": "UP7515"
   },
@@ -106472,6 +106488,14 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA25189_00",
+    "conceptId": 10012000,
+    "name": "Horror Clash",
+    "contentId": "JP0089-PPSA25189_00-0681615102424862",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
     "titleId": "PPSA25197_00",
     "conceptId": 10012086,
     "name": "DaylightDread",
@@ -106574,6 +106598,38 @@
     "contentId": "EP8070-PPSA25259_00-0670569571526042",
     "region": "EP",
     "publisherId": "EP8070"
+  },
+  {
+    "titleId": "PPSA25262_00",
+    "conceptId": 10012119,
+    "name": "Draw li",
+    "contentId": "UP7668-PPSA25262_00-0851223444786987",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25263_00",
+    "conceptId": 10012119,
+    "name": "Draw li",
+    "contentId": "UP7668-PPSA25263_00-0420666025293858",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25264_00",
+    "conceptId": 10012119,
+    "name": "Draw li",
+    "contentId": "UP7668-PPSA25264_00-0166396528761799",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25265_00",
+    "conceptId": 10012119,
+    "name": "Draw li",
+    "contentId": "UP7668-PPSA25265_00-0717360797845759",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA25266_00",
@@ -106755,9 +106811,9 @@
     "titleId": "PPSA25323_00",
     "conceptId": 10012138,
     "name": "Cubic Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA25323_00-0724531931896958",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA25327_00",
@@ -109200,6 +109256,14 @@
     "publisherId": "HB0706"
   },
   {
+    "titleId": "PPSA26515_00",
+    "conceptId": 10011958,
+    "name": "Chained in Hell",
+    "contentId": "UB1026-PPSA26515_00-0319609093694242",
+    "region": "UB",
+    "publisherId": "UB1026"
+  },
+  {
     "titleId": "PPSA26534_00",
     "conceptId": 10012909,
     "name": "Pro Flight Simulator",
@@ -109241,6 +109305,22 @@
   },
   {
     "titleId": "PPSA26742_00",
+    "conceptId": 10012933,
+    "name": "GGmuks Casino: Slots",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26743_00",
+    "conceptId": 10012933,
+    "name": "GGmuks Casino: Slots",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26744_00",
     "conceptId": 10012933,
     "name": "GGmuks Casino: Slots",
     "contentId": null,
