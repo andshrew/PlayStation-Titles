@@ -84232,6 +84232,14 @@
     "publisherId": "UP1981"
   },
   {
+    "titleId": "PPSA19568_00",
+    "conceptId": 10003654,
+    "name": "PowerWash Simulator Demo",
+    "contentId": "EP0082-PPSA19568_00-0383248345286938",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
     "titleId": "PPSA19571_00",
     "conceptId": 10009585,
     "name": "Xatrom Command",
@@ -88432,6 +88440,14 @@
     "publisherId": "EP6581"
   },
   {
+    "titleId": "PPSA20482_00",
+    "conceptId": 10005884,
+    "name": "DecayLore",
+    "contentId": "EP8070-PPSA20482_00-0596239834795314",
+    "region": "EP",
+    "publisherId": "EP8070"
+  },
+  {
     "titleId": "PPSA20487_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -89115,7 +89131,7 @@
     "titleId": "PPSA20612_00",
     "conceptId": 10010018,
     "name": "DRAGON QUEST III HD-2D Remake",
-    "contentId": null,
+    "contentId": "UP0082-PPSA20612_00-DQ3RNA0000000000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -89123,7 +89139,7 @@
     "titleId": "PPSA20613_00",
     "conceptId": 10010018,
     "name": "DRAGON QUEST III HD-2D Remake",
-    "contentId": null,
+    "contentId": "EP0082-PPSA20613_00-DQ3REU0000000000",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -93640,6 +93656,14 @@
     "publisherId": "JP0031"
   },
   {
+    "titleId": "PPSA21730_00",
+    "conceptId": 10010478,
+    "name": "Monster Prom 2: Monster Camp XXL",
+    "contentId": "EP5903-PPSA21730_00-0117386687694236",
+    "region": "EP",
+    "publisherId": "EP5903"
+  },
+  {
     "titleId": "PPSA21735_00",
     "conceptId": 10004850,
     "name": "Trinity Fusion Demo",
@@ -97035,9 +97059,9 @@
     "titleId": "PPSA22577_00",
     "conceptId": 10010795,
     "name": "Mindcop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0235-PPSA22577_00-MINDCOPBGPS5SIEE",
+    "region": "EB",
+    "publisherId": "EB0235"
   },
   {
     "titleId": "PPSA22579_00",
@@ -99056,6 +99080,22 @@
     "publisherId": "EP7349"
   },
   {
+    "titleId": "PPSA23207_00",
+    "conceptId": 10011078,
+    "name": "Super Rolling Heroes Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23208_00",
+    "conceptId": 10011078,
+    "name": "Super Rolling Heroes Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23211_00",
     "conceptId": 10010869,
     "name": "Trust No One Demo",
@@ -99278,6 +99318,14 @@
     "contentId": "UB0612-PPSA23263_00-0655978708388706",
     "region": "UB",
     "publisherId": "UB0612"
+  },
+  {
+    "titleId": "PPSA23265_00",
+    "conceptId": 10011101,
+    "name": "Zombie Rollerz: Pinball Heroes",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA23267_00",
@@ -100907,9 +100955,9 @@
     "titleId": "PPSA23670_00",
     "conceptId": 10011281,
     "name": "Smells Like a Mushroom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0925-PPSA23670_00-SLAMPS5EU0000001",
+    "region": "UB",
+    "publisherId": "UB0925"
   },
   {
     "titleId": "PPSA23672_00",
@@ -104443,17 +104491,17 @@
     "titleId": "PPSA24528_00",
     "conceptId": 10011768,
     "name": "Jumping Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA24528_00-0816223763426599",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA24529_00",
     "conceptId": 10011768,
     "name": "Jumping Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA24529_00-0623775721705832",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA24536_00",
@@ -106176,6 +106224,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25051_00",
+    "conceptId": 10012023,
+    "name": "Dinosaur Fossil Hunter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25052_00",
     "conceptId": 10012028,
     "name": "Perfect Klondike Solitaire",
@@ -106939,9 +106995,9 @@
     "titleId": "PPSA25300_00",
     "conceptId": 10004234,
     "name": "VED",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2552-PPSA25300_00-VED0000000000ALL",
+    "region": "EP",
+    "publisherId": "EP2552"
   },
   {
     "titleId": "PPSA25303_00",
@@ -107330,18 +107386,18 @@
   {
     "titleId": "PPSA25438_00",
     "conceptId": 10012211,
-    "name": "JankenUp!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Jankenup!",
+    "contentId": "UP6718-PPSA25438_00-0192945654501506",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA25439_00",
     "conceptId": 10012211,
-    "name": "JankenUp!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Jankenup!",
+    "contentId": "UP6718-PPSA25439_00-0007725372956243",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA25442_00",
@@ -108939,9 +108995,9 @@
     "titleId": "PPSA26020_00",
     "conceptId": 10012550,
     "name": "Check and Slash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA26020_00-0644762474235469",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA26021_00",
@@ -108955,17 +109011,17 @@
     "titleId": "PPSA26022_00",
     "conceptId": 10012550,
     "name": "Check and Slash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA26022_00-0088717162806679",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA26023_00",
     "conceptId": 10012550,
     "name": "Check and Slash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA26023_00-0839413486487110",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA26053_00",
@@ -109139,9 +109195,9 @@
     "titleId": "PPSA26184_00",
     "conceptId": 10011310,
     "name": "Anomaly Agent",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7939-PPSA26184_00-0131791012611868",
+    "region": "UP",
+    "publisherId": "UP7939"
   },
   {
     "titleId": "PPSA26185_00",
@@ -109584,6 +109640,14 @@
     "publisherId": "HB0706"
   },
   {
+    "titleId": "PPSA26488_00",
+    "conceptId": 10012862,
+    "name": "JIGSAW CHRONICLES: Most Wanted",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26515_00",
     "conceptId": 10011958,
     "name": "Chained in Hell",
@@ -109643,9 +109707,9 @@
     "titleId": "PPSA26566_00",
     "conceptId": 10012937,
     "name": "Learn to Play Vol. 8 - Penalty Shootout",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA26566_00-PENALTYSHOOTOUT0",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA26741_00",
@@ -109702,5 +109766,13 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA26976_00",
+    "conceptId": 10013138,
+    "name": "Monkey Kong In New-York",
+    "contentId": "UP7552-PPSA26976_00-0451690343426693",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
