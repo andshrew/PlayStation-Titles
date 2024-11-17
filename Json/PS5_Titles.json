@@ -44896,6 +44896,14 @@
     "publisherId": "HP0177"
   },
   {
+    "titleId": "PPSA09904_00",
+    "conceptId": 10004944,
+    "name": "NAIAD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09907_00",
     "conceptId": 10006059,
     "name": "Sakura MMO 2",
@@ -53174,6 +53182,14 @@
     "contentId": "EP7666-PPSA11266_00-9550904363990318",
     "region": "EP",
     "publisherId": "EP7666"
+  },
+  {
+    "titleId": "PPSA11267_00",
+    "conceptId": 10006526,
+    "name": "Frogo 3",
+    "contentId": "JP7649-PPSA11267_00-2613045014661699",
+    "region": "JP",
+    "publisherId": "JP7649"
   },
   {
     "titleId": "PPSA11268_00",
@@ -79123,9 +79139,9 @@
     "titleId": "PPSA18408_00",
     "conceptId": 10008515,
     "name": "Corridor VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0038-PPSA18408_00-0937375141154926",
+    "region": "UB",
+    "publisherId": "UB0038"
   },
   {
     "titleId": "PPSA18410_00",
@@ -84238,6 +84254,14 @@
     "contentId": "EP0082-PPSA19568_00-0383248345286938",
     "region": "EP",
     "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA19569_00",
+    "conceptId": 10003654,
+    "name": "PowerWash Simulator Demo",
+    "contentId": "JP0082-PPSA19569_00-0697900691629639",
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA19571_00",
@@ -93654,6 +93678,14 @@
     "contentId": "JP0031-PPSA21723_00-DXCONTENTSND0001",
     "region": "JP",
     "publisherId": "JP0031"
+  },
+  {
+    "titleId": "PPSA21728_00",
+    "conceptId": 10010477,
+    "name": "Monster Prom 3: Monster Roadtrip XXL",
+    "contentId": "EP5903-PPSA21728_00-0838310824189626",
+    "region": "EP",
+    "publisherId": "EP5903"
   },
   {
     "titleId": "PPSA21730_00",
@@ -107240,6 +107272,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25367_00",
+    "conceptId": 10012161,
+    "name": "Bamboo Retro Run",
+    "contentId": "UP7668-PPSA25367_00-0092094396513153",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25368_00",
+    "conceptId": 10012161,
+    "name": "Bamboo Retro Run",
+    "contentId": "UP7668-PPSA25368_00-0342269119620002",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25369_00",
+    "conceptId": 10012161,
+    "name": "Bamboo Retro Run",
+    "contentId": "UP7668-PPSA25369_00-0321096123217945",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25370_00",
+    "conceptId": 10012161,
+    "name": "Bamboo Retro Run",
+    "contentId": "UP7668-PPSA25370_00-0671066490034599",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA25371_00",
     "conceptId": 10012117,
     "name": "Halloween Pumpkin Brawl",
@@ -108496,6 +108560,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA25810_00",
+    "conceptId": 10012430,
+    "name": "Spellagis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25812_00",
     "conceptId": 10010047,
     "name": "The Rise of the Golden Idol",
@@ -109110,6 +109182,14 @@
     "contentId": "EB0805-PPSA26113_00-0554375508753860",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA26122_00",
+    "conceptId": 10012625,
+    "name": "Ramp Bike Racing",
+    "contentId": "UB0008-PPSA26122_00-0217258936342919",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA26133_00",
