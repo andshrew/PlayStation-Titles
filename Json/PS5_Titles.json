@@ -20530,10 +20530,10 @@
   {
     "titleId": "PPSA05566_00",
     "conceptId": 10003965,
-    "name": "Goat Simulator: Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Goat Simulator Remastered",
+    "contentId": "UP4664-PPSA05566_00-GOAT000000000000",
+    "region": "UP",
+    "publisherId": "UP4664"
   },
   {
     "titleId": "PPSA05575_00",
@@ -97507,9 +97507,25 @@
     "titleId": "PPSA22671_00",
     "conceptId": 10009134,
     "name": "Touhou Spell Carnival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0031-PPSA22671_00-TH2SPELLCARNIVAL",
+    "region": "UP",
+    "publisherId": "UP0031"
+  },
+  {
+    "titleId": "PPSA22672_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival Digital Art Book",
+    "contentId": "UP0031-PPSA22672_00-TH2SCARTBOOK0000",
+    "region": "UP",
+    "publisherId": "UP0031"
+  },
+  {
+    "titleId": "PPSA22673_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival Digital Soundtrack",
+    "contentId": "UP0031-PPSA22673_00-TH2SCSOUNDTRACK0",
+    "region": "UP",
+    "publisherId": "UP0031"
   },
   {
     "titleId": "PPSA22674_00",
@@ -100768,6 +100784,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA23622_00",
+    "conceptId": 10011293,
+    "name": "Superscout",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23623_00",
     "conceptId": 10010790,
     "name": "Cazzarion: Pop The Bubble",
@@ -101510,6 +101534,22 @@
     "contentId": "UP8511-PPSA23811_00-0578417928158975",
     "region": "UP",
     "publisherId": "UP8511"
+  },
+  {
+    "titleId": "PPSA23813_00",
+    "conceptId": 10011409,
+    "name": "Lorelei and the Laser Eyes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23814_00",
+    "conceptId": 10011409,
+    "name": "Lorelei and the Laser Eyes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23817_00",
@@ -103480,6 +103520,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24268_00",
+    "conceptId": 10011646,
+    "name": "THE LEGACY OF KAIN SERIES BLOOD OMEN 2",
+    "contentId": "UP8489-PPSA24268_00-SLUS200240000000",
+    "region": "UP",
+    "publisherId": "UP8489"
+  },
+  {
+    "titleId": "PPSA24270_00",
+    "conceptId": 10011076,
+    "name": "BLOOD OMEN LEGACY OF KAIN\u2122",
+    "contentId": "UP8489-PPSA24270_00-SLUS000270000000",
+    "region": "UP",
+    "publisherId": "UP8489"
+  },
+  {
     "titleId": "PPSA24271_00",
     "conceptId": 10002268,
     "name": "Space Break",
@@ -103755,9 +103811,9 @@
     "titleId": "PPSA24348_00",
     "conceptId": 10009134,
     "name": "Touhou Spell Carnival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4060-PPSA24348_00-TH2SPELLCARNIVAL",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA24352_00",
@@ -103906,10 +103962,10 @@
   {
     "titleId": "PPSA24374_00",
     "conceptId": 10009134,
-    "name": "Touhou Spell Carnival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Touhou Spell Carnival Digital Soundtrack",
+    "contentId": "EP4060-PPSA24374_00-TH2SCSOUNDTRACK0",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA24375_00",
@@ -106584,6 +106640,38 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA25112_00",
+    "conceptId": 10012045,
+    "name": "Jewel Match Solitaire 2 - Collector's Edition",
+    "contentId": "EP1411-PPSA25112_00-0239908714985866",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25113_00",
+    "conceptId": 10012045,
+    "name": "Jewel Match Solitaire 2 - Collector's Edition",
+    "contentId": "EP1411-PPSA25113_00-0576176965978460",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25114_00",
+    "conceptId": 10012045,
+    "name": "Jewel Match Solitaire 2 - Collector's Edition",
+    "contentId": "EP1411-PPSA25114_00-0034820969926786",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25115_00",
+    "conceptId": 10012045,
+    "name": "Jewel Match Solitaire 2 - Collector's Edition",
+    "contentId": "EP1411-PPSA25115_00-0476687924165201",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA25116_00",
     "conceptId": 10012046,
     "name": "Big Adventure: Trip to Europe 7 - Collector's Edition",
@@ -106676,6 +106764,38 @@
     "conceptId": 10012048,
     "name": "Clutter RefleXIVe: The Diceman Cometh - Collector's Edition",
     "contentId": "EP1411-PPSA25127_00-0807309173962917",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25128_00",
+    "conceptId": 10012049,
+    "name": "Puzzle Vacations: Italy",
+    "contentId": "EP1411-PPSA25128_00-0615505603758614",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25129_00",
+    "conceptId": 10012049,
+    "name": "Puzzle Vacations: Italy",
+    "contentId": "EP1411-PPSA25129_00-0242361111126294",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25130_00",
+    "conceptId": 10012049,
+    "name": "Puzzle Vacations: Italy",
+    "contentId": "EP1411-PPSA25130_00-0305425542666477",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA25131_00",
+    "conceptId": 10012049,
+    "name": "Puzzle Vacations: Italy",
+    "contentId": "EP1411-PPSA25131_00-0390254964905133",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -107600,6 +107720,38 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA25505_00",
+    "conceptId": 10012248,
+    "name": "Bust A Block 2 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25506_00",
+    "conceptId": 10012248,
+    "name": "Bust A Block 2 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25507_00",
+    "conceptId": 10012248,
+    "name": "Bust A Block 2 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25508_00",
+    "conceptId": 10012248,
+    "name": "Bust A Block 2 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25519_00",
     "conceptId": 10008104,
     "name": "Techno Banter: Ultimate Mix",
@@ -107774,6 +107926,22 @@
     "contentId": "HP8462-PPSA25566_00-MYBB055879200012",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA25567_00",
+    "conceptId": 10012277,
+    "name": "DETECTIVE - The Motel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25568_00",
+    "conceptId": 10012277,
+    "name": "DETECTIVE - The Motel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25580_00",
@@ -108603,9 +108771,9 @@
     "titleId": "PPSA25810_00",
     "conceptId": 10012430,
     "name": "Spellagis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA25810_00-SPELLAGIS0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA25812_00",
@@ -109819,9 +109987,9 @@
     "titleId": "PPSA26491_00",
     "conceptId": 10012869,
     "name": "Cliff Rush 3D",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0796-PPSA26491_00-0312257319643778",
+    "region": "UB",
+    "publisherId": "UB0796"
   },
   {
     "titleId": "PPSA26515_00",
@@ -109867,9 +110035,17 @@
     "titleId": "PPSA26550_00",
     "conceptId": 10012922,
     "name": "Magnitude",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA26550_00-0012666167654724",
+    "region": "UP",
+    "publisherId": "UP7347"
+  },
+  {
+    "titleId": "PPSA26551_00",
+    "conceptId": 10012922,
+    "name": "Magnitude",
+    "contentId": "HP7367-PPSA26551_00-0457807369968681",
+    "region": "HP",
+    "publisherId": "HP7367"
   },
   {
     "titleId": "PPSA26552_00",
@@ -109894,6 +110070,38 @@
     "contentId": "EP2005-PPSA26566_00-PENALTYSHOOTOUT0",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA26688_00",
+    "conceptId": 10013000,
+    "name": "Slicy Flips",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26689_00",
+    "conceptId": 10013000,
+    "name": "Slicy Flips",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26690_00",
+    "conceptId": 10013000,
+    "name": "Slicy Flips",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26692_00",
+    "conceptId": 10013000,
+    "name": "Slicy Flips",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26741_00",
@@ -109936,6 +110144,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA26798_00",
+    "conceptId": 10013037,
+    "name": "Learn to Play Vol. 10 - Gravity Space Walk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26814_00",
     "conceptId": 10013045,
     "name": "Doodle Hunt: Halloween Rush",
@@ -109952,11 +110168,27 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26960_00",
+    "conceptId": 10013124,
+    "name": "Learn to Play Vol. 9 - Santa's Sleigh Ride",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26976_00",
     "conceptId": 10013138,
     "name": "Monkey Kong In New-York",
     "contentId": "UP7552-PPSA26976_00-0451690343426693",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA27086_00",
+    "conceptId": 10013226,
+    "name": "Bug-o-Buster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
