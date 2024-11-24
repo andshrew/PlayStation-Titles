@@ -71936,6 +71936,14 @@
     "publisherId": "EP3678"
   },
   {
+    "titleId": "PPSA16740_00",
+    "conceptId": 10008500,
+    "name": "PlatformGameMaker",
+    "contentId": "UP5877-PPSA16740_00-0784305318493357",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA16741_00",
     "conceptId": 10008500,
     "name": "PlatformGameMaker",
@@ -85563,9 +85571,9 @@
     "titleId": "PPSA19864_00",
     "conceptId": 10009695,
     "name": "Find Love Or Die Trying",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0891-PPSA19864_00-FINDLOVEORDIETRG",
+    "region": "UP",
+    "publisherId": "UP0891"
   },
   {
     "titleId": "PPSA19865_00",
@@ -107688,6 +107696,38 @@
     "publisherId": "UB0983"
   },
   {
+    "titleId": "PPSA25399_00",
+    "conceptId": 10012187,
+    "name": "Hop Up",
+    "contentId": "UP7668-PPSA25399_00-0013616107735616",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25400_00",
+    "conceptId": 10012187,
+    "name": "Hop Up",
+    "contentId": "UP7668-PPSA25400_00-0870219349971231",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25401_00",
+    "conceptId": 10012187,
+    "name": "Hop Up",
+    "contentId": "UP7668-PPSA25401_00-0251458883271529",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25402_00",
+    "conceptId": 10012187,
+    "name": "Hop Up",
+    "contentId": "UP7668-PPSA25402_00-0578172794232129",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA25411_00",
     "conceptId": 10012191,
     "name": "Venus Vacation PRISM - DEAD OR ALIVE Xtreme -",
@@ -110272,6 +110312,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26461_00",
+    "conceptId": 10012845,
+    "name": "Robobit8",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26462_00",
+    "conceptId": 10012845,
+    "name": "Robobit8",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26463_00",
     "conceptId": 10012845,
     "name": "Robobit8",
@@ -110433,6 +110489,14 @@
   },
   {
     "titleId": "PPSA26686_00",
+    "conceptId": 10012999,
+    "name": "Crowd Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26687_00",
     "conceptId": 10012999,
     "name": "Crowd Run",
     "contentId": null,
