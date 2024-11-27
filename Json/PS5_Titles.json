@@ -107819,9 +107819,9 @@
     "titleId": "PPSA25414_00",
     "conceptId": 10007919,
     "name": "Nine Sols",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4443-PPSA25414_00-0905368681809535",
+    "region": "JP",
+    "publisherId": "JP4443"
   },
   {
     "titleId": "PPSA25417_00",
@@ -107922,10 +107922,10 @@
   {
     "titleId": "PPSA25467_00",
     "conceptId": 10011900,
-    "name": "Trombone Champ: Unflattened",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trombone Champ: Unflattened!",
+    "contentId": "EB1267-PPSA25467_00-0211590116694567",
+    "region": "EB",
+    "publisherId": "EB1267"
   },
   {
     "titleId": "PPSA25472_00",
@@ -110672,7 +110672,23 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA26755_00",
+    "conceptId": 10013021,
+    "name": "Kiting Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26756_00",
+    "conceptId": 10013021,
+    "name": "Kiting Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26757_00",
     "conceptId": 10013021,
     "name": "Kiting Cat",
     "contentId": null,
@@ -110795,6 +110811,30 @@
     "titleId": "PPSA27088_00",
     "conceptId": 10013226,
     "name": "Bug-o-Buster",
+    "contentId": "UP8553-PPSA27088_00-0952811298152733",
+    "region": "UP",
+    "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA27089_00",
+    "conceptId": 10013226,
+    "name": "Bug-o-Buster",
+    "contentId": "UP8553-PPSA27089_00-0758114809725853",
+    "region": "UP",
+    "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA27136_00",
+    "conceptId": 10013251,
+    "name": "Jumping Ninja",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27137_00",
+    "conceptId": 10013251,
+    "name": "Jumping Ninja",
     "contentId": null,
     "region": null,
     "publisherId": null
