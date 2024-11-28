@@ -32499,9 +32499,9 @@
     "titleId": "PPSA07765_00",
     "conceptId": 10005127,
     "name": "Neon Blood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0811-PPSA07765_00-7753035622977615",
+    "region": "EP",
+    "publisherId": "EP0811"
   },
   {
     "titleId": "PPSA07766_00",
@@ -84528,6 +84528,14 @@
     "publisherId": "UP3165"
   },
   {
+    "titleId": "PPSA19602_00",
+    "conceptId": 10008939,
+    "name": "TOKYO PSYCHODEMIC",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19605_00",
     "conceptId": 10009517,
     "name": "Final Shot",
@@ -89008,6 +89016,22 @@
     "publisherId": "UP7543"
   },
   {
+    "titleId": "PPSA20574_00",
+    "conceptId": 10009990,
+    "name": "ROUNDS",
+    "contentId": "EP3316-PPSA20574_00-ASDKJEFLMSDLKJSZ",
+    "region": "EP",
+    "publisherId": "EP3316"
+  },
+  {
+    "titleId": "PPSA20575_00",
+    "conceptId": 10009990,
+    "name": "ROUNDS",
+    "contentId": "UP3456-PPSA20575_00-ASDKJEFLMSDLKJSZ",
+    "region": "UP",
+    "publisherId": "UP3456"
+  },
+  {
     "titleId": "PPSA20576_00",
     "conceptId": 10010000,
     "name": "Farm Knight Adventures",
@@ -90030,6 +90054,14 @@
     "contentId": "UP0177-PPSA20800_00-METAPHORNA000001",
     "region": "UP",
     "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA20810_00",
+    "conceptId": 10010097,
+    "name": "Sakura Melody",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20811_00",
@@ -95024,6 +95056,22 @@
     "publisherId": "UP3165"
   },
   {
+    "titleId": "PPSA22040_00",
+    "conceptId": 10010602,
+    "name": "Path of Exile 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22041_00",
+    "conceptId": 10010602,
+    "name": "Path of Exile 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22042_00",
     "conceptId": 10010390,
     "name": "Darksword: Battle Eternity",
@@ -97058,10 +97106,10 @@
   {
     "titleId": "PPSA22534_00",
     "conceptId": 10009157,
-    "name": "MADO MONOGATARI: Fia and the School of Wonders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u9b54\u5c0e\u7269\u8a9e \u30d5\u30a3\u30a2\u3068\u4e0d\u601d\u8b70\u306a\u5b66\u6821 \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0031-PPSA22534_00-DXCONTENTSND0001",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA22535_00",
@@ -101202,10 +101250,10 @@
   {
     "titleId": "PPSA23672_00",
     "conceptId": 10007113,
-    "name": "MACROSS -Shooting Insight-",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u8d85\u6642\u7a7a\u8981\u585e -Shooting Insight-",
+    "contentId": "HP5249-PPSA23672_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP5249"
   },
   {
     "titleId": "PPSA23673_00",
@@ -103210,10 +103258,10 @@
   {
     "titleId": "PPSA24152_00",
     "conceptId": 10010145,
-    "name": "Potionomics: Masterwork Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30dd\u30fc\u30b7\u30e7\u30ce\u30df\u30af\u30b9 \u30b7\u30eb\u30f4\u30a3\u30a2\u306e\u9b54\u6cd5\u85ac\u5e97",
+    "contentId": "JP0530-PPSA24152_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0530"
   },
   {
     "titleId": "PPSA24154_00",
@@ -105384,6 +105432,14 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA24727_00",
+    "conceptId": 10011863,
+    "name": "\u30a2\u30a4\u30ec\u30e0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Volume 2",
+    "contentId": "JP0045-PPSA24727_00-IREMCOLL000002JP",
+    "region": "JP",
+    "publisherId": "JP0045"
+  },
+  {
     "titleId": "PPSA24732_00",
     "conceptId": 10010193,
     "name": "63 Days Demo",
@@ -106210,10 +106266,10 @@
   {
     "titleId": "PPSA24944_00",
     "conceptId": 10011971,
-    "name": "Platform 8",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Platform8",
+    "contentId": "JP0122-PPSA24944_00-0678752PLATFORM8",
+    "region": "JP",
+    "publisherId": "JP0122"
   },
   {
     "titleId": "PPSA24945_00",
@@ -106382,6 +106438,14 @@
     "contentId": "JB0847-PPSA24987_00-0411058505121654",
     "region": "JB",
     "publisherId": "JB0847"
+  },
+  {
+    "titleId": "PPSA24988_00",
+    "conceptId": 10008568,
+    "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "contentId": "JP6830-PPSA24988_00-0542605793551425",
+    "region": "JP",
+    "publisherId": "JP6830"
   },
   {
     "titleId": "PPSA24989_00",
@@ -107739,9 +107803,9 @@
     "titleId": "PPSA25390_00",
     "conceptId": 10010560,
     "name": "Death Elevator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA25390_00-DEATHELEVTRPS5EU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA25393_00",
@@ -107998,6 +108062,38 @@
     "contentId": "EB0805-PPSA25480_00-0307968083231247",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA25481_00",
+    "conceptId": 10012245,
+    "name": "Infinite Switch - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25482_00",
+    "conceptId": 10012245,
+    "name": "Infinite Switch - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25483_00",
+    "conceptId": 10012245,
+    "name": "Infinite Switch - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25484_00",
+    "conceptId": 10012245,
+    "name": "Infinite Switch - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25505_00",
@@ -108475,9 +108571,9 @@
     "titleId": "PPSA25634_00",
     "conceptId": 10012308,
     "name": "Pretty Girls Pop Match",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA25634_00-PGPOPMATCH000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA25638_00",
@@ -108758,6 +108854,14 @@
     "contentId": "EP5133-PPSA25712_00-FIRESOFINDUSTRY1",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA25714_00",
+    "conceptId": 10008825,
+    "name": "Symphonia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25725_00",
@@ -110240,6 +110344,14 @@
     "publisherId": "EP3446"
   },
   {
+    "titleId": "PPSA26350_00",
+    "conceptId": 10012775,
+    "name": "Entropy Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26357_00",
     "conceptId": 10004842,
     "name": "Infinity Nikki (Free Game) Pre-Order Bundle",
@@ -110403,9 +110515,9 @@
     "titleId": "PPSA26462_00",
     "conceptId": 10012845,
     "name": "Robobit8",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7637-PPSA26462_00-0074559432467258",
+    "region": "JP",
+    "publisherId": "JP7637"
   },
   {
     "titleId": "PPSA26463_00",
@@ -110776,6 +110888,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26927_00",
+    "conceptId": 10013110,
+    "name": "Infernitos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26928_00",
+    "conceptId": 10013110,
+    "name": "Infernitos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26960_00",
     "conceptId": 10013124,
     "name": "Learn to Play Vol. 9 - Santa's Sleigh Ride",
@@ -110795,17 +110923,17 @@
     "titleId": "PPSA27086_00",
     "conceptId": 10013226,
     "name": "Bug-o-Buster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA27086_00-0107845031355594",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA27087_00",
     "conceptId": 10013226,
     "name": "Bug-o-Buster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA27087_00-0218220609328763",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA27088_00",
@@ -110824,6 +110952,30 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA27113_00",
+    "conceptId": 10013217,
+    "name": "Rooftop Rascal: The Glitch Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27134_00",
+    "conceptId": 10013251,
+    "name": "Jumping Ninja",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27135_00",
+    "conceptId": 10013251,
+    "name": "Jumping Ninja",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27136_00",
     "conceptId": 10013251,
     "name": "Jumping Ninja",
@@ -110835,6 +110987,30 @@
     "titleId": "PPSA27137_00",
     "conceptId": 10013251,
     "name": "Jumping Ninja",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27203_00",
+    "conceptId": 10013305,
+    "name": "On The Stairs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27205_00",
+    "conceptId": 10013305,
+    "name": "On The Stairs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27352_00",
+    "conceptId": 10013377,
+    "name": "Ghoulie\u2019s Garden",
     "contentId": null,
     "region": null,
     "publisherId": null
