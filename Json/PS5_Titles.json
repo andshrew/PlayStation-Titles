@@ -56672,6 +56672,14 @@
     "publisherId": "JP3631"
   },
   {
+    "titleId": "PPSA13245_00",
+    "conceptId": 10007126,
+    "name": "The Thaumaturge",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13247_00",
     "conceptId": 10007127,
     "name": "Word Web by POWGI",
@@ -79251,7 +79259,7 @@
     "titleId": "PPSA18421_00",
     "conceptId": 10009157,
     "name": "\u9b54\u5c0e\u7269\u8a9e \u30d5\u30a3\u30a2\u3068\u4e0d\u601d\u8b70\u306a\u5b66\u6821",
-    "contentId": null,
+    "contentId": "JP0031-PPSA18421_00-MADOMONOGATARI01",
     "region": "JP",
     "publisherId": "JP0031"
   },
@@ -90056,6 +90064,14 @@
     "publisherId": "UP0177"
   },
   {
+    "titleId": "PPSA20809_00",
+    "conceptId": 10010097,
+    "name": "Sakura Melody",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20810_00",
     "conceptId": 10010097,
     "name": "Sakura Melody",
@@ -94275,9 +94291,9 @@
     "titleId": "PPSA21838_00",
     "conceptId": 10006894,
     "name": "ArcRunner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA21838_00-0189717473859459",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA21842_00",
@@ -97098,10 +97114,10 @@
   {
     "titleId": "PPSA22533_00",
     "conceptId": 10009157,
-    "name": "MADO MONOGATARI: Fia and the School of Wonders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u9b54\u5c0e\u7269\u8a9e \u30d5\u30a3\u30a2\u3068\u4e0d\u601d\u8b70\u306a\u5b66\u6821 \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
+    "contentId": "JP0031-PPSA22533_00-DXCONTENTART0001",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA22534_00",
@@ -98787,7 +98803,7 @@
     "titleId": "PPSA22981_00",
     "conceptId": 10010833,
     "name": "MXGP 24: The Official Game",
-    "contentId": null,
+    "contentId": "EP6665-PPSA22981_00-MXGP100000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -104883,9 +104899,9 @@
     "titleId": "PPSA24543_00",
     "conceptId": 10011778,
     "name": "Furious Bikers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA24543_00-FURIOUSBIKERSRGS",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA24546_00",
@@ -106562,18 +106578,18 @@
   {
     "titleId": "PPSA25013_00",
     "conceptId": 10005682,
-    "name": "Ravenswatch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ravenswatch - Digital Artbook",
+    "contentId": "EP6665-PPSA25013_00-RW00000000000ART",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA25014_00",
     "conceptId": 10005682,
-    "name": "Ravenswatch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ravenswatch - Digital Soundtrack",
+    "contentId": "EP6665-PPSA25014_00-RW00000000000OST",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA25031_00",
@@ -107795,9 +107811,9 @@
     "titleId": "PPSA25389_00",
     "conceptId": 10010560,
     "name": "Death Elevator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA25389_00-DEATHELEVTRPS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA25390_00",
@@ -108066,10 +108082,10 @@
   {
     "titleId": "PPSA25481_00",
     "conceptId": 10012245,
-    "name": "Infinite Switch - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Infinite Switch",
+    "contentId": "EP6664-PPSA25481_00-0041381831751715",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA25482_00",
@@ -108835,9 +108851,9 @@
     "titleId": "PPSA25703_00",
     "conceptId": 10009300,
     "name": "Snow Bros. Wonderland",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6026-PPSA25703_00-SNOWBROSWL000000",
+    "region": "UP",
+    "publisherId": "UP6026"
   },
   {
     "titleId": "PPSA25711_00",
@@ -109043,6 +109059,14 @@
     "titleId": "PPSA25761_00",
     "conceptId": 10012392,
     "name": "Pet Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25773_00",
+    "conceptId": 10012410,
+    "name": "Leif's Adventure: Netherworld Hero",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -109744,6 +109768,38 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA26033_00",
+    "conceptId": 10012553,
+    "name": "Christmas Tree Decorating Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26034_00",
+    "conceptId": 10012553,
+    "name": "Christmas Tree Decorating Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26035_00",
+    "conceptId": 10012553,
+    "name": "Christmas Tree Decorating Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26036_00",
+    "conceptId": 10012553,
+    "name": "Christmas Tree Decorating Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26053_00",
     "conceptId": 10012559,
     "name": "\u96e8\u9b42\u2015AMEDAMA\u2015",
@@ -109798,6 +109854,14 @@
     "contentId": "HP4312-PPSA26083_00-0868087125437454",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA26091_00",
+    "conceptId": 10012556,
+    "name": "Fossilfuel 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26108_00",
@@ -110067,9 +110131,9 @@
     "titleId": "PPSA26210_00",
     "conceptId": 10012691,
     "name": "Shooter of the Arcana",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26210_00-0622338422426640",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26211_00",
@@ -110083,17 +110147,17 @@
     "titleId": "PPSA26212_00",
     "conceptId": 10012691,
     "name": "Shooter of the Arcana",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26212_00-0890682593336141",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26213_00",
     "conceptId": 10012691,
     "name": "Shooter of the Arcana",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26213_00-0818337054767042",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26217_00",
@@ -110330,10 +110394,10 @@
   {
     "titleId": "PPSA26338_00",
     "conceptId": 10012767,
-    "name": "Beyond Hanwell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BeyondHanwell",
+    "contentId": "UP4538-PPSA26338_00-0863060494618937",
+    "region": "UP",
+    "publisherId": "UP4538"
   },
   {
     "titleId": "PPSA26343_00",
@@ -110443,9 +110507,9 @@
     "titleId": "PPSA26423_00",
     "conceptId": 10012828,
     "name": "Glitch Blaster's Waifu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA26423_00-GLITCHBLASTERSWA",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA26426_00",
@@ -110499,17 +110563,17 @@
     "titleId": "PPSA26460_00",
     "conceptId": 10012845,
     "name": "Robobit8",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7654-PPSA26460_00-0117255040926174",
+    "region": "EP",
+    "publisherId": "EP7654"
   },
   {
     "titleId": "PPSA26461_00",
     "conceptId": 10012845,
     "name": "Robobit8",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7656-PPSA26461_00-0681977898695930",
+    "region": "UP",
+    "publisherId": "UP7656"
   },
   {
     "titleId": "PPSA26462_00",
@@ -110523,9 +110587,9 @@
     "titleId": "PPSA26463_00",
     "conceptId": 10012845,
     "name": "Robobit8",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7683-PPSA26463_00-0773264955376584",
+    "region": "HP",
+    "publisherId": "HP7683"
   },
   {
     "titleId": "PPSA26466_00",
@@ -110590,6 +110654,14 @@
     "contentId": "UB0675-PPSA26516_00-0146500451043715",
     "region": "UB",
     "publisherId": "UB0675"
+  },
+  {
+    "titleId": "PPSA26522_00",
+    "conceptId": 10012890,
+    "name": "Winter Games Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26534_00",
@@ -110678,6 +110750,14 @@
     "contentId": "EP2005-PPSA26566_00-PENALTYSHOOTOUT0",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA26580_00",
+    "conceptId": 10012948,
+    "name": "Rivenaar's Grove",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26684_00",
@@ -110904,6 +110984,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26941_00",
+    "conceptId": 10013118,
+    "name": "Path of The Builder",
+    "contentId": "EP4476-PPSA26941_00-0259300958088099",
+    "region": "EP",
+    "publisherId": "EP4476"
+  },
+  {
+    "titleId": "PPSA26942_00",
+    "conceptId": 10013118,
+    "name": "Path of The Builder",
+    "contentId": "UP2136-PPSA26942_00-0153383098608933",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
     "titleId": "PPSA26960_00",
     "conceptId": 10013124,
     "name": "Learn to Play Vol. 9 - Santa's Sleigh Ride",
@@ -110960,6 +111056,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27114_00",
+    "conceptId": 10013217,
+    "name": "Rooftop Rascal: The Glitch Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27134_00",
     "conceptId": 10013251,
     "name": "Jumping Ninja",
@@ -110995,17 +111099,33 @@
     "titleId": "PPSA27203_00",
     "conceptId": 10013305,
     "name": "On The Stairs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA27203_00-0737757616985777",
+    "region": "UP",
+    "publisherId": "UP8787"
+  },
+  {
+    "titleId": "PPSA27204_00",
+    "conceptId": 10013305,
+    "name": "On The Stairs",
+    "contentId": "EB0178-PPSA27204_00-0002876292979865",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA27205_00",
     "conceptId": 10013305,
     "name": "On The Stairs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA27205_00-0377613850084493",
+    "region": "JP",
+    "publisherId": "JP8693"
+  },
+  {
+    "titleId": "PPSA27206_00",
+    "conceptId": 10013305,
+    "name": "On The Stairs",
+    "contentId": "HP8737-PPSA27206_00-0530467585475588",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA27352_00",
