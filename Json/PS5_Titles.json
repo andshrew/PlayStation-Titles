@@ -41187,7 +41187,7 @@
     "titleId": "PPSA09253_00",
     "conceptId": 10005682,
     "name": "Ravenswatch",
-    "contentId": null,
+    "contentId": "EP6665-PPSA09253_00-RW00000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -80987,9 +80987,9 @@
     "titleId": "PPSA18847_00",
     "conceptId": 10009300,
     "name": "Snow Bros. Wonderland",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP4901-PPSA18847_00-SNOWBROSWL000000",
+    "region": "JP",
+    "publisherId": "JP4901"
   },
   {
     "titleId": "PPSA18850_00",
@@ -84536,12 +84536,28 @@
     "publisherId": "UP3165"
   },
   {
+    "titleId": "PPSA19601_00",
+    "conceptId": 10008939,
+    "name": "TOKYO PSYCHODEMIC",
+    "contentId": "UP7602-PPSA19601_00-0724689317475538",
+    "region": "UP",
+    "publisherId": "UP7602"
+  },
+  {
     "titleId": "PPSA19602_00",
     "conceptId": 10008939,
     "name": "TOKYO PSYCHODEMIC",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA19603_00",
+    "conceptId": 10008939,
+    "name": "TOKYO PSYCHODEMIC",
+    "contentId": "HP7629-PPSA19603_00-0285228487762193",
+    "region": "HP",
+    "publisherId": "HP7629"
   },
   {
     "titleId": "PPSA19605_00",
@@ -86294,6 +86310,14 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP7605"
+  },
+  {
+    "titleId": "PPSA19997_00",
+    "conceptId": 10009628,
+    "name": "Phantom Brave: The Lost Hero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20001_00",
@@ -88862,6 +88886,14 @@
     "contentId": "EB0759-PPSA20537_00-GOLFINGINAETHER0",
     "region": "EB",
     "publisherId": "EB0759"
+  },
+  {
+    "titleId": "PPSA20538_00",
+    "conceptId": 10007685,
+    "name": "My Time at Sandrock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20539_00",
@@ -91726,6 +91758,22 @@
     "contentId": "EP0281-PPSA21259_00-0494366621029670",
     "region": "EP",
     "publisherId": "EP0281"
+  },
+  {
+    "titleId": "PPSA21260_00",
+    "conceptId": 10010265,
+    "name": "Highway Police Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21261_00",
+    "conceptId": 10010265,
+    "name": "Highway Police Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21264_00",
@@ -95552,6 +95600,14 @@
     "publisherId": "JP2579"
   },
   {
+    "titleId": "PPSA22163_00",
+    "conceptId": 10010649,
+    "name": "UNDER DEFEAT PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22171_00",
     "conceptId": 10010652,
     "name": "Drift Streets Japan",
@@ -97950,6 +98006,14 @@
     "contentId": "HP7252-PPSA22739_00-0749894431765012",
     "region": "HP",
     "publisherId": "HP7252"
+  },
+  {
+    "titleId": "PPSA22740_00",
+    "conceptId": 10010875,
+    "name": "Moons of Darsalon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22741_00",
@@ -103160,6 +103224,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA24121_00",
+    "conceptId": 10010649,
+    "name": "UNDER DEFEAT PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24124_00",
     "conceptId": 10011567,
     "name": "METRO QUESTER | OSAKA",
@@ -107315,9 +107387,9 @@
     "titleId": "PPSA25246_00",
     "conceptId": 10012104,
     "name": "Liberte",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA25246_00-0790207443574046",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA25259_00",
@@ -107728,6 +107800,22 @@
     "publisherId": "HP3332"
   },
   {
+    "titleId": "PPSA25346_00",
+    "conceptId": 10012147,
+    "name": "Road Maintenance Simulator 2 + Winter Services",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25347_00",
+    "conceptId": 10012147,
+    "name": "Road Maintenance Simulator 2 + Winter Services",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25354_00",
     "conceptId": 10010574,
     "name": "Sunderfolk",
@@ -108090,26 +108178,26 @@
   {
     "titleId": "PPSA25482_00",
     "conceptId": 10012245,
-    "name": "Infinite Switch - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Infinite Switch",
+    "contentId": "UP6664-PPSA25482_00-0503343030410827",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA25483_00",
     "conceptId": 10012245,
-    "name": "Infinite Switch - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Infinite Switch",
+    "contentId": "JP6595-PPSA25483_00-0958724912901512",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA25484_00",
     "conceptId": 10012245,
-    "name": "Infinite Switch - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Infinite Switch",
+    "contentId": "HP6661-PPSA25484_00-0332381301637787",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA25505_00",
@@ -109251,17 +109339,17 @@
     "titleId": "PPSA25846_00",
     "conceptId": 10012451,
     "name": "Motocross Ramp Madness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25846_00-0814918249664915",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25847_00",
     "conceptId": 10012451,
     "name": "Motocross Ramp Madness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25847_00-0250023556070959",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25848_00",
@@ -109859,9 +109947,9 @@
     "titleId": "PPSA26091_00",
     "conceptId": 10012556,
     "name": "Fossilfuel 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1420-PPSA26091_00-0473475868369028",
+    "region": "EB",
+    "publisherId": "EB1420"
   },
   {
     "titleId": "PPSA26108_00",
@@ -110139,9 +110227,9 @@
     "titleId": "PPSA26211_00",
     "conceptId": 10012691,
     "name": "Shooter of the Arcana",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26211_00-0829670066520082",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26212_00",
@@ -110267,9 +110355,9 @@
     "titleId": "PPSA26248_00",
     "conceptId": 10012713,
     "name": "Fly Corp",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4713-PPSA26248_00-0476722813794917",
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA26258_00",
@@ -110502,6 +110590,22 @@
     "contentId": "UP5877-PPSA26417_00-0535306488286762",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA26418_00",
+    "conceptId": 10012827,
+    "name": "Dead Land: Polygon VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26419_00",
+    "conceptId": 10012827,
+    "name": "Dead Land: Polygon VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26423_00",
@@ -111091,6 +111195,30 @@
     "titleId": "PPSA27137_00",
     "conceptId": 10013251,
     "name": "Jumping Ninja",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27138_00",
+    "conceptId": 10013252,
+    "name": "Vaulting Champions",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27139_00",
+    "conceptId": 10013252,
+    "name": "Vaulting Champions",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27140_00",
+    "conceptId": 10013252,
+    "name": "Vaulting Champions",
     "contentId": null,
     "region": null,
     "publisherId": null
