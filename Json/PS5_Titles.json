@@ -43891,9 +43891,9 @@
     "titleId": "PPSA09725_00",
     "conceptId": 10005127,
     "name": "Neon Blood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0957-PPSA09725_00-3093107587687194",
+    "region": "HP",
+    "publisherId": "HP0957"
   },
   {
     "titleId": "PPSA09726_00",
@@ -73862,6 +73862,14 @@
     "contentId": "HP7576-PPSA17151_00-0944589349335326",
     "region": "HP",
     "publisherId": "HP7576"
+  },
+  {
+    "titleId": "PPSA17152_00",
+    "conceptId": 10008642,
+    "name": "Diesel Legacy: The Brazen Age",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17154_00",
@@ -108936,6 +108944,14 @@
     "publisherId": "EP5864"
   },
   {
+    "titleId": "PPSA25701_00",
+    "conceptId": 10012369,
+    "name": "Survive Undead Rush",
+    "contentId": "UP7668-PPSA25701_00-0198884241428170",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA25703_00",
     "conceptId": 10009300,
     "name": "Snow Bros. Wonderland",
@@ -109355,17 +109371,17 @@
     "titleId": "PPSA25848_00",
     "conceptId": 10012451,
     "name": "Motocross Ramp Madness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25848_00-0052670804215456",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25849_00",
     "conceptId": 10012451,
     "name": "Motocross Ramp Madness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25849_00-0935679690004031",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25871_00",
@@ -111217,6 +111233,14 @@
   },
   {
     "titleId": "PPSA27140_00",
+    "conceptId": 10013252,
+    "name": "Vaulting Champions",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27141_00",
     "conceptId": 10013252,
     "name": "Vaulting Champions",
     "contentId": null,
