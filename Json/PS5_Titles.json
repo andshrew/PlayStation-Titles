@@ -84555,9 +84555,9 @@
     "titleId": "PPSA19602_00",
     "conceptId": 10008939,
     "name": "TOKYO PSYCHODEMIC",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7600-PPSA19602_00-0037765167489036",
+    "region": "EP",
+    "publisherId": "EP7600"
   },
   {
     "titleId": "PPSA19603_00",
@@ -108400,6 +108400,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25559_00",
+    "conceptId": 10012273,
+    "name": "Mech Wars",
+    "contentId": "UP7552-PPSA25559_00-0181058713817627",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA25564_00",
     "conceptId": 10011410,
     "name": "Beyond Border",
@@ -109622,6 +109630,14 @@
     "contentId": "UB0752-PPSA25934_00-0856993565321990",
     "region": "UB",
     "publisherId": "UB0752"
+  },
+  {
+    "titleId": "PPSA25948_00",
+    "conceptId": 10012513,
+    "name": "Snufkin: Melody of Moominvalley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25955_00",
@@ -111283,6 +111299,30 @@
     "titleId": "PPSA27352_00",
     "conceptId": 10013377,
     "name": "Ghoulie\u2019s Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27371_00",
+    "conceptId": 10013388,
+    "name": "Jump Race",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27373_00",
+    "conceptId": 10013388,
+    "name": "Jump Race",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27374_00",
+    "conceptId": 10013388,
+    "name": "Jump Race",
     "contentId": null,
     "region": null,
     "publisherId": null
