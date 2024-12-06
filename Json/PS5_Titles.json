@@ -64720,6 +64720,14 @@
     "publisherId": "UP0101"
   },
   {
+    "titleId": "PPSA15339_00",
+    "conceptId": 10007959,
+    "name": "Ninja Five-O",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15340_00",
     "conceptId": 10007960,
     "name": "SpongeBob SquarePants\u2122: The Patrick Star Game",
@@ -73242,18 +73250,18 @@
   {
     "titleId": "PPSA16998_00",
     "conceptId": 10008613,
-    "name": "Uncle Chop's Rocket Shop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30a2\u30f3\u30af\u30eb\u30fb\u30c1\u30e7\u30c3\u30d7\u306e\u30ed\u30b1\u30c3\u30c8\u30b7\u30e7\u30c3\u30d7",
+    "contentId": "JP8502-PPSA16998_00-0790834149976768",
+    "region": "JP",
+    "publisherId": "JP8502"
   },
   {
     "titleId": "PPSA16999_00",
     "conceptId": 10008613,
     "name": "Uncle Chop's Rocket Shop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8548-PPSA16999_00-0003534383669036",
+    "region": "HP",
+    "publisherId": "HP8548"
   },
   {
     "titleId": "PPSA17008_00",
@@ -73867,9 +73875,9 @@
     "titleId": "PPSA17152_00",
     "conceptId": 10008642,
     "name": "Diesel Legacy: The Brazen Age",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2080-PPSA17152_00-BASEGAME00000000",
+    "region": "UP",
+    "publisherId": "UP2080"
   },
   {
     "titleId": "PPSA17154_00",
@@ -85048,6 +85056,14 @@
     "publisherId": "UP3483"
   },
   {
+    "titleId": "PPSA19721_00",
+    "conceptId": 10007685,
+    "name": "My Time at Sandrock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19726_00",
     "conceptId": 10009134,
     "name": "\u6771\u65b9\u30b9\u30da\u30eb\u30ab\u30fc\u30cb\u30d0\u30eb \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
@@ -86073,6 +86089,14 @@
   },
   {
     "titleId": "PPSA19942_00",
+    "conceptId": 10009721,
+    "name": "Big Helmet Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19943_00",
     "conceptId": 10009721,
     "name": "Big Helmet Heroes",
     "contentId": null,
@@ -88094,6 +88118,14 @@
     "contentId": "EP5026-PPSA20368_00-0704584123610281",
     "region": "EP",
     "publisherId": "EP5026"
+  },
+  {
+    "titleId": "PPSA20371_00",
+    "conceptId": 10009898,
+    "name": "Tails of Iron 2: Whiskers of Winter",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP6929"
   },
   {
     "titleId": "PPSA20372_00",
@@ -91803,9 +91835,9 @@
     "titleId": "PPSA21261_00",
     "conceptId": 10010265,
     "name": "Highway Police Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3003-PPSA21261_00-HIGHWAYPATROL000",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA21264_00",
@@ -92506,8 +92538,8 @@
   {
     "titleId": "PPSA21422_00",
     "conceptId": 10004289,
-    "name": "UFL (F2P) Starter Pack",
-    "contentId": null,
+    "name": "UFL",
+    "contentId": "EP7449-PPSA21422_00-0178621419327299",
     "region": "EP",
     "publisherId": "EP7449"
   },
@@ -95170,10 +95202,10 @@
   {
     "titleId": "PPSA22040_00",
     "conceptId": 10010602,
-    "name": "Path of Exile 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Path of Exile 2 Beta",
+    "contentId": "UP4781-PPSA22040_00-0829857219534790",
+    "region": "UP",
+    "publisherId": "UP4781"
   },
   {
     "titleId": "PPSA22041_00",
@@ -95650,10 +95682,10 @@
   {
     "titleId": "PPSA22163_00",
     "conceptId": 10010649,
-    "name": "UNDER DEFEAT PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "UNDER DEFEAT",
+    "contentId": "JP1091-PPSA22163_00-UNDERDEFEATJPPS5",
+    "region": "JP",
+    "publisherId": "JP1091"
   },
   {
     "titleId": "PPSA22171_00",
@@ -96131,7 +96163,7 @@
     "titleId": "PPSA22265_00",
     "conceptId": 10010526,
     "name": "FANTASIAN Neo Dimension",
-    "contentId": null,
+    "contentId": "EP0082-PPSA22265_00-0844530154487925",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -98386,18 +98418,18 @@
   {
     "titleId": "PPSA22811_00",
     "conceptId": 227139,
-    "name": "Human Fall Flat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Human Fall Flat VR",
+    "contentId": "UP4395-PPSA22811_00-HFFGAME0000PSVR2",
+    "region": "UP",
+    "publisherId": "UP4395"
   },
   {
     "titleId": "PPSA22812_00",
     "conceptId": 227139,
-    "name": "Human Fall Flat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Human Fall Flat VR",
+    "contentId": "EP4395-PPSA22812_00-HFFGAME0000PSVR2",
+    "region": "EP",
+    "publisherId": "EP4395"
   },
   {
     "titleId": "PPSA22813_00",
@@ -100290,10 +100322,10 @@
   {
     "titleId": "PPSA23405_00",
     "conceptId": 10000586,
-    "name": "Dragon Age\u2122: The Veilguard",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dragon Age\u2122: The Veilguard Character Creator",
+    "contentId": "UP0006-PPSA23405_00-DRAGON4DEMO00000",
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA23406_00",
@@ -102768,6 +102800,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA23974_00",
+    "conceptId": 10010602,
+    "name": "Path of Exile 2 Beta",
+    "contentId": "JP4621-PPSA23974_00-0373231694598052",
+    "region": "JP",
+    "publisherId": "JP4621"
+  },
+  {
     "titleId": "PPSA23979_00",
     "conceptId": 10011485,
     "name": "Zero the Kamikaze Squirrel",
@@ -103486,6 +103526,30 @@
     "contentId": "JP0013-PPSA24154_00-JP0MATSURO000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA24155_00",
+    "conceptId": 10011588,
+    "name": "\u306f\u3058\u3081\u3066\u306e\u30b0\u30e9\u30f3\u30c4\u30fc\u30ea\u30b9\u30e2\u00ae",
+    "contentId": "JP9001-PPSA24155_00-MYFRSTGT00000000",
+    "region": "JP",
+    "publisherId": "JP9001"
+  },
+  {
+    "titleId": "PPSA24157_00",
+    "conceptId": 10011588,
+    "name": "My First Gran Turismo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24158_00",
+    "conceptId": 10011588,
+    "name": "My First Gran Turismo\u00ae",
+    "contentId": "HP9000-PPSA24158_00-MYFRSTGT00000000",
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA24160_00",
@@ -106560,6 +106624,38 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA24929_00",
+    "conceptId": 10011962,
+    "name": "Overtop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24930_00",
+    "conceptId": 10011962,
+    "name": "Overtop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24931_00",
+    "conceptId": 10011962,
+    "name": "Overtop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24932_00",
+    "conceptId": 10011962,
+    "name": "Overtop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24944_00",
     "conceptId": 10011971,
     "name": "Platform8",
@@ -106878,6 +106974,30 @@
     "contentId": "EP6665-PPSA25014_00-RW00000000000OST",
     "region": "EP",
     "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA25016_00",
+    "conceptId": 10010949,
+    "name": "Unsolved Case Series",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25017_00",
+    "conceptId": 10010949,
+    "name": "Unsolved Case Series",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25018_00",
+    "conceptId": 10010949,
+    "name": "Unsolved Case Series",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25031_00",
@@ -107448,6 +107568,30 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25158_00",
+    "conceptId": 10006341,
+    "name": "Quiz Thiz France - DEMO",
+    "contentId": "EP6664-PPSA25158_00-0973757580851084",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25160_00",
+    "conceptId": 10006341,
+    "name": "Quiz Thiz France - DEMO",
+    "contentId": "JP6595-PPSA25160_00-0642875655567263",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA25161_00",
+    "conceptId": 10006341,
+    "name": "Quiz Thiz France - DEMO",
+    "contentId": "HP6661-PPSA25161_00-0039862231346779",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA25168_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -107912,6 +108056,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA25324_00",
+    "conceptId": 10012138,
+    "name": "Cubic Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25327_00",
     "conceptId": 10012037,
     "name": "Mortar Master",
@@ -108226,10 +108378,10 @@
   {
     "titleId": "PPSA25417_00",
     "conceptId": 10012029,
-    "name": "Dog Man: Mission Impawsible",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c9\u30c3\u30b0\u30de\u30f3 \u30df\u30c3\u30b7\u30e7\u30f3\u30fb\u30ef\u30f3\u30dd\u30c3\u30b7\u30d6\u30eb",
+    "contentId": "EP3945-PPSA25417_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP3945"
   },
   {
     "titleId": "PPSA25420_00",
@@ -108658,18 +108810,18 @@
   {
     "titleId": "PPSA25567_00",
     "conceptId": 10012277,
-    "name": "DETECTIVE - The Motel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Detective - The Motel",
+    "contentId": "UP3252-PPSA25567_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA25568_00",
     "conceptId": 10012277,
-    "name": "DETECTIVE - The Motel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Detective - The Motel",
+    "contentId": "EP3111-PPSA25568_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA25580_00",
@@ -109211,9 +109363,9 @@
     "titleId": "PPSA25714_00",
     "conceptId": 10008825,
     "name": "Symphonia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0822-PPSA25714_00-SYMPHONIA0000PS5",
+    "region": "EP",
+    "publisherId": "EP0822"
   },
   {
     "titleId": "PPSA25725_00",
@@ -109395,9 +109547,9 @@
     "titleId": "PPSA25761_00",
     "conceptId": 10012392,
     "name": "Pet Shop Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA25761_00-0295366920596147",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA25773_00",
@@ -109486,6 +109638,14 @@
     "contentId": "HP8462-PPSA25791_00-0913160848803770",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA25793_00",
+    "conceptId": 10011826,
+    "name": "Gimmick! 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25794_00",
@@ -109883,25 +110043,25 @@
     "titleId": "PPSA25978_00",
     "conceptId": 10012533,
     "name": "Honey Farm Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25978_00-0772540807428202",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25979_00",
     "conceptId": 10012533,
     "name": "Honey Farm Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25979_00-0487337505651780",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25980_00",
     "conceptId": 10012533,
     "name": "Honey Farm Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25980_00-0764554231684753",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25981_00",
@@ -110147,9 +110307,9 @@
     "titleId": "PPSA26033_00",
     "conceptId": 10012553,
     "name": "Christmas Tree Decorating Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA26033_00-0942534007997200",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26034_00",
@@ -110275,9 +110435,9 @@
     "titleId": "PPSA26108_00",
     "conceptId": 10012614,
     "name": "Westild's Law",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA26108_00-WESTILDSLAWRATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA26110_00",
@@ -110827,15 +110987,15 @@
     "titleId": "PPSA26350_00",
     "conceptId": 10012775,
     "name": "Entropy Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1250-PPSA26350_00-0843312610024853",
+    "region": "UB",
+    "publisherId": "UB1250"
   },
   {
     "titleId": "PPSA26357_00",
     "conceptId": 10004842,
-    "name": "Infinity Nikki (Free Game) Pre-Order Bundle",
-    "contentId": null,
+    "name": "Infinity Nikki",
+    "contentId": "HB0901-PPSA26357_00-PRODUCTIONGLOBAL",
     "region": "HB",
     "publisherId": "HB0901"
   },
@@ -110960,6 +111120,22 @@
     "publisherId": "UP7578"
   },
   {
+    "titleId": "PPSA26445_00",
+    "conceptId": 10012841,
+    "name": "Golf Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26446_00",
+    "conceptId": 10012841,
+    "name": "Golf Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26448_00",
     "conceptId": 10012842,
     "name": "Clutter Puzzle Magazine: Vol. 15 - #1 Collector's Edition",
@@ -111059,9 +111235,9 @@
     "titleId": "PPSA26488_00",
     "conceptId": 10012862,
     "name": "JIGSAW CHRONICLES: Most Wanted",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0928-PPSA26488_00-0227362955046900",
+    "region": "UB",
+    "publisherId": "UB0928"
   },
   {
     "titleId": "PPSA26491_00",
@@ -111070,6 +111246,14 @@
     "contentId": "UB0796-PPSA26491_00-0312257319643778",
     "region": "UB",
     "publisherId": "UB0796"
+  },
+  {
+    "titleId": "PPSA26504_00",
+    "conceptId": 10012859,
+    "name": "EA SPORTS FC\u2122 25 SHOWCASE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26515_00",
@@ -111259,6 +111443,38 @@
     "titleId": "PPSA26692_00",
     "conceptId": 10013000,
     "name": "Slicy Flips",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26693_00",
+    "conceptId": 10013001,
+    "name": "Decoration Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26694_00",
+    "conceptId": 10013001,
+    "name": "Decoration Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26695_00",
+    "conceptId": 10013001,
+    "name": "Decoration Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26696_00",
+    "conceptId": 10013001,
+    "name": "Decoration Rush",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -111496,6 +111712,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA27069_00",
+    "conceptId": 10012277,
+    "name": "DETECTIVE - The Motel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27086_00",
     "conceptId": 10013226,
     "name": "Bug-o-Buster",
@@ -111680,6 +111904,30 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA27341_00",
+    "conceptId": 10011588,
+    "name": "My First Gran Turismo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27343_00",
+    "conceptId": 10011588,
+    "name": "My First Gran Turismo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27344_00",
+    "conceptId": 10011588,
+    "name": "My First Gran Turismo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27352_00",
     "conceptId": 10013377,
     "name": "Ghoulie\u2019s Garden",
@@ -111718,5 +111966,37 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27382_00",
+    "conceptId": 10013398,
+    "name": "Collectable Card Shop Master",
+    "contentId": "EB0805-PPSA27382_00-0599755474986080",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA27383_00",
+    "conceptId": 10013398,
+    "name": "Collectable Card Shop Master",
+    "contentId": "EB0805-PPSA27383_00-0226530222698986",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA27384_00",
+    "conceptId": 10013398,
+    "name": "Collectable Card Shop Master",
+    "contentId": "EB0805-PPSA27384_00-0044933616482059",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA27385_00",
+    "conceptId": 10013398,
+    "name": "Collectable Card Shop Master",
+    "contentId": "EB0805-PPSA27385_00-0532121554615157",
+    "region": "EB",
+    "publisherId": "EB0805"
   }
 ]
