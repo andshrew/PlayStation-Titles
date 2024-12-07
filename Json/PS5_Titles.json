@@ -23192,6 +23192,14 @@
     "publisherId": "EP1302"
   },
   {
+    "titleId": "PPSA06081_00",
+    "conceptId": 10003641,
+    "name": "Totally Accurate Battle Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06084_00",
     "conceptId": 10000602,
     "name": "Superliminal",
@@ -55408,6 +55416,14 @@
     "publisherId": "UP6163"
   },
   {
+    "titleId": "PPSA12491_00",
+    "conceptId": 10006902,
+    "name": "Sprawl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12492_00",
     "conceptId": 10006904,
     "name": "RunBean Galactic",
@@ -56675,9 +56691,9 @@
     "titleId": "PPSA13245_00",
     "conceptId": 10007126,
     "name": "The Thaumaturge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4361-PPSA13245_00-THETHAUMATURGEEU",
+    "region": "EP",
+    "publisherId": "EP4361"
   },
   {
     "titleId": "PPSA13247_00",
@@ -73235,17 +73251,17 @@
     "titleId": "PPSA16996_00",
     "conceptId": 10008613,
     "name": "Uncle Chop's Rocket Shop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8597-PPSA16996_00-0377119468363099",
+    "region": "UP",
+    "publisherId": "UP8597"
   },
   {
     "titleId": "PPSA16997_00",
     "conceptId": 10008613,
     "name": "Uncle Chop's Rocket Shop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8787-PPSA16997_00-0276681503858563",
+    "region": "EP",
+    "publisherId": "EP8787"
   },
   {
     "titleId": "PPSA16998_00",
@@ -79090,8 +79106,8 @@
   {
     "titleId": "PPSA18379_00",
     "conceptId": 10009142,
-    "name": "Shadow Tactics: Aiko's Choice",
-    "contentId": null,
+    "name": "Shadow Tactics: Blades of the Shogun - Aiko's Choice",
+    "contentId": "EP8923-PPSA18379_00-0123456789ABCDEF",
     "region": "EP",
     "publisherId": "EP8923"
   },
@@ -83003,9 +83019,9 @@
     "titleId": "PPSA19289_00",
     "conceptId": 10009473,
     "name": "Railroads Online",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2565-PPSA19289_00-RAILROADSONLINE0",
+    "region": "UP",
+    "publisherId": "UP2565"
   },
   {
     "titleId": "PPSA19290_00",
@@ -88120,6 +88136,22 @@
     "publisherId": "EP5026"
   },
   {
+    "titleId": "PPSA20369_00",
+    "conceptId": 10009898,
+    "name": "Tails of Iron 2: Whiskers of Winter",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6960"
+  },
+  {
+    "titleId": "PPSA20370_00",
+    "conceptId": 10009898,
+    "name": "Tails of Iron 2: Whiskers of Winter",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6965"
+  },
+  {
     "titleId": "PPSA20371_00",
     "conceptId": 10009898,
     "name": "Tails of Iron 2: Whiskers of Winter",
@@ -90016,6 +90048,14 @@
     "publisherId": "EB0720"
   },
   {
+    "titleId": "PPSA20765_00",
+    "conceptId": 228691,
+    "name": "CRYSTAR",
+    "contentId": "UP4774-PPSA20765_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4774"
+  },
+  {
     "titleId": "PPSA20766_00",
     "conceptId": 228691,
     "name": "CRYSTAR",
@@ -91827,9 +91867,9 @@
     "titleId": "PPSA21260_00",
     "conceptId": 10010265,
     "name": "Highway Police Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA21260_00-HIGHWAYPATROL000",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA21261_00",
@@ -93611,9 +93651,9 @@
     "titleId": "PPSA21669_00",
     "conceptId": 10010451,
     "name": "Marvel Rivals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0335-PPSA21669_00-0320312678245089",
+    "region": "UB",
+    "publisherId": "UB0335"
   },
   {
     "titleId": "PPSA21671_00",
@@ -94978,18 +95018,18 @@
   {
     "titleId": "PPSA21987_00",
     "conceptId": 10009142,
-    "name": "Shadow Tactics: Aiko's Choice",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow Tactics: Aiko's Choice Soundtrack",
+    "contentId": "EP8923-PPSA21987_00-AIKOSOUNDTRACKEU",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA21988_00",
     "conceptId": 10009142,
-    "name": "Shadow Tactics: Aiko's Choice",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow Tactics: Aiko's Choice Soundtrack",
+    "contentId": "UP1440-PPSA21988_00-AIKOSOUNDTRACKNA",
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA21992_00",
@@ -95210,10 +95250,10 @@
   {
     "titleId": "PPSA22041_00",
     "conceptId": 10010602,
-    "name": "Path of Exile 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Path of Exile 2 Beta",
+    "contentId": "EP4956-PPSA22041_00-0205908300373942",
+    "region": "EP",
+    "publisherId": "EP4956"
   },
   {
     "titleId": "PPSA22042_00",
@@ -96155,7 +96195,7 @@
     "titleId": "PPSA22264_00",
     "conceptId": 10010526,
     "name": "FANTASIAN Neo Dimension",
-    "contentId": null,
+    "contentId": "UP0082-PPSA22264_00-0674390944059444",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -98651,7 +98691,7 @@
     "titleId": "PPSA22883_00",
     "conceptId": 10010650,
     "name": "Stranger Things VR",
-    "contentId": null,
+    "contentId": "UP4512-PPSA22883_00-STRANGERTHINGSVR",
     "region": "UP",
     "publisherId": "UP4512"
   },
@@ -99270,6 +99310,14 @@
     "contentId": "HP0980-PPSA23087_00-0038216941374857",
     "region": "HP",
     "publisherId": "HP0980"
+  },
+  {
+    "titleId": "PPSA23088_00",
+    "conceptId": 10011010,
+    "name": "For The King II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23093_00",
@@ -102808,6 +102856,14 @@
     "publisherId": "JP4621"
   },
   {
+    "titleId": "PPSA23975_00",
+    "conceptId": 10010602,
+    "name": "Path of Exile 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23979_00",
     "conceptId": 10011485,
     "name": "Zero the Kamikaze Squirrel",
@@ -103536,12 +103592,20 @@
     "publisherId": "JP9001"
   },
   {
+    "titleId": "PPSA24156_00",
+    "conceptId": 10011588,
+    "name": "My First Gran Turismo\u00ae",
+    "contentId": "UP9000-PPSA24156_00-MYFRSTGT00000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA24157_00",
     "conceptId": 10011588,
-    "name": "My First Gran Turismo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "My First Gran Turismo\u2122",
+    "contentId": "EP9001-PPSA24157_00-MYFRSTGT00000000",
+    "region": "EP",
+    "publisherId": "EP9001"
   },
   {
     "titleId": "PPSA24158_00",
@@ -103986,10 +104050,10 @@
   {
     "titleId": "PPSA24254_00",
     "conceptId": 10009142,
-    "name": "Shadow Tactics: Aiko's Choice",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow Tactics: Blades of the Shogun - Artbook & Strategy Guide",
+    "contentId": "EP8923-PPSA24254_00-STARTBOOK0000PS5",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA24260_00",
@@ -104547,9 +104611,9 @@
     "titleId": "PPSA24381_00",
     "conceptId": 10011616,
     "name": "The Thing: Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0913-PPSA24381_00-0592964266082330",
+    "region": "UP",
+    "publisherId": "UP0913"
   },
   {
     "titleId": "PPSA24391_00",
@@ -105598,6 +105662,22 @@
     "contentId": "HP6661-PPSA24635_00-0048016519080697",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA24636_00",
+    "conceptId": 10011819,
+    "name": "The Jumping Donut - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24638_00",
+    "conceptId": 10011819,
+    "name": "The Jumping Donut - DEMO",
+    "contentId": "JP6595-PPSA24638_00-0647129987826853",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA24639_00",
@@ -106978,10 +107058,10 @@
   {
     "titleId": "PPSA25016_00",
     "conceptId": 10010949,
-    "name": "Unsolved Case Series",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Unsolved Case: Murderous Script CE",
+    "contentId": "UB0429-PPSA25016_00-UNSOLVEDCASEKP01",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA25017_00",
@@ -107035,9 +107115,9 @@
     "titleId": "PPSA25051_00",
     "conceptId": 10012023,
     "name": "Dinosaur Fossil Hunter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7532-PPSA25051_00-0701547074748307",
+    "region": "UP",
+    "publisherId": "UP7532"
   },
   {
     "titleId": "PPSA25052_00",
@@ -107576,6 +107656,14 @@
     "publisherId": "EP6664"
   },
   {
+    "titleId": "PPSA25159_00",
+    "conceptId": 10006341,
+    "name": "Quiz Thiz France - DEMO",
+    "contentId": "UP6664-PPSA25159_00-0084234695499763",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA25160_00",
     "conceptId": 10006341,
     "name": "Quiz Thiz France - DEMO",
@@ -107643,9 +107731,9 @@
     "titleId": "PPSA25191_00",
     "conceptId": 10012083,
     "name": "Real Heroes: Firefighter HD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6261-PPSA25191_00-00RHFIREFIGHTER1",
+    "region": "UP",
+    "publisherId": "UP6261"
   },
   {
     "titleId": "PPSA25197_00",
@@ -108059,9 +108147,17 @@
     "titleId": "PPSA25324_00",
     "conceptId": 10012138,
     "name": "Cubic Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA25324_00-0921255185319578",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA25325_00",
+    "conceptId": 10012138,
+    "name": "Cubic Run",
+    "contentId": "HP7354-PPSA25325_00-0566875627878041",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA25327_00",
@@ -108774,6 +108870,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA25551_00",
+    "conceptId": 10012025,
+    "name": "Radio Free Europa",
+    "contentId": "HB1059-PPSA25551_00-0784495036889622",
+    "region": "HB",
+    "publisherId": "HB1059"
   },
   {
     "titleId": "PPSA25559_00",
@@ -109539,9 +109643,9 @@
     "titleId": "PPSA25760_00",
     "conceptId": 10012394,
     "name": "My Horse: Bonded Spirits",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA25760_00-0194511087007672",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA25761_00",
@@ -110035,9 +110139,9 @@
     "titleId": "PPSA25977_00",
     "conceptId": 10012533,
     "name": "Honey Farm Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA25977_00-0182327298541071",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA25978_00",
@@ -110315,25 +110419,25 @@
     "titleId": "PPSA26034_00",
     "conceptId": 10012553,
     "name": "Christmas Tree Decorating Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA26034_00-0219321688960741",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26035_00",
     "conceptId": 10012553,
     "name": "Christmas Tree Decorating Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA26035_00-0989504795065738",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26036_00",
     "conceptId": 10012553,
     "name": "Christmas Tree Decorating Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA26036_00-0056644262610109",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26041_00",
@@ -110912,6 +111016,30 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA26274_00",
+    "conceptId": 10012727,
+    "name": "A Maze Against Time",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26275_00",
+    "conceptId": 10012727,
+    "name": "A Maze Against Time",
+    "contentId": "JB0640-PPSA26275_00-0138152189532397",
+    "region": "JB",
+    "publisherId": "JB0640"
+  },
+  {
+    "titleId": "PPSA26276_00",
+    "conceptId": 10012727,
+    "name": "A Maze Against Time",
+    "contentId": "HB0669-PPSA26276_00-0487115829386324",
+    "region": "HB",
+    "publisherId": "HB0669"
+  },
+  {
     "titleId": "PPSA26277_00",
     "conceptId": 10011456,
     "name": "Snoot Runner",
@@ -111030,6 +111158,14 @@
     "contentId": "HP0106-PPSA26395_00-DWORIGINSDEMO000",
     "region": "HP",
     "publisherId": "HP0106"
+  },
+  {
+    "titleId": "PPSA26399_00",
+    "conceptId": 10012502,
+    "name": "Santa's Spot it",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26406_00",
@@ -111232,6 +111368,22 @@
     "publisherId": "HB0706"
   },
   {
+    "titleId": "PPSA26472_00",
+    "conceptId": 10012830,
+    "name": "Futbol Kicks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26473_00",
+    "conceptId": 10012830,
+    "name": "Futbol Kicks",
+    "contentId": "UP4312-PPSA26473_00-0649029042268854",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA26488_00",
     "conceptId": 10012862,
     "name": "JIGSAW CHRONICLES: Most Wanted",
@@ -111246,6 +111398,14 @@
     "contentId": "UB0796-PPSA26491_00-0312257319643778",
     "region": "UB",
     "publisherId": "UB0796"
+  },
+  {
+    "titleId": "PPSA26503_00",
+    "conceptId": 10012859,
+    "name": "EA SPORTS FC\u2122 25 SHOWCASE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26504_00",
@@ -111387,33 +111547,33 @@
     "titleId": "PPSA26684_00",
     "conceptId": 10012999,
     "name": "Crowd Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26684_00-0560650726486955",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26685_00",
     "conceptId": 10012999,
     "name": "Crowd Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26685_00-0957957747522375",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26686_00",
     "conceptId": 10012999,
     "name": "Crowd Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26686_00-0269365164378106",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26687_00",
     "conceptId": 10012999,
     "name": "Crowd Run",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26687_00-0350089143970110",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26688_00",
@@ -111574,6 +111734,38 @@
     "contentId": "UB1029-PPSA26814_00-0546696686413934",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA26828_00",
+    "conceptId": 10013052,
+    "name": "Bunny Mazes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26829_00",
+    "conceptId": 10013052,
+    "name": "Bunny Mazes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26830_00",
+    "conceptId": 10013052,
+    "name": "Bunny Mazes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26831_00",
+    "conceptId": 10013052,
+    "name": "Bunny Mazes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26843_00",
@@ -111864,6 +112056,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27175_00",
+    "conceptId": 10013279,
+    "name": "Fortnite OG",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27176_00",
+    "conceptId": 10013279,
+    "name": "Fortnite OG",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27203_00",
     "conceptId": 10013305,
     "name": "On The Stairs",
@@ -111905,6 +112113,14 @@
   },
   {
     "titleId": "PPSA27341_00",
+    "conceptId": 10011588,
+    "name": "My First Gran Turismo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27342_00",
     "conceptId": 10011588,
     "name": "My First Gran Turismo",
     "contentId": null,
