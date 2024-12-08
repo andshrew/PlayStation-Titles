@@ -99408,6 +99408,14 @@
     "publisherId": "UP1057"
   },
   {
+    "titleId": "PPSA23123_00",
+    "conceptId": 10011010,
+    "name": "For The King II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23124_00",
     "conceptId": 10011028,
     "name": "Summoner",
@@ -105666,10 +105674,18 @@
   {
     "titleId": "PPSA24636_00",
     "conceptId": 10011819,
-    "name": "The Jumping Donut - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Donut - DEMO",
+    "contentId": "EP6664-PPSA24636_00-0788451582136441",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA24637_00",
+    "conceptId": 10011819,
+    "name": "The Jumping Donut - DEMO",
+    "contentId": "UP6664-PPSA24637_00-0473992926298771",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA24638_00",
@@ -105830,6 +105846,22 @@
     "contentId": "EP8204-PPSA24705_00-IREMCOLLECTXXPS5",
     "region": "EP",
     "publisherId": "EP8204"
+  },
+  {
+    "titleId": "PPSA24712_00",
+    "conceptId": 10006212,
+    "name": "Evotinction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24713_00",
+    "conceptId": 10006212,
+    "name": "EVOTINCTION Demo",
+    "contentId": "EP3446-PPSA24713_00-0984223600103819",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA24725_00",
@@ -106804,6 +106836,30 @@
     "conceptId": 10011984,
     "name": "The Jumping Ice Cube",
     "contentId": "HP6661-PPSA24960_00-0548937733498036",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA24961_00",
+    "conceptId": 10011984,
+    "name": "The Jumping Ice Cube - DEMO",
+    "contentId": "EP6664-PPSA24961_00-0366965104028106",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA24963_00",
+    "conceptId": 10011984,
+    "name": "The Jumping Ice Cube - DEMO",
+    "contentId": "JP6595-PPSA24963_00-0448925355463118",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA24964_00",
+    "conceptId": 10011984,
+    "name": "The Jumping Ice Cube - DEMO",
+    "contentId": "HP6661-PPSA24964_00-0598956252183623",
     "region": "HP",
     "publisherId": "HP6661"
   },
@@ -109848,6 +109904,38 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA25824_00",
+    "conceptId": 10012438,
+    "name": "Connect Pictures Of Dog",
+    "contentId": "UP7668-PPSA25824_00-0838673062914508",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25825_00",
+    "conceptId": 10012438,
+    "name": "Connect Pictures Of Dog",
+    "contentId": "UP7668-PPSA25825_00-0604254417277691",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25826_00",
+    "conceptId": 10012438,
+    "name": "Connect Pictures Of Dog",
+    "contentId": "UP7668-PPSA25826_00-0145026722772694",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25827_00",
+    "conceptId": 10012438,
+    "name": "Connect Pictures Of Dog",
+    "contentId": "UP7668-PPSA25827_00-0234256588596888",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA25846_00",
     "conceptId": 10012451,
     "name": "Motocross Ramp Madness",
@@ -111016,12 +111104,20 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA26273_00",
+    "conceptId": 10012727,
+    "name": "A Maze Against Time",
+    "contentId": "UB0701-PPSA26273_00-0881557850770101",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
     "titleId": "PPSA26274_00",
     "conceptId": 10012727,
     "name": "A Maze Against Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0896-PPSA26274_00-0150543957655955",
+    "region": "EB",
+    "publisherId": "EB0896"
   },
   {
     "titleId": "PPSA26275_00",
@@ -111162,10 +111258,10 @@
   {
     "titleId": "PPSA26399_00",
     "conceptId": 10012502,
-    "name": "Santa's Spot it",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Santa's Spot It",
+    "contentId": "EB1338-PPSA26399_00-SANTASPOTIT00000",
+    "region": "EB",
+    "publisherId": "EB1338"
   },
   {
     "titleId": "PPSA26406_00",
@@ -111371,9 +111467,9 @@
     "titleId": "PPSA26472_00",
     "conceptId": 10012830,
     "name": "Futbol Kicks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA26472_00-0873307392090754",
+    "region": "EP",
+    "publisherId": "EP4312"
   },
   {
     "titleId": "PPSA26473_00",
@@ -111838,6 +111934,22 @@
     "contentId": "UB0108-PPSA26851_00-0675805675002843",
     "region": "UB",
     "publisherId": "UB0108"
+  },
+  {
+    "titleId": "PPSA26914_00",
+    "conceptId": 10013100,
+    "name": "Cazzarion: UFO Kidnapping",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26915_00",
+    "conceptId": 10013100,
+    "name": "Cazzarion: UFO Kidnapping",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26924_00",
