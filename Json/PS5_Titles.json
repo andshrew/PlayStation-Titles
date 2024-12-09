@@ -10336,6 +10336,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA03579_00",
+    "conceptId": 10001710,
+    "name": "BLEACH Rebirth of Souls PS4 & PS5",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA03580_00",
     "conceptId": 10002458,
     "name": "The Forgotten City",
@@ -17347,7 +17355,7 @@
     "titleId": "PPSA04962_00",
     "conceptId": 10003642,
     "name": "Skydance's BEHEMOTH",
-    "contentId": null,
+    "contentId": "UP2533-PPSA04962_00-BEHEMOTH00000001",
     "region": "UP",
     "publisherId": "UP2533"
   },
@@ -105850,16 +105858,24 @@
   {
     "titleId": "PPSA24712_00",
     "conceptId": 10006212,
-    "name": "Evotinction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "EVOTINCTION Demo",
+    "contentId": "EP3446-PPSA24712_00-0430886488647918",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA24713_00",
     "conceptId": 10006212,
     "name": "EVOTINCTION Demo",
     "contentId": "EP3446-PPSA24713_00-0984223600103819",
+    "region": "EP",
+    "publisherId": "EP3446"
+  },
+  {
+    "titleId": "PPSA24714_00",
+    "conceptId": 10006212,
+    "name": "EVOTINCTION Demo",
+    "contentId": "EP3446-PPSA24714_00-0613728359869483",
     "region": "EP",
     "publisherId": "EP3446"
   },
@@ -106768,6 +106784,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24934_00",
+    "conceptId": 10010961,
+    "name": "Revhead",
+    "contentId": "UB0679-PPSA24934_00-0664770627598827",
+    "region": "UB",
+    "publisherId": "UB0679"
+  },
+  {
     "titleId": "PPSA24944_00",
     "conceptId": 10011971,
     "name": "Platform8",
@@ -106846,6 +106870,14 @@
     "contentId": "EP6664-PPSA24961_00-0366965104028106",
     "region": "EP",
     "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA24962_00",
+    "conceptId": 10011984,
+    "name": "The Jumping Ice Cube - DEMO",
+    "contentId": "UP6664-PPSA24962_00-0158305140652912",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA24963_00",
@@ -111344,6 +111376,22 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA26427_00",
+    "conceptId": 10012831,
+    "name": "HOW TO: SUPERHERO!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26442_00",
+    "conceptId": 10012837,
+    "name": "Agent Fall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26444_00",
     "conceptId": 10012840,
     "name": "Racing Champions",
@@ -111478,6 +111526,14 @@
     "contentId": "UP4312-PPSA26473_00-0649029042268854",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA26476_00",
+    "conceptId": 10012634,
+    "name": "Unhidden: Cozy Hidden Object",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26488_00",
