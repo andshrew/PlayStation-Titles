@@ -3376,6 +3376,14 @@
     "publisherId": "JP0404"
   },
   {
+    "titleId": "PPSA02167_00",
+    "conceptId": 10001710,
+    "name": "BLEACH Rebirth of Souls PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA02169_00",
     "conceptId": 10000293,
     "name": "Hood: Outlaws & Legends",
@@ -79122,8 +79130,8 @@
   {
     "titleId": "PPSA18380_00",
     "conceptId": 10009142,
-    "name": "Shadow Tactics: Aiko's Choice",
-    "contentId": null,
+    "name": "Shadow Tactics: Blades of the Shogun - Aiko's Choice",
+    "contentId": "UP1440-PPSA18380_00-0123456789ABCDEF",
     "region": "UP",
     "publisherId": "UP1440"
   },
@@ -97984,6 +97992,14 @@
     "publisherId": "EP7994"
   },
   {
+    "titleId": "PPSA22689_00",
+    "conceptId": 10009164,
+    "name": "Morkull Ragast's Rage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22692_00",
     "conceptId": 10009684,
     "name": "PaladinsPassage",
@@ -99022,6 +99038,22 @@
     "contentId": "EP6665-PPSA22981_00-MXGP100000000000",
     "region": "EP",
     "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA22995_00",
+    "conceptId": 10010964,
+    "name": "AAA Dynamic Scenes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22996_00",
+    "conceptId": 10010964,
+    "name": "AAA Dynamic Scenes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22997_00",
@@ -105360,6 +105392,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA24562_00",
+    "conceptId": 10011787,
+    "name": "Summer In Trigue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24563_00",
     "conceptId": 10011788,
     "name": "CORN GUARD",
@@ -105451,6 +105491,30 @@
     "titleId": "PPSA24582_00",
     "conceptId": 10007897,
     "name": "Until Dawn\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24589_00",
+    "conceptId": 10000184,
+    "name": "Biped",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24590_00",
+    "conceptId": 10000494,
+    "name": "Biped",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24591_00",
+    "conceptId": 10000494,
+    "name": "Biped",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -108370,18 +108434,18 @@
   {
     "titleId": "PPSA25346_00",
     "conceptId": 10012147,
-    "name": "Road Maintenance Simulator 2 + Winter Services",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Road Maintenance Simulator 2 - Winter Services",
+    "contentId": "EP2865-PPSA25346_00-0794863983990280",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA25347_00",
     "conceptId": 10012147,
-    "name": "Road Maintenance Simulator 2 + Winter Services",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Road Maintenance Simulator 2 - Winter Services",
+    "contentId": "EP2865-PPSA25347_00-0324545088411246",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA25354_00",
@@ -108616,6 +108680,14 @@
     "publisherId": "EP6138"
   },
   {
+    "titleId": "PPSA25437_00",
+    "conceptId": 10012207,
+    "name": "Pets & Stuff",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25438_00",
     "conceptId": 10012211,
     "name": "Jankenup!",
@@ -108806,6 +108878,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA25522_00",
+    "conceptId": 10012257,
+    "name": "MASTERS OF LIGHT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25526_00",
@@ -109968,6 +110048,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA25836_00",
+    "conceptId": 10009628,
+    "name": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30fb\u30d6\u30ec\u30a4\u30d6 \u5e7d\u970a\u8239\u56e3\u3068\u6d88\u3048\u305f\u82f1\u96c4 \u4f53\u9a13\u7248",
+    "contentId": "JP0404-PPSA25836_00-PHANTOMBRAVE2001",
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
     "titleId": "PPSA25846_00",
     "conceptId": 10012451,
     "name": "Motocross Ramp Madness",
@@ -110616,6 +110704,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA26065_00",
+    "conceptId": 10012580,
+    "name": "Mia and me \u2013 Magic Friends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26080_00",
     "conceptId": 10012260,
     "name": "Bpop Attack",
@@ -111216,12 +111312,20 @@
     "publisherId": "UP7552"
   },
   {
-    "titleId": "PPSA26333_00",
-    "conceptId": 10012763,
-    "name": "Among Ashes",
+    "titleId": "PPSA26330_00",
+    "conceptId": 10012510,
+    "name": "Farewell North",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA26333_00",
+    "conceptId": 10012763,
+    "name": "Among Ashes",
+    "contentId": "EB1062-PPSA26333_00-0537498887254023",
+    "region": "EB",
+    "publisherId": "EB1062"
   },
   {
     "titleId": "PPSA26338_00",
@@ -111379,9 +111483,9 @@
     "titleId": "PPSA26427_00",
     "conceptId": 10012831,
     "name": "HOW TO: SUPERHERO!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8062-PPSA26427_00-0241824007704745",
+    "region": "EP",
+    "publisherId": "EP8062"
   },
   {
     "titleId": "PPSA26442_00",
@@ -111444,6 +111548,70 @@
     "conceptId": 10012842,
     "name": "Clutter Puzzle Magazine: Vol. 15 - #1 Collector's Edition",
     "contentId": "EP1411-PPSA26451_00-0309356978112621",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26452_00",
+    "conceptId": 10012843,
+    "name": "Finding America: New England Collector's Edition",
+    "contentId": "EP1411-PPSA26452_00-0247096220820644",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26453_00",
+    "conceptId": 10012843,
+    "name": "Finding America: New England Collector's Edition",
+    "contentId": "EP1411-PPSA26453_00-0887380836219350",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26454_00",
+    "conceptId": 10012843,
+    "name": "Finding America: New England Collector's Edition",
+    "contentId": "EP1411-PPSA26454_00-0065918116962102",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26455_00",
+    "conceptId": 10012843,
+    "name": "Finding America: New England Collector's Edition",
+    "contentId": "EP1411-PPSA26455_00-0783555894036707",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26456_00",
+    "conceptId": 10012844,
+    "name": "Amazing Weekend - Search and Relax Collector's Edition",
+    "contentId": "EP1411-PPSA26456_00-0790286023567994",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26457_00",
+    "conceptId": 10012844,
+    "name": "Amazing Weekend - Search and Relax Collector's Edition",
+    "contentId": "EP1411-PPSA26457_00-0410102237904620",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26458_00",
+    "conceptId": 10012844,
+    "name": "Amazing Weekend - Search and Relax Collector's Edition",
+    "contentId": "EP1411-PPSA26458_00-0661602825864078",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26459_00",
+    "conceptId": 10012844,
+    "name": "Amazing Weekend - Search and Relax Collector's Edition",
+    "contentId": "EP1411-PPSA26459_00-0796836114358861",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -112008,6 +112176,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26919_00",
+    "conceptId": 10013101,
+    "name": "Anime Girls: Sun of a Beach",
+    "contentId": "UB1029-PPSA26919_00-0480610421274850",
+    "region": "UB",
+    "publisherId": "UB1029"
+  },
+  {
     "titleId": "PPSA26924_00",
     "conceptId": 10013106,
     "name": "The Legend of Cyber Cowboy",
@@ -112075,6 +112251,22 @@
     "titleId": "PPSA27069_00",
     "conceptId": 10012277,
     "name": "DETECTIVE - The Motel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27075_00",
+    "conceptId": 10013061,
+    "name": "Card Guesser: Red or Black",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27077_00",
+    "conceptId": 10013061,
+    "name": "Card Guesser: Red or Black",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -112240,6 +112432,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27194_00",
+    "conceptId": 10013054,
+    "name": "A Bibelot: Y-Type",
+    "contentId": "JB0847-PPSA27194_00-0037609476956666",
+    "region": "JB",
+    "publisherId": "JB0847"
+  },
+  {
+    "titleId": "PPSA27195_00",
+    "conceptId": 10013054,
+    "name": "A Bibelot: Y-Type",
+    "contentId": "HB0876-PPSA27195_00-0415904869250383",
+    "region": "HB",
+    "publisherId": "HB0876"
+  },
+  {
     "titleId": "PPSA27203_00",
     "conceptId": 10013305,
     "name": "On The Stairs",
@@ -112382,5 +112590,21 @@
     "contentId": "EB0805-PPSA27385_00-0532121554615157",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA27416_00",
+    "conceptId": 10013407,
+    "name": "Memory Holder: Animal Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27417_00",
+    "conceptId": 10013407,
+    "name": "Memory Holder: Animal Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
