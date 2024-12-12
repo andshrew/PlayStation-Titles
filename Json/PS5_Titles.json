@@ -23216,6 +23216,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA06082_00",
+    "conceptId": 10003641,
+    "name": "Totally Accurate Battle Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06084_00",
     "conceptId": 10000602,
     "name": "Superliminal",
@@ -44930,10 +44938,10 @@
   {
     "titleId": "PPSA09904_00",
     "conceptId": 10004944,
-    "name": "NAIAD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Naiad",
+    "contentId": "UP7576-PPSA09904_00-6236249596420038",
+    "region": "UP",
+    "publisherId": "UP7576"
   },
   {
     "titleId": "PPSA09907_00",
@@ -71912,6 +71920,14 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA16711_00",
+    "conceptId": 10008484,
+    "name": "Universe For Sale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16716_00",
     "conceptId": 10008485,
     "name": "The Smurfs 2: The Prisoner of the Green Stone",
@@ -78211,7 +78227,7 @@
     "titleId": "PPSA18152_00",
     "conceptId": 10009063,
     "name": "Legacy of Kain\u2122 Soul Reaver 1&2 Remastered",
-    "contentId": null,
+    "contentId": "EP1875-PPSA18152_00-SOULREAVER120824",
     "region": "EP",
     "publisherId": "EP1875"
   },
@@ -79755,7 +79771,7 @@
     "titleId": "PPSA18528_00",
     "conceptId": 10009198,
     "name": "Mighty Morphin Power Rangers: Rita's Rewind",
-    "contentId": null,
+    "contentId": "UP7818-PPSA18528_00-GOGOPOWERRANGERS",
     "region": "UP",
     "publisherId": "UP7818"
   },
@@ -79763,7 +79779,7 @@
     "titleId": "PPSA18529_00",
     "conceptId": 10009198,
     "name": "Mighty Morphin Power Rangers: Rita's Rewind",
-    "contentId": null,
+    "contentId": "EP7816-PPSA18529_00-GOGOPOWERRANGERS",
     "region": "EP",
     "publisherId": "EP7816"
   },
@@ -91156,8 +91172,8 @@
     "conceptId": 10009628,
     "name": "Phantom Brave: The Lost Hero",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA21030_00",
@@ -94742,6 +94758,14 @@
     "contentId": "HP2005-PPSA21911_00-SWORDFAIRYINN200",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA21912_00",
+    "conceptId": 10004039,
+    "name": "HAJWALA 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21914_00",
@@ -99968,6 +99992,14 @@
     "publisherId": "JB0377"
   },
   {
+    "titleId": "PPSA23259_00",
+    "conceptId": 10008102,
+    "name": "Warhammer 40,000: Rogue Trader - Digital Artbook & Original Soundtrack",
+    "contentId": "EP6646-PPSA23259_00-ARTBOOKSOUNDTRAC",
+    "region": "EP",
+    "publisherId": "EP6646"
+  },
+  {
     "titleId": "PPSA23260_00",
     "conceptId": 10010643,
     "name": "Cazzarion: Space Ace",
@@ -101811,9 +101843,9 @@
     "titleId": "PPSA23713_00",
     "conceptId": 10011331,
     "name": "Chess Infinity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4337-PPSA23713_00-CHESSINFINITY000",
+    "region": "EP",
+    "publisherId": "EP4337"
   },
   {
     "titleId": "PPSA23715_00",
@@ -102346,10 +102378,10 @@
   {
     "titleId": "PPSA23845_00",
     "conceptId": 10011420,
-    "name": "AZURA'S CRYSTALS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Azura's Crystals",
+    "contentId": "HP6885-PPSA23845_00-0750649791276765",
+    "region": "HP",
+    "publisherId": "HP6885"
   },
   {
     "titleId": "PPSA23846_00",
@@ -103330,16 +103362,16 @@
   {
     "titleId": "PPSA24060_00",
     "conceptId": 10011532,
-    "name": "FAIRY TAIL\uff12 (PS4 & PS5)",
-    "contentId": null,
+    "name": "FAIRY TAIL\uff12",
+    "contentId": "JP0106-PPSA24060_00-APPFT20000000000",
     "region": "JP",
     "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA24061_00",
     "conceptId": 10011532,
-    "name": "FAIRY TAIL 2 (PS4 & PS5)",
-    "contentId": null,
+    "name": "FAIRY TAIL 2",
+    "contentId": "HP0106-PPSA24061_00-APPFT20000000000",
     "region": "HP",
     "publisherId": "HP0106"
   },
@@ -106842,10 +106874,10 @@
   {
     "titleId": "PPSA24904_00",
     "conceptId": 10004816,
-    "name": "SYNDUALITY: Echo of Ada",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SYNDUALITY Echo of Ada (NT)",
+    "contentId": "UP0700-PPSA24904_00-SYNDUALITYNWTEST",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA24905_00",
@@ -108362,8 +108394,8 @@
   {
     "titleId": "PPSA25317_00",
     "conceptId": 10002309,
-    "name": "Besiege - \u30d3\u30b7\u30fc\u30b8 -",
-    "contentId": null,
+    "name": "Besiege",
+    "contentId": "JP0122-PPSA25317_00-0749601018471028",
     "region": "JP",
     "publisherId": "JP0122"
   },
@@ -108728,6 +108760,22 @@
     "publisherId": "EP3945"
   },
   {
+    "titleId": "PPSA25418_00",
+    "conceptId": 203897,
+    "name": "Tom Clancy's Rainbow Six\u00ae Siege",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25419_00",
+    "conceptId": 203897,
+    "name": "Tom Clancy's Rainbow Six\u00ae Siege",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25420_00",
     "conceptId": 203897,
     "name": "Tom Clancy's Rainbow Six\u00ae Siege",
@@ -108806,6 +108854,30 @@
     "contentId": "JP0404-PPSA25442_00-PB1FULLGAME00000",
     "region": "JP",
     "publisherId": "JP0404"
+  },
+  {
+    "titleId": "PPSA25448_00",
+    "conceptId": 10004690,
+    "name": "Radioactive Dwarfs: Evil From the Sewers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25450_00",
+    "conceptId": 10004690,
+    "name": "Radioactive Dwarfs: Evil From the Sewers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25451_00",
+    "conceptId": 10004690,
+    "name": "Radioactive Dwarfs: Evil From the Sewers",
+    "contentId": "JP7843-PPSA25451_00-0425753802300590",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA25457_00",
@@ -110152,6 +110224,14 @@
     "publisherId": "JP0404"
   },
   {
+    "titleId": "PPSA25845_00",
+    "conceptId": 10012450,
+    "name": "Popotinho's Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25846_00",
     "conceptId": 10012451,
     "name": "Motocross Ramp Madness",
@@ -111035,9 +111115,9 @@
     "titleId": "PPSA26186_00",
     "conceptId": 10012668,
     "name": "Tri Breaker: A Sacred Symbols Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4836-PPSA26186_00-0501263289609703",
+    "region": "UP",
+    "publisherId": "UP4836"
   },
   {
     "titleId": "PPSA26195_00",
@@ -111051,9 +111131,9 @@
     "titleId": "PPSA26196_00",
     "conceptId": 10012673,
     "name": "Hidden Cats in Santa's Realm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA26196_00-0553715458494586",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA26198_00",
@@ -111312,6 +111392,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA26265_00",
+    "conceptId": 10012720,
+    "name": "Cazzarion: Drone Attack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26267_00",
     "conceptId": 10012724,
     "name": "Waifu Impact 2",
@@ -111411,9 +111499,9 @@
     "titleId": "PPSA26330_00",
     "conceptId": 10012510,
     "name": "Farewell North",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2945-PPSA26330_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP2945"
   },
   {
     "titleId": "PPSA26333_00",
@@ -111960,6 +112048,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26585_00",
+    "conceptId": 10010375,
+    "name": "ASTROSMASH",
+    "contentId": "EP7357-PPSA26585_00-0410671935169018",
+    "region": "EP",
+    "publisherId": "EP7357"
+  },
+  {
     "titleId": "PPSA26586_00",
     "conceptId": 10010375,
     "name": "ASTROSMASH",
@@ -111982,6 +112078,14 @@
     "contentId": "EP4476-PPSA26589_00-0136487469917017",
     "region": "EP",
     "publisherId": "EP4476"
+  },
+  {
+    "titleId": "PPSA26590_00",
+    "conceptId": 10011869,
+    "name": "The Last Zone",
+    "contentId": "UP2136-PPSA26590_00-0149513153764942",
+    "region": "UP",
+    "publisherId": "UP2136"
   },
   {
     "titleId": "PPSA26591_00",
@@ -112304,6 +112408,14 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA26878_00",
+    "conceptId": 228786,
+    "name": "3D MiniGolf - Makeover-Edition",
+    "contentId": "EP1629-PPSA26878_00-3DMINIGOLFMOE5EU",
+    "region": "EP",
+    "publisherId": "EP1629"
+  },
+  {
     "titleId": "PPSA26914_00",
     "conceptId": 10013100,
     "name": "Cazzarion: UFO Kidnapping",
@@ -112347,6 +112459,30 @@
     "titleId": "PPSA26928_00",
     "conceptId": 10013110,
     "name": "Infernitos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26931_00",
+    "conceptId": 10013111,
+    "name": "Sokomonster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26932_00",
+    "conceptId": 10013111,
+    "name": "Sokomonster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26933_00",
+    "conceptId": 10013111,
+    "name": "Sokomonster",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -112403,25 +112539,33 @@
     "titleId": "PPSA27075_00",
     "conceptId": 10013061,
     "name": "Card Guesser: Red or Black",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA27075_00-CGRB5NA000000000",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA27076_00",
     "conceptId": 10013061,
     "name": "Card Guesser: Red or Black",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA27076_00-CGRB5EU000000000",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA27077_00",
     "conceptId": 10013061,
     "name": "Card Guesser: Red or Black",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA27077_00-CGRB5JP000000000",
+    "region": "UB",
+    "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA27078_00",
+    "conceptId": 10013061,
+    "name": "Card Guesser: Red or Black",
+    "contentId": "UB1022-PPSA27078_00-CGRB5AS000000000",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA27086_00",
@@ -112555,9 +112699,9 @@
     "titleId": "PPSA27150_00",
     "conceptId": 10013256,
     "name": "Super Waifu Ball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA27150_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA27151_00",
@@ -112675,6 +112819,22 @@
     "titleId": "PPSA27352_00",
     "conceptId": 10013377,
     "name": "Ghoulie\u2019s Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27361_00",
+    "conceptId": 10013380,
+    "name": "Fortnite Ballistic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27362_00",
+    "conceptId": 10013380,
+    "name": "Fortnite Ballistic",
     "contentId": null,
     "region": null,
     "publisherId": null
