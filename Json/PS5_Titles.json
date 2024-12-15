@@ -84915,9 +84915,9 @@
     "titleId": "PPSA19667_00",
     "conceptId": 225004,
     "name": "Xuan Yuan Sword: The Gate of Firmament",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP2005-PPSA19667_00-XYSGATEFIRMAMENT",
+    "region": "HP",
+    "publisherId": "HP2005"
   },
   {
     "titleId": "PPSA19668_00",
@@ -84931,9 +84931,9 @@
     "titleId": "PPSA19669_00",
     "conceptId": 225004,
     "name": "Xuan Yuan Sword: The Gate of Firmament",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA19669_00-XYSGATEFIRMAMENT",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA19673_00",
@@ -90243,9 +90243,9 @@
     "titleId": "PPSA20809_00",
     "conceptId": 10010097,
     "name": "Sakura Melody",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA20809_00-SAKURAMELODY0000",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA20810_00",
@@ -94762,10 +94762,10 @@
   {
     "titleId": "PPSA21912_00",
     "conceptId": 10004039,
-    "name": "HAJWALA 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hajwala 2",
+    "contentId": "EP3334-PPSA21912_00-0938568733995969",
+    "region": "EP",
+    "publisherId": "EP3334"
   },
   {
     "titleId": "PPSA21914_00",
@@ -111480,6 +111480,38 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA26269_00",
+    "conceptId": 10012726,
+    "name": "Combat The Space",
+    "contentId": "UB0701-PPSA26269_00-0239750798409310",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
+    "titleId": "PPSA26270_00",
+    "conceptId": 10012726,
+    "name": "Combat The Space",
+    "contentId": "UB0701-PPSA26270_00-0032997510946761",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
+    "titleId": "PPSA26271_00",
+    "conceptId": 10012726,
+    "name": "Combat The Space",
+    "contentId": "UB0701-PPSA26271_00-0478418349855388",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
+    "titleId": "PPSA26272_00",
+    "conceptId": 10012726,
+    "name": "Combat The Space",
+    "contentId": "UB0701-PPSA26272_00-0883793638628480",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
     "titleId": "PPSA26273_00",
     "conceptId": 10012727,
     "name": "A Maze Against Time",
@@ -111550,6 +111582,22 @@
     "contentId": "UB1022-PPSA26319_00-MATHGENIUSADDAS0",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA26320_00",
+    "conceptId": 10012750,
+    "name": "Portal Balls",
+    "contentId": "UP7668-PPSA26320_00-0930339327339601",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26321_00",
+    "conceptId": 10012750,
+    "name": "Portal Balls",
+    "contentId": "UP7668-PPSA26321_00-0493927061936839",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA26327_00",
@@ -112690,7 +112738,39 @@
   {
     "titleId": "PPSA27079_00",
     "conceptId": 10013169,
-    "name": "Subside",
+    "name": "Subside_Demo",
+    "contentId": "HB1351-PPSA27079_00-0854624722776379",
+    "region": "HB",
+    "publisherId": "HB1351"
+  },
+  {
+    "titleId": "PPSA27082_00",
+    "conceptId": 10013224,
+    "name": "Mini Crawler",
+    "contentId": "UP8553-PPSA27082_00-0446844783523105",
+    "region": "UP",
+    "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA27083_00",
+    "conceptId": 10013224,
+    "name": "Mini Crawler",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27084_00",
+    "conceptId": 10013224,
+    "name": "Mini Crawler",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27085_00",
+    "conceptId": 10013224,
+    "name": "Mini Crawler",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -112819,6 +112899,38 @@
     "titleId": "PPSA27141_00",
     "conceptId": 10013252,
     "name": "Vaulting Champions",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27146_00",
+    "conceptId": 10013254,
+    "name": "Save The Doge 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27147_00",
+    "conceptId": 10013254,
+    "name": "Save The Doge 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27148_00",
+    "conceptId": 10013254,
+    "name": "Save The Doge 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27149_00",
+    "conceptId": 10013254,
+    "name": "Save The Doge 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -113056,6 +113168,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27535_00",
+    "conceptId": 10013465,
+    "name": "Boomerang Of Destruction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27536_00",
+    "conceptId": 10013465,
+    "name": "Boomerang Of Destruction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27537_00",
+    "conceptId": 10013465,
+    "name": "Boomerang Of Destruction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27538_00",
+    "conceptId": 10013465,
+    "name": "Boomerang Of Destruction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27539_00",
     "conceptId": 10013466,
     "name": "Snails vs Humans",
@@ -113073,6 +113217,14 @@
   },
   {
     "titleId": "PPSA27541_00",
+    "conceptId": 10013466,
+    "name": "Snails vs Humans",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27542_00",
     "conceptId": 10013466,
     "name": "Snails vs Humans",
     "contentId": null,
