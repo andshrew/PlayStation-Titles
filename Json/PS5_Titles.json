@@ -3376,6 +3376,14 @@
     "publisherId": "JP0404"
   },
   {
+    "titleId": "PPSA02166_00",
+    "conceptId": 10001710,
+    "name": "BLEACH Rebirth of Souls PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA02167_00",
     "conceptId": 10001710,
     "name": "BLEACH Rebirth of Souls PS4 & PS5",
@@ -10614,6 +10622,14 @@
     "contentId": "EP3111-PPSA03638_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA03639_00",
+    "conceptId": 10001710,
+    "name": "BLEACH Rebirth of Souls PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA03641_00",
@@ -86040,6 +86056,14 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA19925_00",
+    "conceptId": 10009718,
+    "name": "Demeo Battles VR",
+    "contentId": "UP5430-PPSA19925_00-DEMEOXBATTLESXUS",
+    "region": "UP",
+    "publisherId": "UP5430"
+  },
+  {
     "titleId": "PPSA19927_00",
     "conceptId": 10009664,
     "name": "Prison Boss VR Demo",
@@ -99832,6 +99856,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA23221_00",
+    "conceptId": 10011083,
+    "name": "FREEDOM WARS Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23226_00",
     "conceptId": 10007144,
     "name": "Black Myth: Wukong",
@@ -105667,9 +105699,9 @@
     "titleId": "PPSA24589_00",
     "conceptId": 10000184,
     "name": "Biped",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5985-PPSA24589_00-0093782924192274",
+    "region": "HP",
+    "publisherId": "HP5985"
   },
   {
     "titleId": "PPSA24590_00",
@@ -105683,9 +105715,9 @@
     "titleId": "PPSA24591_00",
     "conceptId": 10000494,
     "name": "Biped",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6008-PPSA24591_00-0184863662672381",
+    "region": "EP",
+    "publisherId": "EP6008"
   },
   {
     "titleId": "PPSA24592_00",
@@ -106126,6 +106158,14 @@
     "contentId": "EP3446-PPSA24714_00-0613728359869483",
     "region": "EP",
     "publisherId": "EP3446"
+  },
+  {
+    "titleId": "PPSA24716_00",
+    "conceptId": 10011868,
+    "name": "Witch It",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24725_00",
@@ -108923,9 +108963,9 @@
     "titleId": "PPSA25443_00",
     "conceptId": 10009718,
     "name": "Demeo Battles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5430-PPSA25443_00-0784485994880593",
+    "region": "UP",
+    "publisherId": "UP5430"
   },
   {
     "titleId": "PPSA25448_00",
@@ -109286,6 +109326,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA25547_00",
+    "conceptId": 10012259,
+    "name": "Germanfest",
+    "contentId": "EP4312-PPSA25547_00-0325950085833528",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA25548_00",
+    "conceptId": 10012259,
+    "name": "Germanfest",
+    "contentId": "UP4312-PPSA25548_00-0666673129563764",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA25551_00",
@@ -110603,9 +110659,9 @@
     "titleId": "PPSA25948_00",
     "conceptId": 10012513,
     "name": "Snufkin: Melody of Moominvalley",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2320-PPSA25948_00-0000000000001SMV",
+    "region": "UP",
+    "publisherId": "UP2320"
   },
   {
     "titleId": "PPSA25955_00",
@@ -111744,6 +111800,14 @@
     "publisherId": "EB1338"
   },
   {
+    "titleId": "PPSA26401_00",
+    "conceptId": 10012511,
+    "name": "The Eerie Surroundings",
+    "contentId": "EB1338-PPSA26401_00-THEEERIESURROUND",
+    "region": "EB",
+    "publisherId": "EB1338"
+  },
+  {
     "titleId": "PPSA26406_00",
     "conceptId": 10012819,
     "name": "Math Genius: Multiplication",
@@ -111830,6 +111894,14 @@
     "contentId": "EP8062-PPSA26427_00-0241824007704745",
     "region": "EP",
     "publisherId": "EP8062"
+  },
+  {
+    "titleId": "PPSA26440_00",
+    "conceptId": 10012835,
+    "name": "Cypress Legacy",
+    "contentId": null,
+    "region": "UB",
+    "publisherId": "UB0169"
   },
   {
     "titleId": "PPSA26442_00",
@@ -112288,6 +112360,38 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA26660_00",
+    "conceptId": 10012989,
+    "name": "Fool's Pub PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26661_00",
+    "conceptId": 10012989,
+    "name": "Fool's Pub PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26662_00",
+    "conceptId": 10012989,
+    "name": "Fool's Pub PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26663_00",
+    "conceptId": 10012989,
+    "name": "Fool's Pub PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26684_00",
     "conceptId": 10012999,
     "name": "Crowd Run",
@@ -112608,6 +112712,22 @@
     "publisherId": "EP1629"
   },
   {
+    "titleId": "PPSA26889_00",
+    "conceptId": 10010526,
+    "name": "FANTASIAN Neo Dimension DEMO",
+    "contentId": "EP0082-PPSA26889_00-0249104790374946",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA26890_00",
+    "conceptId": 10010526,
+    "name": "FANTASIAN Neo Dimension DEMO",
+    "contentId": "UP0082-PPSA26890_00-0250750572673043",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA26914_00",
     "conceptId": 10013100,
     "name": "Cazzarion: UFO Kidnapping",
@@ -112635,6 +112755,14 @@
     "titleId": "PPSA26924_00",
     "conceptId": 10013106,
     "name": "The Legend of Cyber Cowboy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26926_00",
+    "conceptId": 10013110,
+    "name": "Infernitos",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -113112,6 +113240,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27347_00",
+    "conceptId": 10007652,
+    "name": "Empire of the Ants Demo",
+    "contentId": "EP4295-PPSA27347_00-EOADEMOPS50000WW",
+    "region": "EP",
+    "publisherId": "EP4295"
+  },
+  {
     "titleId": "PPSA27352_00",
     "conceptId": 10013377,
     "name": "Ghoulie\u2019s Garden",
@@ -113203,17 +113339,17 @@
     "titleId": "PPSA27416_00",
     "conceptId": 10013407,
     "name": "Memory Holder: Animal Kingdom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA27416_00-0329429010726763",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA27417_00",
     "conceptId": 10013407,
     "name": "Memory Holder: Animal Kingdom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA27417_00-0973909808690625",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA27418_00",
