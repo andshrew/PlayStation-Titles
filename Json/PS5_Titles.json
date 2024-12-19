@@ -62914,8 +62914,8 @@
   {
     "titleId": "PPSA14419_00",
     "conceptId": 10007641,
-    "name": "Flint: Treasure of Oblivion",
-    "contentId": null,
+    "name": "Flint",
+    "contentId": "EP4295-PPSA14419_00-FLINT00000000000",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -94832,6 +94832,14 @@
     "publisherId": "UP8787"
   },
   {
+    "titleId": "PPSA21920_00",
+    "conceptId": 10010539,
+    "name": "Project Tower",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21925_00",
     "conceptId": 10009617,
     "name": "Monarchy",
@@ -100664,6 +100672,22 @@
     "publisherId": "UB0615"
   },
   {
+    "titleId": "PPSA23421_00",
+    "conceptId": 10010335,
+    "name": "7 Days Heroes",
+    "contentId": "JP1134-PPSA23421_00-0320271308669982",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
+    "titleId": "PPSA23422_00",
+    "conceptId": 10010335,
+    "name": "7 Days Heroes",
+    "contentId": "HP0980-PPSA23422_00-0627527621777443",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA23423_00",
     "conceptId": 10011184,
     "name": "Death Noodle Delivery",
@@ -104176,6 +104200,14 @@
     "publisherId": "UP7578"
   },
   {
+    "titleId": "PPSA24226_00",
+    "conceptId": 10011614,
+    "name": "Jaden & Jasmine: The Curse of Deception",
+    "contentId": "UB1005-PPSA24226_00-0222541350798742",
+    "region": "UB",
+    "publisherId": "UB1005"
+  },
+  {
     "titleId": "PPSA24234_00",
     "conceptId": 224923,
     "name": "\u30ec\u30a4\u30b8\u30f3\u30b0\u30eb\u30fc\u30d7",
@@ -105707,9 +105739,9 @@
     "titleId": "PPSA24590_00",
     "conceptId": 10000494,
     "name": "Biped",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6007-PPSA24590_00-0607604799725823",
+    "region": "UP",
+    "publisherId": "UP6007"
   },
   {
     "titleId": "PPSA24591_00",
@@ -106163,9 +106195,9 @@
     "titleId": "PPSA24716_00",
     "conceptId": 10011868,
     "name": "Witch It",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8748-PPSA24716_00-0175916715437740",
+    "region": "UP",
+    "publisherId": "UP8748"
   },
   {
     "titleId": "PPSA24725_00",
@@ -109170,10 +109202,10 @@
   {
     "titleId": "PPSA25522_00",
     "conceptId": 10012257,
-    "name": "MASTERS OF LIGHT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Masters of Light",
+    "contentId": "UP8757-PPSA25522_00-0415161640741725",
+    "region": "UP",
+    "publisherId": "UP8757"
   },
   {
     "titleId": "PPSA25526_00",
@@ -110227,9 +110259,9 @@
     "titleId": "PPSA25793_00",
     "conceptId": 10011826,
     "name": "Gimmick! 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0202-PPSA25793_00-0954692299285728",
+    "region": "JP",
+    "publisherId": "JP0202"
   },
   {
     "titleId": "PPSA25794_00",
@@ -111344,6 +111376,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA26204_00",
+    "conceptId": 10012678,
+    "name": "Save Christmas With Santa",
+    "contentId": "UP7668-PPSA26204_00-0185454957225652",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26206_00",
     "conceptId": 10012384,
     "name": "Math Genius: Addition Edition",
@@ -112171,9 +112211,9 @@
     "titleId": "PPSA26522_00",
     "conceptId": 10012890,
     "name": "Winter Games Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3945-PPSA26522_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3945"
   },
   {
     "titleId": "PPSA26534_00",
@@ -112336,6 +112376,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA26602_00",
+    "conceptId": 232909,
+    "name": "Asdivine Hearts II",
+    "contentId": "UP2500-PPSA26602_00-US0AHEARTS200PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA26604_00",
     "conceptId": 232673,
     "name": "\u30ec\u30f4\u30ca\u30f3\u30c8\u30c9\u30b0\u30de",
@@ -112358,6 +112406,22 @@
     "contentId": "JP0013-PPSA26610_00-JP0ALVASTIA00PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA26611_00",
+    "conceptId": 232912,
+    "name": "Alvastia Chronicles",
+    "contentId": "UP2500-PPSA26611_00-US0ALVASTIA00PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA26612_00",
+    "conceptId": 232912,
+    "name": "Alvastia Chronicles",
+    "contentId": "EP2363-PPSA26612_00-EU0ALVASTIA00PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA26660_00",
@@ -112728,6 +112792,14 @@
     "publisherId": "UP0082"
   },
   {
+    "titleId": "PPSA26907_00",
+    "conceptId": 10010199,
+    "name": "Professor Doctor Jetpack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26914_00",
     "conceptId": 10013100,
     "name": "Cazzarion: UFO Kidnapping",
@@ -112763,25 +112835,33 @@
     "titleId": "PPSA26926_00",
     "conceptId": 10013110,
     "name": "Infernitos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA26926_00-0378931053324541",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA26927_00",
     "conceptId": 10013110,
     "name": "Infernitos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA26927_00-0138943723981027",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA26928_00",
     "conceptId": 10013110,
     "name": "Infernitos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA26928_00-0892121528579025",
+    "region": "JP",
+    "publisherId": "JP8416"
+  },
+  {
+    "titleId": "PPSA26929_00",
+    "conceptId": 10013110,
+    "name": "Infernitos",
+    "contentId": "HP8462-PPSA26929_00-0429739538485734",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA26930_00",
@@ -112854,6 +112934,38 @@
     "contentId": "UP7552-PPSA26976_00-0451690343426693",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA26987_00",
+    "conceptId": 10012096,
+    "name": "To the Moon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26988_00",
+    "conceptId": 10012096,
+    "name": "To the Moon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26989_00",
+    "conceptId": 10012096,
+    "name": "To the Moon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26990_00",
+    "conceptId": 10012096,
+    "name": "To the Moon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27025_00",
@@ -113168,6 +113280,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA27201_00",
+    "conceptId": 10013303,
+    "name": "Runny Bunny",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27203_00",
     "conceptId": 10013305,
     "name": "On The Stairs",
@@ -113432,6 +113552,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27554_00",
+    "conceptId": 10013477,
+    "name": "Aquarun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27555_00",
+    "conceptId": 10013477,
+    "name": "Aquarun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27568_00",
     "conceptId": 10013488,
     "name": "The Golden Eagle",
@@ -113451,6 +113587,38 @@
     "titleId": "PPSA27588_00",
     "conceptId": 10013509,
     "name": "Dragons vs. Balloons TD",
+    "contentId": "UB0111-PPSA27588_00-0545378089056816",
+    "region": "UB",
+    "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA27591_00",
+    "conceptId": 10013514,
+    "name": "Sokocrab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27592_00",
+    "conceptId": 10013514,
+    "name": "Sokocrab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27593_00",
+    "conceptId": 10013514,
+    "name": "Sokocrab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27594_00",
+    "conceptId": 10013514,
+    "name": "Sokocrab",
     "contentId": null,
     "region": null,
     "publisherId": null
