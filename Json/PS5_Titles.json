@@ -22488,6 +22488,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA05957_00",
+    "conceptId": 10001540,
+    "name": "Lone Wolf",
+    "contentId": "UP0527-PPSA05957_00-LONEWOLF00000000",
+    "region": "UP",
+    "publisherId": "UP0527"
+  },
+  {
     "titleId": "PPSA05961_00",
     "conceptId": 10003761,
     "name": "Firewall Ultra",
@@ -52595,9 +52603,9 @@
     "titleId": "PPSA11170_00",
     "conceptId": 10002444,
     "name": "Sociable Soccer 25",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4333-PPSA11170_00-7483863435045168",
+    "region": "EP",
+    "publisherId": "EP4333"
   },
   {
     "titleId": "PPSA11173_00",
@@ -65944,6 +65952,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA15528_00",
+    "conceptId": 10007732,
+    "name": "Ambulance Life: A Paramedic Simulator",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA15530_00",
     "conceptId": 10008040,
     "name": "Dead End City",
@@ -71938,10 +71954,10 @@
   {
     "titleId": "PPSA16711_00",
     "conceptId": 10008484,
-    "name": "Universe For Sale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Universe for Sale",
+    "contentId": "UP3385-PPSA16711_00-0789208744064172",
+    "region": "UP",
+    "publisherId": "UP3385"
   },
   {
     "titleId": "PPSA16716_00",
@@ -95840,6 +95856,22 @@
     "publisherId": "JP1091"
   },
   {
+    "titleId": "PPSA22167_00",
+    "conceptId": 10009737,
+    "name": "Tales of Graces\u2122f Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22168_00",
+    "conceptId": 10009737,
+    "name": "Tales of Graces\u2122f Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22171_00",
     "conceptId": 10010652,
     "name": "Drift Streets Japan",
@@ -96318,6 +96350,14 @@
     "contentId": "EP0082-PPSA22265_00-0844530154487925",
     "region": "EP",
     "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA22266_00",
+    "conceptId": 10010653,
+    "name": "ENDER MAGNOLIA: Bloom in the Mist",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP6421"
   },
   {
     "titleId": "PPSA22267_00",
@@ -100416,6 +100456,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA23363_00",
+    "conceptId": 10011147,
+    "name": "Venture to the Vile",
+    "contentId": "JP3372-PPSA23363_00-VENTUREVILEJPPS5",
+    "region": "JP",
+    "publisherId": "JP3372"
+  },
+  {
     "titleId": "PPSA23364_00",
     "conceptId": 10011130,
     "name": "Train Sim World 5",
@@ -104472,6 +104520,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA24301_00",
+    "conceptId": 10011642,
+    "name": "Mineral",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24304_00",
     "conceptId": 224923,
     "name": "Raging Loop",
@@ -105336,12 +105392,36 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA24471_00",
+    "conceptId": 10011147,
+    "name": "Venture to the Vile",
+    "contentId": "JP3372-PPSA24471_00-VENTUREVILEJPPS5",
+    "region": "JP",
+    "publisherId": "JP3372"
+  },
+  {
+    "titleId": "PPSA24472_00",
+    "conceptId": 10011147,
+    "name": "Venture to the Vile",
+    "contentId": "JP3372-PPSA24472_00-VENTUREVILEJPPS5",
+    "region": "JP",
+    "publisherId": "JP3372"
+  },
+  {
     "titleId": "PPSA24473_00",
     "conceptId": 10011751,
     "name": "UNDEFEATED",
     "contentId": "JP0211-PPSA24473_00-0495311637987330",
     "region": "JP",
     "publisherId": "JP0211"
+  },
+  {
+    "titleId": "PPSA24475_00",
+    "conceptId": 10011147,
+    "name": "Venture to the Vile",
+    "contentId": "JP3372-PPSA24475_00-VENTUREVILEJPPS5",
+    "region": "JP",
+    "publisherId": "JP3372"
   },
   {
     "titleId": "PPSA24477_00",
@@ -108864,6 +108944,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA25405_00",
+    "conceptId": 10010990,
+    "name": "WolfFang SkullFang Saturn Tribute Boosted PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25411_00",
     "conceptId": 10012191,
     "name": "Venus Vacation PRISM - DEAD OR ALIVE Xtreme -",
@@ -110163,9 +110251,9 @@
     "titleId": "PPSA25773_00",
     "conceptId": 10012410,
     "name": "Leif's Adventure: Netherworld Hero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3945-PPSA25773_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP3945"
   },
   {
     "titleId": "PPSA25774_00",
@@ -111074,10 +111162,42 @@
   {
     "titleId": "PPSA26065_00",
     "conceptId": 10012580,
-    "name": "Mia and me \u2013 Magic Friends",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mia and me - Magic Friends",
+    "contentId": "EP3024-PPSA26065_00-MIAANDMEPS5WORLD",
+    "region": "EP",
+    "publisherId": "EP3024"
+  },
+  {
+    "titleId": "PPSA26070_00",
+    "conceptId": 10012588,
+    "name": "Garten of Banban 7",
+    "contentId": "UP3528-PPSA26070_00-GARTENOFBANBAN07",
+    "region": "UP",
+    "publisherId": "UP3528"
+  },
+  {
+    "titleId": "PPSA26071_00",
+    "conceptId": 10012588,
+    "name": "Garten of Banban 7",
+    "contentId": "EP3385-PPSA26071_00-GARTENOFBANBAN07",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA26072_00",
+    "conceptId": 10012588,
+    "name": "Garten of Banban 7",
+    "contentId": "JP3568-PPSA26072_00-GARTENOFBANBAN07",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
+    "titleId": "PPSA26073_00",
+    "conceptId": 10012588,
+    "name": "Garten of Banban 7",
+    "contentId": "HP3473-PPSA26073_00-GARTENOFBANBAN07",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA26080_00",
@@ -111278,6 +111398,14 @@
     "contentId": "EP1411-PPSA26171_00-0755341842605983",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26176_00",
+    "conceptId": 10002114,
+    "name": "Rhythm of the Gods",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26181_00",
@@ -112384,6 +112512,14 @@
     "publisherId": "UP2500"
   },
   {
+    "titleId": "PPSA26603_00",
+    "conceptId": 232909,
+    "name": "Asdivine Hearts II",
+    "contentId": "EP2363-PPSA26603_00-EU0AHEARTS200PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA26604_00",
     "conceptId": 232673,
     "name": "\u30ec\u30f4\u30ca\u30f3\u30c8\u30c9\u30b0\u30de",
@@ -112426,34 +112562,34 @@
   {
     "titleId": "PPSA26660_00",
     "conceptId": 10012989,
-    "name": "Fool's Pub PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fool's Pub",
+    "contentId": "EB0805-PPSA26660_00-0419788577436399",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26661_00",
     "conceptId": 10012989,
-    "name": "Fool's Pub PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fool's Pub",
+    "contentId": "EB0805-PPSA26661_00-0009242521877605",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26662_00",
     "conceptId": 10012989,
-    "name": "Fool's Pub PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fool's Pub",
+    "contentId": "EB0805-PPSA26662_00-0210453222315428",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26663_00",
     "conceptId": 10012989,
-    "name": "Fool's Pub PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fool's Pub",
+    "contentId": "EB0805-PPSA26663_00-0776652971229834",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26684_00",
@@ -112664,6 +112800,30 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA26819_00",
+    "conceptId": 10004518,
+    "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30d5\u30e9\u30af\u30c1\u30e5\u30a2\u30fc\u30c9 \u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 DEMO",
+    "contentId": "JP0700-PPSA26819_00-SAOFDDEMO0000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA26820_00",
+    "conceptId": 10004518,
+    "name": "SWORD ART ONLINE Fractured Daydream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26821_00",
+    "conceptId": 10004518,
+    "name": "SWORD ART ONLINE Fractured Daydream DEMO",
+    "contentId": "EP0700-PPSA26821_00-SAOFDDEMO0000000",
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA26828_00",
     "conceptId": 10013052,
     "name": "Bunny Mazes",
@@ -112800,6 +112960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26913_00",
+    "conceptId": 10009203,
+    "name": "Slitterhead Demo",
+    "contentId": "JP7494-PPSA26913_00-0682482492988332",
+    "region": "JP",
+    "publisherId": "JP7494"
+  },
+  {
     "titleId": "PPSA26914_00",
     "conceptId": 10013100,
     "name": "Cazzarion: UFO Kidnapping",
@@ -112928,6 +113096,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26970_00",
+    "conceptId": 10013129,
+    "name": "\u30b3\u30f3\u30ad\u30b9\u30bf\u30c9\u30ea\u30aa",
+    "contentId": "UB0837-PPSA26970_00-0937544169312195",
+    "region": "UB",
+    "publisherId": "UB0837"
+  },
+  {
     "titleId": "PPSA26976_00",
     "conceptId": 10013138,
     "name": "Monkey Kong In New-York",
@@ -112936,12 +113112,20 @@
     "publisherId": "UP7552"
   },
   {
-    "titleId": "PPSA26987_00",
-    "conceptId": 10012096,
-    "name": "To the Moon",
+    "titleId": "PPSA26983_00",
+    "conceptId": 10008444,
+    "name": "Alaskan Road Truckers: Highway Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA26987_00",
+    "conceptId": 10012096,
+    "name": "To the Moon: Sigmund Minisode 1 (Holiday Special)",
+    "contentId": "EP0600-PPSA26987_00-0797860061683985",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA26988_00",
@@ -112954,10 +113138,10 @@
   {
     "titleId": "PPSA26989_00",
     "conceptId": 10012096,
-    "name": "To the Moon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "To the Moon: Sigmund Minisode 1 (Holiday Special)",
+    "contentId": "EP0600-PPSA26989_00-0257209695142922",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA26990_00",
@@ -112971,9 +113155,9 @@
     "titleId": "PPSA27025_00",
     "conceptId": 10013169,
     "name": "Subside",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1351-PPSA27025_00-0880146413321291",
+    "region": "HB",
+    "publisherId": "HB1351"
   },
   {
     "titleId": "PPSA27030_00",
@@ -112986,10 +113170,10 @@
   {
     "titleId": "PPSA27069_00",
     "conceptId": 10012277,
-    "name": "DETECTIVE - The Motel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Detective - The Motel",
+    "contentId": "JP0078-PPSA27069_00-DETECTIVETHEMOTE",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA27075_00",
@@ -113096,6 +113280,14 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA27109_00",
+    "conceptId": 10008444,
+    "name": "Alaskan Road Truckers: Highway Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27113_00",
     "conceptId": 10013217,
     "name": "Rooftop Rascal: The Glitch Cat",
@@ -113163,30 +113355,62 @@
     "titleId": "PPSA27138_00",
     "conceptId": 10013252,
     "name": "Vaulting Champions",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27138_00-0127358288170500",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27139_00",
     "conceptId": 10013252,
     "name": "Vaulting Champions",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27139_00-0211129259308181",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27140_00",
     "conceptId": 10013252,
     "name": "Vaulting Champions",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27140_00-0784287904227828",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27141_00",
     "conceptId": 10013252,
     "name": "Vaulting Champions",
+    "contentId": "EB0805-PPSA27141_00-0985242786830445",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA27142_00",
+    "conceptId": 10013253,
+    "name": "Swarm Madness",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27143_00",
+    "conceptId": 10013253,
+    "name": "Swarm Madness",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27144_00",
+    "conceptId": 10013253,
+    "name": "Swarm Madness",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27145_00",
+    "conceptId": 10013253,
+    "name": "Swarm Madness",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -113326,6 +113550,22 @@
     "contentId": "UP7940-PPSA27211_00-0861772464348440",
     "region": "UP",
     "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA27316_00",
+    "conceptId": 10013355,
+    "name": "Sokorobot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27318_00",
+    "conceptId": 10013355,
+    "name": "Sokorobot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27341_00",
@@ -113488,6 +113728,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA27498_00",
+    "conceptId": 10013436,
+    "name": "Cave Ranger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27535_00",
     "conceptId": 10013465,
     "name": "Boomerang Of Destruction",
@@ -113547,6 +113795,22 @@
     "titleId": "PPSA27542_00",
     "conceptId": 10013466,
     "name": "Snails vs Humans",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27552_00",
+    "conceptId": 10013477,
+    "name": "Aquarun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27553_00",
+    "conceptId": 10013477,
+    "name": "Aquarun",
     "contentId": null,
     "region": null,
     "publisherId": null
