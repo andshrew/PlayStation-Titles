@@ -23235,9 +23235,9 @@
     "titleId": "PPSA06081_00",
     "conceptId": 10003641,
     "name": "Totally Accurate Battle Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3456-PPSA06081_00-7423111174326993",
+    "region": "UP",
+    "publisherId": "UP3456"
   },
   {
     "titleId": "PPSA06082_00",
@@ -74794,8 +74794,8 @@
   {
     "titleId": "PPSA17331_00",
     "conceptId": 10008747,
-    "name": "Starship Troopers: Continuum",
-    "contentId": null,
+    "name": "Starship Troopers Continuum",
+    "contentId": "UP8825-PPSA17331_00-0193753039164316",
     "region": "UP",
     "publisherId": "UP8825"
   },
@@ -99243,9 +99243,9 @@
     "titleId": "PPSA22995_00",
     "conceptId": 10010964,
     "name": "AAA Dynamic Scenes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2402-PPSA22995_00-AAADYNAMICSEUPS5",
+    "region": "EP",
+    "publisherId": "EP2402"
   },
   {
     "titleId": "PPSA22996_00",
@@ -106264,6 +106264,14 @@
     "publisherId": "EP8204"
   },
   {
+    "titleId": "PPSA24711_00",
+    "conceptId": 10006212,
+    "name": "EVOTINCTION Demo",
+    "contentId": "EP3446-PPSA24711_00-0313218651569480",
+    "region": "EP",
+    "publisherId": "EP3446"
+  },
+  {
     "titleId": "PPSA24712_00",
     "conceptId": 10006212,
     "name": "EVOTINCTION Demo",
@@ -110512,6 +110520,30 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA25830_00",
+    "conceptId": 10012442,
+    "name": "Scramble Animal Words",
+    "contentId": "UP7668-PPSA25830_00-0866061962864692",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25831_00",
+    "conceptId": 10012442,
+    "name": "Scramble Animal Words",
+    "contentId": "UP7668-PPSA25831_00-0394160771523164",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25832_00",
+    "conceptId": 10012442,
+    "name": "Scramble Animal Words",
+    "contentId": "UP7668-PPSA25832_00-0314263339931324",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA25836_00",
     "conceptId": 10009628,
     "name": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30fb\u30d6\u30ec\u30a4\u30d6 \u5e7d\u970a\u8239\u56e3\u3068\u6d88\u3048\u305f\u82f1\u96c4 \u4f53\u9a13\u7248",
@@ -111634,10 +111666,10 @@
   {
     "titleId": "PPSA26222_00",
     "conceptId": 10002114,
-    "name": "Rhythm of the Gods",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rhythm Of The Gods",
+    "contentId": "UP4624-PPSA26222_00-0121755674685580",
+    "region": "UP",
+    "publisherId": "UP4624"
   },
   {
     "titleId": "PPSA26234_00",
@@ -112910,6 +112942,38 @@
     "contentId": "HP6691-PPSA26831_00-BUNNYMAZES0PS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA26839_00",
+    "conceptId": 10013057,
+    "name": "Fading Star Melody",
+    "contentId": "UP8281-PPSA26839_00-0955515644589497",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
+    "titleId": "PPSA26840_00",
+    "conceptId": 10013057,
+    "name": "Fading Star Melody",
+    "contentId": "EP8472-PPSA26840_00-0295563257304579",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA26841_00",
+    "conceptId": 10013057,
+    "name": "\u6d88\u3048\u3086\u304f\u661f\u306e\u30e1\u30ed\u30c7\u30a3",
+    "contentId": "JP8187-PPSA26841_00-0669854517850684",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "PPSA26842_00",
+    "conceptId": 10013057,
+    "name": "Fading Star Melody",
+    "contentId": "HP8232-PPSA26842_00-0559122031513937",
+    "region": "HP",
+    "publisherId": "HP8232"
   },
   {
     "titleId": "PPSA26843_00",
