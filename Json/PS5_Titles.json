@@ -82818,10 +82818,10 @@
   {
     "titleId": "PPSA19241_00",
     "conceptId": 10009455,
-    "name": "Pinball Jam Bundle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pinball Jam",
+    "contentId": "EP6922-PPSA19241_00-0575189679746151",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA19244_00",
@@ -98424,6 +98424,14 @@
     "publisherId": "EP1095"
   },
   {
+    "titleId": "PPSA22753_00",
+    "conceptId": 10010879,
+    "name": "Power Racing Bundle 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22755_00",
     "conceptId": 10010881,
     "name": "Rail Trail",
@@ -112219,9 +112227,9 @@
     "titleId": "PPSA26446_00",
     "conceptId": 10012841,
     "name": "Golf Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA26446_00-0653166066831244",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA26448_00",
@@ -113248,6 +113256,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA26946_00",
+    "conceptId": 10013120,
+    "name": "Christmas Racing",
+    "contentId": "UB0008-PPSA26946_00-0178832909599712",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA26960_00",
     "conceptId": 10013124,
     "name": "Learn to Play Vol. 9 - Santa's Sleigh Ride",
@@ -113259,9 +113275,9 @@
     "titleId": "PPSA26961_00",
     "conceptId": 10013124,
     "name": "Learn to Play Vol. 9 - Santa's Sleigh Ride",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA26961_00-SANTASSLEIGHRIDE",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA26970_00",
@@ -113712,6 +113728,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA27208_00",
+    "conceptId": 10012309,
+    "name": "Buzludzha Evil",
+    "contentId": "UP6699-PPSA27208_00-0857710789433984",
+    "region": "UP",
+    "publisherId": "UP6699"
+  },
+  {
     "titleId": "PPSA27211_00",
     "conceptId": 10012926,
     "name": "CrayonCore",
@@ -114022,6 +114046,14 @@
     "contentId": "UP7552-PPSA27568_00-0064554837427875",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA27580_00",
+    "conceptId": 10013502,
+    "name": "Retro Santa Run",
+    "contentId": "UB0008-PPSA27580_00-0287489395149072",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA27583_00",
