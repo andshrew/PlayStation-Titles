@@ -82810,10 +82810,10 @@
   {
     "titleId": "PPSA19240_00",
     "conceptId": 10009455,
-    "name": "Pinball Jam Bundle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pinball Jam",
+    "contentId": "UP6927-PPSA19240_00-0100548298937628",
+    "region": "UP",
+    "publisherId": "UP6927"
   },
   {
     "titleId": "PPSA19241_00",
@@ -98424,12 +98424,20 @@
     "publisherId": "EP1095"
   },
   {
+    "titleId": "PPSA22752_00",
+    "conceptId": 10010879,
+    "name": "Power Racing Bundle 2",
+    "contentId": "UP6927-PPSA22752_00-0401473522718878",
+    "region": "UP",
+    "publisherId": "UP6927"
+  },
+  {
     "titleId": "PPSA22753_00",
     "conceptId": 10010879,
     "name": "Power Racing Bundle 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA22753_00-0435415771053288",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA22755_00",
@@ -109010,10 +109018,10 @@
   {
     "titleId": "PPSA25405_00",
     "conceptId": 10010990,
-    "name": "WolfFang SkullFang Saturn Tribute Boosted PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "WolfFang SkullFang Saturn Tribute Boosted",
+    "contentId": "HP5035-PPSA25405_00-0521886296560948",
+    "region": "HP",
+    "publisherId": "HP5035"
   },
   {
     "titleId": "PPSA25411_00",
@@ -109726,6 +109734,14 @@
     "contentId": "HB0876-PPSA25612_00-0633770979892129",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA25617_00",
+    "conceptId": 10009827,
+    "name": "Cuisineer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25618_00",
@@ -111144,6 +111160,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA26024_00",
+    "conceptId": 10012551,
+    "name": "Steam train simulator",
+    "contentId": "UB0752-PPSA26024_00-0705508105700291",
+    "region": "UB",
+    "publisherId": "UB0752"
+  },
+  {
     "titleId": "PPSA26025_00",
     "conceptId": 10012552,
     "name": "Christmas Gift Catcher",
@@ -111800,6 +111824,14 @@
     "publisherId": "UP8446"
   },
   {
+    "titleId": "PPSA26253_00",
+    "conceptId": 10010846,
+    "name": "Magic Dungeon Hero: Freedom or Death",
+    "contentId": "UP8703-PPSA26253_00-0064701057084122",
+    "region": "UP",
+    "publisherId": "UP8703"
+  },
+  {
     "titleId": "PPSA26258_00",
     "conceptId": 10012718,
     "name": "Skydivers Paradise",
@@ -111966,6 +111998,22 @@
     "contentId": "UP4312-PPSA26280_00-0627299142431902",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA26281_00",
+    "conceptId": 10012725,
+    "name": "Christmas Race",
+    "contentId": "JP0089-PPSA26281_00-0109126732386557",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA26282_00",
+    "conceptId": 10012725,
+    "name": "Christmas Race",
+    "contentId": "HP4312-PPSA26282_00-0579611727299736",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA26318_00",
@@ -112219,9 +112267,9 @@
     "titleId": "PPSA26445_00",
     "conceptId": 10012841,
     "name": "Golf Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA26445_00-0843683707252121",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA26446_00",
@@ -112486,6 +112534,14 @@
     "contentId": "UP5877-PPSA26536_00-0416618606485150",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA26539_00",
+    "conceptId": 10009957,
+    "name": "the World According to Girl",
+    "contentId": "UP1181-PPSA26539_00-TWATOGIRL0010000",
+    "region": "UP",
+    "publisherId": "UP1181"
   },
   {
     "titleId": "PPSA26544_00",
@@ -112875,9 +112931,9 @@
     "titleId": "PPSA26757_00",
     "conceptId": 10013021,
     "name": "Kiting Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA26757_00-0026449010648013",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA26758_00",
