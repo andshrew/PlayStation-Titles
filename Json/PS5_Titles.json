@@ -99072,6 +99072,14 @@
     "publisherId": "JB0574"
   },
   {
+    "titleId": "PPSA22922_00",
+    "conceptId": 10010771,
+    "name": "RoboDunk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22925_00",
     "conceptId": 10010501,
     "name": "EzQuiz",
@@ -108963,17 +108971,17 @@
     "titleId": "PPSA25395_00",
     "conceptId": 10012176,
     "name": "Heart of a Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA25395_00-0458551019149728",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA25396_00",
     "conceptId": 10012176,
     "name": "Heart of a Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA25396_00-0194594206274504",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA25397_00",
@@ -111251,17 +111259,17 @@
     "titleId": "PPSA26043_00",
     "conceptId": 10012555,
     "name": "Color Swiper 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA26043_00-0199138726452055",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26044_00",
     "conceptId": 10012555,
     "name": "Color Swiper 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA26044_00-0851849501083242",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26053_00",
@@ -112851,25 +112859,25 @@
     "titleId": "PPSA26694_00",
     "conceptId": 10013001,
     "name": "Decoration Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26694_00-0374764889759120",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26695_00",
     "conceptId": 10013001,
     "name": "Decoration Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26695_00-0039856440168843",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26696_00",
     "conceptId": 10013001,
     "name": "Decoration Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA26696_00-0438245613045565",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA26741_00",
@@ -113048,12 +113056,28 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA26835_00",
+    "conceptId": 10013056,
+    "name": "Thinking of You Beyond Time",
+    "contentId": "UP8281-PPSA26835_00-0263295136946356",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
     "titleId": "PPSA26836_00",
     "conceptId": 10013056,
     "name": "Thinking of You Beyond Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8472-PPSA26836_00-0551027338843490",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA26837_00",
+    "conceptId": 10013056,
+    "name": "\u6642\u306e\u5f7c\u65b9\u3067\u541b\u3092\u60f3\u3046",
+    "contentId": "JP8187-PPSA26837_00-0729392631112662",
+    "region": "JP",
+    "publisherId": "JP8187"
   },
   {
     "titleId": "PPSA26838_00",
@@ -113683,25 +113707,25 @@
     "titleId": "PPSA27147_00",
     "conceptId": 10013254,
     "name": "Save The Doge 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27147_00-0431803529999684",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27148_00",
     "conceptId": 10013254,
     "name": "Save The Doge 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27148_00-0376945949837855",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27149_00",
     "conceptId": 10013254,
     "name": "Save The Doge 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27149_00-0946180730662782",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27150_00",
@@ -113811,9 +113835,9 @@
     "titleId": "PPSA27210_00",
     "conceptId": 10012926,
     "name": "CrayonCore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7940-PPSA27210_00-0167438644023856",
+    "region": "UP",
+    "publisherId": "UP7940"
   },
   {
     "titleId": "PPSA27211_00",
