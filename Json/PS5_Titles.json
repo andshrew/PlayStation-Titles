@@ -112248,6 +112248,22 @@
     "publisherId": "EP8062"
   },
   {
+    "titleId": "PPSA26428_00",
+    "conceptId": 10012832,
+    "name": "Shapeo",
+    "contentId": "UP7668-PPSA26428_00-0443936258604940",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26429_00",
+    "conceptId": 10012832,
+    "name": "Shapeo",
+    "contentId": "UP7668-PPSA26429_00-0198871964860131",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26440_00",
     "conceptId": 10012835,
     "name": "Cypress Legacy",
@@ -112414,6 +112430,14 @@
     "contentId": "HP7683-PPSA26463_00-0773264955376584",
     "region": "HP",
     "publisherId": "HP7683"
+  },
+  {
+    "titleId": "PPSA26464_00",
+    "conceptId": 10012386,
+    "name": "Rally Arcade Classics DEMO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26466_00",
@@ -113699,9 +113723,9 @@
     "titleId": "PPSA27146_00",
     "conceptId": 10013254,
     "name": "Save The Doge 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27146_00-0342563366379799",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27147_00",
