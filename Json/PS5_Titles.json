@@ -91448,6 +91448,14 @@
     "publisherId": "EP8062"
   },
   {
+    "titleId": "PPSA21096_00",
+    "conceptId": 10010220,
+    "name": "SHOWMAX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21098_00",
     "conceptId": 10008699,
     "name": "Koumajou Remilia",
@@ -113283,9 +113291,9 @@
     "titleId": "PPSA26924_00",
     "conceptId": 10013106,
     "name": "The Legend of Cyber Cowboy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA26924_00-TLOCYBERCOWBOY00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA26926_00",
@@ -113902,6 +113910,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27333_00",
+    "conceptId": 10013361,
+    "name": "High Cars 2",
+    "contentId": "UB0337-PPSA27333_00-0617275524622066",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA27341_00",
