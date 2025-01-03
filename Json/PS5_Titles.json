@@ -106282,8 +106282,8 @@
   {
     "titleId": "PPSA24686_00",
     "conceptId": 10010764,
-    "name": "Wuthering Waves (Free to Play) Awakening Bundle (Pre-order Bundle)",
-    "contentId": null,
+    "name": "Wuthering Waves",
+    "contentId": "EB1238-PPSA24686_00-0625573803756286",
     "region": "EB",
     "publisherId": "EB1238"
   },
@@ -112912,6 +112912,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA26703_00",
+    "conceptId": 10013006,
+    "name": "90s Extreme Skiing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26741_00",
     "conceptId": 10012933,
     "name": "GGmuks Casino: Slots",
@@ -113011,9 +113019,17 @@
     "titleId": "PPSA26798_00",
     "conceptId": 10013037,
     "name": "Learn to Play Vol. 10 - Gravity Space Walk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA26798_00-GRAVITYSPACEWALK",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA26799_00",
+    "conceptId": 10013037,
+    "name": "Learn to Play Vol. 10 - Gravity Space Walk",
+    "contentId": "EP2005-PPSA26799_00-GRAVITYSPACEWALK",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA26814_00",
@@ -113331,33 +113347,33 @@
     "titleId": "PPSA26930_00",
     "conceptId": 10013111,
     "name": "Sokomonster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA26930_00-0031933193337322",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA26931_00",
     "conceptId": 10013111,
     "name": "Sokomonster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA26931_00-0862505419875151",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA26932_00",
     "conceptId": 10013111,
     "name": "Sokomonster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA26932_00-0926913841137556",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA26933_00",
     "conceptId": 10013111,
     "name": "Sokomonster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA26933_00-0243390118627603",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA26940_00",
