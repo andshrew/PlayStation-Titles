@@ -25155,7 +25155,7 @@
     "titleId": "PPSA06448_00",
     "conceptId": 10004478,
     "name": "Alien: Rogue Incursion",
-    "contentId": null,
+    "contentId": "EP2147-PPSA06448_00-MNSTANDARDFLAT01",
     "region": "EP",
     "publisherId": "EP2147"
   },
@@ -25163,7 +25163,7 @@
     "titleId": "PPSA06449_00",
     "conceptId": 10004478,
     "name": "Alien: Rogue Incursion",
-    "contentId": null,
+    "contentId": "UP2292-PPSA06449_00-MNSTANDARDFSNA01",
     "region": "UP",
     "publisherId": "UP2292"
   },
@@ -113608,6 +113608,14 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA27104_00",
+    "conceptId": 10011189,
+    "name": "Shieldwall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27109_00",
     "conceptId": 10008444,
     "name": "Alaskan Road Truckers: Highway Edition",
@@ -114107,25 +114115,25 @@
     "titleId": "PPSA27535_00",
     "conceptId": 10013465,
     "name": "Boomerang Of Destruction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27535_00-0259819860559734",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27536_00",
     "conceptId": 10013465,
     "name": "Boomerang Of Destruction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27536_00-0809561716830396",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27537_00",
     "conceptId": 10013465,
     "name": "Boomerang Of Destruction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27537_00-0818711855414576",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27538_00",
