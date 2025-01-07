@@ -86220,8 +86220,8 @@
     "conceptId": 10009721,
     "name": "Big Helmet Heroes",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UB",
+    "publisherId": "UB0045"
   },
   {
     "titleId": "PPSA19946_00",
@@ -95904,6 +95904,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22169_00",
+    "conceptId": 10009737,
+    "name": "Tales of Graces\u2122f Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22171_00",
     "conceptId": 10010652,
     "name": "Drift Streets Japan",
@@ -104435,9 +104443,9 @@
     "titleId": "PPSA24260_00",
     "conceptId": 10007319,
     "name": "Ys Memoire: The Oath in Felghana",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4492-PPSA24260_00-YSMEMOIRFELGHANA",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA24261_00",
@@ -114126,6 +114134,22 @@
     "contentId": "UB0108-PPSA27498_00-0441744126204538",
     "region": "UB",
     "publisherId": "UB0108"
+  },
+  {
+    "titleId": "PPSA27505_00",
+    "conceptId": 10013440,
+    "name": "Street Food Restaurant Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27506_00",
+    "conceptId": 10013440,
+    "name": "Street Food Restaurant Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27535_00",
