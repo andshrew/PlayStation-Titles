@@ -86210,10 +86210,10 @@
   {
     "titleId": "PPSA19942_00",
     "conceptId": 10009721,
-    "name": "Big Helmet Heroes",
+    "name": "Big Helmet Heroes - Exalted Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EB",
+    "publisherId": "EB0235"
   },
   {
     "titleId": "PPSA19943_00",
@@ -92952,6 +92952,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21466_00",
+    "conceptId": 10009745,
+    "name": "RPG MAKER WITH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21474_00",
     "conceptId": 10009622,
     "name": "Farmagia",
@@ -94899,9 +94907,9 @@
     "titleId": "PPSA21920_00",
     "conceptId": 10010539,
     "name": "Project Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0363-PPSA21920_00-0830454695485201",
+    "region": "EB",
+    "publisherId": "EB0363"
   },
   {
     "titleId": "PPSA21925_00",
@@ -101192,6 +101200,22 @@
     "publisherId": "UP8787"
   },
   {
+    "titleId": "PPSA23480_00",
+    "conceptId": 10011214,
+    "name": "X-Out: Resurfaced",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23481_00",
+    "conceptId": 10011214,
+    "name": "X-Out: Resurfaced",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23487_00",
     "conceptId": 10003236,
     "name": "House Flipper VR",
@@ -104766,6 +104790,14 @@
     "contentId": "UB1011-PPSA24323_00-0970094572187472",
     "region": "UB",
     "publisherId": "UB1011"
+  },
+  {
+    "titleId": "PPSA24327_00",
+    "conceptId": 10004596,
+    "name": "The Legend of Heroes: Kuro no Kiseki \u2161 -CRIMSON SiN-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24339_00",
@@ -111739,9 +111771,9 @@
     "titleId": "PPSA26208_00",
     "conceptId": 10012683,
     "name": "Pocket Puzzle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7099-PPSA26208_00-PPGPOCKETPUZZLES",
+    "region": "EP",
+    "publisherId": "EP7099"
   },
   {
     "titleId": "PPSA26209_00",
@@ -112760,6 +112792,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA26583_00",
+    "conceptId": 10011849,
+    "name": "Die by Anything",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26585_00",
     "conceptId": 10010375,
     "name": "ASTROSMASH",
@@ -113584,12 +113624,52 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA27049_00",
+    "conceptId": 10013183,
+    "name": "Bridge the Gap!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27050_00",
+    "conceptId": 10013183,
+    "name": "Bridge the Gap!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27051_00",
+    "conceptId": 10013183,
+    "name": "Bridge the Gap!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27052_00",
+    "conceptId": 10013183,
+    "name": "Bridge the Gap!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27069_00",
     "conceptId": 10012277,
     "name": "Detective - The Motel",
     "contentId": "JP0078-PPSA27069_00-DETECTIVETHEMOTE",
     "region": "JP",
     "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA27070_00",
+    "conceptId": 10013209,
+    "name": "Super Jagger Bomb 2: Go East",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27075_00",
@@ -113742,6 +113822,14 @@
     "contentId": "HB0706-PPSA27116_00-0276764662697093",
     "region": "HB",
     "publisherId": "HB0706"
+  },
+  {
+    "titleId": "PPSA27133_00",
+    "conceptId": 10013249,
+    "name": "\u91cd\u529b\u8131\u51fa",
+    "contentId": "UB0675-PPSA27133_00-0604520297780993",
+    "region": "UB",
+    "publisherId": "UB0675"
   },
   {
     "titleId": "PPSA27134_00",
@@ -114424,9 +114512,41 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27602_00",
+    "conceptId": 10013522,
+    "name": "Mechanita",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27733_00",
     "conceptId": 10013625,
     "name": "Piece Out",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27810_00",
+    "conceptId": 10013690,
+    "name": "Stellar Docks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27812_00",
+    "conceptId": 10013690,
+    "name": "Stellar Docks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27813_00",
+    "conceptId": 10013690,
+    "name": "Stellar Docks",
     "contentId": null,
     "region": null,
     "publisherId": null
