@@ -95936,6 +95936,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22170_00",
+    "conceptId": 10009737,
+    "name": "Tales of Graces\u2122f Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22171_00",
     "conceptId": 10010652,
     "name": "Drift Streets Japan",
@@ -100019,9 +100027,9 @@
     "titleId": "PPSA23221_00",
     "conceptId": 10011083,
     "name": "FREEDOM WARS Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0700-PPSA23221_00-MAINGAME00000000",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA23226_00",
@@ -101209,6 +101217,14 @@
   },
   {
     "titleId": "PPSA23481_00",
+    "conceptId": 10011214,
+    "name": "X-Out: Resurfaced",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23482_00",
     "conceptId": 10011214,
     "name": "X-Out: Resurfaced",
     "contentId": null,
@@ -104792,6 +104808,14 @@
     "publisherId": "UB1011"
   },
   {
+    "titleId": "PPSA24326_00",
+    "conceptId": 10004596,
+    "name": "The Legend of Heroes: Kuro no Kiseki \u2161 -CRIMSON SiN-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24327_00",
     "conceptId": 10004596,
     "name": "The Legend of Heroes: Kuro no Kiseki \u2161 -CRIMSON SiN-",
@@ -107056,6 +107080,14 @@
     "publisherId": "UP8681"
   },
   {
+    "titleId": "PPSA24865_00",
+    "conceptId": 10011032,
+    "name": "Cash Guardian: Collector Operation Capital Defense",
+    "contentId": "UP8681-PPSA24865_00-0394769418851743",
+    "region": "UP",
+    "publisherId": "UP8681"
+  },
+  {
     "titleId": "PPSA24867_00",
     "conceptId": 10011927,
     "name": "Skull Pirates: Adventures",
@@ -107714,10 +107746,10 @@
   {
     "titleId": "PPSA25017_00",
     "conceptId": 10010949,
-    "name": "Unsolved Case Series",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Unsolved Case: The Scarlet Hyacinth CE",
+    "contentId": "UB0429-PPSA25017_00-UNSOLVEDCASEKP03",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA25018_00",
@@ -111603,9 +111635,9 @@
     "titleId": "PPSA26163_00",
     "conceptId": 10012656,
     "name": "Super Onion Boy+",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA26163_00-SUPERONIONBOYRAG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA26166_00",
@@ -112794,10 +112826,10 @@
   {
     "titleId": "PPSA26583_00",
     "conceptId": 10011849,
-    "name": "Die by Anything",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Die By Anything",
+    "contentId": "UB1052-PPSA26583_00-0519814862212621",
+    "region": "UB",
+    "publisherId": "UB1052"
   },
   {
     "titleId": "PPSA26585_00",
@@ -114320,6 +114352,22 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA27503_00",
+    "conceptId": 10013440,
+    "name": "Street Food Restaurant Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27504_00",
+    "conceptId": 10013440,
+    "name": "Street Food Restaurant Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27505_00",
     "conceptId": 10013440,
     "name": "Street Food Restaurant Simulator",
@@ -114371,33 +114419,33 @@
     "titleId": "PPSA27539_00",
     "conceptId": 10013466,
     "name": "Snails vs Humans",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27539_00-0030206445103038",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27540_00",
     "conceptId": 10013466,
     "name": "Snails vs Humans",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27540_00-0368832141226676",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27541_00",
     "conceptId": 10013466,
     "name": "Snails vs Humans",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27541_00-0996188357998261",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27542_00",
     "conceptId": 10013466,
     "name": "Snails vs Humans",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27542_00-0328327859270292",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27552_00",
@@ -114536,6 +114584,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27811_00",
+    "conceptId": 10013690,
+    "name": "Stellar Docks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27812_00",
     "conceptId": 10013690,
     "name": "Stellar Docks",
@@ -114547,6 +114603,22 @@
     "titleId": "PPSA27813_00",
     "conceptId": 10013690,
     "name": "Stellar Docks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27913_00",
+    "conceptId": 10013774,
+    "name": "Magnitude: Epsilon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27914_00",
+    "conceptId": 10013774,
+    "name": "Magnitude: Epsilon",
     "contentId": null,
     "region": null,
     "publisherId": null
