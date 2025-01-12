@@ -83923,9 +83923,9 @@
     "titleId": "PPSA19446_00",
     "conceptId": 10009539,
     "name": "Boti: Byteland Overclocked",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6958-PPSA19446_00-XXXXXXXXXXBOTIEU",
+    "region": "EP",
+    "publisherId": "EP6958"
   },
   {
     "titleId": "PPSA19447_00",
@@ -91710,6 +91710,14 @@
     "contentId": "UB0618-PPSA21163_00-0344631643811563",
     "region": "UB",
     "publisherId": "UB0618"
+  },
+  {
+    "titleId": "PPSA21167_00",
+    "conceptId": 228691,
+    "name": "CRYSTAR",
+    "contentId": "HP0036-PPSA21167_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP0036"
   },
   {
     "titleId": "PPSA21175_00",
@@ -102464,6 +102472,22 @@
     "publisherId": "HP7683"
   },
   {
+    "titleId": "PPSA23804_00",
+    "conceptId": 10007113,
+    "name": "MACROSS -Shooting Insight-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23805_00",
+    "conceptId": 10007113,
+    "name": "MACROSS -Shooting Insight-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23806_00",
     "conceptId": 231670,
     "name": "Darksiders II Deathinitive Edition",
@@ -112444,6 +112468,22 @@
     "conceptId": 10012832,
     "name": "Shapeo",
     "contentId": "UP7668-PPSA26429_00-0198871964860131",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26432_00",
+    "conceptId": 10012833,
+    "name": "Circle Of Nature",
+    "contentId": "UP7668-PPSA26432_00-0497035564296724",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26433_00",
+    "conceptId": 10012833,
+    "name": "Circle Of Nature",
+    "contentId": "UP7668-PPSA26433_00-0904976736928284",
     "region": "UP",
     "publisherId": "UP7668"
   },
