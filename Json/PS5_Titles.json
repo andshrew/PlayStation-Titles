@@ -104715,9 +104715,9 @@
     "titleId": "PPSA24301_00",
     "conceptId": 10011642,
     "name": "Mineral",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1014-PPSA24301_00-0854277236210618",
+    "region": "UB",
+    "publisherId": "UB1014"
   },
   {
     "titleId": "PPSA24304_00",
@@ -108326,6 +108326,14 @@
     "contentId": "UP7594-PPSA25146_00-DATEZDEMO0000000",
     "region": "UP",
     "publisherId": "UP7594"
+  },
+  {
+    "titleId": "PPSA25147_00",
+    "conceptId": 10011967,
+    "name": "\u65f6\u7a7a\u4e4b\u62f3",
+    "contentId": "HP2362-PPSA25147_00-0594993907164609",
+    "region": "HP",
+    "publisherId": "HP2362"
   },
   {
     "titleId": "PPSA25149_00",
@@ -112336,6 +112344,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA26389_00",
+    "conceptId": 10011672,
+    "name": "Pickleball",
+    "contentId": "UB1017-PPSA26389_00-0553223145202506",
+    "region": "UB",
+    "publisherId": "UB1017"
+  },
+  {
     "titleId": "PPSA26393_00",
     "conceptId": 10008191,
     "name": "\u771f\u30fb\u4e09\u570b\u7121\u53cc ORIGINS \u4f53\u9a13\u7248",
@@ -114656,12 +114672,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27689_00",
+    "conceptId": 10006807,
+    "name": "SMILY ANGRY",
+    "contentId": "EP5645-PPSA27689_00-222SMILYANGRY222",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA27733_00",
     "conceptId": 10013625,
     "name": "Piece Out",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1123-PPSA27733_00-0441990218617821",
+    "region": "EB",
+    "publisherId": "EB1123"
   },
   {
     "titleId": "PPSA27810_00",
