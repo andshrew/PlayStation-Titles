@@ -95930,10 +95930,10 @@
   {
     "titleId": "PPSA22167_00",
     "conceptId": 10009737,
-    "name": "Tales of Graces\u2122f Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af & \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0700-PPSA22167_00-TOGFARTANDSOUND0",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA22168_00",
@@ -99688,6 +99688,14 @@
     "publisherId": "UP4395"
   },
   {
+    "titleId": "PPSA23089_00",
+    "conceptId": 10009816,
+    "name": "Neptunia Riders VS Dogoos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23093_00",
     "conceptId": 10000421,
     "name": "The Suicide Of Rachel Foster",
@@ -100422,6 +100430,14 @@
     "contentId": "UB0429-PPSA23299_00-0450280834770729",
     "region": "UB",
     "publisherId": "UB0429"
+  },
+  {
+    "titleId": "PPSA23303_00",
+    "conceptId": 10011126,
+    "name": "Basureroes: Invasion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23304_00",
@@ -101686,6 +101702,14 @@
     "contentId": "UB0612-PPSA23603_00-0141572521588309",
     "region": "UB",
     "publisherId": "UB0612"
+  },
+  {
+    "titleId": "PPSA23604_00",
+    "conceptId": 10008362,
+    "name": "The Stone of Madness",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0114"
   },
   {
     "titleId": "PPSA23607_00",
@@ -112592,6 +112616,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA26447_00",
+    "conceptId": 10012841,
+    "name": "Golf Up",
+    "contentId": "JP5432-PPSA26447_00-0524615750447827",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA26448_00",
     "conceptId": 10012842,
     "name": "Clutter Puzzle Magazine: Vol. 15 - #1 Collector's Edition",
@@ -113008,6 +113040,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26592_00",
+    "conceptId": 10012957,
+    "name": "The Jumping Toast Tower - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26593_00",
+    "conceptId": 10012957,
+    "name": "The Jumping Toast Tower - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26594_00",
+    "conceptId": 10012957,
+    "name": "The Jumping Toast Tower - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26595_00",
     "conceptId": 10012957,
     "name": "The Jumping Toast Tower - PS4 & PS5",
@@ -113048,12 +113104,28 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA26605_00",
+    "conceptId": 232673,
+    "name": "Revenant Dogma",
+    "contentId": "UP2500-PPSA26605_00-US0REVEDOGMA0PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA26607_00",
     "conceptId": 232488,
     "name": "\u30d5\u30a7\u30eb\u30f3\u30ba\u30b2\u30fc\u30c8",
     "contentId": "JP0013-PPSA26607_00-JP0FGATE00000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA26609_00",
+    "conceptId": 232488,
+    "name": "Fernz Gate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26610_00",
@@ -113571,9 +113643,9 @@
     "titleId": "PPSA26907_00",
     "conceptId": 10010199,
     "name": "Professor Doctor Jetpack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7657-PPSA26907_00-PROFDRJETPACKPS5",
+    "region": "EP",
+    "publisherId": "EP7657"
   },
   {
     "titleId": "PPSA26913_00",
@@ -113782,6 +113854,22 @@
     "contentId": "EP0600-PPSA26990_00-0666628137028316",
     "region": "EP",
     "publisherId": "EP0600"
+  },
+  {
+    "titleId": "PPSA26999_00",
+    "conceptId": 10013154,
+    "name": "Sword of the Necromancer: Resurrection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27000_00",
+    "conceptId": 10013154,
+    "name": "Sword of the Necromancer: Resurrection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27025_00",
@@ -114299,33 +114387,33 @@
     "titleId": "PPSA27316_00",
     "conceptId": 10013355,
     "name": "Sokorobot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA27316_00-0735663351543481",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA27318_00",
     "conceptId": 10013355,
     "name": "Sokorobot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA27318_00-0695438924991256",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA27319_00",
     "conceptId": 10013355,
     "name": "Sokorobot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA27319_00-0601026368868296",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA27320_00",
     "conceptId": 10013355,
     "name": "Sokorobot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA27320_00-0255409493843820",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA27333_00",
