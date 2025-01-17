@@ -15752,6 +15752,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA04625_00",
+    "conceptId": 10003429,
+    "name": "Shujinkou",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6882"
+  },
+  {
     "titleId": "PPSA04629_00",
     "conceptId": 10002139,
     "name": "United Assault - Normandy '44",
@@ -68152,6 +68160,14 @@
     "publisherId": "HP0874"
   },
   {
+    "titleId": "PPSA15942_00",
+    "conceptId": 10007959,
+    "name": "Ninja Five-O",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15949_00",
     "conceptId": 10005680,
     "name": "SENSEs: Midnight",
@@ -77302,6 +77318,14 @@
     "contentId": "EP6890-PPSA17949_00-0627234715882867",
     "region": "EP",
     "publisherId": "EP6890"
+  },
+  {
+    "titleId": "PPSA17952_00",
+    "conceptId": 10008972,
+    "name": "PGA TOUR 2K25",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
   },
   {
     "titleId": "PPSA17954_00",
@@ -95938,10 +95962,10 @@
   {
     "titleId": "PPSA22168_00",
     "conceptId": 10009737,
-    "name": "Tales of Graces\u2122f Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Digital Artbook & Soundtrack",
+    "contentId": "HP0700-PPSA22168_00-TOGFARTANDSOUND0",
+    "region": "HP",
+    "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA22169_00",
@@ -100616,6 +100640,14 @@
     "publisherId": "UP7452"
   },
   {
+    "titleId": "PPSA23347_00",
+    "conceptId": 10011140,
+    "name": "Rock 'N Racing Bundle 3 in 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23352_00",
     "conceptId": 10010124,
     "name": "Heaven Jump",
@@ -102232,6 +102264,22 @@
     "publisherId": "UP3362"
   },
   {
+    "titleId": "PPSA23719_00",
+    "conceptId": 10011338,
+    "name": "ROBOBEAT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23722_00",
+    "conceptId": 10011338,
+    "name": "ROBOBEAT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23724_00",
     "conceptId": 232726,
     "name": "Dawn of Man",
@@ -103558,6 +103606,14 @@
     "contentId": "UP1681-PPSA24001_00-AGENT2024PS5SIEA",
     "region": "UP",
     "publisherId": "UP1681"
+  },
+  {
+    "titleId": "PPSA24005_00",
+    "conceptId": 10011385,
+    "name": "\u904a\u3093\u3067\u56f2\u7881\u304c\u5f37\u304f\u306a\u308b\uff01 \u9280\u661f\u56f2\u7881DX",
+    "contentId": "JP0239-PPSA24005_00-0576314699502678",
+    "region": "JP",
+    "publisherId": "JP0239"
   },
   {
     "titleId": "PPSA24006_00",
@@ -105811,9 +105867,9 @@
     "titleId": "PPSA24516_00",
     "conceptId": 10011766,
     "name": "DREADOUT REMASTERED COLLECTION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6867-PPSA24516_00-CORRECTPRODUCT00",
+    "region": "EP",
+    "publisherId": "EP6867"
   },
   {
     "titleId": "PPSA24525_00",
@@ -109152,6 +109208,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA25373_00",
+    "conceptId": 10012117,
+    "name": "Halloween Pumpkin Brawl",
+    "contentId": "JP0089-PPSA25373_00-0220020767278486",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA25374_00",
+    "conceptId": 10012117,
+    "name": "Halloween Pumpkin Brawl",
+    "contentId": "HP4312-PPSA25374_00-0573899195651644",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA25376_00",
     "conceptId": 10012163,
     "name": "MinefieldCombat",
@@ -110632,6 +110704,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25783_00",
+    "conceptId": 10011338,
+    "name": "ROBOBEAT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25785_00",
     "conceptId": 10009217,
     "name": "Dice Assassin",
@@ -112059,17 +112139,17 @@
     "titleId": "PPSA26238_00",
     "conceptId": 10009596,
     "name": "Arken Age",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1962-PPSA26238_00-ARKENAGEVR000003",
+    "region": "EP",
+    "publisherId": "EP1962"
   },
   {
     "titleId": "PPSA26239_00",
     "conceptId": 10009596,
     "name": "Arken Age",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1962-PPSA26239_00-ARKENAGEVR000004",
+    "region": "EP",
+    "publisherId": "EP1962"
   },
   {
     "titleId": "PPSA26242_00",
@@ -112294,6 +112374,22 @@
     "contentId": "HP4312-PPSA26282_00-0579611727299736",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA26288_00",
+    "conceptId": 10012723,
+    "name": "Codename: Ocean Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26290_00",
+    "conceptId": 10009937,
+    "name": "The First Berserker: Khazan",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26318_00",
@@ -113042,10 +113138,10 @@
   {
     "titleId": "PPSA26592_00",
     "conceptId": 10012957,
-    "name": "The Jumping Toast Tower - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Toast Tower",
+    "contentId": "EP6664-PPSA26592_00-0756647841511822",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26593_00",
@@ -113112,6 +113208,14 @@
     "publisherId": "UP2500"
   },
   {
+    "titleId": "PPSA26606_00",
+    "conceptId": 232673,
+    "name": "Revenant Dogma",
+    "contentId": "EP2363-PPSA26606_00-EU0REVEDOGMA0PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
+  },
+  {
     "titleId": "PPSA26607_00",
     "conceptId": 232488,
     "name": "\u30d5\u30a7\u30eb\u30f3\u30ba\u30b2\u30fc\u30c8",
@@ -113120,12 +113224,20 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA26608_00",
+    "conceptId": 232488,
+    "name": "Fernz Gate",
+    "contentId": "UP2500-PPSA26608_00-US0FGATE00000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
     "titleId": "PPSA26609_00",
     "conceptId": 232488,
     "name": "Fernz Gate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA26609_00-EU0FGATE00000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA26610_00",
@@ -114240,6 +114352,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA27159_00",
+    "conceptId": 10013225,
+    "name": "Pickle Invasion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27169_00",
     "conceptId": 10012994,
     "name": "Midnight Murder Club",
@@ -114456,6 +114576,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27346_00",
+    "conceptId": 10013370,
+    "name": "No Tears For Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27347_00",
     "conceptId": 10007652,
     "name": "Empire of the Ants Demo",
@@ -114640,6 +114768,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27507_00",
+    "conceptId": 10013443,
+    "name": "Angry Bunnies",
+    "contentId": "UP5877-PPSA27507_00-0599351915892047",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA27535_00",
     "conceptId": 10013465,
     "name": "Boomerang Of Destruction",
@@ -114771,33 +114907,33 @@
     "titleId": "PPSA27591_00",
     "conceptId": 10013514,
     "name": "Sokocrab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA27591_00-SOCKRO0000077770",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA27592_00",
     "conceptId": 10013514,
     "name": "Sokocrab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA27592_00-SOCKRO0000007771",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA27593_00",
     "conceptId": 10013514,
     "name": "Sokocrab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA27593_00-SOCKRO0000007773",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA27594_00",
     "conceptId": 10013514,
     "name": "Sokocrab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA27594_00-SOCKRO0000007772",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA27599_00",
@@ -114819,6 +114955,30 @@
     "titleId": "PPSA27602_00",
     "conceptId": 10013522,
     "name": "Mechanita",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27657_00",
+    "conceptId": 10013572,
+    "name": "Rooftop Rascal: The Claus Cat",
+    "contentId": "UB0738-PPSA27657_00-0231814546667860",
+    "region": "UB",
+    "publisherId": "UB0738"
+  },
+  {
+    "titleId": "PPSA27658_00",
+    "conceptId": 10013572,
+    "name": "Rooftop Rascal: The Claus Cat",
+    "contentId": "JB0678-PPSA27658_00-0495621708223191",
+    "region": "JB",
+    "publisherId": "JB0678"
+  },
+  {
+    "titleId": "PPSA27659_00",
+    "conceptId": 10013572,
+    "name": "Rooftop Rascal: The Claus Cat",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -114950,5 +115110,21 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27915_00",
+    "conceptId": 10013774,
+    "name": "Magnitude: Epsilon",
+    "contentId": "HP7367-PPSA27915_00-0038862965226628",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA27916_00",
+    "conceptId": 10013774,
+    "name": "Magnitude: Epsilon",
+    "contentId": "JP7323-PPSA27916_00-0903108255517876",
+    "region": "JP",
+    "publisherId": "JP7323"
   }
 ]
