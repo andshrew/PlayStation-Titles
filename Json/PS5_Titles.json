@@ -83328,6 +83328,22 @@
     "publisherId": "UP6093"
   },
   {
+    "titleId": "PPSA19329_00",
+    "conceptId": 10004328,
+    "name": "Afterlove EP",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19330_00",
+    "conceptId": 10004328,
+    "name": "Afterlove EP",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19333_00",
     "conceptId": 10004103,
     "name": "Mr. Hibbl - DEMO",
@@ -84627,9 +84643,9 @@
     "titleId": "PPSA19588_00",
     "conceptId": 10009596,
     "name": "Arken Age",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1978-PPSA19588_00-ARKENAGEVR000001",
+    "region": "UP",
+    "publisherId": "UP1978"
   },
   {
     "titleId": "PPSA19589_00",
@@ -85592,6 +85608,14 @@
     "publisherId": "EP6776"
   },
   {
+    "titleId": "PPSA19806_00",
+    "conceptId": 10009673,
+    "name": "No More Rainbows",
+    "contentId": "UP7413-PPSA19806_00-0634319425921389",
+    "region": "UP",
+    "publisherId": "UP7413"
+  },
+  {
     "titleId": "PPSA19807_00",
     "conceptId": 10009665,
     "name": "Krimson",
@@ -86442,24 +86466,24 @@
   {
     "titleId": "PPSA19988_00",
     "conceptId": 10009737,
-    "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b0\u30ec\u30a4\u30bb\u30b9 \u30a8\u30d5 \u30ea\u30de\u30b9\u30bf\u30fc PS4 & PS5",
-    "contentId": null,
+    "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b0\u30ec\u30a4\u30bb\u30b9 \u30a8\u30d5 \u30ea\u30de\u30b9\u30bf\u30fc",
+    "contentId": "JP0700-PPSA19988_00-TALESOFGRACESF00",
     "region": "JP",
     "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA19989_00",
     "conceptId": 10009737,
-    "name": "Tales of Graces f Remastered PS4 & PS5",
-    "contentId": null,
+    "name": "\ud14c\uc77c\uc988 \uc624\ube0c \uadf8\ub808\uc774\uc138\uc2a4 f \ub9ac\ub9c8\uc2a4\ud130",
+    "contentId": "HP0700-PPSA19989_00-TALESOFGRACESF00",
     "region": "HP",
     "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA19990_00",
     "conceptId": 10009737,
-    "name": "Tales of Graces\u2122f Remastered",
-    "contentId": null,
+    "name": "Tales of Graces f Remastered",
+    "contentId": "EP0700-PPSA19990_00-TALESOFGRACESF00",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -90510,6 +90534,14 @@
     "contentId": "HP6931-PPSA20847_00-0976019611156182",
     "region": "HP",
     "publisherId": "HP6931"
+  },
+  {
+    "titleId": "PPSA20848_00",
+    "conceptId": 10004328,
+    "name": "Afterlove EP",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20857_00",
@@ -95970,10 +96002,10 @@
   {
     "titleId": "PPSA22169_00",
     "conceptId": 10009737,
-    "name": "Tales of Graces\u2122f Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Digital Artbook & Soundtrack",
+    "contentId": "EP0700-PPSA22169_00-TOGFARTANDSOUND0",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA22170_00",
@@ -102272,6 +102304,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23721_00",
+    "conceptId": 10011338,
+    "name": "ROBOBEAT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23722_00",
     "conceptId": 10011338,
     "name": "ROBOBEAT",
@@ -106019,9 +106059,9 @@
     "titleId": "PPSA24562_00",
     "conceptId": 10011787,
     "name": "Summer In Trigue",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6472-PPSA24562_00-SUMMERINTRIGUE00",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA24563_00",
@@ -111824,6 +111864,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA26160_00",
+    "conceptId": 10012654,
+    "name": "Cycle Chaser H-5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26161_00",
     "conceptId": 10011929,
     "name": "Bus Driving Simulator : EVO",
@@ -112379,17 +112427,17 @@
     "titleId": "PPSA26288_00",
     "conceptId": 10012723,
     "name": "Codename: Ocean Keeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1177-PPSA26288_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB1177"
   },
   {
     "titleId": "PPSA26290_00",
     "conceptId": 10009937,
-    "name": "The First Berserker: Khazan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The First Berserker: Khazan DEMO",
+    "contentId": "UP8236-PPSA26290_00-0253439744026891",
+    "region": "UP",
+    "publisherId": "UP8236"
   },
   {
     "titleId": "PPSA26318_00",
@@ -113056,6 +113104,22 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA26561_00",
+    "conceptId": 10012932,
+    "name": "Cazzarion: Fallen Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26562_00",
+    "conceptId": 10012932,
+    "name": "Cazzarion: Fallen Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26565_00",
     "conceptId": 10012937,
     "name": "Learn to Play Vol. 8 - Penalty Shootout",
@@ -113146,26 +113210,26 @@
   {
     "titleId": "PPSA26593_00",
     "conceptId": 10012957,
-    "name": "The Jumping Toast Tower - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Toast Tower",
+    "contentId": "UP6664-PPSA26593_00-0842463808945312",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26594_00",
     "conceptId": 10012957,
-    "name": "The Jumping Toast Tower - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Toast Tower",
+    "contentId": "JP6595-PPSA26594_00-0827828385407560",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26595_00",
     "conceptId": 10012957,
-    "name": "The Jumping Toast Tower - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Toast Tower",
+    "contentId": "HP6661-PPSA26595_00-0562749136439062",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26601_00",
@@ -113262,6 +113326,22 @@
     "contentId": "EP2363-PPSA26612_00-EU0ALVASTIA00PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA26643_00",
+    "conceptId": 10009628,
+    "name": "Phantom Brave: The Lost Hero Demo",
+    "contentId": "UP1063-PPSA26643_00-PB2DEMO000000001",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
+    "titleId": "PPSA26644_00",
+    "conceptId": 10009628,
+    "name": "Phantom Brave: The Lost Hero Demo",
+    "contentId": "EP1063-PPSA26644_00-PB2DEMO000000001",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA26660_00",
@@ -114003,33 +114083,33 @@
     "titleId": "PPSA27049_00",
     "conceptId": 10013183,
     "name": "Bridge the Gap!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6880-PPSA27049_00-0565797460475750",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA27050_00",
     "conceptId": 10013183,
     "name": "Bridge the Gap!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6883-PPSA27050_00-0670523243610780",
+    "region": "UP",
+    "publisherId": "UP6883"
   },
   {
     "titleId": "PPSA27051_00",
     "conceptId": 10013183,
     "name": "Bridge the Gap!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6849-PPSA27051_00-0704574644766763",
+    "region": "JP",
+    "publisherId": "JP6849"
   },
   {
     "titleId": "PPSA27052_00",
     "conceptId": 10013183,
     "name": "Bridge the Gap!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6900-PPSA27052_00-0829314093768217",
+    "region": "HP",
+    "publisherId": "HP6900"
   },
   {
     "titleId": "PPSA27069_00",
@@ -114275,9 +114355,9 @@
     "titleId": "PPSA27142_00",
     "conceptId": 10013253,
     "name": "Swarm Madness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27142_00-0763866646939133",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27143_00",
@@ -114291,17 +114371,17 @@
     "titleId": "PPSA27144_00",
     "conceptId": 10013253,
     "name": "Swarm Madness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27144_00-0127151059558665",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27145_00",
     "conceptId": 10013253,
     "name": "Swarm Madness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27145_00-0822962575810207",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27146_00",
@@ -114579,9 +114659,9 @@
     "titleId": "PPSA27346_00",
     "conceptId": 10013370,
     "name": "No Tears For Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5877-PPSA27346_00-0643346650447275",
+    "region": "UP",
+    "publisherId": "UP5877"
   },
   {
     "titleId": "PPSA27347_00",
@@ -114960,6 +115040,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27656_00",
+    "conceptId": 10013572,
+    "name": "Rooftop Rascal: The Claus Cat",
+    "contentId": "EB0933-PPSA27656_00-0109547487466060",
+    "region": "EB",
+    "publisherId": "EB0933"
+  },
+  {
     "titleId": "PPSA27657_00",
     "conceptId": 10013572,
     "name": "Rooftop Rascal: The Claus Cat",
@@ -114979,9 +115067,9 @@
     "titleId": "PPSA27659_00",
     "conceptId": 10013572,
     "name": "Rooftop Rascal: The Claus Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0706-PPSA27659_00-0869932257343927",
+    "region": "HB",
+    "publisherId": "HB0706"
   },
   {
     "titleId": "PPSA27687_00",
@@ -115096,20 +115184,52 @@
     "publisherId": null
   },
   {
-    "titleId": "PPSA27913_00",
-    "conceptId": 10013774,
-    "name": "Magnitude: Epsilon",
+    "titleId": "PPSA27906_00",
+    "conceptId": 10013767,
+    "name": "Copy The Line",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA27914_00",
-    "conceptId": 10013774,
-    "name": "Magnitude: Epsilon",
+    "titleId": "PPSA27907_00",
+    "conceptId": 10013767,
+    "name": "Copy The Line",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27908_00",
+    "conceptId": 10013767,
+    "name": "Copy The Line",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27909_00",
+    "conceptId": 10013767,
+    "name": "Copy The Line",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27913_00",
+    "conceptId": 10013774,
+    "name": "Magnitude: Epsilon",
+    "contentId": "EP7345-PPSA27913_00-0818032948658132",
+    "region": "EP",
+    "publisherId": "EP7345"
+  },
+  {
+    "titleId": "PPSA27914_00",
+    "conceptId": 10013774,
+    "name": "Magnitude: Epsilon",
+    "contentId": "UP7347-PPSA27914_00-0194087954493838",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA27915_00",
@@ -115126,5 +115246,21 @@
     "contentId": "JP7323-PPSA27916_00-0903108255517876",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA27972_00",
+    "conceptId": 10013825,
+    "name": "Rookie Table Tennis",
+    "contentId": "UP7552-PPSA27972_00-0458875133580972",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA27973_00",
+    "conceptId": 10013826,
+    "name": "Toon Breakout 3D",
+    "contentId": "UP7552-PPSA27973_00-0496983961588000",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
