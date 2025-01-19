@@ -68267,15 +68267,15 @@
     "titleId": "PPSA15972_00",
     "conceptId": 10008191,
     "name": "DYNASTY WARRIORS: ORIGINS",
-    "contentId": null,
+    "contentId": "JP0106-PPSA15972_00-0681995633150780",
     "region": "JP",
     "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA15973_00",
     "conceptId": 10008191,
-    "name": "DYNASTY WARRIORS: ORIGINS",
-    "contentId": null,
+    "name": "\u771f\u30fb\u4e09\u570b\u7121\u53cc ORIGINS",
+    "contentId": "HP0106-PPSA15973_00-0681995633150780",
     "region": "HP",
     "publisherId": "HP0106"
   },
@@ -75918,6 +75918,14 @@
     "contentId": "EP6718-PPSA17616_00-0200713177467544",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA17621_00",
+    "conceptId": 10008870,
+    "name": "Mizuchi",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17623_00",
@@ -84651,9 +84659,9 @@
     "titleId": "PPSA19589_00",
     "conceptId": 10009596,
     "name": "Arken Age",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1962-PPSA19589_00-ARKENAGEVR000002",
+    "region": "EP",
+    "publisherId": "EP1962"
   },
   {
     "titleId": "PPSA19590_00",
@@ -86490,8 +86498,8 @@
   {
     "titleId": "PPSA19991_00",
     "conceptId": 10009737,
-    "name": "Tales of Graces f Remastered PS4 & PS5",
-    "contentId": null,
+    "name": "Tales of Graces f Remastered",
+    "contentId": "UP0700-PPSA19991_00-TALESOFGRACESF00",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -96010,10 +96018,10 @@
   {
     "titleId": "PPSA22170_00",
     "conceptId": 10009737,
-    "name": "Tales of Graces\u2122f Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Digital Artbook & Soundtrack",
+    "contentId": "UP0700-PPSA22170_00-TOGFARTANDSOUND0",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA22171_00",
@@ -108616,6 +108624,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA25190_00",
+    "conceptId": 10012000,
+    "name": "Horror Clash",
+    "contentId": "HP4312-PPSA25190_00-0232820841838140",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA25191_00",
     "conceptId": 10012083,
     "name": "Real Heroes: Firefighter HD",
@@ -113480,6 +113496,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26705_00",
+    "conceptId": 10013007,
+    "name": "Master Of Bow",
+    "contentId": "UP7668-PPSA26705_00-0975085525116607",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26706_00",
+    "conceptId": 10013007,
+    "name": "Master Of Bow",
+    "contentId": "UP7668-PPSA26706_00-0356705731632528",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26741_00",
     "conceptId": 10012933,
     "name": "GGmuks Casino: Slots",
@@ -114363,9 +114395,9 @@
     "titleId": "PPSA27143_00",
     "conceptId": 10013253,
     "name": "Swarm Madness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27143_00-0112700714662141",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27144_00",
@@ -114435,9 +114467,17 @@
     "titleId": "PPSA27159_00",
     "conceptId": 10013225,
     "name": "Pickle Invasion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA27159_00-0051360429971247",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA27160_00",
+    "conceptId": 10013225,
+    "name": "Pickle Invasion",
+    "contentId": "UP4312-PPSA27160_00-0308238030589020",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA27169_00",
@@ -114856,6 +114896,14 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA27525_00",
+    "conceptId": 10002456,
+    "name": "Marvel\u2019s Spider-Man 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27535_00",
     "conceptId": 10013465,
     "name": "Boomerang Of Destruction",
@@ -115040,6 +115088,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27635_00",
+    "conceptId": 10013549,
+    "name": "Zombie Dash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27656_00",
     "conceptId": 10013572,
     "name": "Rooftop Rascal: The Claus Cat",
@@ -115152,6 +115208,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27774_00",
+    "conceptId": 10013662,
+    "name": "Bright Escape",
+    "contentId": "UB0008-PPSA27774_00-0735165624700590",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA27810_00",
     "conceptId": 10013690,
     "name": "Stellar Docks",
@@ -115187,33 +115251,33 @@
     "titleId": "PPSA27906_00",
     "conceptId": 10013767,
     "name": "Copy The Line",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA27906_00-0409252050386120",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA27907_00",
     "conceptId": 10013767,
     "name": "Copy The Line",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA27907_00-0855640775640915",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA27908_00",
     "conceptId": 10013767,
     "name": "Copy The Line",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA27908_00-0339296040677751",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA27909_00",
     "conceptId": 10013767,
     "name": "Copy The Line",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA27909_00-0083251708387635",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA27913_00",
