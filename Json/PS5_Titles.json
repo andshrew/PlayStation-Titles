@@ -64810,10 +64810,10 @@
   {
     "titleId": "PPSA15339_00",
     "conceptId": 10007959,
-    "name": "Ninja Five-O",
+    "name": "Ninja Five-O PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA15340_00",
@@ -72970,8 +72970,8 @@
   {
     "titleId": "PPSA16921_00",
     "conceptId": 10008489,
-    "name": "Star Wars\u2122: Episode I: Jedi Power Battles\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "STAR WARS\u2122: Episode I: Jedi Power Battles\u2122",
+    "contentId": "EP1875-PPSA16921_00-JEDIPOWERBATTLES",
     "region": "EP",
     "publisherId": "EP1875"
   },
@@ -82120,6 +82120,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19048_00",
+    "conceptId": 10009384,
+    "name": "MediEvil 2",
+    "contentId": "UP9000-PPSA19048_00-SCUS945640000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA19050_00",
     "conceptId": 10008007,
     "name": "METAL SLUG ATTACK RELOADED",
@@ -89707,9 +89715,9 @@
     "titleId": "PPSA20635_00",
     "conceptId": 10010023,
     "name": "Party Animals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6415-PPSA20635_00-PARTYANIMALSPS5V",
+    "region": "HP",
+    "publisherId": "HP6415"
   },
   {
     "titleId": "PPSA20637_00",
@@ -104808,6 +104816,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA24276_00",
+    "conceptId": 10011523,
+    "name": "Fly Punch Boom!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24277_00",
     "conceptId": 10010649,
     "name": "UNDER DEFEAT PS4 & PS5",
@@ -105848,6 +105864,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA24490_00",
+    "conceptId": 10010334,
+    "name": "Balatro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24491_00",
     "conceptId": 10011761,
     "name": "Colorama Cubes",
@@ -106520,6 +106544,14 @@
     "publisherId": "EP0546"
   },
   {
+    "titleId": "PPSA24651_00",
+    "conceptId": 233517,
+    "name": "The Messenger",
+    "contentId": "EP3643-PPSA24651_00-THEMESSENGERSIEE",
+    "region": "EP",
+    "publisherId": "EP3643"
+  },
+  {
     "titleId": "PPSA24656_00",
     "conceptId": 10008991,
     "name": "Thief Simulator VR: Prologue",
@@ -106811,9 +106843,9 @@
     "titleId": "PPSA24781_00",
     "conceptId": 10011875,
     "name": "Dreamcore",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0595-PPSA24781_00-DREAMCOREPK00000",
+    "region": "UB",
+    "publisherId": "UB0595"
   },
   {
     "titleId": "PPSA24784_00",
@@ -111987,9 +112019,9 @@
     "titleId": "PPSA26160_00",
     "conceptId": 10012654,
     "name": "Cycle Chaser H-5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA26160_00-CYCLECHASERH5RAG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA26161_00",
@@ -112627,9 +112659,9 @@
     "titleId": "PPSA26324_00",
     "conceptId": 10012752,
     "name": "Vanity Fair: The Pursuit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8406-PPSA26324_00-0440037362021369",
+    "region": "HP",
+    "publisherId": "HP8406"
   },
   {
     "titleId": "PPSA26327_00",
@@ -113514,23 +113546,55 @@
   {
     "titleId": "PPSA26615_00",
     "conceptId": 10012961,
-    "name": "The Jumping Onion Ring - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Onion Ring",
+    "contentId": "EP6664-PPSA26615_00-0511622754525219",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26616_00",
     "conceptId": 10012961,
-    "name": "The Jumping Onion Ring - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Onion Ring",
+    "contentId": "UP6664-PPSA26616_00-0711829755940583",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26617_00",
     "conceptId": 10012961,
     "name": "The Jumping Onion Ring - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26619_00",
+    "conceptId": 10012962,
+    "name": "The Jumping Melon Rush - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26620_00",
+    "conceptId": 10012962,
+    "name": "The Jumping Melon Rush - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26621_00",
+    "conceptId": 10012962,
+    "name": "The Jumping Melon Rush - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26622_00",
+    "conceptId": 10012962,
+    "name": "The Jumping Melon Rush - PS4 & PS5",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -114200,6 +114264,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA26955_00",
+    "conceptId": 10013122,
+    "name": "Geometry Genius: Shapes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26960_00",
     "conceptId": 10013124,
     "name": "Learn to Play Vol. 9 - Santa's Sleigh Ride",
@@ -114291,9 +114363,9 @@
     "titleId": "PPSA27000_00",
     "conceptId": 10013154,
     "name": "Sword of the Necromancer: Resurrection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6484-PPSA27000_00-GRIMORIOOFGAMES0",
+    "region": "EP",
+    "publisherId": "EP6484"
   },
   {
     "titleId": "PPSA27006_00",
@@ -114470,6 +114542,14 @@
     "contentId": "UP8553-PPSA27089_00-0758114809725853",
     "region": "UP",
     "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA27092_00",
+    "conceptId": 10013229,
+    "name": "Wave Buxters",
+    "contentId": "UP5877-PPSA27092_00-0276588327040466",
+    "region": "UP",
+    "publisherId": "UP5877"
   },
   {
     "titleId": "PPSA27104_00",
@@ -115083,9 +115163,9 @@
     "titleId": "PPSA27422_00",
     "conceptId": 10013375,
     "name": "Gorilla Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6883-PPSA27422_00-0156382093196416",
+    "region": "UP",
+    "publisherId": "UP6883"
   },
   {
     "titleId": "PPSA27423_00",
@@ -115114,34 +115194,34 @@
   {
     "titleId": "PPSA27503_00",
     "conceptId": 10013440,
-    "name": "Street Food Restaurant Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Street Food Restaurant Owner",
+    "contentId": "EB0805-PPSA27503_00-0023980305745390",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27504_00",
     "conceptId": 10013440,
-    "name": "Street Food Restaurant Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Street Food Restaurant Owner",
+    "contentId": "EB0805-PPSA27504_00-0679162688703382",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27505_00",
     "conceptId": 10013440,
-    "name": "Street Food Restaurant Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Street Food Restaurant Owner",
+    "contentId": "EB0805-PPSA27505_00-0986965394393008",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27506_00",
     "conceptId": 10013440,
-    "name": "Street Food Restaurant Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Street Food Restaurant Owner",
+    "contentId": "EB0805-PPSA27506_00-0968616204273632",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27507_00",
@@ -115491,30 +115571,54 @@
     "titleId": "PPSA27780_00",
     "conceptId": 10013668,
     "name": "Merge Numbers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27780_00-0089863435343370",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27781_00",
     "conceptId": 10013668,
     "name": "Merge Numbers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27781_00-0669522082384745",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27782_00",
     "conceptId": 10013668,
     "name": "Merge Numbers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27782_00-0884420649416566",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27783_00",
     "conceptId": 10013668,
     "name": "Merge Numbers",
+    "contentId": "EB0805-PPSA27783_00-0202051713230307",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA27788_00",
+    "conceptId": 10013308,
+    "name": "Remember Christmas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27789_00",
+    "conceptId": 10013308,
+    "name": "Remember Christmas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27791_00",
+    "conceptId": 10013308,
+    "name": "Remember Christmas",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -115630,6 +115734,14 @@
     "contentId": "EP5206-PPSA27917_00-0139624601395039",
     "region": "EP",
     "publisherId": "EP5206"
+  },
+  {
+    "titleId": "PPSA27969_00",
+    "conceptId": 10008367,
+    "name": "Tilting Tiles: Micro Challenge",
+    "contentId": "UP4947-PPSA27969_00-MICROTILTCHALLEN",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA27970_00",
