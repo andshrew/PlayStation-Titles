@@ -56272,6 +56272,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA12645_00",
+    "conceptId": 10006961,
+    "name": "Red Solstice 2: Survivors",
+    "contentId": "UP4040-PPSA12645_00-REDSOLSTICE20000",
+    "region": "UP",
+    "publisherId": "UP4040"
+  },
+  {
     "titleId": "PPSA12648_00",
     "conceptId": 10005050,
     "name": "The Tale of Onogoro",
@@ -68170,10 +68178,10 @@
   {
     "titleId": "PPSA15942_00",
     "conceptId": 10007959,
-    "name": "Ninja Five-O",
+    "name": "Ninja Five-O PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0101"
   },
   {
     "titleId": "PPSA15949_00",
@@ -75878,6 +75886,14 @@
     "contentId": "UP0177-PPSA17597_00-SONICXSHADOWGENE",
     "region": "UP",
     "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA17599_00",
+    "conceptId": 10008503,
+    "name": "Clair Obscur: Expedition 33",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP7579"
   },
   {
     "titleId": "PPSA17601_00",
@@ -89280,6 +89296,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA20560_00",
+    "conceptId": 10009984,
+    "name": "DOOM: The Dark Ages",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1003"
+  },
+  {
     "titleId": "PPSA20567_00",
     "conceptId": 10009997,
     "name": "Dungeons and Goblins",
@@ -91984,6 +92008,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA21201_00",
+    "conceptId": 10009508,
+    "name": "City Transport Simulator: Tram",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21207_00",
     "conceptId": 10010250,
     "name": "Become the wild",
@@ -94418,10 +94450,10 @@
   {
     "titleId": "PPSA21771_00",
     "conceptId": 10010484,
-    "name": "Mika and the Witch's Mountain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Mika and The Witch's Mountain",
+    "contentId": "UP3868-PPSA21771_00-0471114794143761",
+    "region": "UP",
+    "publisherId": "UP3868"
   },
   {
     "titleId": "PPSA21772_00",
@@ -101372,24 +101404,24 @@
     "conceptId": 10011214,
     "name": "X-Out: Resurfaced",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA23481_00",
     "conceptId": 10011214,
     "name": "X-Out: Resurfaced",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA23482_00",
     "conceptId": 10011214,
     "name": "X-Out: Resurfaced",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA23487_00",
@@ -104144,6 +104176,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA24127_00",
+    "conceptId": 10011568,
+    "name": "Dragon Takers",
+    "contentId": "JP0013-PPSA24127_00-JP0DTAKERS000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA24128_00",
     "conceptId": 10011500,
     "name": "Cultist Simulator",
@@ -106526,6 +106566,14 @@
     "contentId": "HP6661-PPSA24639_00-0125798181099247",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA24643_00",
+    "conceptId": 233517,
+    "name": "The Messenger",
+    "contentId": "UP3643-PPSA24643_00-THEMESSENGERSIEA",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA24644_00",
@@ -111904,6 +111952,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26102_00",
+    "conceptId": 10004596,
+    "name": "The Legend of Heroes: Trails through Daybreak II Story Demo",
+    "contentId": "UP1063-PPSA26102_00-EDKURO2STDEMO001",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
+    "titleId": "PPSA26103_00",
+    "conceptId": 10004596,
+    "name": "The Legend of Heroes: Trails through Daybreak II Story Demo",
+    "contentId": "EP1063-PPSA26103_00-EDKURO2STDEMO001",
+    "region": "EP",
+    "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA26104_00",
+    "conceptId": 10004596,
+    "name": "The Legend of Heroes: Trails through Daybreak II Battle Demo",
+    "contentId": "UP1063-PPSA26104_00-EDKURO2BTLDEMO01",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
+    "titleId": "PPSA26105_00",
+    "conceptId": 10004596,
+    "name": "The Legend of Heroes: Trails through Daybreak II Battle Demo",
+    "contentId": "EP1063-PPSA26105_00-EDKURO2BTLDEMO01",
+    "region": "EP",
+    "publisherId": "EP1063"
+  },
+  {
     "titleId": "PPSA26108_00",
     "conceptId": 10012614,
     "name": "Westild's Law",
@@ -113232,6 +113312,14 @@
     "publisherId": "EP3945"
   },
   {
+    "titleId": "PPSA26529_00",
+    "conceptId": 10008104,
+    "name": "Techno Banter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26534_00",
     "conceptId": 10012909,
     "name": "Pro Flight Simulator",
@@ -113562,10 +113650,10 @@
   {
     "titleId": "PPSA26617_00",
     "conceptId": 10012961,
-    "name": "The Jumping Onion Ring - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Onion Ring",
+    "contentId": "JP6595-PPSA26617_00-0059820847115567",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26619_00",
@@ -113646,6 +113734,14 @@
     "contentId": "EB0805-PPSA26663_00-0776652971229834",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA26679_00",
+    "conceptId": 10012997,
+    "name": "NINJA GAIDEN 2 Black",
+    "contentId": "JP0106-PPSA26679_00-NG2B000000000000",
+    "region": "JP",
+    "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA26684_00",
@@ -114265,6 +114361,14 @@
   },
   {
     "titleId": "PPSA26955_00",
+    "conceptId": 10013122,
+    "name": "Geometry Genius: Shapes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26956_00",
     "conceptId": 10013122,
     "name": "Geometry Genius: Shapes",
     "contentId": null,
@@ -115506,10 +115610,10 @@
   {
     "titleId": "PPSA27694_00",
     "conceptId": 10012961,
-    "name": "The Jumping Onion Ring - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Onion Ring",
+    "contentId": "HP6661-PPSA27694_00-0519119235351274",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27704_00",
