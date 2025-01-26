@@ -72218,8 +72218,8 @@
   {
     "titleId": "PPSA16756_00",
     "conceptId": 10008489,
-    "name": "Star Wars\u2122: Episode I: Jedi Power Battles\u2122 PS4 & PS5",
-    "contentId": null,
+    "name": "STAR WARS\u2122: Episode I: Jedi Power Battles\u2122",
+    "contentId": "UP1032-PPSA16756_00-JEDIPOWERBATTLES",
     "region": "UP",
     "publisherId": "UP1032"
   },
@@ -73750,6 +73750,14 @@
     "contentId": "JP0177-PPSA17095_00-SONICORIONDAS000",
     "region": "JP",
     "publisherId": "JP0177"
+  },
+  {
+    "titleId": "PPSA17098_00",
+    "conceptId": 10008657,
+    "name": "Rogue Waters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17101_00",
@@ -92008,6 +92016,14 @@
     "publisherId": "HP6691"
   },
   {
+    "titleId": "PPSA21200_00",
+    "conceptId": 10009508,
+    "name": "City Transport Simulator: Tram",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21201_00",
     "conceptId": 10009508,
     "name": "City Transport Simulator: Tram",
@@ -109864,12 +109880,28 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25518_00",
+    "conceptId": 10003429,
+    "name": "Shujinkou",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25519_00",
     "conceptId": 10008104,
     "name": "Techno Banter: Ultimate Mix",
     "contentId": null,
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA25520_00",
+    "conceptId": 10003429,
+    "name": "Shujinkou",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25522_00",
@@ -112688,6 +112720,14 @@
     "publisherId": "UP8236"
   },
   {
+    "titleId": "PPSA26296_00",
+    "conceptId": 10005321,
+    "name": "Killing Floor 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26318_00",
     "conceptId": 10012384,
     "name": "Math Genius: Addition Edition",
@@ -114184,6 +114224,22 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA26863_00",
+    "conceptId": 10013072,
+    "name": "Soccer Goal Run",
+    "contentId": "UP7668-PPSA26863_00-0024683965830672",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26864_00",
+    "conceptId": 10013072,
+    "name": "Soccer Goal Run",
+    "contentId": "UP7668-PPSA26864_00-0867771471154943",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26877_00",
     "conceptId": 10012955,
     "name": "Tiny Terry's Turbo Trip",
@@ -115456,6 +115512,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA27579_00",
+    "conceptId": 10013499,
+    "name": "Golf Loop",
+    "contentId": "UB0008-PPSA27579_00-0884947063539105",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA27580_00",
     "conceptId": 10013502,
     "name": "Retro Santa Run",
@@ -115542,6 +115606,14 @@
     "contentId": "UB0008-PPSA27635_00-0186772917629729",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA27636_00",
+    "conceptId": 10013550,
+    "name": "Stickman Odyssey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27656_00",
@@ -115870,5 +115942,13 @@
     "contentId": "UP7552-PPSA27973_00-0496983961588000",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA28070_00",
+    "conceptId": 10009591,
+    "name": "HOPPING P",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
