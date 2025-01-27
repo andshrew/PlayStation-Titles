@@ -29099,7 +29099,7 @@
     "titleId": "PPSA07139_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY Echo of Ada",
-    "contentId": null,
+    "contentId": "HP0700-PPSA07139_00-SYNDUALITYADA000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -56278,6 +56278,14 @@
     "contentId": "UP4040-PPSA12645_00-REDSOLSTICE20000",
     "region": "UP",
     "publisherId": "UP4040"
+  },
+  {
+    "titleId": "PPSA12646_00",
+    "conceptId": 10006961,
+    "name": "Red Solstice 2: Survivors",
+    "contentId": "EP4040-PPSA12646_00-REDSOLSTICE20000",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA12648_00",
@@ -106424,6 +106432,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24617_00",
+    "conceptId": 10011813,
+    "name": "The Beastmaster Princess",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24620_00",
     "conceptId": 10011816,
     "name": "Long Yard Run",
@@ -113480,6 +113496,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA26577_00",
+    "conceptId": 10007290,
+    "name": "on Sunday 2",
+    "contentId": "UP7940-PPSA26577_00-0406787324681081",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
     "titleId": "PPSA26580_00",
     "conceptId": 10012948,
     "name": "Rivenaar's Grove",
@@ -114419,9 +114443,9 @@
     "titleId": "PPSA26955_00",
     "conceptId": 10013122,
     "name": "Geometry Genius: Shapes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA26955_00-GEOGENIUS5NA0000",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA26956_00",
@@ -115611,9 +115635,9 @@
     "titleId": "PPSA27636_00",
     "conceptId": 10013550,
     "name": "Stickman Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0008-PPSA27636_00-0123807668915646",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA27656_00",
@@ -115944,11 +115968,35 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA28069_00",
+    "conceptId": 10009591,
+    "name": "HOPPING P",
+    "contentId": "EP5645-PPSA28069_00-0600431653470428",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA28070_00",
     "conceptId": 10009591,
     "name": "HOPPING P",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA28070_00-0725945017404860",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28071_00",
+    "conceptId": 10009591,
+    "name": "HOPPING P",
+    "contentId": "EP5645-PPSA28071_00-0697823448285283",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28072_00",
+    "conceptId": 10009591,
+    "name": "HOPPING P",
+    "contentId": "EP5645-PPSA28072_00-0994886278057284",
+    "region": "EP",
+    "publisherId": "EP5645"
   }
 ]
