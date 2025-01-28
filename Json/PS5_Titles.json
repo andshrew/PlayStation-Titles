@@ -99848,6 +99848,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23090_00",
+    "conceptId": 10009816,
+    "name": "Neptunia Riders VS Dogoos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23091_00",
+    "conceptId": 10009816,
+    "name": "Neptunia Riders VS Dogoos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23093_00",
     "conceptId": 10000421,
     "name": "The Suicide Of Rachel Foster",
@@ -100734,6 +100750,14 @@
     "contentId": "EP5478-PPSA23339_00-0112187226507885",
     "region": "EP",
     "publisherId": "EP5478"
+  },
+  {
+    "titleId": "PPSA23340_00",
+    "conceptId": 10007228,
+    "name": "Promenade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23342_00",
@@ -106248,6 +106272,14 @@
     "publisherId": "UB0527"
   },
   {
+    "titleId": "PPSA24573_00",
+    "conceptId": 10007732,
+    "name": "Ambulance Life: A Paramedic Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24574_00",
     "conceptId": 10002965,
     "name": "Space Explore VR Demo",
@@ -110314,10 +110346,10 @@
   {
     "titleId": "PPSA25617_00",
     "conceptId": 10009827,
-    "name": "Cuisineer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ad\u30e5\u30a4\u30b8\u30cb\u30a2 \u30dd\u30e0\u3068\u307e\u3093\u3077\u304f\u30c0\u30f3\u30b8\u30e7\u30f3",
+    "contentId": "JP0530-PPSA25617_00-CUISINEER0000000",
+    "region": "JP",
+    "publisherId": "JP0530"
   },
   {
     "titleId": "PPSA25618_00",
@@ -114451,9 +114483,25 @@
     "titleId": "PPSA26956_00",
     "conceptId": 10013122,
     "name": "Geometry Genius: Shapes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA26956_00-GEOGENIUS5EU0000",
+    "region": "UB",
+    "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA26957_00",
+    "conceptId": 10013122,
+    "name": "Geometry Genius: Shapes",
+    "contentId": "UB1022-PPSA26957_00-GEOGENIUS5JP0000",
+    "region": "UB",
+    "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA26958_00",
+    "conceptId": 10013122,
+    "name": "Geometry Genius: Shapes",
+    "contentId": "UB1022-PPSA26958_00-GEOGENIUS5AS0000",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA26960_00",
@@ -114534,6 +114582,14 @@
     "contentId": "EP0600-PPSA26990_00-0666628137028316",
     "region": "EP",
     "publisherId": "EP0600"
+  },
+  {
+    "titleId": "PPSA26997_00",
+    "conceptId": 10013150,
+    "name": "SCP-087 THE STAIRWELL HORROR",
+    "contentId": "UB0768-PPSA26997_00-0290903629740117",
+    "region": "UB",
+    "publisherId": "UB0768"
   },
   {
     "titleId": "PPSA26999_00",
@@ -115016,6 +115072,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA27196_00",
+    "conceptId": 10013299,
+    "name": "Chibi Ninja Shino-kun Treasure of Demon Tower",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27197_00",
     "conceptId": 10013300,
     "name": "Squab",
@@ -115091,9 +115155,9 @@
     "titleId": "PPSA27212_00",
     "conceptId": 10013308,
     "name": "Remember Christmas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA27212_00-REMBRCHRISTMASNA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA27243_00",
@@ -115712,6 +115776,38 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA27695_00",
+    "conceptId": 10013597,
+    "name": "Mimi the Cat: Meow Together",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27696_00",
+    "conceptId": 10013597,
+    "name": "Mimi the Cat: Meow Together",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27697_00",
+    "conceptId": 10013597,
+    "name": "Mimi the Cat: Meow Together",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27698_00",
+    "conceptId": 10013597,
+    "name": "Mimi the Cat: Meow Together",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27704_00",
     "conceptId": 10013600,
     "name": "Penguin Flight",
@@ -115803,22 +115899,30 @@
     "titleId": "PPSA27788_00",
     "conceptId": 10013308,
     "name": "Remember Christmas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA27788_00-REMBRCHRISTMASEU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA27789_00",
     "conceptId": 10013308,
     "name": "Remember Christmas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA27789_00-REMBRCHRISTMASJP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA27791_00",
     "conceptId": 10013308,
     "name": "Remember Christmas",
+    "contentId": "UB1022-PPSA27791_00-REMBRCHRISTMASAS",
+    "region": "UB",
+    "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA27806_00",
+    "conceptId": 10013628,
+    "name": "Crunchyroll Subscription",
     "contentId": null,
     "region": null,
     "publisherId": null
