@@ -29091,7 +29091,7 @@
     "titleId": "PPSA07138_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY Echo of Ada",
-    "contentId": null,
+    "contentId": "JP0700-PPSA07138_00-SYNDUALITYADA000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -29107,7 +29107,7 @@
     "titleId": "PPSA07140_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY Echo of Ada",
-    "contentId": null,
+    "contentId": "EP0700-PPSA07140_00-SYNDUALITYADA000",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -29115,7 +29115,7 @@
     "titleId": "PPSA07141_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY Echo of Ada",
-    "contentId": null,
+    "contentId": "UP0700-PPSA07141_00-SYNDUALITYADA000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -33034,10 +33034,10 @@
   {
     "titleId": "PPSA07863_00",
     "conceptId": 10005142,
-    "name": "Resident Evil Director\u2019s Cut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u3000\u30c7\u30a3\u30ec\u30af\u30bf\u30fc\u30ba\u30ab\u30c3\u30c8",
+    "contentId": "JP0102-PPSA07863_00-SLPS009980000000",
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA07866_00",
@@ -56286,6 +56286,14 @@
     "contentId": "EP4040-PPSA12646_00-REDSOLSTICE20000",
     "region": "EP",
     "publisherId": "EP4040"
+  },
+  {
+    "titleId": "PPSA12647_00",
+    "conceptId": 10006961,
+    "name": "Red Solstice 2: Survivors",
+    "contentId": "JP0114-PPSA12647_00-REDSOLSTICE20000",
+    "region": "JP",
+    "publisherId": "JP0114"
   },
   {
     "titleId": "PPSA12648_00",
@@ -86456,6 +86464,14 @@
     "publisherId": "UP7161"
   },
   {
+    "titleId": "PPSA19969_00",
+    "conceptId": 10009733,
+    "name": "Turbo Overkill",
+    "contentId": "UP7336-PPSA19969_00-00000000000000NA",
+    "region": "UP",
+    "publisherId": "UP7336"
+  },
+  {
     "titleId": "PPSA19972_00",
     "conceptId": 10009551,
     "name": "MiLE HiGH TAXi",
@@ -88363,7 +88379,7 @@
     "titleId": "PPSA20370_00",
     "conceptId": 10009898,
     "name": "Tails of Iron 2: Whiskers of Winter",
-    "contentId": null,
+    "contentId": "UP6965-PPSA20370_00-TAILSOFIRON2WWUS",
     "region": "UP",
     "publisherId": "UP6965"
   },
@@ -92027,17 +92043,17 @@
     "titleId": "PPSA21200_00",
     "conceptId": 10009508,
     "name": "City Transport Simulator: Tram",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3004-PPSA21200_00-CTSTRAMSSTANDARD",
+    "region": "UP",
+    "publisherId": "UP3004"
   },
   {
     "titleId": "PPSA21201_00",
     "conceptId": 10009508,
     "name": "City Transport Simulator: Tram",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2866-PPSA21201_00-CTSTRAMSSTANDARD",
+    "region": "EP",
+    "publisherId": "EP2866"
   },
   {
     "titleId": "PPSA21207_00",
@@ -97136,6 +97152,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA22415_00",
+    "conceptId": 10010114,
+    "name": "A Rite from the Stars: Remaster Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22418_00",
     "conceptId": 10010734,
     "name": "ExitSlum11",
@@ -98347,25 +98371,25 @@
     "titleId": "PPSA22676_00",
     "conceptId": 10009816,
     "name": "Neptunia Riders VS Dogoos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0031-PPSA22676_00-NEPBIKEMAINGAME0",
+    "region": "UP",
+    "publisherId": "UP0031"
   },
   {
     "titleId": "PPSA22677_00",
     "conceptId": 10009816,
-    "name": "Neptunia Riders VS Dogoos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neptunia Riders VS Dogoos Digital Soundtrack",
+    "contentId": "UP0031-PPSA22677_00-DXCONTENTSND0001",
+    "region": "UP",
+    "publisherId": "UP0031"
   },
   {
     "titleId": "PPSA22678_00",
     "conceptId": 10009816,
-    "name": "Neptunia Riders VS Dogoos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neptunia Riders VS Dogoos Digital Artbook",
+    "contentId": "UP0031-PPSA22678_00-DXCONTENTART0001",
+    "region": "UP",
+    "publisherId": "UP0031"
   },
   {
     "titleId": "PPSA22679_00",
@@ -98446,6 +98470,22 @@
     "contentId": "UP0816-PPSA22692_00-0399380453016132",
     "region": "UP",
     "publisherId": "UP0816"
+  },
+  {
+    "titleId": "PPSA22695_00",
+    "conceptId": 10010684,
+    "name": "WWE 2K25 Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
+  },
+  {
+    "titleId": "PPSA22696_00",
+    "conceptId": 10010684,
+    "name": "WWE 2K25 Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1001"
   },
   {
     "titleId": "PPSA22697_00",
@@ -99843,25 +99883,25 @@
     "titleId": "PPSA23089_00",
     "conceptId": 10009816,
     "name": "Neptunia Riders VS Dogoos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4060-PPSA23089_00-NEPBIKEMAINGAME0",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA23090_00",
     "conceptId": 10009816,
-    "name": "Neptunia Riders VS Dogoos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neptunia Riders VS Dogoos Digital Artbook",
+    "contentId": "EP4060-PPSA23090_00-DXCONTENTART0001",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA23091_00",
     "conceptId": 10009816,
-    "name": "Neptunia Riders VS Dogoos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neptunia Riders VS Dogoos Digital Soundtrack",
+    "contentId": "EP4060-PPSA23091_00-DXCONTENTSND0001",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA23093_00",
@@ -103150,6 +103190,14 @@
     "contentId": "EP6985-PPSA23873_00-0028781214166865",
     "region": "EP",
     "publisherId": "EP6985"
+  },
+  {
+    "titleId": "PPSA23874_00",
+    "conceptId": 10011423,
+    "name": "ELDRADOR\u00ae CREATURES SHADOWFALL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23878_00",
@@ -111955,9 +112003,9 @@
     "titleId": "PPSA26076_00",
     "conceptId": 10004416,
     "name": "Botany Manor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5223-PPSA26076_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP5223"
   },
   {
     "titleId": "PPSA26078_00",
@@ -113107,9 +113155,9 @@
     "titleId": "PPSA26442_00",
     "conceptId": 10012837,
     "name": "Agent Fall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA26442_00-AGENTFALL0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA26444_00",
@@ -115734,6 +115782,22 @@
     "contentId": "HB0706-PPSA27659_00-0869932257343927",
     "region": "HB",
     "publisherId": "HB0706"
+  },
+  {
+    "titleId": "PPSA27668_00",
+    "conceptId": 10013492,
+    "name": "Anime Uni 3",
+    "contentId": "EP5506-PPSA27668_00-ANIMEUNI3PS5EP00",
+    "region": "EP",
+    "publisherId": "EP5506"
+  },
+  {
+    "titleId": "PPSA27673_00",
+    "conceptId": 10009430,
+    "name": "cyubeVR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27687_00",
