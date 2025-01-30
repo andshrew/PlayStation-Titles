@@ -36968,6 +36968,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA08560_00",
+    "conceptId": 10005449,
+    "name": "Split Fiction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA08570_00",
     "conceptId": 10005456,
     "name": "The Jumping Fries: TURBO",
@@ -80544,6 +80552,14 @@
     "publisherId": "UP1421"
   },
   {
+    "titleId": "PPSA18697_00",
+    "conceptId": 10009273,
+    "name": "The Bearer & The Last Flame",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18700_00",
     "conceptId": 221802,
     "name": "Whitestone",
@@ -87603,9 +87619,9 @@
     "titleId": "PPSA20208_00",
     "conceptId": 10009827,
     "name": "Cuisineer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4492-PPSA20208_00-CUISINEER0000000",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA20209_00",
@@ -88371,7 +88387,7 @@
     "titleId": "PPSA20369_00",
     "conceptId": 10009898,
     "name": "Tails of Iron 2: Whiskers of Winter",
-    "contentId": null,
+    "contentId": "EP6960-PPSA20369_00-TAILSOFIRON2WWEU",
     "region": "EP",
     "publisherId": "EP6960"
   },
@@ -88387,7 +88403,7 @@
     "titleId": "PPSA20371_00",
     "conceptId": 10009898,
     "name": "Tails of Iron 2: Whiskers of Winter",
-    "contentId": null,
+    "contentId": "JP6929-PPSA20371_00-TAILSOFIRON2WWJP",
     "region": "JP",
     "publisherId": "JP6929"
   },
@@ -98435,9 +98451,9 @@
     "titleId": "PPSA22684_00",
     "conceptId": 10010810,
     "name": "Eternal Strands",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7163-PPSA22684_00-0638043530157279",
+    "region": "UP",
+    "publisherId": "UP7163"
   },
   {
     "titleId": "PPSA22687_00",
@@ -100794,10 +100810,10 @@
   {
     "titleId": "PPSA23340_00",
     "conceptId": 10007228,
-    "name": "Promenade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d7\u30ed\u30e0\u30ca\u30fc\u30c9 \u5c11\u5e74\u30cb\u30e2\u3068\u30eb\u30eb\u306e\u5922\u306e\u4e16\u754c",
+    "contentId": "JP0098-PPSA23340_00-0153321695110668",
+    "region": "JP",
+    "publisherId": "JP0098"
   },
   {
     "titleId": "PPSA23342_00",
@@ -101931,7 +101947,7 @@
     "titleId": "PPSA23604_00",
     "conceptId": 10008362,
     "name": "The Stone of Madness",
-    "contentId": null,
+    "contentId": "EP0114-PPSA23604_00-0536269101527624",
     "region": "EP",
     "publisherId": "EP0114"
   },
@@ -106984,6 +107000,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA24763_00",
+    "conceptId": 10011891,
+    "name": "HexaScape: Cyber Defense",
+    "contentId": "EP8073-PPSA24763_00-HEXASCAPECD00000",
+    "region": "EP",
+    "publisherId": "EP8073"
+  },
+  {
     "titleId": "PPSA24764_00",
     "conceptId": 10005592,
     "name": "Mokoko X",
@@ -111144,6 +111168,14 @@
     "publisherId": "UP7931"
   },
   {
+    "titleId": "PPSA25804_00",
+    "conceptId": 10011124,
+    "name": "Momodora: Moonlit Farewell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25809_00",
     "conceptId": 10012429,
     "name": "O.W.L Projekt",
@@ -111558,6 +111590,14 @@
     "contentId": "UB0752-PPSA25934_00-0856993565321990",
     "region": "UB",
     "publisherId": "UB0752"
+  },
+  {
+    "titleId": "PPSA25943_00",
+    "conceptId": 10012509,
+    "name": "\u30b6\u30fb\u30b3\u30fc\u30de2B\uff1a\u30ab\u30bf\u30b3\u30f3\u30d9",
+    "contentId": "JP0211-PPSA25943_00-0699517124909445",
+    "region": "JP",
+    "publisherId": "JP0211"
   },
   {
     "titleId": "PPSA25948_00",
@@ -112224,6 +112264,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA26159_00",
+    "conceptId": 10012651,
+    "name": "Party Arcade Enhanced Edition",
+    "contentId": "UP2058-PPSA26159_00-0035173330401073",
+    "region": "UP",
+    "publisherId": "UP2058"
+  },
+  {
     "titleId": "PPSA26160_00",
     "conceptId": 10012654,
     "name": "Cycle Chaser H-5",
@@ -112523,9 +112571,9 @@
     "titleId": "PPSA26231_00",
     "conceptId": 10012703,
     "name": "Slasher: Origins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4459-PPSA26231_00-SLASHERSGAMEPS50",
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA26234_00",
@@ -113067,9 +113115,9 @@
     "titleId": "PPSA26421_00",
     "conceptId": 10012814,
     "name": "Accolade Sports Collection (QUByte Classics)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA26421_00-ACCOLADESCAPS5EU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA26423_00",
@@ -113374,6 +113422,14 @@
     "contentId": "UP4312-PPSA26473_00-0649029042268854",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA26474_00",
+    "conceptId": 10012830,
+    "name": "Futbol Kicks",
+    "contentId": "JP0089-PPSA26474_00-0361332575936090",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA26476_00",
@@ -114102,6 +114158,14 @@
     "contentId": "UP4312-PPSA26782_00-0680199268866488",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA26789_00",
+    "conceptId": 10009733,
+    "name": "Turbo Overkill",
+    "contentId": "EP7334-PPSA26789_00-00000000000000EU",
+    "region": "EP",
+    "publisherId": "EP7334"
   },
   {
     "titleId": "PPSA26798_00",
@@ -115784,12 +115848,36 @@
     "publisherId": "HB0706"
   },
   {
+    "titleId": "PPSA27667_00",
+    "conceptId": 10013492,
+    "name": "Anime Uni 3",
+    "contentId": "UP5325-PPSA27667_00-ANIMEUNI3PS5UP00",
+    "region": "UP",
+    "publisherId": "UP5325"
+  },
+  {
     "titleId": "PPSA27668_00",
     "conceptId": 10013492,
     "name": "Anime Uni 3",
     "contentId": "EP5506-PPSA27668_00-ANIMEUNI3PS5EP00",
     "region": "EP",
     "publisherId": "EP5506"
+  },
+  {
+    "titleId": "PPSA27669_00",
+    "conceptId": 10013492,
+    "name": "Anime Uni 3",
+    "contentId": "JP5160-PPSA27669_00-ANIMEUNI3PS5JP00",
+    "region": "JP",
+    "publisherId": "JP5160"
+  },
+  {
+    "titleId": "PPSA27670_00",
+    "conceptId": 10013492,
+    "name": "Anime Uni 3",
+    "contentId": "HP5223-PPSA27670_00-ANIMEUNI3PS5HP00",
+    "region": "HP",
+    "publisherId": "HP5223"
   },
   {
     "titleId": "PPSA27673_00",
@@ -115995,33 +116083,33 @@
     "titleId": "PPSA27810_00",
     "conceptId": 10013690,
     "name": "Stellar Docks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA27810_00-STEDOC0000077770",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA27811_00",
     "conceptId": 10013690,
     "name": "Stellar Docks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA27811_00-STEDOC0000077771",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA27812_00",
     "conceptId": 10013690,
     "name": "Stellar Docks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA27812_00-STEDOC0000077773",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA27813_00",
     "conceptId": 10013690,
     "name": "Stellar Docks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA27813_00-STEDOC0000077772",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA27838_00",
