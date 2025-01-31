@@ -66688,6 +66688,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15665_00",
+    "conceptId": 10008095,
+    "name": "Wanderer: The Fragments of Fate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15671_00",
     "conceptId": 10007472,
     "name": "Everspace 2",
@@ -75987,9 +75995,9 @@
     "titleId": "PPSA17622_00",
     "conceptId": 10008870,
     "name": "Mizuchi",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7088-PPSA17622_00-0627068230965009",
+    "region": "EP",
+    "publisherId": "EP7088"
   },
   {
     "titleId": "PPSA17623_00",
@@ -84768,6 +84776,22 @@
     "publisherId": "JP7583"
   },
   {
+    "titleId": "PPSA19595_00",
+    "conceptId": 10008937,
+    "name": "KAMiBAKO - Mythology of Cube -",
+    "contentId": "EP7600-PPSA19595_00-0398922994959950",
+    "region": "EP",
+    "publisherId": "EP7600"
+  },
+  {
+    "titleId": "PPSA19596_00",
+    "conceptId": 10008937,
+    "name": "KAMiBAKO - Mythology of Cube -",
+    "contentId": "HP7629-PPSA19596_00-0245146129239089",
+    "region": "HP",
+    "publisherId": "HP7629"
+  },
+  {
     "titleId": "PPSA19597_00",
     "conceptId": 232290,
     "name": "Bibi & Tina \u2013 Adventures with Horses",
@@ -86627,7 +86651,7 @@
     "titleId": "PPSA19997_00",
     "conceptId": 10009628,
     "name": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30fb\u30d6\u30ec\u30a4\u30d6 \u5e7d\u970a\u8239\u56e3\u3068\u6d88\u3048\u305f\u82f1\u96c4",
-    "contentId": null,
+    "contentId": "JP0404-PPSA19997_00-PHANTOMBRAVE2001",
     "region": "JP",
     "publisherId": "JP0404"
   },
@@ -97168,12 +97192,36 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA22414_00",
+    "conceptId": 10010114,
+    "name": "A Rite from the Stars: Remaster Edition",
+    "contentId": "EP6252-PPSA22414_00-ARITEFROMTHPS5EU",
+    "region": "EP",
+    "publisherId": "EP6252"
+  },
+  {
     "titleId": "PPSA22415_00",
     "conceptId": 10010114,
     "name": "A Rite from the Stars: Remaster Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA22416_00",
+    "conceptId": 10010114,
+    "name": "A Rite from the Stars: Remaster Edition",
+    "contentId": "JP6169-PPSA22416_00-ARITEFROMTHPS5JA",
+    "region": "JP",
+    "publisherId": "JP6169"
+  },
+  {
+    "titleId": "PPSA22417_00",
+    "conceptId": 10010114,
+    "name": "A Rite from the Stars: Remaster Edition",
+    "contentId": "HP6236-PPSA22417_00-ARITEFROMTHPS5AS",
+    "region": "HP",
+    "publisherId": "HP6236"
   },
   {
     "titleId": "PPSA22418_00",
@@ -100659,17 +100707,17 @@
     "titleId": "PPSA23303_00",
     "conceptId": 10011126,
     "name": "Basureroes: Invasion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA23303_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA23304_00",
     "conceptId": 10011126,
     "name": "Basureroes: Invasion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA23304_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA23306_00",
@@ -101992,6 +102040,14 @@
     "publisherId": "UB0165"
   },
   {
+    "titleId": "PPSA23615_00",
+    "conceptId": 10011288,
+    "name": "Citizen Sleeper 2: Starward Vector",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23616_00",
     "conceptId": 10011288,
     "name": "Citizen Sleeper 2: Starward Vector",
@@ -102474,10 +102530,10 @@
   {
     "titleId": "PPSA23719_00",
     "conceptId": 10011338,
-    "name": "ROBOBEAT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Robobeat",
+    "contentId": "EP6959-PPSA23719_00-SIEERBBTPS500000",
+    "region": "EP",
+    "publisherId": "EP6959"
   },
   {
     "titleId": "PPSA23721_00",
@@ -106739,9 +106795,9 @@
     "titleId": "PPSA24657_00",
     "conceptId": 10011826,
     "name": "Gimmick! 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6026-PPSA24657_00-0767102518054372",
+    "region": "UP",
+    "publisherId": "UP6026"
   },
   {
     "titleId": "PPSA24658_00",
@@ -109120,6 +109176,14 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA25275_00",
+    "conceptId": 10012124,
+    "name": "Girlfriend from Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25278_00",
     "conceptId": 10012125,
     "name": "1-2-Whopping Word Search!",
@@ -109856,6 +109920,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA25466_00",
+    "conceptId": 10010877,
+    "name": "ELDEN RING NIGHTREIGN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25467_00",
     "conceptId": 10011900,
     "name": "Trombone Champ: Unflattened!",
@@ -110010,8 +110082,8 @@
   {
     "titleId": "PPSA25519_00",
     "conceptId": 10008104,
-    "name": "Techno Banter: Ultimate Mix",
-    "contentId": null,
+    "name": "Techno Banter",
+    "contentId": "EP2627-PPSA25519_00-TECHNOBANTERPS50",
     "region": "EP",
     "publisherId": "EP2627"
   },
@@ -111066,10 +111138,10 @@
   {
     "titleId": "PPSA25783_00",
     "conceptId": 10011338,
-    "name": "ROBOBEAT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Robobeat",
+    "contentId": "JP6928-PPSA25783_00-0067734122394804",
+    "region": "JP",
+    "publisherId": "JP6928"
   },
   {
     "titleId": "PPSA25785_00",
@@ -113107,9 +113179,9 @@
     "titleId": "PPSA26420_00",
     "conceptId": 10012814,
     "name": "Accolade Sports Collection (QUByte Classics)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA26420_00-ACCOLADESCAPS5NA",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA26421_00",
@@ -113432,6 +113504,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA26475_00",
+    "conceptId": 10012830,
+    "name": "Futbol Kicks",
+    "contentId": "HP4312-PPSA26475_00-0304721927276994",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA26476_00",
     "conceptId": 10012634,
     "name": "Unhidden: Cozy Hidden Object: Products",
@@ -113542,6 +113622,14 @@
     "contentId": "UP7552-PPSA26544_00-0165945739689205",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA26548_00",
+    "conceptId": 203372,
+    "name": "Path\u00e9 Thuis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26549_00",
@@ -114632,6 +114720,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA26962_00",
+    "conceptId": 10013125,
+    "name": "Snezhinka",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26964_00",
     "conceptId": 10013051,
     "name": "DISORDER",
@@ -115168,6 +115264,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27189_00",
+    "conceptId": 10013237,
+    "name": "Casual Sport Series: Tennis",
+    "contentId": "UP7578-PPSA27189_00-0901933268937502",
+    "region": "UP",
+    "publisherId": "UP7578"
+  },
+  {
     "titleId": "PPSA27194_00",
     "conceptId": 10013054,
     "name": "A Bibelot: Y-Type",
@@ -115195,9 +115299,9 @@
     "titleId": "PPSA27197_00",
     "conceptId": 10013300,
     "name": "Squab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA27197_00-SQUABRATALAIKAGM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA27201_00",
@@ -115272,12 +115376,28 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA27241_00",
+    "conceptId": 234992,
+    "name": "Nerved",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27243_00",
     "conceptId": 10013323,
     "name": "Grand Taxi Auto - GTA",
     "contentId": "UB0859-PPSA27243_00-0485443827089653",
     "region": "UB",
     "publisherId": "UB0859"
+  },
+  {
+    "titleId": "PPSA27283_00",
+    "conceptId": 10013343,
+    "name": "Holiday Eye Spy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27316_00",
@@ -115518,6 +115638,14 @@
     "contentId": "JP7323-PPSA27419_00-0680506752522935",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA27420_00",
+    "conceptId": 10013409,
+    "name": "Sugoro Quest: Dice Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27422_00",
@@ -115888,6 +116016,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27674_00",
+    "conceptId": 10013583,
+    "name": "Solemn Warriors",
+    "contentId": "UP5877-PPSA27674_00-0700982109947304",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA27687_00",
     "conceptId": 10006807,
     "name": "SMILY ANGRY",
@@ -116120,6 +116256,14 @@
     "publisherId": "HB1367"
   },
   {
+    "titleId": "PPSA27878_00",
+    "conceptId": 10013722,
+    "name": "\u904b\u547d\u306e\u82f1\u96c4",
+    "contentId": "UB0675-PPSA27878_00-0654955227412010",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
     "titleId": "PPSA27906_00",
     "conceptId": 10013767,
     "name": "Copy The Line",
@@ -116192,6 +116336,14 @@
     "publisherId": "EP5206"
   },
   {
+    "titleId": "PPSA27968_00",
+    "conceptId": 10013819,
+    "name": "DuckDuck Shoot",
+    "contentId": "UP5877-PPSA27968_00-0888240672203422",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA27969_00",
     "conceptId": 10008367,
     "name": "Tilting Tiles: Micro Challenge",
@@ -116254,5 +116406,29 @@
     "contentId": "EP5645-PPSA28072_00-0994886278057284",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28383_00",
+    "conceptId": 10014124,
+    "name": "Remember Valentine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28384_00",
+    "conceptId": 10014124,
+    "name": "Remember Valentine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28483_00",
+    "conceptId": 10010443,
+    "name": "Amer Fighting",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
