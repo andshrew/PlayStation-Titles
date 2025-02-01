@@ -63987,7 +63987,7 @@
     "titleId": "PPSA14957_00",
     "conceptId": 10007831,
     "name": "Prison Architect 2",
-    "contentId": null,
+    "contentId": "UP4139-PPSA14957_00-PRISONARCHITECT2",
     "region": "UP",
     "publisherId": "UP4139"
   },
@@ -70648,6 +70648,14 @@
     "publisherId": "EP4886"
   },
   {
+    "titleId": "PPSA16444_00",
+    "conceptId": 10007113,
+    "name": "\u30de\u30af\u30ed\u30b9 -Shooting Insight-",
+    "contentId": "JP0540-PPSA16444_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0540"
+  },
+  {
     "titleId": "PPSA16448_00",
     "conceptId": 234601,
     "name": "DreamingCanvas",
@@ -74467,7 +74475,7 @@
     "titleId": "PPSA17232_00",
     "conceptId": 10008716,
     "name": "Sniper Elite: Resistance",
-    "contentId": null,
+    "contentId": "UP4363-PPSA17232_00-SNIPERELITERES00",
     "region": "UP",
     "publisherId": "UP4363"
   },
@@ -91352,6 +91360,22 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA21014_00",
+    "conceptId": 10010190,
+    "name": "Dollhouse: Behind the Broken Mirror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21015_00",
+    "conceptId": 10010190,
+    "name": "Dollhouse: Behind the Broken Mirror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21016_00",
     "conceptId": 10007938,
     "name": "Labyrinth Junior",
@@ -91435,7 +91459,7 @@
     "titleId": "PPSA21029_00",
     "conceptId": 10009628,
     "name": "Phantom Brave: The Lost Hero",
-    "contentId": null,
+    "contentId": "UP1063-PPSA21029_00-PHANTOMBRAVE2001",
     "region": "UP",
     "publisherId": "UP1063"
   },
@@ -95936,6 +95960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22114_00",
+    "conceptId": 10009877,
+    "name": "Lost in Play",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22116_00",
     "conceptId": 10009877,
     "name": "Lost in Play",
@@ -97203,9 +97235,9 @@
     "titleId": "PPSA22415_00",
     "conceptId": 10010114,
     "name": "A Rite from the Stars: Remaster Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6253-PPSA22415_00-ARITEFROMTHPS5US",
+    "region": "UP",
+    "publisherId": "UP6253"
   },
   {
     "titleId": "PPSA22416_00",
@@ -100184,6 +100216,22 @@
     "publisherId": "UP0604"
   },
   {
+    "titleId": "PPSA23174_00",
+    "conceptId": 10011063,
+    "name": "Keylocker",
+    "contentId": "JP0907-PPSA23174_00-0217336867652567",
+    "region": "JP",
+    "publisherId": "JP0907"
+  },
+  {
+    "titleId": "PPSA23175_00",
+    "conceptId": 10011063,
+    "name": "Keylocker",
+    "contentId": "HP0647-PPSA23175_00-0017902304891801",
+    "region": "HP",
+    "publisherId": "HP0647"
+  },
+  {
     "titleId": "PPSA23177_00",
     "conceptId": 10009246,
     "name": "Pickleball",
@@ -102050,10 +102098,10 @@
   {
     "titleId": "PPSA23616_00",
     "conceptId": 10011288,
-    "name": "Citizen Sleeper 2: Starward Vector",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Citizen Sleeper 2",
+    "contentId": "EP8921-PPSA23616_00-CITIZENSLEEPER02",
+    "region": "EP",
+    "publisherId": "EP8921"
   },
   {
     "titleId": "PPSA23621_00",
@@ -102538,18 +102586,18 @@
   {
     "titleId": "PPSA23721_00",
     "conceptId": 10011338,
-    "name": "ROBOBEAT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Robobeat",
+    "contentId": "UP6964-PPSA23721_00-SIEARBBTPS500000",
+    "region": "UP",
+    "publisherId": "UP6964"
   },
   {
     "titleId": "PPSA23722_00",
     "conceptId": 10011338,
-    "name": "ROBOBEAT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Robobeat",
+    "contentId": "HP6979-PPSA23722_00-SIEJAASIARBBTPS5",
+    "region": "HP",
+    "publisherId": "HP6979"
   },
   {
     "titleId": "PPSA23724_00",
@@ -106184,6 +106232,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA24515_00",
+    "conceptId": 10011762,
+    "name": "Alone in the Dark 2 (1996)",
+    "contentId": "EP4389-PPSA24515_00-SLUS002390000000",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA24516_00",
     "conceptId": 10011766,
     "name": "DREADOUT REMASTERED COLLECTION",
@@ -108282,10 +108338,10 @@
   {
     "titleId": "PPSA25018_00",
     "conceptId": 10010949,
-    "name": "Unsolved Case Series",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Unsolved Case: Above the Law CE",
+    "contentId": "UB0429-PPSA25018_00-UNSOLVEDCASEKP04",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA25031_00",
@@ -109174,6 +109230,14 @@
     "contentId": "HB0405-PPSA25270_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA25274_00",
+    "conceptId": 10012124,
+    "name": "Girlfriend from Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25275_00",
@@ -111656,6 +111720,14 @@
     "publisherId": "JP2205"
   },
   {
+    "titleId": "PPSA25931_00",
+    "conceptId": 10012406,
+    "name": "Undying",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25934_00",
     "conceptId": 10012503,
     "name": "Gamer Quest",
@@ -111891,9 +111963,9 @@
     "titleId": "PPSA26014_00",
     "conceptId": 10012207,
     "name": "Pets & Stuff",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0225-PPSA26014_00-0610772746287695",
+    "region": "UB",
+    "publisherId": "UB0225"
   },
   {
     "titleId": "PPSA26015_00",
@@ -113586,10 +113658,10 @@
   {
     "titleId": "PPSA26529_00",
     "conceptId": 10008104,
-    "name": "Techno Banter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Techno Banter - Official Soundtrack",
+    "contentId": "EP2627-PPSA26529_00-TECHNOBANTEROST0",
+    "region": "EP",
+    "publisherId": "EP2627"
   },
   {
     "titleId": "PPSA26534_00",
@@ -115376,12 +115448,28 @@
     "publisherId": "UB1022"
   },
   {
-    "titleId": "PPSA27241_00",
-    "conceptId": 234992,
-    "name": "Nerved",
+    "titleId": "PPSA27235_00",
+    "conceptId": 10013318,
+    "name": "CleanPlay",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27239_00",
+    "conceptId": 234992,
+    "name": "Nerved",
+    "contentId": "UP5877-PPSA27239_00-0487369080112960",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA27241_00",
+    "conceptId": 234992,
+    "name": "Nerved",
+    "contentId": "EP8070-PPSA27241_00-0983427460249833",
+    "region": "EP",
+    "publisherId": "EP8070"
   },
   {
     "titleId": "PPSA27243_00",
@@ -116128,6 +116216,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27713_00",
+    "conceptId": 10013612,
+    "name": "Angry Battalion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27714_00",
+    "conceptId": 10013612,
+    "name": "Angry Battalion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27715_00",
+    "conceptId": 10013612,
+    "name": "Angry Battalion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27716_00",
+    "conceptId": 10013612,
+    "name": "Angry Battalion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27733_00",
     "conceptId": 10013625,
     "name": "Piece Out",
@@ -116150,6 +116270,22 @@
     "contentId": "UB0008-PPSA27774_00-0735165624700590",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA27776_00",
+    "conceptId": 10013667,
+    "name": "Shopping Fever",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27779_00",
+    "conceptId": 10013667,
+    "name": "Shopping Fever",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27780_00",
@@ -116184,6 +116320,22 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA27785_00",
+    "conceptId": 10013669,
+    "name": "Dance Mania",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27787_00",
+    "conceptId": 10013669,
+    "name": "Dance Mania",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27788_00",
     "conceptId": 10013308,
     "name": "Remember Christmas",
@@ -116211,6 +116363,14 @@
     "titleId": "PPSA27806_00",
     "conceptId": 10013628,
     "name": "Crunchyroll Subscription",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27807_00",
+    "conceptId": 10013688,
+    "name": "Perfect Ninja Painter 3",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -116406,6 +116566,46 @@
     "contentId": "EP5645-PPSA28072_00-0994886278057284",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28112_00",
+    "conceptId": 10013944,
+    "name": "Cocktail Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28113_00",
+    "conceptId": 10013944,
+    "name": "Cocktail Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28114_00",
+    "conceptId": 10013944,
+    "name": "Cocktail Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28258_00",
+    "conceptId": 10014039,
+    "name": "Boundland",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28259_00",
+    "conceptId": 10014040,
+    "name": "Ancient Ants Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28383_00",
