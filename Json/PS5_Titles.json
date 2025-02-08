@@ -82368,6 +82368,14 @@
     "publisherId": "HB0080"
   },
   {
+    "titleId": "PPSA19087_00",
+    "conceptId": 10009398,
+    "name": "Build Lands",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19097_00",
     "conceptId": 10007685,
     "name": "\u304d\u307f\u306e\u307e\u3061 \u30b5\u30f3\u30c9\u30ed\u30c3\u30af \u30aa\u30f3\u30e9\u30a4\u30f3",
@@ -86451,7 +86459,7 @@
     "titleId": "PPSA19943_00",
     "conceptId": 10009721,
     "name": "Big Helmet Heroes",
-    "contentId": null,
+    "contentId": "UB0045-PPSA19943_00-BIGHELMETPS50000",
     "region": "UB",
     "publisherId": "UB0045"
   },
@@ -101048,12 +101056,20 @@
     "publisherId": "UP7452"
   },
   {
+    "titleId": "PPSA23346_00",
+    "conceptId": 10011140,
+    "name": "Rock 'N Racing Bundle 3 in 1",
+    "contentId": "EP6922-PPSA23346_00-0395892530680167",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA23347_00",
     "conceptId": 10011140,
     "name": "Rock 'N Racing Bundle 3 in 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA23347_00-0267818394077683",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA23352_00",
@@ -102995,17 +103011,17 @@
     "titleId": "PPSA23804_00",
     "conceptId": 10007113,
     "name": "MACROSS -Shooting Insight-",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5098-PPSA23804_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA23805_00",
     "conceptId": 10007113,
     "name": "MACROSS -Shooting Insight-",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4912-PPSA23805_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA23806_00",
@@ -114258,10 +114274,10 @@
   {
     "titleId": "PPSA26619_00",
     "conceptId": 10012962,
-    "name": "The Jumping Melon Rush - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Melon Rush",
+    "contentId": "EP6664-PPSA26619_00-0701957515192643",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26620_00",
@@ -114274,18 +114290,18 @@
   {
     "titleId": "PPSA26621_00",
     "conceptId": 10012962,
-    "name": "The Jumping Melon Rush - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Melon Rush",
+    "contentId": "JP6595-PPSA26621_00-0301091349944387",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26622_00",
     "conceptId": 10012962,
-    "name": "The Jumping Melon Rush - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Melon Rush",
+    "contentId": "HP6661-PPSA26622_00-0499861030765381",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26623_00",
@@ -114590,6 +114606,14 @@
     "contentId": "UP4312-PPSA26782_00-0680199268866488",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA26783_00",
+    "conceptId": 10012976,
+    "name": "New Year's Jam",
+    "contentId": "JP0089-PPSA26783_00-0051635277664368",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA26784_00",
@@ -115395,9 +115419,9 @@
     "titleId": "PPSA27104_00",
     "conceptId": 10011189,
     "name": "Shieldwall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0760-PPSA27104_00-0000000000000000",
+    "region": "UB",
+    "publisherId": "UB0760"
   },
   {
     "titleId": "PPSA27109_00",
@@ -115843,9 +115867,9 @@
     "titleId": "PPSA27283_00",
     "conceptId": 10013343,
     "name": "Holiday Eye Spy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA27283_00-0670797393565360",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA27316_00",
@@ -116459,9 +116483,9 @@
     "titleId": "PPSA27673_00",
     "conceptId": 10009430,
     "name": "cyubeVR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7713-PPSA27673_00-0211586764717043",
+    "region": "JP",
+    "publisherId": "JP7713"
   },
   {
     "titleId": "PPSA27674_00",
@@ -116571,6 +116595,14 @@
     "titleId": "PPSA27707_00",
     "conceptId": 10013600,
     "name": "Penguin Flight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27712_00",
+    "conceptId": 10013567,
+    "name": "DodgeCraft",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -117176,7 +117208,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28386_00",
+    "conceptId": 10014124,
+    "name": "Remember Valentine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28388_00",
+    "conceptId": 10014124,
+    "name": "Remember Valentine",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28389_00",
     "conceptId": 10014124,
     "name": "Remember Valentine",
     "contentId": null,
