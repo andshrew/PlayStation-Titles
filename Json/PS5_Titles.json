@@ -68856,6 +68856,14 @@
     "publisherId": "HP6784"
   },
   {
+    "titleId": "PPSA16078_00",
+    "conceptId": 10008226,
+    "name": "Amerzone - The Explorer's Legacy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16081_00",
     "conceptId": 10008227,
     "name": "Sokolab",
@@ -103499,9 +103507,9 @@
     "titleId": "PPSA23883_00",
     "conceptId": 10011439,
     "name": "Quilts and Cats of Calico",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2723-PPSA23883_00-CALICOPS50000000",
+    "region": "EP",
+    "publisherId": "EP2723"
   },
   {
     "titleId": "PPSA23884_00",
@@ -115371,9 +115379,9 @@
     "titleId": "PPSA27070_00",
     "conceptId": 10013209,
     "name": "Super Jagger Bomb 2: Go East",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA27070_00-SUPERJAGGERBOMB2",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA27075_00",
@@ -116696,6 +116704,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27711_00",
+    "conceptId": 10011522,
+    "name": "Dating Stories",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27712_00",
     "conceptId": 10013567,
     "name": "DodgeCraft",
@@ -117275,17 +117291,17 @@
     "titleId": "PPSA28264_00",
     "conceptId": 10014046,
     "name": "Puzzle Piecer: The World Below",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA28264_00-0540415989288772",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA28265_00",
     "conceptId": 10014046,
     "name": "Puzzle Piecer: The World Below",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA28265_00-0232514206773936",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA28266_00",
@@ -117310,6 +117326,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28315_00",
+    "conceptId": 10009640,
+    "name": "B MATH",
+    "contentId": "EP5645-PPSA28315_00-0520442650554068",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28316_00",
+    "conceptId": 10009640,
+    "name": "B MATH",
+    "contentId": "EP5645-PPSA28316_00-0955406440123810",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28317_00",
+    "conceptId": 10009640,
+    "name": "B MATH",
+    "contentId": "EP5645-PPSA28317_00-0658660893363969",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28318_00",
+    "conceptId": 10009640,
+    "name": "B MATH",
+    "contentId": "EP5645-PPSA28318_00-0559543014937923",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA28383_00",
