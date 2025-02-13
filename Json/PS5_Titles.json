@@ -96952,6 +96952,22 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA22302_00",
+    "conceptId": 10005966,
+    "name": "Glover (QUByte Classics)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22303_00",
+    "conceptId": 10005966,
+    "name": "Glover (QUByte Classics)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22307_00",
     "conceptId": 10010690,
     "name": "PO'ed: Definitive Edition",
@@ -105504,6 +105520,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24331_00",
+    "conceptId": 10011675,
+    "name": "Prison Loop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24332_00",
+    "conceptId": 10011675,
+    "name": "Prison Loop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24339_00",
     "conceptId": 10011679,
     "name": "Orbital Dance",
@@ -109904,6 +109936,22 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA25379_00",
+    "conceptId": 10010877,
+    "name": "ELDEN RING NIGHTREIGN PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA25380_00",
+    "conceptId": 10010877,
+    "name": "ELDEN RING NIGHTREIGN PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA25387_00",
     "conceptId": 10012171,
     "name": "Pixicharm - Dinoluship",
@@ -110362,10 +110410,10 @@
   {
     "titleId": "PPSA25520_00",
     "conceptId": 10003429,
-    "name": "Shujinkou",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shujinkou Digital Artbook",
+    "contentId": "EP6879-PPSA25520_00-0605725354483252",
+    "region": "EP",
+    "publisherId": "EP6879"
   },
   {
     "titleId": "PPSA25522_00",
@@ -111939,9 +111987,9 @@
     "titleId": "PPSA25931_00",
     "conceptId": 10012406,
     "name": "Undying",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6337-PPSA25931_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP6337"
   },
   {
     "titleId": "PPSA25934_00",
@@ -112691,9 +112739,9 @@
     "titleId": "PPSA26162_00",
     "conceptId": 10012655,
     "name": "Recall: Empty Wishes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4127-PPSA26162_00-RECALLGLOBAL0000",
+    "region": "UP",
+    "publisherId": "UP4127"
   },
   {
     "titleId": "PPSA26163_00",
@@ -113896,6 +113944,14 @@
     "publisherId": "EB1450"
   },
   {
+    "titleId": "PPSA26477_00",
+    "conceptId": 10012850,
+    "name": "Centum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26488_00",
     "conceptId": 10012862,
     "name": "JIGSAW CHRONICLES: Most Wanted",
@@ -114683,9 +114739,9 @@
     "titleId": "PPSA26793_00",
     "conceptId": 10012938,
     "name": "METAL SUITS: Counter-attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0393-PPSA26793_00-0313257988437368",
+    "region": "UB",
+    "publisherId": "UB0393"
   },
   {
     "titleId": "PPSA26798_00",
@@ -114939,9 +114995,9 @@
     "titleId": "PPSA26877_00",
     "conceptId": 10012955,
     "name": "Tiny Terry's Turbo Trip",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6930-PPSA26877_00-0669157732693553",
+    "region": "EP",
+    "publisherId": "EP6930"
   },
   {
     "titleId": "PPSA26878_00",
@@ -115178,10 +115234,10 @@
   {
     "titleId": "PPSA26962_00",
     "conceptId": 10013125,
-    "name": "Snezhinka",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u6551\u56fd\u306e\u30b9\u30cd\u30b8\u30f3\u30ab",
+    "contentId": "JP0122-PPSA26962_00-0000000SNEZHINKA",
+    "region": "JP",
+    "publisherId": "JP0122"
   },
   {
     "titleId": "PPSA26964_00",
@@ -116504,6 +116560,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA27614_00",
+    "conceptId": 233247,
+    "name": "Sayonara Wild Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27635_00",
     "conceptId": 10013549,
     "name": "Zombie Dash",
@@ -116675,33 +116739,33 @@
     "titleId": "PPSA27704_00",
     "conceptId": 10013600,
     "name": "Penguin Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA27704_00-0362293311511916",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA27705_00",
     "conceptId": 10013600,
     "name": "Penguin Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA27705_00-0102344786345892",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA27706_00",
     "conceptId": 10013600,
     "name": "Penguin Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA27706_00-0528572061550272",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA27707_00",
     "conceptId": 10013600,
     "name": "Penguin Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA27707_00-0193939290866968",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA27711_00",
@@ -117120,6 +117184,14 @@
     "publisherId": "EP5206"
   },
   {
+    "titleId": "PPSA27945_00",
+    "conceptId": 10010572,
+    "name": "Pyramids and Aliens: Escape Room",
+    "contentId": "UP8533-PPSA27945_00-0325547765477508",
+    "region": "UP",
+    "publisherId": "UP8533"
+  },
+  {
     "titleId": "PPSA27968_00",
     "conceptId": 10013819,
     "name": "DuckDuck Shoot",
@@ -117224,6 +117296,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28117_00",
+    "conceptId": 10013945,
+    "name": "Spin Around",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28118_00",
+    "conceptId": 10013945,
+    "name": "Spin Around",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28119_00",
+    "conceptId": 10013945,
+    "name": "Spin Around",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28120_00",
+    "conceptId": 10013945,
+    "name": "Spin Around",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28121_00",
     "conceptId": 10013946,
     "name": "The Jumping Boy",
@@ -117275,9 +117379,9 @@
     "titleId": "PPSA28258_00",
     "conceptId": 10014039,
     "name": "Boundland",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8623-PPSA28258_00-0274093515320558",
+    "region": "UP",
+    "publisherId": "UP8623"
   },
   {
     "titleId": "PPSA28259_00",
@@ -117419,6 +117523,14 @@
     "titleId": "PPSA28483_00",
     "conceptId": 10010443,
     "name": "Amer Fighting",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28526_00",
+    "conceptId": 10014216,
+    "name": "Crime Opera Fandisk: The Caterpillar Candids",
     "contentId": null,
     "region": null,
     "publisherId": null
