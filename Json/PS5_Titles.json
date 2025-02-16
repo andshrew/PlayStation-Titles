@@ -78458,8 +78458,8 @@
   {
     "titleId": "PPSA18154_00",
     "conceptId": 10009064,
-    "name": "Tomb Raider IV-VI Remastered PS4 & PS5",
-    "contentId": null,
+    "name": "Tomb Raider IV-VI Remastered",
+    "contentId": "UP1032-PPSA18154_00-TOMBRAIDER456225",
     "region": "UP",
     "publisherId": "UP1032"
   },
@@ -83539,9 +83539,9 @@
     "titleId": "PPSA19330_00",
     "conceptId": 10004328,
     "name": "Afterlove EP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5480-PPSA19330_00-2024100712480700",
+    "region": "UP",
+    "publisherId": "UP5480"
   },
   {
     "titleId": "PPSA19333_00",
@@ -98406,6 +98406,14 @@
     "contentId": "JP4138-PPSA22631_00-XXXXXXXXXXXXXXXX",
     "region": "JP",
     "publisherId": "JP4138"
+  },
+  {
+    "titleId": "PPSA22632_00",
+    "conceptId": 10010150,
+    "name": "Doggy Up!",
+    "contentId": "EB0428-PPSA22632_00-0655558768850209",
+    "region": "EB",
+    "publisherId": "EB0428"
   },
   {
     "titleId": "PPSA22633_00",
@@ -115176,6 +115184,14 @@
     "publisherId": "EP1629"
   },
   {
+    "titleId": "PPSA26884_00",
+    "conceptId": 10013088,
+    "name": "Pets Hotel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26889_00",
     "conceptId": 10010526,
     "name": "FANTASIAN Neo Dimension DEMO",
@@ -115350,6 +115366,22 @@
     "contentId": "UP2136-PPSA26942_00-0153383098608933",
     "region": "UP",
     "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA26944_00",
+    "conceptId": 10010376,
+    "name": "SHARK! SHARK!",
+    "contentId": "EP7357-PPSA26944_00-0497930898142840",
+    "region": "EP",
+    "publisherId": "EP7357"
+  },
+  {
+    "titleId": "PPSA26945_00",
+    "conceptId": 10010376,
+    "name": "SHARK! SHARK!",
+    "contentId": "EP7357-PPSA26945_00-0903704002780678",
+    "region": "EP",
+    "publisherId": "EP7357"
   },
   {
     "titleId": "PPSA26946_00",
@@ -116198,6 +116230,22 @@
     "contentId": "UB0859-PPSA27243_00-0485443827089653",
     "region": "UB",
     "publisherId": "UB0859"
+  },
+  {
+    "titleId": "PPSA27253_00",
+    "conceptId": 10013328,
+    "name": "Archers Shadow Strike",
+    "contentId": "UP7668-PPSA27253_00-0917258276360859",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27254_00",
+    "conceptId": 10013328,
+    "name": "Archers Shadow Strike",
+    "contentId": "UP7668-PPSA27254_00-0158948066335266",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA27282_00",
