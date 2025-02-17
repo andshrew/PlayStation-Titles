@@ -15755,7 +15755,7 @@
     "titleId": "PPSA04625_00",
     "conceptId": 10003429,
     "name": "Shujinkou",
-    "contentId": null,
+    "contentId": "UP6882-PPSA04625_00-SHUJINKOUGAMEPS5",
     "region": "UP",
     "publisherId": "UP6882"
   },
@@ -78434,8 +78434,8 @@
   {
     "titleId": "PPSA18151_00",
     "conceptId": 10009064,
-    "name": "Tomb Raider IV-VI Remastered PS4 & PS5",
-    "contentId": null,
+    "name": "Tomb Raider IV-VI Remastered",
+    "contentId": "EP1875-PPSA18151_00-TOMBRAIDER456225",
     "region": "EP",
     "publisherId": "EP1875"
   },
@@ -83531,9 +83531,9 @@
     "titleId": "PPSA19329_00",
     "conceptId": 10004328,
     "name": "Afterlove EP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5661-PPSA19329_00-2024100712480700",
+    "region": "EP",
+    "publisherId": "EP5661"
   },
   {
     "titleId": "PPSA19330_00",
@@ -99360,6 +99360,14 @@
     "publisherId": "EP7357"
   },
   {
+    "titleId": "PPSA22840_00",
+    "conceptId": 10010376,
+    "name": "SHARK! SHARK!",
+    "contentId": "EP7357-PPSA22840_00-0740190815490899",
+    "region": "EP",
+    "publisherId": "EP7357"
+  },
+  {
     "titleId": "PPSA22841_00",
     "conceptId": 10010907,
     "name": "Cat's Request",
@@ -105358,6 +105366,14 @@
     "contentId": "JP0089-PPSA24271_00-0967436398056193",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA24274_00",
+    "conceptId": 10007325,
+    "name": "HUNTER\u00d7HUNTER NEN\u00d7IMPACT",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0036"
   },
   {
     "titleId": "PPSA24276_00",
@@ -115368,6 +115384,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA26943_00",
+    "conceptId": 10010376,
+    "name": "SHARK! SHARK!",
+    "contentId": "EP7357-PPSA26943_00-0611530421771228",
+    "region": "EP",
+    "publisherId": "EP7357"
+  },
+  {
     "titleId": "PPSA26944_00",
     "conceptId": 10010376,
     "name": "SHARK! SHARK!",
@@ -115638,6 +115662,14 @@
     "contentId": "HP6900-PPSA27052_00-0829314093768217",
     "region": "HP",
     "publisherId": "HP6900"
+  },
+  {
+    "titleId": "PPSA27064_00",
+    "conceptId": 10013206,
+    "name": "Justice Ninja Casey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27065_00",
@@ -116598,6 +116630,22 @@
     "contentId": "UP5877-PPSA27507_00-0599351915892047",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA27513_00",
+    "conceptId": 10013454,
+    "name": "Paradise of Freedom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27514_00",
+    "conceptId": 10013454,
+    "name": "Paradise of Freedom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27524_00",
@@ -117883,6 +117931,22 @@
     "titleId": "PPSA28483_00",
     "conceptId": 10010443,
     "name": "Amer Fighting",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28520_00",
+    "conceptId": 10014213,
+    "name": "Memory Holder: The Colors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28521_00",
+    "conceptId": 10014213,
+    "name": "Memory Holder: The Colors",
     "contentId": null,
     "region": null,
     "publisherId": null
