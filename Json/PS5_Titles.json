@@ -82427,9 +82427,9 @@
     "titleId": "PPSA19087_00",
     "conceptId": 10009398,
     "name": "Build Lands",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6989-PPSA19087_00-0928645741077345",
+    "region": "UP",
+    "publisherId": "UP6989"
   },
   {
     "titleId": "PPSA19088_00",
@@ -97547,9 +97547,9 @@
     "titleId": "PPSA22442_00",
     "conceptId": 10009382,
     "name": "Stories from Sol: The Gun-Dog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7788-PPSA22442_00-SFSGUNDOGPS5US00",
+    "region": "UP",
+    "publisherId": "UP7788"
   },
   {
     "titleId": "PPSA22443_00",
@@ -97562,10 +97562,10 @@
   {
     "titleId": "PPSA22444_00",
     "conceptId": 10009382,
-    "name": "Stories from Sol: The Gun-Dog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u6a5f\u52d5\u6226\u8266\u30ac\u30f3\u30c9\u30c3\u30b0 \u592a\u967d\u7cfb\u7269\u8a9e",
+    "contentId": "JP7769-PPSA22444_00-SFSGUNDOGPS5JP00",
+    "region": "JP",
+    "publisherId": "JP7769"
   },
   {
     "titleId": "PPSA22445_00",
@@ -98254,6 +98254,14 @@
     "contentId": "EB0235-PPSA22579_00-MINDCOPDEMOPS500",
     "region": "EB",
     "publisherId": "EB0235"
+  },
+  {
+    "titleId": "PPSA22581_00",
+    "conceptId": 10010796,
+    "name": "Sorry We're Closed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22583_00",
@@ -101898,24 +101906,24 @@
   {
     "titleId": "PPSA23480_00",
     "conceptId": 10011214,
-    "name": "X-Out: Resurfaced",
-    "contentId": null,
+    "name": "X-Out",
+    "contentId": "EP8204-PPSA23480_00-CROSSOUTRESPS5EU",
     "region": "EP",
     "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA23481_00",
     "conceptId": 10011214,
-    "name": "X-Out: Resurfaced",
-    "contentId": null,
+    "name": "X-Out",
+    "contentId": "EP8204-PPSA23481_00-CROSSOUTRESPS5US",
     "region": "EP",
     "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA23482_00",
     "conceptId": 10011214,
-    "name": "X-Out: Resurfaced",
-    "contentId": null,
+    "name": "X-Out",
+    "contentId": "EP8204-PPSA23482_00-CROSSOUTRESPS5JP",
     "region": "EP",
     "publisherId": "EP8204"
   },
@@ -102075,9 +102083,9 @@
     "titleId": "PPSA23519_00",
     "conceptId": 10011116,
     "name": "Things Too Ugly",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6290-PPSA23519_00-0428838398883528",
+    "region": "EP",
+    "publisherId": "EP6290"
   },
   {
     "titleId": "PPSA23523_00",
@@ -108688,6 +108696,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25005_00",
+    "conceptId": 10011919,
+    "name": "\uff13\u2103",
+    "contentId": "JP0013-PPSA25005_00-JP0SAND000000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA25006_00",
     "conceptId": 10004842,
     "name": "Infinity Nikki",
@@ -109372,6 +109388,30 @@
     "conceptId": 10006341,
     "name": "Quiz Thiz France - DEMO",
     "contentId": "HP6661-PPSA25161_00-0039862231346779",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA25162_00",
+    "conceptId": 10006510,
+    "name": "Quiz Thiz Spain",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25164_00",
+    "conceptId": 10006510,
+    "name": "Quiz Thiz Spain - DEMO",
+    "contentId": "JP6595-PPSA25164_00-0649672866364740",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA25165_00",
+    "conceptId": 10006510,
+    "name": "Quiz Thiz Spain - DEMO",
+    "contentId": "HP6661-PPSA25165_00-0870781266002038",
     "region": "HP",
     "publisherId": "HP6661"
   },
@@ -110472,6 +110512,22 @@
     "publisherId": "EB1267"
   },
   {
+    "titleId": "PPSA25468_00",
+    "conceptId": 10012240,
+    "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land (PS4 & PS5)",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4108"
+  },
+  {
+    "titleId": "PPSA25470_00",
+    "conceptId": 10012240,
+    "name": "\u30e6\u30df\u30a2\u306e\u30a2\u30c8\u30ea\u30a8 \uff5e\u8ffd\u61b6\u306e\u932c\u91d1\u8853\u58eb\u3068\u5e7b\u5275\u306e\u5730\uff5e (PS4 & PS5)",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
     "titleId": "PPSA25472_00",
     "conceptId": 10011876,
     "name": "Battlefront Trench Warriors: Ops of Warfare",
@@ -110806,6 +110862,22 @@
     "contentId": "UP4312-PPSA25548_00-0666673129563764",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA25549_00",
+    "conceptId": 10012259,
+    "name": "Germanfest",
+    "contentId": "JP0089-PPSA25549_00-0563205958511788",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA25550_00",
+    "conceptId": 10012259,
+    "name": "Germanfest",
+    "contentId": "HP4312-PPSA25550_00-0083313580985532",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA25551_00",
@@ -112939,9 +113011,25 @@
     "titleId": "PPSA26152_00",
     "conceptId": 10012647,
     "name": "The Backrooms 1998",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA26152_00-BACKROOMXZZZZZZZ",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA26153_00",
+    "conceptId": 10012647,
+    "name": "The Backrooms 1998",
+    "contentId": "JP3568-PPSA26153_00-BACKROOMXZZZZZZZ",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
+    "titleId": "PPSA26154_00",
+    "conceptId": 10012647,
+    "name": "The Backrooms 1998",
+    "contentId": "HP3473-PPSA26154_00-BACKROOMXZZZZZZZ",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA26157_00",
@@ -112998,6 +113086,14 @@
     "contentId": "EP0896-PPSA26163_00-SUPERONIONBOYRAG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA26165_00",
+    "conceptId": 10008988,
+    "name": "Rusty Rabbit Demo",
+    "contentId": "HP7588-PPSA26165_00-0507132883366448",
+    "region": "HP",
+    "publisherId": "HP7588"
   },
   {
     "titleId": "PPSA26166_00",
@@ -114682,10 +114778,10 @@
   {
     "titleId": "PPSA26624_00",
     "conceptId": 10012963,
-    "name": "The Jumping Burger Climb - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Climb",
+    "contentId": "UP6664-PPSA26624_00-0938803592398373",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26625_00",
@@ -115323,9 +115419,9 @@
     "titleId": "PPSA26904_00",
     "conceptId": 10013096,
     "name": "Whisker Squadron: Survivor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2127-PPSA26904_00-WHISKERSQUADRONS",
+    "region": "EP",
+    "publisherId": "EP2127"
   },
   {
     "titleId": "PPSA26907_00",
@@ -115374,6 +115470,14 @@
     "contentId": "UB1029-PPSA26919_00-0480610421274850",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA26920_00",
+    "conceptId": 10013102,
+    "name": "Break the Loop",
+    "contentId": "EP6138-PPSA26920_00-0225419016464231",
+    "region": "EP",
+    "publisherId": "EP6138"
   },
   {
     "titleId": "PPSA26924_00",
@@ -116304,6 +116408,14 @@
     "publisherId": "EP7860"
   },
   {
+    "titleId": "PPSA27217_00",
+    "conceptId": 10013309,
+    "name": "Care Bears: To The Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27218_00",
     "conceptId": 10013310,
     "name": "Deep, In the Forest",
@@ -116318,6 +116430,22 @@
     "contentId": "JP7843-PPSA27220_00-0101479985575766",
     "region": "JP",
     "publisherId": "JP7843"
+  },
+  {
+    "titleId": "PPSA27221_00",
+    "conceptId": 10013309,
+    "name": "Care Bears: To The Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27222_00",
+    "conceptId": 10013309,
+    "name": "Care Bears: To The Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27223_00",
@@ -116339,9 +116467,9 @@
     "titleId": "PPSA27235_00",
     "conceptId": 10013318,
     "name": "CleanPlay",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0981-PPSA27235_00-0156187334707829",
+    "region": "UB",
+    "publisherId": "UB0981"
   },
   {
     "titleId": "PPSA27239_00",
@@ -116382,6 +116510,14 @@
     "contentId": "UP7668-PPSA27254_00-0158948066335266",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27280_00",
+    "conceptId": 10013340,
+    "name": "Lulu's Temple",
+    "contentId": "EP0896-PPSA27280_00-LULUSTEMPLERATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA27282_00",
@@ -116438,6 +116574,14 @@
     "contentId": "UB0337-PPSA27333_00-0617275524622066",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA27340_00",
+    "conceptId": 10009499,
+    "name": "FATAL FURY: City of the Wolves OPEN \u03b2 TEST",
+    "contentId": "JP0576-PPSA27340_00-PS5FFCOTWCOBT000",
+    "region": "JP",
+    "publisherId": "JP0576"
   },
   {
     "titleId": "PPSA27341_00",
@@ -117283,33 +117427,33 @@
     "titleId": "PPSA27729_00",
     "conceptId": 10013624,
     "name": "There's a Gun in the Office",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6880-PPSA27729_00-0974430827627172",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA27730_00",
     "conceptId": 10013624,
     "name": "There's a Gun in the Office",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6883-PPSA27730_00-0959809733533310",
+    "region": "UP",
+    "publisherId": "UP6883"
   },
   {
     "titleId": "PPSA27731_00",
     "conceptId": 10013624,
     "name": "There's a Gun in the Office",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6849-PPSA27731_00-0637311624997333",
+    "region": "JP",
+    "publisherId": "JP6849"
   },
   {
     "titleId": "PPSA27732_00",
     "conceptId": 10013624,
     "name": "There's a Gun in the Office",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6900-PPSA27732_00-0465537823729478",
+    "region": "HP",
+    "publisherId": "HP6900"
   },
   {
     "titleId": "PPSA27733_00",
@@ -117411,33 +117555,33 @@
     "titleId": "PPSA27784_00",
     "conceptId": 10013669,
     "name": "Dance Mania",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27784_00-0696304219317230",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27785_00",
     "conceptId": 10013669,
     "name": "Dance Mania",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27785_00-0742261274506199",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27786_00",
     "conceptId": 10013669,
     "name": "Dance Mania",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27786_00-0084719929038959",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27787_00",
     "conceptId": 10013669,
     "name": "Dance Mania",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA27787_00-0666107107367084",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA27788_00",
@@ -117904,6 +118048,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28149_00",
+    "conceptId": 10013962,
+    "name": "Cavorite",
+    "contentId": "UB0108-PPSA28149_00-0943583078488780",
+    "region": "UB",
+    "publisherId": "UB0108"
+  },
+  {
     "titleId": "PPSA28180_00",
     "conceptId": 229018,
     "name": "Days Gone Remastered",
@@ -118136,9 +118288,65 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA28459_00",
+    "conceptId": 10014165,
+    "name": "Pixicharm - Starry Blast",
+    "contentId": "EP1612-PPSA28459_00-STARRYBLASTGAME0",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA28477_00",
+    "conceptId": 10014177,
+    "name": "Race Track Maniacs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28478_00",
+    "conceptId": 10014177,
+    "name": "Race Track Maniacs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28479_00",
+    "conceptId": 10014177,
+    "name": "Race Track Maniacs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28480_00",
+    "conceptId": 10014177,
+    "name": "Race Track Maniacs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28481_00",
+    "conceptId": 10014178,
+    "name": "Paper Bad",
+    "contentId": "UB0337-PPSA28481_00-0730658642502352",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA28483_00",
     "conceptId": 10010443,
     "name": "Amer Fighting",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28484_00",
+    "conceptId": 10014181,
+    "name": "Korza MOTOR",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -118153,6 +118361,14 @@
   },
   {
     "titleId": "PPSA28521_00",
+    "conceptId": 10014213,
+    "name": "Memory Holder: The Colors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28522_00",
     "conceptId": 10014213,
     "name": "Memory Holder: The Colors",
     "contentId": null,
