@@ -36160,6 +36160,14 @@
     "publisherId": "EP3678"
   },
   {
+    "titleId": "PPSA08427_00",
+    "conceptId": 10005321,
+    "name": "Killing Floor 3",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0114"
+  },
+  {
     "titleId": "PPSA08428_00",
     "conceptId": 10005330,
     "name": "Funtasia",
@@ -82435,9 +82443,17 @@
     "titleId": "PPSA19088_00",
     "conceptId": 10009398,
     "name": "Build Lands",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA19088_00-0567557340904569",
+    "region": "EP",
+    "publisherId": "EP6985"
+  },
+  {
+    "titleId": "PPSA19090_00",
+    "conceptId": 10009398,
+    "name": "Build Lands",
+    "contentId": "HP0874-PPSA19090_00-0694882744513384",
+    "region": "HP",
+    "publisherId": "HP0874"
   },
   {
     "titleId": "PPSA19097_00",
@@ -88870,6 +88886,14 @@
     "contentId": "HP4459-PPSA20434_00-SKERRITUALPS5ASI",
     "region": "HP",
     "publisherId": "HP4459"
+  },
+  {
+    "titleId": "PPSA20435_00",
+    "conceptId": 10009931,
+    "name": "Monster Energy Supercross 25 - The Official Video Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20437_00",
@@ -97555,9 +97579,9 @@
     "titleId": "PPSA22443_00",
     "conceptId": 10009382,
     "name": "Stories from Sol: The Gun-Dog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7786-PPSA22443_00-SFSGUNDOGPS5EU00",
+    "region": "EP",
+    "publisherId": "EP7786"
   },
   {
     "titleId": "PPSA22444_00",
@@ -97571,9 +97595,9 @@
     "titleId": "PPSA22445_00",
     "conceptId": 10009382,
     "name": "Stories from Sol: The Gun-Dog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7815-PPSA22445_00-SFSGUNDOGPS5JA00",
+    "region": "HP",
+    "publisherId": "HP7815"
   },
   {
     "titleId": "PPSA22446_00",
@@ -100035,9 +100059,9 @@
     "titleId": "PPSA23025_00",
     "conceptId": 10010977,
     "name": "Please Be Happy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA23025_00-SYPS5PLEASEBEHAP",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA23026_00",
@@ -102132,6 +102156,30 @@
     "conceptId": 10011226,
     "name": "Football Striker 2024",
     "contentId": "HP6661-PPSA23530_00-0911488194376525",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA23531_00",
+    "conceptId": 10011226,
+    "name": "Football Striker 2024 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA23533_00",
+    "conceptId": 10011226,
+    "name": "Football Striker 2024 - DEMO",
+    "contentId": "JP6595-PPSA23533_00-0445645371734081",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA23534_00",
+    "conceptId": 10011226,
+    "name": "Football Striker 2024 - DEMO",
+    "contentId": "HP6661-PPSA23534_00-0677744371640740",
     "region": "HP",
     "publisherId": "HP6661"
   },
@@ -105656,6 +105704,14 @@
     "publisherId": "EP3024"
   },
   {
+    "titleId": "PPSA24321_00",
+    "conceptId": 10011666,
+    "name": "Kemono Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24322_00",
     "conceptId": 10010245,
     "name": "The Street 10 VR",
@@ -106482,8 +106538,8 @@
   {
     "titleId": "PPSA24478_00",
     "conceptId": 10011704,
-    "name": "Like a Dragon: Pirate Yakuza in Hawaii PS4 & PS5",
-    "contentId": null,
+    "name": "Like a Dragon: Pirate Yakuza in Hawaii",
+    "contentId": "JP0177-PPSA24478_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0177"
   },
@@ -109394,10 +109450,18 @@
   {
     "titleId": "PPSA25162_00",
     "conceptId": 10006510,
-    "name": "Quiz Thiz Spain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Quiz Thiz Spain - DEMO",
+    "contentId": "EP6664-PPSA25162_00-0150942084036619",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25163_00",
+    "conceptId": 10006510,
+    "name": "Quiz Thiz Spain - DEMO",
+    "contentId": "UP6664-PPSA25163_00-0269600936298870",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA25164_00",
@@ -110518,6 +110582,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4108"
+  },
+  {
+    "titleId": "PPSA25469_00",
+    "conceptId": 10012240,
+    "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land (PS4 & PS5)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0106"
   },
   {
     "titleId": "PPSA25470_00",
@@ -113008,6 +113080,14 @@
     "publisherId": "EP3945"
   },
   {
+    "titleId": "PPSA26151_00",
+    "conceptId": 10012647,
+    "name": "The Backrooms 1998",
+    "contentId": "UP3528-PPSA26151_00-BACKROOMXZZZZZZZ",
+    "region": "UP",
+    "publisherId": "UP3528"
+  },
+  {
     "titleId": "PPSA26152_00",
     "conceptId": 10012647,
     "name": "The Backrooms 1998",
@@ -114770,10 +114850,10 @@
   {
     "titleId": "PPSA26623_00",
     "conceptId": 10012963,
-    "name": "The Jumping Burger Climb - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Climb",
+    "contentId": "EP6664-PPSA26623_00-0595211454216587",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26624_00",
@@ -114786,18 +114866,18 @@
   {
     "titleId": "PPSA26625_00",
     "conceptId": 10012963,
-    "name": "The Jumping Burger Climb - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Climb",
+    "contentId": "JP6595-PPSA26625_00-0006863892931725",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26626_00",
     "conceptId": 10012963,
-    "name": "The Jumping Burger Climb - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Climb",
+    "contentId": "HP6661-PPSA26626_00-0942405891978032",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26643_00",
@@ -116891,17 +116971,17 @@
     "titleId": "PPSA27513_00",
     "conceptId": 10013454,
     "name": "Paradise of Freedom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA27513_00-0797529131255005",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA27514_00",
     "conceptId": 10013454,
     "name": "Paradise of Freedom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA27514_00-0392664211003364",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA27524_00",
@@ -118152,6 +118232,38 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA28271_00",
+    "conceptId": 10014048,
+    "name": "Pirate Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28272_00",
+    "conceptId": 10014048,
+    "name": "Pirate Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28273_00",
+    "conceptId": 10014048,
+    "name": "Pirate Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28274_00",
+    "conceptId": 10014048,
+    "name": "Pirate Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28291_00",
     "conceptId": 10014059,
     "name": "Crime Opera II: The Floodgate Effect",
@@ -118347,38 +118459,70 @@
     "titleId": "PPSA28484_00",
     "conceptId": 10014181,
     "name": "Korza MOTOR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5206-PPSA28484_00-0447900180892581",
+    "region": "EP",
+    "publisherId": "EP5206"
   },
   {
     "titleId": "PPSA28520_00",
     "conceptId": 10014213,
     "name": "Memory Holder: The Colors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA28520_00-0219293822406321",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA28521_00",
     "conceptId": 10014213,
     "name": "Memory Holder: The Colors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA28521_00-0723317290700562",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA28522_00",
     "conceptId": 10014213,
     "name": "Memory Holder: The Colors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7367-PPSA28522_00-0140077993273991",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA28523_00",
+    "conceptId": 10014213,
+    "name": "Memory Holder: The Colors",
+    "contentId": "JP7323-PPSA28523_00-0082612467542861",
+    "region": "JP",
+    "publisherId": "JP7323"
   },
   {
     "titleId": "PPSA28526_00",
     "conceptId": 10014216,
     "name": "Crime Opera Fandisk: The Caterpillar Candids",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28629_00",
+    "conceptId": 10014047,
+    "name": "A Bibelot: Y-Break",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28630_00",
+    "conceptId": 10014047,
+    "name": "A Bibelot: Y-Break",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28631_00",
+    "conceptId": 10014047,
+    "name": "A Bibelot: Y-Break",
     "contentId": null,
     "region": null,
     "publisherId": null
