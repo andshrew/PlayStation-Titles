@@ -44696,6 +44696,14 @@
     "publisherId": "EP1063"
   },
   {
+    "titleId": "PPSA09838_00",
+    "conceptId": 10002871,
+    "name": "Spectre Divide",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09843_00",
     "conceptId": 10006025,
     "name": "RoadCraft \u2013 Rebuild Edition",
@@ -82448,6 +82456,14 @@
     "publisherId": "EP6985"
   },
   {
+    "titleId": "PPSA19089_00",
+    "conceptId": 10009398,
+    "name": "Build Lands",
+    "contentId": "JP6954-PPSA19089_00-0907907397467403",
+    "region": "JP",
+    "publisherId": "JP6954"
+  },
+  {
     "titleId": "PPSA19090_00",
     "conceptId": 10009398,
     "name": "Build Lands",
@@ -99448,6 +99464,14 @@
     "publisherId": "JP1932"
   },
   {
+    "titleId": "PPSA22844_00",
+    "conceptId": 10010911,
+    "name": "Karma: The Dark World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22845_00",
     "conceptId": 10010907,
     "name": "Cat's Request",
@@ -100067,9 +100091,9 @@
     "titleId": "PPSA23026_00",
     "conceptId": 10010977,
     "name": "Please Be Happy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA23026_00-SYPS5PLEASEBEHAP",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA23032_00",
@@ -100398,6 +100422,14 @@
     "contentId": "EP6922-PPSA23114_00-0075128156503960",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA23115_00",
+    "conceptId": 10011026,
+    "name": "Power Racing Bundle 3",
+    "contentId": "JP5432-PPSA23115_00-0277028967738833",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA23116_00",
@@ -102162,10 +102194,18 @@
   {
     "titleId": "PPSA23531_00",
     "conceptId": 10011226,
-    "name": "Football Striker 2024 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football Striker 2024 - DEMO",
+    "contentId": "EP6664-PPSA23531_00-0367861602655984",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA23532_00",
+    "conceptId": 10011226,
+    "name": "Football Striker 2024 - DEMO",
+    "contentId": "UP6664-PPSA23532_00-0198342243570773",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA23533_00",
@@ -104384,6 +104424,30 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA24022_00",
+    "conceptId": 10011508,
+    "name": "Maze of Portals - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24024_00",
+    "conceptId": 10011508,
+    "name": "Maze of Portals - DEMO",
+    "contentId": "JP6595-PPSA24024_00-0693728386130953",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA24025_00",
+    "conceptId": 10011508,
+    "name": "Maze of Portals - DEMO",
+    "contentId": "HP6661-PPSA24025_00-0986746324261341",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA24028_00",
     "conceptId": 10011513,
     "name": "Wanderstop",
@@ -105702,6 +105766,14 @@
     "contentId": "EP3024-PPSA24319_00-MHINVASIONPS55WW",
     "region": "EP",
     "publisherId": "EP3024"
+  },
+  {
+    "titleId": "PPSA24320_00",
+    "conceptId": 10011666,
+    "name": "Kemono Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24321_00",
@@ -111160,6 +111232,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA25613_00",
+    "conceptId": 10012186,
+    "name": "CrazyBall",
+    "contentId": "HB1069-PPSA25613_00-0103758522627803",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
     "titleId": "PPSA25615_00",
     "conceptId": 10012301,
     "name": "The Reward of Cherishment and Eternity\u3002",
@@ -116312,6 +116392,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA27161_00",
+    "conceptId": 10013225,
+    "name": "Pickle Invasion",
+    "contentId": "JP0089-PPSA27161_00-0476646606130708",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA27162_00",
+    "conceptId": 10013225,
+    "name": "Pickle Invasion",
+    "contentId": "HP4312-PPSA27162_00-0576630972548219",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA27169_00",
     "conceptId": 10012994,
     "name": "Midnight Murder Club",
@@ -116588,6 +116684,22 @@
     "conceptId": 10013328,
     "name": "Archers Shadow Strike",
     "contentId": "UP7668-PPSA27254_00-0158948066335266",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27257_00",
+    "conceptId": 10013329,
+    "name": "Young Bird Endless Flight",
+    "contentId": "UP7668-PPSA27257_00-0770720930711010",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27258_00",
+    "conceptId": 10013329,
+    "name": "Young Bird Endless Flight",
+    "contentId": "UP7668-PPSA27258_00-0202132674341230",
     "region": "UP",
     "publisherId": "UP7668"
   },
