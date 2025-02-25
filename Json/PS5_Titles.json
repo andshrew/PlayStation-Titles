@@ -112515,17 +112515,17 @@
     "titleId": "PPSA25958_00",
     "conceptId": 235400,
     "name": "Twin Breaker: A Sacred Symbols Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5011-PPSA25958_00-0714487102198604",
+    "region": "EP",
+    "publisherId": "EP5011"
   },
   {
     "titleId": "PPSA25959_00",
     "conceptId": 235400,
     "name": "Twin Breaker: A Sacred Symbols Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4836-PPSA25959_00-0133663896283517",
+    "region": "UP",
+    "publisherId": "UP4836"
   },
   {
     "titleId": "PPSA25968_00",
@@ -117288,6 +117288,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA27578_00",
+    "conceptId": 10013497,
+    "name": "Cats and Seek : Dino Park",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27579_00",
     "conceptId": 10013499,
     "name": "Golf Loop",
@@ -117376,12 +117384,36 @@
     "publisherId": "UP2005"
   },
   {
-    "titleId": "PPSA27614_00",
-    "conceptId": 233247,
-    "name": "Sayonara Wild Hearts",
+    "titleId": "PPSA27606_00",
+    "conceptId": 10013531,
+    "name": "Electro Ride: The Neon Racing",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27608_00",
+    "conceptId": 10013531,
+    "name": "Electro Ride: The Neon Racing",
+    "contentId": "JP6849-PPSA27608_00-0050308393613457",
+    "region": "JP",
+    "publisherId": "JP6849"
+  },
+  {
+    "titleId": "PPSA27609_00",
+    "conceptId": 10013531,
+    "name": "Electro Ride: The Neon Racing",
+    "contentId": "HP6900-PPSA27609_00-0766054350493019",
+    "region": "HP",
+    "publisherId": "HP6900"
+  },
+  {
+    "titleId": "PPSA27614_00",
+    "conceptId": 233247,
+    "name": "Sayonara Wild Hearts",
+    "contentId": "UP2470-PPSA27614_00-0466810510398026",
+    "region": "UP",
+    "publisherId": "UP2470"
   },
   {
     "titleId": "PPSA27635_00",
@@ -118635,9 +118667,9 @@
     "titleId": "PPSA28629_00",
     "conceptId": 10014047,
     "name": "A Bibelot: Y-Break",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA28629_00-0660947479226631",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA28630_00",
@@ -118651,8 +118683,8 @@
     "titleId": "PPSA28631_00",
     "conceptId": 10014047,
     "name": "A Bibelot: Y-Break",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA28631_00-0559313296368016",
+    "region": "JB",
+    "publisherId": "JB0847"
   }
 ]
