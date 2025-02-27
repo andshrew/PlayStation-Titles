@@ -57592,6 +57592,14 @@
     "publisherId": "EP1177"
   },
   {
+    "titleId": "PPSA13407_00",
+    "conceptId": 10007196,
+    "name": "Dungeons Of Hinterberg",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13412_00",
     "conceptId": 10007197,
     "name": "Before Your Eyes",
@@ -64914,8 +64922,8 @@
   {
     "titleId": "PPSA15339_00",
     "conceptId": 10007959,
-    "name": "Ninja Five-O PS4 & PS5",
-    "contentId": null,
+    "name": "Ninja Five-O",
+    "contentId": "UP0101-PPSA15339_00-0222478917933785",
     "region": "UP",
     "publisherId": "UP0101"
   },
@@ -89208,6 +89216,22 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA20491_00",
+    "conceptId": 10009964,
+    "name": "Deadside",
+    "contentId": "UP0097-PPSA20491_00-DEADSIDE00000000",
+    "region": "UP",
+    "publisherId": "UP0097"
+  },
+  {
+    "titleId": "PPSA20492_00",
+    "conceptId": 10009964,
+    "name": "Deadside",
+    "contentId": "EP0096-PPSA20492_00-DEADSIDE00000000",
+    "region": "EP",
+    "publisherId": "EP0096"
+  },
+  {
     "titleId": "PPSA20493_00",
     "conceptId": 10009952,
     "name": "Right and Down and Dice",
@@ -94784,6 +94808,14 @@
     "publisherId": "EP8534"
   },
   {
+    "titleId": "PPSA21782_00",
+    "conceptId": 10009704,
+    "name": "\u30af\u30e9\u30b7\u30c3\u30af\u30c0\u30f3\u30b8\u30e7\u30f3X3",
+    "contentId": "JP0404-PPSA21782_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
     "titleId": "PPSA21784_00",
     "conceptId": 10010491,
     "name": "Chimp Quest: Spirit Isle",
@@ -99544,6 +99576,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22866_00",
+    "conceptId": 228691,
+    "name": "CRYSTAR -\u30af\u30e9\u30a4\u30b9\u30bf- \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
+    "contentId": "JP0536-PPSA22866_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA22867_00",
     "conceptId": 10005046,
     "name": "\u30ec\u30ca\u30c6\u30a3\u30b9 \u30ea\u30d9\u30ec\u30fc\u30bf\u30fc\u30ba\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3\u30a2\u30d7\u30ea",
@@ -103056,6 +103096,14 @@
     "publisherId": "EP4897"
   },
   {
+    "titleId": "PPSA23742_00",
+    "conceptId": 10011333,
+    "name": "FATE: Reawakened",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23743_00",
     "conceptId": 10011363,
     "name": "The Jackbox Survey Scramble",
@@ -105851,9 +105899,25 @@
     "titleId": "PPSA24332_00",
     "conceptId": 10011675,
     "name": "Prison Loop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA24332_00-SYPS5PRISONLOOP0",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA24333_00",
+    "conceptId": 10011675,
+    "name": "Prison Loop",
+    "contentId": "JP1932-PPSA24333_00-SYPS5PRISONLOOP0",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA24334_00",
+    "conceptId": 10011675,
+    "name": "Prison Loop",
+    "contentId": "HP1792-PPSA24334_00-SYPS5PRISONLOOP0",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA24339_00",
@@ -114496,6 +114560,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26483_00",
+    "conceptId": 10012854,
+    "name": "Winning Post 10 2025 (PS4 & PS5)",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
     "titleId": "PPSA26488_00",
     "conceptId": 10012862,
     "name": "JIGSAW CHRONICLES: Most Wanted",
@@ -115248,6 +115320,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA26750_00",
+    "conceptId": 10012703,
+    "name": "Slasher: Origins Demo",
+    "contentId": "EP4459-PPSA26750_00-SLASHERDEMOPS500",
+    "region": "EP",
+    "publisherId": "EP4459"
+  },
+  {
     "titleId": "PPSA26755_00",
     "conceptId": 10013021,
     "name": "Kiting Cat",
@@ -115355,6 +115435,14 @@
     "titleId": "PPSA26801_00",
     "conceptId": 10013039,
     "name": "3D Don't Die Mr. Robot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26808_00",
+    "conceptId": 10012017,
+    "name": "My Little Universe",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -116046,6 +116134,14 @@
     "contentId": "UB1029-PPSA27030_00-0017989964528416",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA27048_00",
+    "conceptId": 10005316,
+    "name": "DAISENRYAKUSSB",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27049_00",
@@ -118694,6 +118790,14 @@
     "contentId": "EP7333-PPSA28403_00-0005032749869112",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA28424_00",
+    "conceptId": 10014127,
+    "name": "Ultimate Sparring",
+    "contentId": "UB0796-PPSA28424_00-0139489255720030",
+    "region": "UB",
+    "publisherId": "UB0796"
   },
   {
     "titleId": "PPSA28459_00",
