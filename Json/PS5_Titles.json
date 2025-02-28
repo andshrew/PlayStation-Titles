@@ -6936,6 +6936,14 @@
     "publisherId": "UP3901"
   },
   {
+    "titleId": "PPSA02861_00",
+    "conceptId": 10002337,
+    "name": "ACA2NEOGEO THE KING OF FIGHTERS '98",
+    "contentId": "EP8908-PPSA02861_00-HAMPRDC000000001",
+    "region": "EP",
+    "publisherId": "EP8908"
+  },
+  {
     "titleId": "PPSA02862_00",
     "conceptId": 201579,
     "name": "FINAL FANTASY XIV Online",
@@ -97091,9 +97099,9 @@
     "titleId": "PPSA22303_00",
     "conceptId": 10005966,
     "name": "Glover (QUByte Classics)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA22303_00-GLOVERGAME0PS5EU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA22307_00",
@@ -97118,6 +97126,14 @@
     "contentId": "UP2233-PPSA22309_00-FAEFARMDEMOPS500",
     "region": "UP",
     "publisherId": "UP2233"
+  },
+  {
+    "titleId": "PPSA22327_00",
+    "conceptId": 10010647,
+    "name": "Forza Horizon 5 Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA22329_00",
@@ -102920,6 +102936,14 @@
     "publisherId": "JP4138"
   },
   {
+    "titleId": "PPSA23696_00",
+    "conceptId": 10011328,
+    "name": "Hero's Hour",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23700_00",
     "conceptId": 10011334,
     "name": "Xtreme Club Racing",
@@ -104094,6 +104118,14 @@
     "contentId": "UB0946-PPSA23952_00-DEEPBEYOND000PS5",
     "region": "UB",
     "publisherId": "UB0946"
+  },
+  {
+    "titleId": "PPSA23953_00",
+    "conceptId": 10011382,
+    "name": "Pipistrello and the Cursed Yoyo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23957_00",
@@ -105291,9 +105323,9 @@
     "titleId": "PPSA24191_00",
     "conceptId": 10005176,
     "name": "Monster Hunter Wilds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0102-PPSA24191_00-0000000000000001",
+    "region": "HP",
+    "publisherId": "HP0102"
   },
   {
     "titleId": "PPSA24195_00",
@@ -105891,9 +105923,9 @@
     "titleId": "PPSA24331_00",
     "conceptId": 10011675,
     "name": "Prison Loop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA24331_00-SYPS5PRISONLOOP0",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA24332_00",
@@ -110144,6 +110176,14 @@
     "publisherId": "UB0455"
   },
   {
+    "titleId": "PPSA25319_00",
+    "conceptId": 10012137,
+    "name": "MotoGP\u212225",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4356"
+  },
+  {
     "titleId": "PPSA25322_00",
     "conceptId": 10012138,
     "name": "Cubic Run",
@@ -112010,10 +112050,10 @@
   {
     "titleId": "PPSA25784_00",
     "conceptId": 10012415,
-    "name": "Crowns and Pawns: Kingdom of Deceit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Crowns & Pawns: Kingdom of Deceit",
+    "contentId": "EP0822-PPSA25784_00-CROWNSANDPAWNS5G",
+    "region": "EP",
+    "publisherId": "EP0822"
   },
   {
     "titleId": "PPSA25785_00",
@@ -113712,6 +113752,30 @@
     "publisherId": "UP8703"
   },
   {
+    "titleId": "PPSA26255_00",
+    "conceptId": 10012717,
+    "name": "Electrician Simulator VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26256_00",
+    "conceptId": 10012717,
+    "name": "Electrician Simulator VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26257_00",
+    "conceptId": 10012717,
+    "name": "Electrician Simulator VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26258_00",
     "conceptId": 10012718,
     "name": "Skydivers Paradise",
@@ -113920,6 +113984,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26312_00",
+    "conceptId": 10011854,
+    "name": "Blades of Fire",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4040"
+  },
+  {
+    "titleId": "PPSA26313_00",
+    "conceptId": 10011854,
+    "name": "Blades of Fire",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0114"
+  },
+  {
     "titleId": "PPSA26318_00",
     "conceptId": 10012384,
     "name": "Math Genius: Addition Edition",
@@ -114006,6 +114086,22 @@
     "contentId": "EB1062-PPSA26333_00-0537498887254023",
     "region": "EB",
     "publisherId": "EB1062"
+  },
+  {
+    "titleId": "PPSA26334_00",
+    "conceptId": 10005938,
+    "name": "Kovox Pitch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26336_00",
+    "conceptId": 10005938,
+    "name": "Kovox Pitch",
+    "contentId": "HP7889-PPSA26336_00-0935705762720155",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA26338_00",
@@ -114099,9 +114195,9 @@
     "titleId": "PPSA26381_00",
     "conceptId": 10012796,
     "name": "Mycelium Heaven",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0867-PPSA26381_00-0926819362476504",
+    "region": "UB",
+    "publisherId": "UB0867"
   },
   {
     "titleId": "PPSA26389_00",
@@ -115059,9 +115155,9 @@
     "titleId": "PPSA26627_00",
     "conceptId": 10012964,
     "name": "The Jumping Carrot Race",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA26627_00-0297039473485325",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26628_00",
@@ -115134,6 +115230,14 @@
     "contentId": "EB0805-PPSA26663_00-0776652971229834",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA26670_00",
+    "conceptId": 10011441,
+    "name": "Little Big Adventure \u2013 Twinsen\u2019s Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26679_00",
@@ -116187,9 +116291,9 @@
     "titleId": "PPSA27064_00",
     "conceptId": 10013206,
     "name": "Justice Ninja Casey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA27064_00-JUSTICENINJACARG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA27065_00",
@@ -116848,6 +116952,14 @@
     "publisherId": "UB0859"
   },
   {
+    "titleId": "PPSA27248_00",
+    "conceptId": 10012783,
+    "name": "Once Upon A Puppet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27253_00",
     "conceptId": 10013328,
     "name": "Archers Shadow Strike",
@@ -117376,6 +117488,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA27545_00",
+    "conceptId": 10013474,
+    "name": "Monstrix: TCG Card Shop",
+    "contentId": "UB1029-PPSA27545_00-0095079007498068",
+    "region": "UB",
+    "publisherId": "UB1029"
+  },
+  {
     "titleId": "PPSA27546_00",
     "conceptId": 10013475,
     "name": "Destino Indomable",
@@ -117579,9 +117699,9 @@
     "titleId": "PPSA27610_00",
     "conceptId": 10013533,
     "name": "Sunrise GP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6880-PPSA27610_00-0145021296549555",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA27611_00",
@@ -117595,9 +117715,9 @@
     "titleId": "PPSA27612_00",
     "conceptId": 10013533,
     "name": "Sunrise GP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6849-PPSA27612_00-0498893887706116",
+    "region": "JP",
+    "publisherId": "JP6849"
   },
   {
     "titleId": "PPSA27613_00",
@@ -117907,9 +118027,9 @@
     "titleId": "PPSA27749_00",
     "conceptId": 10013633,
     "name": "Foto Boy: A New Job",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA27749_00-FOTOBOYANEWJOB00",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA27763_00",
@@ -118078,6 +118198,22 @@
     "contentId": "HP8462-PPSA27795_00-0700666272976892",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA27798_00",
+    "conceptId": 10013681,
+    "name": "Cazzarion: Fishing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27799_00",
+    "conceptId": 10013681,
+    "name": "Cazzarion: Fishing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27805_00",
@@ -118312,28 +118448,36 @@
     "publisherId": "UP7552"
   },
   {
-    "titleId": "PPSA28017_00",
-    "conceptId": 10013868,
-    "name": "ActionCam: Supernatural Case",
+    "titleId": "PPSA27986_00",
+    "conceptId": 10013839,
+    "name": "Double Dangerous",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28017_00",
+    "conceptId": 10013868,
+    "name": "ActionCam: Supernatural Case",
+    "contentId": "EB0805-PPSA28017_00-0841353814509600",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28018_00",
     "conceptId": 10013868,
     "name": "ActionCam: Supernatural Case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28018_00-0302753819487245",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28019_00",
     "conceptId": 10013868,
     "name": "ActionCam: Supernatural Case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28019_00-0327827151096788",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28020_00",
@@ -118411,9 +118555,9 @@
     "titleId": "PPSA28112_00",
     "conceptId": 10013944,
     "name": "Cocktail Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28112_00-0018166877099848",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28113_00",
@@ -118427,17 +118571,17 @@
     "titleId": "PPSA28114_00",
     "conceptId": 10013944,
     "name": "Cocktail Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28114_00-0153304045411044",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28115_00",
     "conceptId": 10013944,
     "name": "Cocktail Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28115_00-0274636391366363",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28117_00",
@@ -118560,6 +118704,14 @@
     "publisherId": "HP9000"
   },
   {
+    "titleId": "PPSA28207_00",
+    "conceptId": 10012752,
+    "name": "Vanity Fair: The Pursuit Demo",
+    "contentId": "HP8406-PPSA28207_00-0667112104633437",
+    "region": "HP",
+    "publisherId": "HP8406"
+  },
+  {
     "titleId": "PPSA28234_00",
     "conceptId": 10002456,
     "name": "Marvel\u2019s Spider-Man 2",
@@ -118627,33 +118779,33 @@
     "titleId": "PPSA28271_00",
     "conceptId": 10014048,
     "name": "Pirate Trails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA28271_00-0986352594920235",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA28272_00",
     "conceptId": 10014048,
     "name": "Pirate Trails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA28272_00-0280376016200549",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA28273_00",
     "conceptId": 10014048,
     "name": "Pirate Trails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA28273_00-0443550474566680",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA28274_00",
     "conceptId": 10014048,
     "name": "Pirate Trails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA28274_00-0468276765489260",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA28291_00",
@@ -118808,6 +118960,38 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA28469_00",
+    "conceptId": 10014175,
+    "name": "Slide Defenders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28470_00",
+    "conceptId": 10014175,
+    "name": "Slide Defenders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28471_00",
+    "conceptId": 10014175,
+    "name": "Slide Defenders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28472_00",
+    "conceptId": 10014175,
+    "name": "Slide Defenders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28477_00",
     "conceptId": 10014177,
     "name": "Race Track Maniacs",
@@ -118862,6 +119046,14 @@
     "contentId": "EP5206-PPSA28484_00-0447900180892581",
     "region": "EP",
     "publisherId": "EP5206"
+  },
+  {
+    "titleId": "PPSA28500_00",
+    "conceptId": 10014190,
+    "name": "Pixicharm Collection 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28520_00",
@@ -118934,5 +119126,13 @@
     "contentId": "HB0876-PPSA28632_00-0888024100177016",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA28642_00",
+    "conceptId": 10010012,
+    "name": "Splitgate 2 - Alpha",
+    "contentId": "UP5988-PPSA28642_00-SPLITGATE2ALPHA0",
+    "region": "UP",
+    "publisherId": "UP5988"
   }
 ]
