@@ -82272,6 +82272,14 @@
     "publisherId": "EP6686"
   },
   {
+    "titleId": "PPSA19032_00",
+    "conceptId": 228691,
+    "name": "CRYSTAR",
+    "contentId": "JP0536-PPSA19032_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA19033_00",
     "conceptId": 10006921,
     "name": "You, Caligrapher",
@@ -95952,6 +95960,14 @@
     "publisherId": "EP1667"
   },
   {
+    "titleId": "PPSA22055_00",
+    "conceptId": 10010610,
+    "name": "Kingdom of Asteborg",
+    "contentId": "EP7990-PPSA22055_00-0324302691964876",
+    "region": "EP",
+    "publisherId": "EP7990"
+  },
+  {
     "titleId": "PPSA22056_00",
     "conceptId": 10009685,
     "name": "The Forgotten Tribe",
@@ -101080,6 +101096,14 @@
     "publisherId": "JP0122"
   },
   {
+    "titleId": "PPSA23277_00",
+    "conceptId": 10011091,
+    "name": "Go Fight Fantastic!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23278_00",
     "conceptId": 10011106,
     "name": "Byte The Bullet",
@@ -102934,6 +102958,14 @@
     "contentId": "JP4138-PPSA23694_00-0820781840635354",
     "region": "JP",
     "publisherId": "JP4138"
+  },
+  {
+    "titleId": "PPSA23695_00",
+    "conceptId": 10011328,
+    "name": "Hero's Hour",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23696_00",
@@ -107022,6 +107054,22 @@
     "contentId": "UP7668-PPSA24554_00-0839816602133588",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24558_00",
+    "conceptId": 10000778,
+    "name": "Turok",
+    "contentId": "UP0913-PPSA24558_00-SOBEK00000000000",
+    "region": "UP",
+    "publisherId": "UP0913"
+  },
+  {
+    "titleId": "PPSA24559_00",
+    "conceptId": 10000778,
+    "name": "Turok",
+    "contentId": "EP0917-PPSA24559_00-SOBEK00000000000",
+    "region": "EP",
+    "publisherId": "EP0917"
   },
   {
     "titleId": "PPSA24562_00",
@@ -113320,6 +113368,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA26155_00",
+    "conceptId": 10012648,
+    "name": "The Mystery Of Woolley Mountain",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26157_00",
     "conceptId": 10008864,
     "name": "Marathon",
@@ -113752,6 +113808,14 @@
     "publisherId": "UP8703"
   },
   {
+    "titleId": "PPSA26254_00",
+    "conceptId": 10012717,
+    "name": "Electrician Simulator VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26255_00",
     "conceptId": 10012717,
     "name": "Electrician Simulator VR",
@@ -113984,6 +114048,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26311_00",
+    "conceptId": 10011854,
+    "name": "Blades of Fire",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4040"
+  },
+  {
     "titleId": "PPSA26312_00",
     "conceptId": 10011854,
     "name": "Blades of Fire",
@@ -114091,9 +114163,17 @@
     "titleId": "PPSA26334_00",
     "conceptId": 10005938,
     "name": "Kovox Pitch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA26334_00-0488064500958602",
+    "region": "EP",
+    "publisherId": "EP7860"
+  },
+  {
+    "titleId": "PPSA26335_00",
+    "conceptId": 10005938,
+    "name": "Kovox Pitch",
+    "contentId": "UP7862-PPSA26335_00-0913738325022285",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA26336_00",
@@ -114102,6 +114182,14 @@
     "contentId": "HP7889-PPSA26336_00-0935705762720155",
     "region": "HP",
     "publisherId": "HP7889"
+  },
+  {
+    "titleId": "PPSA26337_00",
+    "conceptId": 10005938,
+    "name": "Kovox Pitch",
+    "contentId": "JP7843-PPSA26337_00-0170617212666639",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA26338_00",
@@ -114179,17 +114267,17 @@
     "titleId": "PPSA26374_00",
     "conceptId": 10012790,
     "name": "Island Trouble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA26374_00-0785896281297306",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA26375_00",
     "conceptId": 10012790,
     "name": "Island Trouble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA26375_00-0460095233247859",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA26381_00",
@@ -115163,25 +115251,25 @@
     "titleId": "PPSA26628_00",
     "conceptId": 10012964,
     "name": "The Jumping Carrot Race",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA26628_00-0263723864164699",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26629_00",
     "conceptId": 10012964,
     "name": "The Jumping Carrot Race",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA26629_00-0334812391082172",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26630_00",
     "conceptId": 10012964,
     "name": "The Jumping Carrot Race",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA26630_00-0294896909755726",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26643_00",
@@ -115234,10 +115322,10 @@
   {
     "titleId": "PPSA26670_00",
     "conceptId": 10011441,
-    "name": "Little Big Adventure \u2013 Twinsen\u2019s Quest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Little Big Adventure \u2013 Twinsen\u2019s Quest DEMO",
+    "contentId": "EP4295-PPSA26670_00-LBATWINSENPS50WW",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA26679_00",
@@ -117707,9 +117795,9 @@
     "titleId": "PPSA27611_00",
     "conceptId": 10013533,
     "name": "Sunrise GP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6883-PPSA27611_00-0251231861754527",
+    "region": "UP",
+    "publisherId": "UP6883"
   },
   {
     "titleId": "PPSA27612_00",
@@ -117723,9 +117811,9 @@
     "titleId": "PPSA27613_00",
     "conceptId": 10013533,
     "name": "Sunrise GP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6900-PPSA27613_00-0631800282403963",
+    "region": "HP",
+    "publisherId": "HP6900"
   },
   {
     "titleId": "PPSA27614_00",
@@ -118451,9 +118539,17 @@
     "titleId": "PPSA27986_00",
     "conceptId": 10013839,
     "name": "Double Dangerous",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0337-PPSA27986_00-0962378444986628",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA27990_00",
+    "conceptId": 10013844,
+    "name": "We Could Be Heroes",
+    "contentId": "UB0371-PPSA27990_00-0163711480236591",
+    "region": "UB",
+    "publisherId": "UB0371"
   },
   {
     "titleId": "PPSA28017_00",
@@ -118483,9 +118579,9 @@
     "titleId": "PPSA28020_00",
     "conceptId": 10013868,
     "name": "ActionCam: Supernatural Case",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28020_00-0418915402545678",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28026_00",
@@ -118563,9 +118659,9 @@
     "titleId": "PPSA28113_00",
     "conceptId": 10013944,
     "name": "Cocktail Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28113_00-0295011040053940",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28114_00",
@@ -118902,6 +118998,14 @@
     "contentId": "UB1022-PPSA28386_00-REMBRVALENTINEAS",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA28387_00",
+    "conceptId": 10014125,
+    "name": "Hot Rod Mayhem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28388_00",
