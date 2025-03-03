@@ -44707,9 +44707,9 @@
     "titleId": "PPSA09838_00",
     "conceptId": 10002871,
     "name": "Spectre Divide",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7000-PPSA09838_00-4237303414170075",
+    "region": "UP",
+    "publisherId": "UP7000"
   },
   {
     "titleId": "PPSA09843_00",
@@ -104304,6 +104304,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23976_00",
+    "conceptId": 10011480,
+    "name": "Jelly Brawl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23977_00",
     "conceptId": 10011483,
     "name": "Polimines Deluxe",
@@ -117619,9 +117627,9 @@
     "titleId": "PPSA27546_00",
     "conceptId": 10013475,
     "name": "Destino Indomable",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA27546_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA27547_00",
@@ -119246,6 +119254,30 @@
     "contentId": "UP2005-PPSA28526_00-CRIMEOPERAFANDIS",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA28587_00",
+    "conceptId": 10014248,
+    "name": "Math Genius: Subtraction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28589_00",
+    "conceptId": 10014248,
+    "name": "Math Genius: Subtraction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28590_00",
+    "conceptId": 10014248,
+    "name": "Math Genius: Subtraction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28629_00",
