@@ -20616,6 +20616,14 @@
     "publisherId": "HP0874"
   },
   {
+    "titleId": "PPSA05579_00",
+    "conceptId": 10001266,
+    "name": "Spelunky 2",
+    "contentId": "EP4407-PPSA05579_00-SPELUNKY20000000",
+    "region": "EP",
+    "publisherId": "EP4407"
+  },
+  {
     "titleId": "PPSA05580_00",
     "conceptId": 10001266,
     "name": "Spelunky 2",
@@ -77936,6 +77944,14 @@
     "publisherId": "UP8371"
   },
   {
+    "titleId": "PPSA18010_00",
+    "conceptId": 10009018,
+    "name": "Tony Hawk's\u2122 Pro Skater\u2122 3 + 4 - Cross-Gen Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0002"
+  },
+  {
     "titleId": "PPSA18013_00",
     "conceptId": 10001555,
     "name": "PERSONA3 RELOAD DIGITAL ORIGINAL SOUNDTRACK",
@@ -79202,8 +79218,8 @@
   {
     "titleId": "PPSA18305_00",
     "conceptId": 10004292,
-    "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars PS4 & PS5",
-    "contentId": null,
+    "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+    "contentId": "JP0101-PPSA18305_00-SUIKODENREMASTER",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -79723,9 +79739,9 @@
     "titleId": "PPSA18438_00",
     "conceptId": 10009164,
     "name": "Morkull Ragast's Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6326-PPSA18438_00-0412168086750236",
+    "region": "UP",
+    "publisherId": "UP6326"
   },
   {
     "titleId": "PPSA18439_00",
@@ -80016,6 +80032,14 @@
     "publisherId": "UP7611"
   },
   {
+    "titleId": "PPSA18513_00",
+    "conceptId": 10009101,
+    "name": "War Robots: Frontiers",
+    "contentId": "UP2282-PPSA18513_00-0487012293423705",
+    "region": "UP",
+    "publisherId": "UP2282"
+  },
+  {
     "titleId": "PPSA18514_00",
     "conceptId": 10009194,
     "name": "Mystic Academy: Escape Room",
@@ -80158,6 +80182,14 @@
     "contentId": "JP0365-PPSA18539_00-SURVIVALASCENDED",
     "region": "JP",
     "publisherId": "JP0365"
+  },
+  {
+    "titleId": "PPSA18544_00",
+    "conceptId": 10009196,
+    "name": "Brain Show",
+    "contentId": "EB0101-PPSA18544_00-0076864156544100",
+    "region": "EB",
+    "publisherId": "EB0101"
   },
   {
     "titleId": "PPSA18546_00",
@@ -101147,9 +101179,9 @@
     "titleId": "PPSA23277_00",
     "conceptId": 10011091,
     "name": "Go Fight Fantastic!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0701-PPSA23277_00-0932308793377736",
+    "region": "JB",
+    "publisherId": "JB0701"
   },
   {
     "titleId": "PPSA23278_00",
@@ -109963,9 +109995,9 @@
     "titleId": "PPSA25239_00",
     "conceptId": 10012101,
     "name": "EXOcars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0192-PPSA25239_00-0396234357474482",
+    "region": "UB",
+    "publisherId": "UB0192"
   },
   {
     "titleId": "PPSA25241_00",
@@ -118531,9 +118563,9 @@
     "titleId": "PPSA27798_00",
     "conceptId": 10013681,
     "name": "Cazzarion: Fishing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA27798_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA27799_00",
@@ -118600,6 +118632,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA27814_00",
+    "conceptId": 10013691,
+    "name": "From one world to another",
+    "contentId": "UP7335-PPSA27814_00-0863374450878376",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA27815_00",
     "conceptId": 10013691,
     "name": "From one world to another",
@@ -118622,6 +118662,14 @@
     "contentId": "EP4486-PPSA27824_00-FFCOLLECTIONO000",
     "region": "EP",
     "publisherId": "EP4486"
+  },
+  {
+    "titleId": "PPSA27829_00",
+    "conceptId": 10013704,
+    "name": "The Renovator: Origins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27838_00",
@@ -118960,6 +119008,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA28106_00",
+    "conceptId": 10013942,
+    "name": "One Fear",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28112_00",
     "conceptId": 10013944,
     "name": "Cocktail Rush",
@@ -119059,17 +119115,17 @@
     "titleId": "PPSA28136_00",
     "conceptId": 10013146,
     "name": "Into Death and Beyond",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA28136_00-0853834228652721",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA28137_00",
     "conceptId": 10013146,
     "name": "Into Death and Beyond",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA28137_00-0127537901985035",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA28149_00",
@@ -119118,6 +119174,14 @@
     "contentId": "HP8406-PPSA28207_00-0667112104633437",
     "region": "HP",
     "publisherId": "HP8406"
+  },
+  {
+    "titleId": "PPSA28210_00",
+    "conceptId": 10014003,
+    "name": "Aero Cosmos",
+    "contentId": "UB0008-PPSA28210_00-0437502158388490",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA28213_00",
@@ -119249,6 +119313,14 @@
   },
   {
     "titleId": "PPSA28277_00",
+    "conceptId": 10014053,
+    "name": "Legends Aligned",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28278_00",
     "conceptId": 10014053,
     "name": "Legends Aligned",
     "contentId": null,
@@ -119694,6 +119766,38 @@
     "contentId": "HP8737-PPSA28530_00-0125630958878398",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA28540_00",
+    "conceptId": 10014227,
+    "name": "Sand Legends",
+    "contentId": "UB0337-PPSA28540_00-0658323012502681",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA28545_00",
+    "conceptId": 10014231,
+    "name": "Remember Saint-Patrick",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28546_00",
+    "conceptId": 10014231,
+    "name": "Remember Saint-Patrick",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28547_00",
+    "conceptId": 10014231,
+    "name": "Remember Saint-Patrick",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28586_00",
