@@ -50488,6 +50488,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA10793_00",
+    "conceptId": 10006353,
+    "name": "Skate (Dingo)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10795_00",
     "conceptId": 10005927,
     "name": "Paleo Pines",
@@ -79747,9 +79755,9 @@
     "titleId": "PPSA18439_00",
     "conceptId": 10009164,
     "name": "Morkull Ragast's Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6325-PPSA18439_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA18440_00",
@@ -98971,9 +98979,9 @@
     "titleId": "PPSA22689_00",
     "conceptId": 10009164,
     "name": "Morkull Ragast's Rage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6309-PPSA22689_00-0530845776611089",
+    "region": "HP",
+    "publisherId": "HP6309"
   },
   {
     "titleId": "PPSA22692_00",
@@ -104995,9 +105003,9 @@
     "titleId": "PPSA24109_00",
     "conceptId": 10011535,
     "name": "Sugardew Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5049-PPSA24109_00-SUGARDEWISLAND01",
+    "region": "EP",
+    "publisherId": "EP5049"
   },
   {
     "titleId": "PPSA24111_00",
@@ -117328,6 +117336,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27273_00",
+    "conceptId": 10013333,
+    "name": "Fishing Sea Adventure",
+    "contentId": "UP7668-PPSA27273_00-0265060734052906",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27274_00",
+    "conceptId": 10013333,
+    "name": "Fishing Sea Adventure",
+    "contentId": "UP7668-PPSA27274_00-0361892083327070",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27280_00",
     "conceptId": 10013340,
     "name": "Lulu's Temple",
@@ -118643,9 +118667,9 @@
     "titleId": "PPSA27815_00",
     "conceptId": 10013691,
     "name": "From one world to another",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA27815_00-0105295165834766",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA27823_00",
@@ -119011,9 +119035,9 @@
     "titleId": "PPSA28106_00",
     "conceptId": 10013942,
     "name": "One Fear",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6698-PPSA28106_00-0054975627413487",
+    "region": "EP",
+    "publisherId": "EP6698"
   },
   {
     "titleId": "PPSA28112_00",
@@ -119126,6 +119150,14 @@
     "contentId": "UP6718-PPSA28137_00-0127537901985035",
     "region": "UP",
     "publisherId": "UP6718"
+  },
+  {
+    "titleId": "PPSA28148_00",
+    "conceptId": 10013942,
+    "name": "One Fear",
+    "contentId": "UP6699-PPSA28148_00-0946763125237870",
+    "region": "UP",
+    "publisherId": "UP6699"
   },
   {
     "titleId": "PPSA28149_00",
@@ -119508,8 +119540,8 @@
     "conceptId": 10014125,
     "name": "Hot Rod Mayhem",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP2100"
   },
   {
     "titleId": "PPSA28388_00",
@@ -119894,6 +119926,30 @@
     "contentId": "EP1612-PPSA28846_00-MARIANAGOLDGAME0",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA28910_00",
+    "conceptId": 10014451,
+    "name": "Space KaBAAM: Neon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28911_00",
+    "conceptId": 10014451,
+    "name": "Space KaBAAM: Neon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28937_00",
+    "conceptId": 10006854,
+    "name": "UNCTRL",
+    "contentId": "EP5645-PPSA28937_00-0660731095651775",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA28952_00",
