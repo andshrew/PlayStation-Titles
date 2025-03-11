@@ -37019,9 +37019,9 @@
     "titleId": "PPSA08560_00",
     "conceptId": 10005449,
     "name": "Split Fiction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0006-PPSA08560_00-SPLITGAME0000000",
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA08570_00",
@@ -101776,6 +101776,14 @@
     "publisherId": "UB0615"
   },
   {
+    "titleId": "PPSA23420_00",
+    "conceptId": 217471,
+    "name": "Steredenn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23421_00",
     "conceptId": 10010335,
     "name": "7 Days Heroes",
@@ -109960,12 +109968,28 @@
     "publisherId": "EP0600"
   },
   {
+    "titleId": "PPSA25206_00",
+    "conceptId": 10007685,
+    "name": "My Time at Sandrock Story Demo",
+    "contentId": "UP2011-PPSA25206_00-0159999384459288",
+    "region": "UP",
+    "publisherId": "UP2011"
+  },
+  {
     "titleId": "PPSA25207_00",
     "conceptId": 10012096,
     "name": "To The Moon",
     "contentId": "EP0600-PPSA25207_00-0528611509447835",
     "region": "EP",
     "publisherId": "EP0600"
+  },
+  {
+    "titleId": "PPSA25208_00",
+    "conceptId": 10007685,
+    "name": "My Time at Sandrock Story Demo",
+    "contentId": "EP2011-PPSA25208_00-0609140591765192",
+    "region": "EP",
+    "publisherId": "EP2011"
   },
   {
     "titleId": "PPSA25211_00",
@@ -119478,6 +119502,14 @@
     "contentId": "EP5645-PPSA28318_00-0559543014937923",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28334_00",
+    "conceptId": 10010689,
+    "name": "Border Police: Contraband Simulator 2024",
+    "contentId": "UP8681-PPSA28334_00-0504539910560802",
+    "region": "UP",
+    "publisherId": "UP8681"
   },
   {
     "titleId": "PPSA28348_00",
