@@ -87752,6 +87752,14 @@
     "publisherId": "EP2149"
   },
   {
+    "titleId": "PPSA20154_00",
+    "conceptId": 10009791,
+    "name": "Revenge of the Savage Planet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20155_00",
     "conceptId": 10009804,
     "name": "ToyBox Puzzle",
@@ -98506,18 +98514,18 @@
   {
     "titleId": "PPSA22592_00",
     "conceptId": 10010800,
-    "name": "Beyond the Ice Palace 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Beyond the Ice Palace II",
+    "contentId": "UP4293-PPSA22592_00-BEYONDTHEIP2SIEA",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA22593_00",
     "conceptId": 10010800,
-    "name": "Beyond the Ice Palace 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Beyond the Ice Palace II",
+    "contentId": "EP4293-PPSA22593_00-BEYONDTHEIP2SIEE",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA22595_00",
@@ -102774,6 +102782,14 @@
     "contentId": "HP3256-PPSA23636_00-P5SHOGUNSHOWDOWN",
     "region": "HP",
     "publisherId": "HP3256"
+  },
+  {
+    "titleId": "PPSA23637_00",
+    "conceptId": 217471,
+    "name": "Steredenn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23638_00",
@@ -110704,6 +110720,14 @@
     "publisherId": "EP0700"
   },
   {
+    "titleId": "PPSA25385_00",
+    "conceptId": 10012170,
+    "name": "The Phantom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25387_00",
     "conceptId": 10012171,
     "name": "Pixicharm - Dinoluship",
@@ -112579,9 +112603,9 @@
     "titleId": "PPSA25844_00",
     "conceptId": 10012448,
     "name": "Metal Bringer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0122-PPSA25844_00-0000METALBRINGER",
+    "region": "JP",
+    "publisherId": "JP0122"
   },
   {
     "titleId": "PPSA25845_00",
@@ -113310,6 +113334,22 @@
     "contentId": "JP6079-PPSA26054_00-0882029984283163",
     "region": "JP",
     "publisherId": "JP6079"
+  },
+  {
+    "titleId": "PPSA26056_00",
+    "conceptId": 10011682,
+    "name": "Antro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26058_00",
+    "conceptId": 10011682,
+    "name": "Antro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26063_00",
@@ -114963,9 +115003,9 @@
     "titleId": "PPSA26477_00",
     "conceptId": 10012850,
     "name": "Centum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0600-PPSA26477_00-0936456673613383",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA26482_00",
@@ -115867,9 +115907,9 @@
     "titleId": "PPSA26801_00",
     "conceptId": 10013039,
     "name": "3D Don't Die Mr. Robot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA26801_00-3DDONTDIEMRROBOT",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA26808_00",
@@ -116994,10 +117034,10 @@
   {
     "titleId": "PPSA27155_00",
     "conceptId": 10010800,
-    "name": "Beyond the Ice Palace 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Beyond the Ice Palace II",
+    "contentId": "UP4293-PPSA27155_00-BEYONDTHEIP2ASIA",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA27159_00",
@@ -118912,6 +118952,22 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA27981_00",
+    "conceptId": 10013837,
+    "name": "Tile Jong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27984_00",
+    "conceptId": 10013837,
+    "name": "Tile Jong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27986_00",
     "conceptId": 10013839,
     "name": "Double Dangerous",
@@ -119310,6 +119366,14 @@
     "contentId": "UP8623-PPSA28259_00-0438258082004993",
     "region": "UP",
     "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA28261_00",
+    "conceptId": 10014042,
+    "name": "Dagger Froggy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28264_00",
@@ -119974,6 +120038,14 @@
     "contentId": "UP5988-PPSA28642_00-SPLITGATE2ALPHA0",
     "region": "UP",
     "publisherId": "UP5988"
+  },
+  {
+    "titleId": "PPSA28800_00",
+    "conceptId": 10004328,
+    "name": "Afterlove EP",
+    "contentId": "HP5377-PPSA28800_00-2024100712480700",
+    "region": "HP",
+    "publisherId": "HP5377"
   },
   {
     "titleId": "PPSA28821_00",
