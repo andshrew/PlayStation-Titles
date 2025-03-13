@@ -68972,8 +68972,8 @@
     "conceptId": 10008226,
     "name": "Amerzone - The Explorer's Legacy",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA16081_00",
@@ -104715,9 +104715,9 @@
     "titleId": "PPSA24028_00",
     "conceptId": 10011513,
     "name": "Wanderstop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2470-PPSA24028_00-WANDERSTOPSIEA00",
+    "region": "UP",
+    "publisherId": "UP2470"
   },
   {
     "titleId": "PPSA24032_00",
@@ -110032,6 +110032,14 @@
     "publisherId": "UP2035"
   },
   {
+    "titleId": "PPSA25222_00",
+    "conceptId": 10011878,
+    "name": "Sticky Business",
+    "contentId": "EP5470-PPSA25222_00-0495375352291321",
+    "region": "EP",
+    "publisherId": "EP5470"
+  },
+  {
     "titleId": "PPSA25237_00",
     "conceptId": 10005430,
     "name": "Sky Oceans: Wings For Hire",
@@ -110472,6 +110480,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA25326_00",
+    "conceptId": 10012017,
+    "name": "My Little Universe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25327_00",
     "conceptId": 10012037,
     "name": "Mortar Master",
@@ -110723,9 +110739,9 @@
     "titleId": "PPSA25385_00",
     "conceptId": 10012170,
     "name": "The Phantom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8674-PPSA25385_00-PHAN000000000001",
+    "region": "UP",
+    "publisherId": "UP8674"
   },
   {
     "titleId": "PPSA25387_00",
@@ -111652,8 +111668,8 @@
     "conceptId": 10012300,
     "name": "Big Buck Hunter: Ultimate Trophy",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA25615_00",
@@ -112083,9 +112099,9 @@
     "titleId": "PPSA25715_00",
     "conceptId": 10012328,
     "name": "Chornobyl Liquidators",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6961-PPSA25715_00-0070927794042303",
+    "region": "HP",
+    "publisherId": "HP6961"
   },
   {
     "titleId": "PPSA25724_00",
@@ -112278,6 +112294,14 @@
     "contentId": "EP1549-PPSA25761_00-0295366920596147",
     "region": "EP",
     "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA25769_00",
+    "conceptId": 10011382,
+    "name": "\u30d4\u30d4\u30b9\u30c8\u30ec\u30c3\u30ed\u3068\u30e8\u30fc\u30e8\u30fc\u306e\u546a\u3044 \u4f53\u9a13\u7248",
+    "contentId": "UP2011-PPSA25769_00-0244902112206471",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA25773_00",
@@ -113338,18 +113362,18 @@
   {
     "titleId": "PPSA26056_00",
     "conceptId": 10011682,
-    "name": "Antro",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ANTRO DEMO",
+    "contentId": "EP6325-PPSA26056_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA26058_00",
     "conceptId": 10011682,
-    "name": "Antro",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ANTRO DEMO",
+    "contentId": "EP6325-PPSA26058_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA26063_00",
@@ -116226,10 +116250,10 @@
   {
     "titleId": "PPSA26911_00",
     "conceptId": 10010800,
-    "name": "Beyond the Ice Palace 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Beyond the Ice Palace II",
+    "contentId": "JP0075-PPSA26911_00-BEYONDTHEIP2SIEJ",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA26913_00",
@@ -118288,6 +118312,14 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA27677_00",
+    "conceptId": 10010911,
+    "name": "Karma: The Dark World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27687_00",
     "conceptId": 10006807,
     "name": "SMILY ANGRY",
@@ -118358,6 +118390,14 @@
     "contentId": "HP8462-PPSA27698_00-MIMIMETO00007772",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA27702_00",
+    "conceptId": 10013601,
+    "name": "Zombie Derby 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27704_00",
@@ -118656,6 +118696,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA27796_00",
+    "conceptId": 10013679,
+    "name": "Void Raiders",
+    "contentId": "HB1411-PPSA27796_00-0000000000000001",
+    "region": "HB",
+    "publisherId": "HB1411"
+  },
+  {
     "titleId": "PPSA27798_00",
     "conceptId": 10013681,
     "name": "Cazzarion: Fishing",
@@ -118792,6 +118840,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA27882_00",
+    "conceptId": 10012854,
+    "name": "Winning Post 10 2025 \u4f53\u9a13\u7248",
+    "contentId": "JP0106-PPSA27882_00-WP102025DEMO0000",
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
     "titleId": "PPSA27898_00",
     "conceptId": 10013739,
     "name": "Breakout Beyond",
@@ -118891,17 +118947,17 @@
     "titleId": "PPSA27918_00",
     "conceptId": 10013777,
     "name": "Cazzarion: Builder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA27918_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA27919_00",
     "conceptId": 10013777,
     "name": "Cazzarion: Builder",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA27919_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA27945_00",
@@ -118950,6 +119006,14 @@
     "contentId": "UP7552-PPSA27973_00-0496983961588000",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA27974_00",
+    "conceptId": 10013827,
+    "name": "ESCAPE SITE 13",
+    "contentId": "UB0675-PPSA27974_00-0577923818972343",
+    "region": "UB",
+    "publisherId": "UB0675"
   },
   {
     "titleId": "PPSA27981_00",
@@ -119102,6 +119166,14 @@
     "contentId": "EP5645-PPSA28072_00-0994886278057284",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28078_00",
+    "conceptId": 10013913,
+    "name": "Bubble Ghost Remake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28083_00",
@@ -119304,6 +119376,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA28212_00",
+    "conceptId": 10010911,
+    "name": "Karma: The Dark World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28213_00",
     "conceptId": 230079,
     "name": "The Last of Us\u2122 Part II",
@@ -119334,6 +119414,14 @@
     "contentId": "EP1612-PPSA28240_00-DARKWOODDASHGAME",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA28242_00",
+    "conceptId": 10014030,
+    "name": "HyperMarket Simulator",
+    "contentId": "HB1365-PPSA28242_00-0252377860068999",
+    "region": "HB",
+    "publisherId": "HB1365"
   },
   {
     "titleId": "PPSA28253_00",
@@ -119443,33 +119531,33 @@
     "titleId": "PPSA28277_00",
     "conceptId": 10014053,
     "name": "Legends Aligned",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA28277_00-0581832587495256",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA28278_00",
     "conceptId": 10014053,
     "name": "Legends Aligned",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA28278_00-0703075680523900",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA28279_00",
     "conceptId": 10014053,
     "name": "Legends Aligned",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA28279_00-0180649591083104",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA28280_00",
     "conceptId": 10014053,
     "name": "Legends Aligned",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA28280_00-0308912245439527",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA28285_00",
@@ -119566,6 +119654,22 @@
     "contentId": "EP5645-PPSA28318_00-0559543014937923",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28327_00",
+    "conceptId": 10010622,
+    "name": "Fantasy Beauties Premium Edition Demo",
+    "contentId": "EP2402-PPSA28327_00-FANTASYDEMOPS5EU",
+    "region": "EP",
+    "publisherId": "EP2402"
+  },
+  {
+    "titleId": "PPSA28328_00",
+    "conceptId": 10010622,
+    "name": "Fantasy Beauties Premium Edition Demo",
+    "contentId": "EP2402-PPSA28328_00-FANTASYDEMOPS5US",
+    "region": "EP",
+    "publisherId": "EP2402"
   },
   {
     "titleId": "PPSA28334_00",
@@ -119840,6 +119944,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28505_00",
+    "conceptId": 10011806,
+    "name": "BodyCamera Shooter",
+    "contentId": "UB0797-PPSA28505_00-0675978855203043",
+    "region": "UB",
+    "publisherId": "UB0797"
+  },
+  {
     "titleId": "PPSA28520_00",
     "conceptId": 10014213,
     "name": "Memory Holder: The Colors",
@@ -119942,6 +120054,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28569_00",
+    "conceptId": 10014243,
+    "name": "So Much Stuff 5: Mix-Knacks Collector's Edition",
+    "contentId": "EP1411-PPSA28569_00-0497171817497046",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28570_00",
+    "conceptId": 10014243,
+    "name": "So Much Stuff 5: Mix-Knacks Collector's Edition",
+    "contentId": "EP1411-PPSA28570_00-0425972286599634",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28571_00",
+    "conceptId": 10014243,
+    "name": "So Much Stuff 5: Mix-Knacks Collector's Edition",
+    "contentId": "EP1411-PPSA28571_00-0050369199217870",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28572_00",
+    "conceptId": 10014243,
+    "name": "So Much Stuff 5: Mix-Knacks Collector's Edition",
+    "contentId": "EP1411-PPSA28572_00-0607829435827862",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA28573_00",
@@ -120080,6 +120224,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28924_00",
+    "conceptId": 10014458,
+    "name": "Stellar Docks: Deep Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28925_00",
+    "conceptId": 10014458,
+    "name": "Stellar Docks: Deep Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28926_00",
+    "conceptId": 10014458,
+    "name": "Stellar Docks: Deep Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28927_00",
+    "conceptId": 10014458,
+    "name": "Stellar Docks: Deep Space",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28934_00",
     "conceptId": 10006854,
     "name": "UNCTRL",
@@ -120108,6 +120284,30 @@
     "conceptId": 10006854,
     "name": "UNCTRL",
     "contentId": "EP5645-PPSA28937_00-0660731095651775",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28943_00",
+    "conceptId": 10008284,
+    "name": "V BOMB",
+    "contentId": "EP5645-PPSA28943_00-0963197535957336",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28944_00",
+    "conceptId": 10008284,
+    "name": "V BOMB",
+    "contentId": "EP5645-PPSA28944_00-0257692948409125",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28945_00",
+    "conceptId": 10008284,
+    "name": "V BOMB",
+    "contentId": "EP5645-PPSA28945_00-0657620486121414",
     "region": "EP",
     "publisherId": "EP5645"
   },
