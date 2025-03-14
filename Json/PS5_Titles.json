@@ -63816,6 +63816,14 @@
     "publisherId": "EP3717"
   },
   {
+    "titleId": "PPSA14708_00",
+    "conceptId": 10007746,
+    "name": "Commandos: Origins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14711_00",
     "conceptId": 10007758,
     "name": "Super Trunko Go",
@@ -103282,10 +103290,10 @@
   {
     "titleId": "PPSA23742_00",
     "conceptId": 10011333,
-    "name": "FATE: Reawakened",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Fate: Reawakened",
+    "contentId": "EP2025-PPSA23742_00-FATE000000000000",
+    "region": "EP",
+    "publisherId": "EP2025"
   },
   {
     "titleId": "PPSA23743_00",
@@ -110032,6 +110040,14 @@
     "publisherId": "UP2035"
   },
   {
+    "titleId": "PPSA25220_00",
+    "conceptId": 10012079,
+    "name": "Vagrus - The Riven Realms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25222_00",
     "conceptId": 10011878,
     "name": "Sticky Business",
@@ -115568,6 +115584,22 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA26632_00",
+    "conceptId": 10012965,
+    "name": "The Jumping Bonbon Match",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26634_00",
+    "conceptId": 10012965,
+    "name": "The Jumping Bonbon Match",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26643_00",
     "conceptId": 10009628,
     "name": "Phantom Brave: The Lost Hero Demo",
@@ -115627,9 +115659,9 @@
     "titleId": "PPSA26676_00",
     "conceptId": 10012994,
     "name": "Midnight Murder Club",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP9000-PPSA26676_00-MIDNIGHTMURDERCL",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA26679_00",
@@ -115950,6 +115982,22 @@
     "contentId": "UB1029-PPSA26814_00-0546696686413934",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA26816_00",
+    "conceptId": 10006836,
+    "name": "Rendering Ranger\u2122: R\u00b2 [Rewind]",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26817_00",
+    "conceptId": 10006836,
+    "name": "Rendering Ranger\u2122: R\u00b2 [Rewind]",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26819_00",
@@ -117448,6 +117496,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27278_00",
+    "conceptId": 10013335,
+    "name": "Hyper Mirror Run",
+    "contentId": "EP0896-PPSA27278_00-HYPERMIRRORRUNRG",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA27280_00",
     "conceptId": 10013340,
     "name": "Lulu's Temple",
@@ -118808,6 +118864,14 @@
     "publisherId": "EP4486"
   },
   {
+    "titleId": "PPSA27825_00",
+    "conceptId": 10013697,
+    "name": "Zombie Strike Force",
+    "contentId": "UB0008-PPSA27825_00-0375742279984831",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA27829_00",
     "conceptId": 10013704,
     "name": "The Renovator: Origins",
@@ -119088,6 +119152,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA28025_00",
+    "conceptId": 10006002,
+    "name": "THROW M",
+    "contentId": "EP5645-PPSA28025_00-0826332722810709",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA28026_00",
     "conceptId": 10013873,
     "name": "Akatsuki: Lord of the Dawn",
@@ -119266,34 +119338,34 @@
   {
     "titleId": "PPSA28121_00",
     "conceptId": 10013946,
-    "name": "The Jumping Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Jumping Boy",
+    "contentId": "EB0805-PPSA28121_00-0643675468437477",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28122_00",
     "conceptId": 10013946,
-    "name": "The Jumping Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Jumping Boy",
+    "contentId": "EB0805-PPSA28122_00-0884517491822366",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28123_00",
     "conceptId": 10013946,
-    "name": "The Jumping Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Jumping Boy",
+    "contentId": "EB0805-PPSA28123_00-0668105390186321",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28124_00",
     "conceptId": 10013946,
-    "name": "The Jumping Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Jumping Boy",
+    "contentId": "EB0805-PPSA28124_00-0048631676316575",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28136_00",
@@ -119563,33 +119635,33 @@
     "titleId": "PPSA28285_00",
     "conceptId": 10014054,
     "name": "Steampunch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA28285_00-0611402962464879",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA28286_00",
     "conceptId": 10014054,
     "name": "Steampunch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA28286_00-0854385483148104",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA28287_00",
     "conceptId": 10014054,
     "name": "Steampunch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA28287_00-0920495616212354",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA28288_00",
     "conceptId": 10014054,
     "name": "Steampunch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA28288_00-0465541997549548",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA28289_00",
@@ -119622,6 +119694,14 @@
     "contentId": "UP2136-PPSA28293_00-0600120057446638",
     "region": "UP",
     "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA28299_00",
+    "conceptId": 10014066,
+    "name": "Dark Receipt",
+    "contentId": "UP5877-PPSA28299_00-0111856726639493",
+    "region": "UP",
+    "publisherId": "UP5877"
   },
   {
     "titleId": "PPSA28315_00",
@@ -120056,6 +120136,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28561_00",
+    "conceptId": 10014240,
+    "name": "Just Find It 4 - Collector's Edition",
+    "contentId": "EP1411-PPSA28561_00-0544051224669898",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28562_00",
+    "conceptId": 10014240,
+    "name": "Just Find It 4 - Collector's Edition",
+    "contentId": "EP1411-PPSA28562_00-0663044666811746",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28563_00",
+    "conceptId": 10014240,
+    "name": "Just Find It 4 - Collector's Edition",
+    "contentId": "EP1411-PPSA28563_00-0750201663874937",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28564_00",
+    "conceptId": 10014240,
+    "name": "Just Find It 4 - Collector's Edition",
+    "contentId": "EP1411-PPSA28564_00-0695077921765747",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA28569_00",
     "conceptId": 10014243,
     "name": "So Much Stuff 5: Mix-Knacks Collector's Edition",
@@ -120184,6 +120296,14 @@
     "publisherId": "UP5988"
   },
   {
+    "titleId": "PPSA28706_00",
+    "conceptId": 10014322,
+    "name": "Top Driver",
+    "contentId": "UB0337-PPSA28706_00-0628460272283044",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA28800_00",
     "conceptId": 10004328,
     "name": "Afterlove EP",
@@ -120208,6 +120328,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA28908_00",
+    "conceptId": 10010857,
+    "name": "KinnikuNeko: SUPER MUSCLE CAT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28910_00",
     "conceptId": 10014451,
     "name": "Space KaBAAM: Neon",
@@ -120222,6 +120350,30 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28912_00",
+    "conceptId": 10014451,
+    "name": "Space KaBAAM: Neon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28913_00",
+    "conceptId": 10014451,
+    "name": "Space KaBAAM: Neon",
+    "contentId": "JP7323-PPSA28913_00-0994237815732360",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA28922_00",
+    "conceptId": 10014456,
+    "name": "Pixicharm - Speedy Squire",
+    "contentId": "EP1612-PPSA28922_00-SPEEDYSQUIREGAME",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA28924_00",
@@ -120288,6 +120440,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA28942_00",
+    "conceptId": 10008284,
+    "name": "V BOMB",
+    "contentId": "EP5645-PPSA28942_00-0644116230943996",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA28943_00",
     "conceptId": 10008284,
     "name": "V BOMB",
@@ -120315,6 +120475,14 @@
     "titleId": "PPSA28952_00",
     "conceptId": 10013535,
     "name": "DAMN",
+    "contentId": "UP5958-PPSA28952_00-0817092399709140",
+    "region": "UP",
+    "publisherId": "UP5958"
+  },
+  {
+    "titleId": "PPSA28976_00",
+    "conceptId": 10014481,
+    "name": "Super Slime Boy",
     "contentId": null,
     "region": null,
     "publisherId": null
