@@ -57642,10 +57642,10 @@
   {
     "titleId": "PPSA13407_00",
     "conceptId": 10007196,
-    "name": "Dungeons Of Hinterberg",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dungeons of Hinterberg",
+    "contentId": "EP4395-PPSA13407_00-DUNGEONSOFHPS5EU",
+    "region": "EP",
+    "publisherId": "EP4395"
   },
   {
     "titleId": "PPSA13408_00",
@@ -63817,6 +63817,14 @@
   },
   {
     "titleId": "PPSA14708_00",
+    "conceptId": 10007746,
+    "name": "Commandos: Origins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14709_00",
     "conceptId": 10007746,
     "name": "Commandos: Origins",
     "contentId": null,
@@ -85064,6 +85072,14 @@
     "publisherId": "EP2483"
   },
   {
+    "titleId": "PPSA19592_00",
+    "conceptId": 10007746,
+    "name": "Commandos: Origins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19593_00",
     "conceptId": 10008937,
     "name": "\u795e\u7bb1- Mythology of Cube -",
@@ -89044,8 +89060,8 @@
     "conceptId": 10009931,
     "name": "Monster Energy Supercross 25 - The Official Video Game",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4356"
   },
   {
     "titleId": "PPSA20437_00",
@@ -94904,6 +94920,14 @@
     "publisherId": "EP3721"
   },
   {
+    "titleId": "PPSA21773_00",
+    "conceptId": 10010484,
+    "name": "\u30df\u30ab\u3068\u9b54\u5973\u306e\u5c71",
+    "contentId": "JP1392-PPSA21773_00-0508300300768914",
+    "region": "JP",
+    "publisherId": "JP1392"
+  },
+  {
     "titleId": "PPSA21776_00",
     "conceptId": 10010488,
     "name": "The Murder Of Sherlock Holmes",
@@ -98043,9 +98067,9 @@
     "titleId": "PPSA22492_00",
     "conceptId": 10010446,
     "name": "Dwerve",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2011-PPSA22492_00-0554957164003068",
+    "region": "EP",
+    "publisherId": "EP2011"
   },
   {
     "titleId": "PPSA22493_00",
@@ -99018,8 +99042,8 @@
   {
     "titleId": "PPSA22695_00",
     "conceptId": 10010684,
-    "name": "WWE 2K25 Standard Edition",
-    "contentId": null,
+    "name": "WWE 2K25",
+    "contentId": "UP1001-PPSA22695_00-WWE2K25000000000",
     "region": "UP",
     "publisherId": "UP1001"
   },
@@ -100963,9 +100987,9 @@
     "titleId": "PPSA23234_00",
     "conceptId": 10011090,
     "name": "Moorhuhn Kart 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA23234_00-MOORHUKART4PS5WW",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA23235_00",
@@ -102784,6 +102808,14 @@
     "publisherId": "EP8070"
   },
   {
+    "titleId": "PPSA23631_00",
+    "conceptId": 10011092,
+    "name": "Distant Bloom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23636_00",
     "conceptId": 10011296,
     "name": "Shogun Showdown",
@@ -103099,17 +103131,17 @@
     "titleId": "PPSA23695_00",
     "conceptId": 10011328,
     "name": "Hero's Hour",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA23695_00-0361015162787092",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA23696_00",
     "conceptId": 10011328,
     "name": "Hero's Hour",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4199-PPSA23696_00-0789037219289076",
+    "region": "UP",
+    "publisherId": "UP4199"
   },
   {
     "titleId": "PPSA23700_00",
@@ -119120,6 +119152,22 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA28006_00",
+    "conceptId": 10013810,
+    "name": "Goblin Slayer",
+    "contentId": "EP4312-PPSA28006_00-0672461181908270",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA28007_00",
+    "conceptId": 10013810,
+    "name": "Goblin Slayer",
+    "contentId": "UP4312-PPSA28007_00-0614388548475558",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA28017_00",
     "conceptId": 10013868,
     "name": "ActionCam: Supernatural Case",
@@ -119152,6 +119200,30 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA28022_00",
+    "conceptId": 10006002,
+    "name": "THROW M",
+    "contentId": "EP5645-PPSA28022_00-0748118164782835",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28023_00",
+    "conceptId": 10006002,
+    "name": "THROW M",
+    "contentId": "EP5645-PPSA28023_00-0466944953774931",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28024_00",
+    "conceptId": 10006002,
+    "name": "THROW M",
+    "contentId": "EP5645-PPSA28024_00-0822745333801226",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA28025_00",
     "conceptId": 10006002,
     "name": "THROW M",
@@ -119179,6 +119251,38 @@
     "titleId": "PPSA28033_00",
     "conceptId": 10013878,
     "name": "Shadow of the orient",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28057_00",
+    "conceptId": 10013893,
+    "name": "Finding Frankie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28058_00",
+    "conceptId": 10013893,
+    "name": "Finding Frankie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28059_00",
+    "conceptId": 10013893,
+    "name": "Finding Frankie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28060_00",
+    "conceptId": 10013893,
+    "name": "Finding Frankie",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -119763,33 +119867,33 @@
     "titleId": "PPSA28348_00",
     "conceptId": 10014097,
     "name": "Running Fox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA28348_00-0268482743934331",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA28349_00",
     "conceptId": 10014097,
     "name": "Running Fox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA28349_00-0784113690878251",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA28350_00",
     "conceptId": 10014097,
     "name": "Running Fox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA28350_00-0159033244587602",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA28351_00",
     "conceptId": 10014097,
     "name": "Running Fox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA28351_00-0727229733960280",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA28363_00",
@@ -119867,17 +119971,17 @@
     "titleId": "PPSA28391_00",
     "conceptId": 10014130,
     "name": "Cazzarion: Hell Biker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA28391_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA28392_00",
     "conceptId": 10014130,
     "name": "Cazzarion: Hell Biker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA28392_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA28402_00",
@@ -120339,25 +120443,25 @@
     "titleId": "PPSA28910_00",
     "conceptId": 10014451,
     "name": "Space KaBAAM: Neon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA28910_00-0826729692265117",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA28911_00",
     "conceptId": 10014451,
     "name": "Space KaBAAM: Neon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA28911_00-0842187094120357",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA28912_00",
     "conceptId": 10014451,
     "name": "Space KaBAAM: Neon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7367-PPSA28912_00-0986929486460481",
+    "region": "HP",
+    "publisherId": "HP7367"
   },
   {
     "titleId": "PPSA28913_00",
@@ -120486,5 +120590,13 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29047_00",
+    "conceptId": 10007348,
+    "name": "REFLECTOR",
+    "contentId": "EP5645-PPSA29047_00-0344051120570510",
+    "region": "EP",
+    "publisherId": "EP5645"
   }
 ]
