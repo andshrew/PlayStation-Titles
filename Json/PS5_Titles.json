@@ -98059,9 +98059,9 @@
     "titleId": "PPSA22491_00",
     "conceptId": 10010446,
     "name": "Dwerve",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA22491_00-0747428736955080",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA22492_00",
@@ -98083,9 +98083,9 @@
     "titleId": "PPSA22494_00",
     "conceptId": 10010446,
     "name": "Dwerve",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6477-PPSA22494_00-0292819808075524",
+    "region": "HP",
+    "publisherId": "HP6477"
   },
   {
     "titleId": "PPSA22495_00",
@@ -108891,9 +108891,9 @@
     "titleId": "PPSA24936_00",
     "conceptId": 10011966,
     "name": "Police Shootout",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA24936_00-0684038803973497",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA24944_00",
@@ -114536,6 +114536,14 @@
     "publisherId": "UP4538"
   },
   {
+    "titleId": "PPSA26340_00",
+    "conceptId": 10012707,
+    "name": "Very Bad Dreams - DEMO",
+    "contentId": "EP4730-PPSA26340_00-0057573587314550",
+    "region": "EP",
+    "publisherId": "EP4730"
+  },
+  {
     "titleId": "PPSA26343_00",
     "conceptId": 10012771,
     "name": "Rogue Flight",
@@ -115990,6 +115998,14 @@
     "contentId": "EP2005-PPSA26799_00-GRAVITYSPACEWALK",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA26800_00",
+    "conceptId": 10013038,
+    "name": "Fuel Station Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26801_00",
@@ -117560,6 +117576,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA27286_00",
+    "conceptId": 10013347,
+    "name": "Laboratory Danger Madness",
+    "contentId": "UP7668-PPSA27286_00-0830115313417132",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27287_00",
+    "conceptId": 10013347,
+    "name": "Laboratory Danger Madness",
+    "contentId": "UP7668-PPSA27287_00-0363920800531594",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27316_00",
     "conceptId": 10013355,
     "name": "Sokorobot",
@@ -118402,10 +118434,10 @@
   {
     "titleId": "PPSA27677_00",
     "conceptId": 10010911,
-    "name": "Karma: The Dark World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "KARMA:The Dark World Demo",
+    "contentId": "UP4382-PPSA27677_00-KARMADEMO0000000",
+    "region": "UP",
+    "publisherId": "UP4382"
   },
   {
     "titleId": "PPSA27687_00",
@@ -120544,6 +120576,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA28941_00",
+    "conceptId": 10014469,
+    "name": "GoldenRacing",
+    "contentId": "HB1069-PPSA28941_00-0395165031791154",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
     "titleId": "PPSA28942_00",
     "conceptId": 10008284,
     "name": "V BOMB",
@@ -120596,6 +120636,30 @@
     "conceptId": 10007348,
     "name": "REFLECTOR",
     "contentId": "EP5645-PPSA29047_00-0344051120570510",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29048_00",
+    "conceptId": 10007348,
+    "name": "REFLECTOR",
+    "contentId": "EP5645-PPSA29048_00-0898373429701320",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29049_00",
+    "conceptId": 10007348,
+    "name": "REFLECTOR",
+    "contentId": "EP5645-PPSA29049_00-0076111957518736",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29050_00",
+    "conceptId": 10007348,
+    "name": "REFLECTOR",
+    "contentId": "EP5645-PPSA29050_00-0350855294671304",
     "region": "EP",
     "publisherId": "EP5645"
   }
