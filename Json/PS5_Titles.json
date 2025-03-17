@@ -95096,6 +95096,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA21803_00",
+    "conceptId": 10008195,
+    "name": "Promise Mascot Agency",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21806_00",
     "conceptId": 10010419,
     "name": "Girl Genius: Adventures In Castle Heterodyne",
@@ -98075,9 +98083,9 @@
     "titleId": "PPSA22493_00",
     "conceptId": 10010446,
     "name": "Dwerve",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6412-PPSA22493_00-0666474817321078",
+    "region": "JP",
+    "publisherId": "JP6412"
   },
   {
     "titleId": "PPSA22494_00",
@@ -99050,8 +99058,8 @@
   {
     "titleId": "PPSA22696_00",
     "conceptId": 10010684,
-    "name": "WWE 2K25 Standard Edition",
-    "contentId": null,
+    "name": "WWE 2K25",
+    "contentId": "EP1001-PPSA22696_00-WWE2K25000000000",
     "region": "EP",
     "publisherId": "EP1001"
   },
@@ -119160,6 +119168,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27985_00",
+    "conceptId": 10010911,
+    "name": "Karma: The Dark World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27986_00",
     "conceptId": 10013839,
     "name": "Double Dangerous",
@@ -119286,6 +119302,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28043_00",
+    "conceptId": 10013887,
+    "name": "\u30b5\u30f3\u30b7\u30e3\u30ef\u30fc\u3000\u967d\u5149\u3068\u96e8\u306e\u7269\u8a9e",
+    "contentId": "JB1412-PPSA28043_00-0166056180186735",
+    "region": "JB",
+    "publisherId": "JB1412"
   },
   {
     "titleId": "PPSA28057_00",
@@ -119534,6 +119558,14 @@
     "contentId": "UB0108-PPSA28149_00-0943583078488780",
     "region": "UB",
     "publisherId": "UB0108"
+  },
+  {
+    "titleId": "PPSA28174_00",
+    "conceptId": 10013982,
+    "name": "Scrap Divers",
+    "contentId": "EP5077-PPSA28174_00-0356998192881191",
+    "region": "EP",
+    "publisherId": "EP5077"
   },
   {
     "titleId": "PPSA28180_00",
@@ -119896,6 +119928,30 @@
     "publisherId": "UP8681"
   },
   {
+    "titleId": "PPSA28343_00",
+    "conceptId": 10012240,
+    "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Demo",
+    "contentId": "EP4108-PPSA28343_00-YUMIA1000000DEMO",
+    "region": "EP",
+    "publisherId": "EP4108"
+  },
+  {
+    "titleId": "PPSA28344_00",
+    "conceptId": 10012240,
+    "name": "\u512a\u7c73\u96c5\u7684\u934a\u91d1\u5de5\u623f \uff5e\u8ffd\u61b6\u4e4b\u934a\u91d1\u8853\u58eb\u8207\u5e7b\u5275\u4e4b\u5730\uff5e \u9ad4\u9a57\u7248",
+    "contentId": "HP0106-PPSA28344_00-YUMIA1000000DEMO",
+    "region": "HP",
+    "publisherId": "HP0106"
+  },
+  {
+    "titleId": "PPSA28345_00",
+    "conceptId": 10012240,
+    "name": "\u30e6\u30df\u30a2\u306e\u30a2\u30c8\u30ea\u30a8 \uff5e\u8ffd\u61b6\u306e\u932c\u91d1\u8853\u58eb\u3068\u5e7b\u5275\u306e\u5730\uff5e \u4f53\u9a13\u7248",
+    "contentId": "JP0106-PPSA28345_00-YUMIA1000000DEMO",
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
     "titleId": "PPSA28348_00",
     "conceptId": 10014097,
     "name": "Running Fox",
@@ -120250,10 +120306,10 @@
   {
     "titleId": "PPSA28545_00",
     "conceptId": 10014231,
-    "name": "Remember Saint-Patrick",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Remember Saint Patrick",
+    "contentId": "UB1022-PPSA28545_00-REMBRSSTPATRIKEU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA28546_00",
