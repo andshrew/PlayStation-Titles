@@ -116288,6 +116288,30 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26874_00",
+    "conceptId": 10013077,
+    "name": "Blue Wednesday",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26875_00",
+    "conceptId": 10013077,
+    "name": "Blue Wednesday",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26876_00",
+    "conceptId": 10013077,
+    "name": "Blue Wednesday",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26877_00",
     "conceptId": 10012955,
     "name": "Tiny Terry's Turbo Trip",
@@ -119528,6 +119552,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA28129_00",
+    "conceptId": 10013952,
+    "name": "Kara Fantasy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28136_00",
     "conceptId": 10013146,
     "name": "Into Death and Beyond",
@@ -120144,6 +120176,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28473_00",
+    "conceptId": 10014176,
+    "name": "Crowd Fighters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28474_00",
+    "conceptId": 10014176,
+    "name": "Crowd Fighters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28475_00",
+    "conceptId": 10014176,
+    "name": "Crowd Fighters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28476_00",
+    "conceptId": 10014176,
+    "name": "Crowd Fighters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28477_00",
     "conceptId": 10014177,
     "name": "Race Track Maniacs",
@@ -120314,18 +120378,18 @@
   {
     "titleId": "PPSA28546_00",
     "conceptId": 10014231,
-    "name": "Remember Saint-Patrick",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Remember Saint Patrick",
+    "contentId": "UB1022-PPSA28546_00-REMBRSSTPATRIKJP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA28547_00",
     "conceptId": 10014231,
-    "name": "Remember Saint-Patrick",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Remember Saint Patrick",
+    "contentId": "UB1022-PPSA28547_00-REMBRSSTPATRIKAS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA28561_00",
@@ -120403,17 +120467,17 @@
     "titleId": "PPSA28574_00",
     "conceptId": 10014244,
     "name": "Cazzarion: Cute Town",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA28574_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA28586_00",
     "conceptId": 10014231,
-    "name": "Remember Saint-Patrick",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Remember Saint Patrick",
+    "contentId": "UB1022-PPSA28586_00-REMBRSSTPATRIKNA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA28587_00",
@@ -120518,6 +120582,14 @@
     "contentId": "EP1612-PPSA28846_00-MARIANAGOLDGAME0",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA28872_00",
+    "conceptId": 10010911,
+    "name": "Karma: The Dark World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28908_00",
@@ -120716,6 +120788,38 @@
     "conceptId": 10007348,
     "name": "REFLECTOR",
     "contentId": "EP5645-PPSA29050_00-0350855294671304",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29051_00",
+    "conceptId": 10007488,
+    "name": "TEETER",
+    "contentId": "EP5645-PPSA29051_00-0049569622074396",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29052_00",
+    "conceptId": 10007488,
+    "name": "TEETER",
+    "contentId": "EP5645-PPSA29052_00-0843735418873569",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29053_00",
+    "conceptId": 10007488,
+    "name": "TEETER",
+    "contentId": "EP5645-PPSA29053_00-0951489357813791",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29054_00",
+    "conceptId": 10007488,
+    "name": "TEETER",
+    "contentId": "EP5645-PPSA29054_00-0341654819292734",
     "region": "EP",
     "publisherId": "EP5645"
   }
