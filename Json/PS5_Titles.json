@@ -59704,6 +59704,14 @@
     "publisherId": "EP2638"
   },
   {
+    "titleId": "PPSA13794_00",
+    "conceptId": 10007347,
+    "name": "PHANTOM BREAKER: BATTLE GROUNDS ULTIMATE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13796_00",
     "conceptId": 10007285,
     "name": "GOODBYE WORLD",
@@ -92544,6 +92552,22 @@
     "publisherId": "UP1050"
   },
   {
+    "titleId": "PPSA21240_00",
+    "conceptId": 10010252,
+    "name": "ARMORED CORE",
+    "contentId": "UP0506-PPSA21240_00-SLUS013230000000",
+    "region": "UP",
+    "publisherId": "UP0506"
+  },
+  {
+    "titleId": "PPSA21241_00",
+    "conceptId": 10010252,
+    "name": "ARMORED CORE",
+    "contentId": "EP0506-PPSA21241_00-SCES008420000000",
+    "region": "EP",
+    "publisherId": "EP0506"
+  },
+  {
     "titleId": "PPSA21249_00",
     "conceptId": 10010259,
     "name": "\u30e1\u30ab\u30d1\u30fc\u30c6\u30a3",
@@ -92814,6 +92838,22 @@
     "contentId": "UP9000-PPSA21300_00-SCUS971980000000",
     "region": "UP",
     "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA21307_00",
+    "conceptId": 10010297,
+    "name": "ARMORED CORE PROJECT PHANTASMA",
+    "contentId": "JP0506-PPSA21307_00-SLPS911100000000",
+    "region": "JP",
+    "publisherId": "JP0506"
+  },
+  {
+    "titleId": "PPSA21308_00",
+    "conceptId": 10010297,
+    "name": "ARMORED CORE PROJECT PHANTASMA",
+    "contentId": "UP0506-PPSA21308_00-SLUS006700000000",
+    "region": "UP",
+    "publisherId": "UP0506"
   },
   {
     "titleId": "PPSA21318_00",
@@ -102203,7 +102243,7 @@
     "titleId": "PPSA23479_00",
     "conceptId": 10011213,
     "name": "MLB\u00ae The Show\u2122 25",
-    "contentId": null,
+    "contentId": "UP9000-PPSA23479_00-MLBTHESHOW25SHIP",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -109296,6 +109336,14 @@
     "publisherId": "UB0429"
   },
   {
+    "titleId": "PPSA25020_00",
+    "conceptId": 10012010,
+    "name": "Royal Romances Series",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25031_00",
     "conceptId": 10011963,
     "name": "Drift Master Simulator",
@@ -111286,6 +111334,14 @@
     "contentId": "HP6661-PPSA25508_00-0123212986638419",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA25515_00",
+    "conceptId": 10012252,
+    "name": "Sol Dorado Heist",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25518_00",
@@ -113632,6 +113688,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA26114_00",
+    "conceptId": 10012618,
+    "name": "Moving Houses",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26119_00",
     "conceptId": 10012622,
     "name": "Detail Hunter",
@@ -115632,7 +115696,23 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA26631_00",
+    "conceptId": 10012965,
+    "name": "The Jumping Bonbon Match",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26632_00",
+    "conceptId": 10012965,
+    "name": "The Jumping Bonbon Match",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26633_00",
     "conceptId": 10012965,
     "name": "The Jumping Bonbon Match",
     "contentId": null,
@@ -115974,6 +116054,14 @@
     "contentId": "HP4312-PPSA26784_00-0618773703662269",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA26786_00",
+    "conceptId": 10012238,
+    "name": "Indiana Jones and the Great Circle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26789_00",
@@ -116811,9 +116899,9 @@
     "titleId": "PPSA27056_00",
     "conceptId": 10013189,
     "name": "S. Prysm Destroyer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA27056_00-SPRYSMDESTROYER0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA27064_00",
@@ -117720,6 +117808,14 @@
     "publisherId": "EP4295"
   },
   {
+    "titleId": "PPSA27349_00",
+    "conceptId": 10013374,
+    "name": "Hegzis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27350_00",
     "conceptId": 10013375,
     "name": "Gorilla Attack",
@@ -118355,9 +118451,17 @@
     "titleId": "PPSA27621_00",
     "conceptId": 10012571,
     "name": "Just Crow Things",
+    "contentId": "UP6527-PPSA27621_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP6527"
+  },
+  {
+    "titleId": "PPSA27625_00",
+    "conceptId": 10013482,
+    "name": "FANTASY LIFE i: The Girl Who Steals Time PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP0720"
   },
   {
     "titleId": "PPSA27635_00",
@@ -118670,6 +118774,14 @@
     "contentId": "EB1123-PPSA27733_00-0441990218617821",
     "region": "EB",
     "publisherId": "EB1123"
+  },
+  {
+    "titleId": "PPSA27747_00",
+    "conceptId": 10013631,
+    "name": "Zombie Derby: Pixel Survival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27749_00",
@@ -119216,6 +119328,14 @@
     "publisherId": "UB0371"
   },
   {
+    "titleId": "PPSA27997_00",
+    "conceptId": 10010642,
+    "name": "Sledders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27998_00",
     "conceptId": 10013853,
     "name": "BodyCam GangZone",
@@ -119434,10 +119554,10 @@
   {
     "titleId": "PPSA28083_00",
     "conceptId": 10013039,
-    "name": "3D Don't Die Mr. Robot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "3D Don't Die Mr. Robot (Demo)",
+    "contentId": "UP2005-PPSA28083_00-3DDONTDIEMRRDEMO",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28105_00",
@@ -120459,9 +120579,9 @@
     "titleId": "PPSA28573_00",
     "conceptId": 10014244,
     "name": "Cazzarion: Cute Town",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA28573_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA28574_00",
@@ -120510,6 +120630,30 @@
     "contentId": "UB1022-PPSA28590_00-MATHGENIUSSUBTAS",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA28593_00",
+    "conceptId": 10013998,
+    "name": "Project13: Nightwatch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28594_00",
+    "conceptId": 10013998,
+    "name": "Project13: Nightwatch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28612_00",
+    "conceptId": 10014268,
+    "name": "Secrets In Green",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28629_00",
@@ -120650,10 +120794,10 @@
   {
     "titleId": "PPSA28925_00",
     "conceptId": 10014458,
-    "name": "Stellar Docks: Deep Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stellar Docks Deep Space",
+    "contentId": "EP8701-PPSA28925_00-0230408840759634",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA28926_00",
@@ -120822,5 +120966,13 @@
     "contentId": "EP5645-PPSA29054_00-0341654819292734",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29155_00",
+    "conceptId": 233121,
+    "name": "Epic Roller Coasters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
