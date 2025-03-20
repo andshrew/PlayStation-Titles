@@ -20635,9 +20635,9 @@
     "titleId": "PPSA05580_00",
     "conceptId": 10001266,
     "name": "Spelunky 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4407-PPSA05580_00-SPELUNKY20000000",
+    "region": "UP",
+    "publisherId": "UP4407"
   },
   {
     "titleId": "PPSA05581_00",
@@ -92552,6 +92552,14 @@
     "publisherId": "UP1050"
   },
   {
+    "titleId": "PPSA21239_00",
+    "conceptId": 10010252,
+    "name": "ARMORED CORE",
+    "contentId": "JP0506-PPSA21239_00-SLPS009000000000",
+    "region": "JP",
+    "publisherId": "JP0506"
+  },
+  {
     "titleId": "PPSA21240_00",
     "conceptId": 10010252,
     "name": "ARMORED CORE",
@@ -108824,6 +108832,14 @@
     "publisherId": "HP3332"
   },
   {
+    "titleId": "PPSA24911_00",
+    "conceptId": 10011832,
+    "name": "Care Bears: Unlock the Magic",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24919_00",
     "conceptId": 10010358,
     "name": "Urban Myth Dissolution Center",
@@ -109338,10 +109354,10 @@
   {
     "titleId": "PPSA25020_00",
     "conceptId": 10012010,
-    "name": "Royal Romances Series",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Royal Romances: Forbidden Magic CE",
+    "contentId": "UB0429-PPSA25020_00-ROYALROMANCESEW0",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA25031_00",
@@ -111334,6 +111350,14 @@
     "contentId": "HP6661-PPSA25508_00-0123212986638419",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA25514_00",
+    "conceptId": 10012252,
+    "name": "Sol Dorado Heist",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25515_00",
@@ -114432,6 +114456,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA26283_00",
+    "conceptId": 10012495,
+    "name": "The Talos Principle: Reawakened",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26288_00",
     "conceptId": 10012723,
     "name": "Codename: Ocean Keeper",
@@ -115374,6 +115406,14 @@
     "contentId": "EP2005-PPSA26566_00-PENALTYSHOOTOUT0",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA26569_00",
+    "conceptId": 10012940,
+    "name": "United Assault - Final Stand",
+    "contentId": "EP4902-PPSA26569_00-0162927827005331",
+    "region": "EP",
+    "publisherId": "EP4902"
   },
   {
     "titleId": "PPSA26577_00",
@@ -117752,6 +117792,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA27337_00",
+    "conceptId": 10013365,
+    "name": "Happy Hotel",
+    "contentId": "HB1381-PPSA27337_00-0722383978609858",
+    "region": "HB",
+    "publisherId": "HB1381"
+  },
+  {
     "titleId": "PPSA27340_00",
     "conceptId": 10009499,
     "name": "FATAL FURY: City of the Wolves OPEN \u03b2 TEST",
@@ -118651,9 +118699,9 @@
     "titleId": "PPSA27702_00",
     "conceptId": 10013601,
     "name": "Zombie Derby 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8446-PPSA27702_00-0210909367107307",
+    "region": "UP",
+    "publisherId": "UP8446"
   },
   {
     "titleId": "PPSA27704_00",
@@ -120648,6 +120696,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28595_00",
+    "conceptId": 10013894,
+    "name": "The Black Within",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28596_00",
+    "conceptId": 10013894,
+    "name": "The Black Within",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28612_00",
     "conceptId": 10014268,
     "name": "Secrets In Green",
@@ -120738,10 +120802,10 @@
   {
     "titleId": "PPSA28908_00",
     "conceptId": 10010857,
-    "name": "KinnikuNeko: SUPER MUSCLE CAT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ad\u30f3\u8089\u306d\u3053\uff1aSUPER MUSCLE CAT",
+    "contentId": "EB0310-PPSA28908_00-KINNIKUNEKO00000",
+    "region": "EB",
+    "publisherId": "EB0310"
   },
   {
     "titleId": "PPSA28910_00",
@@ -120786,10 +120850,10 @@
   {
     "titleId": "PPSA28924_00",
     "conceptId": 10014458,
-    "name": "Stellar Docks: Deep Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stellar Docks Deep Space",
+    "contentId": "UP8511-PPSA28924_00-0293591822735757",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA28925_00",
@@ -120802,18 +120866,18 @@
   {
     "titleId": "PPSA28926_00",
     "conceptId": 10014458,
-    "name": "Stellar Docks: Deep Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stellar Docks Deep Space",
+    "contentId": "JP8416-PPSA28926_00-0001757333577062",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA28927_00",
     "conceptId": 10014458,
-    "name": "Stellar Docks: Deep Space",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stellar Docks Deep Space",
+    "contentId": "HP8462-PPSA28927_00-0581729214721357",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA28934_00",
@@ -120964,6 +121028,14 @@
     "conceptId": 10007488,
     "name": "TEETER",
     "contentId": "EP5645-PPSA29054_00-0341654819292734",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29127_00",
+    "conceptId": 10011743,
+    "name": "BOTTOP",
+    "contentId": "EP5645-PPSA29127_00-0294064634709446",
     "region": "EP",
     "publisherId": "EP5645"
   },
