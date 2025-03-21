@@ -57650,10 +57650,10 @@
   {
     "titleId": "PPSA13408_00",
     "conceptId": 10007196,
-    "name": "Dungeons Of Hinterberg",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dungeons of Hinterberg",
+    "contentId": "UP4395-PPSA13408_00-DUNGEONSOFHPS5US",
+    "region": "UP",
+    "publisherId": "UP4395"
   },
   {
     "titleId": "PPSA13412_00",
@@ -62438,6 +62438,14 @@
     "contentId": "EP0576-PPSA14289_00-KOF15DEMO0000000",
     "region": "EP",
     "publisherId": "EP0576"
+  },
+  {
+    "titleId": "PPSA14290_00",
+    "conceptId": 10007310,
+    "name": "Pocket Bravery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14291_00",
@@ -83728,6 +83736,14 @@
     "publisherId": "UP6093"
   },
   {
+    "titleId": "PPSA19322_00",
+    "conceptId": 10009485,
+    "name": "Caligo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19329_00",
     "conceptId": 10004328,
     "name": "Afterlove EP",
@@ -88914,8 +88930,8 @@
   {
     "titleId": "PPSA20396_00",
     "conceptId": 10009909,
-    "name": "Assassin\u2019s Creed Shadows",
-    "contentId": null,
+    "name": "Assassin's Creed\u00ae Shadows",
+    "contentId": "UP0001-PPSA20396_00-GAME000000000000",
     "region": "UP",
     "publisherId": "UP0001"
   },
@@ -91864,6 +91880,14 @@
     "publisherId": "JP0114"
   },
   {
+    "titleId": "PPSA21041_00",
+    "conceptId": 10010107,
+    "name": "Deserted",
+    "contentId": "UB0613-PPSA21041_00-0706715423310613",
+    "region": "UB",
+    "publisherId": "UB0613"
+  },
+  {
     "titleId": "PPSA21051_00",
     "conceptId": 10009354,
     "name": "Rainbow Reactor: Fusion",
@@ -92860,6 +92884,22 @@
     "conceptId": 10010297,
     "name": "ARMORED CORE PROJECT PHANTASMA",
     "contentId": "UP0506-PPSA21308_00-SLUS006700000000",
+    "region": "UP",
+    "publisherId": "UP0506"
+  },
+  {
+    "titleId": "PPSA21311_00",
+    "conceptId": 10010298,
+    "name": "ARMORED CORE MASTER OF ARENA",
+    "contentId": "JP0506-PPSA21311_00-SLPS914440000000",
+    "region": "JP",
+    "publisherId": "JP0506"
+  },
+  {
+    "titleId": "PPSA21312_00",
+    "conceptId": 10010298,
+    "name": "ARMORED CORE MASTER OF ARENA",
+    "contentId": "UP0506-PPSA21312_00-SLUS010300000000",
     "region": "UP",
     "publisherId": "UP0506"
   },
@@ -102736,6 +102776,14 @@
     "publisherId": "EP0114"
   },
   {
+    "titleId": "PPSA23605_00",
+    "conceptId": 10011271,
+    "name": "Autopsy Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23607_00",
     "conceptId": 10011275,
     "name": "Tiny Pixels Vol. 1 - Ninpo Blast",
@@ -105998,6 +106046,14 @@
     "contentId": "EB0805-PPSA24288_00-0059214876132967",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA24296_00",
+    "conceptId": 10011654,
+    "name": "Barista Simulator",
+    "contentId": "UB0533-PPSA24296_00-0953786153237280",
+    "region": "UB",
+    "publisherId": "UB0533"
   },
   {
     "titleId": "PPSA24297_00",
@@ -112000,6 +112056,14 @@
     "publisherId": "EP5864"
   },
   {
+    "titleId": "PPSA25661_00",
+    "conceptId": 10012329,
+    "name": "Deliver At All Costs",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0101"
+  },
+  {
     "titleId": "PPSA25669_00",
     "conceptId": 10012336,
     "name": "Learn to Play Vol. 7 - Safe Journey",
@@ -115416,6 +115480,14 @@
     "publisherId": "EP4902"
   },
   {
+    "titleId": "PPSA26570_00",
+    "conceptId": 10012940,
+    "name": "United Assault - Final Stand",
+    "contentId": "EP4902-PPSA26570_00-0196823586533255",
+    "region": "EP",
+    "publisherId": "EP4902"
+  },
+  {
     "titleId": "PPSA26577_00",
     "conceptId": 10007290,
     "name": "on Sunday 2",
@@ -115747,9 +115819,9 @@
     "titleId": "PPSA26632_00",
     "conceptId": 10012965,
     "name": "The Jumping Bonbon Match",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA26632_00-0482281205678428",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26633_00",
@@ -115946,8 +116018,8 @@
   {
     "titleId": "PPSA26698_00",
     "conceptId": 10012956,
-    "name": "RollerCoaster Tycoon 3 Complete Edition",
-    "contentId": null,
+    "name": "Rollercoaster Tycoon 3: Complete Edition",
+    "contentId": "UP0182-PPSA26698_00-RTC3CE0000000000",
     "region": "UP",
     "publisherId": "UP0182"
   },
@@ -116064,6 +116136,14 @@
     "publisherId": "UP7939"
   },
   {
+    "titleId": "PPSA26768_00",
+    "conceptId": 10013027,
+    "name": "Leo & Mia: Animal Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26781_00",
     "conceptId": 10012976,
     "name": "New Year's Jam",
@@ -116097,6 +116177,14 @@
   },
   {
     "titleId": "PPSA26786_00",
+    "conceptId": 10012238,
+    "name": "Indiana Jones and the Great Circle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26788_00",
     "conceptId": 10012238,
     "name": "Indiana Jones and the Great Circle",
     "contentId": null,
@@ -116170,10 +116258,10 @@
   {
     "titleId": "PPSA26816_00",
     "conceptId": 10006836,
-    "name": "Rendering Ranger\u2122: R\u00b2 [Rewind]",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rendering Ranger: R\u00b2 [Rewind]",
+    "contentId": "UP6261-PPSA26816_00-0864118786303618",
+    "region": "UP",
+    "publisherId": "UP6261"
   },
   {
     "titleId": "PPSA26817_00",
@@ -116459,9 +116547,9 @@
     "titleId": "PPSA26884_00",
     "conceptId": 10013088,
     "name": "Pets Hotel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA26884_00-PETSHOTELPS50000",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA26889_00",
@@ -116486,6 +116574,30 @@
     "contentId": "EP3921-PPSA26894_00-0401007663096454",
     "region": "EP",
     "publisherId": "EP3921"
+  },
+  {
+    "titleId": "PPSA26895_00",
+    "conceptId": 10013094,
+    "name": "Color Swiper 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26897_00",
+    "conceptId": 10013094,
+    "name": "Color Swiper 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26898_00",
+    "conceptId": 10013094,
+    "name": "Color Swiper 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26904_00",
@@ -117636,8 +117748,8 @@
     "conceptId": 10012783,
     "name": "Once Upon A Puppet",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA27253_00",
@@ -118328,6 +118440,22 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA27569_00",
+    "conceptId": 10013490,
+    "name": "Is this Game Trying to Kill Me?",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27570_00",
+    "conceptId": 10013490,
+    "name": "Is this Game Trying to Kill Me?",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27578_00",
     "conceptId": 10013497,
     "name": "Cats and Seek : Dino Park",
@@ -118366,6 +118494,14 @@
     "contentId": "UB0111-PPSA27588_00-0545378089056816",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA27590_00",
+    "conceptId": 10013512,
+    "name": "Into the Restless Ruins Demo",
+    "contentId": "EP4459-PPSA27590_00-RESTLESSDEMOPS50",
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA27591_00",
@@ -119288,6 +119424,14 @@
     "publisherId": "UP8533"
   },
   {
+    "titleId": "PPSA27966_00",
+    "conceptId": 10012670,
+    "name": "Dead Land 2",
+    "contentId": "EP4476-PPSA27966_00-DEADLANDVR2KODOB",
+    "region": "EP",
+    "publisherId": "EP4476"
+  },
+  {
     "titleId": "PPSA27968_00",
     "conceptId": 10013819,
     "name": "DuckDuck Shoot",
@@ -119379,9 +119523,9 @@
     "titleId": "PPSA27997_00",
     "conceptId": 10010642,
     "name": "Sledders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7455-PPSA27997_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP7455"
   },
   {
     "titleId": "PPSA27998_00",
@@ -119406,6 +119550,14 @@
     "contentId": "UP4312-PPSA28007_00-0614388548475558",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA28011_00",
+    "conceptId": 10013862,
+    "name": "Kill The Emoji",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28017_00",
@@ -119936,6 +120088,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA28269_00",
+    "conceptId": 10009882,
+    "name": "Broken Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28271_00",
     "conceptId": 10014048,
     "name": "Pirate Trails",
@@ -120035,9 +120195,9 @@
     "titleId": "PPSA28289_00",
     "conceptId": 10014057,
     "name": "The Last Hero: Journey to the Unknown",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28289_00-THELASTHEROJOURG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28291_00",
@@ -120315,17 +120475,17 @@
     "titleId": "PPSA28469_00",
     "conceptId": 10014175,
     "name": "Slide Defenders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28469_00-0643500679297289",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28470_00",
     "conceptId": 10014175,
     "name": "Slide Defenders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28470_00-0909089566565731",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28471_00",
@@ -120339,9 +120499,9 @@
     "titleId": "PPSA28472_00",
     "conceptId": 10014175,
     "name": "Slide Defenders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28472_00-0337575879396686",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28473_00",
@@ -120558,6 +120718,38 @@
     "contentId": "UB1022-PPSA28547_00-REMBRSSTPATRIKAS",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA28553_00",
+    "conceptId": 10014238,
+    "name": "The Harmony Chronicles: Demon of the Void Collector's Edition",
+    "contentId": "EP1411-PPSA28553_00-0078853763364711",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28554_00",
+    "conceptId": 10014238,
+    "name": "The Harmony Chronicles: Demon of the Void Collector's Edition",
+    "contentId": "UP1421-PPSA28554_00-0321973107494402",
+    "region": "UP",
+    "publisherId": "UP1421"
+  },
+  {
+    "titleId": "PPSA28555_00",
+    "conceptId": 10014238,
+    "name": "The Harmony Chronicles: Demon of the Void Collector's Edition",
+    "contentId": "JP1681-PPSA28555_00-0997532994268886",
+    "region": "JP",
+    "publisherId": "JP1681"
+  },
+  {
+    "titleId": "PPSA28556_00",
+    "conceptId": 10014238,
+    "name": "The Harmony Chronicles: Demon of the Void Collector's Edition",
+    "contentId": "HP1546-PPSA28556_00-0978408722522863",
+    "region": "HP",
+    "publisherId": "HP1546"
   },
   {
     "titleId": "PPSA28561_00",
@@ -120968,6 +121160,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28985_00",
+    "conceptId": 10014485,
+    "name": "Pixicharm - Porkocalypse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29047_00",
     "conceptId": 10007348,
     "name": "REFLECTOR",
@@ -121032,6 +121232,30 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29123_00",
+    "conceptId": 10011743,
+    "name": "BOTTOP",
+    "contentId": "EP5645-PPSA29123_00-0636053926247068",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29125_00",
+    "conceptId": 10011743,
+    "name": "BOTTOP",
+    "contentId": "EP5645-PPSA29125_00-0564993337529527",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29126_00",
+    "conceptId": 10011743,
+    "name": "BOTTOP",
+    "contentId": "EP5645-PPSA29126_00-0823699918651469",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA29127_00",
     "conceptId": 10011743,
     "name": "BOTTOP",
@@ -121043,6 +121267,30 @@
     "titleId": "PPSA29155_00",
     "conceptId": 233121,
     "name": "Epic Roller Coasters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29212_00",
+    "conceptId": 10011671,
+    "name": "JUJUMP",
+    "contentId": "EP5645-PPSA29212_00-0785729915187247",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29255_00",
+    "conceptId": 10014666,
+    "name": "Magnitude: Gamma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29256_00",
+    "conceptId": 10014666,
+    "name": "Magnitude: Gamma",
     "contentId": null,
     "region": null,
     "publisherId": null
