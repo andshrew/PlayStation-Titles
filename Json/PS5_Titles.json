@@ -80008,6 +80008,14 @@
     "publisherId": "UP8767"
   },
   {
+    "titleId": "PPSA18493_00",
+    "conceptId": 10009182,
+    "name": "DIG VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18494_00",
     "conceptId": 10009181,
     "name": "Manitas Kitchen",
@@ -83734,6 +83742,14 @@
     "contentId": "UP6093-PPSA19320_00-0067009921549802",
     "region": "UP",
     "publisherId": "UP6093"
+  },
+  {
+    "titleId": "PPSA19321_00",
+    "conceptId": 10009485,
+    "name": "Caligo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19322_00",
@@ -88938,16 +88954,16 @@
   {
     "titleId": "PPSA20397_00",
     "conceptId": 10009909,
-    "name": "Assassin\u2019s Creed Shadows",
-    "contentId": null,
+    "name": "Assassin's Creed\u00ae Shadows",
+    "contentId": "EP0001-PPSA20397_00-GAME000000000000",
     "region": "EP",
     "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA20398_00",
     "conceptId": 10009909,
-    "name": "Assassin\u2019s Creed Shadows",
-    "contentId": null,
+    "name": "Assassin's Creed\u00ae Shadows",
+    "contentId": "JP0001-PPSA20398_00-GAME000000000000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -95872,6 +95888,14 @@
     "publisherId": "UP5641"
   },
   {
+    "titleId": "PPSA21973_00",
+    "conceptId": 10010574,
+    "name": "Sunderfolk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21974_00",
     "conceptId": 10010578,
     "name": "\u30b4\u30fc\u30b9\u30c8\u30cf\u30f3\u30bf\u30fc",
@@ -96362,8 +96386,8 @@
   {
     "titleId": "PPSA22101_00",
     "conceptId": 10009909,
-    "name": "\u30a2\u30b5\u30b7\u30f3 \u30af\u30ea\u30fc\u30c9 \u30b7\u30e3\u30c9\u30a6\u30ba",
-    "contentId": null,
+    "name": "Assassin's Creed\u00ae Shadows",
+    "contentId": "JP0001-PPSA22101_00-GAME000000000000",
     "region": "JP",
     "publisherId": "JP0001"
   },
@@ -105986,18 +106010,18 @@
   {
     "titleId": "PPSA24281_00",
     "conceptId": 10008894,
-    "name": "Assault Suit Leynos 2 Saturn Tribute PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Assault Suit Leynos 2 Saturn Tribute",
+    "contentId": "UP6026-PPSA24281_00-0224845421711262",
+    "region": "UP",
+    "publisherId": "UP6026"
   },
   {
     "titleId": "PPSA24282_00",
     "conceptId": 10008894,
-    "name": "Assault Suit Leynos 2 Saturn Tribute PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Assault Suit Leynos 2 Saturn Tribute",
+    "contentId": "EP6027-PPSA24282_00-0529689477611520",
+    "region": "EP",
+    "publisherId": "EP6027"
   },
   {
     "titleId": "PPSA24283_00",
@@ -108840,6 +108864,22 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA24899_00",
+    "conceptId": 10011944,
+    "name": "The Jumping Burger Rush - DEMO",
+    "contentId": "JP6595-PPSA24899_00-0120800014455003",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA24900_00",
+    "conceptId": 10011944,
+    "name": "The Jumping Burger Rush - DEMO",
+    "contentId": "HP6661-PPSA24900_00-0284317746625030",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA24901_00",
     "conceptId": 10004816,
     "name": "SYNDUALITY Echo of Ada (NT)",
@@ -110176,6 +110216,14 @@
     "publisherId": "EP2011"
   },
   {
+    "titleId": "PPSA25209_00",
+    "conceptId": 10007685,
+    "name": "\u304d\u307f\u306e\u307e\u3061 \u30b5\u30f3\u30c9\u30ed\u30c3\u30af \u30b9\u30c8\u30fc\u30ea\u30fc\u30c7\u30e2",
+    "contentId": "JP6412-PPSA25209_00-0861262583989932",
+    "region": "JP",
+    "publisherId": "JP6412"
+  },
+  {
     "titleId": "PPSA25211_00",
     "conceptId": 10010663,
     "name": "RetroRealms",
@@ -110214,6 +110262,38 @@
     "contentId": "EP5470-PPSA25222_00-0495375352291321",
     "region": "EP",
     "publisherId": "EP5470"
+  },
+  {
+    "titleId": "PPSA25228_00",
+    "conceptId": 10006395,
+    "name": "Quiz Thiz Italy - DEMO",
+    "contentId": "EP6664-PPSA25228_00-0938244979397047",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25229_00",
+    "conceptId": 10006395,
+    "name": "Quiz Thiz Italy - DEMO",
+    "contentId": "UP6664-PPSA25229_00-0532208236519241",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25230_00",
+    "conceptId": 10006395,
+    "name": "Quiz Thiz Italy - DEMO",
+    "contentId": "JP6595-PPSA25230_00-0641301146128852",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA25231_00",
+    "conceptId": 10006395,
+    "name": "Quiz Thiz Italy - DEMO",
+    "contentId": "HP6661-PPSA25231_00-0330685382003354",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA25237_00",
@@ -111250,24 +111330,24 @@
   {
     "titleId": "PPSA25468_00",
     "conceptId": 10012240,
-    "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land (PS4 & PS5)",
-    "contentId": null,
+    "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+    "contentId": "EP4108-PPSA25468_00-YUMIA10000MASTER",
     "region": "EP",
     "publisherId": "EP4108"
   },
   {
     "titleId": "PPSA25469_00",
     "conceptId": 10012240,
-    "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land (PS4 & PS5)",
-    "contentId": null,
+    "name": "\u512a\u7c73\u96c5\u7684\u934a\u91d1\u5de5\u623f \uff5e\u8ffd\u61b6\u4e4b\u934a\u91d1\u8853\u58eb\u8207\u5e7b\u5275\u4e4b\u5730\uff5e",
+    "contentId": "HP0106-PPSA25469_00-YUMIA10000MASTER",
     "region": "HP",
     "publisherId": "HP0106"
   },
   {
     "titleId": "PPSA25470_00",
     "conceptId": 10012240,
-    "name": "\u30e6\u30df\u30a2\u306e\u30a2\u30c8\u30ea\u30a8 \uff5e\u8ffd\u61b6\u306e\u932c\u91d1\u8853\u58eb\u3068\u5e7b\u5275\u306e\u5730\uff5e (PS4 & PS5)",
-    "contentId": null,
+    "name": "\u30e6\u30df\u30a2\u306e\u30a2\u30c8\u30ea\u30a8 \uff5e\u8ffd\u61b6\u306e\u932c\u91d1\u8853\u58eb\u3068\u5e7b\u5275\u306e\u5730\uff5e",
+    "contentId": "JP0106-PPSA25470_00-YUMIA10000MASTER",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -114323,17 +114403,17 @@
     "titleId": "PPSA26256_00",
     "conceptId": 10012717,
     "name": "Electrician Simulator VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6849-PPSA26256_00-0075956903214015",
+    "region": "JP",
+    "publisherId": "JP6849"
   },
   {
     "titleId": "PPSA26257_00",
     "conceptId": 10012717,
     "name": "Electrician Simulator VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6900-PPSA26257_00-0794636222851117",
+    "region": "HP",
+    "publisherId": "HP6900"
   },
   {
     "titleId": "PPSA26258_00",
@@ -115811,9 +115891,9 @@
     "titleId": "PPSA26631_00",
     "conceptId": 10012965,
     "name": "The Jumping Bonbon Match",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA26631_00-0290113416607002",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26632_00",
@@ -115827,17 +115907,17 @@
     "titleId": "PPSA26633_00",
     "conceptId": 10012965,
     "name": "The Jumping Bonbon Match",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA26633_00-0789805149031102",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26634_00",
     "conceptId": 10012965,
     "name": "The Jumping Bonbon Match",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA26634_00-0925183771550373",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26643_00",
@@ -119432,6 +119512,14 @@
     "publisherId": "EP4476"
   },
   {
+    "titleId": "PPSA27967_00",
+    "conceptId": 10012670,
+    "name": "Dead Land 2",
+    "contentId": "UP2136-PPSA27967_00-DEADLANDVR2KODOB",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
     "titleId": "PPSA27968_00",
     "conceptId": 10013819,
     "name": "DuckDuck Shoot",
@@ -119483,17 +119571,17 @@
     "titleId": "PPSA27981_00",
     "conceptId": 10013837,
     "name": "Tile Jong",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA27981_00-0665113160680689",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA27984_00",
     "conceptId": 10013837,
     "name": "Tile Jong",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA27984_00-0695492833167354",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA27985_00",
@@ -119555,9 +119643,9 @@
     "titleId": "PPSA28011_00",
     "conceptId": 10013862,
     "name": "Kill The Emoji",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6556-PPSA28011_00-0516246580820227",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA28017_00",
@@ -120491,9 +120579,9 @@
     "titleId": "PPSA28471_00",
     "conceptId": 10014175,
     "name": "Slide Defenders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28471_00-0891938435794219",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28472_00",
@@ -120718,6 +120806,14 @@
     "contentId": "UB1022-PPSA28547_00-REMBRSSTPATRIKAS",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA28551_00",
+    "conceptId": 10014235,
+    "name": "Monster Popper",
+    "contentId": "UB0008-PPSA28551_00-0467519872211250",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA28553_00",
@@ -121155,17 +121251,17 @@
     "titleId": "PPSA28976_00",
     "conceptId": 10014481,
     "name": "Super Slime Boy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0111-PPSA28976_00-0580489722775054",
+    "region": "UB",
+    "publisherId": "UB0111"
   },
   {
     "titleId": "PPSA28985_00",
     "conceptId": 10014485,
     "name": "Pixicharm - Porkocalypse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA28985_00-PORKOCALYPSEGAME",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA29047_00",
@@ -121270,6 +121366,30 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29209_00",
+    "conceptId": 10011671,
+    "name": "JUJUMP",
+    "contentId": "EP5645-PPSA29209_00-0262399746232178",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29210_00",
+    "conceptId": 10011671,
+    "name": "JUJUMP",
+    "contentId": "EP5645-PPSA29210_00-0488009180678290",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29211_00",
+    "conceptId": 10011671,
+    "name": "JUJUMP",
+    "contentId": "EP5645-PPSA29211_00-0277691321666440",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA29212_00",
