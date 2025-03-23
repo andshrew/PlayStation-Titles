@@ -2808,6 +2808,14 @@
     "publisherId": "HP3119"
   },
   {
+    "titleId": "PPSA02015_00",
+    "conceptId": 10001538,
+    "name": "DEATH STRANDING 2: ON THE BEACH Digital Deluxe Edition",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA02017_00",
     "conceptId": 204861,
     "name": "The Elder Scrolls Online",
@@ -66864,6 +66872,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15664_00",
+    "conceptId": 10008095,
+    "name": "Wanderer: The Fragments of Fate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15665_00",
     "conceptId": 10008095,
     "name": "Wanderer: The Fragments of Fate",
@@ -95360,6 +95376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21845_00",
+    "conceptId": 10010522,
+    "name": "Hole Theory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21848_00",
     "conceptId": 10010521,
     "name": "Shadows of Doubt",
@@ -108864,6 +108888,22 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA24897_00",
+    "conceptId": 10011944,
+    "name": "The Jumping Burger Rush - DEMO",
+    "contentId": "EP6664-PPSA24897_00-0336016464687874",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA24898_00",
+    "conceptId": 10011944,
+    "name": "The Jumping Burger Rush - DEMO",
+    "contentId": "UP6664-PPSA24898_00-0417841252677198",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA24899_00",
     "conceptId": 10011944,
     "name": "The Jumping Burger Rush - DEMO",
@@ -109190,6 +109230,14 @@
     "contentId": "HP6661-PPSA24968_00-0627078339779632",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA24969_00",
+    "conceptId": 10011985,
+    "name": "Galactic Guardian - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24973_00",
@@ -114387,17 +114435,17 @@
     "titleId": "PPSA26254_00",
     "conceptId": 10012717,
     "name": "Electrician Simulator VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6880-PPSA26254_00-0179031954864441",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA26255_00",
     "conceptId": 10012717,
     "name": "Electrician Simulator VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6883-PPSA26255_00-0731918533500550",
+    "region": "UP",
+    "publisherId": "UP6883"
   },
   {
     "titleId": "PPSA26256_00",
@@ -116346,10 +116394,10 @@
   {
     "titleId": "PPSA26817_00",
     "conceptId": 10006836,
-    "name": "Rendering Ranger\u2122: R\u00b2 [Rewind]",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rendering Ranger: R\u00b2 [Rewind]",
+    "contentId": "EP6260-PPSA26817_00-0532426890711674",
+    "region": "EP",
+    "publisherId": "EP6260"
   },
   {
     "titleId": "PPSA26819_00",
@@ -117940,6 +117988,22 @@
     "conceptId": 10013347,
     "name": "Laboratory Danger Madness",
     "contentId": "UP7668-PPSA27287_00-0363920800531594",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27290_00",
+    "conceptId": 10013348,
+    "name": "Heroes Sky Legends",
+    "contentId": "UP7668-PPSA27290_00-0523123471997366",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27291_00",
+    "conceptId": 10013348,
+    "name": "Heroes Sky Legends",
+    "contentId": "UP7668-PPSA27291_00-0836740049204250",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -120374,6 +120438,14 @@
     "contentId": "UP8681-PPSA28334_00-0504539910560802",
     "region": "UP",
     "publisherId": "UP8681"
+  },
+  {
+    "titleId": "PPSA28335_00",
+    "conceptId": 10014083,
+    "name": "Platformer Saga",
+    "contentId": "UB0008-PPSA28335_00-0913287421972745",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA28343_00",
