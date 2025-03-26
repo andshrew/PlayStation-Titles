@@ -3394,8 +3394,8 @@
   {
     "titleId": "PPSA02167_00",
     "conceptId": 10001710,
-    "name": "BLEACH Rebirth of Souls PS4 & PS5",
-    "contentId": null,
+    "name": "BLEACH \u9b42\u9b44\u89ba\u9192",
+    "contentId": "HP0700-PPSA02167_00-BLEACHROFS000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -10386,8 +10386,8 @@
   {
     "titleId": "PPSA03579_00",
     "conceptId": 10001710,
-    "name": "BLEACH Rebirth of Souls PS4 & PS5",
-    "contentId": null,
+    "name": "BLEACH Rebirth of Souls",
+    "contentId": "EP0700-PPSA03579_00-BLEACHROFS000000",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -79520,6 +79520,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18366_00",
+    "conceptId": 10009138,
+    "name": "Cats on Duty",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18369_00",
     "conceptId": 10008677,
     "name": "Bulletstorm VR",
@@ -104296,6 +104304,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA23915_00",
+    "conceptId": 10011452,
+    "name": "GET OUT - a \"Very Bad Dreams\" story",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4730"
+  },
+  {
     "titleId": "PPSA23917_00",
     "conceptId": 10011454,
     "name": "Moonlit Embrace",
@@ -109488,6 +109504,14 @@
     "publisherId": "EP8923"
   },
   {
+    "titleId": "PPSA25009_00",
+    "conceptId": 10012002,
+    "name": "Blue Prince",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25010_00",
     "conceptId": 10011252,
     "name": "Mr Trials",
@@ -112440,6 +112464,22 @@
     "publisherId": "UP6026"
   },
   {
+    "titleId": "PPSA25707_00",
+    "conceptId": 10012373,
+    "name": "Detective From The Crypt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25708_00",
+    "conceptId": 10012373,
+    "name": "Detective From The Crypt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25711_00",
     "conceptId": 10012375,
     "name": "Tilting Tiles: Fires of Industry",
@@ -112864,6 +112904,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA25811_00",
+    "conceptId": 10012401,
+    "name": "Eden Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25812_00",
     "conceptId": 10010047,
     "name": "The Rise of the Golden Idol",
@@ -112982,6 +113030,14 @@
     "contentId": "UP7594-PPSA25837_00-DATEZDEMO0000000",
     "region": "UP",
     "publisherId": "UP7594"
+  },
+  {
+    "titleId": "PPSA25840_00",
+    "conceptId": 10012401,
+    "name": "Eden Survivors",
+    "contentId": "UP7013-PPSA25840_00-0848559404585606",
+    "region": "UP",
+    "publisherId": "UP7013"
   },
   {
     "titleId": "PPSA25843_00",
@@ -114715,6 +114771,14 @@
     "titleId": "PPSA26296_00",
     "conceptId": 10005321,
     "name": "Killing Floor 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26300_00",
+    "conceptId": 10012592,
+    "name": "I Have No Mouth, and I Must Scream",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -116776,6 +116840,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26896_00",
+    "conceptId": 10013094,
+    "name": "Color Swiper 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26897_00",
     "conceptId": 10013094,
     "name": "Color Swiper 3",
@@ -117939,9 +118011,9 @@
     "titleId": "PPSA27245_00",
     "conceptId": 10013325,
     "name": "UNDERDOGS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA27245_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA27248_00",
@@ -118712,6 +118784,14 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA27589_00",
+    "conceptId": 10013512,
+    "name": "Into the Restless Ruins",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27590_00",
     "conceptId": 10013512,
     "name": "Into the Restless Ruins Demo",
@@ -119230,6 +119310,22 @@
     "contentId": "UP2005-PPSA27763_00-MWHFANTASY000000",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA27767_00",
+    "conceptId": 10012898,
+    "name": "Deep Deep Deep Nightmare",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27768_00",
+    "conceptId": 10012898,
+    "name": "Deep Deep Deep Nightmare",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27774_00",
@@ -119883,9 +119979,9 @@
     "titleId": "PPSA28026_00",
     "conceptId": 10013873,
     "name": "Akatsuki: Lord of the Dawn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA28026_00-AKATSUKILORDDAWN",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28032_00",
@@ -119947,9 +120043,9 @@
     "titleId": "PPSA28065_00",
     "conceptId": 10013325,
     "name": "UNDERDOGS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA28065_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA28066_00",
@@ -120393,6 +120489,14 @@
   },
   {
     "titleId": "PPSA28275_00",
+    "conceptId": 10014050,
+    "name": "Detective - The Test",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28276_00",
     "conceptId": 10014050,
     "name": "Detective - The Test",
     "contentId": null,
@@ -121208,6 +121312,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28613_00",
+    "conceptId": 10009530,
+    "name": "Tainted Grail: Fall of Avalon",
+    "contentId": "UP8198-PPSA28613_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP8198"
+  },
+  {
+    "titleId": "PPSA28619_00",
+    "conceptId": 10014101,
+    "name": "Leila",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28629_00",
     "conceptId": 10014047,
     "name": "A Bibelot: Y-Break",
@@ -121256,6 +121376,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA28755_00",
+    "conceptId": 10014356,
+    "name": "Moe Waifu H Push-Box",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28800_00",
     "conceptId": 10004328,
     "name": "Afterlove EP",
@@ -121270,6 +121398,14 @@
     "contentId": "JP5432-PPSA28821_00-0914595171845011",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA28836_00",
+    "conceptId": 10012592,
+    "name": "I Have No Mouth, and I Must Scream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28846_00",
@@ -121374,6 +121510,30 @@
     "contentId": "HP8462-PPSA28927_00-0581729214721357",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA28928_00",
+    "conceptId": 10014460,
+    "name": "Chippy's Stash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28930_00",
+    "conceptId": 10014460,
+    "name": "Chippy's Stash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28931_00",
+    "conceptId": 10014460,
+    "name": "Chippy's Stash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28934_00",
@@ -121552,6 +121712,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29106_00",
+    "conceptId": 10007192,
+    "name": "Quriocity",
+    "contentId": "UP8344-PPSA29106_00-0740130017987573",
+    "region": "UP",
+    "publisherId": "UP8344"
+  },
+  {
+    "titleId": "PPSA29108_00",
+    "conceptId": 10007192,
+    "name": "Quriocity",
+    "contentId": "EP8534-PPSA29108_00-0797584596742833",
+    "region": "EP",
+    "publisherId": "EP8534"
+  },
+  {
     "titleId": "PPSA29123_00",
     "conceptId": 10011743,
     "name": "BOTTOP",
@@ -121635,9 +121811,9 @@
     "titleId": "PPSA29256_00",
     "conceptId": 10014666,
     "name": "Magnitude: Gamma",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA29256_00-0826178201058396",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA29257_00",
