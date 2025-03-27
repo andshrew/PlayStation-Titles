@@ -33096,6 +33096,14 @@
     "publisherId": "JP0102"
   },
   {
+    "titleId": "PPSA07867_00",
+    "conceptId": 10004499,
+    "name": "Forever Skies",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6827"
+  },
+  {
     "titleId": "PPSA07868_00",
     "conceptId": 10004567,
     "name": "Amazing Superhero Squad",
@@ -74936,6 +74944,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA17287_00",
+    "conceptId": 10008656,
+    "name": "HordeCore(ConsoleVersion)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17290_00",
     "conceptId": 10008737,
     "name": "Master Maker 3D Ultimate",
@@ -76182,6 +76198,14 @@
     "contentId": "HP6478-PPSA17594_00-GRIMORIOOFGAMES0",
     "region": "HP",
     "publisherId": "HP6478"
+  },
+  {
+    "titleId": "PPSA17595_00",
+    "conceptId": 10008860,
+    "name": "Spellcaster University",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17597_00",
@@ -104672,6 +104696,14 @@
     "publisherId": "EP7099"
   },
   {
+    "titleId": "PPSA23978_00",
+    "conceptId": 10011484,
+    "name": "Blankspace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23979_00",
     "conceptId": 10011485,
     "name": "Zero the Kamikaze Squirrel",
@@ -105294,6 +105326,14 @@
     "contentId": "HP7254-PPSA24114_00-0371746662708532",
     "region": "HP",
     "publisherId": "HP7254"
+  },
+  {
+    "titleId": "PPSA24115_00",
+    "conceptId": 10004730,
+    "name": "Wildgate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24116_00",
@@ -110992,6 +111032,14 @@
     "publisherId": "EP2865"
   },
   {
+    "titleId": "PPSA25348_00",
+    "conceptId": 10012148,
+    "name": "EDENS ZERO",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA25354_00",
     "conceptId": 10010574,
     "name": "Sunderfolk",
@@ -111219,7 +111267,7 @@
     "titleId": "PPSA25411_00",
     "conceptId": 10012191,
     "name": "Venus Vacation PRISM - DEAD OR ALIVE Xtreme -",
-    "contentId": null,
+    "contentId": "JP0106-PPSA25411_00-APPVVPDOAX000000",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -111227,7 +111275,7 @@
     "titleId": "PPSA25412_00",
     "conceptId": 10012191,
     "name": "Venus Vacation PRISM - DEAD OR ALIVE Xtreme -",
-    "contentId": null,
+    "contentId": "HP0106-PPSA25412_00-APPVVPDOAX000000",
     "region": "HP",
     "publisherId": "HP0106"
   },
@@ -112907,9 +112955,9 @@
     "titleId": "PPSA25811_00",
     "conceptId": 10012401,
     "name": "Eden Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7009-PPSA25811_00-0199423200740453",
+    "region": "EP",
+    "publisherId": "EP7009"
   },
   {
     "titleId": "PPSA25812_00",
@@ -115498,8 +115546,8 @@
   {
     "titleId": "PPSA26483_00",
     "conceptId": 10012854,
-    "name": "Winning Post 10 2025 (PS4 & PS5)",
-    "contentId": null,
+    "name": "Winning Post 10 2025",
+    "contentId": "JP0106-PPSA26483_00-WP102025GAME0000",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -117968,6 +118016,14 @@
     "publisherId": "HP7889"
   },
   {
+    "titleId": "PPSA27224_00",
+    "conceptId": 10013311,
+    "name": "Vinebound: Tangled Together",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27233_00",
     "conceptId": 10008195,
     "name": "Promise Mascot Agency Demo",
@@ -118512,6 +118568,14 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA27509_00",
+    "conceptId": 10011830,
+    "name": "F1\u00ae 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27512_00",
     "conceptId": 10008642,
     "name": "Diesel Legacy: The Brazen Age Demo",
@@ -118574,6 +118638,14 @@
     "contentId": "EP3921-PPSA27529_00-0144183270969235",
     "region": "EP",
     "publisherId": "EP3921"
+  },
+  {
+    "titleId": "PPSA27531_00",
+    "conceptId": 10013462,
+    "name": "Star Leaping Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27535_00",
@@ -118715,9 +118787,9 @@
     "titleId": "PPSA27556_00",
     "conceptId": 10013002,
     "name": "Legends BMX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6969-PPSA27556_00-LEGENDSBMXGLOBAL",
+    "region": "EP",
+    "publisherId": "EP6969"
   },
   {
     "titleId": "PPSA27568_00",
@@ -119216,6 +119288,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA27717_00",
+    "conceptId": 10013613,
+    "name": "Bartender Hustle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27729_00",
     "conceptId": 10013624,
     "name": "There's a Gun in the Office",
@@ -119267,9 +119347,9 @@
     "titleId": "PPSA27744_00",
     "conceptId": 10012613,
     "name": "Little Droid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0812-PPSA27744_00-LITTLEDROIDPS5US",
+    "region": "UB",
+    "publisherId": "UB0812"
   },
   {
     "titleId": "PPSA27745_00",
@@ -119302,6 +119382,22 @@
     "contentId": "EP6470-PPSA27749_00-FOTOBOYANEWJOB00",
     "region": "EP",
     "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA27761_00",
+    "conceptId": 10004572,
+    "name": "\u30cf\u30e0\u30b9\u30bf\u30fc\u30d7\u30ec\u30a4\u30b0\u30e9\u30a6\u30f3\u30c9",
+    "contentId": "UP7594-PPSA27761_00-HMJPPS5000000001",
+    "region": "UP",
+    "publisherId": "UP7594"
+  },
+  {
+    "titleId": "PPSA27762_00",
+    "conceptId": 10004572,
+    "name": "Hamster Playground",
+    "contentId": "UP7594-PPSA27762_00-HMASPS5000000001",
+    "region": "UP",
+    "publisherId": "UP7594"
   },
   {
     "titleId": "PPSA27763_00",
@@ -119850,10 +119946,10 @@
   {
     "titleId": "PPSA27985_00",
     "conceptId": 10010911,
-    "name": "Karma: The Dark World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "KARMA: The Dark World Soundtrack",
+    "contentId": "UP4382-PPSA27985_00-KARMASOUNDTRACK0",
+    "region": "UP",
+    "publisherId": "UP4382"
   },
   {
     "titleId": "PPSA27986_00",
@@ -120099,9 +120195,9 @@
     "titleId": "PPSA28078_00",
     "conceptId": 10013913,
     "name": "Bubble Ghost Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6325-PPSA28078_00-0606757911085072",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA28083_00",
@@ -120330,10 +120426,10 @@
   {
     "titleId": "PPSA28212_00",
     "conceptId": 10010911,
-    "name": "Karma: The Dark World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "KARMA: The Dark World Artbook",
+    "contentId": "UP4382-PPSA28212_00-KARMAARTBOOK0000",
+    "region": "UP",
+    "publisherId": "UP4382"
   },
   {
     "titleId": "PPSA28213_00",
@@ -120606,6 +120702,14 @@
     "contentId": "UP5877-PPSA28299_00-0111856726639493",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA28306_00",
+    "conceptId": 10010937,
+    "name": "One Step After Fall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28315_00",
@@ -121392,6 +121496,14 @@
     "publisherId": "HP5377"
   },
   {
+    "titleId": "PPSA28802_00",
+    "conceptId": 10014387,
+    "name": "Grabitoons!",
+    "contentId": "UP8767-PPSA28802_00-0311460923657489",
+    "region": "UP",
+    "publisherId": "UP8767"
+  },
+  {
     "titleId": "PPSA28821_00",
     "conceptId": 10011140,
     "name": "Rock 'N Racing Bundle 3 in 1",
@@ -121418,10 +121530,10 @@
   {
     "titleId": "PPSA28872_00",
     "conceptId": 10010911,
-    "name": "Karma: The Dark World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "KARMA: The Dark World EP",
+    "contentId": "UP4382-PPSA28872_00-KARMAEP000000000",
+    "region": "UP",
+    "publisherId": "UP4382"
   },
   {
     "titleId": "PPSA28908_00",
@@ -121513,6 +121625,14 @@
   },
   {
     "titleId": "PPSA28928_00",
+    "conceptId": 10014460,
+    "name": "Chippy's Stash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28929_00",
     "conceptId": 10014460,
     "name": "Chippy's Stash",
     "contentId": null,
@@ -121798,6 +121918,22 @@
     "contentId": "EP5645-PPSA29212_00-0785729915187247",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29243_00",
+    "conceptId": 10014129,
+    "name": "Power Pointer",
+    "contentId": "EP7123-PPSA29243_00-0965063510708338",
+    "region": "EP",
+    "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA29244_00",
+    "conceptId": 10014129,
+    "name": "Power Pointer",
+    "contentId": "HP7141-PPSA29244_00-0458841576993549",
+    "region": "HP",
+    "publisherId": "HP7141"
   },
   {
     "titleId": "PPSA29255_00",
