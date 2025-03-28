@@ -79539,9 +79539,9 @@
     "titleId": "PPSA18365_00",
     "conceptId": 10009138,
     "name": "Cats on Duty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA18365_00-CODTMGPS500000US",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA18366_00",
@@ -99896,6 +99896,22 @@
     "publisherId": "HP5063"
   },
   {
+    "titleId": "PPSA22851_00",
+    "conceptId": 10003018,
+    "name": "Farm Frenzy: Refreshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA22852_00",
+    "conceptId": 10003018,
+    "name": "Farm Frenzy: Refreshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22854_00",
     "conceptId": 10010916,
     "name": "Cazzarion: Sky Flight",
@@ -103011,9 +103027,9 @@
     "titleId": "PPSA23631_00",
     "conceptId": 10011092,
     "name": "Distant Bloom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0701-PPSA23631_00-0255247588650619",
+    "region": "JB",
+    "publisherId": "JB0701"
   },
   {
     "titleId": "PPSA23636_00",
@@ -105792,6 +105808,14 @@
     "publisherId": "UP6788"
   },
   {
+    "titleId": "PPSA24198_00",
+    "conceptId": 10011600,
+    "name": "Mortisomem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24207_00",
     "conceptId": 10011390,
     "name": "Cubic Riders",
@@ -106339,17 +106363,17 @@
     "titleId": "PPSA24320_00",
     "conceptId": 10011666,
     "name": "Kemono Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA24320_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA24321_00",
     "conceptId": 10011666,
     "name": "Kemono Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA24321_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA24322_00",
@@ -107998,6 +108022,14 @@
     "contentId": "EP4295-PPSA24661_00-MELOBOTALASTSONG",
     "region": "EP",
     "publisherId": "EP4295"
+  },
+  {
+    "titleId": "PPSA24662_00",
+    "conceptId": 10011830,
+    "name": "F1\u00ae 25 Iconic Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA24663_00",
@@ -109710,6 +109742,14 @@
     "contentId": "UP7668-PPSA25059_00-0236534475163840",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25070_00",
+    "conceptId": 10011925,
+    "name": "Croc Legend of the Gobbos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25073_00",
@@ -113272,6 +113312,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA25899_00",
+    "conceptId": 10008631,
+    "name": "SaGa \u672a\u62d3\u9818\u57df 2 Remastered",
+    "contentId": "HP0036-PPSA25899_00-0160064027487045",
+    "region": "HP",
+    "publisherId": "HP0036"
+  },
+  {
     "titleId": "PPSA25900_00",
     "conceptId": 10010944,
     "name": "\u3057\u307e\u3063\u305f!\u7f8e\u4eba\u306b\u56f2\u307e\u308c\u305f!Demo",
@@ -115240,6 +115288,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26430_00",
+    "conceptId": 10012832,
+    "name": "Shapeo",
+    "contentId": "UP7668-PPSA26430_00-0926232198577230",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26431_00",
+    "conceptId": 10012832,
+    "name": "Shapeo",
+    "contentId": "UP7668-PPSA26431_00-0669992368419226",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26432_00",
     "conceptId": 10012833,
     "name": "Circle Of Nature",
@@ -115252,6 +115316,22 @@
     "conceptId": 10012833,
     "name": "Circle Of Nature",
     "contentId": "UP7668-PPSA26433_00-0904976736928284",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26434_00",
+    "conceptId": 10012833,
+    "name": "Circle Of Nature",
+    "contentId": "UP7668-PPSA26434_00-0078656759378293",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26435_00",
+    "conceptId": 10012833,
+    "name": "Circle Of Nature",
+    "contentId": "UP7668-PPSA26435_00-0813454396589230",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -116344,6 +116424,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26707_00",
+    "conceptId": 10013007,
+    "name": "Master Of Bow",
+    "contentId": "UP7668-PPSA26707_00-0337962876148921",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26708_00",
+    "conceptId": 10013007,
+    "name": "Master Of Bow",
+    "contentId": "UP7668-PPSA26708_00-0990113502518706",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26741_00",
     "conceptId": 10012933,
     "name": "GGmuks Casino: Slots",
@@ -116811,25 +116907,25 @@
     "titleId": "PPSA26874_00",
     "conceptId": 10013077,
     "name": "Blue Wednesday",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA26874_00-0800699338337944",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA26875_00",
     "conceptId": 10013077,
     "name": "Blue Wednesday",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA26875_00-0203959146993011",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA26876_00",
     "conceptId": 10013077,
     "name": "Blue Wednesday",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA26876_00-0228701266248771",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA26877_00",
@@ -117811,9 +117907,9 @@
     "titleId": "PPSA27182_00",
     "conceptId": 10013284,
     "name": "Gal Guardians: Servants of the Dark",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1368-PPSA27182_00-GGAC2PSAPP000000",
+    "region": "JP",
+    "publisherId": "JP1368"
   },
   {
     "titleId": "PPSA27183_00",
@@ -118096,6 +118192,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27255_00",
+    "conceptId": 10013328,
+    "name": "Archers Shadow Strike",
+    "contentId": "UP7668-PPSA27255_00-0963534646005680",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27256_00",
+    "conceptId": 10013328,
+    "name": "Archers Shadow Strike",
+    "contentId": "UP7668-PPSA27256_00-0274031090970652",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27257_00",
     "conceptId": 10013329,
     "name": "Young Bird Endless Flight",
@@ -118188,6 +118300,22 @@
     "conceptId": 10013347,
     "name": "Laboratory Danger Madness",
     "contentId": "UP7668-PPSA27287_00-0363920800531594",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27288_00",
+    "conceptId": 10013347,
+    "name": "Laboratory Danger Madness",
+    "contentId": "UP7668-PPSA27288_00-0208071675071044",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27289_00",
+    "conceptId": 10013347,
+    "name": "Laboratory Danger Madness",
+    "contentId": "UP7668-PPSA27289_00-0362630107476307",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -118371,7 +118499,7 @@
     "titleId": "PPSA27366_00",
     "conceptId": 10006488,
     "name": "AI LIMIT",
-    "contentId": null,
+    "contentId": "HP4226-PPSA27366_00-0697535294250993",
     "region": "HP",
     "publisherId": "HP4226"
   },
@@ -118643,9 +118771,9 @@
     "titleId": "PPSA27531_00",
     "conceptId": 10013462,
     "name": "Star Leaping Story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0675-PPSA27531_00-0195319834187024",
+    "region": "UB",
+    "publisherId": "UB0675"
   },
   {
     "titleId": "PPSA27535_00",
@@ -120083,14 +120211,22 @@
     "titleId": "PPSA28032_00",
     "conceptId": 10013878,
     "name": "Shadow of the orient",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA28032_00-0152961270290134",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA28033_00",
     "conceptId": 10013878,
     "name": "Shadow of the orient",
+    "contentId": "UP6718-PPSA28033_00-0758889302715484",
+    "region": "UP",
+    "publisherId": "UP6718"
+  },
+  {
+    "titleId": "PPSA28034_00",
+    "conceptId": 10013879,
+    "name": "I Am Your President",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -120323,9 +120459,9 @@
     "titleId": "PPSA28129_00",
     "conceptId": 10013952,
     "name": "Kara Fantasy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28129_00-KARAFANTASYRATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28133_00",
@@ -120368,6 +120504,14 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA28163_00",
+    "conceptId": 10013978,
+    "name": "Secret",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28174_00",
     "conceptId": 10013982,
     "name": "Scrap Divers",
@@ -120406,6 +120550,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA28204_00",
+    "conceptId": 10013941,
+    "name": "Supermarket Manager Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28207_00",
@@ -120702,6 +120854,14 @@
     "contentId": "UP5877-PPSA28299_00-0111856726639493",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA28305_00",
+    "conceptId": 10010937,
+    "name": "One Step After Fall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28306_00",
@@ -121003,33 +121163,33 @@
     "titleId": "PPSA28473_00",
     "conceptId": 10014176,
     "name": "Crowd Fighters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28473_00-0437997411549573",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28474_00",
     "conceptId": 10014176,
     "name": "Crowd Fighters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28474_00-0394903727405932",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28475_00",
     "conceptId": 10014176,
     "name": "Crowd Fighters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28475_00-0392497881615125",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28476_00",
     "conceptId": 10014176,
     "name": "Crowd Fighters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28476_00-0886617841088196",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28477_00",
@@ -121112,6 +121272,14 @@
     "publisherId": "UB0797"
   },
   {
+    "titleId": "PPSA28516_00",
+    "conceptId": 10014185,
+    "name": "Flying Sushi",
+    "contentId": "EP4312-PPSA28516_00-0188295349308971",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
     "titleId": "PPSA28520_00",
     "conceptId": 10014213,
     "name": "Memory Holder: The Colors",
@@ -121182,6 +121350,14 @@
     "contentId": "HP8737-PPSA28530_00-0125630958878398",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA28531_00",
+    "conceptId": 10014129,
+    "name": "Power Pointer",
+    "contentId": "JP7094-PPSA28531_00-0139461149060320",
+    "region": "JP",
+    "publisherId": "JP7094"
   },
   {
     "titleId": "PPSA28540_00",
@@ -121515,9 +121691,9 @@
     "titleId": "PPSA28836_00",
     "conceptId": 10012592,
     "name": "I Have No Mouth, and I Must Scream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0917-PPSA28836_00-NIHNMAIMSPS5SIEE",
+    "region": "EP",
+    "publisherId": "EP0917"
   },
   {
     "titleId": "PPSA28846_00",
@@ -121840,12 +122016,28 @@
     "publisherId": "UP8344"
   },
   {
+    "titleId": "PPSA29107_00",
+    "conceptId": 10006488,
+    "name": "AI LIMIT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29108_00",
     "conceptId": 10007192,
     "name": "Quriocity",
     "contentId": "EP8534-PPSA29108_00-0797584596742833",
     "region": "EP",
     "publisherId": "EP8534"
+  },
+  {
+    "titleId": "PPSA29118_00",
+    "conceptId": 10014576,
+    "name": "Pixicharm - Meowbolt",
+    "contentId": "EP1612-PPSA29118_00-MEOWBOLTGAME0000",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA29123_00",
@@ -121878,6 +122070,14 @@
     "contentId": "EP5645-PPSA29127_00-0294064634709446",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29131_00",
+    "conceptId": 10014596,
+    "name": "A Prison Digging Game",
+    "contentId": "HB1365-PPSA29131_00-0524549596834010",
+    "region": "HB",
+    "publisherId": "HB1365"
   },
   {
     "titleId": "PPSA29155_00",
@@ -121918,6 +122118,22 @@
     "contentId": "EP5645-PPSA29212_00-0785729915187247",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29230_00",
+    "conceptId": 10014649,
+    "name": "Pocket Rockets",
+    "contentId": "UB0337-PPSA29230_00-0030927895956310",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA29242_00",
+    "conceptId": 10014129,
+    "name": "Power Pointer",
+    "contentId": "UP7126-PPSA29242_00-0628375082599717",
+    "region": "UP",
+    "publisherId": "UP7126"
   },
   {
     "titleId": "PPSA29243_00",
@@ -121966,5 +122182,21 @@
     "contentId": "JP7323-PPSA29258_00-0649930074826893",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA29271_00",
+    "conceptId": 10005846,
+    "name": "REBIRTH",
+    "contentId": "EP5645-PPSA29271_00-0847134825538353",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29523_00",
+    "conceptId": 10012778,
+    "name": "Lost Soul Aside\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
