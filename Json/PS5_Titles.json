@@ -73760,6 +73760,14 @@
     "publisherId": "EP4492"
   },
   {
+    "titleId": "PPSA17024_00",
+    "conceptId": 10008631,
+    "name": "SaGa Frontier 2 Remastered",
+    "contentId": "EP0082-PPSA17024_00-SAGAFRONTIER2000",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
     "titleId": "PPSA17037_00",
     "conceptId": 234583,
     "name": "AeternoBlade II: Infinity",
@@ -75766,6 +75774,14 @@
     "contentId": "HP6661-PPSA17493_00-0303525401872824",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA17498_00",
+    "conceptId": 10008816,
+    "name": "Disney Villains Cursed Caf\u00e9",
+    "contentId": "UP1082-PPSA17498_00-0933361126391566",
+    "region": "UP",
+    "publisherId": "UP1082"
   },
   {
     "titleId": "PPSA17503_00",
@@ -78862,6 +78878,14 @@
     "contentId": "EP5279-PPSA18202_00-XXXXXXXXXXXXXXXX",
     "region": "EP",
     "publisherId": "EP5279"
+  },
+  {
+    "titleId": "PPSA18205_00",
+    "conceptId": 10008656,
+    "name": "HordeCore(ConsoleVersion)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18207_00",
@@ -82334,6 +82358,14 @@
     "contentId": "EP6922-PPSA19009_00-0187603196917985",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA19010_00",
+    "conceptId": 10009369,
+    "name": "Speedway Bundle Stock & Truck",
+    "contentId": "JP5432-PPSA19010_00-0138574285271039",
+    "region": "JP",
+    "publisherId": "JP5432"
   },
   {
     "titleId": "PPSA19011_00",
@@ -88512,6 +88544,30 @@
     "publisherId": "UP8765"
   },
   {
+    "titleId": "PPSA20295_00",
+    "conceptId": 10009867,
+    "name": "Shadow Labyrinth (\u30b7\u30e3\u30c9\u30a6\u30e9\u30d3\u30ea\u30f3\u30b9)",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA20296_00",
+    "conceptId": 10009867,
+    "name": "Shadow Labyrinth",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA20298_00",
+    "conceptId": 10009867,
+    "name": "Shadow Labyrinth",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA20299_00",
     "conceptId": 10009842,
     "name": "Regular Factory: Escape Room",
@@ -91818,10 +91874,10 @@
   {
     "titleId": "PPSA21014_00",
     "conceptId": 10010190,
-    "name": "Dollhouse: Behind the Broken Mirror",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dollhouse: Behind The Broken Mirror",
+    "contentId": "EP4541-PPSA21014_00-DOLLHOUSEBTBMEU0",
+    "region": "EP",
+    "publisherId": "EP4541"
   },
   {
     "titleId": "PPSA21015_00",
@@ -95425,6 +95481,14 @@
   },
   {
     "titleId": "PPSA21845_00",
+    "conceptId": 10010522,
+    "name": "Hole Theory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21846_00",
     "conceptId": 10010522,
     "name": "Hole Theory",
     "contentId": null,
@@ -99866,10 +99930,10 @@
   {
     "titleId": "PPSA22844_00",
     "conceptId": 10010911,
-    "name": "Karma: The Dark World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "KARMA:The Dark World",
+    "contentId": "EP4382-PPSA22844_00-KARMADARKWORLD00",
+    "region": "EP",
+    "publisherId": "EP4382"
   },
   {
     "titleId": "PPSA22845_00",
@@ -105816,6 +105880,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24199_00",
+    "conceptId": 10011600,
+    "name": "Mortisomem",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24207_00",
     "conceptId": 10011390,
     "name": "Cubic Riders",
@@ -109074,10 +109146,10 @@
   {
     "titleId": "PPSA24911_00",
     "conceptId": 10011832,
-    "name": "Care Bears: Unlock the Magic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Care Bears: Unlock The Magic",
+    "contentId": "UP4735-PPSA24911_00-0000000000000001",
+    "region": "UP",
+    "publisherId": "UP4735"
   },
   {
     "titleId": "PPSA24919_00",
@@ -111355,6 +111427,14 @@
     "titleId": "PPSA25420_00",
     "conceptId": 203897,
     "name": "Tom Clancy's Rainbow Six\u00ae Siege",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25423_00",
+    "conceptId": 10012198,
+    "name": "I, Robot",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -114187,9 +114267,9 @@
     "titleId": "PPSA26155_00",
     "conceptId": 10012648,
     "name": "The Mystery Of Woolley Mountain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1457-PPSA26155_00-0149953471195518",
+    "region": "EB",
+    "publisherId": "EB1457"
   },
   {
     "titleId": "PPSA26157_00",
@@ -114875,9 +114955,9 @@
     "titleId": "PPSA26300_00",
     "conceptId": 10012592,
     "name": "I Have No Mouth, and I Must Scream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0913-PPSA26300_00-NIHNMAIMSPS5SIEA",
+    "region": "UP",
+    "publisherId": "UP0913"
   },
   {
     "titleId": "PPSA26311_00",
@@ -116979,33 +117059,33 @@
     "titleId": "PPSA26895_00",
     "conceptId": 10013094,
     "name": "Color Swiper 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA26895_00-0849307825604427",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26896_00",
     "conceptId": 10013094,
     "name": "Color Swiper 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA26896_00-0263013100007261",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26897_00",
     "conceptId": 10013094,
     "name": "Color Swiper 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA26897_00-0190065788653176",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26898_00",
     "conceptId": 10013094,
     "name": "Color Swiper 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA26898_00-0080767378540280",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26904_00",
@@ -117414,6 +117494,14 @@
     "contentId": "UB1029-PPSA27030_00-0017989964528416",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA27038_00",
+    "conceptId": 10013172,
+    "name": "Monument Valley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27048_00",
@@ -118643,9 +118731,9 @@
     "titleId": "PPSA27492_00",
     "conceptId": 10012066,
     "name": "Next of Kin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1110-PPSA27492_00-0256134554081828",
+    "region": "UB",
+    "publisherId": "UB1110"
   },
   {
     "titleId": "PPSA27498_00",
@@ -119992,6 +120080,22 @@
     "publisherId": "UP8533"
   },
   {
+    "titleId": "PPSA27955_00",
+    "conceptId": 10013811,
+    "name": "Golf Up Tropical",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27956_00",
+    "conceptId": 10013811,
+    "name": "Golf Up Tropical",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27966_00",
     "conceptId": 10012670,
     "name": "Dead Land 2",
@@ -120512,6 +120616,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28170_00",
+    "conceptId": 10013980,
+    "name": "Collectible Cars Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28171_00",
+    "conceptId": 10013980,
+    "name": "Collectible Cars Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28172_00",
+    "conceptId": 10013980,
+    "name": "Collectible Cars Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28173_00",
+    "conceptId": 10013980,
+    "name": "Collectible Cars Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28174_00",
     "conceptId": 10013982,
     "name": "Scrap Divers",
@@ -120555,9 +120691,9 @@
     "titleId": "PPSA28204_00",
     "conceptId": 10013941,
     "name": "Supermarket Manager Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA28204_00-CLAB3SMS20250116",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA28207_00",
@@ -120566,6 +120702,14 @@
     "contentId": "HP8406-PPSA28207_00-0667112104633437",
     "region": "HP",
     "publisherId": "HP8406"
+  },
+  {
+    "titleId": "PPSA28209_00",
+    "conceptId": 10014002,
+    "name": "MindsEye",
+    "contentId": null,
+    "region": "EB",
+    "publisherId": "EB1674"
   },
   {
     "titleId": "PPSA28210_00",
@@ -121264,6 +121408,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28501_00",
+    "conceptId": 10014191,
+    "name": "Thief Snatch & Run",
+    "contentId": "UB0008-PPSA28501_00-0769927174356441",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA28505_00",
     "conceptId": 10011806,
     "name": "BodyCamera Shooter",
@@ -121278,6 +121430,14 @@
     "contentId": "EP4312-PPSA28516_00-0188295349308971",
     "region": "EP",
     "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA28517_00",
+    "conceptId": 10014185,
+    "name": "Flying Sushi",
+    "contentId": "UP4312-PPSA28517_00-0507458734720670",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA28520_00",
@@ -121390,6 +121550,14 @@
     "contentId": "UB1022-PPSA28547_00-REMBRSSTPATRIKAS",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA28550_00",
+    "conceptId": 10014234,
+    "name": "Operation: Hostage Rescue",
+    "contentId": "UB0008-PPSA28550_00-0208924601171774",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA28551_00",
@@ -121648,6 +121816,38 @@
     "publisherId": "UP5988"
   },
   {
+    "titleId": "PPSA28689_00",
+    "conceptId": 10014317,
+    "name": "Puzzle Wars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28690_00",
+    "conceptId": 10014317,
+    "name": "Puzzle Wars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28691_00",
+    "conceptId": 10014317,
+    "name": "Puzzle Wars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28692_00",
+    "conceptId": 10014317,
+    "name": "Puzzle Wars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28706_00",
     "conceptId": 10014322,
     "name": "Top Driver",
@@ -121659,6 +121859,22 @@
     "titleId": "PPSA28755_00",
     "conceptId": 10014356,
     "name": "Moe Waifu H Push-Box",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28772_00",
+    "conceptId": 10014366,
+    "name": "Snowsquall Grip",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28773_00",
+    "conceptId": 10014366,
+    "name": "Snowsquall Grip",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -122080,6 +122296,38 @@
     "publisherId": "HB1365"
   },
   {
+    "titleId": "PPSA29144_00",
+    "conceptId": 10014605,
+    "name": "Bee Flowers: Royal Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29145_00",
+    "conceptId": 10014605,
+    "name": "Bee Flowers: Royal Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29146_00",
+    "conceptId": 10014605,
+    "name": "Bee Flowers: Royal Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29147_00",
+    "conceptId": 10014605,
+    "name": "Bee Flowers: Royal Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29155_00",
     "conceptId": 233121,
     "name": "Epic Roller Coasters",
@@ -122118,6 +122366,14 @@
     "contentId": "EP5645-PPSA29212_00-0785729915187247",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29229_00",
+    "conceptId": 10014648,
+    "name": "A Bibelot: Tiret sur Will",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29230_00",
@@ -122190,6 +122446,46 @@
     "contentId": "EP5645-PPSA29271_00-0847134825538353",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29272_00",
+    "conceptId": 10005846,
+    "name": "REBIRTH",
+    "contentId": "EP5645-PPSA29272_00-0448596479979606",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29273_00",
+    "conceptId": 10005846,
+    "name": "REBIRTH",
+    "contentId": "EP5645-PPSA29273_00-0000931636587936",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29274_00",
+    "conceptId": 10005846,
+    "name": "REBIRTH",
+    "contentId": "EP5645-PPSA29274_00-0494125209826301",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29401_00",
+    "conceptId": 10014648,
+    "name": "A Bibelot: Tiret sur Will",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29405_00",
+    "conceptId": 10014648,
+    "name": "A Bibelot: Tiret sur Will",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29523_00",
