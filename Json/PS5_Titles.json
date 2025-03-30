@@ -65208,6 +65208,14 @@
     "publisherId": "HP7916"
   },
   {
+    "titleId": "PPSA15366_00",
+    "conceptId": 10007963,
+    "name": "RAIDOU Remastered: The Mystery of the Soulless Army PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0005"
+  },
+  {
     "titleId": "PPSA15367_00",
     "conceptId": 10007962,
     "name": "Contra: Operation Galuga",
@@ -65946,8 +65954,8 @@
   {
     "titleId": "PPSA15493_00",
     "conceptId": 10007896,
-    "name": "Atomfall PS4\u2122 & PS5\u2122",
-    "contentId": null,
+    "name": "Atomfall",
+    "contentId": "UP4363-PPSA15493_00-ATOMFALL00000000",
     "region": "UP",
     "publisherId": "UP4363"
   },
@@ -73760,6 +73768,22 @@
     "publisherId": "EP4492"
   },
   {
+    "titleId": "PPSA17022_00",
+    "conceptId": 10008631,
+    "name": "\u30b5\u30ac \u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\uff12 \u30ea\u30de\u30b9\u30bf\u30fc",
+    "contentId": "JP0082-PPSA17022_00-SAGAFRONTIER2000",
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA17023_00",
+    "conceptId": 10008631,
+    "name": "SaGa Frontier 2 Remastered",
+    "contentId": "UP0082-PPSA17023_00-SAGAFRONTIER2000",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA17024_00",
     "conceptId": 10008631,
     "name": "SaGa Frontier 2 Remastered",
@@ -79571,9 +79595,9 @@
     "titleId": "PPSA18366_00",
     "conceptId": 10009138,
     "name": "Cats on Duty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA18366_00-CODTMGPS500000EU",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA18369_00",
@@ -83976,6 +84000,14 @@
     "publisherId": "EP7868"
   },
   {
+    "titleId": "PPSA19347_00",
+    "conceptId": 10009495,
+    "name": "Lushfoil Photography Sim",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19351_00",
     "conceptId": 10009214,
     "name": "Potato Sack Racing Simulator 2024",
@@ -85782,6 +85814,14 @@
     "contentId": "EP2011-PPSA19721_00-0982962203720563",
     "region": "EP",
     "publisherId": "EP2011"
+  },
+  {
+    "titleId": "PPSA19724_00",
+    "conceptId": 10009638,
+    "name": "GRADIUS ORIGINS",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA19726_00",
@@ -95475,9 +95515,9 @@
     "titleId": "PPSA21844_00",
     "conceptId": 10010522,
     "name": "Hole Theory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA21844_00-0777590373502841",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA21845_00",
@@ -95489,6 +95529,14 @@
   },
   {
     "titleId": "PPSA21846_00",
+    "conceptId": 10010522,
+    "name": "Hole Theory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21847_00",
     "conceptId": 10010522,
     "name": "Hole Theory",
     "contentId": null,
@@ -99960,6 +100008,14 @@
     "publisherId": "HP5063"
   },
   {
+    "titleId": "PPSA22850_00",
+    "conceptId": 10003018,
+    "name": "Farm Frenzy: Refreshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22851_00",
     "conceptId": 10003018,
     "name": "Farm Frenzy: Refreshed",
@@ -102142,6 +102198,14 @@
     "contentId": "UP2136-PPSA23429_00-0001697192476937",
     "region": "UP",
     "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA23430_00",
+    "conceptId": 10008983,
+    "name": "KIBORG",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23431_00",
@@ -118424,6 +118488,38 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27296_00",
+    "conceptId": 10013350,
+    "name": "Stone Age Meteor Rush",
+    "contentId": "UP7668-PPSA27296_00-0192799667822023",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27297_00",
+    "conceptId": 10013350,
+    "name": "Stone Age Meteor Rush",
+    "contentId": "UP7668-PPSA27297_00-0397780928225279",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27298_00",
+    "conceptId": 10013350,
+    "name": "Stone Age Meteor Rush",
+    "contentId": "UP7668-PPSA27298_00-0686122097118234",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27299_00",
+    "conceptId": 10013350,
+    "name": "Stone Age Meteor Rush",
+    "contentId": "UP7668-PPSA27299_00-0822683736567748",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27316_00",
     "conceptId": 10013355,
     "name": "Sokorobot",
@@ -118862,6 +118958,22 @@
     "contentId": "UB0675-PPSA27531_00-0195319834187024",
     "region": "UB",
     "publisherId": "UB0675"
+  },
+  {
+    "titleId": "PPSA27532_00",
+    "conceptId": 10013464,
+    "name": "Pirates VR: Jolly Roger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27533_00",
+    "conceptId": 10013464,
+    "name": "Pirates VR: Jolly Roger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27535_00",
@@ -120688,6 +120800,14 @@
     "publisherId": "HP9000"
   },
   {
+    "titleId": "PPSA28203_00",
+    "conceptId": 10013941,
+    "name": "Supermarket Manager Simulator",
+    "contentId": "UP1564-PPSA28203_00-CLAB2SMS20250116",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA28204_00",
     "conceptId": 10013941,
     "name": "Supermarket Manager Simulator",
@@ -122473,6 +122593,14 @@
   },
   {
     "titleId": "PPSA29401_00",
+    "conceptId": 10014648,
+    "name": "A Bibelot: Tiret sur Will",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29402_00",
     "conceptId": 10014648,
     "name": "A Bibelot: Tiret sur Will",
     "contentId": null,
