@@ -70288,6 +70288,14 @@
     "publisherId": "UP6665"
   },
   {
+    "titleId": "PPSA16344_00",
+    "conceptId": 10008348,
+    "name": "NanoApostle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16349_00",
     "conceptId": 10008324,
     "name": "Rugby 25",
@@ -88600,6 +88608,14 @@
     "publisherId": "HP0700"
   },
   {
+    "titleId": "PPSA20297_00",
+    "conceptId": 10009867,
+    "name": "Shadow Labyrinth",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA20298_00",
     "conceptId": 10009867,
     "name": "Shadow Labyrinth",
@@ -89314,8 +89330,8 @@
   {
     "titleId": "PPSA20447_00",
     "conceptId": 10009937,
-    "name": "The First Berserker: Khazan Standard Edition",
-    "contentId": null,
+    "name": "The First Berserker: Khazan",
+    "contentId": "UP8236-PPSA20447_00-0840425721677280",
     "region": "UP",
     "publisherId": "UP8236"
   },
@@ -91922,10 +91938,10 @@
   {
     "titleId": "PPSA21015_00",
     "conceptId": 10010190,
-    "name": "Dollhouse: Behind the Broken Mirror",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dollhouse: Behind The Broken Mirror",
+    "contentId": "UP1470-PPSA21015_00-DOLLHOUSEBTBMUS0",
+    "region": "UP",
+    "publisherId": "UP1470"
   },
   {
     "titleId": "PPSA21016_00",
@@ -95523,9 +95539,9 @@
     "titleId": "PPSA21845_00",
     "conceptId": 10010522,
     "name": "Hole Theory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA21845_00-0602247578441465",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA21846_00",
@@ -100006,6 +100022,14 @@
     "contentId": "HP5063-PPSA22848_00-HOUSEFLIPPER02AS",
     "region": "HP",
     "publisherId": "HP5063"
+  },
+  {
+    "titleId": "PPSA22849_00",
+    "conceptId": 10003018,
+    "name": "Farm Frenzy: Refreshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22850_00",
@@ -115496,6 +115520,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26438_00",
+    "conceptId": 10012834,
+    "name": "Ball Cannon",
+    "contentId": "UP7668-PPSA26438_00-0842307083502585",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26440_00",
     "conceptId": 10012835,
     "name": "CICLAPP",
@@ -116584,6 +116616,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26739_00",
+    "conceptId": 10013009,
+    "name": "Boxville 2 Demo",
+    "contentId": "EP7349-PPSA26739_00-0091416953570366",
+    "region": "EP",
+    "publisherId": "EP7349"
+  },
+  {
     "titleId": "PPSA26741_00",
     "conceptId": 10012933,
     "name": "GGmuks Casino: Slots",
@@ -117048,6 +117088,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26865_00",
+    "conceptId": 10013072,
+    "name": "Soccer Goal Run",
+    "contentId": "UP7668-PPSA26865_00-0383120157112669",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26874_00",
     "conceptId": 10013077,
     "name": "Blue Wednesday",
@@ -117448,6 +117496,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26980_00",
+    "conceptId": 10013139,
+    "name": "Balloon Fast Run",
+    "contentId": "UP7668-PPSA26980_00-0095188117153845",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26983_00",
     "conceptId": 10008444,
     "name": "Alaskan Road Truckers: Highway Edition",
@@ -117532,6 +117588,14 @@
     "conceptId": 10013164,
     "name": "Dark Fox Infinity Runner",
     "contentId": "UP7668-PPSA27015_00-0954923084463204",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27016_00",
+    "conceptId": 10013164,
+    "name": "Dark Fox Infinity Runner",
+    "contentId": "UP7668-PPSA27016_00-0357036327159583",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -118000,6 +118064,14 @@
     "publisherId": "UP4293"
   },
   {
+    "titleId": "PPSA27157_00",
+    "conceptId": 10013258,
+    "name": "Mayhem Mail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27159_00",
     "conceptId": 10013225,
     "name": "Pickle Invasion",
@@ -118376,6 +118448,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27259_00",
+    "conceptId": 10013329,
+    "name": "Young Bird Endless Flight",
+    "contentId": "UP7668-PPSA27259_00-0736266522079710",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27261_00",
     "conceptId": 10013330,
     "name": "Ball Shoot Aim Challenge",
@@ -118388,6 +118468,14 @@
     "conceptId": 10013330,
     "name": "Ball Shoot Aim Challenge",
     "contentId": "UP7668-PPSA27262_00-0172023781312375",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27263_00",
+    "conceptId": 10013330,
+    "name": "Ball Shoot Aim Challenge",
+    "contentId": "UP7668-PPSA27263_00-0884389917797597",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -118484,6 +118572,14 @@
     "conceptId": 10013348,
     "name": "Heroes Sky Legends",
     "contentId": "UP7668-PPSA27291_00-0836740049204250",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27292_00",
+    "conceptId": 10013348,
+    "name": "Heroes Sky Legends",
+    "contentId": "UP7668-PPSA27292_00-0195555871330879",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -122040,6 +122136,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA28848_00",
+    "conceptId": 10014412,
+    "name": "Match it",
+    "contentId": "UB0752-PPSA28848_00-0397367873579433",
+    "region": "UB",
+    "publisherId": "UB0752"
+  },
+  {
     "titleId": "PPSA28872_00",
     "conceptId": 10010911,
     "name": "KARMA: The Dark World EP",
@@ -122502,6 +122606,38 @@
     "contentId": "UB0337-PPSA29230_00-0030927895956310",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA29232_00",
+    "conceptId": 10014650,
+    "name": "Star Archer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29233_00",
+    "conceptId": 10014650,
+    "name": "Star Archer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29234_00",
+    "conceptId": 10014650,
+    "name": "Star Archer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29235_00",
+    "conceptId": 10014650,
+    "name": "Star Archer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29242_00",
