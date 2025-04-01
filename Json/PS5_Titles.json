@@ -57096,6 +57096,14 @@
     "publisherId": "JP0031"
   },
   {
+    "titleId": "PPSA13283_00",
+    "conceptId": 10006184,
+    "name": "Zombie Army VR",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4529"
+  },
+  {
     "titleId": "PPSA13284_00",
     "conceptId": 10007142,
     "name": "\u8d85\u6b21\u5143\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30cc GameMaker R:Evolution \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
@@ -83392,6 +83400,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA19243_00",
+    "conceptId": 10009455,
+    "name": "Pinball Jam",
+    "contentId": "JP5432-PPSA19243_00-0898957659433766",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA19244_00",
     "conceptId": 10009456,
     "name": "The Oregon Trail",
@@ -103808,6 +103824,14 @@
     "publisherId": "JP0221"
   },
   {
+    "titleId": "PPSA23767_00",
+    "conceptId": 10011377,
+    "name": "Bionic Bay",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23768_00",
     "conceptId": 10011378,
     "name": "Cattie",
@@ -110312,6 +110336,14 @@
     "publisherId": "HP7930"
   },
   {
+    "titleId": "PPSA25143_00",
+    "conceptId": 10012063,
+    "name": "Silent Operative Demo",
+    "contentId": "UP7664-PPSA25143_00-0803714392710638",
+    "region": "UP",
+    "publisherId": "UP7664"
+  },
+  {
     "titleId": "PPSA25146_00",
     "conceptId": 10009838,
     "name": "Date Z Demo",
@@ -110603,9 +110635,17 @@
     "titleId": "PPSA25220_00",
     "conceptId": 10012079,
     "name": "Vagrus - The Riven Realms",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0313-PPSA25220_00-0246167815129548",
+    "region": "UB",
+    "publisherId": "UB0313"
+  },
+  {
+    "titleId": "PPSA25221_00",
+    "conceptId": 10012079,
+    "name": "Vagrus - The Riven Realms: Prologue",
+    "contentId": "UB0313-PPSA25221_00-0650407113944828",
+    "region": "UB",
+    "publisherId": "UB0313"
   },
   {
     "titleId": "PPSA25222_00",
@@ -120640,6 +120680,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA28075_00",
+    "conceptId": 10013910,
+    "name": "Yango Play",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28078_00",
     "conceptId": 10013913,
     "name": "Bubble Ghost Remake",
@@ -122443,9 +122491,9 @@
     "titleId": "PPSA29102_00",
     "conceptId": 10013870,
     "name": "Discolored 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6410-PPSA29102_00-0896471929400473",
+    "region": "UP",
+    "publisherId": "UP6410"
   },
   {
     "titleId": "PPSA29106_00",
