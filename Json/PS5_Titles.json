@@ -3386,8 +3386,8 @@
   {
     "titleId": "PPSA02166_00",
     "conceptId": 10001710,
-    "name": "BLEACH Rebirth of Souls PS4 & PS5",
-    "contentId": null,
+    "name": "BLEACH Rebirth of Souls",
+    "contentId": "JP0700-PPSA02166_00-BLEACHROFS000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -98816,6 +98816,14 @@
     "publisherId": "UP1470"
   },
   {
+    "titleId": "PPSA22570_00",
+    "conceptId": 10010794,
+    "name": "Steel Seed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22577_00",
     "conceptId": 10010795,
     "name": "Mindcop",
@@ -104875,9 +104883,9 @@
     "titleId": "PPSA23976_00",
     "conceptId": 10011480,
     "name": "Jelly Brawl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0985-PPSA23976_00-JELLYBRAWLZZZZZZ",
+    "region": "UB",
+    "publisherId": "UB0985"
   },
   {
     "titleId": "PPSA23977_00",
@@ -108443,9 +108451,9 @@
     "titleId": "PPSA24757_00",
     "conceptId": 10011889,
     "name": "Koira",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5898-PPSA24757_00-KOIRASIEE0000000",
+    "region": "UP",
+    "publisherId": "UP5898"
   },
   {
     "titleId": "PPSA24763_00",
@@ -111907,9 +111915,17 @@
     "titleId": "PPSA25515_00",
     "conceptId": 10012252,
     "name": "Sol Dorado Heist",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA25515_00-SYPS5SOLDORADOHE",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA25516_00",
+    "conceptId": 10012252,
+    "name": "Sol Dorado Heist",
+    "contentId": "JP1932-PPSA25516_00-SYPS5SOLDORADOHE",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA25518_00",
@@ -115955,17 +115971,17 @@
     "titleId": "PPSA26545_00",
     "conceptId": 10012923,
     "name": "My Name is Mayo: Remayo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0305-PPSA26545_00-0018614177030467",
+    "region": "EP",
+    "publisherId": "EP0305"
   },
   {
     "titleId": "PPSA26546_00",
     "conceptId": 10012923,
     "name": "My Name is Mayo: Remayo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0305-PPSA26546_00-0968954569028043",
+    "region": "EP",
+    "publisherId": "EP0305"
   },
   {
     "titleId": "PPSA26548_00",
@@ -116446,6 +116462,14 @@
     "contentId": "EP1063-PPSA26644_00-PB2DEMO000000001",
     "region": "EP",
     "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA26646_00",
+    "conceptId": 10002719,
+    "name": "The Texas Chain Saw Massacre",
+    "contentId": "JP6618-PPSA26646_00-0883127768713750",
+    "region": "JP",
+    "publisherId": "JP6618"
   },
   {
     "titleId": "PPSA26660_00",
@@ -119392,6 +119416,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA27603_00",
+    "conceptId": 10013373,
+    "name": "Chains of Freedom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27606_00",
     "conceptId": 10013531,
     "name": "Electro Ride: The Neon Racing",
@@ -119835,9 +119867,9 @@
     "titleId": "PPSA27747_00",
     "conceptId": 10013631,
     "name": "Zombie Derby: Pixel Survival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8446-PPSA27747_00-0282152216465683",
+    "region": "UP",
+    "publisherId": "UP8446"
   },
   {
     "titleId": "PPSA27749_00",
@@ -120318,6 +120350,38 @@
     "contentId": "EB0629-PPSA27919_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA27933_00",
+    "conceptId": 233473,
+    "name": "\u30d5\u30e9\u30f3 \uff5eDragons' Odyssey\uff5e",
+    "contentId": "JP0013-PPSA27933_00-JP0FRANEDO000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA27936_00",
+    "conceptId": 233237,
+    "name": "\u30bb\u30d5\u30a3\u30ed\u30c6\u30a3\u30c3\u30af\u30b9\u30c8\u30fc\u30ea\u30fc\u30ba",
+    "contentId": "JP0013-PPSA27936_00-JP0SEPHIRO000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA27939_00",
+    "conceptId": 233228,
+    "name": "\u30a2\u30b9\u30c7\u30a3\u30d0\u30a4\u30f3\u30c7\u30a3\u30aa\u30b9",
+    "contentId": "JP0013-PPSA27939_00-JP0ADIOS00000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA27942_00",
+    "conceptId": 234476,
+    "name": "\u30ec\u30d5\u30a1\u30eb\u30b7\u30a2\u306e\u5e7b\u5f71",
+    "contentId": "JP0013-PPSA27942_00-JP0LPHALCIA00PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA27945_00",
@@ -120944,6 +121008,22 @@
     "publisherId": "HP9000"
   },
   {
+    "titleId": "PPSA28196_00",
+    "conceptId": 10013994,
+    "name": "Robin Hood - Sherwood Builders",
+    "contentId": "UP1564-PPSA28196_00-CLABS0RH20250116",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
+    "titleId": "PPSA28197_00",
+    "conceptId": 10013994,
+    "name": "Robin Hood - Sherwood Builders",
+    "contentId": "EP1549-PPSA28197_00-CLABS1RH20250116",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
     "titleId": "PPSA28203_00",
     "conceptId": 10013941,
     "name": "Supermarket Manager Simulator",
@@ -121067,9 +121147,9 @@
     "titleId": "PPSA28261_00",
     "conceptId": 10014042,
     "name": "Dagger Froggy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA28261_00-DAGGERFROGGY0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28264_00",
@@ -122643,9 +122723,9 @@
     "titleId": "PPSA29229_00",
     "conceptId": 10014648,
     "name": "A Bibelot: Tiret sur Will",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA29229_00-0691611757697224",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA29230_00",
@@ -122779,25 +122859,25 @@
     "titleId": "PPSA29401_00",
     "conceptId": 10014648,
     "name": "A Bibelot: Tiret sur Will",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA29401_00-0433529684538865",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA29402_00",
     "conceptId": 10014648,
     "name": "A Bibelot: Tiret sur Will",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA29402_00-0863001723205756",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA29405_00",
     "conceptId": 10014648,
     "name": "A Bibelot: Tiret sur Will",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA29405_00-0238751222601309",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA29523_00",
