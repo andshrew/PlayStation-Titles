@@ -10658,8 +10658,8 @@
   {
     "titleId": "PPSA03639_00",
     "conceptId": 10001710,
-    "name": "BLEACH Rebirth of Souls PS4 & PS5",
-    "contentId": null,
+    "name": "BLEACH Rebirth of Souls",
+    "contentId": "UP0700-PPSA03639_00-BLEACHROFS000000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -76408,6 +76408,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA17641_00",
+    "conceptId": 10008876,
+    "name": "Deer Hunting Camp",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17642_00",
     "conceptId": 10007532,
     "name": "Revenge Of The Ronin",
@@ -83902,6 +83910,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA19324_00",
+    "conceptId": 10009485,
+    "name": "Caligo",
+    "contentId": "HP1792-PPSA19324_00-SYPS5CALIGO00000",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA19329_00",
@@ -98824,6 +98840,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA22573_00",
+    "conceptId": 10010794,
+    "name": "Steel Seed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22577_00",
     "conceptId": 10010795,
     "name": "Mindcop",
@@ -104899,9 +104923,9 @@
     "titleId": "PPSA23978_00",
     "conceptId": 10011484,
     "name": "Blankspace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7099-PPSA23978_00-PPGVNXBLANKSPACE",
+    "region": "EP",
+    "publisherId": "EP7099"
   },
   {
     "titleId": "PPSA23979_00",
@@ -109939,9 +109963,9 @@
     "titleId": "PPSA25070_00",
     "conceptId": 10011925,
     "name": "Croc Legend of the Gobbos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1036-PPSA25070_00-0690402907917905",
+    "region": "UB",
+    "publisherId": "UB1036"
   },
   {
     "titleId": "PPSA25073_00",
@@ -111432,6 +111456,14 @@
     "publisherId": "EP0546"
   },
   {
+    "titleId": "PPSA25391_00",
+    "conceptId": 10010670,
+    "name": "\u30b9\u30ab\u30e9\u30fc\u30ba\u30fb\u30e1\u30a4\u30c8",
+    "contentId": "JP1134-PPSA25391_00-0543552404381849",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
     "titleId": "PPSA25393_00",
     "conceptId": 10012176,
     "name": "Heart of a Knight",
@@ -111872,6 +111904,30 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25497_00",
+    "conceptId": 10012247,
+    "name": "Football Striker 2025 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25498_00",
+    "conceptId": 10012247,
+    "name": "Football Striker 2025 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25499_00",
+    "conceptId": 10012247,
+    "name": "Football Striker 2025 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25505_00",
     "conceptId": 10012248,
     "name": "Bust A Block 2",
@@ -111907,9 +111963,9 @@
     "titleId": "PPSA25514_00",
     "conceptId": 10012252,
     "name": "Sol Dorado Heist",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA25514_00-SYPS5SOLDORADOHE",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA25515_00",
@@ -111926,6 +111982,14 @@
     "contentId": "JP1932-PPSA25516_00-SYPS5SOLDORADOHE",
     "region": "JP",
     "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA25517_00",
+    "conceptId": 10012252,
+    "name": "Sol Dorado Heist",
+    "contentId": "HP1792-PPSA25517_00-SYPS5SOLDORADOHE",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA25518_00",
@@ -118920,6 +118984,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA27386_00",
+    "conceptId": 10013402,
+    "name": "Robot War Mars Invasion",
+    "contentId": "UP7668-PPSA27386_00-0344026864000077",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27416_00",
     "conceptId": 10013407,
     "name": "Memory Holder: Animal Kingdom",
@@ -121355,9 +121427,9 @@
     "titleId": "PPSA28306_00",
     "conceptId": 10010937,
     "name": "One Step After Fall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA28306_00-ONESTEPAFQBPS5EU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA28315_00",
@@ -121571,9 +121643,9 @@
     "titleId": "PPSA28396_00",
     "conceptId": 10014136,
     "name": "Fight Club World - Fighting Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8600-PPSA28396_00-0282361649534967",
+    "region": "UP",
+    "publisherId": "UP8600"
   },
   {
     "titleId": "PPSA28402_00",
@@ -121944,6 +122016,38 @@
     "publisherId": "HP1546"
   },
   {
+    "titleId": "PPSA28557_00",
+    "conceptId": 10014239,
+    "name": "Sweet Home 2: Look and Find - Collector's Edition",
+    "contentId": "EP1411-PPSA28557_00-0908826329365048",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28558_00",
+    "conceptId": 10014239,
+    "name": "Sweet Home 2: Look and Find - Collector's Edition",
+    "contentId": "EP1411-PPSA28558_00-0791268630406011",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28559_00",
+    "conceptId": 10014239,
+    "name": "Sweet Home 2: Look and Find - Collector's Edition",
+    "contentId": "EP1411-PPSA28559_00-0432176769569966",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28560_00",
+    "conceptId": 10014239,
+    "name": "Sweet Home 2: Look and Find - Collector's Edition",
+    "contentId": "EP1411-PPSA28560_00-0713094149265433",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA28561_00",
     "conceptId": 10014240,
     "name": "Just Find It 4 - Collector's Edition",
@@ -121972,6 +122076,38 @@
     "conceptId": 10014240,
     "name": "Just Find It 4 - Collector's Edition",
     "contentId": "EP1411-PPSA28564_00-0695077921765747",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28565_00",
+    "conceptId": 10014241,
+    "name": "Big Adventure: Trip to Europe 8 - Collector's Edition",
+    "contentId": "EP1411-PPSA28565_00-0585350453289859",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28566_00",
+    "conceptId": 10014241,
+    "name": "Big Adventure: Trip to Europe 8 - Collector's Edition",
+    "contentId": "EP1411-PPSA28566_00-0780185950075959",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28567_00",
+    "conceptId": 10014241,
+    "name": "Big Adventure: Trip to Europe 8 - Collector's Edition",
+    "contentId": "EP1411-PPSA28567_00-0595653276241548",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA28568_00",
+    "conceptId": 10014241,
+    "name": "Big Adventure: Trip to Europe 8 - Collector's Edition",
+    "contentId": "EP1411-PPSA28568_00-0117584788468536",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -122659,9 +122795,9 @@
     "titleId": "PPSA29145_00",
     "conceptId": 10014605,
     "name": "Bee Flowers: Royal Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA29145_00-0557883162806136",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA29146_00",
@@ -122739,33 +122875,33 @@
     "titleId": "PPSA29232_00",
     "conceptId": 10014650,
     "name": "Star Archer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA29232_00-0254830278368322",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA29233_00",
     "conceptId": 10014650,
     "name": "Star Archer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA29233_00-0222689751440148",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA29234_00",
     "conceptId": 10014650,
     "name": "Star Archer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA29234_00-0327650084206383",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA29235_00",
     "conceptId": 10014650,
     "name": "Star Archer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA29235_00-0391486741650180",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA29242_00",
