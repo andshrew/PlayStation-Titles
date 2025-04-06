@@ -66906,10 +66906,10 @@
   {
     "titleId": "PPSA15664_00",
     "conceptId": 10008095,
-    "name": "Wanderer: The Fragments of Fate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wanderer",
+    "contentId": "UP5795-PPSA15664_00-0274525684829714",
+    "region": "UP",
+    "publisherId": "UP5795"
   },
   {
     "titleId": "PPSA15665_00",
@@ -66922,10 +66922,10 @@
   {
     "titleId": "PPSA15666_00",
     "conceptId": 10008095,
-    "name": "Wanderer: The Fragments of Fate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wanderer",
+    "contentId": "JP5631-PPSA15666_00-0723324052843539",
+    "region": "JP",
+    "publisherId": "JP5631"
   },
   {
     "titleId": "PPSA15667_00",
@@ -76443,9 +76443,9 @@
     "titleId": "PPSA17641_00",
     "conceptId": 10008876,
     "name": "Deer Hunting Camp",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8906-PPSA17641_00-DEERHUNTINGCAMP1",
+    "region": "EP",
+    "publisherId": "EP8906"
   },
   {
     "titleId": "PPSA17642_00",
@@ -118872,6 +118872,38 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27307_00",
+    "conceptId": 10013353,
+    "name": "Happy Hoop Endless Journey",
+    "contentId": "UP7668-PPSA27307_00-0955263629100836",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27308_00",
+    "conceptId": 10013353,
+    "name": "Happy Hoop Endless Journey",
+    "contentId": "UP7668-PPSA27308_00-0811294269587195",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27309_00",
+    "conceptId": 10013353,
+    "name": "Happy Hoop Endless Journey",
+    "contentId": "UP7668-PPSA27309_00-0379205119660028",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27310_00",
+    "conceptId": 10013353,
+    "name": "Happy Hoop Endless Journey",
+    "contentId": "UP7668-PPSA27310_00-0362449620613121",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27316_00",
     "conceptId": 10013355,
     "name": "Sokorobot",
@@ -120664,6 +120696,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27957_00",
+    "conceptId": 10013811,
+    "name": "Golf Up Tropical",
+    "contentId": "JP5432-PPSA27957_00-0155069538126008",
+    "region": "JP",
+    "publisherId": "JP5432"
+  },
+  {
     "titleId": "PPSA27966_00",
     "conceptId": 10012670,
     "name": "Dead Land 2",
@@ -122144,6 +122184,14 @@
     "publisherId": "JP7094"
   },
   {
+    "titleId": "PPSA28534_00",
+    "conceptId": 10014223,
+    "name": "Sprint for Survival",
+    "contentId": "UB0008-PPSA28534_00-0704714421624884",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA28540_00",
     "conceptId": 10014227,
     "name": "Sand Legends",
@@ -122928,6 +122976,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29063_00",
+    "conceptId": 10004736,
+    "name": "Mandragora: Whispers of the Witch Tree Demo",
+    "contentId": "EP1045-PPSA29063_00-MANDRAGORA000000",
+    "region": "EP",
+    "publisherId": "EP1045"
+  },
+  {
     "titleId": "PPSA29078_00",
     "conceptId": 10014559,
     "name": "Pig Escape",
@@ -123275,9 +123331,9 @@
     "titleId": "PPSA29412_00",
     "conceptId": 10014749,
     "name": "Therapist Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0111-PPSA29412_00-0291541096823522",
+    "region": "UB",
+    "publisherId": "UB0111"
   },
   {
     "titleId": "PPSA29514_00",
