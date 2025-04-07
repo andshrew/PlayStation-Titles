@@ -66914,10 +66914,10 @@
   {
     "titleId": "PPSA15665_00",
     "conceptId": 10008095,
-    "name": "Wanderer: The Fragments of Fate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wanderer",
+    "contentId": "EP5977-PPSA15665_00-0577943607198218",
+    "region": "EP",
+    "publisherId": "EP5977"
   },
   {
     "titleId": "PPSA15666_00",
@@ -66930,10 +66930,10 @@
   {
     "titleId": "PPSA15667_00",
     "conceptId": 10008095,
-    "name": "Wanderer: The Fragments of Fate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wanderer",
+    "contentId": "HP5695-PPSA15667_00-0417335941737783",
+    "region": "HP",
+    "publisherId": "HP5695"
   },
   {
     "titleId": "PPSA15671_00",
@@ -84688,6 +84688,14 @@
     "publisherId": "EP1024"
   },
   {
+    "titleId": "PPSA19458_00",
+    "conceptId": 10009547,
+    "name": "Squarena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19461_00",
     "conceptId": 10008251,
     "name": "SHINOBI: Art of Vengeance PS4 & PS5",
@@ -95619,17 +95627,17 @@
     "titleId": "PPSA21846_00",
     "conceptId": 10010522,
     "name": "Hole Theory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA21846_00-0263266889698926",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA21847_00",
     "conceptId": 10010522,
     "name": "Hole Theory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA21847_00-0687251403067339",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA21848_00",
@@ -119776,6 +119784,22 @@
     "publisherId": "UP2470"
   },
   {
+    "titleId": "PPSA27617_00",
+    "conceptId": 10013507,
+    "name": "Valentine Revolution",
+    "contentId": "EP4312-PPSA27617_00-0483268791405404",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA27618_00",
+    "conceptId": 10013507,
+    "name": "Valentine Revolution",
+    "contentId": "UP4312-PPSA27618_00-0544555399638904",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA27621_00",
     "conceptId": 10012571,
     "name": "Just Crow Things",
@@ -121064,6 +121088,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA28097_00",
+    "conceptId": 10013934,
+    "name": "Thrill Penguin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28105_00",
     "conceptId": 10013940,
     "name": "JumpJump!",
@@ -121539,9 +121571,9 @@
     "titleId": "PPSA28276_00",
     "conceptId": 10014050,
     "name": "Detective - The Test",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA28276_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA28277_00",
@@ -121710,6 +121742,14 @@
     "contentId": "EP2402-PPSA28328_00-FANTASYDEMOPS5US",
     "region": "EP",
     "publisherId": "EP2402"
+  },
+  {
+    "titleId": "PPSA28332_00",
+    "conceptId": 10012587,
+    "name": "Doctor Simulator",
+    "contentId": "UB1026-PPSA28332_00-0896054080850174",
+    "region": "UB",
+    "publisherId": "UB1026"
   },
   {
     "titleId": "PPSA28334_00",
