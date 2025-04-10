@@ -63867,9 +63867,9 @@
     "titleId": "PPSA14708_00",
     "conceptId": 10007746,
     "name": "Commandos: Origins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4365-PPSA14708_00-COMMANDOSORIGINS",
+    "region": "EP",
+    "publisherId": "EP4365"
   },
   {
     "titleId": "PPSA14709_00",
@@ -64998,6 +64998,14 @@
     "contentId": "UP3643-PPSA15319_00-PLUCKYSQUIRE0000",
     "region": "UP",
     "publisherId": "UP3643"
+  },
+  {
+    "titleId": "PPSA15326_00",
+    "conceptId": 10007957,
+    "name": "Oddsparks: An Automation Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA15328_00",
@@ -78970,10 +78978,10 @@
   {
     "titleId": "PPSA18205_00",
     "conceptId": 10008656,
-    "name": "HordeCore(ConsoleVersion)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "HordeCore",
+    "contentId": "EP8280-PPSA18205_00-0715082695357806",
+    "region": "EP",
+    "publisherId": "EP8280"
   },
   {
     "titleId": "PPSA18207_00",
@@ -94272,6 +94280,14 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA21573_00",
+    "conceptId": 10004979,
+    "name": "Two Falls - Nishu Takuatshina",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21574_00",
     "conceptId": 10004947,
     "name": "New World: Aeternum - Open Beta",
@@ -101738,10 +101754,10 @@
   {
     "titleId": "PPSA23281_00",
     "conceptId": 10009170,
-    "name": "IXION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ixion",
+    "contentId": "UP8597-PPSA23281_00-XXXXX0IXION0XXXX",
+    "region": "UP",
+    "publisherId": "UP8597"
   },
   {
     "titleId": "PPSA23287_00",
@@ -112979,17 +112995,33 @@
     "titleId": "PPSA25707_00",
     "conceptId": 10012373,
     "name": "Detective From The Crypt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA25707_00-SYPS5DETECTIVEFR",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA25708_00",
     "conceptId": 10012373,
     "name": "Detective From The Crypt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA25708_00-SYPS5DETECTIVEFR",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA25709_00",
+    "conceptId": 10012373,
+    "name": "Detective From The Crypt",
+    "contentId": "JP1932-PPSA25709_00-SYPS5DETECTIVEFR",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA25710_00",
+    "conceptId": 10012373,
+    "name": "Detective From The Crypt",
+    "contentId": "HP1792-PPSA25710_00-SYPS5DETECTIVEFR",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA25711_00",
@@ -117992,6 +118024,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA27071_00",
+    "conceptId": 10011149,
+    "name": "\u30e1\u30e2\u30ea\u30fc\u30ba\u30aa\u30d5 \u53cc\u60f3 \uff5eNot allways true\uff5e",
+    "contentId": "UP0745-PPSA27071_00-NOTALWAYSTRUE0M9",
+    "region": "UP",
+    "publisherId": "UP0745"
+  },
+  {
     "titleId": "PPSA27073_00",
     "conceptId": 10013211,
     "name": "O.W.L Projekt 2",
@@ -119738,10 +119778,10 @@
   {
     "titleId": "PPSA27601_00",
     "conceptId": 10001555,
-    "name": "Persona 3 Reload",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30da\u30eb\u30bd\u30ca\uff13 \u30ea\u30ed\u30fc\u30c9 DEMO",
+    "contentId": "JP0005-PPSA27601_00-APPLICATION00000",
+    "region": "JP",
+    "publisherId": "JP0005"
   },
   {
     "titleId": "PPSA27602_00",
@@ -120210,10 +120250,10 @@
   {
     "titleId": "PPSA27746_00",
     "conceptId": 10012613,
-    "name": "Little Droid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ea\u30c8\u30eb\u30fb\u30c9\u30ed\u30a4\u30c9",
+    "contentId": "JB0752-PPSA27746_00-LITTLEDROIDPS5JP",
+    "region": "JB",
+    "publisherId": "JB0752"
   },
   {
     "titleId": "PPSA27747_00",
@@ -120459,9 +120499,9 @@
     "titleId": "PPSA27802_00",
     "conceptId": 10013683,
     "name": "All in Abyss: Judge the Fake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0527-PPSA27802_00-0195984815003561",
+    "region": "UB",
+    "publisherId": "UB0527"
   },
   {
     "titleId": "PPSA27805_00",
@@ -120550,6 +120590,14 @@
     "contentId": "EP0177-PPSA27821_00-APPLICATION00000",
     "region": "EP",
     "publisherId": "EP0177"
+  },
+  {
+    "titleId": "PPSA27822_00",
+    "conceptId": 10001555,
+    "name": "Persona 3 Reload Demo",
+    "contentId": "UP0177-PPSA27822_00-APPLICATION00000",
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA27823_00",
@@ -122010,10 +122058,10 @@
   {
     "titleId": "PPSA28401_00",
     "conceptId": 10008291,
-    "name": "Metal Eden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Metal Eden Demo",
+    "contentId": "EP4062-PPSA28401_00-METALDEMOPS5SIEE",
+    "region": "EP",
+    "publisherId": "EP4062"
   },
   {
     "titleId": "PPSA28402_00",
@@ -122030,6 +122078,14 @@
     "contentId": "EP7333-PPSA28403_00-0005032749869112",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA28422_00",
+    "conceptId": 10014151,
+    "name": "Polterguys: Possession Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28424_00",
@@ -122626,10 +122682,10 @@
   {
     "titleId": "PPSA28597_00",
     "conceptId": 10013683,
-    "name": "All in Abyss: Judge the Fake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30aa\u30fc\u30eb\u30a4\u30f3\u30a2\u30d3\u30b9 \u30a4\u30ab\u30b5\u30de\u30b5\u30d0\u30ad OFFICIAL DESIGN WORKS AND MUSIC PLAYER",
+    "contentId": "UB0527-PPSA28597_00-0420794482041489",
+    "region": "UB",
+    "publisherId": "UB0527"
   },
   {
     "titleId": "PPSA28612_00",
@@ -122838,6 +122894,38 @@
     "contentId": "UP4312-PPSA28875_00-0481279427741833",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA28887_00",
+    "conceptId": 10014437,
+    "name": "Hole Digging Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28888_00",
+    "conceptId": 10014437,
+    "name": "Hole Digging Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28889_00",
+    "conceptId": 10014437,
+    "name": "Hole Digging Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28890_00",
+    "conceptId": 10014437,
+    "name": "Hole Digging Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28908_00",
@@ -123051,33 +123139,33 @@
     "titleId": "PPSA28960_00",
     "conceptId": 10014477,
     "name": "Ellphaser",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA28960_00-0227010939021132",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA28961_00",
     "conceptId": 10014477,
     "name": "Ellphaser",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA28961_00-0071534467359061",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA28962_00",
     "conceptId": 10014477,
     "name": "Ellphaser",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA28962_00-0187696496484571",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA28963_00",
     "conceptId": 10014477,
     "name": "Ellphaser",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA28963_00-0717199930283532",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA28976_00",
@@ -123384,6 +123472,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA29238_00",
+    "conceptId": 10014652,
+    "name": "Anime Waifu Simulator: Sakura Garden",
+    "contentId": "UB0768-PPSA29238_00-0873794778828767",
+    "region": "UB",
+    "publisherId": "UB0768"
+  },
+  {
     "titleId": "PPSA29242_00",
     "conceptId": 10014129,
     "name": "Power Pointer",
@@ -123518,6 +123614,54 @@
     "contentId": "EP5645-PPSA29274_00-0494125209826301",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29312_00",
+    "conceptId": 10006003,
+    "name": "WIPER",
+    "contentId": "EP5645-PPSA29312_00-0034525632896296",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29313_00",
+    "conceptId": 10006003,
+    "name": "WIPER",
+    "contentId": "EP5645-PPSA29313_00-0968673845459230",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29314_00",
+    "conceptId": 10006003,
+    "name": "WIPER",
+    "contentId": "EP5645-PPSA29314_00-0542959498733280",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29315_00",
+    "conceptId": 10006003,
+    "name": "WIPER",
+    "contentId": "EP5645-PPSA29315_00-0616142468878228",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29335_00",
+    "conceptId": 10014715,
+    "name": "Sport Soup",
+    "contentId": "JP7094-PPSA29335_00-0266225838436114",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA29338_00",
+    "conceptId": 10014715,
+    "name": "Sport Soup",
+    "contentId": "EP7123-PPSA29338_00-0474993657220217",
+    "region": "EP",
+    "publisherId": "EP7123"
   },
   {
     "titleId": "PPSA29395_00",
