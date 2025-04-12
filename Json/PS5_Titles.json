@@ -59227,9 +59227,9 @@
     "titleId": "PPSA13712_00",
     "conceptId": 10007310,
     "name": "Pocket Bravery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4293-PPSA13712_00-POCKBASESIEEPS50",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA13713_00",
@@ -63875,9 +63875,9 @@
     "titleId": "PPSA14709_00",
     "conceptId": 10007746,
     "name": "Commandos: Origins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2060-PPSA14709_00-COMMANDOSORIGINS",
+    "region": "UP",
+    "publisherId": "UP2060"
   },
   {
     "titleId": "PPSA14711_00",
@@ -75034,10 +75034,10 @@
   {
     "titleId": "PPSA17287_00",
     "conceptId": 10008656,
-    "name": "HordeCore(ConsoleVersion)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "HordeCore",
+    "contentId": "UP8090-PPSA17287_00-0494061059281825",
+    "region": "UP",
+    "publisherId": "UP8090"
   },
   {
     "titleId": "PPSA17290_00",
@@ -80566,6 +80566,14 @@
     "contentId": "UP7452-PPSA18589_00-0346619902770953",
     "region": "UP",
     "publisherId": "UP7452"
+  },
+  {
+    "titleId": "PPSA18591_00",
+    "conceptId": 10009140,
+    "name": "Syder Reloaded",
+    "contentId": "UP5507-PPSA18591_00-0294941250517524",
+    "region": "UP",
+    "publisherId": "UP5507"
   },
   {
     "titleId": "PPSA18592_00",
@@ -94288,6 +94296,14 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA21572_00",
+    "conceptId": 10004979,
+    "name": "Two Falls - Nishu Takuatshina",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21573_00",
     "conceptId": 10004979,
     "name": "Two Falls - Nishu Takuatshina",
@@ -95491,9 +95507,9 @@
     "titleId": "PPSA21803_00",
     "conceptId": 10008195,
     "name": "Promise Mascot Agency",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6440-PPSA21803_00-0695475195435434",
+    "region": "UP",
+    "publisherId": "UP6440"
   },
   {
     "titleId": "PPSA21806_00",
@@ -105411,9 +105427,9 @@
     "titleId": "PPSA24050_00",
     "conceptId": 10011525,
     "name": "Beyond Memories - Tale of The Lost Souls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6557-PPSA24050_00-0624225561374012",
+    "region": "UP",
+    "publisherId": "UP6557"
   },
   {
     "titleId": "PPSA24057_00",
@@ -106147,9 +106163,17 @@
     "titleId": "PPSA24199_00",
     "conceptId": 10011600,
     "name": "Mortisomem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA24199_00-SYPS5MORTISOMEM0",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA24200_00",
+    "conceptId": 10011600,
+    "name": "Mortisomem",
+    "contentId": "JP1932-PPSA24200_00-SYPS5MORTISOMEM0",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA24201_00",
@@ -107018,18 +107042,18 @@
   {
     "titleId": "PPSA24371_00",
     "conceptId": 10011687,
-    "name": "Capy\u2019s Quest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Capy's Quest",
+    "contentId": "UP7862-PPSA24371_00-0409007446605444",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA24372_00",
     "conceptId": 10011687,
-    "name": "Capy\u2019s Quest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Capy's Quest",
+    "contentId": "HP7889-PPSA24372_00-0755268638151137",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA24373_00",
@@ -107598,6 +107622,14 @@
     "contentId": "JP0177-PPSA24478_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0177"
+  },
+  {
+    "titleId": "PPSA24479_00",
+    "conceptId": 10011725,
+    "name": "Song Of The Prairie",
+    "contentId": "EP7305-PPSA24479_00-0436818627066310",
+    "region": "EP",
+    "publisherId": "EP7305"
   },
   {
     "titleId": "PPSA24485_00",
@@ -109451,7 +109483,7 @@
     "titleId": "PPSA24910_00",
     "conceptId": 10011952,
     "name": "Cabernet",
-    "contentId": null,
+    "contentId": "HP3332-PPSA24910_00-0564716849855247",
     "region": "HP",
     "publisherId": "HP3332"
   },
@@ -109963,9 +109995,9 @@
     "titleId": "PPSA25009_00",
     "conceptId": 10012002,
     "name": "Blue Prince",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2187-PPSA25009_00-BLUEPRINCE000000",
+    "region": "EP",
+    "publisherId": "EP2187"
   },
   {
     "titleId": "PPSA25010_00",
@@ -110014,6 +110046,14 @@
     "contentId": "UB0429-PPSA25018_00-UNSOLVEDCASEKP04",
     "region": "UB",
     "publisherId": "UB0429"
+  },
+  {
+    "titleId": "PPSA25019_00",
+    "conceptId": 10012010,
+    "name": "Royal Romances Series",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25020_00",
@@ -112619,7 +112659,7 @@
     "titleId": "PPSA25614_00",
     "conceptId": 10012300,
     "name": "Big Buck Hunter: Ultimate Trophy",
-    "contentId": null,
+    "contentId": "UP0283-PPSA25614_00-0101119087636242",
     "region": "UP",
     "publisherId": "UP0283"
   },
@@ -117083,9 +117123,9 @@
     "titleId": "PPSA26768_00",
     "conceptId": 10013027,
     "name": "Leo & Mia: Animal Rescue",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4735-PPSA26768_00-LEOANDMIA0000000",
+    "region": "UP",
+    "publisherId": "UP4735"
   },
   {
     "titleId": "PPSA26781_00",
@@ -120328,6 +120368,14 @@
     "publisherId": "EP6470"
   },
   {
+    "titleId": "PPSA27760_00",
+    "conceptId": 10013646,
+    "name": "Gore Doctor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27761_00",
     "conceptId": 10004572,
     "name": "\u30cf\u30e0\u30b9\u30bf\u30fc\u30d7\u30ec\u30a4\u30b0\u30e9\u30a6\u30f3\u30c9",
@@ -121456,12 +121504,20 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA28162_00",
+    "conceptId": 10013978,
+    "name": "Secret",
+    "contentId": "UP7335-PPSA28162_00-0306212336897716",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA28163_00",
     "conceptId": 10013978,
     "name": "Secret",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA28163_00-0495393735358154",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA28170_00",
@@ -122448,6 +122504,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA28537_00",
+    "conceptId": 10014225,
+    "name": "Gunship: Zombie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28540_00",
     "conceptId": 10014227,
     "name": "Sand Legends",
@@ -122731,17 +122795,17 @@
     "titleId": "PPSA28595_00",
     "conceptId": 10013894,
     "name": "The Black Within",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA28595_00-0561677628536155",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA28596_00",
     "conceptId": 10013894,
     "name": "The Black Within",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA28596_00-0560140869653725",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA28597_00",
@@ -122928,6 +122992,38 @@
     "publisherId": "EP0917"
   },
   {
+    "titleId": "PPSA28842_00",
+    "conceptId": 10014407,
+    "name": "Lorn's Lure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28843_00",
+    "conceptId": 10014407,
+    "name": "Lorn's Lure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28844_00",
+    "conceptId": 10014407,
+    "name": "Lorn's Lure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28845_00",
+    "conceptId": 10014407,
+    "name": "Lorn's Lure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28846_00",
     "conceptId": 10014409,
     "name": "Pixicharm - Mariana Gold",
@@ -122971,9 +123067,9 @@
     "titleId": "PPSA28887_00",
     "conceptId": 10014437,
     "name": "Hole Digging Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28887_00-0903076025987888",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28888_00",
@@ -122995,9 +123091,9 @@
     "titleId": "PPSA28890_00",
     "conceptId": 10014437,
     "name": "Hole Digging Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28890_00-0473107129073931",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28908_00",
@@ -123038,6 +123134,14 @@
     "contentId": "JP7323-PPSA28913_00-0994237815732360",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA28917_00",
+    "conceptId": 10014441,
+    "name": "Garten of Banban 0",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28918_00",
@@ -123238,6 +123342,22 @@
     "contentId": "HP8462-PPSA28963_00-0717199930283532",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA28964_00",
+    "conceptId": 10014441,
+    "name": "Garten of Banban 0",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28965_00",
+    "conceptId": 10014441,
+    "name": "Garten of Banban 0",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28976_00",
@@ -123502,6 +123622,14 @@
     "contentId": "EP5645-PPSA29212_00-0785729915187247",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29226_00",
+    "conceptId": 10010139,
+    "name": "Hand in Hand",
+    "contentId": "UB0760-PPSA29226_00-0751915779183005",
+    "region": "UB",
+    "publisherId": "UB0760"
   },
   {
     "titleId": "PPSA29229_00",
@@ -123771,6 +123899,14 @@
     "titleId": "PPSA29358_00",
     "conceptId": 10014723,
     "name": "Chopper Strike",
+    "contentId": "UB0337-PPSA29358_00-0255309356446386",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA29394_00",
+    "conceptId": 10011142,
+    "name": "Where Winds Meet",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -123878,5 +124014,21 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29690_00",
+    "conceptId": 10014811,
+    "name": "The Last of Us\u2122 Complete",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29718_00",
+    "conceptId": 10014906,
+    "name": "World Cup Soccer 2026",
+    "contentId": "UP7552-PPSA29718_00-0215238827958716",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
