@@ -65544,6 +65544,14 @@
     "publisherId": "EP3323"
   },
   {
+    "titleId": "PPSA15428_00",
+    "conceptId": 10007987,
+    "name": "despelote",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15430_00",
     "conceptId": 10007898,
     "name": "Mad Devils",
@@ -77699,7 +77707,7 @@
     "titleId": "PPSA17924_00",
     "conceptId": 10008988,
     "name": "Rusty Rabbit",
-    "contentId": null,
+    "contentId": "UP7564-PPSA17924_00-RUSTYRABBIT10001",
     "region": "UP",
     "publisherId": "UP7564"
   },
@@ -84139,9 +84147,9 @@
     "titleId": "PPSA19347_00",
     "conceptId": 10009495,
     "name": "Lushfoil Photography Sim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2470-PPSA19347_00-LUSHFOILSIEA0000",
+    "region": "UP",
+    "publisherId": "UP2470"
   },
   {
     "titleId": "PPSA19351_00",
@@ -104035,9 +104043,9 @@
     "titleId": "PPSA23767_00",
     "conceptId": 10011377,
     "name": "Bionic Bay",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7579-PPSA23767_00-BBAY000000000PS5",
+    "region": "EP",
+    "publisherId": "EP7579"
   },
   {
     "titleId": "PPSA23768_00",
@@ -108451,9 +108459,9 @@
     "titleId": "PPSA24646_00",
     "conceptId": 10011699,
     "name": "Chessarama",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8686-PPSA24646_00-0597483719868084",
+    "region": "UP",
+    "publisherId": "UP8686"
   },
   {
     "titleId": "PPSA24651_00",
@@ -109446,6 +109454,22 @@
     "contentId": "UP4082-PPSA24888_00-0751630955531870",
     "region": "UP",
     "publisherId": "UP4082"
+  },
+  {
+    "titleId": "PPSA24890_00",
+    "conceptId": 10007142,
+    "name": "\ucd08\ucc28\uc6d0\uac8c\uc784 \ub135\ud2a0 GameMaker R:Evolution \ub514\uc9c0\ud138 \uc544\ud2b8\ubd81",
+    "contentId": "HP8414-PPSA24890_00-0500282165379808",
+    "region": "HP",
+    "publisherId": "HP8414"
+  },
+  {
+    "titleId": "PPSA24891_00",
+    "conceptId": 10007142,
+    "name": "\ucd08\ucc28\uc6d0\uac8c\uc784 \ub135\ud2a0 GameMaker R:Evolution \ub514\uc9c0\ud138 \uc0ac\uc6b4\ub4dc \ud2b8\ub799",
+    "contentId": "HP8414-PPSA24891_00-0631877860587100",
+    "region": "HP",
+    "publisherId": "HP8414"
   },
   {
     "titleId": "PPSA24893_00",
@@ -110944,6 +110968,14 @@
     "publisherId": "EP6285"
   },
   {
+    "titleId": "PPSA25214_00",
+    "conceptId": 10012097,
+    "name": "Scar-Lead Salvation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25215_00",
     "conceptId": 10012082,
     "name": "Raiden NOVA",
@@ -111906,10 +111938,10 @@
   {
     "titleId": "PPSA25423_00",
     "conceptId": 10012198,
-    "name": "I, Robot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "I-Robot",
+    "contentId": "UP0182-PPSA25423_00-IROBOTPS5GLOBAL1",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA25424_00",
@@ -115784,6 +115816,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26380_00",
+    "conceptId": 10004547,
+    "name": "Spidersaurs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26381_00",
     "conceptId": 10012796,
     "name": "Mycelium Heaven",
@@ -117274,18 +117314,18 @@
   {
     "titleId": "PPSA26786_00",
     "conceptId": 10012238,
-    "name": "Indiana Jones and the Great Circle",
-    "contentId": null,
+    "name": "Indiana Jones and The Great Circle",
+    "contentId": "UP1003-PPSA26786_00-INDIANAJONESATGC",
     "region": "UP",
     "publisherId": "UP1003"
   },
   {
     "titleId": "PPSA26788_00",
     "conceptId": 10012238,
-    "name": "Indiana Jones and the Great Circle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "INDIANA JONES AND THE GREAT CIRCLE\u2122 ARTBOOK",
+    "contentId": "UP1003-PPSA26788_00-INDIANAJONESARTB",
+    "region": "UP",
+    "publisherId": "UP1003"
   },
   {
     "titleId": "PPSA26789_00",
@@ -119507,22 +119547,38 @@
     "titleId": "PPSA27396_00",
     "conceptId": 10013404,
     "name": "The Jumping Orange",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA27396_00-0102678515992241",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA27397_00",
     "conceptId": 10013404,
     "name": "The Jumping Orange",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA27397_00-0452985569191745",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA27398_00",
     "conceptId": 10013404,
     "name": "The Jumping Orange",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27408_00",
+    "conceptId": 10013406,
+    "name": "The Jumping Cheese Maze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27409_00",
+    "conceptId": 10013406,
+    "name": "The Jumping Cheese Maze",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -120928,6 +120984,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27845_00",
+    "conceptId": 10005323,
+    "name": "Star Wars Outlaws Demo",
+    "contentId": "UP0001-PPSA27845_00-OUTLAWDEMO100000",
+    "region": "UP",
+    "publisherId": "UP0001"
+  },
+  {
+    "titleId": "PPSA27846_00",
+    "conceptId": 10005323,
+    "name": "\u300e\u30b9\u30bf\u30fc\u30fb\u30a6\u30a9\u30fc\u30ba \u7121\u6cd5\u8005\u305f\u3061\u300f\u4f53\u9a13\u7248",
+    "contentId": "JP0001-PPSA27846_00-OUTLAWDEMO100000",
+    "region": "JP",
+    "publisherId": "JP0001"
+  },
+  {
     "titleId": "PPSA27871_00",
     "conceptId": 10012463,
     "name": "EA SPORTS\u2122 College Football 26",
@@ -120950,6 +121022,14 @@
     "contentId": "JP0106-PPSA27882_00-WP102025DEMO0000",
     "region": "JP",
     "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA27888_00",
+    "conceptId": 10013731,
+    "name": "Maths Pals",
+    "contentId": "EP6556-PPSA27888_00-0276324725927074",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA27898_00",
@@ -121096,6 +121176,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA27934_00",
+    "conceptId": 233473,
+    "name": "Frane: Dragons' Odyssey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27936_00",
     "conceptId": 233237,
     "name": "\u30bb\u30d5\u30a3\u30ed\u30c6\u30a3\u30c3\u30af\u30b9\u30c8\u30fc\u30ea\u30fc\u30ba",
@@ -121115,9 +121203,9 @@
     "titleId": "PPSA27938_00",
     "conceptId": 233237,
     "name": "Sephirothic Stories",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA27938_00-EU0SEPHIRO000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA27939_00",
@@ -121139,9 +121227,9 @@
     "titleId": "PPSA27943_00",
     "conceptId": 234476,
     "name": "Illusion of L'Phalcia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2500-PPSA27943_00-US0LPHALCIA00PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA27944_00",
@@ -121563,9 +121651,9 @@
     "titleId": "PPSA28097_00",
     "conceptId": 10013934,
     "name": "Thrill Penguin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28097_00-THRILLPENGUINRAG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28105_00",
@@ -121950,6 +122038,14 @@
     "contentId": "HP8504-PPSA28228_00-0724329533380782",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA28231_00",
+    "conceptId": 10014018,
+    "name": "Gnomes and Knights",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28234_00",
@@ -122490,18 +122586,18 @@
   {
     "titleId": "PPSA28422_00",
     "conceptId": 10014151,
-    "name": "Polterguys: Possession Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Polterguys",
+    "contentId": "UB1464-PPSA28422_00-0498120868974326",
+    "region": "UB",
+    "publisherId": "UB1464"
   },
   {
     "titleId": "PPSA28423_00",
     "conceptId": 10014151,
-    "name": "Polterguys: Possession Party",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Polterguys",
+    "contentId": "UB1464-PPSA28423_00-0829904344360041",
+    "region": "UB",
+    "publisherId": "UB1464"
   },
   {
     "titleId": "PPSA28424_00",
@@ -123144,12 +123240,20 @@
     "publisherId": "UP8198"
   },
   {
+    "titleId": "PPSA28618_00",
+    "conceptId": 10014275,
+    "name": "Call Of Sentinels",
+    "contentId": "UB0760-PPSA28618_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0760"
+  },
+  {
     "titleId": "PPSA28619_00",
     "conceptId": 10014101,
     "name": "Leila",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7939-PPSA28619_00-0265528575819244",
+    "region": "UP",
+    "publisherId": "UP7939"
   },
   {
     "titleId": "PPSA28629_00",
@@ -123232,6 +123336,38 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA28693_00",
+    "conceptId": 10014318,
+    "name": "UFO Builder",
+    "contentId": "EB0805-PPSA28693_00-0237063690297450",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA28694_00",
+    "conceptId": 10014318,
+    "name": "UFO Builder",
+    "contentId": "EB0805-PPSA28694_00-0335992030478250",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA28695_00",
+    "conceptId": 10014318,
+    "name": "UFO Builder",
+    "contentId": "EB0805-PPSA28695_00-0083961422962700",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA28696_00",
+    "conceptId": 10014318,
+    "name": "UFO Builder",
+    "contentId": "EB0805-PPSA28696_00-0158300261646711",
+    "region": "EB",
+    "publisherId": "EB0805"
+  },
+  {
     "titleId": "PPSA28706_00",
     "conceptId": 10014322,
     "name": "Top Driver",
@@ -123266,10 +123402,10 @@
   {
     "titleId": "PPSA28773_00",
     "conceptId": 10014366,
-    "name": "Snowsquall Grip",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Snow Squall Grip",
+    "contentId": "EP6718-PPSA28773_00-0378488190271389",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA28800_00",
@@ -123422,6 +123558,14 @@
     "contentId": "EB0805-PPSA28890_00-0473107129073931",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA28905_00",
+    "conceptId": 10014446,
+    "name": "Cute Puppy Academy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28908_00",
@@ -123702,6 +123846,38 @@
     "contentId": "EP1612-PPSA28985_00-PORKOCALYPSEGAME",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA28992_00",
+    "conceptId": 10014489,
+    "name": "Sky Revolver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28993_00",
+    "conceptId": 10014489,
+    "name": "Sky Revolver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28994_00",
+    "conceptId": 10014489,
+    "name": "Sky Revolver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28996_00",
+    "conceptId": 10014489,
+    "name": "Sky Revolver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29041_00",
@@ -124392,6 +124568,14 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA29466_00",
+    "conceptId": 10006304,
+    "name": "SPEARAIN",
+    "contentId": "EP5645-PPSA29466_00-0885033824913811",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA29481_00",
     "conceptId": 10014808,
     "name": "Freddy Farmer",
@@ -124502,6 +124686,14 @@
     "contentId": "UP7552-PPSA29718_00-0215238827958716",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA29721_00",
+    "conceptId": 10014908,
+    "name": "Super Hoops",
+    "contentId": "UB0337-PPSA29721_00-0858148506554348",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA29821_00",
