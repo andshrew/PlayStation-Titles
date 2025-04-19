@@ -59738,10 +59738,10 @@
   {
     "titleId": "PPSA13794_00",
     "conceptId": 10007347,
-    "name": "PHANTOM BREAKER: BATTLE GROUNDS ULTIMATE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "PBBGU",
+    "contentId": "UP5857-PPSA13794_00-PBBGU00000000000",
+    "region": "UP",
+    "publisherId": "UP5857"
   },
   {
     "titleId": "PPSA13796_00",
@@ -96592,6 +96592,14 @@
     "publisherId": "EP1667"
   },
   {
+    "titleId": "PPSA22053_00",
+    "conceptId": 10010609,
+    "name": "Star Overdrive",
+    "contentId": null,
+    "region": "EB",
+    "publisherId": "EB0235"
+  },
+  {
     "titleId": "PPSA22055_00",
     "conceptId": 10010610,
     "name": "Kingdom of Asteborg",
@@ -100251,9 +100259,9 @@
     "titleId": "PPSA22849_00",
     "conceptId": 10003018,
     "name": "Farm Frenzy: Refreshed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA22849_00-0846891633026265",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA22850_00",
@@ -100267,9 +100275,9 @@
     "titleId": "PPSA22851_00",
     "conceptId": 10003018,
     "name": "Farm Frenzy: Refreshed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA22851_00-0309887821848745",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA22852_00",
@@ -110680,6 +110688,14 @@
     "publisherId": "HP7930"
   },
   {
+    "titleId": "PPSA25141_00",
+    "conceptId": 10012061,
+    "name": "Orphans",
+    "contentId": "JB0500-PPSA25141_00-0496327359514147",
+    "region": "JB",
+    "publisherId": "JB0500"
+  },
+  {
     "titleId": "PPSA25143_00",
     "conceptId": 10012063,
     "name": "Silent Operative Demo",
@@ -116994,10 +117010,10 @@
   {
     "titleId": "PPSA26669_00",
     "conceptId": 10009766,
-    "name": "UNBEATABLE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Unbeatable",
+    "contentId": "JP3681-PPSA26669_00-0632996973596833",
+    "region": "JP",
+    "publisherId": "JP3681"
   },
   {
     "titleId": "PPSA26670_00",
@@ -119563,9 +119579,17 @@
     "titleId": "PPSA27398_00",
     "conceptId": 10013404,
     "name": "The Jumping Orange",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA27398_00-0484695158381468",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA27399_00",
+    "conceptId": 10013404,
+    "name": "The Jumping Orange",
+    "contentId": "HP6661-PPSA27399_00-0043733161153575",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27408_00",
@@ -120978,10 +121002,10 @@
   {
     "titleId": "PPSA27844_00",
     "conceptId": 10005323,
-    "name": "Star Wars Outlaws",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Star Wars Outlaws Demo",
+    "contentId": "EP0001-PPSA27844_00-OUTLAWDEMO100000",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA27845_00",
@@ -121195,9 +121219,9 @@
     "titleId": "PPSA27937_00",
     "conceptId": 233237,
     "name": "Sephirothic Stories",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2500-PPSA27937_00-US0SEPHIRO000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA27938_00",
@@ -121214,6 +121238,14 @@
     "contentId": "JP0013-PPSA27939_00-JP0ADIOS00000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA27940_00",
+    "conceptId": 233228,
+    "name": "Asdivine Dios",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27942_00",
@@ -121235,9 +121267,9 @@
     "titleId": "PPSA27944_00",
     "conceptId": 234476,
     "name": "Illusion of L'Phalcia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA27944_00-EU0LPHALCIA00PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA27945_00",
@@ -121251,17 +121283,17 @@
     "titleId": "PPSA27955_00",
     "conceptId": 10013811,
     "name": "Golf Up Tropical",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6927-PPSA27955_00-0479421900961655",
+    "region": "UP",
+    "publisherId": "UP6927"
   },
   {
     "titleId": "PPSA27956_00",
     "conceptId": 10013811,
     "name": "Golf Up Tropical",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA27956_00-0095721636796474",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA27957_00",
@@ -122762,10 +122794,10 @@
   {
     "titleId": "PPSA28499_00",
     "conceptId": 10009838,
-    "name": "Date Z",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Date Z: Welcome to Massville High",
+    "contentId": "UP7594-PPSA28499_00-DATEZFREEMIUMPS5",
+    "region": "UP",
+    "publisherId": "UP7594"
   },
   {
     "titleId": "PPSA28500_00",
@@ -123394,10 +123426,10 @@
   {
     "titleId": "PPSA28772_00",
     "conceptId": 10014366,
-    "name": "Snowsquall Grip",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Snow Squall Grip",
+    "contentId": "UP6718-PPSA28772_00-0671867849761801",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA28773_00",
@@ -123427,9 +123459,9 @@
     "titleId": "PPSA28812_00",
     "conceptId": 10014391,
     "name": "Screw Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA28812_00-0359623401719531",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA28813_00",
@@ -123563,9 +123595,9 @@
     "titleId": "PPSA28905_00",
     "conceptId": 10014446,
     "name": "Cute Puppy Academy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0383-PPSA28905_00-0872022799686079",
+    "region": "UB",
+    "publisherId": "UB0383"
   },
   {
     "titleId": "PPSA28908_00",
@@ -123875,6 +123907,22 @@
     "titleId": "PPSA28996_00",
     "conceptId": 10014489,
     "name": "Sky Revolver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29011_00",
+    "conceptId": 10014503,
+    "name": "Wings of Endless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29012_00",
+    "conceptId": 10014503,
+    "name": "Wings of Endless",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -124368,6 +124416,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29275_00",
+    "conceptId": 10014674,
+    "name": "Urban Showdown",
+    "contentId": "UB0008-PPSA29275_00-0039544448892816",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA29312_00",
     "conceptId": 10006003,
     "name": "WIPER",
@@ -124576,6 +124632,30 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29467_00",
+    "conceptId": 10006304,
+    "name": "SPEARAIN",
+    "contentId": "EP5645-PPSA29467_00-0432640787909465",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29468_00",
+    "conceptId": 10006304,
+    "name": "SPEARAIN",
+    "contentId": "EP5645-PPSA29468_00-0274334703102513",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29469_00",
+    "conceptId": 10006304,
+    "name": "SPEARAIN",
+    "contentId": "EP5645-PPSA29469_00-0919162738122445",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA29481_00",
     "conceptId": 10014808,
     "name": "Freddy Farmer",
@@ -124670,6 +124750,38 @@
     "contentId": "UB0752-PPSA29605_00-0066764317553376",
     "region": "UB",
     "publisherId": "UB0752"
+  },
+  {
+    "titleId": "PPSA29630_00",
+    "conceptId": 10014733,
+    "name": "Remember Easter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29631_00",
+    "conceptId": 10014733,
+    "name": "Remember Easter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29632_00",
+    "conceptId": 10014733,
+    "name": "Remember Easter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29633_00",
+    "conceptId": 10014733,
+    "name": "Remember Easter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29690_00",
