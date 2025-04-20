@@ -76888,6 +76888,14 @@
     "publisherId": "UP5468"
   },
   {
+    "titleId": "PPSA17732_00",
+    "conceptId": 10008902,
+    "name": "The Precinct",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17735_00",
     "conceptId": 10007627,
     "name": "Fort Solis Extras",
@@ -108440,6 +108448,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA24640_00",
+    "conceptId": 10006428,
+    "name": "Oppidum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24643_00",
     "conceptId": 233517,
     "name": "The Messenger",
@@ -118208,6 +118224,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA27032_00",
+    "conceptId": 10012383,
+    "name": "Eternal Evil",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27038_00",
     "conceptId": 10013172,
     "name": "Monument Valley",
@@ -119092,6 +119116,38 @@
     "conceptId": 10013330,
     "name": "Ball Shoot Aim Challenge",
     "contentId": "UP7668-PPSA27263_00-0884389917797597",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27266_00",
+    "conceptId": 10013331,
+    "name": "Strawberry Jumping Journey",
+    "contentId": "UP7668-PPSA27266_00-0693448809571265",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27269_00",
+    "conceptId": 10013331,
+    "name": "Strawberry Jumping Journey",
+    "contentId": "UP7668-PPSA27269_00-0061090758654351",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27270_00",
+    "conceptId": 10013331,
+    "name": "Strawberry Jumping Journey",
+    "contentId": "UP7668-PPSA27270_00-0341064050696545",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27271_00",
+    "conceptId": 10013331,
+    "name": "Strawberry Jumping Journey",
+    "contentId": "UP7668-PPSA27271_00-0489287167439220",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -123467,9 +123523,9 @@
     "titleId": "PPSA28813_00",
     "conceptId": 10014391,
     "name": "Screw Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA28813_00-0884947664395992",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA28821_00",
@@ -124030,6 +124086,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29097_00",
+    "conceptId": 10014496,
+    "name": "Galactic Cat",
+    "contentId": "EP4312-PPSA29097_00-0389110500923169",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA29098_00",
+    "conceptId": 10014496,
+    "name": "Galactic Cat",
+    "contentId": "UP4312-PPSA29098_00-0973280749370619",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA29102_00",
@@ -124755,9 +124827,9 @@
     "titleId": "PPSA29630_00",
     "conceptId": 10014733,
     "name": "Remember Easter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA29630_00-REMEMBEREASTERNA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA29631_00",
@@ -124779,9 +124851,9 @@
     "titleId": "PPSA29633_00",
     "conceptId": 10014733,
     "name": "Remember Easter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA29633_00-REMEMBEREASTERAS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA29690_00",
