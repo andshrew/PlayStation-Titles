@@ -28192,6 +28192,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA06960_00",
+    "conceptId": 10004736,
+    "name": "Mandragora: Whispers of the Witch Tree",
+    "contentId": "EP4492-PPSA06960_00-MANDRAPS50000001",
+    "region": "EP",
+    "publisherId": "EP4492"
+  },
+  {
     "titleId": "PPSA06968_00",
     "conceptId": 10003302,
     "name": "Yurukill",
@@ -111024,6 +111032,14 @@
     "publisherId": "UP2035"
   },
   {
+    "titleId": "PPSA25217_00",
+    "conceptId": 10007610,
+    "name": "SUPER ROBOT WARS Y",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA25220_00",
     "conceptId": 10012079,
     "name": "Vagrus - The Riven Realms",
@@ -117816,6 +117832,14 @@
     "publisherId": "EP2127"
   },
   {
+    "titleId": "PPSA26906_00",
+    "conceptId": 10013073,
+    "name": "Lets castle!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26907_00",
     "conceptId": 10010199,
     "name": "Professor Doctor Jetpack",
@@ -121112,6 +121136,14 @@
     "publisherId": "JP0106"
   },
   {
+    "titleId": "PPSA27884_00",
+    "conceptId": 10007610,
+    "name": "SUPER ROBOT WARS Y",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27888_00",
     "conceptId": 10013731,
     "name": "Maths Pals",
@@ -123472,12 +123504,60 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA28697_00",
+    "conceptId": 10014319,
+    "name": "Pixel Warrior",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28698_00",
+    "conceptId": 10014319,
+    "name": "Pixel Warrior",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28699_00",
+    "conceptId": 10014319,
+    "name": "Pixel Warrior",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28700_00",
+    "conceptId": 10014319,
+    "name": "Pixel Warrior",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28706_00",
     "conceptId": 10014322,
     "name": "Top Driver",
     "contentId": "UB0337-PPSA28706_00-0628460272283044",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA28747_00",
+    "conceptId": 10012783,
+    "name": "Once Upon A Puppet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28748_00",
+    "conceptId": 10012783,
+    "name": "Once Upon A Puppet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28750_00",
@@ -124888,6 +124968,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29701_00",
+    "conceptId": 10014895,
+    "name": "1-2-Fantastic Word Search!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29718_00",
     "conceptId": 10014906,
     "name": "World Cup Soccer 2026",
@@ -124907,14 +124995,54 @@
     "titleId": "PPSA29821_00",
     "conceptId": 10014991,
     "name": "Puzzle Piecer: The Pattern",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA29821_00-0336837449085117",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA29822_00",
     "conceptId": 10014991,
     "name": "Puzzle Piecer: The Pattern",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29824_00",
+    "conceptId": 10014991,
+    "name": "Puzzle Piecer: The Pattern",
+    "contentId": "JP7323-PPSA29824_00-0456432296628421",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA29862_00",
+    "conceptId": 10015009,
+    "name": "Hell Froze Over",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29863_00",
+    "conceptId": 10015009,
+    "name": "Hell Froze Over",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29864_00",
+    "conceptId": 10015009,
+    "name": "Hell Froze Over",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29865_00",
+    "conceptId": 10015009,
+    "name": "Hell Froze Over",
     "contentId": null,
     "region": null,
     "publisherId": null
