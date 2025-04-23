@@ -51832,6 +51832,14 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA11002_00",
+    "conceptId": 10006435,
+    "name": "Post Trauma",
+    "contentId": "EP2187-PPSA11002_00-POSTTRAUMA000000",
+    "region": "EP",
+    "publisherId": "EP2187"
+  },
+  {
     "titleId": "PPSA11005_00",
     "conceptId": 234318,
     "name": "Sail Forth",
@@ -92864,6 +92872,14 @@
     "publisherId": "EP2866"
   },
   {
+    "titleId": "PPSA21203_00",
+    "conceptId": 10010248,
+    "name": "The Elder Scrolls IV: Oblivion Remastered",
+    "contentId": "UP1003-PPSA21203_00-ALTAR00000000000",
+    "region": "UP",
+    "publisherId": "UP1003"
+  },
+  {
     "titleId": "PPSA21207_00",
     "conceptId": 10010250,
     "name": "Become the wild",
@@ -99027,9 +99043,9 @@
     "titleId": "PPSA22570_00",
     "conceptId": 10010794,
     "name": "Steel Seed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA22570_00-SSSTMGPS500000US",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA22573_00",
@@ -104350,6 +104366,14 @@
     "contentId": "EP6827-PPSA23825_00-0103687467237727",
     "region": "EP",
     "publisherId": "EP6827"
+  },
+  {
+    "titleId": "PPSA23829_00",
+    "conceptId": 10010248,
+    "name": "TES IV: Oblivion Remastered - Digital Artbook & Original Soundtrack",
+    "contentId": "UP1003-PPSA23829_00-ORSTAB0000000000",
+    "region": "UP",
+    "publisherId": "UP1003"
   },
   {
     "titleId": "PPSA23832_00",
@@ -114832,6 +114856,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA26115_00",
+    "conceptId": 10012585,
+    "name": "A-RED Walking Robot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26119_00",
     "conceptId": 10012622,
     "name": "Detail Hunter",
@@ -116440,6 +116472,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26505_00",
+    "conceptId": 232548,
+    "name": "Pilot Sports",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26506_00",
+    "conceptId": 232548,
+    "name": "Pilot Sports",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26512_00",
     "conceptId": 10012882,
     "name": "Toys Brawl",
@@ -117904,6 +117952,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA26925_00",
+    "conceptId": 10013107,
+    "name": "No Sun To Worship",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26926_00",
     "conceptId": 10013110,
     "name": "Infernitos",
@@ -118712,6 +118768,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27153_00",
+    "conceptId": 10003610,
+    "name": "ARC Raiders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27155_00",
     "conceptId": 10010800,
     "name": "Beyond the Ice Palace II",
@@ -119499,9 +119563,9 @@
     "titleId": "PPSA27349_00",
     "conceptId": 10013374,
     "name": "Hegzis",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA27349_00-HEGZISGAME000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA27350_00",
@@ -119819,6 +119883,14 @@
     "titleId": "PPSA27509_00",
     "conceptId": 10011830,
     "name": "F1\u00ae 25",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27510_00",
+    "conceptId": 10013446,
+    "name": "Peglin",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -121140,8 +121212,8 @@
     "conceptId": 10007610,
     "name": "SUPER ROBOT WARS Y",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA27888_00",
@@ -122496,6 +122568,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA28323_00",
+    "conceptId": 10007610,
+    "name": "SUPER ROBOT WARS Y",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA28327_00",
     "conceptId": 10010622,
     "name": "Fantasy Beauties Premium Edition Demo",
@@ -123374,6 +123454,14 @@
     "contentId": "UP8198-PPSA28613_00-XXXXXXXXXXXXXXXX",
     "region": "UP",
     "publisherId": "UP8198"
+  },
+  {
+    "titleId": "PPSA28617_00",
+    "conceptId": 10005813,
+    "name": "Spirit of the North 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28618_00",
@@ -124483,9 +124571,9 @@
     "titleId": "PPSA29250_00",
     "conceptId": 10014661,
     "name": "Out of Moves",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA29250_00-0101859516985667",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA29251_00",
@@ -124864,6 +124952,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29494_00",
+    "conceptId": 10006423,
+    "name": "FROOOOG",
+    "contentId": "EP5645-PPSA29494_00-0550619512614345",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29495_00",
+    "conceptId": 10006423,
+    "name": "FROOOOG",
+    "contentId": "EP5645-PPSA29495_00-0212257810769840",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA29514_00",
     "conceptId": 10014826,
     "name": "Masters Bowling HD",
@@ -124910,6 +125014,14 @@
     "contentId": "JP7323-PPSA29531_00-0305514424959195",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA29577_00",
+    "conceptId": 10006470,
+    "name": "SNAKE 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29605_00",
@@ -125003,9 +125115,17 @@
     "titleId": "PPSA29822_00",
     "conceptId": 10014991,
     "name": "Puzzle Piecer: The Pattern",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA29822_00-0275000236996089",
+    "region": "UP",
+    "publisherId": "UP7347"
+  },
+  {
+    "titleId": "PPSA29823_00",
+    "conceptId": 10014991,
+    "name": "Puzzle Piecer: The Pattern",
+    "contentId": "HP7367-PPSA29823_00-0973004441443093",
+    "region": "HP",
+    "publisherId": "HP7367"
   },
   {
     "titleId": "PPSA29824_00",
