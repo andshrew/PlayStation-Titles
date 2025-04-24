@@ -55336,6 +55336,14 @@
     "publisherId": "EP2919"
   },
   {
+    "titleId": "PPSA12424_00",
+    "conceptId": 10006880,
+    "name": "LABYRINTH OF THE DEMON KING",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12427_00",
     "conceptId": 10006881,
     "name": "Astro & Suzy Go to the Beach",
@@ -62768,6 +62776,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14346_00",
+    "conceptId": 10007610,
+    "name": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226Y",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA14348_00",
     "conceptId": 10003373,
     "name": "Ultros",
@@ -68806,6 +68822,14 @@
     "contentId": "EP5778-PPSA16007_00-0000000000000001",
     "region": "EP",
     "publisherId": "EP5778"
+  },
+  {
+    "titleId": "PPSA16010_00",
+    "conceptId": 10008209,
+    "name": "Hero-U: Rogue to Redemption",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16016_00",
@@ -88512,6 +88536,22 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA20239_00",
+    "conceptId": 10009837,
+    "name": "SubwaySim 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20240_00",
+    "conceptId": 10009837,
+    "name": "SubwaySim 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20241_00",
     "conceptId": 10009838,
     "name": "Date Z",
@@ -96307,9 +96347,9 @@
     "titleId": "PPSA21973_00",
     "conceptId": 10010574,
     "name": "Sunderfolk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7302-PPSA21973_00-SUNDERFOLK000000",
+    "region": "UP",
+    "publisherId": "UP7302"
   },
   {
     "titleId": "PPSA21974_00",
@@ -108491,9 +108531,9 @@
     "titleId": "PPSA24640_00",
     "conceptId": 10006428,
     "name": "Oppidum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1270-PPSA24640_00-0300194408817029",
+    "region": "EP",
+    "publisherId": "EP1270"
   },
   {
     "titleId": "PPSA24643_00",
@@ -108654,6 +108694,14 @@
     "contentId": "UP7668-PPSA24676_00-0977152977928314",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA24677_00",
+    "conceptId": 10011844,
+    "name": "Ghosts of Tabor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24686_00",
@@ -114048,6 +114096,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA25894_00",
+    "conceptId": 10008673,
+    "name": "Death end re;Quest Code Z",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25898_00",
     "conceptId": 10012480,
     "name": "\u9632\u885b\u30de\u30b9\u30bf\u30fc",
@@ -116475,17 +116531,17 @@
     "titleId": "PPSA26505_00",
     "conceptId": 232548,
     "name": "Pilot Sports",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1936-PPSA26505_00-PILOTSPORTS00000",
+    "region": "EP",
+    "publisherId": "EP1936"
   },
   {
     "titleId": "PPSA26506_00",
     "conceptId": 232548,
     "name": "Pilot Sports",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1952-PPSA26506_00-PILOTSPORTS00000",
+    "region": "UP",
+    "publisherId": "UP1952"
   },
   {
     "titleId": "PPSA26512_00",
@@ -116494,6 +116550,14 @@
     "contentId": "UB0928-PPSA26512_00-0687581321764864",
     "region": "UB",
     "publisherId": "UB0928"
+  },
+  {
+    "titleId": "PPSA26514_00",
+    "conceptId": 10012884,
+    "name": "LISTEN UP! WE TRIED TO MAKE \u201cTHOSE GAMES\u201d EVEN MORE EXTREME! SOME THINGS HAVE TO BE LEARNED THE HARD WAY!",
+    "contentId": "JP0367-PPSA26514_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0367"
   },
   {
     "titleId": "PPSA26515_00",
@@ -117515,9 +117579,9 @@
     "titleId": "PPSA26818_00",
     "conceptId": 10013047,
     "name": "Super Technos World: River City & Technos Arcade Classics",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0036-PPSA26818_00-TECHWORLD0000PS5",
+    "region": "JP",
+    "publisherId": "JP0036"
   },
   {
     "titleId": "PPSA26819_00",
@@ -118400,6 +118464,14 @@
     "publisherId": "UP2011"
   },
   {
+    "titleId": "PPSA27068_00",
+    "conceptId": 10012724,
+    "name": "Waifu Impact 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27069_00",
     "conceptId": 10012277,
     "name": "Detective - The Motel",
@@ -119130,8 +119202,8 @@
   {
     "titleId": "PPSA27248_00",
     "conceptId": 10012783,
-    "name": "Once Upon A Puppet",
-    "contentId": null,
+    "name": "Once Upon a Puppet",
+    "contentId": "EP8923-PPSA27248_00-ONCEUPONAPUPPET5",
     "region": "EP",
     "publisherId": "EP8923"
   },
@@ -119753,6 +119825,22 @@
   },
   {
     "titleId": "PPSA27409_00",
+    "conceptId": 10013406,
+    "name": "The Jumping Cheese Maze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27410_00",
+    "conceptId": 10013406,
+    "name": "The Jumping Cheese Maze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27411_00",
     "conceptId": 10013406,
     "name": "The Jumping Cheese Maze",
     "contentId": null,
@@ -120424,6 +120512,22 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA27638_00",
+    "conceptId": 10013553,
+    "name": "Neon Apex: Beyond the Limit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27639_00",
+    "conceptId": 10013553,
+    "name": "Neon Apex: Beyond the Limit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27656_00",
     "conceptId": 10013572,
     "name": "Rooftop Rascal: The Claus Cat",
@@ -120683,6 +120787,30 @@
     "titleId": "PPSA27717_00",
     "conceptId": 10013613,
     "name": "Bartender Hustle",
+    "contentId": "EP5987-PPSA27717_00-BARTENDERULG0001",
+    "region": "EP",
+    "publisherId": "EP5987"
+  },
+  {
+    "titleId": "PPSA27721_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27722_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27723_00",
+    "conceptId": 10009134,
+    "name": "Touhou Spell Carnival",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -120819,9 +120947,9 @@
     "titleId": "PPSA27768_00",
     "conceptId": 10012898,
     "name": "Deep Deep Deep Nightmare",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA27768_00-DEEPNIGHTMARE5EU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA27774_00",
@@ -121043,9 +121171,9 @@
     "titleId": "PPSA27809_00",
     "conceptId": 10012991,
     "name": "9th Dawn Remake",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5791-PPSA27809_00-0266644482725612",
+    "region": "EP",
+    "publisherId": "EP5791"
   },
   {
     "titleId": "PPSA27810_00",
@@ -121576,6 +121704,14 @@
     "publisherId": "UB0371"
   },
   {
+    "titleId": "PPSA27996_00",
+    "conceptId": 10013849,
+    "name": "\u7206\u76db\u98df\u5802",
+    "contentId": "JP0745-PPSA27996_00-0580893285570937",
+    "region": "JP",
+    "publisherId": "JP0745"
+  },
+  {
     "titleId": "PPSA27997_00",
     "conceptId": 10010642,
     "name": "Sledders",
@@ -121691,6 +121827,14 @@
     "titleId": "PPSA28027_00",
     "conceptId": 10013874,
     "name": "Super Engine GT Turbo SPEC",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28029_00",
+    "conceptId": 10013876,
+    "name": "Stunt Flyer",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -123512,6 +123656,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA28634_00",
+    "conceptId": 10013240,
+    "name": "Soulstone Survivors Demo",
+    "contentId": "HB1034-PPSA28634_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB1034"
+  },
+  {
     "titleId": "PPSA28642_00",
     "conceptId": 10010012,
     "name": "Splitgate 2 - Alpha",
@@ -123634,18 +123786,18 @@
   {
     "titleId": "PPSA28747_00",
     "conceptId": 10012783,
-    "name": "Once Upon A Puppet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Once Upon A Puppet Artbook",
+    "contentId": "EP8923-PPSA28747_00-PUPPETARTBOOKPS5",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA28748_00",
     "conceptId": 10012783,
-    "name": "Once Upon A Puppet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Once Upon A Puppet Soundtrack",
+    "contentId": "EP8923-PPSA28748_00-OUAPSOUNDTRACKP5",
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA28750_00",
@@ -123678,6 +123830,14 @@
     "contentId": "EP6718-PPSA28773_00-0378488190271389",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA28787_00",
+    "conceptId": 10005316,
+    "name": "\u5927\u6226\u7565SSB\u4f53\u9a13\u7248",
+    "contentId": "JP0393-PPSA28787_00-0468057738435341",
+    "region": "JP",
+    "publisherId": "JP0393"
   },
   {
     "titleId": "PPSA28800_00",
@@ -124563,9 +124723,9 @@
     "titleId": "PPSA29249_00",
     "conceptId": 10014661,
     "name": "Out of Moves",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA29249_00-0140432686749872",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA29250_00",
@@ -124579,17 +124739,17 @@
     "titleId": "PPSA29251_00",
     "conceptId": 10014661,
     "name": "Out of Moves",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA29251_00-0838578780955905",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA29252_00",
     "conceptId": 10014661,
     "name": "Out of Moves",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA29252_00-0786666136843620",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA29255_00",
@@ -124952,6 +125112,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29492_00",
+    "conceptId": 10006423,
+    "name": "FROOOOG",
+    "contentId": "EP5645-PPSA29492_00-0638081843209442",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29493_00",
+    "conceptId": 10006423,
+    "name": "FROOOOG",
+    "contentId": "EP5645-PPSA29493_00-0658541195610400",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA29494_00",
     "conceptId": 10006423,
     "name": "FROOOOG",
@@ -124964,6 +125140,14 @@
     "conceptId": 10006423,
     "name": "FROOOOG",
     "contentId": "EP5645-PPSA29495_00-0212257810769840",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29502_00",
+    "conceptId": 10006230,
+    "name": "D MISSILE",
+    "contentId": "EP5645-PPSA29502_00-DMISSILE00000000",
     "region": "EP",
     "publisherId": "EP5645"
   },
