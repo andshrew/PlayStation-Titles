@@ -68824,6 +68824,14 @@
     "publisherId": "EP5778"
   },
   {
+    "titleId": "PPSA16009_00",
+    "conceptId": 10008209,
+    "name": "Hero-U: Rogue to Redemption",
+    "contentId": "UP6989-PPSA16009_00-0513494356829247",
+    "region": "UP",
+    "publisherId": "UP6989"
+  },
+  {
     "titleId": "PPSA16010_00",
     "conceptId": 10008209,
     "name": "Hero-U: Rogue to Redemption",
@@ -68910,6 +68918,14 @@
     "contentId": "JP6421-PPSA16029_00-0331559264099244",
     "region": "JP",
     "publisherId": "JP6421"
+  },
+  {
+    "titleId": "PPSA16033_00",
+    "conceptId": 10008217,
+    "name": "The Alters",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4361"
   },
   {
     "titleId": "PPSA16035_00",
@@ -70395,9 +70411,9 @@
     "titleId": "PPSA16344_00",
     "conceptId": 10008348,
     "name": "NanoApostle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4293-PPSA16344_00-NANOAPOSTLEZZZZZ",
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA16345_00",
@@ -99075,9 +99091,9 @@
     "titleId": "PPSA22569_00",
     "conceptId": 10010794,
     "name": "Steel Seed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA22569_00-SSSTMGPS500000EU",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA22570_00",
@@ -99091,17 +99107,17 @@
     "titleId": "PPSA22573_00",
     "conceptId": 10010794,
     "name": "Steel Seed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA22573_00-SSSTMGPS500000HP",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA22576_00",
     "conceptId": 10010794,
-    "name": "Steel Seed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b9\u30c6\u30a3\u30fc\u30eb\u30b7\u30fc\u30c9",
+    "contentId": "JP7843-PPSA22576_00-SSSTMGPS500000JP",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA22577_00",
@@ -114920,6 +114936,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26117_00",
+    "conceptId": 10012619,
+    "name": "SONIC WINGS REUNION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26119_00",
     "conceptId": 10012622,
     "name": "Detail Hunter",
@@ -118899,9 +118923,9 @@
     "titleId": "PPSA27165_00",
     "conceptId": 10013265,
     "name": "EcoGnomix",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6978-PPSA27165_00-ECOGNOMIX0000001",
+    "region": "HP",
+    "publisherId": "HP6978"
   },
   {
     "titleId": "PPSA27169_00",
@@ -120939,9 +120963,9 @@
     "titleId": "PPSA27767_00",
     "conceptId": 10012898,
     "name": "Deep Deep Deep Nightmare",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA27767_00-DEEPNIGHTMARE5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA27768_00",
@@ -121312,6 +121336,14 @@
     "publisherId": "JP0001"
   },
   {
+    "titleId": "PPSA27867_00",
+    "conceptId": 10012604,
+    "name": "EA SPORTS\u2122 Madden NFL 26",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27871_00",
     "conceptId": 10012463,
     "name": "EA SPORTS\u2122 College Football 26",
@@ -121475,9 +121507,9 @@
     "titleId": "PPSA27923_00",
     "conceptId": 10013729,
     "name": "ANNIE:Last Hope",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8406-PPSA27923_00-ANNIELASTHOPEPS5",
+    "region": "HP",
+    "publisherId": "HP8406"
   },
   {
     "titleId": "PPSA27930_00",
@@ -121497,6 +121529,14 @@
   },
   {
     "titleId": "PPSA27934_00",
+    "conceptId": 233473,
+    "name": "Frane: Dragons' Odyssey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27935_00",
     "conceptId": 233473,
     "name": "Frane: Dragons' Odyssey",
     "contentId": null,
@@ -121537,6 +121577,14 @@
   },
   {
     "titleId": "PPSA27940_00",
+    "conceptId": 233228,
+    "name": "Asdivine Dios",
+    "contentId": "UP2500-PPSA27940_00-US0ADIOS00000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA27941_00",
     "conceptId": 233228,
     "name": "Asdivine Dios",
     "contentId": null,
@@ -122176,6 +122224,14 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA28158_00",
+    "conceptId": 10013975,
+    "name": "Spiritfall",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28162_00",
     "conceptId": 10013978,
     "name": "Secret",
@@ -122250,16 +122306,16 @@
   {
     "titleId": "PPSA28182_00",
     "conceptId": 229018,
-    "name": "Days Gone Remastered",
-    "contentId": null,
+    "name": "Days Gone: Remastered",
+    "contentId": "JP9000-PPSA28182_00-DAYSGONEREMASTER",
     "region": "JP",
     "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA28184_00",
     "conceptId": 229018,
-    "name": "Days Gone Remastered",
-    "contentId": null,
+    "name": "Days Gone: Remastered",
+    "contentId": "HP9000-PPSA28184_00-DAYSGONEREMASTER",
     "region": "HP",
     "publisherId": "HP9000"
   },
@@ -122267,9 +122323,9 @@
     "titleId": "PPSA28188_00",
     "conceptId": 10013992,
     "name": "The Fairy's Secret",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28188_00-THEFAIRYSSECRERG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28196_00",
@@ -122386,10 +122442,10 @@
   {
     "titleId": "PPSA28231_00",
     "conceptId": 10014018,
-    "name": "Gnomes and Knights",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gnomes And Knights",
+    "contentId": "EP6138-PPSA28231_00-0578073395322371",
+    "region": "EP",
+    "publisherId": "EP6138"
   },
   {
     "titleId": "PPSA28234_00",
@@ -122662,6 +122718,22 @@
     "contentId": "UP3362-PPSA28301_00-0750704792919347",
     "region": "UP",
     "publisherId": "UP3362"
+  },
+  {
+    "titleId": "PPSA28303_00",
+    "conceptId": 10009226,
+    "name": "Extreme Offroad Racing VR Demo",
+    "contentId": "EP8934-PPSA28303_00-0358333877416334",
+    "region": "EP",
+    "publisherId": "EP8934"
+  },
+  {
+    "titleId": "PPSA28304_00",
+    "conceptId": 10009226,
+    "name": "Extreme Offroad Racing VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28305_00",
@@ -123584,6 +123656,14 @@
     "publisherId": "UB0527"
   },
   {
+    "titleId": "PPSA28599_00",
+    "conceptId": 10014253,
+    "name": "Stratogun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28612_00",
     "conceptId": 10014268,
     "name": "Secrets In Green",
@@ -123747,9 +123827,9 @@
     "titleId": "PPSA28697_00",
     "conceptId": 10014319,
     "name": "Pixel Warrior",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28697_00-0312665765312138",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28698_00",
@@ -123771,9 +123851,9 @@
     "titleId": "PPSA28700_00",
     "conceptId": 10014319,
     "name": "Pixel Warrior",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28700_00-0918200473557218",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28706_00",
@@ -124264,6 +124344,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28975_00",
+    "conceptId": 10003364,
+    "name": "Lost Ruins",
+    "contentId": "JP4108-PPSA28975_00-0529859648654844",
+    "region": "JP",
+    "publisherId": "JP4108"
+  },
+  {
     "titleId": "PPSA28976_00",
     "conceptId": 10014481,
     "name": "Super Slime Boy",
@@ -124307,9 +124395,9 @@
     "titleId": "PPSA28996_00",
     "conceptId": 10014489,
     "name": "Sky Revolver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7843-PPSA28996_00-0806028981516533",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA29011_00",
@@ -124331,9 +124419,9 @@
     "titleId": "PPSA29041_00",
     "conceptId": 10014526,
     "name": "Sakura Bunny Girls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6472-PPSA29041_00-SAKURABUNNYGIRLS",
+    "region": "UP",
+    "publisherId": "UP6472"
   },
   {
     "titleId": "PPSA29047_00",
@@ -124398,6 +124486,14 @@
     "contentId": "EP5645-PPSA29054_00-0341654819292734",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29055_00",
+    "conceptId": 10014532,
+    "name": "Epic Empire: Tower Defense",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29063_00",
@@ -124486,6 +124582,14 @@
     "contentId": "EP1612-PPSA29118_00-MEOWBOLTGAME0000",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA29122_00",
+    "conceptId": 10014588,
+    "name": "\u30d8\u30eb\u30e1\u30cd\u30a6\u30b9\u306e\u7bb1\u5ead",
+    "contentId": "JP0013-PPSA29122_00-JP0HERME0G000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA29123_00",
@@ -124590,6 +124694,14 @@
     "contentId": "UB0796-PPSA29207_00-0163318595925595",
     "region": "UB",
     "publisherId": "UB0796"
+  },
+  {
+    "titleId": "PPSA29208_00",
+    "conceptId": 10013867,
+    "name": "An Aisling",
+    "contentId": "JB1401-PPSA29208_00-0193412384225374",
+    "region": "JB",
+    "publisherId": "JB1401"
   },
   {
     "titleId": "PPSA29209_00",
@@ -125000,6 +125112,14 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA29430_00",
+    "conceptId": 10014761,
+    "name": "Fruit Collector",
+    "contentId": "HB1069-PPSA29430_00-0249818234858649",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
     "titleId": "PPSA29432_00",
     "conceptId": 10006299,
     "name": "CAST N",
@@ -125030,6 +125150,14 @@
     "contentId": "EP5645-PPSA29436_00-0003071209201979",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29449_00",
+    "conceptId": 10014775,
+    "name": "Cazzarion: Little Dragon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29452_00",
@@ -125152,6 +125280,30 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29503_00",
+    "conceptId": 10006230,
+    "name": "D MISSILE",
+    "contentId": "EP5645-PPSA29503_00-DMISSILE00000000",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29504_00",
+    "conceptId": 10006230,
+    "name": "D MISSILE",
+    "contentId": "EP5645-PPSA29504_00-DMISSILE00000000",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29505_00",
+    "conceptId": 10006230,
+    "name": "D MISSILE",
+    "contentId": "EP5645-PPSA29505_00-DMISSILE00000000",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA29514_00",
     "conceptId": 10014826,
     "name": "Masters Bowling HD",
@@ -125198,6 +125350,22 @@
     "contentId": "JP7323-PPSA29531_00-0305514424959195",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA29568_00",
+    "conceptId": 10014819,
+    "name": "Trainlax: Railway Puzzle Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29571_00",
+    "conceptId": 10014821,
+    "name": "Bunker 22",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29577_00",
@@ -125272,6 +125440,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29715_00",
+    "conceptId": 10014820,
+    "name": "Cat From Hell - Cat Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29718_00",
     "conceptId": 10014906,
     "name": "World Cup Soccer 2026",
@@ -125280,12 +125456,36 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA29719_00",
+    "conceptId": 10014907,
+    "name": "ABSURDIKA: Rebuild",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29721_00",
     "conceptId": 10014908,
     "name": "Super Hoops",
     "contentId": "UB0337-PPSA29721_00-0858148506554348",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA29740_00",
+    "conceptId": 10014940,
+    "name": "A Blackout Protocol Report",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29801_00",
+    "conceptId": 10014975,
+    "name": "siMarket Cloth Store Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29821_00",
