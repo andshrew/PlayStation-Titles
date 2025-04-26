@@ -68840,6 +68840,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16011_00",
+    "conceptId": 10008209,
+    "name": "Hero-U: Rogue to Redemption",
+    "contentId": "HP0874-PPSA16011_00-0710418018674027",
+    "region": "HP",
+    "publisherId": "HP0874"
+  },
+  {
     "titleId": "PPSA16016_00",
     "conceptId": 10004911,
     "name": "Mortal Kombat 1",
@@ -69155,7 +69163,7 @@
     "titleId": "PPSA16078_00",
     "conceptId": 10008226,
     "name": "Amerzone - The Explorer's Legacy",
-    "contentId": null,
+    "contentId": "EP4295-PPSA16078_00-AMERZONEPS5000EU",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -69190,6 +69198,14 @@
     "contentId": "HP8462-PPSA16084_00-0293033466338322",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA16086_00",
+    "conceptId": 10003176,
+    "name": "Smash Drums",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA16088_00",
@@ -84274,8 +84290,8 @@
   {
     "titleId": "PPSA19359_00",
     "conceptId": 10009499,
-    "name": "FATAL FURY: City of the Wolves - Special Edition",
-    "contentId": null,
+    "name": "FATAL FURY: City of the Wolves",
+    "contentId": "JP0576-PPSA19359_00-CITRUS0000000000",
     "region": "JP",
     "publisherId": "JP0576"
   },
@@ -102506,10 +102522,10 @@
   {
     "titleId": "PPSA23420_00",
     "conceptId": 217471,
-    "name": "Steredenn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Steredenn: Binary Stars",
+    "contentId": "EP5098-PPSA23420_00-0349215761315682",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA23421_00",
@@ -103530,10 +103546,10 @@
   {
     "titleId": "PPSA23637_00",
     "conceptId": 217471,
-    "name": "Steredenn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Steredenn: Binary Stars",
+    "contentId": "UP4912-PPSA23637_00-0804461046646679",
+    "region": "UP",
+    "publisherId": "UP4912"
   },
   {
     "titleId": "PPSA23638_00",
@@ -113992,6 +114008,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA25859_00",
+    "conceptId": 10012463,
+    "name": "EA SPORTS\u2122 MVP Bundle (Madden NFL 26 Deluxe Edition & EA SPORTS College Football 26 Deluxe Edition)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA25871_00",
     "conceptId": 10011404,
     "name": "Lost Chiko 2",
@@ -114976,6 +115000,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA26127_00",
+    "conceptId": 10012604,
+    "name": "EA SPORTS\u2122 Madden NFL 26 Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA26133_00",
     "conceptId": 10012629,
     "name": "Aradia's Journey",
@@ -115686,6 +115718,14 @@
     "contentId": "EP3643-PPSA26283_00-0TALOSPRINCIPLE1",
     "region": "EP",
     "publisherId": "EP3643"
+  },
+  {
+    "titleId": "PPSA26286_00",
+    "conceptId": 10007144,
+    "name": "Black Myth: Wukong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26288_00",
@@ -119720,6 +119760,14 @@
     "publisherId": "HP4226"
   },
   {
+    "titleId": "PPSA27368_00",
+    "conceptId": 10012774,
+    "name": "World Of Goo 2",
+    "contentId": "UB1294-PPSA27368_00-ZZZZZZZZZZZZZZZZ",
+    "region": "UB",
+    "publisherId": "UB1294"
+  },
+  {
     "titleId": "PPSA27371_00",
     "conceptId": 10013388,
     "name": "Jump Race",
@@ -119843,33 +119891,33 @@
     "titleId": "PPSA27408_00",
     "conceptId": 10013406,
     "name": "The Jumping Cheese Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6664-PPSA27408_00-0176092156995508",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA27409_00",
     "conceptId": 10013406,
     "name": "The Jumping Cheese Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6664-PPSA27409_00-0422989188230424",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA27410_00",
     "conceptId": 10013406,
     "name": "The Jumping Cheese Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6595-PPSA27410_00-0964024929774101",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA27411_00",
     "conceptId": 10013406,
     "name": "The Jumping Cheese Maze",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6661-PPSA27411_00-0277810228604063",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27416_00",
@@ -120760,6 +120808,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA27709_00",
+    "conceptId": 10013603,
+    "name": "CATO: Buttered Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27711_00",
     "conceptId": 10011522,
     "name": "Dating Stories",
@@ -121512,12 +121568,28 @@
     "publisherId": "HP8406"
   },
   {
+    "titleId": "PPSA27929_00",
+    "conceptId": 10013798,
+    "name": "Colorful Boi 2",
+    "contentId": "UP7335-PPSA27929_00-0005497223995869",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA27930_00",
     "conceptId": 10013798,
     "name": "Colorful Boi 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA27930_00-0999506829280452",
+    "region": "EP",
+    "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA27932_00",
+    "conceptId": 10013798,
+    "name": "Colorful Boi 2",
+    "contentId": "HP7354-PPSA27932_00-0376690731274352",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA27933_00",
@@ -121530,18 +121602,18 @@
   {
     "titleId": "PPSA27934_00",
     "conceptId": 233473,
-    "name": "Frane: Dragons' Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Frane Dragons' Odyssey",
+    "contentId": "UP2500-PPSA27934_00-US0FRANEDO000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA27935_00",
     "conceptId": 233473,
-    "name": "Frane: Dragons' Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Frane Dragons' Odyssey",
+    "contentId": "EP2363-PPSA27935_00-EU0FRANEDO000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA27936_00",
@@ -121587,9 +121659,9 @@
     "titleId": "PPSA27941_00",
     "conceptId": 233228,
     "name": "Asdivine Dios",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA27941_00-EU0ADIOS00000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA27942_00",
@@ -122290,16 +122362,16 @@
   {
     "titleId": "PPSA28180_00",
     "conceptId": 229018,
-    "name": "Days Gone Remastered",
-    "contentId": null,
+    "name": "Days Gone: Remastered",
+    "contentId": "UP9000-PPSA28180_00-DAYSGONEREMASTER",
     "region": "UP",
     "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA28181_00",
     "conceptId": 229018,
-    "name": "Days Gone Remastered",
-    "contentId": null,
+    "name": "Days Gone: Remastered",
+    "contentId": "EP9000-PPSA28181_00-DAYSGONEREMASTER",
     "region": "EP",
     "publisherId": "EP9000"
   },
@@ -122730,10 +122802,10 @@
   {
     "titleId": "PPSA28304_00",
     "conceptId": 10009226,
-    "name": "Extreme Offroad Racing VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Extreme Offroad Racing VR Demo",
+    "contentId": "UP3362-PPSA28304_00-0415094612612732",
+    "region": "UP",
+    "publisherId": "UP3362"
   },
   {
     "titleId": "PPSA28305_00",
@@ -123752,6 +123824,14 @@
     "publisherId": "UP5988"
   },
   {
+    "titleId": "PPSA28660_00",
+    "conceptId": 10008118,
+    "name": "Fate Seeker II Demo",
+    "contentId": "HP8406-PPSA28660_00-0903924045811016",
+    "region": "HP",
+    "publisherId": "HP8406"
+  },
+  {
     "titleId": "PPSA28661_00",
     "conceptId": 10008118,
     "name": "Fate Seeker II Demo",
@@ -123835,17 +123915,17 @@
     "titleId": "PPSA28698_00",
     "conceptId": 10014319,
     "name": "Pixel Warrior",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28698_00-0207958065370544",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28699_00",
     "conceptId": 10014319,
     "name": "Pixel Warrior",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28699_00-0067347299728428",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28700_00",
@@ -123918,6 +123998,14 @@
     "contentId": "JP0393-PPSA28787_00-0468057738435341",
     "region": "JP",
     "publisherId": "JP0393"
+  },
+  {
+    "titleId": "PPSA28796_00",
+    "conceptId": 10014381,
+    "name": "Wall Town Wonders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28800_00",
@@ -124371,25 +124459,25 @@
     "titleId": "PPSA28992_00",
     "conceptId": 10014489,
     "name": "Sky Revolver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA28992_00-0282753815344346",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA28993_00",
     "conceptId": 10014489,
     "name": "Sky Revolver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA28993_00-0638458945222720",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA28994_00",
     "conceptId": 10014489,
     "name": "Sky Revolver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA28994_00-0869452408935489",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA28996_00",
@@ -125032,6 +125120,22 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA29375_00",
+    "conceptId": 10013256,
+    "name": "Super Waifu Ball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29376_00",
+    "conceptId": 10014050,
+    "name": "Detective - The Test",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29386_00",
     "conceptId": 10006158,
     "name": "TWO FACED",
@@ -125483,9 +125587,9 @@
     "titleId": "PPSA29801_00",
     "conceptId": 10014975,
     "name": "siMarket Cloth Store Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1029-PPSA29801_00-0214071584199495",
+    "region": "UB",
+    "publisherId": "UB1029"
   },
   {
     "titleId": "PPSA29821_00",
@@ -125550,5 +125654,21 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29904_00",
+    "conceptId": 10015036,
+    "name": "Theme Park Jam",
+    "contentId": "UB0337-PPSA29904_00-0909609925378361",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA30053_00",
+    "conceptId": 10015122,
+    "name": "Paper Plane",
+    "contentId": "UP7552-PPSA30053_00-0293384568913877",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
