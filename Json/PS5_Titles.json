@@ -51832,6 +51832,14 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA11001_00",
+    "conceptId": 10006435,
+    "name": "Post Trauma",
+    "contentId": "UP2320-PPSA11001_00-POSTTRAUMA000000",
+    "region": "UP",
+    "publisherId": "UP2320"
+  },
+  {
     "titleId": "PPSA11002_00",
     "conceptId": 10006435,
     "name": "Post Trauma",
@@ -68835,9 +68843,9 @@
     "titleId": "PPSA16010_00",
     "conceptId": 10008209,
     "name": "Hero-U: Rogue to Redemption",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA16010_00-0814958002767897",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA16011_00",
@@ -70435,9 +70443,9 @@
     "titleId": "PPSA16345_00",
     "conceptId": 10008348,
     "name": "NanoApostle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4293-PPSA16345_00-NANOAPOSTLEZZZZZ",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA16349_00",
@@ -76411,7 +76419,7 @@
     "titleId": "PPSA17599_00",
     "conceptId": 10008503,
     "name": "Clair Obscur: Expedition 33",
-    "contentId": null,
+    "contentId": "EP7579-PPSA17599_00-EXP33000000PS5EU",
     "region": "EP",
     "publisherId": "EP7579"
   },
@@ -81144,6 +81152,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA18690_00",
+    "conceptId": 10003364,
+    "name": "Lost Ruins",
+    "contentId": "UP4127-PPSA18690_00-LOSTRUINSUS00000",
+    "region": "UP",
+    "publisherId": "UP4127"
+  },
+  {
     "titleId": "PPSA18694_00",
     "conceptId": 10009271,
     "name": "House Of 1000 Doors: Evil Inside",
@@ -84843,9 +84859,9 @@
     "titleId": "PPSA19458_00",
     "conceptId": 10009547,
     "name": "Squarena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0427-PPSA19458_00-0965550006640037",
+    "region": "UB",
+    "publisherId": "UB0427"
   },
   {
     "titleId": "PPSA19461_00",
@@ -108928,6 +108944,14 @@
     "publisherId": "UB0227"
   },
   {
+    "titleId": "PPSA24779_00",
+    "conceptId": 10011547,
+    "name": "Captain Blood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24781_00",
     "conceptId": 10011875,
     "name": "Dreamcore",
@@ -119616,6 +119640,38 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA27323_00",
+    "conceptId": 10013357,
+    "name": "Toy Drop Balance Challenge",
+    "contentId": "UP7668-PPSA27323_00-0915446331562447",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27324_00",
+    "conceptId": 10013357,
+    "name": "Toy Drop Balance Challenge",
+    "contentId": "UP7668-PPSA27324_00-0703688274077399",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27325_00",
+    "conceptId": 10013357,
+    "name": "Toy Drop Balance Challenge",
+    "contentId": "UP7668-PPSA27325_00-0888764670478913",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27326_00",
+    "conceptId": 10013357,
+    "name": "Toy Drop Balance Challenge",
+    "contentId": "UP7668-PPSA27326_00-0884824353907683",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27333_00",
     "conceptId": 10013361,
     "name": "High Cars 2",
@@ -121582,6 +121638,14 @@
     "contentId": "EP7333-PPSA27930_00-0999506829280452",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA27931_00",
+    "conceptId": 10013798,
+    "name": "Colorful Boi 2",
+    "contentId": "JP7309-PPSA27931_00-0424214709188649",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA27932_00",
@@ -125578,10 +125642,10 @@
   {
     "titleId": "PPSA29740_00",
     "conceptId": 10014940,
-    "name": "A Blackout Protocol Report",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "A REPORT: Blackout Protocol",
+    "contentId": "HB1365-PPSA29740_00-0839912641881107",
+    "region": "HB",
+    "publisherId": "HB1365"
   },
   {
     "titleId": "PPSA29801_00",
@@ -125624,12 +125688,28 @@
     "publisherId": "JP7323"
   },
   {
-    "titleId": "PPSA29862_00",
-    "conceptId": 10015009,
-    "name": "Hell Froze Over",
+    "titleId": "PPSA29832_00",
+    "conceptId": 10014994,
+    "name": "Reflex Master: Sight",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29835_00",
+    "conceptId": 10014994,
+    "name": "Reflex Master: Sight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29862_00",
+    "conceptId": 10015009,
+    "name": "Hell Froze Over",
+    "contentId": "UP8553-PPSA29862_00-0663403085757007",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA29863_00",
@@ -125643,17 +125723,17 @@
     "titleId": "PPSA29864_00",
     "conceptId": 10015009,
     "name": "Hell Froze Over",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA29864_00-0151705704991416",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA29865_00",
     "conceptId": 10015009,
     "name": "Hell Froze Over",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA29865_00-0140528566739876",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA29904_00",
