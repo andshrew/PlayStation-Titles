@@ -118492,8 +118492,8 @@
     "conceptId": 10012383,
     "name": "Eternal Evil",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UB",
+    "publisherId": "UB0245"
   },
   {
     "titleId": "PPSA27038_00",
@@ -123064,6 +123064,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA28374_00",
+    "conceptId": 10014110,
+    "name": "King of drift 2",
+    "contentId": "EP5206-PPSA28374_00-0986649489083680",
+    "region": "EP",
+    "publisherId": "EP5206"
+  },
+  {
     "titleId": "PPSA28383_00",
     "conceptId": 10014124,
     "name": "Remember Valentine",
@@ -124576,6 +124584,14 @@
     "publisherId": "JP7843"
   },
   {
+    "titleId": "PPSA28998_00",
+    "conceptId": 10014490,
+    "name": "REX N RUN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29011_00",
     "conceptId": 10014503,
     "name": "Wings of Endless",
@@ -125128,6 +125144,38 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA29290_00",
+    "conceptId": 10014677,
+    "name": "Mystic Pathways",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29291_00",
+    "conceptId": 10014677,
+    "name": "Mystic Pathways",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29292_00",
+    "conceptId": 10014677,
+    "name": "Mystic Pathways",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29293_00",
+    "conceptId": 10014677,
+    "name": "Mystic Pathways",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29312_00",
     "conceptId": 10006003,
     "name": "WIPER",
@@ -125648,6 +125696,38 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA29679_00",
+    "conceptId": 10014886,
+    "name": "Penguin Flight: Beyond The Clouds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29680_00",
+    "conceptId": 10014886,
+    "name": "Penguin Flight: Beyond The Clouds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29681_00",
+    "conceptId": 10014886,
+    "name": "Penguin Flight: Beyond The Clouds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29682_00",
+    "conceptId": 10014886,
+    "name": "Penguin Flight: Beyond The Clouds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29690_00",
     "conceptId": 10014811,
     "name": "The Last of Us\u2122 Complete",
@@ -125656,20 +125736,52 @@
     "publisherId": null
   },
   {
-    "titleId": "PPSA29700_00",
-    "conceptId": 10014895,
-    "name": "1-2-Fantastic Word Search!",
+    "titleId": "PPSA29695_00",
+    "conceptId": 10014893,
+    "name": "Fit and Fry",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA29701_00",
-    "conceptId": 10014895,
-    "name": "1-2-Fantastic Word Search!",
+    "titleId": "PPSA29696_00",
+    "conceptId": 10014893,
+    "name": "Fit and Fry",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29697_00",
+    "conceptId": 10014893,
+    "name": "Fit and Fry",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29698_00",
+    "conceptId": 10014893,
+    "name": "Fit and Fry",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29700_00",
+    "conceptId": 10014895,
+    "name": "1-2-Fantastic Word Search!",
+    "contentId": "UP4947-PPSA29700_00-FANTASTICSEARCH1",
+    "region": "UP",
+    "publisherId": "UP4947"
+  },
+  {
+    "titleId": "PPSA29701_00",
+    "conceptId": 10014895,
+    "name": "1-2-Fantastic Word Search!",
+    "contentId": "EP5133-PPSA29701_00-FANTASTICSEARCH1",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA29715_00",
@@ -125710,6 +125822,38 @@
     "contentId": "HB1365-PPSA29740_00-0839912641881107",
     "region": "HB",
     "publisherId": "HB1365"
+  },
+  {
+    "titleId": "PPSA29790_00",
+    "conceptId": 10009588,
+    "name": "BALL TOUR",
+    "contentId": "HP5361-PPSA29790_00-0311593273704505",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA29791_00",
+    "conceptId": 10009588,
+    "name": "BALL TOUR",
+    "contentId": "JP5299-PPSA29791_00-0831327127412837",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA29792_00",
+    "conceptId": 10009588,
+    "name": "BALL TOUR",
+    "contentId": "EP5645-PPSA29792_00-0441154383415392",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29793_00",
+    "conceptId": 10009588,
+    "name": "BALL TOUR",
+    "contentId": "UP5464-PPSA29793_00-0562811641961690",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA29801_00",
@@ -125824,11 +125968,59 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA29956_00",
+    "conceptId": 10005872,
+    "name": "CATE P",
+    "contentId": "EP5645-PPSA29956_00-0600873052833133",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29961_00",
+    "conceptId": 10011626,
+    "name": "Warring Universe",
+    "contentId": "UB0569-PPSA29961_00-0867519590261493",
+    "region": "UB",
+    "publisherId": "UB0569"
+  },
+  {
     "titleId": "PPSA30053_00",
     "conceptId": 10015122,
     "name": "Paper Plane",
     "contentId": "UP7552-PPSA30053_00-0293384568913877",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA30120_00",
+    "conceptId": 10015149,
+    "name": "Guest Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30121_00",
+    "conceptId": 10015149,
+    "name": "Guest Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30122_00",
+    "conceptId": 10015149,
+    "name": "Guest Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30123_00",
+    "conceptId": 10015149,
+    "name": "Guest Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
