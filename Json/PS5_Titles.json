@@ -42824,6 +42824,14 @@
     "publisherId": "UP5180"
   },
   {
+    "titleId": "PPSA09520_00",
+    "conceptId": 10005853,
+    "name": "\u660e\u672b\uff1a\u30a6\u30c4\u30ed\u30ce\u30cf\u30cd",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0114"
+  },
+  {
     "titleId": "PPSA09522_00",
     "conceptId": 10005847,
     "name": "Killer Frequency",
@@ -95768,6 +95776,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21827_00",
+    "conceptId": 10010515,
+    "name": "Sir Whoopass: Immortal Death",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21830_00",
     "conceptId": 10010518,
     "name": "Pachi Pachi on a roll",
@@ -97930,8 +97946,8 @@
   {
     "titleId": "PPSA22327_00",
     "conceptId": 10010647,
-    "name": "Forza Horizon 5 Standard Edition",
-    "contentId": null,
+    "name": "Forza Horizon 5",
+    "contentId": "UP6312-PPSA22327_00-0629872585919347",
     "region": "UP",
     "publisherId": "UP6312"
   },
@@ -116618,8 +116634,8 @@
   {
     "titleId": "PPSA26492_00",
     "conceptId": 10012871,
-    "name": "FragPunk(F2P)",
-    "contentId": null,
+    "name": "FragPunk",
+    "contentId": "HP7588-PPSA26492_00-FRAGPUNKBGNE0000",
     "region": "HP",
     "publisherId": "HP7588"
   },
@@ -116726,6 +116742,14 @@
     "contentId": "UP1181-PPSA26539_00-TWATOGIRL0010000",
     "region": "UP",
     "publisherId": "UP1181"
+  },
+  {
+    "titleId": "PPSA26541_00",
+    "conceptId": 10011827,
+    "name": "Duck Detective: The Secret Salami",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26544_00",
@@ -118059,9 +118083,9 @@
     "titleId": "PPSA26906_00",
     "conceptId": 10013073,
     "name": "Lets castle!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7631-PPSA26906_00-0488813803534574",
+    "region": "UP",
+    "publisherId": "UP7631"
   },
   {
     "titleId": "PPSA26907_00",
@@ -118744,6 +118768,14 @@
     "publisherId": "UB0714"
   },
   {
+    "titleId": "PPSA27102_00",
+    "conceptId": 10013232,
+    "name": "The Sinking Forest - \u6c88\u3093\u3060\u68ee",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27104_00",
     "conceptId": 10011189,
     "name": "Shieldwall",
@@ -119043,9 +119075,9 @@
     "titleId": "PPSA27180_00",
     "conceptId": 10013262,
     "name": "Cooking Companions",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0600-PPSA27180_00-0837242185335853",
+    "region": "EP",
+    "publisherId": "EP0600"
   },
   {
     "titleId": "PPSA27182_00",
@@ -119478,6 +119510,22 @@
     "contentId": "EP7333-PPSA27283_00-0670797393565360",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA27284_00",
+    "conceptId": 10013343,
+    "name": "Holiday Eye Spy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27285_00",
+    "conceptId": 10013343,
+    "name": "Holiday Eye Spy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27286_00",
@@ -122408,6 +122456,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA28164_00",
+    "conceptId": 10013978,
+    "name": "Secret",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28165_00",
+    "conceptId": 10013978,
+    "name": "Secret",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28170_00",
     "conceptId": 10013980,
     "name": "Collectible Cars Shop Simulator",
@@ -123443,9 +123507,9 @@
     "titleId": "PPSA28525_00",
     "conceptId": 10014215,
     "name": "Blazing Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA28525_00-BLAZINGTRAIL0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28526_00",
@@ -123870,6 +123934,14 @@
     "contentId": "UP7939-PPSA28619_00-0265528575819244",
     "region": "UP",
     "publisherId": "UP7939"
+  },
+  {
+    "titleId": "PPSA28623_00",
+    "conceptId": 10014278,
+    "name": "Keeper's Toll",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28629_00",
@@ -124587,9 +124659,9 @@
     "titleId": "PPSA28998_00",
     "conceptId": 10014490,
     "name": "REX N RUN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8062-PPSA28998_00-0201196808911816",
+    "region": "EP",
+    "publisherId": "EP8062"
   },
   {
     "titleId": "PPSA29011_00",
@@ -124742,6 +124814,14 @@
     "contentId": "UP6410-PPSA29102_00-0896471929400473",
     "region": "UP",
     "publisherId": "UP6410"
+  },
+  {
+    "titleId": "PPSA29105_00",
+    "conceptId": 10014569,
+    "name": "Bunny Cubed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29106_00",
@@ -125163,9 +125243,9 @@
     "titleId": "PPSA29292_00",
     "conceptId": 10014677,
     "name": "Mystic Pathways",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA29292_00-0996014937606182",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA29293_00",
@@ -125246,6 +125326,22 @@
     "contentId": "HP7141-PPSA29339_00-0958911569363938",
     "region": "HP",
     "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA29350_00",
+    "conceptId": 10014722,
+    "name": "Blocky Blast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29351_00",
+    "conceptId": 10014722,
+    "name": "Blocky Blast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29358_00",
@@ -125856,6 +125952,14 @@
     "publisherId": "UP5464"
   },
   {
+    "titleId": "PPSA29799_00",
+    "conceptId": 10013190,
+    "name": "Duck Detective: The Ghost of Glamping",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29801_00",
     "conceptId": 10014975,
     "name": "siMarket Cloth Store Simulator",
@@ -125968,12 +126072,36 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA29954_00",
+    "conceptId": 10005872,
+    "name": "CATE P",
+    "contentId": "HP5361-PPSA29954_00-0417845510050378",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA29955_00",
+    "conceptId": 10005872,
+    "name": "CATE P",
+    "contentId": "JP5299-PPSA29955_00-0680219342251853",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
     "titleId": "PPSA29956_00",
     "conceptId": 10005872,
     "name": "CATE P",
     "contentId": "EP5645-PPSA29956_00-0600873052833133",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29957_00",
+    "conceptId": 10005872,
+    "name": "CATE P",
+    "contentId": "UP5464-PPSA29957_00-0957784717446315",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA29961_00",
