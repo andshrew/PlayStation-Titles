@@ -42824,6 +42824,14 @@
     "publisherId": "UP5180"
   },
   {
+    "titleId": "PPSA09518_00",
+    "conceptId": 10005853,
+    "name": "WUCHANG: Fallen Feathers",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4040"
+  },
+  {
     "titleId": "PPSA09520_00",
     "conceptId": 10005853,
     "name": "\u660e\u672b\uff1a\u30a6\u30c4\u30ed\u30ce\u30cf\u30cd",
@@ -80331,9 +80339,9 @@
     "titleId": "PPSA18493_00",
     "conceptId": 10009182,
     "name": "DIG VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4382-PPSA18493_00-DIGVRGAME0000000",
+    "region": "EP",
+    "publisherId": "EP4382"
   },
   {
     "titleId": "PPSA18494_00",
@@ -87776,6 +87784,14 @@
     "publisherId": "EP1121"
   },
   {
+    "titleId": "PPSA20082_00",
+    "conceptId": 10003895,
+    "name": "HYPERCHARGE Unboxed",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6131"
+  },
+  {
     "titleId": "PPSA20083_00",
     "conceptId": 10009773,
     "name": "Please Fix The Road",
@@ -93744,6 +93760,14 @@
     "publisherId": "EP2363"
   },
   {
+    "titleId": "PPSA21396_00",
+    "conceptId": 10010255,
+    "name": "Roboquest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21397_00",
     "conceptId": 10010332,
     "name": "Tank Frenzy",
@@ -96398,6 +96422,14 @@
     "contentId": "EB0448-PPSA21965_00-HOUSE0OF0GOLF100",
     "region": "EB",
     "publisherId": "EB0448"
+  },
+  {
+    "titleId": "PPSA21966_00",
+    "conceptId": 10009984,
+    "name": "DOOM: The Dark Ages",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21967_00",
@@ -100456,6 +100488,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA22856_00",
+    "conceptId": 10010917,
+    "name": "to a T",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22861_00",
     "conceptId": 10010278,
     "name": "Land Of Mushrooms",
@@ -102126,6 +102166,14 @@
     "contentId": "EP2946-PPSA23310_00-0797846115135541",
     "region": "EP",
     "publisherId": "EP2946"
+  },
+  {
+    "titleId": "PPSA23316_00",
+    "conceptId": 10011132,
+    "name": "Aureole - Wings of Hope",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23317_00",
@@ -108016,6 +108064,14 @@
     "publisherId": "EP6867"
   },
   {
+    "titleId": "PPSA24519_00",
+    "conceptId": 10010036,
+    "name": "Crystal of Atlan(F2P) PackI",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6477"
+  },
+  {
     "titleId": "PPSA24525_00",
     "conceptId": 10010269,
     "name": "Deathbound DEMO",
@@ -111651,7 +111707,7 @@
     "titleId": "PPSA25319_00",
     "conceptId": 10012137,
     "name": "MotoGP\u212225",
-    "contentId": null,
+    "contentId": "EP4356-PPSA25319_00-MOTOGP25FULLGAME",
     "region": "EP",
     "publisherId": "EP4356"
   },
@@ -114054,6 +114110,14 @@
     "contentId": "EB0805-PPSA25849_00-0935679690004031",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA25852_00",
+    "conceptId": 10012456,
+    "name": "Two Strikes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25859_00",
@@ -120938,10 +121002,10 @@
   {
     "titleId": "PPSA27709_00",
     "conceptId": 10013603,
-    "name": "CATO: Buttered Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CATO\uff08\u30ad\u30e3\u30c8\u30fc\uff09",
+    "contentId": "JP0122-PPSA27709_00-0819535728056332",
+    "region": "JP",
+    "publisherId": "JP0122"
   },
   {
     "titleId": "PPSA27711_00",
@@ -122114,10 +122178,10 @@
   {
     "titleId": "PPSA28034_00",
     "conceptId": 10013879,
-    "name": "I Am Your President",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "I am Your President",
+    "contentId": "EP5987-PPSA28034_00-ULGPRESIDENT0001",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA28043_00",
@@ -122272,12 +122336,28 @@
     "publisherId": "EP6698"
   },
   {
-    "titleId": "PPSA28111_00",
-    "conceptId": 10013936,
-    "name": "The House of Da Vinci VR",
+    "titleId": "PPSA28108_00",
+    "conceptId": 10013937,
+    "name": "Game Builder Tycoon",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28109_00",
+    "conceptId": 10013937,
+    "name": "Game Builder Tycoon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28111_00",
+    "conceptId": 10013936,
+    "name": "The House of Da Vinci VR",
+    "contentId": "EP6168-PPSA28111_00-0317487017125225",
+    "region": "EP",
+    "publisherId": "EP6168"
   },
   {
     "titleId": "PPSA28112_00",
@@ -122976,6 +123056,14 @@
     "publisherId": "EP0546"
   },
   {
+    "titleId": "PPSA28307_00",
+    "conceptId": 10014067,
+    "name": "Cats in Boxes",
+    "contentId": "UB1511-PPSA28307_00-0736819809704156",
+    "region": "UB",
+    "publisherId": "UB1511"
+  },
+  {
     "titleId": "PPSA28315_00",
     "conceptId": 10009640,
     "name": "B MATH",
@@ -123126,6 +123214,14 @@
     "contentId": "EP1612-PPSA28363_00-BUSCOINVENTURE00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA28368_00",
+    "conceptId": 10014106,
+    "name": "Trash is Fun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28374_00",
@@ -124755,9 +124851,9 @@
     "titleId": "PPSA29055_00",
     "conceptId": 10014532,
     "name": "Epic Empire: Tower Defense",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0837-PPSA29055_00-0101561673954854",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA29063_00",
@@ -124947,6 +125043,14 @@
     "titleId": "PPSA29155_00",
     "conceptId": 233121,
     "name": "Epic Roller Coasters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29166_00",
+    "conceptId": 10014614,
+    "name": "Hidden Kittens: Kingdom of Cats",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -125227,17 +125331,17 @@
     "titleId": "PPSA29290_00",
     "conceptId": 10014677,
     "name": "Mystic Pathways",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA29290_00-0809287830387840",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA29291_00",
     "conceptId": 10014677,
     "name": "Mystic Pathways",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA29291_00-0687198489541770",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA29292_00",
@@ -125251,9 +125355,9 @@
     "titleId": "PPSA29293_00",
     "conceptId": 10014677,
     "name": "Mystic Pathways",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA29293_00-0478242502858803",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA29312_00",
@@ -125691,17 +125795,17 @@
     "titleId": "PPSA29568_00",
     "conceptId": 10014819,
     "name": "Trainlax: Railway Puzzle Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0837-PPSA29568_00-0993538940929351",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA29571_00",
     "conceptId": 10014821,
     "name": "Bunker 22",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0837-PPSA29571_00-0935663127421137",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA29573_00",
@@ -125859,9 +125963,9 @@
     "titleId": "PPSA29698_00",
     "conceptId": 10014893,
     "name": "Fit and Fry",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA29698_00-0956129345487011",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA29700_00",
@@ -125878,6 +125982,14 @@
     "contentId": "EP5133-PPSA29701_00-FANTASTICSEARCH1",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA29706_00",
+    "conceptId": 10014897,
+    "name": "Pool Hop",
+    "contentId": "HB1069-PPSA29706_00-0826546055921521",
+    "region": "HB",
+    "publisherId": "HB1069"
   },
   {
     "titleId": "PPSA29715_00",
@@ -125899,9 +126011,9 @@
     "titleId": "PPSA29719_00",
     "conceptId": 10014907,
     "name": "ABSURDIKA: Rebuild",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0837-PPSA29719_00-0915095507230590",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA29721_00",
@@ -125966,6 +126078,22 @@
     "contentId": "UB1029-PPSA29801_00-0214071584199495",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA29812_00",
+    "conceptId": 10014985,
+    "name": "What comes after",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29813_00",
+    "conceptId": 10014985,
+    "name": "What comes after",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29821_00",
