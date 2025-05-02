@@ -56832,6 +56832,14 @@
     "publisherId": "UP5992"
   },
   {
+    "titleId": "PPSA13211_00",
+    "conceptId": 10007112,
+    "name": "Little Kitty, Big City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13214_00",
     "conceptId": 10006273,
     "name": "Souls of Chronos",
@@ -65602,10 +65610,10 @@
   {
     "titleId": "PPSA15428_00",
     "conceptId": 10007987,
-    "name": "despelote",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Despelote",
+    "contentId": "UP3971-PPSA15428_00-DESPELOTEXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP3971"
   },
   {
     "titleId": "PPSA15430_00",
@@ -101336,6 +101344,14 @@
     "publisherId": "UP1440"
   },
   {
+    "titleId": "PPSA23099_00",
+    "conceptId": 10011016,
+    "name": "Against the Storm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23100_00",
     "conceptId": 10011012,
     "name": "Snooker Blitz",
@@ -102168,6 +102184,14 @@
     "publisherId": "EP2946"
   },
   {
+    "titleId": "PPSA23315_00",
+    "conceptId": 10011132,
+    "name": "Aureole - Wings of Hope",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23316_00",
     "conceptId": 10011132,
     "name": "Aureole - Wings of Hope",
@@ -102666,10 +102690,10 @@
   {
     "titleId": "PPSA23430_00",
     "conceptId": 10008983,
-    "name": "KIBORG",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Kiborg",
+    "contentId": "JB0540-PPSA23430_00-0799915498928777",
+    "region": "JB",
+    "publisherId": "JB0540"
   },
   {
     "titleId": "PPSA23431_00",
@@ -111248,6 +111272,14 @@
     "publisherId": "HP0700"
   },
   {
+    "titleId": "PPSA25219_00",
+    "conceptId": 10012099,
+    "name": "Fuga: Melodies of Steel 3",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP4566"
+  },
+  {
     "titleId": "PPSA25220_00",
     "conceptId": 10012079,
     "name": "Vagrus - The Riven Realms",
@@ -116064,6 +116096,14 @@
     "publisherId": "EP3446"
   },
   {
+    "titleId": "PPSA26344_00",
+    "conceptId": 10003923,
+    "name": "Ghost of Y\u014dtei\u2122",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA26350_00",
     "conceptId": 10012775,
     "name": "Entropy Survivors",
@@ -120243,9 +120283,9 @@
     "titleId": "PPSA27510_00",
     "conceptId": 10013446,
     "name": "Peglin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2106-PPSA27510_00-PEGLINPS5SIEAGLO",
+    "region": "UP",
+    "publisherId": "UP2106"
   },
   {
     "titleId": "PPSA27512_00",
@@ -120438,6 +120478,22 @@
     "contentId": "UP4312-PPSA27549_00-0950532125282581",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA27550_00",
+    "conceptId": 10013381,
+    "name": "Aliens Revenge",
+    "contentId": "JP0089-PPSA27550_00-0710150430265017",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA27551_00",
+    "conceptId": 10013381,
+    "name": "Aliens Revenge",
+    "contentId": "HP4312-PPSA27551_00-0985763362257791",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA27552_00",
@@ -123147,9 +123203,9 @@
     "titleId": "PPSA28338_00",
     "conceptId": 10014087,
     "name": "Nico Saves The State",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28338_00-NICOSAVESTHESARG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28343_00",
@@ -123342,6 +123398,14 @@
     "contentId": "EP7333-PPSA28403_00-0005032749869112",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA28421_00",
+    "conceptId": 10014150,
+    "name": "Hannah\u2019s Day",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28422_00",
@@ -124312,6 +124376,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA28832_00",
+    "conceptId": 10014335,
+    "name": "Fireball 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28836_00",
     "conceptId": 10012592,
     "name": "I Have No Mouth, and I Must Scream",
@@ -124694,6 +124766,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28974_00",
+    "conceptId": 10014480,
+    "name": "BodyCam Zombie Waves",
+    "contentId": "UP5877-PPSA28974_00-0652228793057015",
+    "region": "UP",
+    "publisherId": "UP5877"
   },
   {
     "titleId": "PPSA28975_00",
@@ -125592,6 +125672,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29448_00",
+    "conceptId": 10014775,
+    "name": "Cazzarion: Little Dragon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29449_00",
     "conceptId": 10014775,
     "name": "Cazzarion: Little Dragon",
@@ -125675,6 +125763,14 @@
     "titleId": "PPSA29490_00",
     "conceptId": 10014811,
     "name": "The Last of Us\u2122 Complete",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29491_00",
+    "conceptId": 10014812,
+    "name": "Mostroscopy",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -125792,6 +125888,38 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA29532_00",
+    "conceptId": 10005866,
+    "name": "D LASER",
+    "contentId": "HP5361-PPSA29532_00-0000000000DLASER",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA29533_00",
+    "conceptId": 10005866,
+    "name": "D LASER",
+    "contentId": "JP5299-PPSA29533_00-0000000000DLASER",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA29534_00",
+    "conceptId": 10005866,
+    "name": "D LASER",
+    "contentId": "EP5645-PPSA29534_00-0000000000DLASER",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29536_00",
+    "conceptId": 10005866,
+    "name": "D LASER",
+    "contentId": "UP5464-PPSA29536_00-0000000000DLASER",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA29568_00",
     "conceptId": 10014819,
     "name": "Trainlax: Railway Puzzle Simulator",
@@ -125811,33 +125939,33 @@
     "titleId": "PPSA29573_00",
     "conceptId": 10014846,
     "name": "Twist It",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA29573_00-0856222951634217",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA29574_00",
     "conceptId": 10014846,
     "name": "Twist It",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA29574_00-0971629109116630",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA29575_00",
     "conceptId": 10014846,
     "name": "Twist It",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA29575_00-0247715129711815",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA29576_00",
     "conceptId": 10014846,
     "name": "Twist It",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA29576_00-0381124772230804",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA29577_00",
@@ -125846,6 +125974,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29578_00",
+    "conceptId": 10006470,
+    "name": "SNAKE 1",
+    "contentId": "EP5645-PPSA29578_00-0573567828894507",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29580_00",
+    "conceptId": 10006470,
+    "name": "SNAKE 1",
+    "contentId": "EP5645-PPSA29580_00-0794591774206815",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA29605_00",
@@ -125939,25 +126083,25 @@
     "titleId": "PPSA29695_00",
     "conceptId": 10014893,
     "name": "Fit and Fry",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA29695_00-0030553018348307",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA29696_00",
     "conceptId": 10014893,
     "name": "Fit and Fry",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA29696_00-0934414765835968",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA29697_00",
     "conceptId": 10014893,
     "name": "Fit and Fry",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA29697_00-0278059895181183",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA29698_00",
@@ -126131,33 +126275,33 @@
     "titleId": "PPSA29832_00",
     "conceptId": 10014994,
     "name": "Reflex Master: Sight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA29832_00-RFLXMASTRSIGHTNA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA29833_00",
     "conceptId": 10014994,
     "name": "Reflex Master: Sight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA29833_00-RFLXMASTRSIGHTEU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA29834_00",
     "conceptId": 10014994,
     "name": "Reflex Master: Sight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA29834_00-RFLXMASTRSIGHTJP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA29835_00",
     "conceptId": 10014994,
     "name": "Reflex Master: Sight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA29835_00-RFLXMASTRSIGHTAS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA29862_00",
@@ -126198,6 +126342,22 @@
     "contentId": "UB0337-PPSA29904_00-0909609925378361",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA29943_00",
+    "conceptId": 10015058,
+    "name": "Gang Blast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29946_00",
+    "conceptId": 10015060,
+    "name": "Tank Battle Retro",
+    "contentId": "UB0008-PPSA29946_00-0781739062633742",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA29954_00",
