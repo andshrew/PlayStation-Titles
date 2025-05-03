@@ -24,6 +24,7 @@
             <div class="w3-dropdown-click">
                 <button onclick="showMenu('table-filters')" class="w3-button">Filters</button>
                 <div id="table-filters" class="w3-dropdown-content w3-bar-block w3-card-4">
+                    <a onclick="filterTable('HasContentId', 'table-filters')" href="#" class="w3-bar-item w3-button w3-theme">Has Content Id</a>
                     <a onclick="filterTable('EP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-theme">Europe</a>
                     <a onclick="filterTable('UP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-theme">America</a>
                     <a onclick="filterTable('JP', 'table-filters')" href="#" class="w3-bar-item w3-button w3-theme">Japan</a>
@@ -105,6 +106,9 @@
                 let search = url.searchParams.get('concept')
                 $('#data-table').DataTable().column(1).search(search).draw();
             }
+            if (url.searchParams.get('hasContentId') != null) {
+                filterTable('HasContentId');
+            }
         });
 
         function filterTable(filter, parentId) {
@@ -120,6 +124,9 @@
                     break;
                 case 'other':
                     //$('#data-table').DataTable().columns(5).search('[^EP|^UP|^JP]', true, false).draw();
+                    break;
+                case 'HasContentId':
+                    $('#data-table').DataTable().column(3).search('.+', true, false).draw();
                     break;
                 default:
                     $('#data-table').DataTable().columns(5).search(filter).draw();
