@@ -76435,9 +76435,9 @@
     "titleId": "PPSA17595_00",
     "conceptId": 10008860,
     "name": "Spellcaster University",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5098-PPSA17595_00-0535734333503487",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA17597_00",
@@ -88627,17 +88627,17 @@
     "titleId": "PPSA20239_00",
     "conceptId": 10009837,
     "name": "SubwaySim 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA20239_00-0294125992859132",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA20240_00",
     "conceptId": 10009837,
     "name": "SubwaySim 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3003-PPSA20240_00-0567263738552165",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA20241_00",
@@ -98894,6 +98894,14 @@
     "contentId": "UP6963-PPSA22516_00-ZZZZZZZZZZZZZZZZ",
     "region": "UP",
     "publisherId": "UP6963"
+  },
+  {
+    "titleId": "PPSA22518_00",
+    "conceptId": 10010772,
+    "name": "Shovel Knight Dig",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22519_00",
@@ -110418,10 +110426,10 @@
   {
     "titleId": "PPSA25019_00",
     "conceptId": 10012010,
-    "name": "Royal Romances Series",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Royal Romances: Endless Winter CE",
+    "contentId": "UB0429-PPSA25019_00-ROYALROMANCESEW0",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA25020_00",
@@ -115019,9 +115027,9 @@
     "titleId": "PPSA26100_00",
     "conceptId": 10012611,
     "name": "Farewell of Life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA26100_00-0063681129476735",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA26101_00",
@@ -117435,6 +117443,14 @@
     "titleId": "PPSA26680_00",
     "conceptId": 10005570,
     "name": "Sonic Racing: CrossWorlds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26681_00",
+    "conceptId": 10012998,
+    "name": "The Abandoned Planet",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -124272,6 +124288,22 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA28725_00",
+    "conceptId": 10014288,
+    "name": "Donut Blast",
+    "contentId": "EP4312-PPSA28725_00-0380885361006926",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA28726_00",
+    "conceptId": 10014288,
+    "name": "Donut Blast",
+    "contentId": "UP4312-PPSA28726_00-0859915963712406",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA28747_00",
     "conceptId": 10012783,
     "name": "Once Upon A Puppet Artbook",
@@ -125731,17 +125763,17 @@
     "titleId": "PPSA29481_00",
     "conceptId": 10014808,
     "name": "Freddy Farmer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA29481_00-0248179195175699",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA29482_00",
     "conceptId": 10014808,
     "name": "Freddy Farmer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA29482_00-0077142230530028",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA29487_00",
@@ -125971,15 +126003,23 @@
     "titleId": "PPSA29577_00",
     "conceptId": 10006470,
     "name": "SNAKE 1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA29577_00-0331501665034223",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA29578_00",
     "conceptId": 10006470,
     "name": "SNAKE 1",
     "contentId": "EP5645-PPSA29578_00-0573567828894507",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29579_00",
+    "conceptId": 10006470,
+    "name": "SNAKE 1",
+    "contentId": "EP5645-PPSA29579_00-0237314664829208",
     "region": "EP",
     "publisherId": "EP5645"
   },
@@ -126347,9 +126387,9 @@
     "titleId": "PPSA29943_00",
     "conceptId": 10015058,
     "name": "Gang Blast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0337-PPSA29943_00-0163000140982756",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA29946_00",
@@ -126411,9 +126451,9 @@
     "titleId": "PPSA30120_00",
     "conceptId": 10015149,
     "name": "Guest Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA30120_00-0330718859838987",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA30121_00",
@@ -126427,16 +126467,16 @@
     "titleId": "PPSA30122_00",
     "conceptId": 10015149,
     "name": "Guest Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA30122_00-0446190543609591",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA30123_00",
     "conceptId": 10015149,
     "name": "Guest Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA30123_00-0915463998465063",
+    "region": "HP",
+    "publisherId": "HP8504"
   }
 ]
