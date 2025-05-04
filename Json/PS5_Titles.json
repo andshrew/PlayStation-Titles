@@ -94530,10 +94530,10 @@
   {
     "titleId": "PPSA21573_00",
     "conceptId": 10004979,
-    "name": "Two Falls - Nishu Takuatshina",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TwoFalls",
+    "contentId": "JP7253-PPSA21573_00-TWOFALLSTWOFALLS",
+    "region": "JP",
+    "publisherId": "JP7253"
   },
   {
     "titleId": "PPSA21574_00",
@@ -112928,6 +112928,14 @@
     "publisherId": "HP8406"
   },
   {
+    "titleId": "PPSA25582_00",
+    "conceptId": 10011976,
+    "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25583_00",
     "conceptId": 10012284,
     "name": "Pin Strike",
@@ -115035,9 +115043,9 @@
     "titleId": "PPSA26101_00",
     "conceptId": 10012611,
     "name": "Farewell of Life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA26101_00-0520544687093997",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA26102_00",
@@ -119860,6 +119868,38 @@
     "conceptId": 10013357,
     "name": "Toy Drop Balance Challenge",
     "contentId": "UP7668-PPSA27326_00-0884824353907683",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27328_00",
+    "conceptId": 10013358,
+    "name": "Candy Storm Bunny Catcher",
+    "contentId": "UP7668-PPSA27328_00-0902589531866686",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27329_00",
+    "conceptId": 10013358,
+    "name": "Candy Storm Bunny Catcher",
+    "contentId": "UP7668-PPSA27329_00-0536725412679581",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27330_00",
+    "conceptId": 10013358,
+    "name": "Candy Storm Bunny Catcher",
+    "contentId": "UP7668-PPSA27330_00-0734998775955197",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27331_00",
+    "conceptId": 10013358,
+    "name": "Candy Storm Bunny Catcher",
+    "contentId": "UP7668-PPSA27331_00-0288764180823330",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -125707,17 +125747,17 @@
     "titleId": "PPSA29448_00",
     "conceptId": 10014775,
     "name": "Cazzarion: Little Dragon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA29448_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA29449_00",
     "conceptId": 10014775,
     "name": "Cazzarion: Little Dragon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA29449_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA29452_00",
@@ -126038,6 +126078,38 @@
     "contentId": "UB0752-PPSA29605_00-0066764317553376",
     "region": "UB",
     "publisherId": "UB0752"
+  },
+  {
+    "titleId": "PPSA29613_00",
+    "conceptId": 10006466,
+    "name": "NUMBER LINE",
+    "contentId": "EP5645-PPSA29613_00-0862446127135608",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29614_00",
+    "conceptId": 10006466,
+    "name": "NUMBER LINE",
+    "contentId": "EP5645-PPSA29614_00-0588104176602472",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29615_00",
+    "conceptId": 10006466,
+    "name": "NUMBER LINE",
+    "contentId": "EP5645-PPSA29615_00-0639075016097088",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29616_00",
+    "conceptId": 10006466,
+    "name": "NUMBER LINE",
+    "contentId": "EP5645-PPSA29616_00-0200461950546662",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA29630_00",
@@ -126459,9 +126531,9 @@
     "titleId": "PPSA30121_00",
     "conceptId": 10015149,
     "name": "Guest Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA30121_00-0683077266822260",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA30122_00",
