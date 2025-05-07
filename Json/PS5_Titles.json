@@ -95408,6 +95408,14 @@
     "publisherId": "EP5903"
   },
   {
+    "titleId": "PPSA21734_00",
+    "conceptId": 10008577,
+    "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21735_00",
     "conceptId": 10004850,
     "name": "Trinity Fusion Demo",
@@ -108480,6 +108488,14 @@
     "publisherId": "UP1023"
   },
   {
+    "titleId": "PPSA24602_00",
+    "conceptId": 10008577,
+    "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24603_00",
     "conceptId": 10009622,
     "name": "\u300a\u9b54\u8fb2\u50b3\u8a18 FARMAGIA\u300b\u6578\u4f4d\u7f8e\u8853\u8a2d\u5b9a\u96c6\uff06\u539f\u8072\u5e36",
@@ -108874,10 +108890,10 @@
   {
     "titleId": "PPSA24677_00",
     "conceptId": 10011844,
-    "name": "Ghosts of Tabor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "GHOSTS OF TABOR",
+    "contentId": "UP7408-PPSA24677_00-0720696502679415",
+    "region": "UP",
+    "publisherId": "UP7408"
   },
   {
     "titleId": "PPSA24686_00",
@@ -116656,6 +116672,14 @@
     "publisherId": "UP8784"
   },
   {
+    "titleId": "PPSA26465_00",
+    "conceptId": 10012847,
+    "name": "Rally Arcade Classics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26466_00",
     "conceptId": 10012846,
     "name": "Rooftop Rascal: The Spooky Cat",
@@ -116990,6 +117014,14 @@
     "contentId": "HB0405-PPSA26562_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA26563_00",
+    "conceptId": 10012934,
+    "name": "Carrier Deck",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26565_00",
@@ -118286,6 +118318,14 @@
     "contentId": "EP6138-PPSA26920_00-0225419016464231",
     "region": "EP",
     "publisherId": "EP6138"
+  },
+  {
+    "titleId": "PPSA26923_00",
+    "conceptId": 10013105,
+    "name": "Nice Day for Fishing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26924_00",
@@ -120286,6 +120326,22 @@
     "contentId": "HP6900-PPSA27424_00-0719408335099234",
     "region": "HP",
     "publisherId": "HP6900"
+  },
+  {
+    "titleId": "PPSA27435_00",
+    "conceptId": 10013423,
+    "name": "The Jumping Apple - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27437_00",
+    "conceptId": 10013423,
+    "name": "The Jumping Apple - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27492_00",
@@ -122419,9 +122475,9 @@
     "titleId": "PPSA28074_00",
     "conceptId": 10013908,
     "name": "Submarine Survivor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA28074_00-SUBMARINESURVIVR",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28075_00",
@@ -123376,6 +123432,14 @@
     "publisherId": "EP5206"
   },
   {
+    "titleId": "PPSA28377_00",
+    "conceptId": 10014114,
+    "name": "Oil Refinery - The Simulation",
+    "contentId": "EP4902-PPSA28377_00-0281692613822364",
+    "region": "EP",
+    "publisherId": "EP4902"
+  },
+  {
     "titleId": "PPSA28383_00",
     "conceptId": 10014124,
     "name": "Remember Valentine",
@@ -124139,9 +124203,9 @@
     "titleId": "PPSA28599_00",
     "conceptId": 10014253,
     "name": "Stratogun",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5938-PPSA28599_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP5938"
   },
   {
     "titleId": "PPSA28612_00",
@@ -124273,6 +124337,14 @@
   },
   {
     "titleId": "PPSA28682_00",
+    "conceptId": 10014314,
+    "name": "Math Genius: Division",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28683_00",
     "conceptId": 10014314,
     "name": "Math Genius: Division",
     "contentId": null,
@@ -124459,9 +124531,9 @@
     "titleId": "PPSA28796_00",
     "conceptId": 10014381,
     "name": "Wall Town Wonders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5783-PPSA28796_00-WTW0000000000000",
+    "region": "HP",
+    "publisherId": "HP5783"
   },
   {
     "titleId": "PPSA28800_00",
@@ -124507,9 +124579,9 @@
     "titleId": "PPSA28832_00",
     "conceptId": 10014335,
     "name": "Fireball 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0766-PPSA28832_00-0541536336799488",
+    "region": "UB",
+    "publisherId": "UB0766"
   },
   {
     "titleId": "PPSA28836_00",
@@ -125568,6 +125640,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA29305_00",
+    "conceptId": 10012303,
+    "name": "FBC: Firebreak",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29312_00",
     "conceptId": 10006003,
     "name": "WIPER",
@@ -125899,9 +125979,9 @@
     "titleId": "PPSA29491_00",
     "conceptId": 10014812,
     "name": "Mostroscopy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5441-PPSA29491_00-0340325989894225",
+    "region": "JP",
+    "publisherId": "JP5441"
   },
   {
     "titleId": "PPSA29492_00",
@@ -126344,6 +126424,14 @@
     "publisherId": "HB1365"
   },
   {
+    "titleId": "PPSA29787_00",
+    "conceptId": 10011547,
+    "name": "Captain Blood Demo",
+    "contentId": "UP7949-PPSA29787_00-0000CAPTAINBLOOD",
+    "region": "UP",
+    "publisherId": "UP7949"
+  },
+  {
     "titleId": "PPSA29790_00",
     "conceptId": 10009588,
     "name": "BALL TOUR",
@@ -126574,6 +126662,38 @@
     "contentId": "UP7552-PPSA30053_00-0293384568913877",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA30063_00",
+    "conceptId": 10015127,
+    "name": "Death Kid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30064_00",
+    "conceptId": 10015127,
+    "name": "Death Kid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30065_00",
+    "conceptId": 10015127,
+    "name": "Death Kid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30066_00",
+    "conceptId": 10015127,
+    "name": "Death Kid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30120_00",
