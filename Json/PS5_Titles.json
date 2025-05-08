@@ -42832,6 +42832,14 @@
     "publisherId": "UP4040"
   },
   {
+    "titleId": "PPSA09519_00",
+    "conceptId": 10005853,
+    "name": "WUCHANG: Fallen Feathers",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4040"
+  },
+  {
     "titleId": "PPSA09520_00",
     "conceptId": 10005853,
     "name": "\u660e\u672b\uff1a\u30a6\u30c4\u30ed\u30ce\u30cf\u30cd",
@@ -88251,9 +88259,9 @@
     "titleId": "PPSA20154_00",
     "conceptId": 10009791,
     "name": "Revenge of the Savage Planet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7458-PPSA20154_00-REVESAVAGEPLANET",
+    "region": "UP",
+    "publisherId": "UP7458"
   },
   {
     "titleId": "PPSA20155_00",
@@ -93148,16 +93156,16 @@
     "conceptId": 10005832,
     "name": "The Night of the Rabbit",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP8923"
   },
   {
     "titleId": "PPSA21257_00",
     "conceptId": 10005832,
     "name": "The Night of the Rabbit",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP1440"
   },
   {
     "titleId": "PPSA21258_00",
@@ -95406,6 +95414,22 @@
     "contentId": "EP5903-PPSA21730_00-0117386687694236",
     "region": "EP",
     "publisherId": "EP5903"
+  },
+  {
+    "titleId": "PPSA21732_00",
+    "conceptId": 10008579,
+    "name": "S.T.A.L.K.E.R.: Call of Prypiat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21733_00",
+    "conceptId": 10008578,
+    "name": "S.T.A.L.K.E.R.: Clear Sky",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21734_00",
@@ -100275,9 +100299,9 @@
     "titleId": "PPSA22803_00",
     "conceptId": 10010880,
     "name": "King Arthur: Legion IX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0894-PPSA22803_00-KALEGIONIX000001",
+    "region": "EB",
+    "publisherId": "EB0894"
   },
   {
     "titleId": "PPSA22804_00",
@@ -102382,6 +102406,14 @@
     "contentId": "EP6922-PPSA23347_00-0267818394077683",
     "region": "EP",
     "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA23349_00",
+    "conceptId": 10011141,
+    "name": "SUBMERSED 2 - The Hive",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23352_00",
@@ -108488,6 +108520,22 @@
     "publisherId": "UP1023"
   },
   {
+    "titleId": "PPSA24600_00",
+    "conceptId": 10008579,
+    "name": "S.T.A.L.K.E.R.: Call of Prypiat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24601_00",
+    "conceptId": 10008578,
+    "name": "S.T.A.L.K.E.R.: Clear Sky",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24602_00",
     "conceptId": 10008577,
     "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
@@ -109091,9 +109139,9 @@
     "titleId": "PPSA24779_00",
     "conceptId": 10011547,
     "name": "Captain Blood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7949-PPSA24779_00-0000CAPTAINBLOOD",
+    "region": "UP",
+    "publisherId": "UP7949"
   },
   {
     "titleId": "PPSA24781_00",
@@ -109590,6 +109638,14 @@
     "contentId": "HP6147-PPSA24849_00-0823529134056996",
     "region": "HP",
     "publisherId": "HP6147"
+  },
+  {
+    "titleId": "PPSA24850_00",
+    "conceptId": 10011881,
+    "name": "I'm in Love With Your Dead Grandmother: Online Battle Royale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24859_00",
@@ -116896,6 +116952,22 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA26537_00",
+    "conceptId": 10012913,
+    "name": "City Bus Manager",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26538_00",
+    "conceptId": 10012913,
+    "name": "City Bus Manager",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26539_00",
     "conceptId": 10009957,
     "name": "the World According to Girl",
@@ -117054,6 +117126,14 @@
     "contentId": "EP4902-PPSA26570_00-0196823586533255",
     "region": "EP",
     "publisherId": "EP4902"
+  },
+  {
+    "titleId": "PPSA26576_00",
+    "conceptId": 10012764,
+    "name": "Tour de France 2025",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA26577_00",
@@ -117506,10 +117586,10 @@
   {
     "titleId": "PPSA26681_00",
     "conceptId": 10012998,
-    "name": "The Abandoned Planet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u898b\u6368\u3066\u3089\u308c\u305f\u60d1\u661f -The Abandoned Planet-",
+    "contentId": "EP8140-PPSA26681_00-TAPXSNAPBREAKPS5",
+    "region": "EP",
+    "publisherId": "EP8140"
   },
   {
     "titleId": "PPSA26684_00",
@@ -118324,8 +118404,8 @@
     "conceptId": 10013105,
     "name": "Nice Day for Fishing",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4064"
   },
   {
     "titleId": "PPSA26924_00",
@@ -118862,6 +118942,22 @@
     "contentId": "HB1351-PPSA27079_00-0854624722776379",
     "region": "HB",
     "publisherId": "HB1351"
+  },
+  {
+    "titleId": "PPSA27080_00",
+    "conceptId": 10013221,
+    "name": "ADVANCED V.G. Saturn Tribute PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27081_00",
+    "conceptId": 10013222,
+    "name": "STEAM-HEART'S Saturn Tribute PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27082_00",
@@ -120336,7 +120432,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27436_00",
+    "conceptId": 10013423,
+    "name": "The Jumping Apple - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27437_00",
+    "conceptId": 10013423,
+    "name": "The Jumping Apple - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27438_00",
     "conceptId": 10013423,
     "name": "The Jumping Apple - PS4 & PS5",
     "contentId": null,
@@ -121776,6 +121888,14 @@
     "publisherId": "JP0001"
   },
   {
+    "titleId": "PPSA27866_00",
+    "conceptId": 10012604,
+    "name": "EA SPORTS\u2122 Madden NFL 26",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27867_00",
     "conceptId": 10012604,
     "name": "EA SPORTS\u2122 Madden NFL 26",
@@ -122384,6 +122504,14 @@
     "publisherId": "JB1412"
   },
   {
+    "titleId": "PPSA28051_00",
+    "conceptId": 10013799,
+    "name": "AFL 26",
+    "contentId": "EP6665-PPSA28051_00-AFL2500000000000",
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA28057_00",
     "conceptId": 10013893,
     "name": "Finding Frankie",
@@ -122531,17 +122659,17 @@
     "titleId": "PPSA28108_00",
     "conceptId": 10013937,
     "name": "Game Builder Tycoon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA28108_00-CLAB3GBT20250113",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA28109_00",
     "conceptId": 10013937,
     "name": "Game Builder Tycoon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1564-PPSA28109_00-CLAB2GBT20250113",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA28111_00",
@@ -123192,6 +123320,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA28296_00",
+    "conceptId": 10013738,
+    "name": "Knock on the Coffin Lid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28299_00",
     "conceptId": 10014066,
     "name": "Dark Receipt",
@@ -123400,6 +123536,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA28358_00",
+    "conceptId": 10014086,
+    "name": "Cubic Odyssey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28363_00",
     "conceptId": 10014102,
     "name": "Pixicharm - Bus Coinventure",
@@ -123419,9 +123563,9 @@
     "titleId": "PPSA28368_00",
     "conceptId": 10014106,
     "name": "Trash is Fun",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8446-PPSA28368_00-0956940702762072",
+    "region": "UP",
+    "publisherId": "UP8446"
   },
   {
     "titleId": "PPSA28374_00",
@@ -123436,6 +123580,14 @@
     "conceptId": 10014114,
     "name": "Oil Refinery - The Simulation",
     "contentId": "EP4902-PPSA28377_00-0281692613822364",
+    "region": "EP",
+    "publisherId": "EP4902"
+  },
+  {
+    "titleId": "PPSA28378_00",
+    "conceptId": 10014114,
+    "name": "Oil Refinery - The Simulation",
+    "contentId": "EP4902-PPSA28378_00-0258825322076233",
     "region": "EP",
     "publisherId": "EP4902"
   },
@@ -126656,6 +126808,14 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "PPSA30013_00",
+    "conceptId": 10015087,
+    "name": "Ice Jump",
+    "contentId": "HB1069-PPSA30013_00-0826921644858745",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
     "titleId": "PPSA30053_00",
     "conceptId": 10015122,
     "name": "Paper Plane",
@@ -126726,5 +126886,21 @@
     "contentId": "HP8504-PPSA30123_00-0915463998465063",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA30295_00",
+    "conceptId": 10015247,
+    "name": "Space KaBAAM: Neon II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30296_00",
+    "conceptId": 10015247,
+    "name": "Space KaBAAM: Neon II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
