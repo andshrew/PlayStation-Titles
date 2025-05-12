@@ -114544,6 +114544,14 @@
     "publisherId": "JP2205"
   },
   {
+    "titleId": "PPSA25930_00",
+    "conceptId": 10012407,
+    "name": "Maniac",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25931_00",
     "conceptId": 10012406,
     "name": "Undying",
@@ -121592,6 +121600,14 @@
     "publisherId": "EP6470"
   },
   {
+    "titleId": "PPSA27750_00",
+    "conceptId": 10013634,
+    "name": "Foto Boy: Flashstar",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27760_00",
     "conceptId": 10013646,
     "name": "Gore Doctor",
@@ -124619,9 +124635,9 @@
     "titleId": "PPSA28681_00",
     "conceptId": 10014314,
     "name": "Math Genius: Division",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA28681_00-MATHGENIUSDIVIEU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA28682_00",
@@ -126152,6 +126168,22 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA29421_00",
+    "conceptId": 10014760,
+    "name": "Gemstones Rush Mania",
+    "contentId": "UP7668-PPSA29421_00-0966654378882491",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA29422_00",
+    "conceptId": 10014760,
+    "name": "Gemstones Rush Mania",
+    "contentId": "UP7668-PPSA29422_00-0727546683072705",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA29430_00",
     "conceptId": 10014761,
     "name": "Fruit Collector",
@@ -126792,12 +126824,76 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA29723_00",
+    "conceptId": 10007213,
+    "name": "PIN CLIMB",
+    "contentId": "EP5645-PPSA29723_00-0997577686628667",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29724_00",
+    "conceptId": 10007213,
+    "name": "PIN CLIMB",
+    "contentId": "EP5645-PPSA29724_00-0236886367346880",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29725_00",
+    "conceptId": 10007213,
+    "name": "PIN CLIMB",
+    "contentId": "EP5645-PPSA29725_00-0300182025700107",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29726_00",
+    "conceptId": 10007213,
+    "name": "PIN CLIMB",
+    "contentId": "EP5645-PPSA29726_00-0740591506670462",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA29740_00",
     "conceptId": 10014940,
     "name": "A REPORT: Blackout Protocol",
     "contentId": "HB1365-PPSA29740_00-0839912641881107",
     "region": "HB",
     "publisherId": "HB1365"
+  },
+  {
+    "titleId": "PPSA29743_00",
+    "conceptId": 10007216,
+    "name": "UP SHOT",
+    "contentId": "EP5645-PPSA29743_00-0980890498902996",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29744_00",
+    "conceptId": 10007216,
+    "name": "UP SHOT",
+    "contentId": "EP5645-PPSA29744_00-0021958538263407",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29745_00",
+    "conceptId": 10007216,
+    "name": "UP SHOT",
+    "contentId": "EP5645-PPSA29745_00-0927963589617865",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29748_00",
+    "conceptId": 10014943,
+    "name": "Soccer Golf!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29767_00",
@@ -127140,6 +127236,22 @@
     "conceptId": 10015231,
     "name": "The Flying Ship",
     "contentId": "UB0487-PPSA30289_00-0620123626811912",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30290_00",
+    "conceptId": 10015231,
+    "name": "The Flying Ship",
+    "contentId": "UB0487-PPSA30290_00-0617240437619314",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30291_00",
+    "conceptId": 10015231,
+    "name": "The Flying Ship",
+    "contentId": "UB0487-PPSA30291_00-0414453507825498",
     "region": "UB",
     "publisherId": "UB0487"
   },
