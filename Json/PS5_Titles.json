@@ -90640,6 +90640,14 @@
     "publisherId": "UP0006"
   },
   {
+    "titleId": "PPSA20622_00",
+    "conceptId": 10010001,
+    "name": "Palia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20625_00",
     "conceptId": 10010019,
     "name": "All You Need is Help",
@@ -116056,6 +116064,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26293_00",
+    "conceptId": 10008673,
+    "name": "Death end re;Quest Code Z Digital Art Book",
+    "contentId": "EP4060-PPSA26293_00-DRZVISUALBOOKPS5",
+    "region": "EP",
+    "publisherId": "EP4060"
+  },
+  {
+    "titleId": "PPSA26294_00",
+    "conceptId": 10008673,
+    "name": "Death end re;Quest Code Z",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26296_00",
     "conceptId": 10005321,
     "name": "Killing Floor 3",
@@ -124627,9 +124651,9 @@
     "titleId": "PPSA28680_00",
     "conceptId": 10014314,
     "name": "Math Genius: Division",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA28680_00-MATHGENIUSDIVINA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA28681_00",
@@ -124643,17 +124667,17 @@
     "titleId": "PPSA28682_00",
     "conceptId": 10014314,
     "name": "Math Genius: Division",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA28682_00-MATHGENIUSDIVIJP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA28683_00",
     "conceptId": 10014314,
     "name": "Math Genius: Division",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA28683_00-MATHGENIUSDIVIAS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA28689_00",
@@ -126472,6 +126496,14 @@
     "publisherId": "UP5464"
   },
   {
+    "titleId": "PPSA29567_00",
+    "conceptId": 10013527,
+    "name": "LILLIPUT HERO: MINIATURE WORLD",
+    "contentId": "HB1334-PPSA29567_00-0135900737728286",
+    "region": "HB",
+    "publisherId": "HB1334"
+  },
+  {
     "titleId": "PPSA29568_00",
     "conceptId": 10014819,
     "name": "Trainlax: Railway Puzzle Simulator",
@@ -126862,6 +126894,14 @@
     "contentId": "HB1365-PPSA29740_00-0839912641881107",
     "region": "HB",
     "publisherId": "HB1365"
+  },
+  {
+    "titleId": "PPSA29742_00",
+    "conceptId": 10007216,
+    "name": "UP SHOT",
+    "contentId": "EP5645-PPSA29742_00-0516780318802895",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA29743_00",
@@ -127280,6 +127320,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30297_00",
+    "conceptId": 10015247,
+    "name": "Space KaBAAM: Neon II",
+    "contentId": "HP7367-PPSA30297_00-0464201103093268",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA30298_00",
+    "conceptId": 10015247,
+    "name": "Space KaBAAM: Neon II",
+    "contentId": "JP7323-PPSA30298_00-0290353174169583",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
     "titleId": "PPSA30299_00",
     "conceptId": 10015252,
     "name": "Mythos Dash",
@@ -127307,6 +127363,30 @@
     "titleId": "PPSA30302_00",
     "conceptId": 10015252,
     "name": "Mythos Dash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30452_00",
+    "conceptId": 10015336,
+    "name": "Tung Tung Tung Sahur Runner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30453_00",
+    "conceptId": 10015336,
+    "name": "Tung Tung Tung Sahur Runner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30501_00",
+    "conceptId": 10012030,
+    "name": "Aidan In Danger",
     "contentId": null,
     "region": null,
     "publisherId": null
