@@ -68096,6 +68096,14 @@
     "publisherId": "EP6008"
   },
   {
+    "titleId": "PPSA15874_00",
+    "conceptId": 10008160,
+    "name": "Undead Citadel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15876_00",
     "conceptId": 10006967,
     "name": "Mia and the Dragon Princess",
@@ -112464,6 +112472,14 @@
     "publisherId": "UP6718"
   },
   {
+    "titleId": "PPSA25440_00",
+    "conceptId": 10012217,
+    "name": "Plot of the Druid",
+    "contentId": "UB1147-PPSA25440_00-0000000021631130",
+    "region": "UB",
+    "publisherId": "UB1147"
+  },
+  {
     "titleId": "PPSA25442_00",
     "conceptId": 10010629,
     "name": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30fb\u30d6\u30ec\u30a4\u30d6 \u30ea\u30de\u30b9\u30bf\u30fc\u30c9",
@@ -113864,6 +113880,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA25758_00",
+    "conceptId": 10012399,
+    "name": "Monster Train 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25759_00",
     "conceptId": 10007126,
     "name": "The Thaumaturge: Demo",
@@ -114427,9 +114451,17 @@
     "titleId": "PPSA25894_00",
     "conceptId": 10008673,
     "name": "Death end re;Quest Code Z",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0031-PPSA25894_00-DEATHENDREQUZ001",
+    "region": "UP",
+    "publisherId": "UP0031"
+  },
+  {
+    "titleId": "PPSA25895_00",
+    "conceptId": 10008673,
+    "name": "Death end re;Quest Code Z Digital Soundtrack",
+    "contentId": "UP0031-PPSA25895_00-DRZSOUNDTRACKPS5",
+    "region": "UP",
+    "publisherId": "UP0031"
   },
   {
     "titleId": "PPSA25898_00",
@@ -116059,9 +116091,9 @@
     "titleId": "PPSA26292_00",
     "conceptId": 10008673,
     "name": "Death end re;Quest Code Z",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4060-PPSA26292_00-DEATHENDREQUZ001",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA26293_00",
@@ -116074,10 +116106,10 @@
   {
     "titleId": "PPSA26294_00",
     "conceptId": 10008673,
-    "name": "Death end re;Quest Code Z",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Death end re;Quest Code Z Digital Soundtrack",
+    "contentId": "EP4060-PPSA26294_00-DRZSOUNDTRACKPS5",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA26296_00",
@@ -120968,6 +121000,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA27582_00",
+    "conceptId": 10013315,
+    "name": "Rooftops & Alleys: The Parkour Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27583_00",
     "conceptId": 10012749,
     "name": "Archery Legend",
@@ -122611,9 +122651,9 @@
     "titleId": "PPSA28027_00",
     "conceptId": 10013874,
     "name": "Super Engine GT Turbo SPEC",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA28027_00-SUPERENGINEGTSPE",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28029_00",
@@ -124214,6 +124254,14 @@
     "contentId": "UB0337-PPSA28540_00-0658323012502681",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA28541_00",
+    "conceptId": 10006880,
+    "name": "Labyrinth Of The Demon King Demo",
+    "contentId": "UP5155-PPSA28541_00-LABYRINTHDEMO000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA28545_00",
@@ -127112,6 +127160,38 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA29876_00",
+    "conceptId": 10015012,
+    "name": "Tower Girls",
+    "contentId": "JP7094-PPSA29876_00-0522219341852244",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA29877_00",
+    "conceptId": 10015012,
+    "name": "Tower Girls",
+    "contentId": "UP7126-PPSA29877_00-0639400451383415",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
+    "titleId": "PPSA29878_00",
+    "conceptId": 10015012,
+    "name": "Tower Girls",
+    "contentId": "EP7123-PPSA29878_00-0958800861146636",
+    "region": "EP",
+    "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA29879_00",
+    "conceptId": 10015012,
+    "name": "Tower Girls",
+    "contentId": "HP7141-PPSA29879_00-0928944607909466",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
     "titleId": "PPSA29904_00",
     "conceptId": 10015036,
     "name": "Theme Park Jam",
@@ -127232,6 +127312,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30073_00",
+    "conceptId": 10011854,
+    "name": "Blades of Fire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30074_00",
+    "conceptId": 10011854,
+    "name": "Blades of Fire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30075_00",
+    "conceptId": 10011854,
+    "name": "Blades of Fire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30113_00",
+    "conceptId": 10014662,
+    "name": "How 2 Escape: Lost Submarine - Demo",
+    "contentId": "EP8208-PPSA30113_00-HOW2ESCAPE2DEMO0",
+    "region": "EP",
+    "publisherId": "EP8208"
+  },
+  {
     "titleId": "PPSA30120_00",
     "conceptId": 10015149,
     "name": "Guest Rush",
@@ -127307,17 +127419,17 @@
     "titleId": "PPSA30295_00",
     "conceptId": 10015247,
     "name": "Space KaBAAM: Neon II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA30295_00-0394175439639987",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA30296_00",
     "conceptId": 10015247,
     "name": "Space KaBAAM: Neon II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA30296_00-0605268103293020",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA30297_00",
@@ -127339,9 +127451,9 @@
     "titleId": "PPSA30299_00",
     "conceptId": 10015252,
     "name": "Mythos Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA30299_00-0966991796461777",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA30300_00",
@@ -127355,17 +127467,17 @@
     "titleId": "PPSA30301_00",
     "conceptId": 10015252,
     "name": "Mythos Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA30301_00-0617949369061617",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA30302_00",
     "conceptId": 10015252,
     "name": "Mythos Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA30302_00-0778127593572385",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA30452_00",
@@ -127387,6 +127499,14 @@
     "titleId": "PPSA30501_00",
     "conceptId": 10012030,
     "name": "Aidan In Danger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30503_00",
+    "conceptId": 10011043,
+    "name": "Ginger - The Tooth Fairy",
     "contentId": null,
     "region": null,
     "publisherId": null
