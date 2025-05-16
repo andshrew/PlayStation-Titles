@@ -62328,6 +62328,14 @@
     "publisherId": "HP7099"
   },
   {
+    "titleId": "PPSA14251_00",
+    "conceptId": 10007134,
+    "name": "Mafia: The Old Country\r\n",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
+  },
+  {
     "titleId": "PPSA14255_00",
     "conceptId": 10007550,
     "name": "Mediaset Infinity",
@@ -69259,9 +69267,9 @@
     "titleId": "PPSA16086_00",
     "conceptId": 10003176,
     "name": "Smash Drums",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7200-PPSA16086_00-0367806268342241",
+    "region": "EP",
+    "publisherId": "EP7200"
   },
   {
     "titleId": "PPSA16088_00",
@@ -77027,9 +77035,9 @@
     "titleId": "PPSA17732_00",
     "conceptId": 10008902,
     "name": "The Precinct",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6959-PPSA17732_00-PRECINCTSCIEE000",
+    "region": "EP",
+    "publisherId": "EP6959"
   },
   {
     "titleId": "PPSA17735_00",
@@ -80016,6 +80024,14 @@
     "publisherId": "HP0957"
   },
   {
+    "titleId": "PPSA18401_00",
+    "conceptId": 10009150,
+    "name": "Shadows Over Loathing",
+    "contentId": "UP7915-PPSA18401_00-0958765696097415",
+    "region": "UP",
+    "publisherId": "UP7915"
+  },
+  {
     "titleId": "PPSA18403_00",
     "conceptId": 10008770,
     "name": "The Exorcist: Legion VR (Deluxe Edition)",
@@ -80694,6 +80710,14 @@
     "contentId": "EP0281-PPSA18572_00-0864337794575758",
     "region": "EP",
     "publisherId": "EP0281"
+  },
+  {
+    "titleId": "PPSA18579_00",
+    "conceptId": 10009150,
+    "name": "Shadows Over Loathing",
+    "contentId": "EP7913-PPSA18579_00-0857932248927661",
+    "region": "EP",
+    "publisherId": "EP7913"
   },
   {
     "titleId": "PPSA18582_00",
@@ -85246,6 +85270,14 @@
     "contentId": "EB0235-PPSA19544_00-FABLEDOMPS5SIEE0",
     "region": "EB",
     "publisherId": "EB0235"
+  },
+  {
+    "titleId": "PPSA19546_00",
+    "conceptId": 10008761,
+    "name": "Cookie Clicker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA19547_00",
@@ -90659,9 +90691,9 @@
     "titleId": "PPSA20622_00",
     "conceptId": 10010001,
     "name": "Palia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8389-PPSA20622_00-PALIA00000000000",
+    "region": "UP",
+    "publisherId": "UP8389"
   },
   {
     "titleId": "PPSA20625_00",
@@ -102283,17 +102315,17 @@
     "titleId": "PPSA23315_00",
     "conceptId": 10011132,
     "name": "Aureole - Wings of Hope",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA23315_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA23316_00",
     "conceptId": 10011132,
     "name": "Aureole - Wings of Hope",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA23316_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA23317_00",
@@ -108488,12 +108520,20 @@
     "publisherId": "EP4492"
   },
   {
-    "titleId": "PPSA24580_00",
+    "titleId": "PPSA24579_00",
     "conceptId": 10011792,
     "name": "Lost in Random: The Eternal Die",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24580_00",
+    "conceptId": 10011792,
+    "name": "Lost in Random: The Eternal Die",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5180"
   },
   {
     "titleId": "PPSA24581_00",
@@ -111472,6 +111512,14 @@
     "publisherId": "EP5470"
   },
   {
+    "titleId": "PPSA25224_00",
+    "conceptId": 10006473,
+    "name": "Quiz Thiz Austria",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25228_00",
     "conceptId": 10006395,
     "name": "Quiz Thiz Italy - DEMO",
@@ -113443,9 +113491,9 @@
     "titleId": "PPSA25653_00",
     "conceptId": 10006434,
     "name": "American Arcadia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2320-PPSA25653_00-AMERICANARCADIA0",
+    "region": "UP",
+    "publisherId": "UP2320"
   },
   {
     "titleId": "PPSA25656_00",
@@ -113510,6 +113558,14 @@
     "contentId": "UP1440-PPSA25677_00-TSORFARTBOOKPS5N",
     "region": "UP",
     "publisherId": "UP1440"
+  },
+  {
+    "titleId": "PPSA25680_00",
+    "conceptId": 10012341,
+    "name": "Drive Me Crazy",
+    "contentId": "UB0428-PPSA25680_00-0085081787312329",
+    "region": "UB",
+    "publisherId": "UB0428"
   },
   {
     "titleId": "PPSA25682_00",
@@ -117091,17 +117147,17 @@
     "titleId": "PPSA26537_00",
     "conceptId": 10012913,
     "name": "City Bus Manager",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA26537_00-0066991006433357",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA26538_00",
     "conceptId": 10012913,
     "name": "City Bus Manager",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA26538_00-0936965348463852",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA26539_00",
@@ -117827,9 +117883,9 @@
     "titleId": "PPSA26697_00",
     "conceptId": 10008672,
     "name": "Preserve",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4632-PPSA26697_00-00000000PRESERVE",
+    "region": "EP",
+    "publisherId": "EP4632"
   },
   {
     "titleId": "PPSA26698_00",
@@ -120656,6 +120712,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27451_00",
+    "conceptId": 10013425,
+    "name": "The Jumping Tomato Rush - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27452_00",
+    "conceptId": 10013425,
+    "name": "The Jumping Tomato Rush - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27454_00",
+    "conceptId": 10013425,
+    "name": "The Jumping Tomato Rush - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27492_00",
     "conceptId": 10012066,
     "name": "Next of Kin",
@@ -120811,9 +120891,9 @@
     "titleId": "PPSA27533_00",
     "conceptId": 10013464,
     "name": "Pirates VR: Jolly Roger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5279-PPSA27533_00-PIRATESVRJOLLYUS",
+    "region": "EP",
+    "publisherId": "EP5279"
   },
   {
     "titleId": "PPSA27535_00",
@@ -121083,9 +121163,9 @@
     "titleId": "PPSA27589_00",
     "conceptId": 10013512,
     "name": "Into the Restless Ruins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4459-PPSA27589_00-RESTLESSRUINSPS5",
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA27590_00",
@@ -122200,6 +122280,14 @@
     "publisherId": "EP6556"
   },
   {
+    "titleId": "PPSA27896_00",
+    "conceptId": 10012463,
+    "name": "EA SPORTS\u2122 College Football 26",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27898_00",
     "conceptId": 10013739,
     "name": "Breakout Beyond",
@@ -123232,6 +123320,14 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA28200_00",
+    "conceptId": 10013995,
+    "name": "Death Park: 4K Remaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28203_00",
     "conceptId": 10013941,
     "name": "Supermarket Manager Simulator",
@@ -123819,9 +123915,9 @@
     "titleId": "PPSA28367_00",
     "conceptId": 10014105,
     "name": "SYNESTHESIA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28367_00-SYNESTHESIARATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28368_00",
@@ -125096,6 +125192,14 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA28852_00",
+    "conceptId": 10014416,
+    "name": "Space Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28872_00",
     "conceptId": 10010911,
     "name": "KARMA: The Dark World EP",
@@ -125203,17 +125307,17 @@
     "titleId": "PPSA28917_00",
     "conceptId": 10014441,
     "name": "Garten of Banban 0",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA28917_00-GARTENOFBANBAN00",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA28918_00",
     "conceptId": 10014441,
     "name": "Garten of Banban 0",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA28918_00-GARTENOFBANBAN00",
+    "region": "EP",
+    "publisherId": "EP3385"
   },
   {
     "titleId": "PPSA28922_00",
@@ -125411,17 +125515,17 @@
     "titleId": "PPSA28964_00",
     "conceptId": 10014441,
     "name": "Garten of Banban 0",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA28964_00-GARTENOFBANBAN00",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA28965_00",
     "conceptId": 10014441,
     "name": "Garten of Banban 0",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA28965_00-GARTENOFBANBAN00",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA28974_00",
@@ -126712,6 +126816,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29589_00",
+    "conceptId": 10014800,
+    "name": "Alien Rush",
+    "contentId": "EP4312-PPSA29589_00-0165602582494982",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
     "titleId": "PPSA29605_00",
     "conceptId": 10014859,
     "name": "Monster Survivors",
@@ -127112,6 +127224,14 @@
     "publisherId": "UP5464"
   },
   {
+    "titleId": "PPSA29798_00",
+    "conceptId": 10013077,
+    "name": "Blue Wednesday",
+    "contentId": "EP3948-PPSA29798_00-0804238265387347",
+    "region": "EP",
+    "publisherId": "EP3948"
+  },
+  {
     "titleId": "PPSA29799_00",
     "conceptId": 10013190,
     "name": "Duck Detective: The Ghost of Glamping",
@@ -127174,6 +127294,38 @@
     "contentId": "JP7323-PPSA29824_00-0456432296628421",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA29825_00",
+    "conceptId": 10005864,
+    "name": "THUNDER",
+    "contentId": "HP5361-PPSA29825_00-0061086775662154",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA29826_00",
+    "conceptId": 10005864,
+    "name": "THUNDER",
+    "contentId": "JP5299-PPSA29826_00-0899603938175006",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA29827_00",
+    "conceptId": 10005864,
+    "name": "THUNDER",
+    "contentId": "EP5645-PPSA29827_00-0396875885655437",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29828_00",
+    "conceptId": 10005864,
+    "name": "THUNDER",
+    "contentId": "UP5464-PPSA29828_00-0278871767392377",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA29832_00",
@@ -127280,6 +127432,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA29908_00",
+    "conceptId": 10015044,
+    "name": "Magical Maze",
+    "contentId": "UB0008-PPSA29908_00-0204222193963122",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA29910_00",
     "conceptId": 10015046,
     "name": "Escape Route",
@@ -127363,25 +127523,25 @@
     "titleId": "PPSA30063_00",
     "conceptId": 10015127,
     "name": "Death Kid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6880-PPSA30063_00-0365532042808229",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA30064_00",
     "conceptId": 10015127,
     "name": "Death Kid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6883-PPSA30064_00-0180721434249791",
+    "region": "UP",
+    "publisherId": "UP6883"
   },
   {
     "titleId": "PPSA30065_00",
     "conceptId": 10015127,
     "name": "Death Kid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6849-PPSA30065_00-0616761494978929",
+    "region": "JP",
+    "publisherId": "JP6849"
   },
   {
     "titleId": "PPSA30066_00",
@@ -127394,26 +127554,26 @@
   {
     "titleId": "PPSA30073_00",
     "conceptId": 10011854,
-    "name": "Blades of Fire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Blades of Fire Demo",
+    "contentId": "EP4040-PPSA30073_00-DEMOBLADESOFFIRE",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA30074_00",
     "conceptId": 10011854,
-    "name": "Blades of Fire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Blades of Fire Demo",
+    "contentId": "UP4040-PPSA30074_00-DEMOBLADESOFFIRE",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA30075_00",
     "conceptId": 10011854,
-    "name": "Blades of Fire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Blades of Fire Demo",
+    "contentId": "JP0114-PPSA30075_00-DEMOBLADESOFFIRE",
+    "region": "JP",
+    "publisherId": "JP0114"
   },
   {
     "titleId": "PPSA30113_00",
@@ -127486,6 +127646,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30207_00",
+    "conceptId": 10015205,
+    "name": "Recycle Master",
+    "contentId": "UB0337-PPSA30207_00-0306809486350235",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA30289_00",
@@ -127611,6 +127779,14 @@
     "titleId": "PPSA30503_00",
     "conceptId": 10011043,
     "name": "Ginger - The Tooth Fairy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30505_00",
+    "conceptId": 10010972,
+    "name": "Dungeon Arsenal",
     "contentId": null,
     "region": null,
     "publisherId": null
