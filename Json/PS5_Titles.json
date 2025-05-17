@@ -90315,7 +90315,7 @@
     "titleId": "PPSA20560_00",
     "conceptId": 10009984,
     "name": "DOOM: The Dark Ages",
-    "contentId": null,
+    "contentId": "UP1003-PPSA20560_00-DTITAN0000000000",
     "region": "UP",
     "publisherId": "UP1003"
   },
@@ -96546,10 +96546,10 @@
   {
     "titleId": "PPSA21966_00",
     "conceptId": 10009984,
-    "name": "DOOM: The Dark Ages",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DOOM: The Dark Ages Digital Artbook and Original Soundtrack",
+    "contentId": "UP1003-PPSA21966_00-DTSTAB0000000000",
+    "region": "UP",
+    "publisherId": "UP1003"
   },
   {
     "titleId": "PPSA21967_00",
@@ -108524,8 +108524,8 @@
     "conceptId": 10011792,
     "name": "Lost in Random: The Eternal Die",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP5360"
   },
   {
     "titleId": "PPSA24580_00",
@@ -110848,6 +110848,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25089_00",
+    "conceptId": 10012040,
+    "name": "Bust a Block - DEMO",
+    "contentId": "HP6661-PPSA25089_00-0019078198924339",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA25090_00",
     "conceptId": 10012041,
     "name": "Color Swiper",
@@ -111514,10 +111522,34 @@
   {
     "titleId": "PPSA25224_00",
     "conceptId": 10006473,
-    "name": "Quiz Thiz Austria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Quiz Thiz Austria - DEMO",
+    "contentId": "EP6664-PPSA25224_00-0923489888811336",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25225_00",
+    "conceptId": 10006473,
+    "name": "Quiz Thiz Austria - DEMO",
+    "contentId": "UP6664-PPSA25225_00-0509865195794008",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25226_00",
+    "conceptId": 10006473,
+    "name": "Quiz Thiz Austria - DEMO",
+    "contentId": "JP6595-PPSA25226_00-0746603658807218",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA25227_00",
+    "conceptId": 10006473,
+    "name": "Quiz Thiz Austria - DEMO",
+    "contentId": "HP6661-PPSA25227_00-0747423760794768",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA25228_00",
@@ -120690,26 +120722,34 @@
   {
     "titleId": "PPSA27443_00",
     "conceptId": 10013424,
-    "name": "The Jumping Peach - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Peach",
+    "contentId": "EP6664-PPSA27443_00-0099789324394450",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA27444_00",
     "conceptId": 10013424,
-    "name": "The Jumping Peach - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Peach",
+    "contentId": "UP6664-PPSA27444_00-0990798932941719",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA27445_00",
+    "conceptId": 10013424,
+    "name": "The Jumping Peach",
+    "contentId": "JP6595-PPSA27445_00-0141530866173209",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA27446_00",
     "conceptId": 10013424,
-    "name": "The Jumping Peach - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Peach",
+    "contentId": "HP6661-PPSA27446_00-0559786278660774",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27451_00",
@@ -121386,18 +121426,18 @@
   {
     "titleId": "PPSA27638_00",
     "conceptId": 10013553,
-    "name": "Neon Apex: Beyond the Limit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neon Apex : Beyond The Limit",
+    "contentId": "EP5938-PPSA27638_00-25NEONAPEXPS5EUR",
+    "region": "EP",
+    "publisherId": "EP5938"
   },
   {
     "titleId": "PPSA27639_00",
     "conceptId": 10013553,
-    "name": "Neon Apex: Beyond the Limit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Neon Apex : Beyond The Limit",
+    "contentId": "EP5938-PPSA27639_00-25NEONAPEXPS5USA",
+    "region": "EP",
+    "publisherId": "EP5938"
   },
   {
     "titleId": "PPSA27656_00",
@@ -123211,9 +123251,9 @@
     "titleId": "PPSA28164_00",
     "conceptId": 10013978,
     "name": "Secret",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA28164_00-0718797223583831",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA28165_00",
@@ -123323,9 +123363,9 @@
     "titleId": "PPSA28200_00",
     "conceptId": 10013995,
     "name": "Death Park: 4K Remaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6556-PPSA28200_00-0183501718478848",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA28203_00",
@@ -124074,10 +124114,10 @@
   {
     "titleId": "PPSA28421_00",
     "conceptId": 10014150,
-    "name": "Hannah\u2019s Day",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hannah's Day",
+    "contentId": "UB0760-PPSA28421_00-0384404512297338",
+    "region": "UB",
+    "publisherId": "UB0760"
   },
   {
     "titleId": "PPSA28422_00",
@@ -126824,6 +126864,14 @@
     "publisherId": "EP4312"
   },
   {
+    "titleId": "PPSA29590_00",
+    "conceptId": 10014800,
+    "name": "Alien Rush",
+    "contentId": "UP4312-PPSA29590_00-0234470455903314",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
     "titleId": "PPSA29605_00",
     "conceptId": 10014859,
     "name": "Monster Survivors",
@@ -127392,6 +127440,38 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA29869_00",
+    "conceptId": 10005882,
+    "name": "TAPPUMP",
+    "contentId": "HP5361-PPSA29869_00-0604251772590211",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA29870_00",
+    "conceptId": 10005882,
+    "name": "TAPPUMP",
+    "contentId": "JP5299-PPSA29870_00-0359708540597282",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA29871_00",
+    "conceptId": 10005882,
+    "name": "TAPPUMP",
+    "contentId": "EP5645-PPSA29871_00-0282507568597247",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29872_00",
+    "conceptId": 10005882,
+    "name": "TAPPUMP",
+    "contentId": "UP5464-PPSA29872_00-0184080560309048",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA29876_00",
     "conceptId": 10015012,
     "name": "Tower Girls",
@@ -127436,6 +127516,14 @@
     "conceptId": 10015044,
     "name": "Magical Maze",
     "contentId": "UB0008-PPSA29908_00-0204222193963122",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA29909_00",
+    "conceptId": 10015045,
+    "name": "Blow Up Monsters",
+    "contentId": "UB0008-PPSA29909_00-0595238427980186",
     "region": "UB",
     "publisherId": "UB0008"
   },
@@ -127750,6 +127838,14 @@
     "contentId": "UP8553-PPSA30302_00-0778127593572385",
     "region": "UP",
     "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA30312_00",
+    "conceptId": 10008123,
+    "name": "Escape First Alchemist Demo",
+    "contentId": "UP5085-PPSA30312_00-0483934587405263",
+    "region": "UP",
+    "publisherId": "UP5085"
   },
   {
     "titleId": "PPSA30452_00",
