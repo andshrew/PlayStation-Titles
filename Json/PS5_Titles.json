@@ -56843,9 +56843,9 @@
     "titleId": "PPSA13211_00",
     "conceptId": 10007112,
     "name": "Little Kitty, Big City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8274-PPSA13211_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP8274"
   },
   {
     "titleId": "PPSA13214_00",
@@ -93419,9 +93419,9 @@
     "titleId": "PPSA21292_00",
     "conceptId": 10003472,
     "name": "IRON GUARD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7168-PPSA21292_00-0837542098116935",
+    "region": "UP",
+    "publisherId": "UP7168"
   },
   {
     "titleId": "PPSA21293_00",
@@ -110848,6 +110848,30 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25086_00",
+    "conceptId": 10012040,
+    "name": "Bust a Block - DEMO",
+    "contentId": "EP6664-PPSA25086_00-0536925368293695",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25087_00",
+    "conceptId": 10012040,
+    "name": "Bust a Block - DEMO",
+    "contentId": "UP6664-PPSA25087_00-0241718281904979",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25088_00",
+    "conceptId": 10012040,
+    "name": "Bust a Block - DEMO",
+    "contentId": "JP6595-PPSA25088_00-0874984465539761",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
     "titleId": "PPSA25089_00",
     "conceptId": 10012040,
     "name": "Bust a Block - DEMO",
@@ -110878,6 +110902,14 @@
     "contentId": "HP6661-PPSA25093_00-0109644594063813",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA25094_00",
+    "conceptId": 10012041,
+    "name": "Color Swiper - DEMO",
+    "contentId": "EP6664-PPSA25094_00-0934261086851662",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA25100_00",
@@ -123259,9 +123291,9 @@
     "titleId": "PPSA28165_00",
     "conceptId": 10013978,
     "name": "Secret",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA28165_00-0040369891400632",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA28170_00",
@@ -126464,6 +126496,22 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA29416_00",
+    "conceptId": 10014758,
+    "name": "Underwater Submarine Rush",
+    "contentId": "UP7668-PPSA29416_00-0327716446106944",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA29417_00",
+    "conceptId": 10014758,
+    "name": "Underwater Submarine Rush",
+    "contentId": "UP7668-PPSA29417_00-0706631251963750",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA29421_00",
     "conceptId": 10014760,
     "name": "Gemstones Rush Mania",
@@ -127598,6 +127646,38 @@
     "contentId": "HB1069-PPSA30013_00-0826921644858745",
     "region": "HB",
     "publisherId": "HB1069"
+  },
+  {
+    "titleId": "PPSA30016_00",
+    "conceptId": 10013071,
+    "name": "Trientank",
+    "contentId": "EP5645-PPSA30016_00-0000000TRIENTANK",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA30017_00",
+    "conceptId": 10013071,
+    "name": "Trientank",
+    "contentId": "EP5645-PPSA30017_00-0000000TRIENTANK",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA30018_00",
+    "conceptId": 10013071,
+    "name": "Trientank",
+    "contentId": "EP5645-PPSA30018_00-0000000TRIENTANK",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA30019_00",
+    "conceptId": 10013071,
+    "name": "Trientank",
+    "contentId": "EP5645-PPSA30019_00-0000000TRIENTANK",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA30053_00",
