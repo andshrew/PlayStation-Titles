@@ -101136,6 +101136,14 @@
     "publisherId": "UP5482"
   },
   {
+    "titleId": "PPSA23008_00",
+    "conceptId": 10010970,
+    "name": "Dark Deception: Monsters & Mortals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23012_00",
     "conceptId": 10010971,
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
@@ -109747,9 +109755,9 @@
     "titleId": "PPSA24850_00",
     "conceptId": 10011881,
     "name": "I'm in Love With Your Dead Grandmother: Online Battle Royale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7605-PPSA24850_00-0952180304824583",
+    "region": "UP",
+    "publisherId": "UP7605"
   },
   {
     "titleId": "PPSA24859_00",
@@ -110910,6 +110918,30 @@
     "contentId": "EP6664-PPSA25094_00-0934261086851662",
     "region": "EP",
     "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25095_00",
+    "conceptId": 10012041,
+    "name": "Color Swiper - DEMO",
+    "contentId": "UP6664-PPSA25095_00-0179553258811536",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25096_00",
+    "conceptId": 10012041,
+    "name": "Color Swiper - DEMO",
+    "contentId": "JP6595-PPSA25096_00-0951823814969680",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA25098_00",
+    "conceptId": 10012041,
+    "name": "Color Swiper - DEMO",
+    "contentId": "HP6661-PPSA25098_00-0163906533689016",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA25100_00",
@@ -127963,6 +127995,22 @@
     "titleId": "PPSA30505_00",
     "conceptId": 10010972,
     "name": "Dungeon Arsenal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30515_00",
+    "conceptId": 10015374,
+    "name": "Magnitude: Eta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30516_00",
+    "conceptId": 10015374,
+    "name": "Magnitude: Eta",
     "contentId": null,
     "region": null,
     "publisherId": null
