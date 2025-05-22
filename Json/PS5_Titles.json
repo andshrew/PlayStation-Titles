@@ -76184,6 +76184,14 @@
     "publisherId": "UP0891"
   },
   {
+    "titleId": "PPSA17525_00",
+    "conceptId": 10008829,
+    "name": "Gears of War: Reloaded",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17527_00",
     "conceptId": 10008524,
     "name": "The Legend of Legacy HD Remastered",
@@ -95498,10 +95506,10 @@
   {
     "titleId": "PPSA21732_00",
     "conceptId": 10008579,
-    "name": "S.T.A.L.K.E.R.: Call of Prypiat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stalker: Call of Prypiat",
+    "contentId": "EB0236-PPSA21732_00-0450712096375802",
+    "region": "EB",
+    "publisherId": "EB0236"
   },
   {
     "titleId": "PPSA21733_00",
@@ -108682,10 +108690,10 @@
   {
     "titleId": "PPSA24600_00",
     "conceptId": 10008579,
-    "name": "S.T.A.L.K.E.R.: Call of Prypiat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stalker: Call of Prypiat",
+    "contentId": "UB0046-PPSA24600_00-0528451001987257",
+    "region": "UB",
+    "publisherId": "UB0046"
   },
   {
     "titleId": "PPSA24601_00",
@@ -108698,10 +108706,10 @@
   {
     "titleId": "PPSA24602_00",
     "conceptId": 10008577,
-    "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stalker: Shadow of Chornobyl",
+    "contentId": "UB0046-PPSA24602_00-0361316214436572",
+    "region": "UB",
+    "publisherId": "UB0046"
   },
   {
     "titleId": "PPSA24603_00",
@@ -112416,6 +112424,22 @@
     "publisherId": "EP0700"
   },
   {
+    "titleId": "PPSA25383_00",
+    "conceptId": 10010683,
+    "name": "\u30db\u30e9\u30fc\u30c6\u30a4\u30eb\u30ba \u98e2\u3048\u308b\u8005",
+    "contentId": "JP1134-PPSA25383_00-0954688799860406",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
+    "titleId": "PPSA25384_00",
+    "conceptId": 10010683,
+    "name": "Horror Tales - The Beggar",
+    "contentId": "HP0980-PPSA25384_00-0999544111606865",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA25385_00",
     "conceptId": 10012170,
     "name": "The Phantom",
@@ -113299,9 +113323,9 @@
     "titleId": "PPSA25582_00",
     "conceptId": 10011976,
     "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0511-PPSA25582_00-0453975088630674",
+    "region": "UB",
+    "publisherId": "UB0511"
   },
   {
     "titleId": "PPSA25583_00",
@@ -118632,6 +118656,14 @@
     "publisherId": "EP1629"
   },
   {
+    "titleId": "PPSA26882_00",
+    "conceptId": 10013085,
+    "name": "Cattle Country",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26884_00",
     "conceptId": 10013088,
     "name": "Pets Hotel",
@@ -121546,8 +121578,8 @@
   {
     "titleId": "PPSA27625_00",
     "conceptId": 10013482,
-    "name": "FANTASY LIFE i: The Girl Who Steals Time PS4 & PS5",
-    "contentId": null,
+    "name": "FANTASY LIFE i: The Girl Who Steals Time",
+    "contentId": "JP0720-PPSA27625_00-FANTASYLIFEIGAME",
     "region": "JP",
     "publisherId": "JP0720"
   },
@@ -123883,9 +123915,9 @@
     "titleId": "PPSA28296_00",
     "conceptId": 10013738,
     "name": "Knock on the Coffin Lid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1478-PPSA28296_00-0581373574457760",
+    "region": "UB",
+    "publisherId": "UB1478"
   },
   {
     "titleId": "PPSA28299_00",
@@ -125848,6 +125880,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29037_00",
+    "conceptId": 10013085,
+    "name": "Cattle Country Demo",
+    "contentId": "EP1053-PPSA29037_00-0247894008874083",
+    "region": "EP",
+    "publisherId": "EP1053"
+  },
+  {
     "titleId": "PPSA29041_00",
     "conceptId": 10014526,
     "name": "Sakura Bunny Girls",
@@ -127208,6 +127248,30 @@
     "publisherId": "EP5265"
   },
   {
+    "titleId": "PPSA29675_00",
+    "conceptId": 10014884,
+    "name": "Legends Aligned: Minis in Conflict",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29676_00",
+    "conceptId": 10014884,
+    "name": "Legends Aligned: Minis in Conflict",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29677_00",
+    "conceptId": 10014884,
+    "name": "Legends Aligned: Minis in Conflict",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29679_00",
     "conceptId": 10014886,
     "name": "Penguin Flight: Beyond The Clouds",
@@ -127238,6 +127302,30 @@
     "contentId": "HP8462-PPSA29682_00-0437129879166823",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA29684_00",
+    "conceptId": 10014887,
+    "name": "Cipher Monk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29686_00",
+    "conceptId": 10014887,
+    "name": "Cipher Monk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29687_00",
+    "conceptId": 10014887,
+    "name": "Cipher Monk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29690_00",
@@ -127347,6 +127435,14 @@
     "titleId": "PPSA29716_00",
     "conceptId": 10014904,
     "name": "Zombies Overloaded",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29717_00",
+    "conceptId": 233072,
+    "name": "Rust Console Edition",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -127928,6 +128024,38 @@
     "publisherId": "JP0114"
   },
   {
+    "titleId": "PPSA30088_00",
+    "conceptId": 10015132,
+    "name": "Collie Call",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30089_00",
+    "conceptId": 10015132,
+    "name": "Collie Call",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30090_00",
+    "conceptId": 10015132,
+    "name": "Collie Call",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30102_00",
+    "conceptId": 10010040,
+    "name": "Lucy Dreaming",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30113_00",
     "conceptId": 10014662,
     "name": "How 2 Escape: Lost Submarine - Demo",
@@ -127984,6 +128112,14 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA30174_00",
+    "conceptId": 10015178,
+    "name": "The Wellmonts Case Demo",
+    "contentId": "UP7668-PPSA30174_00-0617913222578115",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA30180_00",
     "conceptId": 10015185,
     "name": "Hoop Shoot",
@@ -128006,6 +128142,14 @@
     "contentId": "UB0337-PPSA30207_00-0306809486350235",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA30240_00",
+    "conceptId": 10015215,
+    "name": "Anomaly Seeker: The Diner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30289_00",
@@ -128112,6 +128256,14 @@
     "publisherId": "UP5085"
   },
   {
+    "titleId": "PPSA30316_00",
+    "conceptId": 10015026,
+    "name": "Tralalero Tralala\u2122: Battle Royale",
+    "contentId": "UB0569-PPSA30316_00-0745130192268907",
+    "region": "UB",
+    "publisherId": "UB0569"
+  },
+  {
     "titleId": "PPSA30324_00",
     "conceptId": 10015266,
     "name": "Daemonfall",
@@ -128155,9 +128307,9 @@
     "titleId": "PPSA30452_00",
     "conceptId": 10015336,
     "name": "Tung Tung Tung Sahur Runner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA30452_00-TUNGSAHURSIEE000",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA30453_00",
@@ -128166,6 +128318,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30489_00",
+    "conceptId": 10015355,
+    "name": "Rolling Ball",
+    "contentId": "HB1069-PPSA30489_00-0100658927223609",
+    "region": "HB",
+    "publisherId": "HB1069"
   },
   {
     "titleId": "PPSA30501_00",
