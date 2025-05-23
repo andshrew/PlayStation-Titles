@@ -44803,7 +44803,7 @@
     "titleId": "PPSA09845_00",
     "conceptId": 10006025,
     "name": "RoadCraft",
-    "contentId": null,
+    "contentId": "UP4133-PPSA09845_00-ROADBUILDERGAME0",
     "region": "UP",
     "publisherId": "UP4133"
   },
@@ -95522,10 +95522,10 @@
   {
     "titleId": "PPSA21734_00",
     "conceptId": 10008577,
-    "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Stalker: Shadow of Chornobyl",
+    "contentId": "EB0236-PPSA21734_00-0778461500088717",
+    "region": "EB",
+    "publisherId": "EB0236"
   },
   {
     "titleId": "PPSA21735_00",
@@ -112672,6 +112672,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25431_00",
+    "conceptId": 10001133,
+    "name": "NOBUNAGA'S AMBITION: Awakening",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25432_00",
     "conceptId": 10012204,
     "name": "Hidden Cats in Spooky Town",
@@ -113683,7 +113691,7 @@
     "titleId": "PPSA25661_00",
     "conceptId": 10012329,
     "name": "Deliver At All Costs",
-    "contentId": null,
+    "contentId": "EP0101-PPSA25661_00-0069265015958452",
     "region": "EP",
     "publisherId": "EP0101"
   },
@@ -114139,9 +114147,9 @@
     "titleId": "PPSA25758_00",
     "conceptId": 10012399,
     "name": "Monster Train 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8909-PPSA25758_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP8909"
   },
   {
     "titleId": "PPSA25759_00",
@@ -114859,9 +114867,9 @@
     "titleId": "PPSA25930_00",
     "conceptId": 10012407,
     "name": "Maniac",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6337-PPSA25930_00-0509513320261391",
+    "region": "EP",
+    "publisherId": "EP6337"
   },
   {
     "titleId": "PPSA25931_00",
@@ -116403,7 +116411,7 @@
     "titleId": "PPSA26311_00",
     "conceptId": 10011854,
     "name": "Blades of Fire",
-    "contentId": null,
+    "contentId": "EP4040-PPSA26311_00-0000BLADESOFFIRE",
     "region": "EP",
     "publisherId": "EP4040"
   },
@@ -117355,9 +117363,9 @@
     "titleId": "PPSA26541_00",
     "conceptId": 10011827,
     "name": "Duck Detective: The Secret Salami",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1038-PPSA26541_00-DUCKDETECTIVE001",
+    "region": "UB",
+    "publisherId": "UB1038"
   },
   {
     "titleId": "PPSA26544_00",
@@ -118886,6 +118894,14 @@
     "contentId": "HP8462-PPSA26933_00-0243390118627603",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA26938_00",
+    "conceptId": 223683,
+    "name": "LEGO\u00ae  Harry Potter\u2122 Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26940_00",
@@ -121568,6 +121584,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA27619_00",
+    "conceptId": 10013507,
+    "name": "Valentine Revolution",
+    "contentId": "JP0089-PPSA27619_00-0124255399802760",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA27620_00",
+    "conceptId": 10013507,
+    "name": "Valentine Revolution",
+    "contentId": "HP4312-PPSA27620_00-0302560045116884",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA27621_00",
     "conceptId": 10012571,
     "name": "Just Crow Things",
@@ -122035,9 +122067,9 @@
     "titleId": "PPSA27750_00",
     "conceptId": 10013634,
     "name": "Foto Boy: Flashstar",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA27750_00-FOTOBOYFLASHSTAR",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA27760_00",
@@ -122896,6 +122928,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA27987_00",
+    "conceptId": 10013842,
+    "name": "Epyka",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27990_00",
     "conceptId": 10013844,
     "name": "We Could Be Heroes",
@@ -123496,6 +123536,14 @@
     "publisherId": "EP5077"
   },
   {
+    "titleId": "PPSA28178_00",
+    "conceptId": 10009855,
+    "name": "Cat Life Simulator",
+    "contentId": "UP8681-PPSA28178_00-0713100666769624",
+    "region": "UP",
+    "publisherId": "UP8681"
+  },
+  {
     "titleId": "PPSA28180_00",
     "conceptId": 229018,
     "name": "Days Gone: Remastered",
@@ -124040,6 +124088,14 @@
     "publisherId": "EP2402"
   },
   {
+    "titleId": "PPSA28329_00",
+    "conceptId": 10014077,
+    "name": "RoboCop: Rogue City - Unfinished Business",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA28332_00",
     "conceptId": 10012587,
     "name": "Doctor Simulator",
@@ -124344,6 +124400,14 @@
     "publisherId": "UB1364"
   },
   {
+    "titleId": "PPSA28457_00",
+    "conceptId": 10014162,
+    "name": "Somber Echoes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28458_00",
     "conceptId": 10014163,
     "name": "Parking Pro: Top-Down Challenge",
@@ -124523,6 +124587,14 @@
     "titleId": "PPSA28511_00",
     "conceptId": 10014012,
     "name": "Out of Sight",
+    "contentId": "EP3367-PPSA28511_00-0077902976859723",
+    "region": "EP",
+    "publisherId": "EP3367"
+  },
+  {
+    "titleId": "PPSA28514_00",
+    "conceptId": 10014148,
+    "name": "I Am Your Beast",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -125875,9 +125947,9 @@
     "titleId": "PPSA29021_00",
     "conceptId": 10014509,
     "name": "Lynked: Banner of the Spark",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7302-PPSA29021_00-LYNKEDBOTSGAME00",
+    "region": "UP",
+    "publisherId": "UP7302"
   },
   {
     "titleId": "PPSA29037_00",
@@ -126544,12 +126616,52 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29317_00",
+    "conceptId": 10014696,
+    "name": "Quisisana",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29330_00",
     "conceptId": 10014712,
     "name": "Football Quiz",
     "contentId": "HB1069-PPSA29330_00-0705864385895968",
     "region": "HB",
     "publisherId": "HB1069"
+  },
+  {
+    "titleId": "PPSA29331_00",
+    "conceptId": 10014713,
+    "name": "Higgs Boson: Puzzle Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29332_00",
+    "conceptId": 10014713,
+    "name": "Higgs Boson: Puzzle Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29333_00",
+    "conceptId": 10014713,
+    "name": "Higgs Boson: Puzzle Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29334_00",
+    "conceptId": 10014713,
+    "name": "Higgs Boson: Puzzle Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29335_00",
@@ -126627,9 +126739,9 @@
     "titleId": "PPSA29376_00",
     "conceptId": 10014050,
     "name": "Detective - The Test",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA29376_00-DETECTIVETHETEST",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA29386_00",
@@ -126742,6 +126854,14 @@
     "contentId": "UP7668-PPSA29422_00-0727546683072705",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA29425_00",
+    "conceptId": 10014642,
+    "name": "Ninja Stars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29430_00",
@@ -127272,6 +127392,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29678_00",
+    "conceptId": 10014884,
+    "name": "Legends Aligned: Minis in Conflict",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29679_00",
     "conceptId": 10014886,
     "name": "Penguin Flight: Beyond The Clouds",
@@ -127305,6 +127433,14 @@
   },
   {
     "titleId": "PPSA29684_00",
+    "conceptId": 10014887,
+    "name": "Cipher Monk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29685_00",
     "conceptId": 10014887,
     "name": "Cipher Monk",
     "contentId": null,
@@ -127472,6 +127608,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA29722_00",
+    "conceptId": 10014822,
+    "name": "Choice of Life: Wild Islands",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29723_00",
     "conceptId": 10007213,
     "name": "PIN CLIMB",
@@ -127547,9 +127691,9 @@
     "titleId": "PPSA29748_00",
     "conceptId": 10014943,
     "name": "Soccer Golf!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA29748_00-SOCCERGOLFRATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA29767_00",
@@ -127611,9 +127755,9 @@
     "titleId": "PPSA29799_00",
     "conceptId": 10013190,
     "name": "Duck Detective: The Ghost of Glamping",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1038-PPSA29799_00-DUCKDETECTIVE002",
+    "region": "UB",
+    "publisherId": "UB1038"
   },
   {
     "titleId": "PPSA29801_00",
@@ -127920,6 +128064,14 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "PPSA30007_00",
+    "conceptId": 10015080,
+    "name": "Burger Master",
+    "contentId": "UB0008-PPSA30007_00-0691572939835596",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA30013_00",
     "conceptId": 10015087,
     "name": "Ice Jump",
@@ -128048,6 +128200,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30091_00",
+    "conceptId": 10015132,
+    "name": "Collie Call",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30102_00",
     "conceptId": 10010040,
     "name": "Lucy Dreaming",
@@ -128104,6 +128264,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30148_00",
+    "conceptId": 10009136,
+    "name": "Copycat Demo",
+    "contentId": "UB0291-PPSA30148_00-DEMO000000000000",
+    "region": "UB",
+    "publisherId": "UB0291"
+  },
+  {
     "titleId": "PPSA30153_00",
     "conceptId": 10015169,
     "name": "Heist Man",
@@ -128144,7 +128312,39 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA30222_00",
+    "conceptId": 10015215,
+    "name": "Anomaly Seeker: The Diner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30240_00",
+    "conceptId": 10015215,
+    "name": "Anomaly Seeker: The Diner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30241_00",
+    "conceptId": 10015215,
+    "name": "Anomaly Seeker: The Diner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30242_00",
+    "conceptId": 10015215,
+    "name": "Anomaly Seeker: The Diner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30243_00",
     "conceptId": 10015215,
     "name": "Anomaly Seeker: The Diner",
     "contentId": null,
@@ -128264,6 +128464,14 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "PPSA30322_00",
+    "conceptId": 10015265,
+    "name": "CrimeBound Chronicles",
+    "contentId": "UP5877-PPSA30322_00-0840505695730903",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA30324_00",
     "conceptId": 10015266,
     "name": "Daemonfall",
@@ -128296,6 +128504,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30371_00",
+    "conceptId": 10015281,
+    "name": "Boomerang King",
+    "contentId": "UB0337-PPSA30371_00-0930529272668562",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA30431_00",
     "conceptId": 10015320,
     "name": "Tiny Pixels Vol. 2 - Stormy Knights",
@@ -128315,9 +128531,9 @@
     "titleId": "PPSA30453_00",
     "conceptId": 10015336,
     "name": "Tung Tung Tung Sahur Runner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0599-PPSA30453_00-TUNGSAHURSIEA000",
+    "region": "UB",
+    "publisherId": "UB0599"
   },
   {
     "titleId": "PPSA30489_00",
@@ -128331,17 +128547,17 @@
     "titleId": "PPSA30501_00",
     "conceptId": 10012030,
     "name": "Aidan In Danger",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0851-PPSA30501_00-0404815845936063",
+    "region": "UB",
+    "publisherId": "UB0851"
   },
   {
     "titleId": "PPSA30503_00",
     "conceptId": 10011043,
-    "name": "Ginger - The Tooth Fairy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gigner : The Tooth Fairy",
+    "contentId": "UB0851-PPSA30503_00-GINGER0PS5000000",
+    "region": "UB",
+    "publisherId": "UB0851"
   },
   {
     "titleId": "PPSA30505_00",
@@ -128366,5 +128582,21 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30517_00",
+    "conceptId": 10015374,
+    "name": "Magnitude: Eta",
+    "contentId": "HP7367-PPSA30517_00-0386027463884187",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA30518_00",
+    "conceptId": 10015374,
+    "name": "Magnitude: Eta",
+    "contentId": "JP7323-PPSA30518_00-0518005154879227",
+    "region": "JP",
+    "publisherId": "JP7323"
   }
 ]
