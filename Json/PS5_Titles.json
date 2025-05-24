@@ -44794,8 +44794,8 @@
   {
     "titleId": "PPSA09843_00",
     "conceptId": 10006025,
-    "name": "RoadCraft \u2013 Rebuild Edition",
-    "contentId": null,
+    "name": "RoadCraft",
+    "contentId": "EP4133-PPSA09843_00-ROADBUILDERGAME0",
     "region": "EP",
     "publisherId": "EP4133"
   },
@@ -75880,6 +75880,14 @@
     "publisherId": "EP1053"
   },
   {
+    "titleId": "PPSA17456_00",
+    "conceptId": 10008409,
+    "name": "Firefighting Simulator: Ignite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17464_00",
     "conceptId": 10008807,
     "name": "Barbie Project Friendship\u2122",
@@ -85291,9 +85299,9 @@
     "titleId": "PPSA19546_00",
     "conceptId": 10008761,
     "name": "Cookie Clicker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1655-PPSA19546_00-WEHAVETHECOOKIES",
+    "region": "UP",
+    "publisherId": "UP1655"
   },
   {
     "titleId": "PPSA19547_00",
@@ -99920,6 +99928,14 @@
     "publisherId": "HP6309"
   },
   {
+    "titleId": "PPSA22691_00",
+    "conceptId": 10010274,
+    "name": "Void Prison",
+    "contentId": "EP6958-PPSA22691_00-VOIDPRISONZZZZZZ",
+    "region": "EP",
+    "publisherId": "EP6958"
+  },
+  {
     "titleId": "PPSA22692_00",
     "conceptId": 10009684,
     "name": "PaladinsPassage",
@@ -101171,9 +101187,9 @@
     "titleId": "PPSA23007_00",
     "conceptId": 10010970,
     "name": "Dark Deception: Monsters & Mortals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0299-PPSA23007_00-0722825233336818",
+    "region": "UP",
+    "publisherId": "UP0299"
   },
   {
     "titleId": "PPSA23008_00",
@@ -116419,7 +116435,7 @@
     "titleId": "PPSA26312_00",
     "conceptId": 10011854,
     "name": "Blades of Fire",
-    "contentId": null,
+    "contentId": "UP4040-PPSA26312_00-0000BLADESOFFIRE",
     "region": "UP",
     "publisherId": "UP4040"
   },
@@ -116427,7 +116443,7 @@
     "titleId": "PPSA26313_00",
     "conceptId": 10011854,
     "name": "Blades of Fire",
-    "contentId": null,
+    "contentId": "JP0114-PPSA26313_00-0000BLADESOFFIRE",
     "region": "JP",
     "publisherId": "JP0114"
   },
@@ -116635,9 +116651,9 @@
     "titleId": "PPSA26367_00",
     "conceptId": 10012739,
     "name": "Trident's Tale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3185-PPSA26367_00-BASEGAME00000000",
+    "region": "EP",
+    "publisherId": "EP3185"
   },
   {
     "titleId": "PPSA26372_00",
@@ -117302,6 +117318,14 @@
     "contentId": "UB0675-PPSA26516_00-0146500451043715",
     "region": "UB",
     "publisherId": "UB0675"
+  },
+  {
+    "titleId": "PPSA26521_00",
+    "conceptId": 10012768,
+    "name": "GOALS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26522_00",
@@ -120251,17 +120275,17 @@
     "titleId": "PPSA27284_00",
     "conceptId": 10013343,
     "name": "Holiday Eye Spy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA27284_00-0317287743128024",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA27285_00",
     "conceptId": 10013343,
     "name": "Holiday Eye Spy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA27285_00-0037699297755559",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA27286_00",
@@ -122070,6 +122094,14 @@
     "contentId": "EP6470-PPSA27750_00-FOTOBOYFLASHSTAR",
     "region": "EP",
     "publisherId": "EP6470"
+  },
+  {
+    "titleId": "PPSA27759_00",
+    "conceptId": 10013644,
+    "name": "Arena Renovation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27760_00",
@@ -125008,6 +125040,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA28591_00",
+    "conceptId": 10011775,
+    "name": "Section 13",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28593_00",
     "conceptId": 10013998,
     "name": "Project 13: Nightwatch",
@@ -125944,6 +125984,22 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA29016_00",
+    "conceptId": 10014506,
+    "name": "Amber Alert Director's cut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29017_00",
+    "conceptId": 10014506,
+    "name": "Amber Alert Director's cut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29021_00",
     "conceptId": 10014509,
     "name": "Lynked: Banner of the Spark",
@@ -126376,6 +126432,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA29236_00",
+    "conceptId": 10008217,
+    "name": "The Alters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29238_00",
     "conceptId": 10014652,
     "name": "Anime Waifu Simulator: Sakura Garden",
@@ -126619,9 +126683,9 @@
     "titleId": "PPSA29317_00",
     "conceptId": 10014696,
     "name": "Quisisana",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6681-PPSA29317_00-0755279568885291",
+    "region": "EP",
+    "publisherId": "EP6681"
   },
   {
     "titleId": "PPSA29330_00",
@@ -126859,9 +126923,17 @@
     "titleId": "PPSA29425_00",
     "conceptId": 10014642,
     "name": "Ninja Stars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA29425_00-0078489830958657",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA29426_00",
+    "conceptId": 10014642,
+    "name": "Ninja Stars",
+    "contentId": "UP4312-PPSA29426_00-0080141765729006",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA29430_00",
@@ -127880,6 +127952,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA29845_00",
+    "conceptId": 10010633,
+    "name": "Cop Officers: Police Simulator of NYPD City",
+    "contentId": "UP8703-PPSA29845_00-0606043934029817",
+    "region": "UP",
+    "publisherId": "UP8703"
+  },
+  {
     "titleId": "PPSA29862_00",
     "conceptId": 10015009,
     "name": "Hell Froze Over",
@@ -128298,10 +128378,18 @@
   {
     "titleId": "PPSA30203_00",
     "conceptId": 10011792,
-    "name": "Lost in Random: The Eternal Die",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lost in Random: The Eternal Die Demo",
+    "contentId": "EP5360-PPSA30203_00-0749864309136817",
+    "region": "EP",
+    "publisherId": "EP5360"
+  },
+  {
+    "titleId": "PPSA30204_00",
+    "conceptId": 10011792,
+    "name": "Lost in Random: The Eternal Die Demo",
+    "contentId": "UP5180-PPSA30204_00-0269513142371429",
+    "region": "UP",
+    "publisherId": "UP5180"
   },
   {
     "titleId": "PPSA30207_00",
@@ -128536,6 +128624,14 @@
     "publisherId": "UB0599"
   },
   {
+    "titleId": "PPSA30486_00",
+    "conceptId": 10015353,
+    "name": "Masters Pool HD",
+    "contentId": "UP7552-PPSA30486_00-0844894177133992",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA30489_00",
     "conceptId": 10015355,
     "name": "Rolling Ball",
@@ -128563,25 +128659,25 @@
     "titleId": "PPSA30505_00",
     "conceptId": 10010972,
     "name": "Dungeon Arsenal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0851-PPSA30505_00-0054988948004377",
+    "region": "UB",
+    "publisherId": "UB0851"
   },
   {
     "titleId": "PPSA30515_00",
     "conceptId": 10015374,
     "name": "Magnitude: Eta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA30515_00-0559207572145787",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA30516_00",
     "conceptId": 10015374,
     "name": "Magnitude: Eta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA30516_00-0282098276621759",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA30517_00",
