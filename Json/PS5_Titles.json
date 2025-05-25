@@ -84699,9 +84699,9 @@
     "titleId": "PPSA19411_00",
     "conceptId": 10009530,
     "name": "Tainted Grail: Fall of Avalon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8388-PPSA19411_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP8388"
   },
   {
     "titleId": "PPSA19412_00",
@@ -90646,6 +90646,14 @@
     "contentId": "HP1792-PPSA20607_00-SYPS5SWEETESTMON",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA20608_00",
+    "conceptId": 10010012,
+    "name": "Splitgate 2",
+    "contentId": "UP5988-PPSA20608_00-SPLITGATE2PS5000",
+    "region": "UP",
+    "publisherId": "UP5988"
   },
   {
     "titleId": "PPSA20609_00",
@@ -101195,17 +101203,17 @@
     "titleId": "PPSA23008_00",
     "conceptId": 10010970,
     "name": "Dark Deception: Monsters & Mortals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0297-PPSA23008_00-0096252516040855",
+    "region": "EP",
+    "publisherId": "EP0297"
   },
   {
     "titleId": "PPSA23009_00",
     "conceptId": 10010970,
     "name": "Dark Deception: Monsters & Mortals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0559-PPSA23009_00-0631764124075587",
+    "region": "JP",
+    "publisherId": "JP0559"
   },
   {
     "titleId": "PPSA23010_00",
@@ -114595,9 +114603,9 @@
     "titleId": "PPSA25852_00",
     "conceptId": 10012456,
     "name": "Two Strikes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8767-PPSA25852_00-0477214502126426",
+    "region": "UP",
+    "publisherId": "UP8767"
   },
   {
     "titleId": "PPSA25859_00",
@@ -122336,6 +122344,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA27800_00",
+    "conceptId": 10013681,
+    "name": "Cazzarion: Fishing",
+    "contentId": "JB0377-PPSA27800_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
     "titleId": "PPSA27802_00",
     "conceptId": 10013683,
     "name": "All in Abyss: Judge the Fake",
@@ -122694,6 +122710,22 @@
     "contentId": "EB0629-PPSA27919_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA27920_00",
+    "conceptId": 10013777,
+    "name": "Cazzarion: Builder",
+    "contentId": "JB0377-PPSA27920_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA27921_00",
+    "conceptId": 10013777,
+    "name": "Cazzarion: Builder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27923_00",
