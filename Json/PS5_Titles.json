@@ -10160,6 +10160,14 @@
     "publisherId": "UP1470"
   },
   {
+    "titleId": "PPSA03537_00",
+    "conceptId": 232234,
+    "name": "Truck Driver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03540_00",
     "conceptId": 10002788,
     "name": "EA SPORTS\u2122 UFC\u00ae 5",
@@ -108800,6 +108808,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA24616_00",
+    "conceptId": 233072,
+    "name": "Rust Console Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4415"
+  },
+  {
     "titleId": "PPSA24617_00",
     "conceptId": 10011813,
     "name": "The Beastmaster Princess",
@@ -121016,6 +121032,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27461_00",
+    "conceptId": 10013426,
+    "name": "The Jumping Melon Rush 2 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27492_00",
     "conceptId": 10012066,
     "name": "Next of Kin",
@@ -124664,6 +124688,14 @@
     "publisherId": "UB0797"
   },
   {
+    "titleId": "PPSA28508_00",
+    "conceptId": 10014204,
+    "name": "Through the Nightmares",
+    "contentId": "EP8247-PPSA28508_00-THRNIGHTMARESPS5",
+    "region": "EP",
+    "publisherId": "EP8247"
+  },
+  {
     "titleId": "PPSA28511_00",
     "conceptId": 10014012,
     "name": "Out of Sight",
@@ -125091,9 +125123,9 @@
     "titleId": "PPSA28591_00",
     "conceptId": 10011775,
     "name": "Section 13",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6480-PPSA28591_00-SECTION13GLOBAL1",
+    "region": "EP",
+    "publisherId": "EP6480"
   },
   {
     "titleId": "PPSA28593_00",
@@ -127176,6 +127208,38 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29496_00",
+    "conceptId": 10005373,
+    "name": "Hermit's Tic-Tac-Toe",
+    "contentId": "HP5361-PPSA29496_00-0012634948001845",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA29497_00",
+    "conceptId": 10005373,
+    "name": "Hermit's Tic-Tac-Toe",
+    "contentId": "JP5299-PPSA29497_00-0241584755395526",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA29498_00",
+    "conceptId": 10005373,
+    "name": "Hermit's Tic-Tac-Toe",
+    "contentId": "EP5645-PPSA29498_00-0860848304069203",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29499_00",
+    "conceptId": 10005373,
+    "name": "Hermit's Tic-Tac-Toe",
+    "contentId": "UP5464-PPSA29499_00-0986123663222919",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA29502_00",
     "conceptId": 10006230,
     "name": "D MISSILE",
@@ -128670,6 +128734,38 @@
     "contentId": "UB0337-PPSA30371_00-0930529272668562",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA30421_00",
+    "conceptId": 10015314,
+    "name": "The Jumping Stars",
+    "contentId": "UB0487-PPSA30421_00-0129690419580018",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30422_00",
+    "conceptId": 10015314,
+    "name": "The Jumping Stars",
+    "contentId": "UB0487-PPSA30422_00-0633642777883137",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30423_00",
+    "conceptId": 10015314,
+    "name": "The Jumping Stars",
+    "contentId": "UB0487-PPSA30423_00-0195489279144221",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30424_00",
+    "conceptId": 10015314,
+    "name": "The Jumping Stars",
+    "contentId": "UB0487-PPSA30424_00-0730550142796575",
+    "region": "UB",
+    "publisherId": "UB0487"
   },
   {
     "titleId": "PPSA30431_00",
