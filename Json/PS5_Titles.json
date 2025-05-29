@@ -98144,6 +98144,30 @@
     "publisherId": "UP2233"
   },
   {
+    "titleId": "PPSA22319_00",
+    "conceptId": 10010701,
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8I\uff06II",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA22321_00",
+    "conceptId": 10010701,
+    "name": "DRAGON QUEST I & II HD-2D Remake",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA22322_00",
+    "conceptId": 10010701,
+    "name": "DRAGON QUEST I & II HD-2D Remake",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
     "titleId": "PPSA22327_00",
     "conceptId": 10010647,
     "name": "Forza Horizon 5",
@@ -99563,9 +99587,9 @@
     "titleId": "PPSA22623_00",
     "conceptId": 10010814,
     "name": "Zombie Cure Lab",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA22623_00-0940801774671994",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA22624_00",
@@ -100438,6 +100462,14 @@
     "contentId": "EB0629-PPSA22781_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA22788_00",
+    "conceptId": 10010892,
+    "name": "Date Everything!",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4064"
   },
   {
     "titleId": "PPSA22803_00",
@@ -105451,9 +105483,9 @@
     "titleId": "PPSA23953_00",
     "conceptId": 10011382,
     "name": "Pipistrello and the Cursed Yoyo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA23953_00-PIPISTRELLO00000",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA23957_00",
@@ -107472,6 +107504,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24351_00",
+    "conceptId": 10011682,
+    "name": "Antro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24352_00",
     "conceptId": 10011087,
     "name": "Trivia: Knowledge Trainer - the Quiz Game",
@@ -108354,8 +108394,8 @@
   {
     "titleId": "PPSA24519_00",
     "conceptId": 10010036,
-    "name": "Crystal of Atlan(F2P) PackI",
-    "contentId": null,
+    "name": "Crystal of Atlan",
+    "contentId": "UP6477-PPSA24519_00-0385257068982834",
     "region": "UP",
     "publisherId": "UP6477"
   },
@@ -112451,9 +112491,9 @@
     "titleId": "PPSA25378_00",
     "conceptId": 10012166,
     "name": "Starlight Legacy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA25378_00-STARLIGHTLEGACY0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA25379_00",
@@ -114952,6 +114992,14 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA25944_00",
+    "conceptId": 10012303,
+    "name": "FBC: Firebreak",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25948_00",
     "conceptId": 10012513,
     "name": "Snufkin: Melody of Moominvalley",
@@ -115814,6 +115862,14 @@
     "contentId": "UP8623-PPSA26166_00-0614602391560233",
     "region": "UP",
     "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA26167_00",
+    "conceptId": 10012658,
+    "name": "Elemental War Clash",
+    "contentId": "EP8073-PPSA26167_00-ELEMENTALWARCLAS",
+    "region": "EP",
+    "publisherId": "EP8073"
   },
   {
     "titleId": "PPSA26168_00",
@@ -116726,6 +116782,14 @@
     "contentId": "HP7354-PPSA26375_00-0460095233247859",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA26377_00",
+    "conceptId": 10012097,
+    "name": "\u30b9\u30ab\u30fc\u30ec\u30c3\u30c9\u30b5\u30eb\u30d9\u30fc\u30b7\u30e7\u30f3 \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0031-PPSA26377_00-SCARLEADSASND000",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA26378_00",
@@ -117960,6 +118024,14 @@
     "publisherId": "JP6618"
   },
   {
+    "titleId": "PPSA26650_00",
+    "conceptId": 10012974,
+    "name": "Ruffy And The Riverside",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26660_00",
     "conceptId": 10012989,
     "name": "Fool's Pub",
@@ -118875,7 +118947,7 @@
     "titleId": "PPSA26923_00",
     "conceptId": 10013105,
     "name": "Nice Day for Fishing",
-    "contentId": null,
+    "contentId": "EP4064-PPSA26923_00-0168786206369024",
     "region": "EP",
     "publisherId": "EP4064"
   },
@@ -118962,10 +119034,10 @@
   {
     "titleId": "PPSA26938_00",
     "conceptId": 223683,
-    "name": "LEGO\u00ae  Harry Potter\u2122 Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "LEGO\u00ae Harry Potter\u2122 Collection",
+    "contentId": "JP0012-PPSA26938_00-HARRYPOTTER17000",
+    "region": "JP",
+    "publisherId": "JP0012"
   },
   {
     "titleId": "PPSA26940_00",
@@ -119442,18 +119514,18 @@
   {
     "titleId": "PPSA27080_00",
     "conceptId": 10013221,
-    "name": "ADVANCED V.G. Saturn Tribute PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30a2\u30c9\u30f4\u30a1\u30f3\u30b9\u30c8 \u30f4\u30a1\u30ea\u30a2\u30d6\u30eb\u30fb\u30b8\u30aa \u30b5\u30bf\u30fc\u30f3\u30c8\u30ea\u30d3\u30e5\u30fc\u30c8",
+    "contentId": "JP1091-PPSA27080_00-0122459255517197",
+    "region": "JP",
+    "publisherId": "JP1091"
   },
   {
     "titleId": "PPSA27081_00",
     "conceptId": 10013222,
-    "name": "STEAM-HEART'S Saturn Tribute PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b9\u30c1\u30fc\u30e0\u30fb\u30cf\u30fc\u30c4 \u30b5\u30bf\u30fc\u30f3\u30c8\u30ea\u30d3\u30e5\u30fc\u30c8",
+    "contentId": "JP1091-PPSA27081_00-0087134908622357",
+    "region": "JP",
+    "publisherId": "JP1091"
   },
   {
     "titleId": "PPSA27082_00",
@@ -123106,10 +123178,10 @@
   {
     "titleId": "PPSA27993_00",
     "conceptId": 10013846,
-    "name": "Fomography",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FOMOGRAPHY",
+    "contentId": "UP4127-PPSA27993_00-FOMOGGLOBAL00000",
+    "region": "UP",
+    "publisherId": "UP4127"
   },
   {
     "titleId": "PPSA27996_00",
@@ -124510,6 +124582,14 @@
     "contentId": "JB0377-PPSA28393_00-XXXXXXXXXXXXXXXX",
     "region": "JB",
     "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA28394_00",
+    "conceptId": 10014130,
+    "name": "Cazzarion: Hell Biker",
+    "contentId": "HB0405-PPSA28394_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA28396_00",
@@ -126891,9 +126971,9 @@
     "titleId": "PPSA29298_00",
     "conceptId": 10014682,
     "name": "Ratshaker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1607-PPSA29298_00-0756444843813602",
+    "region": "HB",
+    "publisherId": "HB1607"
   },
   {
     "titleId": "PPSA29305_00",
@@ -126963,9 +127043,9 @@
     "titleId": "PPSA29332_00",
     "conceptId": 10014713,
     "name": "Higgs Boson: Puzzle Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA29332_00-0410850523501068",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA29333_00",
@@ -127520,6 +127600,22 @@
     "publisherId": "UP5464"
   },
   {
+    "titleId": "PPSA29562_00",
+    "conceptId": 10014844,
+    "name": "Badminton Time VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29563_00",
+    "conceptId": 10014844,
+    "name": "Badminton Time VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29566_00",
     "conceptId": 10013543,
     "name": "Project Zombie",
@@ -127827,6 +127923,14 @@
     "titleId": "PPSA29687_00",
     "conceptId": 10014887,
     "name": "Cipher Monk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29689_00",
+    "conceptId": 10011005,
+    "name": "Legends of the Snoot",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -128563,33 +128667,33 @@
     "titleId": "PPSA30088_00",
     "conceptId": 10015132,
     "name": "Collie Call",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA30088_00-0187660302911048",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA30089_00",
     "conceptId": 10015132,
     "name": "Collie Call",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA30089_00-0073810374670780",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA30090_00",
     "conceptId": 10015132,
     "name": "Collie Call",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA30090_00-0878411519642780",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA30091_00",
     "conceptId": 10015132,
     "name": "Collie Call",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA30091_00-0215339674644020",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA30102_00",
@@ -128910,6 +129014,22 @@
     "contentId": "UB0337-PPSA30371_00-0930529272668562",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA30398_00",
+    "conceptId": 10011729,
+    "name": "Farlands Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30399_00",
+    "conceptId": 10011729,
+    "name": "Farlands Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30421_00",
