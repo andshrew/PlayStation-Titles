@@ -10160,6 +10160,14 @@
     "publisherId": "UP1470"
   },
   {
+    "titleId": "PPSA03536_00",
+    "conceptId": 232234,
+    "name": "Truck Driver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA03537_00",
     "conceptId": 232234,
     "name": "Truck Driver",
@@ -109352,6 +109360,14 @@
     "publisherId": "EP3446"
   },
   {
+    "titleId": "PPSA24743_00",
+    "conceptId": 10011882,
+    "name": "Wizard of Legend 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24751_00",
     "conceptId": 10011888,
     "name": "Zombies Crusher",
@@ -110358,6 +110374,14 @@
     "contentId": "EP5987-PPSA24936_00-0684038803973497",
     "region": "EP",
     "publisherId": "EP5987"
+  },
+  {
+    "titleId": "PPSA24938_00",
+    "conceptId": 10011185,
+    "name": "The Wandering Village PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24944_00",
@@ -112779,6 +112803,14 @@
     "titleId": "PPSA25428_00",
     "conceptId": 10008540,
     "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25430_00",
+    "conceptId": 10001133,
+    "name": "NOBUNAGA'S AMBITION: Awakening",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -123824,6 +123856,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28144_00",
+    "conceptId": 222033,
+    "name": "Manual Samuel - Last Tuesday Edition",
+    "contentId": "UP4395-PPSA28144_00-0MANUALSAMUELPS5",
+    "region": "UP",
+    "publisherId": "UP4395"
+  },
+  {
+    "titleId": "PPSA28145_00",
+    "conceptId": 222033,
+    "name": "Manual Samuel - Last Tuesday Edition",
+    "contentId": "EP4395-PPSA28145_00-0MANUALSAMUELPS5",
+    "region": "EP",
+    "publisherId": "EP4395"
+  },
+  {
     "titleId": "PPSA28148_00",
     "conceptId": 10013942,
     "name": "One Fear",
@@ -125888,6 +125936,14 @@
     "publisherId": "JP0393"
   },
   {
+    "titleId": "PPSA28788_00",
+    "conceptId": 10013878,
+    "name": "Shadow of the orient",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28796_00",
     "conceptId": 10014381,
     "name": "Wall Town Wonders",
@@ -126627,9 +126683,9 @@
     "titleId": "PPSA29105_00",
     "conceptId": 10014569,
     "name": "Bunny Cubed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA29105_00-BUNNYCUBED000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA29106_00",
@@ -127534,6 +127590,14 @@
     "contentId": "EP5645-PPSA29436_00-0003071209201979",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29445_00",
+    "conceptId": 10014772,
+    "name": "Unboxing: Cozy Home Simulator",
+    "contentId": "UB0768-PPSA29445_00-0734692049349749",
+    "region": "UB",
+    "publisherId": "UB0768"
   },
   {
     "titleId": "PPSA29448_00",
@@ -129139,9 +129203,9 @@
     "titleId": "PPSA30222_00",
     "conceptId": 10015215,
     "name": "Anomaly Seeker: The Diner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA30222_00-ANOMALYSEEKDINNA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA30240_00",
@@ -129406,6 +129470,30 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30357_00",
+    "conceptId": 10015102,
+    "name": "CIRCLE DEFENSE",
+    "contentId": "HP5361-PPSA30357_00-000CIRCLEDEFENSE",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA30359_00",
+    "conceptId": 10015102,
+    "name": "CIRCLE DEFENSE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30360_00",
+    "conceptId": 10015102,
+    "name": "CIRCLE DEFENSE",
+    "contentId": "JP5299-PPSA30360_00-000CIRCLEDEFENSE",
+    "region": "JP",
+    "publisherId": "JP5299"
   },
   {
     "titleId": "PPSA30371_00",
@@ -129726,5 +129814,37 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30737_00",
+    "conceptId": 10015495,
+    "name": "Lucky Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30738_00",
+    "conceptId": 10015495,
+    "name": "Lucky Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30739_00",
+    "conceptId": 10015495,
+    "name": "Lucky Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30772_00",
+    "conceptId": 10015511,
+    "name": "Icy Gifts",
+    "contentId": "UP8623-PPSA30772_00-0455047548381676",
+    "region": "UP",
+    "publisherId": "UP8623"
   }
 ]
