@@ -92944,6 +92944,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA21159_00",
+    "conceptId": 10010242,
+    "name": "SILENT HILL f",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0101"
+  },
+  {
     "titleId": "PPSA21163_00",
     "conceptId": 10010243,
     "name": "Bloodhound",
@@ -103416,6 +103424,14 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA23493_00",
+    "conceptId": 10011216,
+    "name": "Agarta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23494_00",
     "conceptId": 10011216,
     "name": "Agarta",
@@ -105282,10 +105298,10 @@
   {
     "titleId": "PPSA23888_00",
     "conceptId": 10010843,
-    "name": "NO MOSAIC GIRLS with SESS-AI 2.0",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "NO MOSAIC GIRLS  with SESS-AI 2.0",
+    "contentId": "JP0055-PPSA23888_00-NOMOSGIRLSPS5PRO",
+    "region": "JP",
+    "publisherId": "JP0055"
   },
   {
     "titleId": "PPSA23895_00",
@@ -107816,6 +107832,30 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA24392_00",
+    "conceptId": 10009457,
+    "name": "Flappy Eros",
+    "contentId": "EB0014-PPSA24392_00-0806404804847816",
+    "region": "EB",
+    "publisherId": "EB0014"
+  },
+  {
+    "titleId": "PPSA24393_00",
+    "conceptId": 10009457,
+    "name": "Flappy Eros",
+    "contentId": "JP8527-PPSA24393_00-0210074279262062",
+    "region": "JP",
+    "publisherId": "JP8527"
+  },
+  {
+    "titleId": "PPSA24394_00",
+    "conceptId": 10009457,
+    "name": "Flappy Eros",
+    "contentId": "HP8573-PPSA24394_00-0571873732493748",
+    "region": "HP",
+    "publisherId": "HP8573"
+  },
+  {
     "titleId": "PPSA24395_00",
     "conceptId": 10011701,
     "name": "Dead Complex",
@@ -109294,6 +109334,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA24699_00",
+    "conceptId": 10011861,
+    "name": "\u30c7\u30b8\u30e2\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc \u30bf\u30a4\u30e0\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA24700_00",
+    "conceptId": 10011861,
+    "name": "Digimon Story Time Stranger",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA24701_00",
+    "conceptId": 10011861,
+    "name": "Digimon Story Time Stranger",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA24702_00",
+    "conceptId": 10011861,
+    "name": "Digimon Story Time Stranger",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA24705_00",
@@ -114600,6 +114672,14 @@
     "publisherId": "EP3495"
   },
   {
+    "titleId": "PPSA25818_00",
+    "conceptId": 10010843,
+    "name": "NO MOSAIC GIRLS with SESS-AI 2.0 DEMO",
+    "contentId": "JP0055-PPSA25818_00-NOMOSGIRLSPS5TRI",
+    "region": "JP",
+    "publisherId": "JP0055"
+  },
+  {
     "titleId": "PPSA25819_00",
     "conceptId": 10012324,
     "name": "Quack Jump",
@@ -115870,6 +115950,30 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA26144_00",
+    "conceptId": 10012639,
+    "name": "EVERYBODY'S GOLF HOT SHOTS",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA26145_00",
+    "conceptId": 10012639,
+    "name": "EVERYBODY'S GOLF HOT SHOTS",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA26146_00",
+    "conceptId": 10012639,
+    "name": "EVERYBODY'S GOLF HOT SHOTS",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA26147_00",
@@ -117747,9 +117851,9 @@
     "titleId": "PPSA26563_00",
     "conceptId": 10012934,
     "name": "Carrier Deck",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA26563_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA26565_00",
@@ -117787,7 +117891,7 @@
     "titleId": "PPSA26576_00",
     "conceptId": 10012764,
     "name": "Tour de France 2025",
-    "contentId": null,
+    "contentId": "EP6665-PPSA26576_00-TDF2500000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -121072,6 +121176,30 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27388_00",
+    "conceptId": 10013403,
+    "name": "The Jumping Spaghetti - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27390_00",
+    "conceptId": 10013403,
+    "name": "The Jumping Spaghetti - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27391_00",
+    "conceptId": 10013403,
+    "name": "The Jumping Spaghetti - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27396_00",
     "conceptId": 10013404,
     "name": "The Jumping Orange",
@@ -121298,10 +121426,10 @@
   {
     "titleId": "PPSA27459_00",
     "conceptId": 10013426,
-    "name": "The Jumping Melon Rush 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Melon Rush 2",
+    "contentId": "EP6664-PPSA27459_00-0429365628015873",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA27460_00",
@@ -123432,6 +123560,14 @@
     "publisherId": "UP4127"
   },
   {
+    "titleId": "PPSA27994_00",
+    "conceptId": 10013847,
+    "name": "\u76df\u7d04\u306e\u30bd\u30ea\u30c6\u30e5\u30fc\u30c9",
+    "contentId": "JP0013-PPSA27994_00-JP0SOLITUDE00PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA27996_00",
     "conceptId": 10013849,
     "name": "\u7206\u76db\u98df\u5802",
@@ -124198,6 +124334,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28219_00",
+    "conceptId": 10014010,
+    "name": "\u4ec1\u738b\uff13 \u03b1\u4f53\u9a13\u7248",
+    "contentId": "JP0106-PPSA28219_00-NIOH3DEMO0000000",
+    "region": "JP",
+    "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA28224_00",
@@ -126552,6 +126696,14 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA28983_00",
+    "conceptId": 10012797,
+    "name": "Farmer's Life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28985_00",
     "conceptId": 10014485,
     "name": "Pixicharm - Porkocalypse",
@@ -126646,6 +126798,14 @@
     "contentId": "UP7302-PPSA29021_00-LYNKEDBOTSGAME00",
     "region": "UP",
     "publisherId": "UP7302"
+  },
+  {
+    "titleId": "PPSA29025_00",
+    "conceptId": 10000578,
+    "name": "Do Not Feed the Monkeys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29037_00",
@@ -126974,6 +127134,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29173_00",
+    "conceptId": 10014615,
+    "name": "Hirogami",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP3620"
   },
   {
     "titleId": "PPSA29186_00",
@@ -127414,6 +127582,14 @@
     "contentId": "EP6681-PPSA29317_00-0755279568885291",
     "region": "EP",
     "publisherId": "EP6681"
+  },
+  {
+    "titleId": "PPSA29322_00",
+    "conceptId": 10000578,
+    "name": "Do Not Feed the Monkeys",
+    "contentId": "JP6746-PPSA29322_00-0963490151077128",
+    "region": "JP",
+    "publisherId": "JP6746"
   },
   {
     "titleId": "PPSA29330_00",
@@ -128160,6 +128336,14 @@
     "publisherId": "HP0106"
   },
   {
+    "titleId": "PPSA29603_00",
+    "conceptId": 10011920,
+    "name": "1f y0u're a gh0st ca11 me here!",
+    "contentId": "JP0013-PPSA29603_00-JP01YAGCMH000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA29605_00",
     "conceptId": 10014859,
     "name": "Monster Survivors",
@@ -128604,6 +128788,14 @@
     "conceptId": 10014943,
     "name": "Soccer Golf!",
     "contentId": "EP0896-PPSA29748_00-SOCCERGOLFRATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA29751_00",
+    "conceptId": 10014945,
+    "name": "Inkventure",
+    "contentId": "EP0896-PPSA29751_00-INKVENTURERATGAM",
     "region": "EP",
     "publisherId": "EP0896"
   },
@@ -129240,6 +129432,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30142_00",
+    "conceptId": 10015042,
+    "name": "Presentiment of Death",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30148_00",
     "conceptId": 10009136,
     "name": "Copycat Demo",
@@ -129536,6 +129736,30 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "PPSA30318_00",
+    "conceptId": 10007989,
+    "name": "Demonic Supremacy",
+    "contentId": "HP7889-PPSA30318_00-0547330162519394",
+    "region": "HP",
+    "publisherId": "HP7889"
+  },
+  {
+    "titleId": "PPSA30319_00",
+    "conceptId": 10007989,
+    "name": "Demonic Supremacy",
+    "contentId": "JP7843-PPSA30319_00-0252934174262200",
+    "region": "JP",
+    "publisherId": "JP7843"
+  },
+  {
+    "titleId": "PPSA30320_00",
+    "conceptId": 10007989,
+    "name": "Demonic Supremacy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30322_00",
     "conceptId": 10015265,
     "name": "CrimeBound Chronicles",
@@ -129675,17 +129899,17 @@
     "titleId": "PPSA30398_00",
     "conceptId": 10011729,
     "name": "Farlands Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA30398_00-SYPS5FARLANDSJOU",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA30399_00",
     "conceptId": 10011729,
     "name": "Farlands Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA30399_00-SYPS5FARLANDSJOU",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA30421_00",
@@ -129880,6 +130104,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30496_00",
+    "conceptId": 10015366,
+    "name": "Ball Rush",
+    "contentId": "UB0337-PPSA30496_00-0717677406194016",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA30500_00",
     "conceptId": 10015368,
     "name": "Monster Survivors: Hunting Wilds",
@@ -129952,12 +130184,20 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA30532_00",
+    "conceptId": 10015140,
+    "name": "Bubble Fish",
+    "contentId": "UP5464-PPSA30532_00-000000BUBBLEFISH",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA30533_00",
     "conceptId": 10015140,
     "name": "Bubble Fish",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA30533_00-000000BUBBLEFISH",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA30534_00",
@@ -129984,6 +130224,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA30668_00",
+    "conceptId": 10015451,
+    "name": "Exit the lot",
+    "contentId": "HB1069-PPSA30668_00-0853824571340329",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
     "titleId": "PPSA30672_00",
     "conceptId": 10015452,
     "name": "Tralalero Tralala Jumper",
@@ -130000,6 +130248,14 @@
     "publisherId": "EB0792"
   },
   {
+    "titleId": "PPSA30736_00",
+    "conceptId": 10015495,
+    "name": "Lucky Drop",
+    "contentId": "UB0752-PPSA30736_00-0436903296902410",
+    "region": "UB",
+    "publisherId": "UB0752"
+  },
+  {
     "titleId": "PPSA30737_00",
     "conceptId": 10015495,
     "name": "Lucky Drop",
@@ -130011,17 +130267,17 @@
     "titleId": "PPSA30738_00",
     "conceptId": 10015495,
     "name": "Lucky Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0752-PPSA30738_00-0886138893949480",
+    "region": "UB",
+    "publisherId": "UB0752"
   },
   {
     "titleId": "PPSA30739_00",
     "conceptId": 10015495,
     "name": "Lucky Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0752-PPSA30739_00-0943948899908578",
+    "region": "UB",
+    "publisherId": "UB0752"
   },
   {
     "titleId": "PPSA30772_00",
