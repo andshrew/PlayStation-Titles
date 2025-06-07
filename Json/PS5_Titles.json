@@ -74440,6 +74440,22 @@
     "publisherId": "EP5279"
   },
   {
+    "titleId": "PPSA17121_00",
+    "conceptId": 10008667,
+    "name": "Myst",
+    "contentId": "UP0922-PPSA17121_00-SCUS946020000000",
+    "region": "UP",
+    "publisherId": "UP0922"
+  },
+  {
+    "titleId": "PPSA17122_00",
+    "conceptId": 10008668,
+    "name": "Riven: The Sequel to Myst",
+    "contentId": "UP0922-PPSA17122_00-SLUS005350000000",
+    "region": "UP",
+    "publisherId": "UP0922"
+  },
+  {
     "titleId": "PPSA17125_00",
     "conceptId": 10008666,
     "name": "UnderDungeon",
@@ -91528,6 +91544,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA20813_00",
+    "conceptId": 10009457,
+    "name": "Flappy Eros",
+    "contentId": "UP8623-PPSA20813_00-0559930859677349",
+    "region": "UP",
+    "publisherId": "UP8623"
+  },
+  {
     "titleId": "PPSA20815_00",
     "conceptId": 10010099,
     "name": "Escape the Glitch",
@@ -91665,6 +91689,14 @@
   },
   {
     "titleId": "PPSA20844_00",
+    "conceptId": 10009187,
+    "name": "Memory Lost",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA20845_00",
     "conceptId": 10009187,
     "name": "Memory Lost",
     "contentId": null,
@@ -93307,7 +93339,7 @@
     "titleId": "PPSA21257_00",
     "conceptId": 10005832,
     "name": "The Night of the Rabbit",
-    "contentId": null,
+    "contentId": "UP1440-PPSA21257_00-TNOTRPS5NA000000",
     "region": "UP",
     "publisherId": "UP1440"
   },
@@ -95792,6 +95824,14 @@
     "publisherId": "JP0404"
   },
   {
+    "titleId": "PPSA21783_00",
+    "conceptId": 10008527,
+    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles [PS4 & PS5]",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
     "titleId": "PPSA21784_00",
     "conceptId": 10010491,
     "name": "Chimp Quest: Spirit Isle",
@@ -96718,6 +96758,14 @@
     "contentId": "UP1440-PPSA21988_00-AIKOSOUNDTRACKNA",
     "region": "UP",
     "publisherId": "UP1440"
+  },
+  {
+    "titleId": "PPSA21990_00",
+    "conceptId": 10009623,
+    "name": "Discounty",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21992_00",
@@ -102200,6 +102248,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA23253_00",
+    "conceptId": 10011097,
+    "name": "DAEMON X MACHINA TITANIC SCION  \u30c7\u30e2\u30f3\u30a8\u30af\u30b9\u30de\u30ad\u30ca \u30bf\u30a4\u30bf\u30cb\u30c3\u30af\u30b5\u30a4\u30aa\u30f3",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0507"
+  },
+  {
     "titleId": "PPSA23254_00",
     "conceptId": 10010585,
     "name": "Cazzarion: Shellfish Frenzy",
@@ -106870,6 +106926,22 @@
     "contentId": "HP1792-PPSA24201_00-SYPS5MORTISOMEM0",
     "region": "HP",
     "publisherId": "HP1792"
+  },
+  {
+    "titleId": "PPSA24202_00",
+    "conceptId": 10011468,
+    "name": "Dying Light: The Beast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24206_00",
+    "conceptId": 10011468,
+    "name": "\u30c0\u30a4\u30a4\u30f3\u30b0\u30e9\u30a4\u30c8\uff1a\u30b6\u30fb\u30d3\u30fc\u30b9\u30c8",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0365"
   },
   {
     "titleId": "PPSA24207_00",
@@ -115176,6 +115248,30 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA25935_00",
+    "conceptId": 10012506,
+    "name": "\u30c8\u30ef\u3068\u795e\u6a39\u306e\u7948\u308a\u5b50\u305f\u3061",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA25936_00",
+    "conceptId": 10012506,
+    "name": "Towa and the Guardians of the Sacred Tree",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA25937_00",
+    "conceptId": 10012506,
+    "name": "Towa and the Guardians of the Sacred Tree",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA25943_00",
     "conceptId": 10012509,
     "name": "\u30b6\u30fb\u30b3\u30fc\u30de2B\uff1a\u30ab\u30bf\u30b3\u30f3\u30d9",
@@ -118720,12 +118816,20 @@
     "publisherId": "UP8777"
   },
   {
+    "titleId": "PPSA26810_00",
+    "conceptId": 10013044,
+    "name": "Cubes Problem",
+    "contentId": "UP7335-PPSA26810_00-0049999627894157",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA26811_00",
     "conceptId": 10013044,
     "name": "Cubes Problem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA26811_00-0266827491348801",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA26814_00",
@@ -121434,26 +121538,26 @@
   {
     "titleId": "PPSA27460_00",
     "conceptId": 10013426,
-    "name": "The Jumping Melon Rush 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Melon Rush 2",
+    "contentId": "UP6664-PPSA27460_00-0669507516811481",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA27461_00",
     "conceptId": 10013426,
-    "name": "The Jumping Melon Rush 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Melon Rush 2",
+    "contentId": "JP6595-PPSA27461_00-0323635518356095",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA27462_00",
     "conceptId": 10013426,
-    "name": "The Jumping Melon Rush 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Melon Rush 2",
+    "contentId": "HP6661-PPSA27462_00-0450764942002473",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27492_00",
@@ -123419,17 +123523,17 @@
     "titleId": "PPSA27958_00",
     "conceptId": 10013812,
     "name": "Ping Pong Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6927-PPSA27958_00-0203860282237168",
+    "region": "UP",
+    "publisherId": "UP6927"
   },
   {
     "titleId": "PPSA27959_00",
     "conceptId": 10013812,
     "name": "Ping Pong Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6922-PPSA27959_00-0741392678871823",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA27960_00",
@@ -125112,6 +125216,14 @@
     "publisherId": "UB0796"
   },
   {
+    "titleId": "PPSA28425_00",
+    "conceptId": 10014154,
+    "name": "Nova Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28456_00",
     "conceptId": 10014133,
     "name": "Pinchcliffe Grand Prix Anniversary Edition",
@@ -125840,6 +125952,14 @@
     "publisherId": "UP8198"
   },
   {
+    "titleId": "PPSA28616_00",
+    "conceptId": 10014272,
+    "name": "Backrooms: Exit from Supermarket Horror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28617_00",
     "conceptId": 10005813,
     "name": "Spirit of the North 2",
@@ -125918,6 +126038,14 @@
     "contentId": "UP5988-PPSA28642_00-SPLITGATE2ALPHA0",
     "region": "UP",
     "publisherId": "UP5988"
+  },
+  {
+    "titleId": "PPSA28643_00",
+    "conceptId": 10014154,
+    "name": "Nova Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28660_00",
@@ -126778,18 +126906,18 @@
   {
     "titleId": "PPSA29016_00",
     "conceptId": 10014506,
-    "name": "Amber Alert Director's cut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Amber Alert",
+    "contentId": "UP6718-PPSA29016_00-0795928489204167",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA29017_00",
     "conceptId": 10014506,
-    "name": "Amber Alert Director's cut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Amber Alert",
+    "contentId": "EP6718-PPSA29017_00-0127674853355048",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA29021_00",
@@ -126803,9 +126931,17 @@
     "titleId": "PPSA29025_00",
     "conceptId": 10000578,
     "name": "Do Not Feed the Monkeys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4173-PPSA29025_00-0221196913085710",
+    "region": "EP",
+    "publisherId": "EP4173"
+  },
+  {
+    "titleId": "PPSA29026_00",
+    "conceptId": 10000578,
+    "name": "Do Not Feed the Monkeys",
+    "contentId": "UP4173-PPSA29026_00-0739229762817761",
+    "region": "UP",
+    "publisherId": "UP4173"
   },
   {
     "titleId": "PPSA29037_00",
@@ -127080,6 +127216,14 @@
     "publisherId": "HB1365"
   },
   {
+    "titleId": "PPSA29136_00",
+    "conceptId": 10011097,
+    "name": "Daemon X Machina: Titanic Scion",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4492"
+  },
+  {
     "titleId": "PPSA29144_00",
     "conceptId": 10014605,
     "name": "Bee Flowers: Royal Garden",
@@ -127110,6 +127254,14 @@
     "contentId": "HP8462-PPSA29147_00-0546484838852841",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA29154_00",
+    "conceptId": 10011097,
+    "name": "Daemon X Machina: Titanic Scion",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA29155_00",
@@ -127336,10 +127488,26 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29237_00",
+    "conceptId": 10014651,
+    "name": "Lofi Chill Sessions: Relax Island",
+    "contentId": "UB0768-PPSA29237_00-0870808432956434",
+    "region": "UB",
+    "publisherId": "UB0768"
+  },
+  {
     "titleId": "PPSA29238_00",
     "conceptId": 10014652,
     "name": "Anime Waifu Simulator: Sakura Garden",
     "contentId": "UB0768-PPSA29238_00-0873794778828767",
+    "region": "UB",
+    "publisherId": "UB0768"
+  },
+  {
+    "titleId": "PPSA29239_00",
+    "conceptId": 10014653,
+    "name": "Speedway Legends: Overdrive Racing",
+    "contentId": "UB0768-PPSA29239_00-0473386167272001",
     "region": "UB",
     "publisherId": "UB0768"
   },
@@ -127590,6 +127758,14 @@
     "contentId": "JP6746-PPSA29322_00-0963490151077128",
     "region": "JP",
     "publisherId": "JP6746"
+  },
+  {
+    "titleId": "PPSA29323_00",
+    "conceptId": 10000578,
+    "name": "Do Not Feed the Monkeys",
+    "contentId": "HP4173-PPSA29323_00-0952407771783112",
+    "region": "HP",
+    "publisherId": "HP4173"
   },
   {
     "titleId": "PPSA29330_00",
@@ -129456,6 +129632,14 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA30160_00",
+    "conceptId": 10015173,
+    "name": "Party Games: 15 in 1",
+    "contentId": "UB0008-PPSA30160_00-0618744920275885",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA30174_00",
     "conceptId": 10015178,
     "name": "The Wellmonts Case Demo",
@@ -129475,9 +129659,9 @@
     "titleId": "PPSA30181_00",
     "conceptId": 10015186,
     "name": "Cazzarion: Kutululu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA30181_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA30182_00",
@@ -129534,6 +129718,14 @@
     "contentId": "UB0337-PPSA30207_00-0306809486350235",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA30213_00",
+    "conceptId": 10015212,
+    "name": "Castle Heroes",
+    "contentId": "UB0008-PPSA30213_00-0200556839331832",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA30222_00",
@@ -129736,6 +129928,14 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "PPSA30317_00",
+    "conceptId": 10007989,
+    "name": "Demonic Supremacy",
+    "contentId": "UP7862-PPSA30317_00-0252100548713257",
+    "region": "UP",
+    "publisherId": "UP7862"
+  },
+  {
     "titleId": "PPSA30318_00",
     "conceptId": 10007989,
     "name": "Demonic Supremacy",
@@ -129755,9 +129955,9 @@
     "titleId": "PPSA30320_00",
     "conceptId": 10007989,
     "name": "Demonic Supremacy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA30320_00-0388393271801763",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA30322_00",
@@ -129912,6 +130112,22 @@
     "publisherId": "EP1661"
   },
   {
+    "titleId": "PPSA30400_00",
+    "conceptId": 10011729,
+    "name": "Farlands Journey",
+    "contentId": "JP1932-PPSA30400_00-SYPS5FARLANDSJOU",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA30401_00",
+    "conceptId": 10011729,
+    "name": "Farlands Journey",
+    "contentId": "HP1792-PPSA30401_00-SYPS5FARLANDSJOU",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA30421_00",
     "conceptId": 10015314,
     "name": "The Jumping Stars",
@@ -129995,17 +130211,33 @@
     "titleId": "PPSA30445_00",
     "conceptId": 10004422,
     "name": "Hillbilly Doomsday",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA30445_00-SYPS5HILLBILLYDO",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA30446_00",
     "conceptId": 10004422,
     "name": "Hillbilly Doomsday",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA30446_00-SYPS5HILLBILLYDO",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA30447_00",
+    "conceptId": 10004422,
+    "name": "Hillbilly Doomsday",
+    "contentId": "JP1932-PPSA30447_00-SYPS5HILLBILLYDO",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA30448_00",
+    "conceptId": 10004422,
+    "name": "Hillbilly Doomsday",
+    "contentId": "HP1792-PPSA30448_00-SYPS5HILLBILLYDO",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA30452_00",
@@ -130054,6 +130286,14 @@
     "contentId": "UP7668-PPSA30464_00-0769669543940578",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA30468_00",
+    "conceptId": 10015345,
+    "name": "Aircraft Legends: Flight Academy Simulator",
+    "contentId": "UB0768-PPSA30468_00-0382207324668147",
+    "region": "UB",
+    "publisherId": "UB0768"
   },
   {
     "titleId": "PPSA30475_00",
@@ -130208,6 +130448,38 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA30541_00",
+    "conceptId": 10015352,
+    "name": "Burger Bounce",
+    "contentId": "EP4312-PPSA30541_00-0907831015338499",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA30542_00",
+    "conceptId": 10015352,
+    "name": "Burger Bounce",
+    "contentId": "UP4312-PPSA30542_00-0781557249520893",
+    "region": "UP",
+    "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA30543_00",
+    "conceptId": 10015352,
+    "name": "Burger Bounce",
+    "contentId": "JP0089-PPSA30543_00-0636876102550296",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA30544_00",
+    "conceptId": 10015352,
+    "name": "Burger Bounce",
+    "contentId": "HP4312-PPSA30544_00-0889749527446850",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA30546_00",
     "conceptId": 10015386,
     "name": "Racing Rebels Mud Clash",
@@ -130259,9 +130531,9 @@
     "titleId": "PPSA30737_00",
     "conceptId": 10015495,
     "name": "Lucky Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0752-PPSA30737_00-0327669107536788",
+    "region": "UB",
+    "publisherId": "UB0752"
   },
   {
     "titleId": "PPSA30738_00",
