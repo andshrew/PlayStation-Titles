@@ -88704,6 +88704,14 @@
     "publisherId": "JP0001"
   },
   {
+    "titleId": "PPSA20232_00",
+    "conceptId": 10009187,
+    "name": "Memory Lost",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20233_00",
     "conceptId": 10009825,
     "name": "Tested on Humans: Escape Room",
@@ -105952,6 +105960,22 @@
     "publisherId": "UP1681"
   },
   {
+    "titleId": "PPSA24002_00",
+    "conceptId": 10011468,
+    "name": "Dying Light: The Beast",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3050"
+  },
+  {
+    "titleId": "PPSA24003_00",
+    "conceptId": 10011468,
+    "name": "Dying Light: The Beast",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2911"
+  },
+  {
     "titleId": "PPSA24005_00",
     "conceptId": 10011385,
     "name": "\u904a\u3093\u3067\u56f2\u7881\u304c\u5f37\u304f\u306a\u308b\uff01 \u9280\u661f\u56f2\u7881DX",
@@ -111680,6 +111704,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25153_00",
+    "conceptId": 10012067,
+    "name": "Jurassic World Evolution 3",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2377"
+  },
+  {
     "titleId": "PPSA25154_00",
     "conceptId": 10006247,
     "name": "Quiz Thiz United Kingdom - DEMO",
@@ -114827,9 +114859,9 @@
     "titleId": "PPSA25828_00",
     "conceptId": 10012439,
     "name": "Wukong's Child: Monkey King Myth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0301-PPSA25828_00-0830391430297342",
+    "region": "EB",
+    "publisherId": "EB0301"
   },
   {
     "titleId": "PPSA25830_00",
@@ -115270,6 +115302,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA25938_00",
+    "conceptId": 10012506,
+    "name": "Towa and the Guardians of the Sacred Tree",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA25943_00",
@@ -116462,6 +116502,14 @@
     "contentId": "UP4624-PPSA26222_00-0121755674685580",
     "region": "UP",
     "publisherId": "UP4624"
+  },
+  {
+    "titleId": "PPSA26224_00",
+    "conceptId": 10012470,
+    "name": "ISLANDERS: New Shores",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26229_00",
@@ -119294,6 +119342,14 @@
     "contentId": "JB0377-PPSA26916_00-XXXXXXXXXXXXXXXX",
     "region": "JB",
     "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA26918_00",
+    "conceptId": 10013100,
+    "name": "Cazzarion: UFO Kidnapping",
+    "contentId": "HB0405-PPSA26918_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA26919_00",
@@ -125955,9 +126011,9 @@
     "titleId": "PPSA28616_00",
     "conceptId": 10014272,
     "name": "Backrooms: Exit from Supermarket Horror",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0768-PPSA28616_00-0612008814023725",
+    "region": "UB",
+    "publisherId": "UB0768"
   },
   {
     "titleId": "PPSA28617_00",
@@ -127150,6 +127206,14 @@
     "contentId": "EP1612-PPSA29118_00-MEOWBOLTGAME0000",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA29121_00",
+    "conceptId": 10012787,
+    "name": "Terrifier: The ARTcade Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29122_00",
@@ -129667,9 +129731,9 @@
     "titleId": "PPSA30182_00",
     "conceptId": 10015186,
     "name": "Cazzarion: Kutululu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA30182_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA30189_00",
@@ -130003,33 +130067,33 @@
     "titleId": "PPSA30349_00",
     "conceptId": 10015275,
     "name": "Horse Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA30349_00-0455796164428551",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA30350_00",
     "conceptId": 10015275,
     "name": "Horse Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA30350_00-0635626093067362",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA30351_00",
     "conceptId": 10015275,
     "name": "Horse Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA30351_00-0858640998260919",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA30352_00",
     "conceptId": 10015275,
     "name": "Horse Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA30352_00-0518088369226412",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA30357_00",
@@ -130518,6 +130582,14 @@
     "contentId": "EB0792-PPSA30673_00-TRALALERO000SIEE",
     "region": "EB",
     "publisherId": "EB0792"
+  },
+  {
+    "titleId": "PPSA30707_00",
+    "conceptId": 10015016,
+    "name": "WEED DRUG EMPIRE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30736_00",
