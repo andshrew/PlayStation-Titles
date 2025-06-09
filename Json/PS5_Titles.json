@@ -76236,8 +76236,8 @@
     "conceptId": 10008829,
     "name": "Gears of War: Reloaded",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA17527_00",
@@ -116930,10 +116930,10 @@
   {
     "titleId": "PPSA26315_00",
     "conceptId": 10009018,
-    "name": "Tony Hawk's\u2122 Pro Skater\u2122 3 + 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tony Hawk's\u2122 Pro Skater\u2122 3 + 4 - Foundry Demo",
+    "contentId": "UP0002-PPSA26315_00-TH34RDEMO0000001",
+    "region": "UP",
+    "publisherId": "UP0002"
   },
   {
     "titleId": "PPSA26318_00",
@@ -117110,6 +117110,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA26362_00",
+    "conceptId": 10012787,
+    "name": "Terrifier: The ARTcade Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26365_00",
@@ -127210,10 +127218,10 @@
   {
     "titleId": "PPSA29121_00",
     "conceptId": 10012787,
-    "name": "Terrifier: The ARTcade Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TERRIFIER The ArtCade Game DEMO",
+    "contentId": "EP6325-PPSA29121_00-0996247368454363",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA29122_00",
@@ -129224,6 +129232,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA29838_00",
+    "conceptId": 10014996,
+    "name": "Prehistoric Gal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29845_00",
     "conceptId": 10010633,
     "name": "Cop Officers: Police Simulator of NYPD City",
@@ -129864,6 +129880,22 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA30275_00",
+    "conceptId": 10012168,
+    "name": "Rabbit In The Clouds",
+    "contentId": "EP5645-PPSA30275_00-RABBITINTHECLOUD",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA30276_00",
+    "conceptId": 10012168,
+    "name": "Rabbit In The Clouds",
+    "contentId": "EP5645-PPSA30276_00-RABBITINTHECLOUD",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA30277_00",
     "conceptId": 10015237,
     "name": "BRAINROT TUNG TUNG SAHUR",
@@ -130240,6 +130272,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30429_00",
+    "conceptId": 10011295,
+    "name": "Rabbit Raid",
+    "contentId": "JP1932-PPSA30429_00-SYPS5RABBITRAID0",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA30430_00",
+    "conceptId": 10011295,
+    "name": "Rabbit Raid",
+    "contentId": "HP1792-PPSA30430_00-SYPS5RABBITRAID0",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA30431_00",
     "conceptId": 10015320,
     "name": "Tiny Pixels Vol. 2 - Stormy Knights",
@@ -130586,10 +130634,10 @@
   {
     "titleId": "PPSA30707_00",
     "conceptId": 10015016,
-    "name": "WEED DRUG EMPIRE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Weed Drug Empire",
+    "contentId": "UB0743-PPSA30707_00-0175576661285505",
+    "region": "UB",
+    "publisherId": "UB0743"
   },
   {
     "titleId": "PPSA30736_00",
@@ -130643,6 +130691,70 @@
     "titleId": "PPSA30843_00",
     "conceptId": 10015562,
     "name": "Memory Holder: The Alphabet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30869_00",
+    "conceptId": 10015590,
+    "name": "Bombardiro Crocodilo Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30870_00",
+    "conceptId": 10015590,
+    "name": "Bombardiro Crocodilo Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31099_00",
+    "conceptId": 10015336,
+    "name": "Tung Tung Tung Sahur Runner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31100_00",
+    "conceptId": 10015336,
+    "name": "Tung Tung Tung Sahur Runner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31101_00",
+    "conceptId": 10015452,
+    "name": "Tralalero Tralala Jumper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31102_00",
+    "conceptId": 10015452,
+    "name": "Tralalero Tralala Jumper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31107_00",
+    "conceptId": 10015590,
+    "name": "Bombardiro Crocodilo Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31108_00",
+    "conceptId": 10015590,
+    "name": "Bombardiro Crocodilo Simulator",
     "contentId": null,
     "region": null,
     "publisherId": null
