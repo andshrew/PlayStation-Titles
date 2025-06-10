@@ -103776,6 +103776,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA23559_00",
+    "conceptId": 10011009,
+    "name": "Anno 117: Pax Romana",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0001"
+  },
+  {
     "titleId": "PPSA23567_00",
     "conceptId": 10011248,
     "name": "Run Tekila Run!",
@@ -108904,6 +108912,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24588_00",
+    "conceptId": 10011796,
+    "name": "The Outer Worlds 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
+  },
+  {
     "titleId": "PPSA24589_00",
     "conceptId": 10000184,
     "name": "Biped",
@@ -112150,6 +112166,14 @@
     "contentId": "EP2006-PPSA25256_00-0095464234555845",
     "region": "EP",
     "publisherId": "EP2006"
+  },
+  {
+    "titleId": "PPSA25258_00",
+    "conceptId": 10012110,
+    "name": "NINJA GAIDEN\u00a04",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA25259_00",
@@ -117734,6 +117758,14 @@
     "contentId": "JP0106-PPSA26483_00-WP102025GAME0000",
     "region": "JP",
     "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA26487_00",
+    "conceptId": 10012719,
+    "name": "TRON: Catalyst",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26488_00",
@@ -124251,9 +124283,9 @@
     "titleId": "PPSA28140_00",
     "conceptId": 10013956,
     "name": "Luminaria: Dark Echoes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0867-PPSA28140_00-0376423800153179",
+    "region": "UB",
+    "publisherId": "UB0867"
   },
   {
     "titleId": "PPSA28144_00",
@@ -125622,6 +125654,22 @@
     "contentId": "JP7094-PPSA28531_00-0139461149060320",
     "region": "JP",
     "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA28532_00",
+    "conceptId": 10010786,
+    "name": "Project 13",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28533_00",
+    "conceptId": 10012535,
+    "name": "Project 13: Taxidermy Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28534_00",
@@ -127776,6 +127824,22 @@
     "publisherId": "HB1607"
   },
   {
+    "titleId": "PPSA29302_00",
+    "conceptId": 10006891,
+    "name": "Stellar Blade\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29304_00",
+    "conceptId": 10006891,
+    "name": "Stellar Blade\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29305_00",
     "conceptId": 10012303,
     "name": "FBC: Firebreak",
@@ -128630,6 +128694,14 @@
     "contentId": "EP5645-PPSA29616_00-0200461950546662",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29618_00",
+    "conceptId": 10014685,
+    "name": "Drug Dealer Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29630_00",
@@ -129880,6 +129952,22 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA30273_00",
+    "conceptId": 10012168,
+    "name": "Rabbit In The Clouds",
+    "contentId": "EP5645-PPSA30273_00-RABBITINTHECLOUD",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA30274_00",
+    "conceptId": 10012168,
+    "name": "Rabbit In The Clouds",
+    "contentId": "EP5645-PPSA30274_00-RABBITINTHECLOUD",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA30275_00",
     "conceptId": 10012168,
     "name": "Rabbit In The Clouds",
@@ -130259,17 +130347,17 @@
     "titleId": "PPSA30427_00",
     "conceptId": 10011295,
     "name": "Rabbit Raid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA30427_00-SYPS5RABBITRAID0",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA30428_00",
     "conceptId": 10011295,
     "name": "Rabbit Raid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA30428_00-SYPS5RABBITRAID0",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA30429_00",
@@ -130315,9 +130403,25 @@
     "titleId": "PPSA30439_00",
     "conceptId": 10008926,
     "name": "Cybertrash STATYX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA30439_00-SYPS5CYBERTRASHS",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA30440_00",
+    "conceptId": 10008926,
+    "name": "Cybertrash STATYX",
+    "contentId": "JP1932-PPSA30440_00-SYPS5CYBERTRASHS",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA30441_00",
+    "conceptId": 10008926,
+    "name": "Cybertrash STATYX",
+    "contentId": "HP1792-PPSA30441_00-SYPS5CYBERTRASHS",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA30445_00",
@@ -130406,6 +130510,22 @@
     "contentId": "UB0768-PPSA30468_00-0382207324668147",
     "region": "UB",
     "publisherId": "UB0768"
+  },
+  {
+    "titleId": "PPSA30469_00",
+    "conceptId": 10015346,
+    "name": "Cazzarion: Pacific Winds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30470_00",
+    "conceptId": 10015346,
+    "name": "Cazzarion: Pacific Winds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30475_00",
@@ -130683,9 +130803,9 @@
     "titleId": "PPSA30842_00",
     "conceptId": 10015562,
     "name": "Memory Holder: The Alphabet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA30842_00-0407463115260972",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA30843_00",
@@ -130694,6 +130814,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30844_00",
+    "conceptId": 10015562,
+    "name": "Memory Holder: The Alphabet",
+    "contentId": "HP7367-PPSA30844_00-0374535967503542",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA30845_00",
+    "conceptId": 10015562,
+    "name": "Memory Holder: The Alphabet",
+    "contentId": "JP7323-PPSA30845_00-0670286006884385",
+    "region": "JP",
+    "publisherId": "JP7323"
   },
   {
     "titleId": "PPSA30869_00",
