@@ -59224,6 +59224,14 @@
     "publisherId": "UP6044"
   },
   {
+    "titleId": "PPSA13699_00",
+    "conceptId": 10007306,
+    "name": "Aces of Thunder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA13702_00",
     "conceptId": 10002782,
     "name": "Aurora's Journey and the Pitiful Lackey",
@@ -80916,8 +80924,8 @@
     "conceptId": 10009213,
     "name": "Ready or Not",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP6322"
   },
   {
     "titleId": "PPSA18607_00",
@@ -103840,6 +103848,14 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA23576_00",
+    "conceptId": 10011255,
+    "name": "Alien Hominid HD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23579_00",
     "conceptId": 10008360,
     "name": "Ultimate General: Gettysburg",
@@ -104894,6 +104910,14 @@
     "contentId": "EP7654-PPSA23809_00-0853172799286761",
     "region": "EP",
     "publisherId": "EP7654"
+  },
+  {
+    "titleId": "PPSA23810_00",
+    "conceptId": 10010545,
+    "name": "Alien Hominid Invasion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23811_00",
@@ -106458,10 +106482,10 @@
   {
     "titleId": "PPSA24115_00",
     "conceptId": 10004730,
-    "name": "Wildgate",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Wildgate Summer Preview",
+    "contentId": "UP7302-PPSA24115_00-NEBULAGAMEBETA00",
+    "region": "UP",
+    "publisherId": "UP7302"
   },
   {
     "titleId": "PPSA24116_00",
@@ -116536,6 +116560,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26225_00",
+    "conceptId": 10012470,
+    "name": "ISLANDERS: New Shores",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26229_00",
     "conceptId": 10012701,
     "name": "Master of Monsters SSB",
@@ -120344,6 +120376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27154_00",
+    "conceptId": 10013257,
+    "name": "Vessels of Decay",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27155_00",
     "conceptId": 10010800,
     "name": "Beyond the Ice Palace II",
@@ -123059,9 +123099,9 @@
     "titleId": "PPSA27804_00",
     "conceptId": 10008262,
     "name": "Star Trucker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2187-PPSA27804_00-0000000000000STG",
+    "region": "EP",
+    "publisherId": "EP2187"
   },
   {
     "titleId": "PPSA27805_00",
@@ -123710,6 +123750,22 @@
     "contentId": "EP7333-PPSA27981_00-0665113160680689",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA27982_00",
+    "conceptId": 10013837,
+    "name": "Tile Jong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27983_00",
+    "conceptId": 10013837,
+    "name": "Tile Jong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27984_00",
@@ -125008,6 +125064,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA28342_00",
+    "conceptId": 10000929,
+    "name": "Firmament",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28343_00",
     "conceptId": 10012240,
     "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Demo",
@@ -126099,9 +126163,9 @@
     "titleId": "PPSA28623_00",
     "conceptId": 10014278,
     "name": "Keeper's Toll",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA28623_00-KEEPERSTOLL00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28629_00",
@@ -126856,6 +126920,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA28951_00",
+    "conceptId": 10014471,
+    "name": "Crime Scene Cleaner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28952_00",
     "conceptId": 10013535,
     "name": "DAMN",
@@ -127334,6 +127406,14 @@
     "contentId": "HB1365-PPSA29131_00-0524549596834010",
     "region": "HB",
     "publisherId": "HB1365"
+  },
+  {
+    "titleId": "PPSA29135_00",
+    "conceptId": 10014598,
+    "name": "Dustwind: Resistance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29136_00",
@@ -128768,6 +128848,14 @@
     "publisherId": "EP5265"
   },
   {
+    "titleId": "PPSA29670_00",
+    "conceptId": 10014882,
+    "name": "Bee Flowers: Save the Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29675_00",
     "conceptId": 10014884,
     "name": "Legends Aligned: Minis in Conflict",
@@ -129592,6 +129680,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA30025_00",
+    "conceptId": 10015092,
+    "name": "Past Easter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30053_00",
     "conceptId": 10015122,
     "name": "Paper Plane",
@@ -130312,6 +130408,38 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA30417_00",
+    "conceptId": 10015315,
+    "name": "Minos Dungeon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30418_00",
+    "conceptId": 10015315,
+    "name": "Minos Dungeon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30419_00",
+    "conceptId": 10015315,
+    "name": "Minos Dungeon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30420_00",
+    "conceptId": 10015315,
+    "name": "Minos Dungeon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30421_00",
     "conceptId": 10015314,
     "name": "The Jumping Stars",
@@ -130395,9 +130523,9 @@
     "titleId": "PPSA30438_00",
     "conceptId": 10008926,
     "name": "Cybertrash STATYX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA30438_00-SYPS5CYBERTRASHS",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA30439_00",
@@ -130584,12 +130712,20 @@
     "publisherId": "UB0337"
   },
   {
-    "titleId": "PPSA30500_00",
-    "conceptId": 10015368,
-    "name": "Monster Survivors: Hunting Wilds",
+    "titleId": "PPSA30497_00",
+    "conceptId": 10015367,
+    "name": "The Original Moorhuhn Hunt",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30500_00",
+    "conceptId": 10015368,
+    "name": "Monster Survivors: Hunting Wilds",
+    "contentId": "EB0301-PPSA30500_00-0692247757671979",
+    "region": "EB",
+    "publisherId": "EB0301"
   },
   {
     "titleId": "PPSA30501_00",
@@ -130811,9 +130947,9 @@
     "titleId": "PPSA30843_00",
     "conceptId": 10015562,
     "name": "Memory Holder: The Alphabet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA30843_00-0788240133446359",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA30844_00",
@@ -130846,6 +130982,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30961_00",
+    "conceptId": 10013219,
+    "name": "Smash Zombies",
+    "contentId": "UB0487-PPSA30961_00-0902034849920322",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30962_00",
+    "conceptId": 10013219,
+    "name": "Smash Zombies",
+    "contentId": "UB0487-PPSA30962_00-0562518943061094",
+    "region": "UB",
+    "publisherId": "UB0487"
   },
   {
     "titleId": "PPSA31099_00",
@@ -130891,6 +131043,14 @@
     "titleId": "PPSA31108_00",
     "conceptId": 10015590,
     "name": "Bombardiro Crocodilo Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31181_00",
+    "conceptId": 10015740,
+    "name": "Chimpanzini Bananini",
     "contentId": null,
     "region": null,
     "publisherId": null
