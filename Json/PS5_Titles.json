@@ -69824,6 +69824,14 @@
     "publisherId": "UP5290"
   },
   {
+    "titleId": "PPSA16175_00",
+    "conceptId": 10008255,
+    "name": "Rise of Industry 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16179_00",
     "conceptId": 10007462,
     "name": "Chasm: The Rift",
@@ -91472,6 +91480,14 @@
     "publisherId": "JP7213"
   },
   {
+    "titleId": "PPSA20783_00",
+    "conceptId": 10010081,
+    "name": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1032"
+  },
+  {
     "titleId": "PPSA20785_00",
     "conceptId": 10008733,
     "name": "Full Metal Sergeant",
@@ -103851,9 +103867,9 @@
     "titleId": "PPSA23576_00",
     "conceptId": 10011255,
     "name": "Alien Hominid HD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2015-PPSA23576_00-ALIENHOMINIDHD00",
+    "region": "EP",
+    "publisherId": "EP2015"
   },
   {
     "titleId": "PPSA23579_00",
@@ -104915,9 +104931,9 @@
     "titleId": "PPSA23810_00",
     "conceptId": 10010545,
     "name": "Alien Hominid Invasion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2015-PPSA23810_00-ALIENHOMINIDINVA",
+    "region": "EP",
+    "publisherId": "EP2015"
   },
   {
     "titleId": "PPSA23811_00",
@@ -110504,6 +110520,14 @@
     "publisherId": "EP5077"
   },
   {
+    "titleId": "PPSA24906_00",
+    "conceptId": 10011354,
+    "name": "Legendary Hoplite",
+    "contentId": "HP8289-PPSA24906_00-0715668704473505",
+    "region": "HP",
+    "publisherId": "HP8289"
+  },
+  {
     "titleId": "PPSA24910_00",
     "conceptId": 10011952,
     "name": "Cabernet",
@@ -111206,6 +111230,14 @@
     "contentId": "UP7668-PPSA25059_00-0236534475163840",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA25063_00",
+    "conceptId": 10012036,
+    "name": "Poppy Playtime: Chapter 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25070_00",
@@ -120152,6 +120184,14 @@
     "publisherId": "UB0760"
   },
   {
+    "titleId": "PPSA27106_00",
+    "conceptId": 10013234,
+    "name": "Beef Cat Ultra",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27109_00",
     "conceptId": 10008444,
     "name": "Alaskan Road Truckers: Highway Edition",
@@ -122416,6 +122456,30 @@
     "publisherId": "HB0706"
   },
   {
+    "titleId": "PPSA27660_00",
+    "conceptId": 10013574,
+    "name": "Boxstacker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27661_00",
+    "conceptId": 10013574,
+    "name": "Boxstacker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27662_00",
+    "conceptId": 10013574,
+    "name": "Boxstacker",
+    "contentId": "JB0640-PPSA27662_00-0136080521322826",
+    "region": "JB",
+    "publisherId": "JB0640"
+  },
+  {
     "titleId": "PPSA27667_00",
     "conceptId": 10013492,
     "name": "Anime Uni 3",
@@ -122682,26 +122746,26 @@
   {
     "titleId": "PPSA27721_00",
     "conceptId": 10009134,
-    "name": "Touhou Spell Carnival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\ub3d9\ubc29 \uc2a4\ud3a0 \uce74\ub2c8\ubc1c",
+    "contentId": "HP8414-PPSA27721_00-TH2SPELLCARNIVAL",
+    "region": "HP",
+    "publisherId": "HP8414"
   },
   {
     "titleId": "PPSA27722_00",
     "conceptId": 10009134,
-    "name": "Touhou Spell Carnival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\ub3d9\ubc29 \uc2a4\ud3a0 \uce74\ub2c8\ubc1c Digital Art Book",
+    "contentId": "HP8414-PPSA27722_00-0712099181664535",
+    "region": "HP",
+    "publisherId": "HP8414"
   },
   {
     "titleId": "PPSA27723_00",
     "conceptId": 10009134,
-    "name": "Touhou Spell Carnival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\ub3d9\ubc29 \uc2a4\ud3a0 \uce74\ub2c8\ubc1c Digital Soundtrack",
+    "contentId": "HP8414-PPSA27723_00-0848689822793411",
+    "region": "HP",
+    "publisherId": "HP8414"
   },
   {
     "titleId": "PPSA27729_00",
@@ -124555,7 +124619,7 @@
     "titleId": "PPSA28209_00",
     "conceptId": 10014002,
     "name": "MindsEye",
-    "contentId": null,
+    "contentId": "EB1674-PPSA28209_00-00000000MINDSEYE",
     "region": "EB",
     "publisherId": "EB1674"
   },
@@ -124662,6 +124726,14 @@
     "contentId": "HB1365-PPSA28242_00-0252377860068999",
     "region": "HB",
     "publisherId": "HB1365"
+  },
+  {
+    "titleId": "PPSA28244_00",
+    "conceptId": 10013219,
+    "name": "Smash Zombies",
+    "contentId": "UB0487-PPSA28244_00-0276660888160925",
+    "region": "UB",
+    "publisherId": "UB0487"
   },
   {
     "titleId": "PPSA28253_00",
@@ -125307,17 +125379,17 @@
     "titleId": "PPSA28397_00",
     "conceptId": 10014137,
     "name": "Maze: Interim Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4947-PPSA28397_00-INTERIMODYSSEY12",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA28398_00",
     "conceptId": 10014137,
     "name": "Maze: Interim Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5133-PPSA28398_00-INTERIMODYSSEY12",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA28401_00",
@@ -126635,9 +126707,9 @@
     "titleId": "PPSA28856_00",
     "conceptId": 10014247,
     "name": "Prison Alone",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA28856_00-PRISONALONEPS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA28872_00",
@@ -127928,6 +128000,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29307_00",
+    "conceptId": 10004777,
+    "name": "Oirbo",
+    "contentId": "UP7698-PPSA29307_00-0261982299442345",
+    "region": "UP",
+    "publisherId": "UP7698"
+  },
+  {
     "titleId": "PPSA29312_00",
     "conceptId": 10006003,
     "name": "WIPER",
@@ -128134,6 +128214,14 @@
     "contentId": "EP5645-PPSA29389_00-0643420932797411",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29391_00",
+    "conceptId": 10011083,
+    "name": "FREEDOM WARS Remastered Demo Version",
+    "contentId": "JP0700-PPSA29391_00-MAINGAME00000000",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA29394_00",
@@ -128846,6 +128934,30 @@
     "contentId": "EP5265-PPSA29638_00-0423722969636633",
     "region": "EP",
     "publisherId": "EP5265"
+  },
+  {
+    "titleId": "PPSA29667_00",
+    "conceptId": 10014882,
+    "name": "Bee Flowers: Save the Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29668_00",
+    "conceptId": 10014882,
+    "name": "Bee Flowers: Save the Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29669_00",
+    "conceptId": 10014882,
+    "name": "Bee Flowers: Save the Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29670_00",
@@ -129800,6 +129912,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30105_00",
+    "conceptId": 10015142,
+    "name": "Drunkn Bar Fight 2",
+    "contentId": "UP3542-PPSA30105_00-DRUNKNBARFIGHT02",
+    "region": "UP",
+    "publisherId": "UP3542"
+  },
+  {
     "titleId": "PPSA30113_00",
     "conceptId": 10014662,
     "name": "How 2 Escape: Lost Submarine - Demo",
@@ -130182,6 +130302,14 @@
     "contentId": "UP8553-PPSA30302_00-0778127593572385",
     "region": "UP",
     "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA30303_00",
+    "conceptId": 10015254,
+    "name": "Legends: Saint George",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30312_00",
@@ -130996,6 +131124,14 @@
     "conceptId": 10013219,
     "name": "Smash Zombies",
     "contentId": "UB0487-PPSA30962_00-0562518943061094",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30963_00",
+    "conceptId": 10013219,
+    "name": "Smash Zombies",
+    "contentId": "UB0487-PPSA30963_00-0025613802455451",
     "region": "UB",
     "publisherId": "UB0487"
   },
