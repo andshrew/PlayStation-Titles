@@ -69840,7 +69840,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16176_00",
+    "conceptId": 10008255,
+    "name": "Rise of Industry 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16177_00",
+    "conceptId": 10008255,
+    "name": "Rise of Industry 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA16178_00",
     "conceptId": 10008255,
     "name": "Rise of Industry 2",
     "contentId": null,
@@ -91739,9 +91755,9 @@
     "titleId": "PPSA20844_00",
     "conceptId": 10009187,
     "name": "Memory Lost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA20844_00-MLSTMGPS500000EU",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA20845_00",
@@ -121490,34 +121506,34 @@
   {
     "titleId": "PPSA27388_00",
     "conceptId": 10013403,
-    "name": "The Jumping Spaghetti - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Spaghetti",
+    "contentId": "EP6664-PPSA27388_00-0208520391441246",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA27389_00",
     "conceptId": 10013403,
-    "name": "The Jumping Spaghetti - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Spaghetti",
+    "contentId": "UP6664-PPSA27389_00-0658859003493627",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA27390_00",
     "conceptId": 10013403,
-    "name": "The Jumping Spaghetti - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Spaghetti",
+    "contentId": "JP6595-PPSA27390_00-0680487759492910",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA27391_00",
     "conceptId": 10013403,
-    "name": "The Jumping Spaghetti - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Spaghetti",
+    "contentId": "HP6661-PPSA27391_00-0564780336601919",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27396_00",
@@ -127099,9 +127115,9 @@
     "titleId": "PPSA28951_00",
     "conceptId": 10014471,
     "name": "Crime Scene Cleaner",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA28951_00-0398405101307776",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA28952_00",
@@ -127858,10 +127874,10 @@
   {
     "titleId": "PPSA29236_00",
     "conceptId": 10008217,
-    "name": "The Alters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Alters: Original Soundtrack",
+    "contentId": "UP4361-PPSA29236_00-0479871964136336",
+    "region": "UP",
+    "publisherId": "UP4361"
   },
   {
     "titleId": "PPSA29237_00",
@@ -129752,6 +129768,14 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA29883_00",
+    "conceptId": 10014952,
+    "name": "Pirate Trails: Tentacles and Treasures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29884_00",
     "conceptId": 10014952,
     "name": "Pirate Trails: Tentacles and Treasures",
@@ -129944,12 +129968,20 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA30024_00",
+    "conceptId": 10015092,
+    "name": "Past Easter",
+    "contentId": "UP7335-PPSA30024_00-0564855297978914",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA30025_00",
     "conceptId": 10015092,
     "name": "Past Easter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA30025_00-0215334920515788",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA30053_00",
@@ -130112,6 +130144,30 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA30129_00",
+    "conceptId": 10015035,
+    "name": "Holly's Hunt",
+    "contentId": "HP5361-PPSA30129_00-000000HOLLYSHUNT",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA30132_00",
+    "conceptId": 10015035,
+    "name": "Holly's Hunt",
+    "contentId": "JP5299-PPSA30132_00-000000HOLLYSHUNT",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA30133_00",
+    "conceptId": 10015035,
+    "name": "Holly's Hunt",
+    "contentId": "EP5645-PPSA30133_00-000000HOLLYSHUNT",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA30135_00",
     "conceptId": 10014662,
     "name": "How 2 Escape: Lost Submarine",
@@ -130240,6 +130296,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA30209_00",
+    "conceptId": 10014360,
+    "name": "KreatureKind",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30213_00",
     "conceptId": 10015212,
     "name": "Castle Heroes",
@@ -130254,6 +130318,14 @@
     "contentId": "EP4312-PPSA30217_00-0724862659387428",
     "region": "EP",
     "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA30218_00",
+    "conceptId": 10015196,
+    "name": "Aeon Attack",
+    "contentId": "UP4312-PPSA30218_00-0473847255890847",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA30222_00",
@@ -130574,6 +130646,14 @@
     "contentId": "EP7860-PPSA30336_00-0652284417916645",
     "region": "EP",
     "publisherId": "EP7860"
+  },
+  {
+    "titleId": "PPSA30337_00",
+    "conceptId": 10004616,
+    "name": "Dr. Oil",
+    "contentId": "UP7862-PPSA30337_00-0403755121285451",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA30338_00",
@@ -130947,9 +131027,9 @@
     "titleId": "PPSA30457_00",
     "conceptId": 10015339,
     "name": "Wild Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA30457_00-0845579821801329",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA30458_00",
@@ -131362,10 +131442,10 @@
   {
     "titleId": "PPSA30958_00",
     "conceptId": 10015638,
-    "name": "NBA quiz",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "NBA Quiz",
+    "contentId": "HB1069-PPSA30958_00-0261466464420493",
+    "region": "HB",
+    "publisherId": "HB1069"
   },
   {
     "titleId": "PPSA30961_00",
