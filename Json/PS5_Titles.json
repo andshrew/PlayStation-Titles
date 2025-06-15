@@ -69027,7 +69027,7 @@
     "titleId": "PPSA16033_00",
     "conceptId": 10008217,
     "name": "The Alters",
-    "contentId": null,
+    "contentId": "EP4361-PPSA16033_00-THEALTERSEU00000",
     "region": "EP",
     "publisherId": "EP4361"
   },
@@ -88755,9 +88755,9 @@
     "titleId": "PPSA20232_00",
     "conceptId": 10009187,
     "name": "Memory Lost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA20232_00-MLSTMGPS500000US",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA20233_00",
@@ -91763,9 +91763,9 @@
     "titleId": "PPSA20845_00",
     "conceptId": 10009187,
     "name": "Memory Lost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA20845_00-MLSTMGPS500000HP",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA20846_00",
@@ -114251,7 +114251,7 @@
     "titleId": "PPSA25682_00",
     "conceptId": 10012344,
     "name": "Five Nights at Freddy's: Secret of the Mimic",
-    "contentId": null,
+    "contentId": "UP0638-PPSA25682_00-FNAFSECMIMIC0000",
     "region": "UP",
     "publisherId": "UP0638"
   },
@@ -130152,6 +130152,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA30131_00",
+    "conceptId": 10015035,
+    "name": "Holly's Hunt",
+    "contentId": "UP5464-PPSA30131_00-000000HOLLYSHUNT",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA30132_00",
     "conceptId": 10015035,
     "name": "Holly's Hunt",
@@ -130312,6 +130320,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA30215_00",
+    "conceptId": 10015214,
+    "name": "Animal Bomber",
+    "contentId": "UB0008-PPSA30215_00-0083268493064163",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA30217_00",
     "conceptId": 10015196,
     "name": "Aeon Attack",
@@ -130334,6 +130350,14 @@
     "contentId": "UB1022-PPSA30222_00-ANOMALYSEEKDINNA",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA30224_00",
+    "conceptId": 10015220,
+    "name": "Curve Racer",
+    "contentId": "UB0008-PPSA30224_00-0148007550109948",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA30240_00",
@@ -131320,6 +131344,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA30575_00",
+    "conceptId": 10015398,
+    "name": "Bad Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30582_00",
+    "conceptId": 10015404,
+    "name": "CATCH ME IF YOU CAN",
+    "contentId": "EP8062-PPSA30582_00-0335416925322269",
+    "region": "EP",
+    "publisherId": "EP8062"
+  },
+  {
     "titleId": "PPSA30668_00",
     "conceptId": 10015451,
     "name": "Exit the lot",
@@ -131438,6 +131478,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA30890_00",
+    "conceptId": 10015597,
+    "name": "GLITCH: Dead Loop Horror",
+    "contentId": "UB0768-PPSA30890_00-0030911814527222",
+    "region": "UB",
+    "publisherId": "UB0768"
   },
   {
     "titleId": "PPSA30958_00",
