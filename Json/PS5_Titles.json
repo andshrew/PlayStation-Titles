@@ -117882,10 +117882,10 @@
   {
     "titleId": "PPSA26487_00",
     "conceptId": 10012719,
-    "name": "TRON: Catalyst",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TRON: CATALYST",
+    "contentId": "UB1176-PPSA26487_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB1176"
   },
   {
     "titleId": "PPSA26488_00",
@@ -118176,6 +118176,22 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA26567_00",
+    "conceptId": 10011603,
+    "name": "\u30a2\u30d0\u30c8\u30fc\u30eb",
+    "contentId": "JP1134-PPSA26567_00-0839761128565439",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
+    "titleId": "PPSA26568_00",
+    "conceptId": 10011603,
+    "name": "Abathor",
+    "contentId": "HP0980-PPSA26568_00-0711598984261923",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA26569_00",
     "conceptId": 10012940,
     "name": "United Assault - Final Stand",
@@ -118190,6 +118206,14 @@
     "contentId": "EP4902-PPSA26570_00-0196823586533255",
     "region": "EP",
     "publisherId": "EP4902"
+  },
+  {
+    "titleId": "PPSA26572_00",
+    "conceptId": 10012910,
+    "name": "Class of Heroes 3 Remaster",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA26576_00",
@@ -121363,7 +121387,7 @@
     "titleId": "PPSA27348_00",
     "conceptId": 10013371,
     "name": "Chronicles of the Wolf",
-    "contentId": null,
+    "contentId": "EP4293-PPSA27348_00-CHRONICLESOFWOLF",
     "region": "EP",
     "publisherId": "EP4293"
   },
@@ -121825,6 +121849,22 @@
   },
   {
     "titleId": "PPSA27468_00",
+    "conceptId": 10013427,
+    "name": "The Jumping Bonbon Match 2 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27469_00",
+    "conceptId": 10013427,
+    "name": "The Jumping Bonbon Match 2 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27470_00",
     "conceptId": 10013427,
     "name": "The Jumping Bonbon Match 2 - PS4 & PS5",
     "contentId": null,
@@ -125552,6 +125592,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA28412_00",
+    "conceptId": 10014144,
+    "name": "Giant Flee",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28413_00",
+    "conceptId": 10014144,
+    "name": "Giant Flee",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28414_00",
     "conceptId": 10014144,
     "name": "Giant Flee",
@@ -126778,10 +126834,10 @@
   {
     "titleId": "PPSA28788_00",
     "conceptId": 10013878,
-    "name": "Shadow of the orient",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Shadow of the Orient",
+    "contentId": "JP0078-PPSA28788_00-SHADOWOFTHEORIEN",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA28796_00",
@@ -129960,6 +130016,22 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA29924_00",
+    "conceptId": 10012701,
+    "name": "\u30de\u30b9\u30bf\u30fc\u30aa\u30d6\u30e2\u30f3\u30b9\u30bf\u30fc\u30baSSB\u4f53\u9a13\u7248",
+    "contentId": "JP0393-PPSA29924_00-0464406993643832",
+    "region": "JP",
+    "publisherId": "JP0393"
+  },
+  {
+    "titleId": "PPSA29939_00",
+    "conceptId": 10003301,
+    "name": "GigaBash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29943_00",
     "conceptId": 10015058,
     "name": "Gang Blast",
@@ -130046,6 +130118,38 @@
     "contentId": "HP8406-PPSA29974_00-0941576290785865",
     "region": "HP",
     "publisherId": "HP8406"
+  },
+  {
+    "titleId": "PPSA29997_00",
+    "conceptId": 10015073,
+    "name": "Puzzle Escapes: Paws and Claws",
+    "contentId": "EP1411-PPSA29997_00-0807951500999883",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA29998_00",
+    "conceptId": 10015073,
+    "name": "Puzzle Escapes: Paws and Claws",
+    "contentId": "EP1411-PPSA29998_00-0377481121992357",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA29999_00",
+    "conceptId": 10015073,
+    "name": "Puzzle Escapes: Paws and Claws",
+    "contentId": "EP1411-PPSA29999_00-0198072383301873",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA30000_00",
+    "conceptId": 10015073,
+    "name": "Puzzle Escapes: Paws and Claws",
+    "contentId": "EP1411-PPSA30000_00-0589106930041370",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA30007_00",
@@ -130416,6 +130520,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA30202_00",
+    "conceptId": 10015192,
+    "name": "\u7d19\u888b\u306e\u82f1\u96c4",
+    "contentId": "UB0675-PPSA30202_00-0987096754595547",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
     "titleId": "PPSA30203_00",
     "conceptId": 10011792,
     "name": "Lost in Random: The Eternal Die Demo",
@@ -130715,9 +130827,9 @@
     "titleId": "PPSA30303_00",
     "conceptId": 10015254,
     "name": "Legends: Saint George",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1052-PPSA30303_00-0417701146549258",
+    "region": "UB",
+    "publisherId": "UB1052"
   },
   {
     "titleId": "PPSA30312_00",
@@ -130979,9 +131091,9 @@
     "titleId": "PPSA30413_00",
     "conceptId": 10015313,
     "name": "Collie Call: Farm of Tomorrow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA30413_00-0835092910882565",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA30414_00",
@@ -131003,9 +131115,9 @@
     "titleId": "PPSA30416_00",
     "conceptId": 10015313,
     "name": "Collie Call: Farm of Tomorrow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA30416_00-0775615142701495",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA30417_00",
@@ -131632,6 +131744,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30716_00",
+    "conceptId": 10015488,
+    "name": "Knight Quest: Goblins Raid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30718_00",
+    "conceptId": 10015488,
+    "name": "Knight Quest: Goblins Raid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30719_00",
+    "conceptId": 10015488,
+    "name": "Knight Quest: Goblins Raid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30736_00",
     "conceptId": 10015495,
     "name": "Lucky Drop",
@@ -131672,6 +131808,14 @@
     "publisherId": "UP8623"
   },
   {
+    "titleId": "PPSA30817_00",
+    "conceptId": 10015544,
+    "name": "Only Tung Tung Sahur UP",
+    "contentId": "UB0768-PPSA30817_00-0209175972495178",
+    "region": "UB",
+    "publisherId": "UB0768"
+  },
+  {
     "titleId": "PPSA30842_00",
     "conceptId": 10015562,
     "name": "Memory Holder: The Alphabet",
@@ -131704,20 +131848,28 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA30849_00",
+    "conceptId": 10015566,
+    "name": "Medieval escape",
+    "contentId": "HB1069-PPSA30849_00-0360205438817775",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
     "titleId": "PPSA30869_00",
     "conceptId": 10015590,
     "name": "Bombardiro Crocodilo Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0599-PPSA30869_00-BOMBARDIRO00SIEA",
+    "region": "UB",
+    "publisherId": "UB0599"
   },
   {
     "titleId": "PPSA30870_00",
     "conceptId": 10015590,
     "name": "Bombardiro Crocodilo Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA30870_00-BOMBARDIRO00SIEE",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA30890_00",
@@ -131864,7 +132016,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31180_00",
+    "conceptId": 10015740,
+    "name": "Chimpanzini Bananini",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31181_00",
+    "conceptId": 10015740,
+    "name": "Chimpanzini Bananini",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31182_00",
     "conceptId": 10015740,
     "name": "Chimpanzini Bananini",
     "contentId": null,
