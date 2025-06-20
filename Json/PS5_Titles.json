@@ -18160,6 +18160,14 @@
     "publisherId": "UP3455"
   },
   {
+    "titleId": "PPSA05119_00",
+    "conceptId": 10003464,
+    "name": "Maximum Football",
+    "contentId": "UP4735-PPSA05119_00-MAXIMUMFBALL0000",
+    "region": "UP",
+    "publisherId": "UP4735"
+  },
+  {
     "titleId": "PPSA05121_00",
     "conceptId": 227353,
     "name": "Energy Cycle",
@@ -40550,6 +40558,14 @@
     "contentId": "HP8005-PPSA09131_00-6902524762421429",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA09132_00",
+    "conceptId": 10002901,
+    "name": "Climate Station",
+    "contentId": "EP9000-PPSA09132_00-CLIMATESTATEUPS5",
+    "region": "EP",
+    "publisherId": "EP9000"
   },
   {
     "titleId": "PPSA09135_00",
@@ -98107,7 +98123,7 @@
     "titleId": "PPSA22273_00",
     "conceptId": 10010668,
     "name": "Architect Life: A House Design Simulator",
-    "contentId": null,
+    "contentId": "EP6665-PPSA22273_00-ARCHI00000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -99166,6 +99182,22 @@
     "contentId": "HB0706-PPSA22498_00-0719858881366292",
     "region": "HB",
     "publisherId": "HB0706"
+  },
+  {
+    "titleId": "PPSA22500_00",
+    "conceptId": 233032,
+    "name": "Black Desert PS5",
+    "contentId": "UP4162-PPSA22500_00-0271499987580898",
+    "region": "UP",
+    "publisherId": "UP4162"
+  },
+  {
+    "titleId": "PPSA22501_00",
+    "conceptId": 233032,
+    "name": "Black Desert PS5 EU",
+    "contentId": "EP3930-PPSA22501_00-0987524494756162",
+    "region": "EP",
+    "publisherId": "EP3930"
   },
   {
     "titleId": "PPSA22503_00",
@@ -104786,8 +104818,8 @@
   {
     "titleId": "PPSA23770_00",
     "conceptId": 10011349,
-    "name": "REMATCH",
-    "contentId": null,
+    "name": "Rematch",
+    "contentId": "EP2566-PPSA23770_00-REMATCH000000PS5",
     "region": "EP",
     "publisherId": "EP2566"
   },
@@ -110708,8 +110740,8 @@
     "conceptId": 10011185,
     "name": "The Wandering Village PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP6400"
   },
   {
     "titleId": "PPSA24944_00",
@@ -117347,9 +117379,9 @@
     "titleId": "PPSA26380_00",
     "conceptId": 10004547,
     "name": "Spidersaurs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA26380_00-SPIDERSAURS000JP",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA26381_00",
@@ -118214,6 +118246,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP4293"
+  },
+  {
+    "titleId": "PPSA26573_00",
+    "conceptId": 10012910,
+    "name": "Class of Heroes 3 Remaster",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA26576_00",
@@ -119586,10 +119626,10 @@
   {
     "titleId": "PPSA26925_00",
     "conceptId": 10013107,
-    "name": "No Sun To Worship",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "NoSunToWorship",
+    "contentId": "EP6170-PPSA26925_00-NOSUNTOWORSHIPS5",
+    "region": "EP",
+    "publisherId": "EP6170"
   },
   {
     "titleId": "PPSA26926_00",
@@ -120515,9 +120555,9 @@
     "titleId": "PPSA27154_00",
     "conceptId": 10013257,
     "name": "Vessels of Decay",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0822-PPSA27154_00-VESSELSOFDECAY05",
+    "region": "EP",
+    "publisherId": "EP0822"
   },
   {
     "titleId": "PPSA27155_00",
@@ -121842,18 +121882,18 @@
   {
     "titleId": "PPSA27467_00",
     "conceptId": 10013427,
-    "name": "The Jumping Bonbon Match 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Bonbon Match 2",
+    "contentId": "EP6664-PPSA27467_00-0654753240278590",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA27468_00",
     "conceptId": 10013427,
-    "name": "The Jumping Bonbon Match 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Bonbon Match 2",
+    "contentId": "UP6664-PPSA27468_00-0441137098248674",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA27469_00",
@@ -123051,9 +123091,9 @@
     "titleId": "PPSA27759_00",
     "conceptId": 10013644,
     "name": "Arena Renovation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8381-PPSA27759_00-ARENARENOFM00001",
+    "region": "UP",
+    "publisherId": "UP8381"
   },
   {
     "titleId": "PPSA27760_00",
@@ -124584,6 +124624,14 @@
     "publisherId": "EP4395"
   },
   {
+    "titleId": "PPSA28146_00",
+    "conceptId": 10013890,
+    "name": "Croaktopia",
+    "contentId": "UP7631-PPSA28146_00-0488813803534574",
+    "region": "UP",
+    "publisherId": "UP7631"
+  },
+  {
     "titleId": "PPSA28148_00",
     "conceptId": 10013942,
     "name": "One Fear",
@@ -124827,9 +124875,9 @@
     "titleId": "PPSA28223_00",
     "conceptId": 10014006,
     "name": "Escaping Wonderland",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7408-PPSA28223_00-0122840457705725",
+    "region": "UP",
+    "publisherId": "UP7408"
   },
   {
     "titleId": "PPSA28224_00",
@@ -125611,9 +125659,9 @@
     "titleId": "PPSA28414_00",
     "conceptId": 10014144,
     "name": "Giant Flee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28414_00-0395060415320659",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28415_00",
@@ -125659,9 +125707,9 @@
     "titleId": "PPSA28425_00",
     "conceptId": 10014154,
     "name": "Nova Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1338-PPSA28425_00-0759656654829919",
+    "region": "UB",
+    "publisherId": "UB1338"
   },
   {
     "titleId": "PPSA28456_00",
@@ -126523,9 +126571,9 @@
     "titleId": "PPSA28643_00",
     "conceptId": 10014154,
     "name": "Nova Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1338-PPSA28643_00-0230218730509257",
+    "region": "UB",
+    "publisherId": "UB1338"
   },
   {
     "titleId": "PPSA28660_00",
@@ -126779,7 +126827,7 @@
     "titleId": "PPSA28751_00",
     "conceptId": 10014333,
     "name": "Maestro",
-    "contentId": null,
+    "contentId": "UB0480-PPSA28751_00-0505951283721337",
     "region": "UB",
     "publisherId": "UB0480"
   },
@@ -126803,9 +126851,9 @@
     "titleId": "PPSA28771_00",
     "conceptId": 10014364,
     "name": "Fruitbus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1335-PPSA28771_00-0848287804241578",
+    "region": "UB",
+    "publisherId": "UB1335"
   },
   {
     "titleId": "PPSA28772_00",
@@ -126998,6 +127046,22 @@
     "contentId": "UP4312-PPSA28875_00-0481279427741833",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA28876_00",
+    "conceptId": 10014428,
+    "name": "Gravity Strike",
+    "contentId": "JP0089-PPSA28876_00-0577305968665854",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA28877_00",
+    "conceptId": 10014428,
+    "name": "Gravity Strike",
+    "contentId": "HP4312-PPSA28877_00-0482011561418561",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA28887_00",
@@ -127854,6 +127918,14 @@
     "contentId": "UP8710-PPSA29188_00-0414994257467901",
     "region": "UP",
     "publisherId": "UP8710"
+  },
+  {
+    "titleId": "PPSA29189_00",
+    "conceptId": 10014636,
+    "name": "Little Strays",
+    "contentId": "UB0383-PPSA29189_00-0504266529563382",
+    "region": "UB",
+    "publisherId": "UB0383"
   },
   {
     "titleId": "PPSA29190_00",
@@ -129811,9 +129883,9 @@
     "titleId": "PPSA29838_00",
     "conceptId": 10014996,
     "name": "Prehistoric Gal",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA29838_00-PREHISTORICGALRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA29845_00",
@@ -129826,10 +129898,10 @@
   {
     "titleId": "PPSA29857_00",
     "conceptId": 10015007,
-    "name": "Weed & Greed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Weed And Greed",
+    "contentId": "EB0805-PPSA29857_00-0931303537632937",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29858_00",
@@ -129842,18 +129914,18 @@
   {
     "titleId": "PPSA29859_00",
     "conceptId": 10015007,
-    "name": "Weed & Greed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Weed And Greed",
+    "contentId": "EB0805-PPSA29859_00-0194882684052604",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29860_00",
     "conceptId": 10015007,
-    "name": "Weed & Greed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Weed And Greed",
+    "contentId": "EB0805-PPSA29860_00-0964645507782280",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29862_00",
@@ -129955,9 +130027,9 @@
     "titleId": "PPSA29883_00",
     "conceptId": 10014952,
     "name": "Pirate Trails: Tentacles and Treasures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA29883_00-0781303311004578",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA29884_00",
@@ -130025,6 +130097,14 @@
   },
   {
     "titleId": "PPSA29939_00",
+    "conceptId": 10003301,
+    "name": "GigaBash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29940_00",
     "conceptId": 10003301,
     "name": "GigaBash",
     "contentId": null,
@@ -130426,10 +130506,10 @@
   {
     "titleId": "PPSA30142_00",
     "conceptId": 10015042,
-    "name": "Presentiment of Death",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "PresentimentOfDeath",
+    "contentId": "UB0192-PPSA30142_00-0189891809928772",
+    "region": "UB",
+    "publisherId": "UB0192"
   },
   {
     "titleId": "PPSA30148_00",
@@ -130928,6 +131008,30 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA30332_00",
+    "conceptId": 10005713,
+    "name": "Devoured by Darkness",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30334_00",
+    "conceptId": 10005713,
+    "name": "Devoured by Darkness",
+    "contentId": "HP7889-PPSA30334_00-0973255948958117",
+    "region": "HP",
+    "publisherId": "HP7889"
+  },
+  {
+    "titleId": "PPSA30335_00",
+    "conceptId": 10005713,
+    "name": "Devoured by Darkness",
+    "contentId": "JP7843-PPSA30335_00-0874407041390475",
+    "region": "JP",
+    "publisherId": "JP7843"
+  },
+  {
     "titleId": "PPSA30336_00",
     "conceptId": 10004616,
     "name": "Dr. Oil",
@@ -131123,33 +131227,33 @@
     "titleId": "PPSA30417_00",
     "conceptId": 10015315,
     "name": "Minos Dungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA30417_00-0565099037902835",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA30418_00",
     "conceptId": 10015315,
     "name": "Minos Dungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA30418_00-0450533244489477",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA30419_00",
     "conceptId": 10015315,
     "name": "Minos Dungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA30419_00-0877660164181200",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA30420_00",
     "conceptId": 10015315,
     "name": "Minos Dungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA30420_00-0948608961361713",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA30421_00",
@@ -131443,9 +131547,9 @@
     "titleId": "PPSA30497_00",
     "conceptId": 10015367,
     "name": "The Original Moorhuhn Hunt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA30497_00-MOORHUORIGIPS5WW",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA30500_00",
@@ -131550,6 +131654,14 @@
     "contentId": "JP5299-PPSA30534_00-000000BUBBLEFISH",
     "region": "JP",
     "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA30539_00",
+    "conceptId": 10015384,
+    "name": "Ball Rush 2",
+    "contentId": "UB0337-PPSA30539_00-0924368263980935",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA30541_00",
@@ -131688,6 +131800,22 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30678_00",
+    "conceptId": 10015466,
+    "name": "Marine Survivors",
+    "contentId": "HP7141-PPSA30678_00-0011280664357082",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA30680_00",
+    "conceptId": 10015466,
+    "name": "Marine Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30695_00",
     "conceptId": 10015477,
     "name": "Frame Cat",
@@ -131806,6 +131934,14 @@
     "contentId": "UP8623-PPSA30772_00-0455047548381676",
     "region": "UP",
     "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA30804_00",
+    "conceptId": 10015534,
+    "name": "Battle Mythic Maidens Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30817_00",
@@ -131928,6 +132064,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31028_00",
+    "conceptId": 10015655,
+    "name": "Puzzle Piecer: The Sky Above",
+    "contentId": "HP7367-PPSA31028_00-0710703077002354",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA31029_00",
+    "conceptId": 10015655,
+    "name": "Puzzle Piecer: The Sky Above",
+    "contentId": "JP7323-PPSA31029_00-0314049370460884",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
     "titleId": "PPSA31099_00",
     "conceptId": 10015336,
     "name": "Tung Tung Tung Sahur Runner",
@@ -132016,6 +132168,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31173_00",
+    "conceptId": 10015734,
+    "name": "Pixicharm - Gravenguard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31180_00",
     "conceptId": 10015740,
     "name": "Chimpanzini Bananini",
@@ -132033,6 +132193,14 @@
   },
   {
     "titleId": "PPSA31182_00",
+    "conceptId": 10015740,
+    "name": "Chimpanzini Bananini",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31183_00",
     "conceptId": 10015740,
     "name": "Chimpanzini Bananini",
     "contentId": null,
