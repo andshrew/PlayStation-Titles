@@ -97107,7 +97107,7 @@
     "titleId": "PPSA22053_00",
     "conceptId": 10010609,
     "name": "Star Overdrive",
-    "contentId": null,
+    "contentId": "EB0235-PPSA22053_00-STAROVERDRIVESIE",
     "region": "EB",
     "publisherId": "EB0235"
   },
@@ -119376,6 +119376,14 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA26854_00",
+    "conceptId": 10004736,
+    "name": "Mandragora: Whispers of the Witch Tree",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26856_00",
     "conceptId": 10012925,
     "name": "KVARK",
@@ -124019,9 +124027,9 @@
     "titleId": "PPSA27982_00",
     "conceptId": 10013837,
     "name": "Tile Jong",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA27982_00-0666757567596663",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA27983_00",
@@ -130672,6 +130680,22 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA30198_00",
+    "conceptId": 10014688,
+    "name": "Twin Colliders",
+    "contentId": "EP5645-PPSA30198_00-000TWINCOLLIDERS",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA30201_00",
+    "conceptId": 10014688,
+    "name": "Twin Colliders",
+    "contentId": "EP5645-PPSA30201_00-000TWINCOLLIDERS",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA30202_00",
     "conceptId": 10015192,
     "name": "\u7d19\u888b\u306e\u82f1\u96c4",
@@ -132224,6 +132248,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA31056_00",
+    "conceptId": 10015662,
+    "name": "ESCAPE BACKROOMS: DARKNESS HORROR",
+    "contentId": "EB0963-PPSA31056_00-0286878247164197",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA31099_00",
     "conceptId": 10015336,
     "name": "Tung Tung Tung Sahur Runner",
@@ -132299,17 +132331,17 @@
     "titleId": "PPSA31170_00",
     "conceptId": 10015732,
     "name": "Astro Surge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA31170_00-0357674087680048",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA31171_00",
     "conceptId": 10015732,
     "name": "Astro Surge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA31171_00-0268561090495446",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA31173_00",
