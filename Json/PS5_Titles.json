@@ -744,6 +744,14 @@
     "publisherId": "EP1001"
   },
   {
+    "titleId": "PPSA01494_00",
+    "conceptId": 10000819,
+    "name": "Borderlands 4",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1001"
+  },
+  {
     "titleId": "PPSA01499_00",
     "conceptId": 10000846,
     "name": "FORSPOKEN",
@@ -116432,6 +116440,22 @@
     "publisherId": "EP4796"
   },
   {
+    "titleId": "PPSA26177_00",
+    "conceptId": 10012660,
+    "name": "PATAPON 1+2 REPLAY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26178_00",
+    "conceptId": 10012660,
+    "name": "PATAPON 1+2 REPLAY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26181_00",
     "conceptId": 10012652,
     "name": "Perfect Ninja Painter 2",
@@ -124784,6 +124808,14 @@
     "publisherId": "HP9000"
   },
   {
+    "titleId": "PPSA28187_00",
+    "conceptId": 10013991,
+    "name": "All The Words She Wrote",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28188_00",
     "conceptId": 10013992,
     "name": "The Fairy's Secret",
@@ -127164,8 +127196,8 @@
     "conceptId": 10014415,
     "name": "Monument Valley 3",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP6357"
   },
   {
     "titleId": "PPSA28916_00",
@@ -128310,6 +128342,22 @@
     "contentId": "UB0008-PPSA29275_00-0039544448892816",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA29288_00",
+    "conceptId": 10014675,
+    "name": "Music Drive: Chase the\u00a0Beat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29289_00",
+    "conceptId": 10014675,
+    "name": "Music Drive: Chase the\u00a0Beat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29290_00",
@@ -129886,6 +129934,14 @@
     "contentId": "UP5464-PPSA29828_00-0278871767392377",
     "region": "UP",
     "publisherId": "UP5464"
+  },
+  {
+    "titleId": "PPSA29830_00",
+    "conceptId": 10014912,
+    "name": "Tiny Town Roll",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29832_00",
@@ -132019,9 +132075,9 @@
     "titleId": "PPSA30696_00",
     "conceptId": 10015477,
     "name": "Frame Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA30696_00-00000000FRAMECAT",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA30697_00",
@@ -132035,9 +132091,17 @@
     "titleId": "PPSA30698_00",
     "conceptId": 10015477,
     "name": "Frame Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA30698_00-00000000FRAMECAT",
+    "region": "UP",
+    "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA30706_00",
+    "conceptId": 10013192,
+    "name": "Liar's Pub",
+    "contentId": "UB1028-PPSA30706_00-0686845844910177",
+    "region": "UB",
+    "publisherId": "UB1028"
   },
   {
     "titleId": "PPSA30707_00",
@@ -132294,6 +132358,14 @@
     "contentId": "EB0963-PPSA31056_00-0286878247164197",
     "region": "EB",
     "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA31085_00",
+    "conceptId": 10015664,
+    "name": "Fill The Cup 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31099_00",
