@@ -75996,8 +75996,8 @@
     "conceptId": 10008409,
     "name": "Firefighting Simulator: Ignite",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP2430"
   },
   {
     "titleId": "PPSA17464_00",
@@ -78014,6 +78014,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP7588"
+  },
+  {
+    "titleId": "PPSA17928_00",
+    "conceptId": 10008990,
+    "name": "\u5c4a\u3051\u308d\uff01\u6226\u3048\uff01\u30ab\u30e9\u30df\u30c6\u30a3\u30a8\u30f3\u30b8\u30a7\u30eb\u30ba",
+    "contentId": "JP0031-PPSA17928_00-DFCAFULLGAME0000",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA17929_00",
@@ -115616,6 +115624,14 @@
     "publisherId": "EP3729"
   },
   {
+    "titleId": "PPSA25991_00",
+    "conceptId": 10012536,
+    "name": "Senua's Saga: Hellblade II",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6311"
+  },
+  {
     "titleId": "PPSA25993_00",
     "conceptId": 10012508,
     "name": "Exit Station 7",
@@ -116456,6 +116472,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26179_00",
+    "conceptId": 10012660,
+    "name": "PATAPON 1+2 REPLAY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26181_00",
     "conceptId": 10012652,
     "name": "Perfect Ninja Painter 2",
@@ -116706,10 +116730,10 @@
   {
     "titleId": "PPSA26229_00",
     "conceptId": 10012701,
-    "name": "Master of Monsters SSB",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30de\u30b9\u30bf\u30fc\u30aa\u30d6\u30e2\u30f3\u30b9\u30bf\u30fc\u30baSSB",
+    "contentId": "JP0393-PPSA26229_00-0747174704606154",
+    "region": "JP",
+    "publisherId": "JP0393"
   },
   {
     "titleId": "PPSA26231_00",
@@ -118286,6 +118310,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4293"
+  },
+  {
+    "titleId": "PPSA26575_00",
+    "conceptId": 10011465,
+    "name": "Project Motor Racing",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4399"
   },
   {
     "titleId": "PPSA26576_00",
@@ -122592,6 +122624,14 @@
     "publisherId": "UP6527"
   },
   {
+    "titleId": "PPSA27624_00",
+    "conceptId": 10013480,
+    "name": "Bendy and the Dark Revival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27625_00",
     "conceptId": 10013482,
     "name": "FANTASY LIFE i: The Girl Who Steals Time",
@@ -125960,6 +126000,14 @@
     "publisherId": "UB0797"
   },
   {
+    "titleId": "PPSA28507_00",
+    "conceptId": 10014201,
+    "name": "Irem Collection Volume 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28508_00",
     "conceptId": 10014204,
     "name": "Through the Nightmares",
@@ -125987,17 +126035,17 @@
     "titleId": "PPSA28514_00",
     "conceptId": 10014148,
     "name": "I Am Your Beast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6458-PPSA28514_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6458"
   },
   {
     "titleId": "PPSA28515_00",
     "conceptId": 10014148,
     "name": "I Am Your Beast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6458-PPSA28515_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6458"
   },
   {
     "titleId": "PPSA28516_00",
@@ -127475,9 +127523,9 @@
     "titleId": "PPSA28983_00",
     "conceptId": 10012797,
     "name": "Farmer's Life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8381-PPSA28983_00-FARMERSLIFE00000",
+    "region": "UP",
+    "publisherId": "UP8381"
   },
   {
     "titleId": "PPSA28985_00",
@@ -127534,6 +127582,14 @@
     "contentId": "EB1415-PPSA29001_00-0286142907067762",
     "region": "EB",
     "publisherId": "EB1415"
+  },
+  {
+    "titleId": "PPSA29005_00",
+    "conceptId": 10014499,
+    "name": "TRUCK SIMULATOR 25 VR - AMERICAN DRIVER",
+    "contentId": "UB1028-PPSA29005_00-0923379634092846",
+    "region": "UB",
+    "publisherId": "UB1028"
   },
   {
     "titleId": "PPSA29011_00",
@@ -129400,6 +129456,14 @@
     "publisherId": "EP5265"
   },
   {
+    "titleId": "PPSA29652_00",
+    "conceptId": 10007196,
+    "name": "\u30d2\u30f3\u30bf\u30fc\u30d9\u30eb\u30af\u306e\u30c0\u30f3\u30b8\u30e7\u30f3",
+    "contentId": "JP0098-PPSA29652_00-DUNGEONSOFHPS5JP",
+    "region": "JP",
+    "publisherId": "JP0098"
+  },
+  {
     "titleId": "PPSA29667_00",
     "conceptId": 10014882,
     "name": "Bee Flowers: Save the Garden",
@@ -130584,12 +130648,36 @@
     "publisherId": "UP3542"
   },
   {
+    "titleId": "PPSA30111_00",
+    "conceptId": 10015128,
+    "name": "FARLAND SAGA I Saturn Tribute PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30112_00",
+    "conceptId": 10015145,
+    "name": "\u30d5\u30a1\u30fc\u30e9\u30f3\u30c9\u30b5\u30fc\u30ac \u2161 \u30b5\u30bf\u30fc\u30f3\u30c8\u30ea\u30d3\u30e5\u30fc\u30c8",
+    "contentId": "JP1091-PPSA30112_00-0952943070510760",
+    "region": "JP",
+    "publisherId": "JP1091"
+  },
+  {
     "titleId": "PPSA30113_00",
     "conceptId": 10014662,
     "name": "How 2 Escape: Lost Submarine - Demo",
     "contentId": "EP8208-PPSA30113_00-HOW2ESCAPE2DEMO0",
     "region": "EP",
     "publisherId": "EP8208"
+  },
+  {
+    "titleId": "PPSA30116_00",
+    "conceptId": 10012616,
+    "name": "\u30b3\u30fc\u30d2\u30fc\u30c8\u30fc\u30af \u30c8\u30fc\u30ad\u30e7\u30fc \u30c7\u30e2",
+    "contentId": "JP0211-PPSA30116_00-0822706971068446",
+    "region": "JP",
+    "publisherId": "JP0211"
   },
   {
     "titleId": "PPSA30120_00",
@@ -131342,6 +131430,22 @@
     "contentId": "JP5299-PPSA30360_00-000CIRCLEDEFENSE",
     "region": "JP",
     "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA30363_00",
+    "conceptId": 227190,
+    "name": "Shadow Tactics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30364_00",
+    "conceptId": 227190,
+    "name": "Shadow Tactics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30371_00",
@@ -132171,33 +132275,33 @@
     "titleId": "PPSA30716_00",
     "conceptId": 10015488,
     "name": "Knight Quest: Goblins Raid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA30716_00-0521681289799485",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA30717_00",
     "conceptId": 10015488,
     "name": "Knight Quest: Goblins Raid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA30717_00-0039449455975772",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA30718_00",
     "conceptId": 10015488,
     "name": "Knight Quest: Goblins Raid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA30718_00-0378841091982348",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA30719_00",
     "conceptId": 10015488,
     "name": "Knight Quest: Goblins Raid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA30719_00-0595980747719928",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA30736_00",
@@ -132230,6 +132334,14 @@
     "contentId": "UB0752-PPSA30739_00-0943948899908578",
     "region": "UB",
     "publisherId": "UB0752"
+  },
+  {
+    "titleId": "PPSA30754_00",
+    "conceptId": 10015499,
+    "name": "Alchemist: Journey of The Soul Demo",
+    "contentId": "EP5265-PPSA30754_00-0241530539273455",
+    "region": "EP",
+    "publisherId": "EP5265"
   },
   {
     "titleId": "PPSA30772_00",
@@ -132424,7 +132536,23 @@
     "publisherId": "EB0963"
   },
   {
+    "titleId": "PPSA31084_00",
+    "conceptId": 10015664,
+    "name": "Fill The Cup 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31085_00",
+    "conceptId": 10015664,
+    "name": "Fill The Cup 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31086_00",
     "conceptId": 10015664,
     "name": "Fill The Cup 2",
     "contentId": null,
@@ -132478,6 +132606,14 @@
     "contentId": "JB0538-PPSA31108_00-BOMBARDIRO0SIEAS",
     "region": "JB",
     "publisherId": "JB0538"
+  },
+  {
+    "titleId": "PPSA31110_00",
+    "conceptId": 10015694,
+    "name": "Snake 2048",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31132_00",
@@ -132560,28 +132696,36 @@
     "publisherId": null
   },
   {
-    "titleId": "PPSA31257_00",
-    "conceptId": 10015782,
-    "name": "Cappuccino Assassino Shooter",
+    "titleId": "PPSA31253_00",
+    "conceptId": 10015694,
+    "name": "Snake 2048",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA31257_00",
+    "conceptId": 10015782,
+    "name": "Cappuccino Assassino Shooter",
+    "contentId": "UB0599-PPSA31257_00-CAPPUCCINO00SIEA",
+    "region": "UB",
+    "publisherId": "UB0599"
   },
   {
     "titleId": "PPSA31258_00",
     "conceptId": 10015782,
     "name": "Cappuccino Assassino Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA31258_00-CAPPUCCINO00SIEE",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA31259_00",
     "conceptId": 10015782,
     "name": "Cappuccino Assassino Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0567-PPSA31259_00-CHIMPANZINISIEJP",
+    "region": "HB",
+    "publisherId": "HB0567"
   },
   {
     "titleId": "PPSA31260_00",
