@@ -50200,6 +50200,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10737_00",
+    "conceptId": 223059,
+    "name": "Little Nightmares",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10738_00",
+    "conceptId": 223059,
+    "name": "Little Nightmares",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA10740_00",
+    "conceptId": 223059,
+    "name": "Little Nightmares",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10741_00",
     "conceptId": 10001852,
     "name": "WOW",
@@ -118739,9 +118763,9 @@
     "titleId": "PPSA26650_00",
     "conceptId": 10012974,
     "name": "Ruffy And The Riverside",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB1262-PPSA26650_00-0443086343196722",
+    "region": "JB",
+    "publisherId": "JB1262"
   },
   {
     "titleId": "PPSA26660_00",
@@ -120427,9 +120451,9 @@
     "titleId": "PPSA27106_00",
     "conceptId": 10013234,
     "name": "Beef Cat Ultra",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0851-PPSA27106_00-0330660289142905",
+    "region": "UB",
+    "publisherId": "UB0851"
   },
   {
     "titleId": "PPSA27109_00",
@@ -121076,6 +121100,14 @@
     "conceptId": 10013329,
     "name": "Young Bird Endless Flight",
     "contentId": "UP7668-PPSA27259_00-0736266522079710",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27260_00",
+    "conceptId": 10013329,
+    "name": "Young Bird Endless Flight",
+    "contentId": "UP7668-PPSA27260_00-0953941110853840",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -122387,9 +122419,9 @@
     "titleId": "PPSA27575_00",
     "conceptId": 10013493,
     "name": "Bambas!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3379-PPSA27575_00-0684830837221441",
+    "region": "HP",
+    "publisherId": "HP3379"
   },
   {
     "titleId": "PPSA27576_00",
@@ -126899,9 +126931,9 @@
     "titleId": "PPSA28703_00",
     "conceptId": 10014321,
     "name": "Be A Bee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28703_00-0388138353727039",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28704_00",
@@ -127222,6 +127254,14 @@
     "contentId": "HP4312-PPSA28877_00-0482011561418561",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA28884_00",
+    "conceptId": 10014058,
+    "name": "Delta Force (F2P)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5104"
   },
   {
     "titleId": "PPSA28887_00",
@@ -127702,6 +127742,22 @@
     "contentId": "UP4173-PPSA29026_00-0739229762817761",
     "region": "UP",
     "publisherId": "UP4173"
+  },
+  {
+    "titleId": "PPSA29032_00",
+    "conceptId": 10011682,
+    "name": "ANTRO",
+    "contentId": "EP6325-PPSA29032_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6325"
+  },
+  {
+    "titleId": "PPSA29033_00",
+    "conceptId": 10011682,
+    "name": "ANTRO",
+    "contentId": "EP6325-PPSA29033_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA29037_00",
@@ -128760,12 +128816,36 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA29382_00",
+    "conceptId": 10014734,
+    "name": "BATS BITS BALLS",
+    "contentId": "UB0701-PPSA29382_00-0987558356862552",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
     "titleId": "PPSA29383_00",
     "conceptId": 10014734,
     "name": "BATS BITS BALLS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0701-PPSA29383_00-0675766818764245",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
+    "titleId": "PPSA29384_00",
+    "conceptId": 10014734,
+    "name": "BATS BITS BALLS",
+    "contentId": "UB0701-PPSA29384_00-0576267980617330",
+    "region": "UB",
+    "publisherId": "UB0701"
+  },
+  {
+    "titleId": "PPSA29385_00",
+    "conceptId": 10014734,
+    "name": "BATS BITS BALLS",
+    "contentId": "UB0701-PPSA29385_00-0101748442157962",
+    "region": "UB",
+    "publisherId": "UB0701"
   },
   {
     "titleId": "PPSA29386_00",
@@ -128876,6 +128956,22 @@
     "conceptId": 10014758,
     "name": "Underwater Submarine Rush",
     "contentId": "UP7668-PPSA29417_00-0706631251963750",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA29418_00",
+    "conceptId": 10014758,
+    "name": "Underwater Submarine Rush",
+    "contentId": "UP7668-PPSA29418_00-0639508106456351",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA29419_00",
+    "conceptId": 10014758,
+    "name": "Underwater Submarine Rush",
+    "contentId": "UP7668-PPSA29419_00-0358542962193785",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -129278,6 +129374,22 @@
     "contentId": "UP5464-PPSA29536_00-0000000000DLASER",
     "region": "UP",
     "publisherId": "UP5464"
+  },
+  {
+    "titleId": "PPSA29556_00",
+    "conceptId": 10014843,
+    "name": "Retro Geek Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29557_00",
+    "conceptId": 10014843,
+    "name": "Retro Geek Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29561_00",
@@ -130600,6 +130712,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA30033_00",
+    "conceptId": 10015099,
+    "name": "Day of the Shell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30044_00",
     "conceptId": 10014400,
     "name": "Pilo and the Holobook",
@@ -130952,6 +131072,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA30177_00",
+    "conceptId": 10007325,
+    "name": "HUNTER\u00d7HUNTER NEN\u00d7IMPACT DEMO",
+    "contentId": "HP6931-PPSA30177_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP6931"
+  },
+  {
+    "titleId": "PPSA30179_00",
+    "conceptId": 10007325,
+    "name": "HUNTER\u00d7HUNTER NEN\u00d7IMPACT DEMO",
+    "contentId": "JP0036-PPSA30179_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0036"
+  },
+  {
     "titleId": "PPSA30180_00",
     "conceptId": 10015185,
     "name": "Hoop Shoot",
@@ -131083,9 +131219,9 @@
     "titleId": "PPSA30209_00",
     "conceptId": 10014360,
     "name": "KreatureKind",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1509-PPSA30209_00-0619161033664805",
+    "region": "EB",
+    "publisherId": "EB1509"
   },
   {
     "titleId": "PPSA30213_00",
@@ -132536,12 +132672,20 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30828_00",
+    "conceptId": 10015559,
+    "name": "Morning 333",
+    "contentId": "UP7335-PPSA30828_00-0776206060958935",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA30829_00",
     "conceptId": 10015559,
     "name": "Morning 333",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA30829_00-0129190389603992",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA30842_00",
@@ -132584,6 +132728,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30865_00",
+    "conceptId": 10015585,
+    "name": "Anime Girls: Highschool of Dead",
+    "contentId": "UB1029-PPSA30865_00-0124183760025913",
+    "region": "UB",
+    "publisherId": "UB1029"
+  },
+  {
     "titleId": "PPSA30869_00",
     "conceptId": 10015590,
     "name": "Bombardiro Crocodilo Simulator",
@@ -132611,9 +132763,17 @@
     "titleId": "PPSA30908_00",
     "conceptId": 10015572,
     "name": "Gemz Burst",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA30908_00-0058200285984936",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA30909_00",
+    "conceptId": 10015572,
+    "name": "Gemz Burst",
+    "contentId": "UP4312-PPSA30909_00-0368753057549758",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA30915_00",
@@ -132800,12 +132960,20 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA31123_00",
+    "conceptId": 10015701,
+    "name": "Command Under Fire RTS",
+    "contentId": "UP7552-PPSA31123_00-0501231138155437",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA31132_00",
     "conceptId": 10015710,
     "name": "DotLink",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0928-PPSA31132_00-0149107999919285",
+    "region": "UB",
+    "publisherId": "UB0928"
   },
   {
     "titleId": "PPSA31168_00",
@@ -132846,6 +133014,14 @@
     "contentId": "EP1612-PPSA31173_00-GRAVENGUARDGAME0",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA31178_00",
+    "conceptId": 10015738,
+    "name": "3 on 3 Soccer",
+    "contentId": "UP7552-PPSA31178_00-0173005904556107",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "PPSA31179_00",
@@ -132891,9 +133067,9 @@
     "titleId": "PPSA31193_00",
     "conceptId": 10015749,
     "name": "Pig Escape 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1069-PPSA31193_00-0439080892801081",
+    "region": "HB",
+    "publisherId": "HB1069"
   },
   {
     "titleId": "PPSA31198_00",
@@ -132990,5 +133166,37 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA31475_00",
+    "conceptId": 10015905,
+    "name": "Sector Force",
+    "contentId": "UB0908-PPSA31475_00-0926005446909611",
+    "region": "UB",
+    "publisherId": "UB0908"
+  },
+  {
+    "titleId": "PPSA31476_00",
+    "conceptId": 10015905,
+    "name": "Sector Force",
+    "contentId": "EB1103-PPSA31476_00-0443787568612003",
+    "region": "EB",
+    "publisherId": "EB1103"
+  },
+  {
+    "titleId": "PPSA31477_00",
+    "conceptId": 10015905,
+    "name": "Sector Force",
+    "contentId": "JB0847-PPSA31477_00-0009268130167346",
+    "region": "JB",
+    "publisherId": "JB0847"
+  },
+  {
+    "titleId": "PPSA31478_00",
+    "conceptId": 10015905,
+    "name": "Sector Force",
+    "contentId": "HB0876-PPSA31478_00-0546086434324982",
+    "region": "HB",
+    "publisherId": "HB0876"
   }
 ]
