@@ -79936,6 +79936,30 @@
     "publisherId": "EB0474"
   },
   {
+    "titleId": "PPSA18347_00",
+    "conceptId": 10008837,
+    "name": "Restaurant Tycoon My Cooking Empire",
+    "contentId": "EP6290-PPSA18347_00-0111209303300885",
+    "region": "EP",
+    "publisherId": "EP6290"
+  },
+  {
+    "titleId": "PPSA18349_00",
+    "conceptId": 10008837,
+    "name": "Restaurant Tycoon My Cooking Empire",
+    "contentId": "JP6207-PPSA18349_00-0776484350550865",
+    "region": "JP",
+    "publisherId": "JP6207"
+  },
+  {
+    "titleId": "PPSA18350_00",
+    "conceptId": 10008837,
+    "name": "Restaurant Tycoon My Cooking Empire",
+    "contentId": "HP6274-PPSA18350_00-0263418319299192",
+    "region": "HP",
+    "publisherId": "HP6274"
+  },
+  {
     "titleId": "PPSA18351_00",
     "conceptId": 10003232,
     "name": "\u30df\u30af\u3068\u6c34\u6ca1\u90fd\u5e02\u3000\u5ec3\u589f\u306e\u8b0e",
@@ -98672,6 +98696,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA22392_00",
+    "conceptId": 10010728,
+    "name": "Furaiki5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22393_00",
     "conceptId": 10009836,
     "name": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30cf\u30f3\u30bf\u30fc \uff5e\u30a8\u30eb\u30b6\u306e\u904b\u547d\u306e\u8f2a\uff5e",
@@ -101859,9 +101891,9 @@
     "titleId": "PPSA23099_00",
     "conceptId": 10011016,
     "name": "Against the Storm",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8522-PPSA23099_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP8522"
   },
   {
     "titleId": "PPSA23100_00",
@@ -107850,18 +107882,18 @@
   {
     "titleId": "PPSA24350_00",
     "conceptId": 10011682,
-    "name": "Antro",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ANTRO",
+    "contentId": "EP6325-PPSA24350_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA24351_00",
     "conceptId": 10011682,
-    "name": "Antro",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ANTRO",
+    "contentId": "EP6325-PPSA24351_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA24352_00",
@@ -109250,8 +109282,8 @@
   {
     "titleId": "PPSA24616_00",
     "conceptId": 233072,
-    "name": "Rust Console Edition",
-    "contentId": null,
+    "name": "Rust",
+    "contentId": "EP4415-PPSA24616_00-RUSTCONSOLEBASE5",
     "region": "EP",
     "publisherId": "EP4415"
   },
@@ -115104,6 +115136,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA25833_00",
+    "conceptId": 10012442,
+    "name": "Scramble Animal Words",
+    "contentId": "UP7668-PPSA25833_00-0794398636932687",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA25836_00",
     "conceptId": 10009628,
     "name": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30fb\u30d6\u30ec\u30a4\u30d6 \u5e7d\u970a\u8239\u56e3\u3068\u6d88\u3048\u305f\u82f1\u96c4 \u4f53\u9a13\u7248",
@@ -117728,6 +117768,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26439_00",
+    "conceptId": 10012834,
+    "name": "Ball Cannon",
+    "contentId": "UP7668-PPSA26439_00-0606694029697203",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26440_00",
     "conceptId": 10012835,
     "name": "CICLAPP",
@@ -119216,6 +119264,14 @@
     "publisherId": "UP8777"
   },
   {
+    "titleId": "PPSA26809_00",
+    "conceptId": 10013043,
+    "name": "System Shock 2: 25th Anniversary Remaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26810_00",
     "conceptId": 10013044,
     "name": "Cubes Problem",
@@ -119524,6 +119580,14 @@
     "conceptId": 10013072,
     "name": "Soccer Goal Run",
     "contentId": "UP7668-PPSA26865_00-0383120157112669",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA26866_00",
+    "conceptId": 10013072,
+    "name": "Soccer Goal Run",
+    "contentId": "UP7668-PPSA26866_00-0291253102414166",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -120000,6 +120064,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26981_00",
+    "conceptId": 10013139,
+    "name": "Balloon Fast Run",
+    "contentId": "UP7668-PPSA26981_00-0759189752047534",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA26983_00",
     "conceptId": 10008444,
     "name": "Alaskan Road Truckers: Highway Edition",
@@ -120100,6 +120172,14 @@
     "conceptId": 10013164,
     "name": "Dark Fox Infinity Runner",
     "contentId": "UP7668-PPSA27016_00-0357036327159583",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27017_00",
+    "conceptId": 10013164,
+    "name": "Dark Fox Infinity Runner",
+    "contentId": "UP7668-PPSA27017_00-0747178234521787",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -126792,6 +126872,14 @@
     "publisherId": "EP2649"
   },
   {
+    "titleId": "PPSA28675_00",
+    "conceptId": 10014224,
+    "name": "VRider SBK",
+    "contentId": "EP4200-PPSA28675_00-0371016237851868",
+    "region": "EP",
+    "publisherId": "EP4200"
+  },
+  {
     "titleId": "PPSA28680_00",
     "conceptId": 10014314,
     "name": "Math Genius: Division",
@@ -127254,6 +127342,30 @@
     "contentId": "HP4312-PPSA28877_00-0482011561418561",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA28881_00",
+    "conceptId": 10014058,
+    "name": "Delta Force (F2P)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5104"
+  },
+  {
+    "titleId": "PPSA28882_00",
+    "conceptId": 10014058,
+    "name": "Delta Force (F2P)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5104"
+  },
+  {
+    "titleId": "PPSA28883_00",
+    "conceptId": 10014058,
+    "name": "Delta Force (F2P)",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5104"
   },
   {
     "titleId": "PPSA28884_00",
@@ -128988,6 +129100,22 @@
     "conceptId": 10014760,
     "name": "Gemstones Rush Mania",
     "contentId": "UP7668-PPSA29422_00-0727546683072705",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA29423_00",
+    "conceptId": 10014760,
+    "name": "Gemstones Rush Mania",
+    "contentId": "UP7668-PPSA29423_00-0546481307169709",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA29424_00",
+    "conceptId": 10014760,
+    "name": "Gemstones Rush Mania",
+    "contentId": "UP7668-PPSA29424_00-0908359816504883",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -132872,6 +133000,22 @@
     "publisherId": "EB0963"
   },
   {
+    "titleId": "PPSA31068_00",
+    "conceptId": 10015667,
+    "name": "Ballista Wall Defense Rush",
+    "contentId": "UP7668-PPSA31068_00-0250199739014849",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31069_00",
+    "conceptId": 10015667,
+    "name": "Ballista Wall Defense Rush",
+    "contentId": "UP7668-PPSA31069_00-0124559079645770",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31084_00",
     "conceptId": 10015664,
     "name": "Fill The Cup 2",
@@ -133134,6 +133278,14 @@
     "contentId": "JB0538-PPSA31260_00-CAPPUCCINO0SIEAS",
     "region": "JB",
     "publisherId": "JB0538"
+  },
+  {
+    "titleId": "PPSA31344_00",
+    "conceptId": 10015846,
+    "name": "Pixicharm Collection 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31403_00",
