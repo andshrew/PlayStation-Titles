@@ -18272,6 +18272,14 @@
     "publisherId": "UP5033"
   },
   {
+    "titleId": "PPSA05144_00",
+    "conceptId": 10003713,
+    "name": "Little Nightmares III PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA05146_00",
     "conceptId": 231761,
     "name": "Diablo IV",
@@ -79944,6 +79952,14 @@
     "publisherId": "EP6290"
   },
   {
+    "titleId": "PPSA18348_00",
+    "conceptId": 10008837,
+    "name": "Restaurant Tycoon My Cooking Empire",
+    "contentId": "UP6291-PPSA18348_00-0767111124445620",
+    "region": "UP",
+    "publisherId": "UP6291"
+  },
+  {
     "titleId": "PPSA18349_00",
     "conceptId": 10008837,
     "name": "Restaurant Tycoon My Cooking Empire",
@@ -116240,6 +116256,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA26109_00",
+    "conceptId": 10012615,
+    "name": "Griffin",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26110_00",
     "conceptId": 10012617,
     "name": "Roll Ball",
@@ -129504,6 +129528,38 @@
     "publisherId": "UP5464"
   },
   {
+    "titleId": "PPSA29548_00",
+    "conceptId": 10014841,
+    "name": "Road Cafe Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29549_00",
+    "conceptId": 10014841,
+    "name": "Road Cafe Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29550_00",
+    "conceptId": 10014841,
+    "name": "Road Cafe Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29551_00",
+    "conceptId": 10014841,
+    "name": "Road Cafe Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29556_00",
     "conceptId": 10014843,
     "name": "Retro Geek Shop Simulator",
@@ -130371,9 +130427,17 @@
     "titleId": "PPSA29830_00",
     "conceptId": 10014912,
     "name": "Tiny Town Roll",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7938-PPSA29830_00-0106400656655402",
+    "region": "EP",
+    "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA29831_00",
+    "conceptId": 10014912,
+    "name": "Tiny Town Roll",
+    "contentId": "UP7940-PPSA29831_00-0680881444779706",
+    "region": "UP",
+    "publisherId": "UP7940"
   },
   {
     "titleId": "PPSA29832_00",
@@ -132928,6 +132992,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30955_00",
+    "conceptId": 10015635,
+    "name": "Echoes of Light: Child of the Balance",
+    "contentId": "UP8616-PPSA30955_00-0044343586612870",
+    "region": "UP",
+    "publisherId": "UP8616"
+  },
+  {
     "titleId": "PPSA30958_00",
     "conceptId": 10015638,
     "name": "NBA Quiz",
@@ -133033,6 +133105,14 @@
   },
   {
     "titleId": "PPSA31086_00",
+    "conceptId": 10015664,
+    "name": "Fill The Cup 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31087_00",
     "conceptId": 10015664,
     "name": "Fill The Cup 2",
     "contentId": null,
