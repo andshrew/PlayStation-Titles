@@ -18712,6 +18712,14 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA05227_00",
+    "conceptId": 10003713,
+    "name": "Little Nightmares III",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5028"
+  },
+  {
     "titleId": "PPSA05228_00",
     "conceptId": 10003785,
     "name": "Rogue Sentry",
@@ -122248,6 +122256,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA27516_00",
+    "conceptId": 10013454,
+    "name": "Paradise of Freedom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27524_00",
     "conceptId": 10002456,
     "name": "Marvel\u2019s Spider-Man 2",
@@ -122531,9 +122547,9 @@
     "titleId": "PPSA27576_00",
     "conceptId": 10013494,
     "name": "LSD Battlefield Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6557-PPSA27576_00-0738523538395733",
+    "region": "UP",
+    "publisherId": "UP6557"
   },
   {
     "titleId": "PPSA27578_00",
@@ -123398,6 +123414,14 @@
     "contentId": "EP0546-PPSA27768_00-DEEPNIGHTMARE5EU",
     "region": "EP",
     "publisherId": "EP0546"
+  },
+  {
+    "titleId": "PPSA27773_00",
+    "conceptId": 10013658,
+    "name": "Maiden Cops",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27774_00",
@@ -127256,6 +127280,22 @@
     "publisherId": "EP0917"
   },
   {
+    "titleId": "PPSA28840_00",
+    "conceptId": 10014406,
+    "name": "9 Years of Shadows",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28841_00",
+    "conceptId": 10014406,
+    "name": "9 Years of Shadows",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28842_00",
     "conceptId": 10014407,
     "name": "Lorn's Lure",
@@ -129248,6 +129288,22 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA29450_00",
+    "conceptId": 10014775,
+    "name": "Cazzarion: Little Dragon",
+    "contentId": "JB0377-PPSA29450_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA29451_00",
+    "conceptId": 10014775,
+    "name": "Cazzarion: Little Dragon",
+    "contentId": "HB0405-PPSA29451_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
+  },
+  {
     "titleId": "PPSA29452_00",
     "conceptId": 10014779,
     "name": "Water sort challenge",
@@ -129569,6 +129625,22 @@
   },
   {
     "titleId": "PPSA29557_00",
+    "conceptId": 10014843,
+    "name": "Retro Geek Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29558_00",
+    "conceptId": 10014843,
+    "name": "Retro Geek Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29559_00",
     "conceptId": 10014843,
     "name": "Retro Geek Shop Simulator",
     "contentId": null,
