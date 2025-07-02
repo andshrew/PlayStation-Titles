@@ -116600,6 +116600,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26180_00",
+    "conceptId": 10012660,
+    "name": "PATAPON 1+2 REPLAY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26181_00",
     "conceptId": 10012652,
     "name": "Perfect Ninja Painter 2",
@@ -117816,6 +117824,14 @@
     "publisherId": "UB0169"
   },
   {
+    "titleId": "PPSA26441_00",
+    "conceptId": 10012836,
+    "name": "Faye Falling",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26442_00",
     "conceptId": 10012837,
     "name": "Agent Fall",
@@ -118478,6 +118494,14 @@
     "contentId": "UP2005-PPSA26580_00-RIVENAARSGROVE00",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA26581_00",
+    "conceptId": 10012949,
+    "name": "FULL METAL SCHOOLGIRL",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0367"
   },
   {
     "titleId": "PPSA26583_00",
@@ -122256,6 +122280,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA27515_00",
+    "conceptId": 10013454,
+    "name": "Paradise of Freedom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27516_00",
     "conceptId": 10013454,
     "name": "Paradise of Freedom",
@@ -124168,6 +124200,30 @@
     "publisherId": "UP8533"
   },
   {
+    "titleId": "PPSA27946_00",
+    "conceptId": 10009157,
+    "name": "MADO MONOGATARI: Fia and the School of Wonders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27947_00",
+    "conceptId": 10009157,
+    "name": "MADO MONOGATARI: Fia and the School of Wonders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27948_00",
+    "conceptId": 10009157,
+    "name": "MADO MONOGATARI: Fia and the School of Wonders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27955_00",
     "conceptId": 10013811,
     "name": "Golf Up Tropical",
@@ -125232,6 +125288,14 @@
     "publisherId": "HB1365"
   },
   {
+    "titleId": "PPSA28243_00",
+    "conceptId": 10014031,
+    "name": "GORN 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28244_00",
     "conceptId": 10013219,
     "name": "Smash Zombies",
@@ -125651,9 +125715,9 @@
     "titleId": "PPSA28342_00",
     "conceptId": 10000929,
     "name": "Firmament",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0922-PPSA28342_00-0573262083992686",
+    "region": "UP",
+    "publisherId": "UP0922"
   },
   {
     "titleId": "PPSA28343_00",
@@ -125934,6 +125998,14 @@
     "contentId": "EP7333-PPSA28403_00-0005032749869112",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA28406_00",
+    "conceptId": 10014141,
+    "name": "Diluvian Winds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28412_00",
@@ -127963,9 +128035,9 @@
     "titleId": "PPSA29043_00",
     "conceptId": 10013233,
     "name": "Anger Foot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3643-PPSA29043_00-ANGERFOOTKICKING",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA29047_00",
@@ -131304,6 +131376,14 @@
     "publisherId": "UB0192"
   },
   {
+    "titleId": "PPSA30143_00",
+    "conceptId": 10010773,
+    "name": "Cook Serve Forever",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30148_00",
     "conceptId": 10009136,
     "name": "Copycat Demo",
@@ -132496,6 +132576,14 @@
     "publisherId": "UB0851"
   },
   {
+    "titleId": "PPSA30507_00",
+    "conceptId": 10013577,
+    "name": "Sector Beam",
+    "contentId": "EP5645-PPSA30507_00-SECTORBEAM012345",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA30515_00",
     "conceptId": 10015374,
     "name": "Magnitude: Eta",
@@ -132694,6 +132782,14 @@
     "contentId": "UP2136-PPSA30646_00-0301121071758143",
     "region": "UP",
     "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA30650_00",
+    "conceptId": 10015018,
+    "name": "SpongeBob: Krusty Cook-Off",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30653_00",
@@ -132936,6 +133032,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30824_00",
+    "conceptId": 10015099,
+    "name": "Day of the Shell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30828_00",
     "conceptId": 10015559,
     "name": "Morning 333",
@@ -133022,6 +133126,14 @@
     "contentId": "UB0768-PPSA30890_00-0030911814527222",
     "region": "UB",
     "publisherId": "UB0768"
+  },
+  {
+    "titleId": "PPSA30899_00",
+    "conceptId": 10015603,
+    "name": "Call of Brothers: The Backrooms Zombie Survival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30908_00",
@@ -133136,6 +133248,22 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA31054_00",
+    "conceptId": 10015660,
+    "name": "Psychopathy Assessment",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31055_00",
+    "conceptId": 10015660,
+    "name": "Psychopathy Assessment",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31056_00",
     "conceptId": 10015662,
     "name": "ESCAPE BACKROOMS: DARKNESS HORROR",
@@ -133163,33 +133291,33 @@
     "titleId": "PPSA31084_00",
     "conceptId": 10015664,
     "name": "Fill The Cup 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA31084_00-0758698190026555",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA31085_00",
     "conceptId": 10015664,
     "name": "Fill The Cup 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA31085_00-0973370557420877",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA31086_00",
     "conceptId": 10015664,
     "name": "Fill The Cup 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA31086_00-0942384008247310",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA31087_00",
     "conceptId": 10015664,
     "name": "Fill The Cup 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA31087_00-0808423905849449",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA31088_00",
@@ -133432,6 +133560,14 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31326_00",
+    "conceptId": 10008540,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31344_00",
     "conceptId": 10015846,
     "name": "Pixicharm Collection 3",
@@ -133502,5 +133638,13 @@
     "contentId": "HB0876-PPSA31478_00-0546086434324982",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA31532_00",
+    "conceptId": 10015952,
+    "name": "DeviLevel: Try Again",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
