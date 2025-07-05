@@ -118195,9 +118195,9 @@
     "titleId": "PPSA26493_00",
     "conceptId": 10012872,
     "name": "GRAPPIN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0585-PPSA26493_00-0775228367434455",
+    "region": "UB",
+    "publisherId": "UB0585"
   },
   {
     "titleId": "PPSA26503_00",
@@ -126419,9 +126419,9 @@
     "titleId": "PPSA28507_00",
     "conceptId": 10014201,
     "name": "Irem Collection Volume 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8204-PPSA28507_00-IREMCOLLECT03PS5",
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA28508_00",
@@ -127312,6 +127312,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA28719_00",
+    "conceptId": 217102,
+    "name": "Furi - Artbook",
+    "contentId": "HP0918-PPSA28719_00-0819757708968480",
+    "region": "HP",
+    "publisherId": "HP0918"
+  },
+  {
     "titleId": "PPSA28725_00",
     "conceptId": 10014288,
     "name": "Donut Blast",
@@ -127470,6 +127478,22 @@
     "contentId": "JP5432-PPSA28821_00-0914595171845011",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA28825_00",
+    "conceptId": 217102,
+    "name": "Furi - Artbook",
+    "contentId": "EP0771-PPSA28825_00-ARTBOOK000000000",
+    "region": "EP",
+    "publisherId": "EP0771"
+  },
+  {
+    "titleId": "PPSA28827_00",
+    "conceptId": 217102,
+    "name": "Furi - Artbook",
+    "contentId": "JP1072-PPSA28827_00-0031586853134873",
+    "region": "JP",
+    "publisherId": "JP1072"
   },
   {
     "titleId": "PPSA28832_00",
@@ -128110,6 +128134,14 @@
     "contentId": "EP6718-PPSA29017_00-0127674853355048",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA29018_00",
+    "conceptId": 10014508,
+    "name": "Subway Invasion",
+    "contentId": "HB1367-PPSA29018_00-SUBWAYINVASIONNN",
+    "region": "HB",
+    "publisherId": "HB1367"
   },
   {
     "titleId": "PPSA29021_00",
@@ -129000,6 +129032,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA29297_00",
+    "conceptId": 10014681,
+    "name": "Kinki Spiritual Affairs Bureau",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29298_00",
     "conceptId": 10014682,
     "name": "Ratshaker",
@@ -129827,9 +129867,9 @@
     "titleId": "PPSA29549_00",
     "conceptId": 10014841,
     "name": "Road Cafe Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29549_00-0901305357677656",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29550_00",
@@ -130962,10 +131002,26 @@
   {
     "titleId": "PPSA29896_00",
     "conceptId": 10000983,
-    "name": "Haven",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Haven - Artbook",
+    "contentId": "EP0771-PPSA29896_00-0688478329301877",
+    "region": "EP",
+    "publisherId": "EP0771"
+  },
+  {
+    "titleId": "PPSA29897_00",
+    "conceptId": 10000983,
+    "name": "Haven - Artbook",
+    "contentId": "JP1072-PPSA29897_00-0692193594758764",
+    "region": "JP",
+    "publisherId": "JP1072"
+  },
+  {
+    "titleId": "PPSA29898_00",
+    "conceptId": 10000983,
+    "name": "Haven - Artbook",
+    "contentId": "HP0918-PPSA29898_00-0045579274010126",
+    "region": "HP",
+    "publisherId": "HP0918"
   },
   {
     "titleId": "PPSA29904_00",
@@ -133392,6 +133448,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30854_00",
+    "conceptId": 10015575,
+    "name": "Trial of Greed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30865_00",
     "conceptId": 10015585,
     "name": "Anime Girls: Highschool of Dead",
@@ -133840,12 +133904,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31220_00",
+    "conceptId": 10012595,
+    "name": "Scary Bucketman",
+    "contentId": "UB0706-PPSA31220_00-0624955009451642",
+    "region": "UB",
+    "publisherId": "UB0706"
+  },
+  {
     "titleId": "PPSA31221_00",
     "conceptId": 10012595,
     "name": "Scary Bucketman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0901-PPSA31221_00-0684113235700440",
+    "region": "EB",
+    "publisherId": "EB0901"
+  },
+  {
+    "titleId": "PPSA31222_00",
+    "conceptId": 10012595,
+    "name": "Scary Bucketman",
+    "contentId": "JB0645-PPSA31222_00-0909438884640616",
+    "region": "JB",
+    "publisherId": "JB0645"
+  },
+  {
+    "titleId": "PPSA31223_00",
+    "conceptId": 10012595,
+    "name": "Scary Bucketman",
+    "contentId": "HB0674-PPSA31223_00-0331071720341460",
+    "region": "HB",
+    "publisherId": "HB0674"
   },
   {
     "titleId": "PPSA31252_00",
@@ -133902,6 +133990,22 @@
     "contentId": "JB0538-PPSA31260_00-CAPPUCCINO0SIEAS",
     "region": "JB",
     "publisherId": "JB0538"
+  },
+  {
+    "titleId": "PPSA31264_00",
+    "conceptId": 10015785,
+    "name": "Classic Arcades: Pong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31265_00",
+    "conceptId": 10015785,
+    "name": "Classic Arcades: Pong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31326_00",
