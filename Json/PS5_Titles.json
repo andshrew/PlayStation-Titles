@@ -2818,8 +2818,8 @@
   {
     "titleId": "PPSA02015_00",
     "conceptId": 10001538,
-    "name": "DEATH STRANDING 2: ON THE BEACH Digital Deluxe Edition",
-    "contentId": null,
+    "name": "DEATH STRANDING 2: ON THE BEACH",
+    "contentId": "JP9000-PPSA02015_00-DS2OTB0000000001",
     "region": "JP",
     "publisherId": "JP9000"
   },
@@ -122371,17 +122371,17 @@
     "titleId": "PPSA27515_00",
     "conceptId": 10013454,
     "name": "Paradise of Freedom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA27515_00-0709553100021594",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA27516_00",
     "conceptId": 10013454,
     "name": "Paradise of Freedom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA27516_00-0973631736372881",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA27524_00",
@@ -123926,6 +123926,38 @@
     "contentId": "UB0245-PPSA27829_00-0258707351781371",
     "region": "UB",
     "publisherId": "UB0245"
+  },
+  {
+    "titleId": "PPSA27830_00",
+    "conceptId": 10013706,
+    "name": "Cave Crave",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27831_00",
+    "conceptId": 10013706,
+    "name": "Cave Crave",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27832_00",
+    "conceptId": 10013706,
+    "name": "Cave Crave",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27833_00",
+    "conceptId": 10013706,
+    "name": "Cave Crave",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27838_00",
@@ -127304,6 +127336,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA28716_00",
+    "conceptId": 10014328,
+    "name": "Supermarket Anime Collector's Simulator",
+    "contentId": "UB0768-PPSA28716_00-0014003101028982",
+    "region": "UB",
+    "publisherId": "UB0768"
+  },
+  {
     "titleId": "PPSA28717_00",
     "conceptId": 10014329,
     "name": "Medieval Supermarket Shop Simulator",
@@ -127486,6 +127526,14 @@
     "contentId": "EP0771-PPSA28825_00-ARTBOOK000000000",
     "region": "EP",
     "publisherId": "EP0771"
+  },
+  {
+    "titleId": "PPSA28826_00",
+    "conceptId": 217102,
+    "name": "Furi - Artbook",
+    "contentId": "UP0774-PPSA28826_00-ARTBOOK000000000",
+    "region": "UP",
+    "publisherId": "UP0774"
   },
   {
     "titleId": "PPSA28827_00",
@@ -131000,6 +131048,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA29895_00",
+    "conceptId": 10000983,
+    "name": "Haven - Artbook",
+    "contentId": "UP0774-PPSA29895_00-0504809141548308",
+    "region": "UP",
+    "publisherId": "UP0774"
+  },
+  {
     "titleId": "PPSA29896_00",
     "conceptId": 10000983,
     "name": "Haven - Artbook",
@@ -131238,6 +131294,14 @@
     "contentId": "EP1411-PPSA30000_00-0589106930041370",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA30004_00",
+    "conceptId": 10015077,
+    "name": "Empire Invasion",
+    "contentId": "UB0008-PPSA30004_00-0312169096618241",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA30005_00",
@@ -133408,6 +133472,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA30833_00",
+    "conceptId": 10015560,
+    "name": "When the bell goes silent",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30842_00",
     "conceptId": 10015562,
     "name": "Memory Holder: The Alphabet",
@@ -133451,9 +133523,9 @@
     "titleId": "PPSA30854_00",
     "conceptId": 10015575,
     "name": "Trial of Greed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0796-PPSA30854_00-0365907008563836",
+    "region": "UB",
+    "publisherId": "UB0796"
   },
   {
     "titleId": "PPSA30865_00",
@@ -133784,6 +133856,22 @@
     "publisherId": "UB0928"
   },
   {
+    "titleId": "PPSA31140_00",
+    "conceptId": 10015716,
+    "name": "Crash Bugs Cake Defense",
+    "contentId": "UP7668-PPSA31140_00-0536353451635252",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31141_00",
+    "conceptId": 10015716,
+    "name": "Crash Bugs Cake Defense",
+    "contentId": "UP7668-PPSA31141_00-0435423869063141",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31168_00",
     "conceptId": 10015732,
     "name": "Astro Surge",
@@ -133936,6 +134024,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA31231_00",
+    "conceptId": 10015772,
+    "name": "Puppet Theater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31252_00",
     "conceptId": 10015694,
     "name": "Snake 2048",
@@ -133958,6 +134054,22 @@
     "contentId": "UB0752-PPSA31254_00-0791431458862804",
     "region": "UB",
     "publisherId": "UB0752"
+  },
+  {
+    "titleId": "PPSA31255_00",
+    "conceptId": 10005014,
+    "name": "Escape First",
+    "contentId": "UP5085-PPSA31255_00-0478481811355501",
+    "region": "UP",
+    "publisherId": "UP5085"
+  },
+  {
+    "titleId": "PPSA31256_00",
+    "conceptId": 10005014,
+    "name": "Escape First",
+    "contentId": "EP5265-PPSA31256_00-0822866313339051",
+    "region": "EP",
+    "publisherId": "EP5265"
   },
   {
     "titleId": "PPSA31257_00",
