@@ -108218,10 +108218,10 @@
   {
     "titleId": "PPSA24380_00",
     "conceptId": 10011688,
-    "name": "BAD END THEATER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bad End Theater",
+    "contentId": "UP0604-PPSA24380_00-0227535931031281",
+    "region": "UP",
+    "publisherId": "UP0604"
   },
   {
     "titleId": "PPSA24381_00",
@@ -115378,8 +115378,8 @@
   {
     "titleId": "PPSA25859_00",
     "conceptId": 10012463,
-    "name": "EA SPORTS\u2122 MVP Bundle (Madden NFL 26 Deluxe Edition & EA SPORTS College Football 26 Deluxe Edition)",
-    "contentId": null,
+    "name": "EA SPORTS\u2122 College Football 26",
+    "contentId": "UP0006-PPSA25859_00-COLLEGEFB26GAME1",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -116387,9 +116387,9 @@
     "titleId": "PPSA26109_00",
     "conceptId": 10012615,
     "name": "Griffin",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA26109_00-GRIFFINRATAGAMES",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA26110_00",
@@ -116698,18 +116698,18 @@
   {
     "titleId": "PPSA26177_00",
     "conceptId": 10012660,
-    "name": "PATAPON 1+2 REPLAY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d1\u30bf\u30dd\u30f31+2 \u30ea\u30d7\u30ec\u30a4",
+    "contentId": "JP0700-PPSA26177_00-MAINGAME00000000",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA26178_00",
     "conceptId": 10012660,
     "name": "PATAPON 1+2 REPLAY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0700-PPSA26178_00-MAINGAME00000000",
+    "region": "HP",
+    "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA26179_00",
@@ -116971,9 +116971,9 @@
     "titleId": "PPSA26225_00",
     "conceptId": 10012470,
     "name": "ISLANDERS: New Shores",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2680-PPSA26225_00-ISLANDERSTWO0000",
+    "region": "UP",
+    "publisherId": "UP2680"
   },
   {
     "titleId": "PPSA26229_00",
@@ -117686,6 +117686,14 @@
     "contentId": "UB0867-PPSA26381_00-0926819362476504",
     "region": "UB",
     "publisherId": "UB0867"
+  },
+  {
+    "titleId": "PPSA26382_00",
+    "conceptId": 10012795,
+    "name": "Farm Together 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26389_00",
@@ -120214,6 +120222,14 @@
     "contentId": "UB0837-PPSA26970_00-0937544169312195",
     "region": "UB",
     "publisherId": "UB0837"
+  },
+  {
+    "titleId": "PPSA26973_00",
+    "conceptId": 10009063,
+    "name": "Legacy of Kain\u2122 Soul Reaver 1&2 Remastered",
+    "contentId": "EP1875-PPSA26973_00-0952027929746716",
+    "region": "EP",
+    "publisherId": "EP1875"
   },
   {
     "titleId": "PPSA26976_00",
@@ -124059,9 +124075,9 @@
     "titleId": "PPSA27833_00",
     "conceptId": 10013706,
     "name": "Cave Crave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6900-PPSA27833_00-0528778273550049",
+    "region": "HP",
+    "publisherId": "HP6900"
   },
   {
     "titleId": "PPSA27838_00",
@@ -125218,10 +125234,10 @@
   {
     "titleId": "PPSA28141_00",
     "conceptId": 10008749,
-    "name": "Space Adventure Cobra - The Awakening",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Space Adventure Cobra - The Awakening DEMO",
+    "contentId": "EP4295-PPSA28141_00-DEMOCOBRAPS500WW",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA28144_00",
@@ -126080,6 +126096,14 @@
     "publisherId": "EP4432"
   },
   {
+    "titleId": "PPSA28362_00",
+    "conceptId": 10014100,
+    "name": "Lethal Cosmic Hunt",
+    "contentId": "EP6138-PPSA28362_00-0331189614705949",
+    "region": "EP",
+    "publisherId": "EP6138"
+  },
+  {
     "titleId": "PPSA28363_00",
     "conceptId": 10014102,
     "name": "Pixicharm - Bus Coinventure",
@@ -126850,10 +126874,10 @@
   {
     "titleId": "PPSA28549_00",
     "conceptId": 10014201,
-    "name": "Irem Collection Volume 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30a2\u30a4\u30ec\u30e0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Volume 3",
+    "contentId": "JP0045-PPSA28549_00-IREMCOLL000003JP",
+    "region": "JP",
+    "publisherId": "JP0045"
   },
   {
     "titleId": "PPSA28550_00",
@@ -127787,9 +127811,9 @@
     "titleId": "PPSA28852_00",
     "conceptId": 10014416,
     "name": "Space Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1389-PPSA28852_00-0637592545194478",
+    "region": "EB",
+    "publisherId": "EB1389"
   },
   {
     "titleId": "PPSA28856_00",
@@ -130115,17 +130139,17 @@
     "titleId": "PPSA29556_00",
     "conceptId": 10014843,
     "name": "Retro Geek Shop Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29556_00-0537393242957095",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29557_00",
     "conceptId": 10014843,
     "name": "Retro Geek Shop Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29557_00-0127928293038542",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29558_00",
@@ -130139,9 +130163,9 @@
     "titleId": "PPSA29559_00",
     "conceptId": 10014843,
     "name": "Retro Geek Shop Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29559_00-0378037852093255",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29561_00",
@@ -130430,6 +130454,38 @@
     "contentId": "JP0098-PPSA29652_00-DUNGEONSOFHPS5JP",
     "region": "JP",
     "publisherId": "JP0098"
+  },
+  {
+    "titleId": "PPSA29663_00",
+    "conceptId": 10014881,
+    "name": "Attack at Dawn: North Africa",
+    "contentId": "EP1411-PPSA29663_00-0848839140525131",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA29664_00",
+    "conceptId": 10014881,
+    "name": "Attack at Dawn: North Africa",
+    "contentId": "EP1411-PPSA29664_00-0362414912614957",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA29665_00",
+    "conceptId": 10014881,
+    "name": "Attack at Dawn: North Africa",
+    "contentId": "EP1411-PPSA29665_00-0740786628768547",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA29666_00",
+    "conceptId": 10014881,
+    "name": "Attack at Dawn: North Africa",
+    "contentId": "EP1411-PPSA29666_00-0209022357793261",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA29667_00",
@@ -132275,9 +132331,9 @@
     "titleId": "PPSA30281_00",
     "conceptId": 10015239,
     "name": "Infernitos: Fiery Dishes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA30281_00-0826401570986226",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA30283_00",
@@ -133051,9 +133107,9 @@
     "titleId": "PPSA30474_00",
     "conceptId": 10015348,
     "name": "Canine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA30474_00-0363538333914084",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA30475_00",
@@ -133098,10 +133154,10 @@
   {
     "titleId": "PPSA30488_00",
     "conceptId": 10015354,
-    "name": "Old School Rally",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Old School Rally Demo",
+    "contentId": "UP7788-PPSA30488_00-OSRDEMOPS5000000",
+    "region": "UP",
+    "publisherId": "UP7788"
   },
   {
     "titleId": "PPSA30489_00",
@@ -133134,6 +133190,14 @@
     "contentId": "EP3024-PPSA30497_00-MOORHUORIGIPS5WW",
     "region": "EP",
     "publisherId": "EP3024"
+  },
+  {
+    "titleId": "PPSA30498_00",
+    "conceptId": 10013237,
+    "name": "Casual Sport Series: Tennis Demo",
+    "contentId": "UP7578-PPSA30498_00-0222536744406902",
+    "region": "UP",
+    "publisherId": "UP7578"
   },
   {
     "titleId": "PPSA30500_00",
@@ -133422,6 +133486,14 @@
     "contentId": "HB1069-PPSA30668_00-0853824571340329",
     "region": "HB",
     "publisherId": "HB1069"
+  },
+  {
+    "titleId": "PPSA30670_00",
+    "conceptId": 10011009,
+    "name": "Anno 117: Pax Romana",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30672_00",
@@ -134024,6 +134096,22 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA31091_00",
+    "conceptId": 10015681,
+    "name": "BodyCam: Tactical Freelancer",
+    "contentId": "UP5877-PPSA31091_00-0904794234136870",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA31095_00",
+    "conceptId": 10015686,
+    "name": "Gem Jam",
+    "contentId": "UB0337-PPSA31095_00-0110158508613295",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA31099_00",
     "conceptId": 10015336,
     "name": "Tung Tung Tung Sahur Runner",
@@ -134344,6 +134432,14 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31263_00",
+    "conceptId": 10015783,
+    "name": "Pixicharm - Sparkrina",
+    "contentId": "EP1612-PPSA31263_00-SPARKRINATHEGAME",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
     "titleId": "PPSA31264_00",
     "conceptId": 10015785,
     "name": "Classic Arcades: Pong",
@@ -134419,9 +134515,9 @@
     "titleId": "PPSA31403_00",
     "conceptId": 10015885,
     "name": "Br Br Patapim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0599-PPSA31403_00-BRBRPATAPIM0SIEA",
+    "region": "UB",
+    "publisherId": "UB0599"
   },
   {
     "titleId": "PPSA31404_00",
@@ -134435,17 +134531,17 @@
     "titleId": "PPSA31405_00",
     "conceptId": 10015885,
     "name": "Br Br Patapim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0567-PPSA31405_00-BRBRPATAPIMSIEJP",
+    "region": "HB",
+    "publisherId": "HB0567"
   },
   {
     "titleId": "PPSA31406_00",
     "conceptId": 10015885,
     "name": "Br Br Patapim",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0538-PPSA31406_00-BRBRPATAPIMSIEAS",
+    "region": "JB",
+    "publisherId": "JB0538"
   },
   {
     "titleId": "PPSA31415_00",
