@@ -10178,10 +10178,10 @@
   {
     "titleId": "PPSA03537_00",
     "conceptId": 232234,
-    "name": "Truck Driver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Truck Driver Gold Edition",
+    "contentId": "UP1470-PPSA03537_00-TRUCKDRIVERPEUS0",
+    "region": "UP",
+    "publisherId": "UP1470"
   },
   {
     "titleId": "PPSA03540_00",
@@ -90544,6 +90544,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20548_00",
+    "conceptId": 10009571,
+    "name": "Eriksholm: The Stolen Dream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20549_00",
     "conceptId": 10009763,
     "name": "Zenless Zone Zero",
@@ -94723,17 +94731,17 @@
     "titleId": "PPSA21513_00",
     "conceptId": 10007182,
     "name": "Cats Away",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2103-PPSA21513_00-CATSAWAYNA000000",
+    "region": "UP",
+    "publisherId": "UP2103"
   },
   {
     "titleId": "PPSA21514_00",
     "conceptId": 10007182,
     "name": "Cats Away",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2103-PPSA21514_00-CATSAWAYEU000000",
+    "region": "EP",
+    "publisherId": "EP2103"
   },
   {
     "titleId": "PPSA21515_00",
@@ -116715,17 +116723,17 @@
     "titleId": "PPSA26179_00",
     "conceptId": 10012660,
     "name": "PATAPON 1+2 REPLAY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0700-PPSA26179_00-MAINGAME00000000",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA26180_00",
     "conceptId": 10012660,
     "name": "PATAPON 1+2 REPLAY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0700-PPSA26180_00-MAINGAME00000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA26181_00",
@@ -116963,9 +116971,9 @@
     "titleId": "PPSA26224_00",
     "conceptId": 10012470,
     "name": "ISLANDERS: New Shores",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8936-PPSA26224_00-ISLANDERSTWO0000",
+    "region": "EP",
+    "publisherId": "EP8936"
   },
   {
     "titleId": "PPSA26225_00",
@@ -117315,9 +117323,9 @@
     "titleId": "PPSA26287_00",
     "conceptId": 10012732,
     "name": "The Last Camp",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8406-PPSA26287_00-PS501THELASTCAMP",
+    "region": "HP",
+    "publisherId": "HP8406"
   },
   {
     "titleId": "PPSA26288_00",
@@ -117691,9 +117699,9 @@
     "titleId": "PPSA26382_00",
     "conceptId": 10012795,
     "name": "Farm Together 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0856-PPSA26382_00-FRMTGETHR2EUPS5D",
+    "region": "EP",
+    "publisherId": "EP0856"
   },
   {
     "titleId": "PPSA26389_00",
@@ -121024,6 +121032,14 @@
     "publisherId": "HP6978"
   },
   {
+    "titleId": "PPSA27167_00",
+    "conceptId": 10008296,
+    "name": "Indika",
+    "contentId": "JP6834-PPSA27167_00-JPNCENSOREDBUILD",
+    "region": "JP",
+    "publisherId": "JP6834"
+  },
+  {
     "titleId": "PPSA27169_00",
     "conceptId": 10012994,
     "name": "Midnight Murder Club",
@@ -123656,6 +123672,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA27764_00",
+    "conceptId": 10013649,
+    "name": "Hide The Corpse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27767_00",
     "conceptId": 10012898,
     "name": "Deep Deep Deep Nightmare",
@@ -124051,25 +124075,25 @@
     "titleId": "PPSA27830_00",
     "conceptId": 10013706,
     "name": "Cave Crave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6880-PPSA27830_00-0283728168517141",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA27831_00",
     "conceptId": 10013706,
     "name": "Cave Crave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6883-PPSA27831_00-0719071885592398",
+    "region": "UP",
+    "publisherId": "UP6883"
   },
   {
     "titleId": "PPSA27832_00",
     "conceptId": 10013706,
     "name": "Cave Crave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6849-PPSA27832_00-0719909710167317",
+    "region": "JP",
+    "publisherId": "JP6849"
   },
   {
     "titleId": "PPSA27833_00",
@@ -124718,6 +124742,14 @@
     "contentId": "UP5877-PPSA27998_00-0267637984096399",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA28002_00",
+    "conceptId": 10013857,
+    "name": "NINJA GAIDEN: Ragebound",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28006_00",
@@ -126094,6 +126126,14 @@
     "contentId": "EP4432-PPSA28358_00-CUBICODYSSEY0000",
     "region": "EP",
     "publisherId": "EP4432"
+  },
+  {
+    "titleId": "PPSA28361_00",
+    "conceptId": 10014063,
+    "name": "Only Up To Space",
+    "contentId": "EP6138-PPSA28361_00-0034205449399383",
+    "region": "EP",
+    "publisherId": "EP6138"
   },
   {
     "titleId": "PPSA28362_00",
@@ -130155,9 +130195,9 @@
     "titleId": "PPSA29558_00",
     "conceptId": 10014843,
     "name": "Retro Geek Shop Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29558_00-0329833323395658",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29559_00",
@@ -130902,6 +130942,14 @@
     "contentId": "UP8511-PPSA29768_00-0243972033935760",
     "region": "UP",
     "publisherId": "UP8511"
+  },
+  {
+    "titleId": "PPSA29783_00",
+    "conceptId": 10014587,
+    "name": "Hatsune Miku Logic Paint S+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29787_00",
@@ -131936,6 +131984,14 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA30139_00",
+    "conceptId": 10015156,
+    "name": "Wacky Run",
+    "contentId": "UB0008-PPSA30139_00-0500062217470551",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA30141_00",
     "conceptId": 10015159,
     "name": "Olympic Games Quiz",
@@ -132323,9 +132379,9 @@
     "titleId": "PPSA30280_00",
     "conceptId": 10015239,
     "name": "Infernitos: Fiery Dishes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA30280_00-0982614109955249",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA30281_00",
@@ -132336,12 +132392,20 @@
     "publisherId": "EP8701"
   },
   {
+    "titleId": "PPSA30282_00",
+    "conceptId": 10015239,
+    "name": "Infernitos: Fiery Dishes",
+    "contentId": "JP8416-PPSA30282_00-0958605972381366",
+    "region": "JP",
+    "publisherId": "JP8416"
+  },
+  {
     "titleId": "PPSA30283_00",
     "conceptId": 10015239,
     "name": "Infernitos: Fiery Dishes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA30283_00-0899000584244419",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA30289_00",
@@ -132963,9 +133027,9 @@
     "titleId": "PPSA30444_00",
     "conceptId": 10015329,
     "name": "Horror Night with Tung Tung Tung Sahur",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6878-PPSA30444_00-TUNTUNGTUNGSAHUR",
+    "region": "EP",
+    "publisherId": "EP6878"
   },
   {
     "titleId": "PPSA30445_00",
@@ -133099,9 +133163,9 @@
     "titleId": "PPSA30473_00",
     "conceptId": 10015348,
     "name": "Canine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA30473_00-0458218549113740",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA30474_00",
@@ -133760,12 +133824,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA30832_00",
+    "conceptId": 10015560,
+    "name": "When the bell goes silent",
+    "contentId": "UP7335-PPSA30832_00-0602778798070172",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA30833_00",
     "conceptId": 10015560,
     "name": "When the bell goes silent",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA30833_00-0805666861557195",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA30842_00",
@@ -134196,6 +134268,14 @@
     "conceptId": 10015716,
     "name": "Crash Bugs Cake Defense",
     "contentId": "UP7668-PPSA31141_00-0435423869063141",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31150_00",
+    "conceptId": 10015719,
+    "name": "Tap Combo Color Blocks",
+    "contentId": "UP7668-PPSA31150_00-0418029685668550",
     "region": "UP",
     "publisherId": "UP7668"
   },
