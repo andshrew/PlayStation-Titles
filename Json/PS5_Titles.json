@@ -49784,6 +49784,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10640_00",
+    "conceptId": 10006282,
+    "name": "Death Relives",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10641_00",
     "conceptId": 10006286,
     "name": "Strike Team Gladius",
@@ -75580,8 +75588,8 @@
     "conceptId": 10008749,
     "name": "Space Adventure Cobra - The Awakening",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA17339_00",
@@ -78546,8 +78554,8 @@
   {
     "titleId": "PPSA18010_00",
     "conceptId": 10009018,
-    "name": "Tony Hawk's\u2122 Pro Skater\u2122 3 + 4 - Cross-Gen Edition",
-    "contentId": null,
+    "name": "Tony Hawk's\u2122 Pro Skater\u2122 3 + 4",
+    "contentId": "UP0002-PPSA18010_00-TH34RTHEGAME0001",
     "region": "UP",
     "publisherId": "UP0002"
   },
@@ -113698,18 +113706,18 @@
   {
     "titleId": "PPSA25490_00",
     "conceptId": 10012246,
-    "name": "Glowface In Love 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Glowface In Love 2",
+    "contentId": "UP6664-PPSA25490_00-0920971211926267",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA25491_00",
     "conceptId": 10012246,
-    "name": "Glowface In Love 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Glowface In Love 2",
+    "contentId": "JP6595-PPSA25491_00-0783170735137776",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA25492_00",
@@ -123059,9 +123067,9 @@
     "titleId": "PPSA27624_00",
     "conceptId": 10013480,
     "name": "Bendy and the Dark Revival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5519-PPSA27624_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP5519"
   },
   {
     "titleId": "PPSA27625_00",
@@ -123123,6 +123131,14 @@
     "titleId": "PPSA27650_00",
     "conceptId": 10009628,
     "name": "Phantom Brave: The Lost Hero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27653_00",
+    "conceptId": 10013571,
+    "name": "The Ultimate G",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -125934,6 +125950,30 @@
     "contentId": "UB1511-PPSA28307_00-0736819809704156",
     "region": "UB",
     "publisherId": "UB1511"
+  },
+  {
+    "titleId": "PPSA28312_00",
+    "conceptId": 10014071,
+    "name": "Beat 'Em Up Collection (QUByte Classics)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28313_00",
+    "conceptId": 10014071,
+    "name": "Beat 'Em Up Collection (QUByte Classics)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28314_00",
+    "conceptId": 10014071,
+    "name": "Beat 'Em Up Collection (QUByte Classics)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28315_00",
@@ -134272,6 +134312,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31149_00",
+    "conceptId": 10015719,
+    "name": "Tap Combo Color Blocks",
+    "contentId": "UP7668-PPSA31149_00-0070404074220159",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31150_00",
     "conceptId": 10015719,
     "name": "Tap Combo Color Blocks",
@@ -134718,5 +134766,13 @@
     "contentId": "UB0111-PPSA31532_00-0176718694759249",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA31783_00",
+    "conceptId": 10016138,
+    "name": "BREAKING BRICKS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
