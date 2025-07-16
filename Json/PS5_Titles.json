@@ -81130,8 +81130,8 @@
   {
     "titleId": "PPSA18605_00",
     "conceptId": 10009213,
-    "name": "Ready or Not",
-    "contentId": null,
+    "name": "ReadyOrNot",
+    "contentId": "UP6322-PPSA18605_00-0342498734252743",
     "region": "UP",
     "publisherId": "UP6322"
   },
@@ -123163,9 +123163,25 @@
     "titleId": "PPSA27653_00",
     "conceptId": 10013571,
     "name": "The Ultimate G",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0896-PPSA27653_00-0616441746276092",
+    "region": "EB",
+    "publisherId": "EB0896"
+  },
+  {
+    "titleId": "PPSA27654_00",
+    "conceptId": 10013571,
+    "name": "The Ultimate G",
+    "contentId": "JB0640-PPSA27654_00-0920041673965062",
+    "region": "JB",
+    "publisherId": "JB0640"
+  },
+  {
+    "titleId": "PPSA27655_00",
+    "conceptId": 10013571,
+    "name": "The Ultimate G",
+    "contentId": "HB0669-PPSA27655_00-0366302639459800",
+    "region": "HB",
+    "publisherId": "HB0669"
   },
   {
     "titleId": "PPSA27656_00",
@@ -124144,12 +124160,28 @@
     "publisherId": "HP6900"
   },
   {
+    "titleId": "PPSA27837_00",
+    "conceptId": 10013707,
+    "name": "Twisted Metal III",
+    "contentId": "UP9000-PPSA27837_00-SCUS942490000000",
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA27838_00",
     "conceptId": 10013360,
     "name": "Zlorp Adventures",
     "contentId": "HB1367-PPSA27838_00-ZLORPADVENTURESS",
     "region": "HB",
     "publisherId": "HB1367"
+  },
+  {
+    "titleId": "PPSA27839_00",
+    "conceptId": 10013708,
+    "name": "Twisted Metal 4",
+    "contentId": "UP9000-PPSA27839_00-SCUS945600000000",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA27840_00",
@@ -125682,10 +125714,10 @@
   {
     "titleId": "PPSA28243_00",
     "conceptId": 10014031,
-    "name": "GORN 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Gorn 2",
+    "contentId": "UP3643-PPSA28243_00-Z8M4JQ7K1W2R9LXE",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA28244_00",
@@ -128294,6 +128326,14 @@
     "contentId": "EP5645-PPSA28945_00-0657620486121414",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28950_00",
+    "conceptId": 10014471,
+    "name": "Crime Scene Cleaner",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28951_00",
@@ -132952,7 +132992,31 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30408_00",
+    "conceptId": 10015311,
+    "name": "Mystic Pathways: Crystal Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30409_00",
+    "conceptId": 10015311,
+    "name": "Mystic Pathways: Crystal Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30410_00",
+    "conceptId": 10015311,
+    "name": "Mystic Pathways: Crystal Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30411_00",
     "conceptId": 10015311,
     "name": "Mystic Pathways: Crystal Quest",
     "contentId": null,
@@ -134224,6 +134288,14 @@
     "publisherId": "EB0963"
   },
   {
+    "titleId": "PPSA31058_00",
+    "conceptId": 10015634,
+    "name": "Rogue Raccoon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31059_00",
     "conceptId": 10015634,
     "name": "Rogue Raccoon",
@@ -134544,7 +134616,31 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31199_00",
+    "conceptId": 10015751,
+    "name": "The Cursed Frog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31200_00",
+    "conceptId": 10015751,
+    "name": "The Cursed Frog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31201_00",
+    "conceptId": 10015751,
+    "name": "The Cursed Frog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31202_00",
     "conceptId": 10015751,
     "name": "The Cursed Frog",
     "contentId": null,
@@ -134824,6 +134920,38 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA31489_00",
+    "conceptId": 10015863,
+    "name": "%",
+    "contentId": "HP5361-PPSA31489_00-0101010101010101",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA31490_00",
+    "conceptId": 10015863,
+    "name": "%",
+    "contentId": "UP5464-PPSA31490_00-0101010101010101",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
+    "titleId": "PPSA31491_00",
+    "conceptId": 10015863,
+    "name": "%",
+    "contentId": "EP5645-PPSA31491_00-0101010101010101",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31492_00",
+    "conceptId": 10015863,
+    "name": "%",
+    "contentId": "JP5299-PPSA31492_00-0101010101010101",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
     "titleId": "PPSA31502_00",
     "conceptId": 10015936,
     "name": "Lirili Larila",
@@ -134907,8 +135035,24 @@
     "titleId": "PPSA31783_00",
     "conceptId": 10016138,
     "name": "BREAKING BRICKS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA31783_00-0146584642302254",
+    "region": "EB",
+    "publisherId": "EB1103"
+  },
+  {
+    "titleId": "PPSA31784_00",
+    "conceptId": 10016138,
+    "name": "BREAKING BRICKS",
+    "contentId": "JB0847-PPSA31784_00-0404579970300064",
+    "region": "JB",
+    "publisherId": "JB0847"
+  },
+  {
+    "titleId": "PPSA31785_00",
+    "conceptId": 10016138,
+    "name": "BREAKING BRICKS",
+    "contentId": "HB0876-PPSA31785_00-0773402057625890",
+    "region": "HB",
+    "publisherId": "HB0876"
   }
 ]
