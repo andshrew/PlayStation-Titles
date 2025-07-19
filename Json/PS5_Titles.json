@@ -51136,6 +51136,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA10861_00",
+    "conceptId": 10005915,
+    "name": "Cyber Clutch: Hot Import Nights",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10862_00",
     "conceptId": 10006350,
     "name": "WHAT THE BAT?",
@@ -78216,6 +78224,14 @@
     "publisherId": "EP6890"
   },
   {
+    "titleId": "PPSA17951_00",
+    "conceptId": 10008998,
+    "name": "Chess Club",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17952_00",
     "conceptId": 10008972,
     "name": "PGA\u00a0TOUR\u00ae\u00a02K25",
@@ -86342,6 +86358,14 @@
     "contentId": "HP3256-PPSA19690_00-MMTOKINOTAIKA000",
     "region": "HP",
     "publisherId": "HP3256"
+  },
+  {
+    "titleId": "PPSA19692_00",
+    "conceptId": 10009629,
+    "name": "Dreams of Another",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0743"
   },
   {
     "titleId": "PPSA19697_00",
@@ -107603,7 +107627,7 @@
     "titleId": "PPSA24274_00",
     "conceptId": 10007325,
     "name": "HUNTER\u00d7HUNTER NEN\u00d7IMPACT",
-    "contentId": null,
+    "contentId": "JP0036-PPSA24274_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP0036"
   },
@@ -111296,6 +111320,14 @@
     "publisherId": "EB1221"
   },
   {
+    "titleId": "PPSA24998_00",
+    "conceptId": 10011975,
+    "name": "Second Coat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24999_00",
     "conceptId": 10009203,
     "name": "\u91ce\u72d7\u5b50: Slitterhead \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af & \u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
@@ -112470,6 +112502,14 @@
     "contentId": "HP6661-PPSA25231_00-0330685382003354",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA25233_00",
+    "conceptId": 10006514,
+    "name": "Quiz Thiz Croatia - DEMO",
+    "contentId": "UP6664-PPSA25233_00-0517685704111373",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA25237_00",
@@ -122466,10 +122506,10 @@
   {
     "titleId": "PPSA27483_00",
     "conceptId": 10013429,
-    "name": "The Jumping Shaped Fries - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Shaped Fries",
+    "contentId": "EP6664-PPSA27483_00-0347743319521927",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA27484_00",
@@ -122482,10 +122522,10 @@
   {
     "titleId": "PPSA27485_00",
     "conceptId": 10013429,
-    "name": "The Jumping Shaped Fries - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Shaped Fries",
+    "contentId": "JP6595-PPSA27485_00-0248286928234640",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA27486_00",
@@ -127547,9 +127587,9 @@
     "titleId": "PPSA28640_00",
     "conceptId": 10014274,
     "name": "My Friendly Neighborhood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7254-PPSA28640_00-0367265685514349",
+    "region": "HP",
+    "publisherId": "HP7254"
   },
   {
     "titleId": "PPSA28642_00",
@@ -131155,9 +131195,9 @@
     "titleId": "PPSA29734_00",
     "conceptId": 10014933,
     "name": "Clash of Weirdos - Card Carnage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6556-PPSA29734_00-0453026026236597",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA29737_00",
@@ -133640,6 +133680,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30491_00",
+    "conceptId": 10015357,
+    "name": "Republic of Pirates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30495_00",
     "conceptId": 10015365,
     "name": "BOMBARDINO CROCODILO vs TUNG TUNG SAHUR",
@@ -134736,6 +134784,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31145_00",
+    "conceptId": 10015718,
+    "name": "Hungry Monster Food Rain",
+    "contentId": "UP7668-PPSA31145_00-0143776841690960",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31146_00",
+    "conceptId": 10015718,
+    "name": "Hungry Monster Food Rain",
+    "contentId": "UP7668-PPSA31146_00-0477992624202272",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31149_00",
     "conceptId": 10015719,
     "name": "Tap Combo Color Blocks",
@@ -134867,33 +134931,33 @@
     "titleId": "PPSA31199_00",
     "conceptId": 10015751,
     "name": "The Cursed Frog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA31199_00-0693770656267452",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA31200_00",
     "conceptId": 10015751,
     "name": "The Cursed Frog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA31200_00-0043628947772130",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA31201_00",
     "conceptId": 10015751,
     "name": "The Cursed Frog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA31201_00-0461913440932453",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA31202_00",
     "conceptId": 10015751,
     "name": "The Cursed Frog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA31202_00-0377026526318305",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA31218_00",
@@ -134939,9 +135003,9 @@
     "titleId": "PPSA31231_00",
     "conceptId": 10015772,
     "name": "Puppet Theater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA31231_00-0964379262818840",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA31252_00",
@@ -135059,17 +135123,25 @@
     "titleId": "PPSA31345_00",
     "conceptId": 10015847,
     "name": "Pixicharm - Flindlehop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA31345_00-FLINDLEHOPGAME00",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA31359_00",
+    "conceptId": 10015853,
+    "name": "Learn to Play Vol. 11 - Drift Moto",
+    "contentId": "UP2005-PPSA31359_00-LTPDRIFTMOTO0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA31360_00",
     "conceptId": 10015853,
     "name": "Learn to Play Vol. 11 - Drift Moto",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA31360_00-LTPDRIFTMOTO0000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA31361_00",
@@ -135123,9 +135195,9 @@
     "titleId": "PPSA31382_00",
     "conceptId": 10015870,
     "name": "Axe Champ",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0337-PPSA31382_00-0449155416481875",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA31391_00",
@@ -135208,12 +135280,20 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA31483_00",
+    "conceptId": 10005015,
+    "name": "Escape First 3",
+    "contentId": "UP5085-PPSA31483_00-0675949062573823",
+    "region": "UP",
+    "publisherId": "UP5085"
+  },
+  {
     "titleId": "PPSA31484_00",
     "conceptId": 10005015,
     "name": "Escape First 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5265-PPSA31484_00-0845832559285719",
+    "region": "EP",
+    "publisherId": "EP5265"
   },
   {
     "titleId": "PPSA31489_00",
@@ -135251,17 +135331,17 @@
     "titleId": "PPSA31502_00",
     "conceptId": 10015936,
     "name": "Lirili Larila",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0599-PPSA31502_00-LIRILIGAME00SIEA",
+    "region": "UB",
+    "publisherId": "UB0599"
   },
   {
     "titleId": "PPSA31503_00",
     "conceptId": 10015936,
     "name": "Lirili Larila",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA31503_00-LIRILIGAME00SIEE",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA31504_00",
@@ -135283,17 +135363,17 @@
     "titleId": "PPSA31525_00",
     "conceptId": 10015948,
     "name": "Galacticon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA31525_00-0401777706152899",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA31526_00",
     "conceptId": 10015948,
     "name": "Galacticon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA31526_00-0955124017661454",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA31532_00",
@@ -135371,17 +135451,17 @@
     "titleId": "PPSA31593_00",
     "conceptId": 10016005,
     "name": "Magnitude: Lambda",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA31593_00-0920566510847869",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA31594_00",
     "conceptId": 10016005,
     "name": "Magnitude: Lambda",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA31594_00-0375308752216145",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA31595_00",
@@ -135438,5 +135518,13 @@
     "contentId": "UP7552-PPSA31786_00-0871063235687912",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA31799_00",
+    "conceptId": 10009060,
+    "name": "Sqwrk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
