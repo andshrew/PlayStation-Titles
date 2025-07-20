@@ -89299,7 +89299,7 @@
     "titleId": "PPSA20296_00",
     "conceptId": 10009867,
     "name": "Shadow Labyrinth",
-    "contentId": null,
+    "contentId": "HP0700-PPSA20296_00-SHADOWLABYRINTH0",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -89307,7 +89307,7 @@
     "titleId": "PPSA20297_00",
     "conceptId": 10009867,
     "name": "Shadow Labyrinth",
-    "contentId": null,
+    "contentId": "EP0700-PPSA20297_00-SHADOWLABYRINTH0",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -93486,6 +93486,14 @@
     "contentId": "UP7543-PPSA21208_00-0605121123900610",
     "region": "UP",
     "publisherId": "UP7543"
+  },
+  {
+    "titleId": "PPSA21219_00",
+    "conceptId": 10010195,
+    "name": "Tales of the Shire: A The Lord of The Rings\u2122 Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21220_00",
@@ -97702,6 +97710,14 @@
     "contentId": "UB0225-PPSA22138_00-0074169591385824",
     "region": "UB",
     "publisherId": "UB0225"
+  },
+  {
+    "titleId": "PPSA22140_00",
+    "conceptId": 10009853,
+    "name": "Hoodie Survivor",
+    "contentId": "EP2919-PPSA22140_00-0924545306911942",
+    "region": "EP",
+    "publisherId": "EP2919"
   },
   {
     "titleId": "PPSA22141_00",
@@ -111018,8 +111034,8 @@
   {
     "titleId": "PPSA24938_00",
     "conceptId": 10011185,
-    "name": "The Wandering Village PS4 & PS5",
-    "contentId": null,
+    "name": "The Wandering Village",
+    "contentId": "JP6400-PPSA24938_00-0605130831842075",
     "region": "JP",
     "publisherId": "JP6400"
   },
@@ -112504,12 +112520,28 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25232_00",
+    "conceptId": 10006514,
+    "name": "Quiz Thiz Croatia - DEMO",
+    "contentId": "EP6664-PPSA25232_00-0802185304977880",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA25233_00",
     "conceptId": 10006514,
     "name": "Quiz Thiz Croatia - DEMO",
     "contentId": "UP6664-PPSA25233_00-0517685704111373",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25235_00",
+    "conceptId": 10006514,
+    "name": "Quiz Thiz Croatia - DEMO",
+    "contentId": "HP6661-PPSA25235_00-0552123075262641",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA25237_00",
@@ -113868,6 +113900,30 @@
     "conceptId": 10012248,
     "name": "Bust A Block 2",
     "contentId": "HP6661-PPSA25508_00-0123212986638419",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA25509_00",
+    "conceptId": 10012248,
+    "name": "Bust A Block 2 - DEMO",
+    "contentId": "EP6664-PPSA25509_00-0802441323922612",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25510_00",
+    "conceptId": 10012248,
+    "name": "Bust A Block 2 - DEMO",
+    "contentId": "UP6664-PPSA25510_00-0082304569322308",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25512_00",
+    "conceptId": 10012248,
+    "name": "Bust A Block 2 - DEMO",
+    "contentId": "HP6661-PPSA25512_00-0807897370313610",
     "region": "HP",
     "publisherId": "HP6661"
   },
@@ -116102,6 +116158,14 @@
     "contentId": "EP1411-PPSA26011_00-0738601740455960",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA26012_00",
+    "conceptId": 10012483,
+    "name": "Abiotic Factor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26014_00",
@@ -122530,10 +122594,10 @@
   {
     "titleId": "PPSA27486_00",
     "conceptId": 10013429,
-    "name": "The Jumping Shaped Fries - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Shaped Fries",
+    "contentId": "HP6661-PPSA27486_00-0517736121827805",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27492_00",
@@ -131960,6 +132024,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA30003_00",
+    "conceptId": 10015076,
+    "name": "Connect It!",
+    "contentId": "UB0008-PPSA30003_00-0536436699421841",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA30004_00",
     "conceptId": 10015077,
     "name": "Empire Invasion",
@@ -134680,6 +134752,14 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA31092_00",
+    "conceptId": 10015683,
+    "name": "Formula Racing GP: Apex Overtaking",
+    "contentId": "EB0963-PPSA31092_00-0574891353635772",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA31095_00",
     "conceptId": 10015686,
     "name": "Gem Jam",
@@ -134742,6 +134822,14 @@
     "contentId": "UB0752-PPSA31110_00-0734494372951261",
     "region": "UB",
     "publisherId": "UB0752"
+  },
+  {
+    "titleId": "PPSA31115_00",
+    "conceptId": 10015695,
+    "name": "Veins of DARKNESS HORROR",
+    "contentId": "EB0963-PPSA31115_00-0769113655510415",
+    "region": "EB",
+    "publisherId": "EB0963"
   },
   {
     "titleId": "PPSA31123_00",
@@ -135000,6 +135088,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA31230_00",
+    "conceptId": 10015772,
+    "name": "Puppet Theater",
+    "contentId": "UP7335-PPSA31230_00-0161468256134068",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA31231_00",
     "conceptId": 10015772,
     "name": "Puppet Theater",
@@ -135126,6 +135222,38 @@
     "contentId": "EP1612-PPSA31345_00-FLINDLEHOPGAME00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA31347_00",
+    "conceptId": 10013922,
+    "name": "Racing Skill",
+    "contentId": "UB0487-PPSA31347_00-0438024466116050",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA31348_00",
+    "conceptId": 10013922,
+    "name": "Racing Skill",
+    "contentId": "UB0487-PPSA31348_00-0407856938242679",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA31349_00",
+    "conceptId": 10013922,
+    "name": "Racing Skill",
+    "contentId": "UB0487-PPSA31349_00-0391876109857919",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA31350_00",
+    "conceptId": 10013922,
+    "name": "Racing Skill",
+    "contentId": "UB0487-PPSA31350_00-0133693996090959",
+    "region": "UB",
+    "publisherId": "UB0487"
   },
   {
     "titleId": "PPSA31359_00",
@@ -135480,6 +135608,38 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA31713_00",
+    "conceptId": 10007483,
+    "name": "MORTAR",
+    "contentId": "EP5645-PPSA31713_00-0262010059816956",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31714_00",
+    "conceptId": 10007483,
+    "name": "MORTAR",
+    "contentId": "EP5645-PPSA31714_00-0693948922615373",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31715_00",
+    "conceptId": 10007483,
+    "name": "MORTAR",
+    "contentId": "EP5645-PPSA31715_00-0882982093577671",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31716_00",
+    "conceptId": 10007483,
+    "name": "MORTAR",
+    "contentId": "EP5645-PPSA31716_00-0112270228572544",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA31782_00",
     "conceptId": 10016138,
     "name": "BREAKING BRICKS",
@@ -135520,11 +135680,19 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA31798_00",
+    "conceptId": 10009060,
+    "name": "Sqwrk",
+    "contentId": "EP2919-PPSA31798_00-0216226206728428",
+    "region": "EP",
+    "publisherId": "EP2919"
+  },
+  {
     "titleId": "PPSA31799_00",
     "conceptId": 10009060,
     "name": "Sqwrk",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2919-PPSA31799_00-0117654691753483",
+    "region": "EP",
+    "publisherId": "EP2919"
   }
 ]
