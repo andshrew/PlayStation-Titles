@@ -89315,7 +89315,7 @@
     "titleId": "PPSA20298_00",
     "conceptId": 10009867,
     "name": "Shadow Labyrinth",
-    "contentId": null,
+    "contentId": "UP0700-PPSA20298_00-SHADOWLABYRINTH0",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -93486,6 +93486,14 @@
     "contentId": "UP7543-PPSA21208_00-0605121123900610",
     "region": "UP",
     "publisherId": "UP7543"
+  },
+  {
+    "titleId": "PPSA21218_00",
+    "conceptId": 10010195,
+    "name": "Tales of the Shire: A The Lord of The Rings\u2122 Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA21219_00",
@@ -112536,6 +112544,14 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA25234_00",
+    "conceptId": 10006514,
+    "name": "Quiz Thiz Croatia - DEMO",
+    "contentId": "JP6595-PPSA25234_00-0441954235862772",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
     "titleId": "PPSA25235_00",
     "conceptId": 10006514,
     "name": "Quiz Thiz Croatia - DEMO",
@@ -113808,6 +113824,30 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA25485_00",
+    "conceptId": 10012245,
+    "name": "Infinite Switch - DEMO",
+    "contentId": "EP6664-PPSA25485_00-0717426252028646",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA25486_00",
+    "conceptId": 10012245,
+    "name": "Infinite Switch - DEMO",
+    "contentId": "UP6664-PPSA25486_00-0193047939858239",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25488_00",
+    "conceptId": 10012245,
+    "name": "Infinite Switch - DEMO",
+    "contentId": "HP6661-PPSA25488_00-0297127652080677",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
     "titleId": "PPSA25489_00",
     "conceptId": 10012246,
     "name": "Glowface In Love 2",
@@ -113918,6 +113958,14 @@
     "contentId": "UP6664-PPSA25510_00-0082304569322308",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25511_00",
+    "conceptId": 10012248,
+    "name": "Bust A Block 2 - DEMO",
+    "contentId": "JP6595-PPSA25511_00-0691012599784097",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA25512_00",
@@ -135694,5 +135742,13 @@
     "contentId": "EP2919-PPSA31799_00-0117654691753483",
     "region": "EP",
     "publisherId": "EP2919"
+  },
+  {
+    "titleId": "PPSA31888_00",
+    "conceptId": 10010819,
+    "name": "ROAD TO EXOTICS: RACING GAME",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
