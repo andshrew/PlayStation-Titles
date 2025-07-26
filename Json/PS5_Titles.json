@@ -42923,7 +42923,7 @@
     "titleId": "PPSA09519_00",
     "conceptId": 10005853,
     "name": "WUCHANG: Fallen Feathers",
-    "contentId": null,
+    "contentId": "EP4040-PPSA09519_00-WUCHANGPS5000000",
     "region": "EP",
     "publisherId": "EP4040"
   },
@@ -83216,6 +83216,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19042_00",
+    "conceptId": 10009247,
+    "name": "Doors: Paradox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA19043_00",
+    "conceptId": 10009247,
+    "name": "Doors: Paradox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA19048_00",
     "conceptId": 10009384,
     "name": "MediEvil 2",
@@ -97100,8 +97116,8 @@
     "conceptId": 10009623,
     "name": "Discounty",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA21992_00",
@@ -105910,6 +105926,14 @@
     "contentId": "JP7550-PPSA23923_00-TLPS5BETA3000000",
     "region": "JP",
     "publisherId": "JP7550"
+  },
+  {
+    "titleId": "PPSA23924_00",
+    "conceptId": 10009568,
+    "name": "Battlefield\u2122 6",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA23927_00",
@@ -115568,6 +115592,14 @@
     "publisherId": "UP7594"
   },
   {
+    "titleId": "PPSA25839_00",
+    "conceptId": 10012444,
+    "name": "Garfield Kart 2 - All You Can Drift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25840_00",
     "conceptId": 10012401,
     "name": "Eden Survivors",
@@ -116460,8 +116492,8 @@
     "conceptId": 10010183,
     "name": "Sengoku Dynasty",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP3550"
   },
   {
     "titleId": "PPSA26058_00",
@@ -118648,6 +118680,14 @@
     "publisherId": "EP3945"
   },
   {
+    "titleId": "PPSA26528_00",
+    "conceptId": 10012908,
+    "name": "Code Violet",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5503"
+  },
+  {
     "titleId": "PPSA26529_00",
     "conceptId": 10008104,
     "name": "Techno Banter - Official Soundtrack",
@@ -119274,26 +119314,26 @@
   {
     "titleId": "PPSA26636_00",
     "conceptId": 10012966,
-    "name": "The Jumping Food Delivery - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Food Delivery",
+    "contentId": "UP6664-PPSA26636_00-0238756946199770",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26637_00",
     "conceptId": 10012966,
-    "name": "The Jumping Food Delivery - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Food Delivery",
+    "contentId": "JP6595-PPSA26637_00-0316592863436465",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26638_00",
     "conceptId": 10012966,
-    "name": "The Jumping Food Delivery - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Food Delivery",
+    "contentId": "HP6661-PPSA26638_00-0682135748997120",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26642_00",
@@ -119811,9 +119851,9 @@
     "titleId": "PPSA26812_00",
     "conceptId": 10013044,
     "name": "Cubes Problem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA26812_00-0531321307724940",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA26813_00",
@@ -120078,6 +120118,14 @@
     "contentId": "UB0108-PPSA26851_00-0675805675002843",
     "region": "UB",
     "publisherId": "UB0108"
+  },
+  {
+    "titleId": "PPSA26853_00",
+    "conceptId": 10011263,
+    "name": "Cottonreboot Hightension!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26854_00",
@@ -125515,9 +125563,9 @@
     "titleId": "PPSA28095_00",
     "conceptId": 10013932,
     "name": "TERASLIDE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28095_00-TERASLIDERATAGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28096_00",
@@ -125683,9 +125731,9 @@
     "titleId": "PPSA28127_00",
     "conceptId": 10013951,
     "name": "CarGo!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA28127_00-ULGCARGOPS500002",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA28129_00",
@@ -128552,6 +128600,14 @@
     "publisherId": "EB0310"
   },
   {
+    "titleId": "PPSA28909_00",
+    "conceptId": 10014450,
+    "name": "Narcissus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28910_00",
     "conceptId": 10014451,
     "name": "Space KaBAAM: Neon",
@@ -128867,9 +128923,9 @@
     "titleId": "PPSA28979_00",
     "conceptId": 10010378,
     "name": "Oxide Room 208",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3877-PPSA28979_00-OXIDE208BASEGAME",
+    "region": "EP",
+    "publisherId": "EP3877"
   },
   {
     "titleId": "PPSA28983_00",
@@ -130512,12 +130568,28 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29478_00",
+    "conceptId": 10005942,
+    "name": "The Shaking Chalice",
+    "contentId": "UP7940-PPSA29478_00-0161475489546862",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
     "titleId": "PPSA29479_00",
     "conceptId": 10005942,
     "name": "The Shaking Chalice",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7938-PPSA29479_00-0578812798814779",
+    "region": "EP",
+    "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA29480_00",
+    "conceptId": 10005942,
+    "name": "The Shaking Chalice",
+    "contentId": "HP7967-PPSA29480_00-0168492778824394",
+    "region": "HP",
+    "publisherId": "HP7967"
   },
   {
     "titleId": "PPSA29481_00",
@@ -131424,10 +131496,26 @@
     "publisherId": "EP5133"
   },
   {
+    "titleId": "PPSA29702_00",
+    "conceptId": 10009595,
+    "name": "LASER FORTRESS",
+    "contentId": "EP5645-PPSA29702_00-0278808270016943",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA29703_00",
     "conceptId": 10009595,
     "name": "LASER FORTRESS",
     "contentId": "EP5645-PPSA29703_00-0423469608463905",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29704_00",
+    "conceptId": 10009595,
+    "name": "LASER FORTRESS",
+    "contentId": "EP5645-PPSA29704_00-0945682814362584",
     "region": "EP",
     "publisherId": "EP5645"
   },
@@ -131546,10 +131634,10 @@
   {
     "titleId": "PPSA29735_00",
     "conceptId": 10014934,
-    "name": "Tiny Titans \u2013 Card Rumble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tiny Titans - Card Rumble",
+    "contentId": "EP6556-PPSA29735_00-0032687510209018",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA29737_00",
@@ -132320,6 +132408,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA30002_00",
+    "conceptId": 10015075,
+    "name": "Classic Solitaire",
+    "contentId": "UB0008-PPSA30002_00-0487681245395497",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA30003_00",
     "conceptId": 10015076,
     "name": "Connect It!",
@@ -132862,6 +132958,14 @@
     "contentId": "UP0182-PPSA30186_00-GOLDENTEEARCADEC",
     "region": "UP",
     "publisherId": "UP0182"
+  },
+  {
+    "titleId": "PPSA30188_00",
+    "conceptId": 10014543,
+    "name": "Ra Ra BOOM",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30189_00",
@@ -134200,6 +134304,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA30513_00",
+    "conceptId": 10010728,
+    "name": "Furaiki5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30515_00",
     "conceptId": 10015374,
     "name": "Magnitude: Eta",
@@ -134446,6 +134558,22 @@
     "contentId": "UP2005-PPSA30653_00-SECRETPAWS000000",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA30657_00",
+    "conceptId": 10014414,
+    "name": "Casual Sport Series: Badminton",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30664_00",
+    "conceptId": 10005570,
+    "name": "Sonic Racing: CrossWorlds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30668_00",
@@ -135019,17 +135147,17 @@
     "titleId": "PPSA31054_00",
     "conceptId": 10015660,
     "name": "Psychopathy Assessment",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA31054_00-0316876894271468",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA31055_00",
     "conceptId": 10015660,
     "name": "Psychopathy Assessment",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA31055_00-0884081492064890",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA31056_00",
@@ -136200,6 +136328,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA31766_00",
+    "conceptId": 10011938,
+    "name": "Color Recreator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31782_00",
     "conceptId": 10016138,
     "name": "BREAKING BRICKS",
@@ -136334,5 +136470,85 @@
     "contentId": "HB0674-PPSA31915_00-0659631931332776",
     "region": "HB",
     "publisherId": "HB0674"
+  },
+  {
+    "titleId": "PPSA31987_00",
+    "conceptId": 10011921,
+    "name": "Odd Color Out",
+    "contentId": "UB0706-PPSA31987_00-0118580636705716",
+    "region": "UB",
+    "publisherId": "UB0706"
+  },
+  {
+    "titleId": "PPSA31988_00",
+    "conceptId": 10011921,
+    "name": "Odd Color Out",
+    "contentId": "EB0901-PPSA31988_00-0599346567645590",
+    "region": "EB",
+    "publisherId": "EB0901"
+  },
+  {
+    "titleId": "PPSA31989_00",
+    "conceptId": 10011921,
+    "name": "Odd Color Out",
+    "contentId": "JB0645-PPSA31989_00-0457190250310758",
+    "region": "JB",
+    "publisherId": "JB0645"
+  },
+  {
+    "titleId": "PPSA31990_00",
+    "conceptId": 10011921,
+    "name": "Odd Color Out",
+    "contentId": "HB0674-PPSA31990_00-0946141263210885",
+    "region": "HB",
+    "publisherId": "HB0674"
+  },
+  {
+    "titleId": "PPSA32010_00",
+    "conceptId": 10013750,
+    "name": "Paintings restoration",
+    "contentId": "UB0706-PPSA32010_00-0101403451037836",
+    "region": "UB",
+    "publisherId": "UB0706"
+  },
+  {
+    "titleId": "PPSA32011_00",
+    "conceptId": 10013750,
+    "name": "Paintings restoration",
+    "contentId": "EB0901-PPSA32011_00-0346734907613038",
+    "region": "EB",
+    "publisherId": "EB0901"
+  },
+  {
+    "titleId": "PPSA32012_00",
+    "conceptId": 10013750,
+    "name": "Paintings restoration",
+    "contentId": "JB0645-PPSA32012_00-0879654377591846",
+    "region": "JB",
+    "publisherId": "JB0645"
+  },
+  {
+    "titleId": "PPSA32079_00",
+    "conceptId": 10016294,
+    "name": "Buddy Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32080_00",
+    "conceptId": 10016294,
+    "name": "Buddy Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32081_00",
+    "conceptId": 10016294,
+    "name": "Buddy Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
