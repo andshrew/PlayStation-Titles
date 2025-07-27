@@ -85530,10 +85530,10 @@
   {
     "titleId": "PPSA19520_00",
     "conceptId": 10006282,
-    "name": "Death Relives",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Xipetotec",
+    "contentId": "HP7827-PPSA19520_00-0696315912954783",
+    "region": "HP",
+    "publisherId": "HP7827"
   },
   {
     "titleId": "PPSA19526_00",
@@ -102472,6 +102472,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA23213_00",
+    "conceptId": 10011079,
+    "name": "Exo Mayhem",
+    "contentId": "UB0882-PPSA23213_00-0672613739425529",
+    "region": "UB",
+    "publisherId": "UB0882"
+  },
+  {
     "titleId": "PPSA23217_00",
     "conceptId": 10011059,
     "name": "\u30e2\u30ce\u30b9\u30da\u30fc\u30b9\u30c9 \u30e9\u30d0\u30fc\u30ba",
@@ -118952,6 +118960,14 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA26579_00",
+    "conceptId": 10012947,
+    "name": "Makis Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26580_00",
     "conceptId": 10012948,
     "name": "Rivenaar's Grove",
@@ -119859,9 +119875,9 @@
     "titleId": "PPSA26813_00",
     "conceptId": 10013044,
     "name": "Cubes Problem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA26813_00-0590248689798385",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA26814_00",
@@ -122830,6 +122846,14 @@
     "contentId": "HP6661-PPSA27486_00-0517736121827805",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA27491_00",
+    "conceptId": 10012866,
+    "name": "Spell Disk",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27492_00",
@@ -130568,6 +130592,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29470_00",
+    "conceptId": 10005942,
+    "name": "The Shaking Chalice",
+    "contentId": "UP7940-PPSA29470_00-0169691649588652",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
     "titleId": "PPSA29478_00",
     "conceptId": 10005942,
     "name": "The Shaking Chalice",
@@ -134312,6 +134344,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30514_00",
+    "conceptId": 10010728,
+    "name": "Furaiki5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30515_00",
     "conceptId": 10015374,
     "name": "Magnitude: Eta",
@@ -134562,10 +134602,10 @@
   {
     "titleId": "PPSA30657_00",
     "conceptId": 10014414,
-    "name": "Casual Sport Series: Badminton",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Casual Sport Series: Badminton Demo",
+    "contentId": "UP7578-PPSA30657_00-0462637944554851",
+    "region": "UP",
+    "publisherId": "UP7578"
   },
   {
     "titleId": "PPSA30664_00",
@@ -136048,6 +136088,14 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA31501_00",
+    "conceptId": 10014912,
+    "name": "Tiny Town Roll",
+    "contentId": "JP7921-PPSA31501_00-0325238703284763",
+    "region": "JP",
+    "publisherId": "JP7921"
+  },
+  {
     "titleId": "PPSA31502_00",
     "conceptId": 10015936,
     "name": "Lirili Larila",
@@ -136328,12 +136376,36 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA31765_00",
+    "conceptId": 10011938,
+    "name": "Color Recreator",
+    "contentId": "UB0706-PPSA31765_00-0587680427165965",
+    "region": "UB",
+    "publisherId": "UB0706"
+  },
+  {
     "titleId": "PPSA31766_00",
     "conceptId": 10011938,
     "name": "Color Recreator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0901-PPSA31766_00-0058641831697156",
+    "region": "EB",
+    "publisherId": "EB0901"
+  },
+  {
+    "titleId": "PPSA31767_00",
+    "conceptId": 10011938,
+    "name": "Color Recreator",
+    "contentId": "JB0645-PPSA31767_00-0534287150106741",
+    "region": "JB",
+    "publisherId": "JB0645"
+  },
+  {
+    "titleId": "PPSA31768_00",
+    "conceptId": 10011938,
+    "name": "Color Recreator",
+    "contentId": "UB0706-PPSA31768_00-0421510460648669",
+    "region": "UB",
+    "publisherId": "UB0706"
   },
   {
     "titleId": "PPSA31782_00",
@@ -136472,6 +136544,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA31917_00",
+    "conceptId": 10016211,
+    "name": "Puzzle Piecer: Full Spectrum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31987_00",
     "conceptId": 10011921,
     "name": "Odd Color Out",
@@ -136528,6 +136608,14 @@
     "publisherId": "JB0645"
   },
   {
+    "titleId": "PPSA32013_00",
+    "conceptId": 10013750,
+    "name": "Paintings restoration",
+    "contentId": "HB0674-PPSA32013_00-0870538563971918",
+    "region": "HB",
+    "publisherId": "HB0674"
+  },
+  {
     "titleId": "PPSA32079_00",
     "conceptId": 10016294,
     "name": "Buddy Garden",
@@ -136550,5 +136638,13 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32082_00",
+    "conceptId": 10016294,
+    "name": "Buddy Garden",
+    "contentId": "HB0876-PPSA32082_00-0616036857043074",
+    "region": "HB",
+    "publisherId": "HB0876"
   }
 ]
