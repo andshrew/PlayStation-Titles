@@ -49795,9 +49795,9 @@
     "titleId": "PPSA10640_00",
     "conceptId": 10006282,
     "name": "Death Relives",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7800-PPSA10640_00-6686956259647905",
+    "region": "UP",
+    "publisherId": "UP7800"
   },
   {
     "titleId": "PPSA10641_00",
@@ -85526,6 +85526,14 @@
     "contentId": "EP4382-PPSA19516_00-GORICUDDLYDEMO00",
     "region": "EP",
     "publisherId": "EP4382"
+  },
+  {
+    "titleId": "PPSA19519_00",
+    "conceptId": 10006282,
+    "name": "Xipetotec",
+    "contentId": "JP7781-PPSA19519_00-0576717430626471",
+    "region": "JP",
+    "publisherId": "JP7781"
   },
   {
     "titleId": "PPSA19520_00",
@@ -126184,6 +126192,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA28241_00",
+    "conceptId": 10014029,
+    "name": "Zooparasite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28242_00",
     "conceptId": 10014030,
     "name": "HyperMarket Simulator",
@@ -127819,6 +127835,14 @@
     "titleId": "PPSA28606_00",
     "conceptId": 10005107,
     "name": "King of Meat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28609_00",
+    "conceptId": 10014263,
+    "name": "Bendy: Lone Wolf",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -136544,6 +136568,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA31916_00",
+    "conceptId": 10016211,
+    "name": "Puzzle Piecer: Full Spectrum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31917_00",
     "conceptId": 10016211,
     "name": "Puzzle Piecer: Full Spectrum",
@@ -136619,25 +136651,25 @@
     "titleId": "PPSA32079_00",
     "conceptId": 10016294,
     "name": "Buddy Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA32079_00-0079819688672786",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA32080_00",
     "conceptId": 10016294,
     "name": "Buddy Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA32080_00-0488652368511552",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA32081_00",
     "conceptId": 10016294,
     "name": "Buddy Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA32081_00-0397856872706404",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA32082_00",
