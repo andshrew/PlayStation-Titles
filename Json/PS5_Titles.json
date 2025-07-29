@@ -36299,7 +36299,7 @@
     "titleId": "PPSA08427_00",
     "conceptId": 10005321,
     "name": "Killing Floor 3",
-    "contentId": null,
+    "contentId": "EP0114-PPSA08427_00-KF3GAME000000001",
     "region": "EP",
     "publisherId": "EP0114"
   },
@@ -122064,6 +122064,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27305_00",
+    "conceptId": 10013351,
+    "name": "Goosebumps: Terror in Little Creek",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27307_00",
     "conceptId": 10013353,
     "name": "Happy Hoop Endless Journey",
@@ -126230,6 +126238,14 @@
     "contentId": "UP7552-PPSA28253_00-0586356181865211",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA28254_00",
+    "conceptId": 10014034,
+    "name": "Bedrotting",
+    "contentId": "UP7631-PPSA28254_00-0488813803534574",
+    "region": "UP",
+    "publisherId": "UP7631"
   },
   {
     "titleId": "PPSA28256_00",
@@ -132579,9 +132595,9 @@
     "titleId": "PPSA30033_00",
     "conceptId": 10015099,
     "name": "Day of the Shell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8767-PPSA30033_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP8767"
   },
   {
     "titleId": "PPSA30044_00",
@@ -134091,9 +134107,9 @@
     "titleId": "PPSA30454_00",
     "conceptId": 10015335,
     "name": "Achilles: Survivor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7729-PPSA30454_00-ACHILLESSURVIVOR",
+    "region": "UP",
+    "publisherId": "UP7729"
   },
   {
     "titleId": "PPSA30455_00",
@@ -134888,6 +134904,22 @@
     "publisherId": "UP8623"
   },
   {
+    "titleId": "PPSA30776_00",
+    "conceptId": 10012536,
+    "name": "Senua's Saga: Hellblade II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30777_00",
+    "conceptId": 10012536,
+    "name": "Senua's Saga: Hellblade II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30804_00",
     "conceptId": 10015534,
     "name": "Battle Mythic Maidens Arena",
@@ -135262,6 +135294,30 @@
     "contentId": "HP8462-PPSA31061_00-0554338083899910",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA31062_00",
+    "conceptId": 10015665,
+    "name": "(Dis)Assemble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31063_00",
+    "conceptId": 10015665,
+    "name": "(Dis)Assemble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31065_00",
+    "conceptId": 10015665,
+    "name": "(Dis)Assemble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31067_00",
@@ -136304,6 +136360,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA31647_00",
+    "conceptId": 10016043,
+    "name": "Mergery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31668_00",
     "conceptId": 10016057,
     "name": "Temari Trials",
@@ -136336,6 +136400,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31672_00",
+    "conceptId": 10016058,
+    "name": "Candy Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31673_00",
+    "conceptId": 10016058,
+    "name": "Candy Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31674_00",
+    "conceptId": 10016058,
+    "name": "Candy Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31675_00",
+    "conceptId": 10016058,
+    "name": "Candy Trail",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31699_00",
     "conceptId": 10016079,
     "name": "Little Helper Cafe",
@@ -136363,6 +136459,22 @@
     "titleId": "PPSA31702_00",
     "conceptId": 10016079,
     "name": "Little Helper Cafe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31704_00",
+    "conceptId": 10016081,
+    "name": "Steampunch: Lost Tombs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31705_00",
+    "conceptId": 10016081,
+    "name": "Steampunch: Lost Tombs",
     "contentId": null,
     "region": null,
     "publisherId": null
