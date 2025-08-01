@@ -42931,7 +42931,7 @@
     "titleId": "PPSA09520_00",
     "conceptId": 10005853,
     "name": "\u660e\u672b\uff1a\u30a6\u30c4\u30ed\u30ce\u30cf\u30cd",
-    "contentId": null,
+    "contentId": "JP0114-PPSA09520_00-WUCHANGPS5000000",
     "region": "JP",
     "publisherId": "JP0114"
   },
@@ -80264,6 +80264,14 @@
     "publisherId": "EP5661"
   },
   {
+    "titleId": "PPSA18387_00",
+    "conceptId": 10009144,
+    "name": "OPUS: Echo of Starsong - Full Bloom Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18388_00",
     "conceptId": 10008237,
     "name": "Pinball M",
@@ -101810,18 +101818,18 @@
   {
     "titleId": "PPSA23014_00",
     "conceptId": 10010971,
-    "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Call of Duty\u00ae Modern Warfare 2",
+    "contentId": "JP9201-PPSA23014_00-MW2GAME000000001",
+    "region": "JP",
+    "publisherId": "JP9201"
   },
   {
     "titleId": "PPSA23015_00",
     "conceptId": 10010971,
-    "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Call of Duty\u00ae Modern Warfare 2",
+    "contentId": "HP0002-PPSA23015_00-MW2GAME000000001",
+    "region": "HP",
+    "publisherId": "HP0002"
   },
   {
     "titleId": "PPSA23017_00",
@@ -107682,10 +107690,10 @@
   {
     "titleId": "PPSA24264_00",
     "conceptId": 10011645,
-    "name": "Call of Duty\u00ae: Modern Warfare\u00ae III",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Call of Duty\u00ae Modern Warfare 3",
+    "contentId": "EP0002-PPSA24264_00-MW3GAME000000001",
+    "region": "EP",
+    "publisherId": "EP0002"
   },
   {
     "titleId": "PPSA24265_00",
@@ -116344,6 +116352,14 @@
     "publisherId": "UB0990"
   },
   {
+    "titleId": "PPSA26016_00",
+    "conceptId": 10012516,
+    "name": "DreamWorks Gabby\u2019s Dollhouse: Ready to Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26018_00",
     "conceptId": 10012127,
     "name": "Hyper Rider",
@@ -116638,6 +116654,14 @@
     "contentId": "EB1420-PPSA26091_00-0473475868369028",
     "region": "EB",
     "publisherId": "EB1420"
+  },
+  {
+    "titleId": "PPSA26093_00",
+    "conceptId": 10012599,
+    "name": "The Elf on the Shelf\u00ae: Christmas Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26096_00",
@@ -118520,6 +118544,14 @@
     "publisherId": "HB0706"
   },
   {
+    "titleId": "PPSA26470_00",
+    "conceptId": 10009956,
+    "name": "Ctrl Alt Deal",
+    "contentId": "UP6206-PPSA26470_00-CTRLALTDEALB1PS5",
+    "region": "UP",
+    "publisherId": "UP6206"
+  },
+  {
     "titleId": "PPSA26472_00",
     "conceptId": 10012830,
     "name": "Futbol Kicks",
@@ -118566,6 +118598,14 @@
     "contentId": "EP0600-PPSA26477_00-0936456673613383",
     "region": "EP",
     "publisherId": "EP0600"
+  },
+  {
+    "titleId": "PPSA26480_00",
+    "conceptId": 10010242,
+    "name": "SILENT HILL f",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26482_00",
@@ -119394,10 +119434,10 @@
   {
     "titleId": "PPSA26645_00",
     "conceptId": 10010307,
-    "name": "Tombi! Special Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30aa\u30ec\u3063\uff01\u30c8\u30f3\u30d0 Special Edition",
+    "contentId": "EP6890-PPSA26645_00-0434786665475543",
+    "region": "EP",
+    "publisherId": "EP6890"
   },
   {
     "titleId": "PPSA26646_00",
@@ -120162,10 +120202,10 @@
   {
     "titleId": "PPSA26853_00",
     "conceptId": 10011263,
-    "name": "Cottonreboot Hightension!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30b3\u30c3\u30c8\u30f3\u30ea\u30d6\u30fc\u30c8 \u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3\uff01",
+    "contentId": "JP5328-PPSA26853_00-0375497418915003",
+    "region": "JP",
+    "publisherId": "JP5328"
   },
   {
     "titleId": "PPSA26854_00",
@@ -120590,6 +120630,22 @@
     "contentId": "UB0008-PPSA26946_00-0178832909599712",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA26947_00",
+    "conceptId": 10013119,
+    "name": "GOST of Time",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26948_00",
+    "conceptId": 10013119,
+    "name": "GOST of Time",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26955_00",
@@ -121896,6 +121952,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA27264_00",
+    "conceptId": 10013330,
+    "name": "Ball Shoot Aim Challenge",
+    "contentId": "UP7668-PPSA27264_00-0228012518042461",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA27266_00",
     "conceptId": 10013331,
     "name": "Strawberry Jumping Journey",
@@ -121940,6 +122004,22 @@
     "conceptId": 10013333,
     "name": "Fishing Sea Adventure",
     "contentId": "UP7668-PPSA27274_00-0361892083327070",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27275_00",
+    "conceptId": 10013333,
+    "name": "Fishing Sea Adventure",
+    "contentId": "UP7668-PPSA27275_00-0943226319755879",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27276_00",
+    "conceptId": 10013333,
+    "name": "Fishing Sea Adventure",
+    "contentId": "UP7668-PPSA27276_00-0262858425784596",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -122046,6 +122126,22 @@
     "contentId": "UP7668-PPSA27292_00-0195555871330879",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27293_00",
+    "conceptId": 10013348,
+    "name": "Heroes Sky Legends",
+    "contentId": "UP7668-PPSA27293_00-0366529464102435",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27295_00",
+    "conceptId": 10013349,
+    "name": "IntegriFix",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27296_00",
@@ -123808,6 +123904,14 @@
     "publisherId": "UB0827"
   },
   {
+    "titleId": "PPSA27685_00",
+    "conceptId": 10012505,
+    "name": "Esophaguys",
+    "contentId": "HB1061-PPSA27685_00-0850731496771861",
+    "region": "HB",
+    "publisherId": "HB1061"
+  },
+  {
     "titleId": "PPSA27687_00",
     "conceptId": 10006807,
     "name": "SMILY ANGRY",
@@ -125323,9 +125427,9 @@
     "titleId": "PPSA28002_00",
     "conceptId": 10013857,
     "name": "NINJA GAIDEN: Ragebound",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1470-PPSA28002_00-NINJAGAIDENRBPS5",
+    "region": "EP",
+    "publisherId": "EP1470"
   },
   {
     "titleId": "PPSA28006_00",
@@ -125494,6 +125598,14 @@
     "contentId": "EP5987-PPSA28034_00-ULGPRESIDENT0001",
     "region": "EP",
     "publisherId": "EP5987"
+  },
+  {
+    "titleId": "PPSA28041_00",
+    "conceptId": 10013886,
+    "name": "Vlad Circus: Curse of Asmodeus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28043_00",
@@ -127168,6 +127280,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA28468_00",
+    "conceptId": 10008251,
+    "name": "SHINOBI: Art of Vengeance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28469_00",
     "conceptId": 10014175,
     "name": "Slide Defenders",
@@ -127294,6 +127414,14 @@
     "contentId": "EP5206-PPSA28484_00-0447900180892581",
     "region": "EP",
     "publisherId": "EP5206"
+  },
+  {
+    "titleId": "PPSA28492_00",
+    "conceptId": 10014094,
+    "name": "OCTOPATH TRAVELER 0 PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
   },
   {
     "titleId": "PPSA28496_00",
@@ -127808,6 +127936,22 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA28577_00",
+    "conceptId": 221809,
+    "name": "\u30a4\u30fc\u30b9\u2167 -Lacrimosa of DANA-",
+    "contentId": "JP0425-PPSA28577_00-YS08JPGAME000000",
+    "region": "JP",
+    "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA28578_00",
+    "conceptId": 233994,
+    "name": "\u30a4\u30fc\u30b9\u2168 -Monstrum Nox-",
+    "contentId": "JP0425-PPSA28578_00-YS09JPGAME000000",
+    "region": "JP",
+    "publisherId": "JP0425"
+  },
+  {
     "titleId": "PPSA28582_00",
     "conceptId": 10014245,
     "name": "Bridge Constructor Studio",
@@ -127990,6 +128134,14 @@
     "contentId": "EP7099-PPSA28624_00-PPGSQUISHMACHINE",
     "region": "EP",
     "publisherId": "EP7099"
+  },
+  {
+    "titleId": "PPSA28628_00",
+    "conceptId": 10010815,
+    "name": "VARLET",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28629_00",
@@ -128539,9 +128691,9 @@
     "titleId": "PPSA28841_00",
     "conceptId": 10014406,
     "name": "9 Years of Shadows",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA28841_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA28842_00",
@@ -131960,6 +132112,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA29802_00",
+    "conceptId": 10014976,
+    "name": "Plants vs. Zombies\u2122: Replanted",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
+  },
+  {
     "titleId": "PPSA29812_00",
     "conceptId": 10014985,
     "name": "What comes after",
@@ -132358,6 +132518,14 @@
     "contentId": "JP0393-PPSA29924_00-0464406993643832",
     "region": "JP",
     "publisherId": "JP0393"
+  },
+  {
+    "titleId": "PPSA29926_00",
+    "conceptId": 10015052,
+    "name": "\u30a2\u30b9\u30c8\u30e9\u30eb\u30c6\u30a4\u30ab\u30fc",
+    "contentId": "JP0013-PPSA29926_00-JP0ATAKERS000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA29939_00",
@@ -132875,9 +133043,9 @@
     "titleId": "PPSA30102_00",
     "conceptId": 10010040,
     "name": "Lucy Dreaming",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8519-PPSA30102_00-0981998017171386",
+    "region": "UP",
+    "publisherId": "UP8519"
   },
   {
     "titleId": "PPSA30105_00",
@@ -134864,6 +135032,14 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA30693_00",
+    "conceptId": 10014495,
+    "name": "TrackDown: Genesis",
+    "contentId": "EB1778-PPSA30693_00-0841799262855361",
+    "region": "EB",
+    "publisherId": "EB1778"
+  },
+  {
     "titleId": "PPSA30695_00",
     "conceptId": 10015477,
     "name": "Frame Cat",
@@ -134910,6 +135086,14 @@
     "contentId": "UB0675-PPSA30704_00-0410935375679330",
     "region": "UB",
     "publisherId": "UB0675"
+  },
+  {
+    "titleId": "PPSA30705_00",
+    "conceptId": 10015484,
+    "name": "The Order of the Snake Scale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30706_00",
@@ -135030,6 +135214,14 @@
     "contentId": "UP8623-PPSA30772_00-0455047548381676",
     "region": "UP",
     "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA30774_00",
+    "conceptId": 10008251,
+    "name": "SHINOBI: Art of Vengeance DEMO",
+    "contentId": "UP0177-PPSA30774_00-SHINOBIAOVDEMO01",
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA30776_00",
@@ -135651,9 +135843,9 @@
     "titleId": "PPSA31125_00",
     "conceptId": 10011190,
     "name": "Supermarket Owner Simulator: Business",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8703-PPSA31125_00-0884097121473305",
+    "region": "UP",
+    "publisherId": "UP8703"
   },
   {
     "titleId": "PPSA31132_00",
@@ -135915,33 +136107,33 @@
     "titleId": "PPSA31239_00",
     "conceptId": 10015774,
     "name": "Out of Moves: Another Try",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA31239_00-0185550781350792",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA31240_00",
     "conceptId": 10015774,
     "name": "Out of Moves: Another Try",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA31240_00-0056073885730195",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA31241_00",
     "conceptId": 10015774,
     "name": "Out of Moves: Another Try",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA31241_00-0012758092861295",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA31242_00",
     "conceptId": 10015774,
     "name": "Out of Moves: Another Try",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA31242_00-0614007098696328",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA31252_00",
@@ -136056,12 +136248,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31322_00",
+    "conceptId": 10005079,
+    "name": "The Grinch: Christmas Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31323_00",
+    "conceptId": 10005079,
+    "name": "The Grinch: Christmas Adventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31326_00",
     "conceptId": 10008540,
     "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA31336_00",
+    "conceptId": 10015838,
+    "name": "Knightica Demo",
+    "contentId": "UP8767-PPSA31336_00-0254000573032039",
+    "region": "UP",
+    "publisherId": "UP8767"
   },
   {
     "titleId": "PPSA31337_00",
@@ -136118,6 +136334,14 @@
     "contentId": "UB0487-PPSA31350_00-0133693996090959",
     "region": "UB",
     "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA31356_00",
+    "conceptId": 10010815,
+    "name": "VARLET",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31359_00",
@@ -136190,6 +136414,14 @@
     "contentId": "UB0337-PPSA31382_00-0449155416481875",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA31390_00",
+    "conceptId": 10002514,
+    "name": "Escape First 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31391_00",
@@ -136272,6 +136504,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31467_00",
+    "conceptId": 10015918,
+    "name": "Ai Tycoon",
+    "contentId": "UB0337-PPSA31467_00-0676740626290981",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA31475_00",
     "conceptId": 10015905,
     "name": "Sector Force",
@@ -136350,6 +136590,14 @@
     "contentId": "JP5299-PPSA31492_00-0101010101010101",
     "region": "JP",
     "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA31495_00",
+    "conceptId": 10013845,
+    "name": "Holo's Hanafuda",
+    "contentId": "UP1713-PPSA31495_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1713"
   },
   {
     "titleId": "PPSA31496_00",
@@ -136624,6 +136872,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31691_00",
+    "conceptId": 10016073,
+    "name": "Tiny Little Farm",
+    "contentId": "JP7094-PPSA31691_00-0732511364034319",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA31693_00",
+    "conceptId": 10016073,
+    "name": "Tiny Little Farm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31694_00",
+    "conceptId": 10016073,
+    "name": "Tiny Little Farm",
+    "contentId": "HP7141-PPSA31694_00-0363609979901710",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
     "titleId": "PPSA31699_00",
     "conceptId": 10016079,
     "name": "Little Helper Cafe",
@@ -136816,6 +137088,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA31886_00",
+    "conceptId": 10016201,
+    "name": "Pixicharm - Kunai Zone",
+    "contentId": "EP1612-PPSA31886_00-KUNAIZONEGAME000",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
     "titleId": "PPSA31888_00",
     "conceptId": 10010819,
     "name": "ROAD TO EXOTICS DEMO",
@@ -136854,6 +137134,14 @@
     "contentId": "HB0876-PPSA31892_00-0384909078359455",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA31908_00",
+    "conceptId": 10015324,
+    "name": "Multigun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31912_00",
@@ -136902,6 +137190,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA31918_00",
+    "conceptId": 10016211,
+    "name": "Puzzle Piecer: Full Spectrum",
+    "contentId": "HP7367-PPSA31918_00-0009399325341476",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA31919_00",
+    "conceptId": 10016211,
+    "name": "Puzzle Piecer: Full Spectrum",
+    "contentId": "JP7323-PPSA31919_00-0771293527102183",
+    "region": "JP",
+    "publisherId": "JP7323"
   },
   {
     "titleId": "PPSA31987_00",
