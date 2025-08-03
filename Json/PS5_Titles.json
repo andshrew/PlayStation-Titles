@@ -49987,9 +49987,9 @@
     "titleId": "PPSA10694_00",
     "conceptId": 10005915,
     "name": "Cyber Clutch: Hot Import Nights",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3333-PPSA10694_00-0HOTIMPORTNIGHTS",
+    "region": "EP",
+    "publisherId": "EP3333"
   },
   {
     "titleId": "PPSA10695_00",
@@ -74314,8 +74314,8 @@
   {
     "titleId": "PPSA17067_00",
     "conceptId": 10008540,
-    "name": "\u9b3c\u6ec5\u306e\u5203 \u30d2\u30ce\u30ab\u30df\u8840\u98a8\u8b5a2 PS4 & PS5",
-    "contentId": null,
+    "name": "\u9b3c\u6ec5\u306e\u5203 \u30d2\u30ce\u30ab\u30df\u8840\u98a8\u8b5a2",
+    "contentId": "JP3372-PPSA17067_00-HINOKAMI20000000",
     "region": "JP",
     "publisherId": "JP3372"
   },
@@ -81638,6 +81638,14 @@
     "contentId": "HP6691-PPSA18705_00-BLINPOSTMANPS5AS",
     "region": "HP",
     "publisherId": "HP6691"
+  },
+  {
+    "titleId": "PPSA18706_00",
+    "conceptId": 10009279,
+    "name": "DEATH NOTE Killer Within",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18707_00",
@@ -127227,9 +127235,17 @@
     "titleId": "PPSA28404_00",
     "conceptId": 10014140,
     "name": "The First Valentine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA28404_00-0599715324728966",
+    "region": "JP",
+    "publisherId": "JP7309"
+  },
+  {
+    "titleId": "PPSA28405_00",
+    "conceptId": 10014140,
+    "name": "The First Valentine",
+    "contentId": "HP7354-PPSA28405_00-0811770148790134",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA28406_00",
@@ -135640,6 +135656,14 @@
     "publisherId": "UB1026"
   },
   {
+    "titleId": "PPSA30936_00",
+    "conceptId": 10015594,
+    "name": "Constraint Zone",
+    "contentId": "EB1737-PPSA30936_00-0102553472550596",
+    "region": "EB",
+    "publisherId": "EB1737"
+  },
+  {
     "titleId": "PPSA30951_00",
     "conceptId": 10015632,
     "name": "BRAINROT: FIGHTING",
@@ -136363,9 +136387,17 @@
     "titleId": "PPSA31272_00",
     "conceptId": 10015720,
     "name": "Sushi Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA31272_00-0030260215236384",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA31273_00",
+    "conceptId": 10015720,
+    "name": "Sushi Attack",
+    "contentId": "UP4312-PPSA31273_00-0274384561464585",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA31275_00",
@@ -136644,6 +136676,14 @@
     "conceptId": 10015906,
     "name": "Left Right Dodge Race",
     "contentId": "UP7668-PPSA31439_00-0279992940194983",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31442_00",
+    "conceptId": 10015908,
+    "name": "Meteor Break Mission",
+    "contentId": "UP7668-PPSA31442_00-0302011033586096",
     "region": "UP",
     "publisherId": "UP7668"
   },
