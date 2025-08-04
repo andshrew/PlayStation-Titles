@@ -51147,9 +51147,9 @@
     "titleId": "PPSA10861_00",
     "conceptId": 10005915,
     "name": "Cyber Clutch: Hot Import Nights",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3473-PPSA10861_00-0HOTIMPORTNIGHTS",
+    "region": "UP",
+    "publisherId": "UP3473"
   },
   {
     "titleId": "PPSA10862_00",
@@ -126480,6 +126480,14 @@
     "publisherId": "UP7631"
   },
   {
+    "titleId": "PPSA28255_00",
+    "conceptId": 10014036,
+    "name": "1989 After the War",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28256_00",
     "conceptId": 10013267,
     "name": "Paranormal Watcher",
@@ -135000,6 +135008,22 @@
     "publisherId": "EP8062"
   },
   {
+    "titleId": "PPSA30604_00",
+    "conceptId": 10015415,
+    "name": "Oscuro Blossom\u2019s Glow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30605_00",
+    "conceptId": 10015415,
+    "name": "Oscuro Blossom\u2019s Glow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30616_00",
     "conceptId": 10011052,
     "name": "Flight Simulator Delivery: Cargo Business",
@@ -137486,6 +137510,30 @@
     "contentId": "HB0674-PPSA32013_00-0870538563971918",
     "region": "HB",
     "publisherId": "HB0674"
+  },
+  {
+    "titleId": "PPSA32018_00",
+    "conceptId": 10011015,
+    "name": "Soraja Invaders",
+    "contentId": "UB0706-PPSA32018_00-0707968983327100",
+    "region": "UB",
+    "publisherId": "UB0706"
+  },
+  {
+    "titleId": "PPSA32019_00",
+    "conceptId": 10011015,
+    "name": "Soraja Invaders",
+    "contentId": "EB0901-PPSA32019_00-0664225051719078",
+    "region": "EB",
+    "publisherId": "EB0901"
+  },
+  {
+    "titleId": "PPSA32020_00",
+    "conceptId": 10011015,
+    "name": "Soraja Invaders",
+    "contentId": "JB0645-PPSA32020_00-0102017107729246",
+    "region": "JB",
+    "publisherId": "JB0645"
   },
   {
     "titleId": "PPSA32079_00",
