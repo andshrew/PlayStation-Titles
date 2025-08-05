@@ -96776,6 +96776,22 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA21903_00",
+    "conceptId": 10010552,
+    "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u584a\u9b42",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA21905_00",
+    "conceptId": 10010552,
+    "name": "Once Upon A KATAMARI",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21907_00",
     "conceptId": 10007955,
     "name": "Tales from Toyotoki: Arrival of the Witch",
@@ -102646,6 +102662,14 @@
     "contentId": "EP1629-PPSA23239_00-GREED2FEXJDPS5EU",
     "region": "EP",
     "publisherId": "EP1629"
+  },
+  {
+    "titleId": "PPSA23240_00",
+    "conceptId": 10011094,
+    "name": "Adventure of Samsara",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA23241_00",
@@ -119496,6 +119520,14 @@
     "publisherId": "JB1262"
   },
   {
+    "titleId": "PPSA26657_00",
+    "conceptId": 10012988,
+    "name": "Bad Cheese",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26660_00",
     "conceptId": 10012989,
     "name": "Fool's Pub",
@@ -122202,10 +122234,10 @@
   {
     "titleId": "PPSA27295_00",
     "conceptId": 10013349,
-    "name": "IntegriFix",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "IntegriFIx",
+    "contentId": "UP7940-PPSA27295_00-0140623382758569",
+    "region": "UP",
+    "publisherId": "UP7940"
   },
   {
     "titleId": "PPSA27296_00",
@@ -127264,6 +127296,14 @@
     "publisherId": "EP5098"
   },
   {
+    "titleId": "PPSA28407_00",
+    "conceptId": 10005051,
+    "name": "Hell is Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28412_00",
     "conceptId": 10014144,
     "name": "Giant Flee",
@@ -127566,6 +127606,14 @@
     "contentId": "UB0797-PPSA28505_00-0675978855203043",
     "region": "UB",
     "publisherId": "UB0797"
+  },
+  {
+    "titleId": "PPSA28506_00",
+    "conceptId": 10011097,
+    "name": "Daemon X Machina: Titanic Scion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28507_00",
@@ -129446,6 +129494,14 @@
     "contentId": "UP7302-PPSA29021_00-LYNKEDBOTSGAME00",
     "region": "UP",
     "publisherId": "UP7302"
+  },
+  {
+    "titleId": "PPSA29024_00",
+    "conceptId": 10014511,
+    "name": "Dorfromantik",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29025_00",
@@ -137131,9 +137187,9 @@
     "titleId": "PPSA31700_00",
     "conceptId": 10016079,
     "name": "Little Helper Cafe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA31700_00-0069415868093476",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA31701_00",
@@ -137536,6 +137592,14 @@
     "publisherId": "JB0645"
   },
   {
+    "titleId": "PPSA32021_00",
+    "conceptId": 10011015,
+    "name": "Soraja Invaders",
+    "contentId": "HB0674-PPSA32021_00-0543285384353079",
+    "region": "HB",
+    "publisherId": "HB0674"
+  },
+  {
     "titleId": "PPSA32079_00",
     "conceptId": 10016294,
     "name": "Buddy Garden",
@@ -137574,5 +137638,29 @@
     "contentId": "UP7552-PPSA32111_00-0166822221804032",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA32134_00",
+    "conceptId": 10013362,
+    "name": "Let's compare the speed of our punches!",
+    "contentId": "UB0706-PPSA32134_00-0582575180463770",
+    "region": "UB",
+    "publisherId": "UB0706"
+  },
+  {
+    "titleId": "PPSA32135_00",
+    "conceptId": 10013362,
+    "name": "Let's compare the speed of our punches!",
+    "contentId": "EB0901-PPSA32135_00-0492098618341726",
+    "region": "EB",
+    "publisherId": "EB0901"
+  },
+  {
+    "titleId": "PPSA32136_00",
+    "conceptId": 10013362,
+    "name": "Let's compare the speed of our punches!",
+    "contentId": "JB0645-PPSA32136_00-0832526271387292",
+    "region": "JB",
+    "publisherId": "JB0645"
   }
 ]
