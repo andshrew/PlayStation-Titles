@@ -44800,6 +44800,14 @@
     "publisherId": "HP3640"
   },
   {
+    "titleId": "PPSA09827_00",
+    "conceptId": 10005976,
+    "name": "Gothic 1 Remake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09828_00",
     "conceptId": 10006019,
     "name": "Jitsu Squad",
@@ -67784,6 +67792,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA15776_00",
+    "conceptId": 10007407,
+    "name": "Throw Your Phone (Into The Ocean)",
+    "contentId": "UP7384-PPSA15776_00-0700482169826956",
+    "region": "UP",
+    "publisherId": "UP7384"
+  },
+  {
     "titleId": "PPSA15782_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
@@ -79390,6 +79406,14 @@
     "contentId": "JP7583-PPSA18185_00-0408753983725823",
     "region": "JP",
     "publisherId": "JP7583"
+  },
+  {
+    "titleId": "PPSA18186_00",
+    "conceptId": 10009073,
+    "name": "\u30d1\u30c3\u30af\u30de\u30f3\u30ef\u30fc\u30eb\u30c92 \u30ea\u30fb\u30d1\u30c3\u30af PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA18190_00",
@@ -96784,6 +96808,14 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA21904_00",
+    "conceptId": 10010552,
+    "name": "Once Upon A KATAMARI",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA21905_00",
     "conceptId": 10010552,
     "name": "Once Upon A KATAMARI",
@@ -113288,6 +113320,14 @@
     "publisherId": "HP3332"
   },
   {
+    "titleId": "PPSA25344_00",
+    "conceptId": 10011227,
+    "name": "Sword of the Sea",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25345_00",
     "conceptId": 10012146,
     "name": "MATCH QUEST: Numbers",
@@ -113326,6 +113366,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA25363_00",
+    "conceptId": 10012064,
+    "name": "Hell Of An Office",
+    "contentId": "UB0312-PPSA25363_00-0225380047969905",
+    "region": "UB",
+    "publisherId": "UB0312"
   },
   {
     "titleId": "PPSA25367_00",
@@ -115692,8 +115740,8 @@
     "conceptId": 10012444,
     "name": "Garfield Kart 2 - All You Can Drift",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA25840_00",
@@ -126234,10 +126282,10 @@
   {
     "titleId": "PPSA28176_00",
     "conceptId": 10009568,
-    "name": "Battlefield\u2122 6",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Battlefield\u2122 6 Open Beta",
+    "contentId": "UP0006-PPSA28176_00-GLAEVENT00000000",
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA28178_00",
@@ -129051,9 +129099,9 @@
     "titleId": "PPSA28909_00",
     "conceptId": 10014450,
     "name": "Narcissus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6732-PPSA28909_00-0734431401700587",
+    "region": "JP",
+    "publisherId": "JP6732"
   },
   {
     "titleId": "PPSA28910_00",
@@ -133848,6 +133896,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA30284_00",
+    "conceptId": 10015240,
+    "name": "40 Sports Games in 1",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30289_00",
     "conceptId": 10015231,
     "name": "The Flying Ship",
@@ -135016,6 +135072,30 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA30560_00",
+    "conceptId": 10015393,
+    "name": "The Jumping Bonbon Match 3 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30561_00",
+    "conceptId": 10015393,
+    "name": "The Jumping Bonbon Match 3 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30562_00",
+    "conceptId": 10015393,
+    "name": "The Jumping Bonbon Match 3 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30571_00",
     "conceptId": 10015396,
     "name": "Ice Block Slide Rush",
@@ -135066,18 +135146,18 @@
   {
     "titleId": "PPSA30604_00",
     "conceptId": 10015415,
-    "name": "Oscuro Blossom\u2019s Glow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Oscuro Blossom's Glow",
+    "contentId": "UP8761-PPSA30604_00-0306999264555368",
+    "region": "UP",
+    "publisherId": "UP8761"
   },
   {
     "titleId": "PPSA30605_00",
     "conceptId": 10015415,
-    "name": "Oscuro Blossom\u2019s Glow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Oscuro Blossom's Glow",
+    "contentId": "EB0152-PPSA30605_00-0402587205522928",
+    "region": "EB",
+    "publisherId": "EB0152"
   },
   {
     "titleId": "PPSA30616_00",
@@ -135299,9 +135379,9 @@
     "titleId": "PPSA30702_00",
     "conceptId": 10015480,
     "name": "Alien Breakout",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA30702_00-ALIENBREAKOUT000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA30704_00",
@@ -135502,6 +135582,22 @@
     "contentId": "EP7333-PPSA30829_00-0129190389603992",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA30830_00",
+    "conceptId": 10015559,
+    "name": "Morning 333",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30831_00",
+    "conceptId": 10015559,
+    "name": "Morning 333",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30832_00",
@@ -135890,10 +135986,10 @@
   {
     "titleId": "PPSA31063_00",
     "conceptId": 10015665,
-    "name": "(Dis)Assemble",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "(Dis)Asselmble",
+    "contentId": "EP8701-PPSA31063_00-0809338361431552",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA31064_00",
@@ -136736,6 +136832,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA31432_00",
+    "conceptId": 10012804,
+    "name": "Formula Legends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31436_00",
     "conceptId": 10015903,
     "name": "Long Run",
@@ -136774,6 +136878,14 @@
     "contentId": "UP7668-PPSA31443_00-0967868244344745",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31453_00",
+    "conceptId": 10015913,
+    "name": "Hot Stakes Casino - American Roulette",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31467_00",
@@ -137075,9 +137187,9 @@
     "titleId": "PPSA31647_00",
     "conceptId": 10016043,
     "name": "Mergery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0928-PPSA31647_00-0990167535349251",
+    "region": "UB",
+    "publisherId": "UB0928"
   },
   {
     "titleId": "PPSA31668_00",
@@ -137179,9 +137291,9 @@
     "titleId": "PPSA31699_00",
     "conceptId": 10016079,
     "name": "Little Helper Cafe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA31699_00-0332895578625970",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA31700_00",
@@ -137195,17 +137307,17 @@
     "titleId": "PPSA31701_00",
     "conceptId": 10016079,
     "name": "Little Helper Cafe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA31701_00-0484288181073813",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA31702_00",
     "conceptId": 10016079,
     "name": "Little Helper Cafe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA31702_00-0605606038705771",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA31704_00",
@@ -137662,5 +137774,13 @@
     "contentId": "JB0645-PPSA32136_00-0832526271387292",
     "region": "JB",
     "publisherId": "JB0645"
+  },
+  {
+    "titleId": "PPSA32137_00",
+    "conceptId": 10013362,
+    "name": "Let's compare the speed of our punches!",
+    "contentId": "HB0674-PPSA32137_00-0776139914029031",
+    "region": "HB",
+    "publisherId": "HB0674"
   }
 ]
