@@ -79416,6 +79416,30 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA18187_00",
+    "conceptId": 10009073,
+    "name": "PAC-MAN WORLD 2 Re-PAC PS4 & PS5",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA18188_00",
+    "conceptId": 10009073,
+    "name": "PAC-MAN WORLD 2 Re-PAC",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA18189_00",
+    "conceptId": 10009073,
+    "name": "PAC-MAN WORLD 2 Re-PAC PS4 & PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA18190_00",
     "conceptId": 10008937,
     "name": "\u795e\u7bb1 - Mythology of Cube - DEMO",
@@ -96820,8 +96844,8 @@
     "conceptId": 10010552,
     "name": "Once Upon A KATAMARI",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA21906_00",
@@ -119888,6 +119912,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA26749_00",
+    "conceptId": 10013012,
+    "name": "RENZU",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26750_00",
     "conceptId": 10012703,
     "name": "Slasher: Origins Demo",
@@ -119982,6 +120014,14 @@
     "contentId": "HP4312-PPSA26784_00-0618773703662269",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA26785_00",
+    "conceptId": 10012851,
+    "name": "NHL\u00ae 26 Standard Edition PS5",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA26786_00",
@@ -121094,6 +121134,14 @@
     "contentId": "UB0245-PPSA27032_00-0632928330469796",
     "region": "UB",
     "publisherId": "UB0245"
+  },
+  {
+    "titleId": "PPSA27033_00",
+    "conceptId": 10013173,
+    "name": "Zoochosis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27038_00",
@@ -126512,6 +126560,14 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA28230_00",
+    "conceptId": 10012851,
+    "name": "NHL\u00ae 26",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28231_00",
     "conceptId": 10014018,
     "name": "Gnomes And Knights",
@@ -128472,6 +128528,14 @@
     "publisherId": "EP4200"
   },
   {
+    "titleId": "PPSA28678_00",
+    "conceptId": 10013724,
+    "name": "Chip \u2018n Clawz vs. The Brainioids",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28680_00",
     "conceptId": 10014314,
     "name": "Math Genius: Division",
@@ -129179,9 +129243,9 @@
     "titleId": "PPSA28916_00",
     "conceptId": 10014452,
     "name": "Giant Machines 2017",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA28916_00-ULGMACHINES00001",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA28917_00",
@@ -129462,6 +129526,14 @@
     "contentId": "EP3877-PPSA28979_00-OXIDE208BASEGAME",
     "region": "EP",
     "publisherId": "EP3877"
+  },
+  {
+    "titleId": "PPSA28982_00",
+    "conceptId": 10014484,
+    "name": "Unicorns - The Troll Adventure",
+    "contentId": "EP1629-PPSA28982_00-UNICORNSTTAJDPS5",
+    "region": "EP",
+    "publisherId": "EP1629"
   },
   {
     "titleId": "PPSA28983_00",
@@ -129976,6 +130048,14 @@
     "publisherId": "EP4492"
   },
   {
+    "titleId": "PPSA29143_00",
+    "conceptId": 10014603,
+    "name": "LEGO\u00ae Party!",
+    "contentId": null,
+    "region": "HB",
+    "publisherId": "HB1567"
+  },
+  {
     "titleId": "PPSA29144_00",
     "conceptId": 10014605,
     "name": "Bee Flowers: Royal Garden",
@@ -130134,6 +130214,38 @@
     "contentId": "EP1411-PPSA29197_00-0576728914543251",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA29198_00",
+    "conceptId": 10013186,
+    "name": "Bangman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29199_00",
+    "conceptId": 10013186,
+    "name": "Bangman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29200_00",
+    "conceptId": 10013186,
+    "name": "Bangman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29201_00",
+    "conceptId": 10013186,
+    "name": "Bangman",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29205_00",
@@ -132312,6 +132424,30 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA29756_00",
+    "conceptId": 10007610,
+    "name": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226Y \u4f53\u9a13\u7248",
+    "contentId": "JP0700-PPSA29756_00-MAINGAMEDEMO0000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA29757_00",
+    "conceptId": 10007610,
+    "name": "SUPER ROBOT WARS Y Demo",
+    "contentId": "HP0700-PPSA29757_00-MAINGAMEDEMO0000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA29759_00",
+    "conceptId": 10007610,
+    "name": "SUPER ROBOT WARS Y Demo",
+    "contentId": "EP0700-PPSA29759_00-MAINGAMEDEMO0000",
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA29764_00",
     "conceptId": 10014949,
     "name": "20th Century Beauties",
@@ -133776,6 +133912,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA30219_00",
+    "conceptId": 10015196,
+    "name": "Aeon Attack",
+    "contentId": "JP0089-PPSA30219_00-0790572868885597",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA30220_00",
+    "conceptId": 10015196,
+    "name": "Aeon Attack",
+    "contentId": "HP4312-PPSA30220_00-0785748971627922",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA30222_00",
     "conceptId": 10015215,
     "name": "Anomaly Seeker: The Diner",
@@ -135072,6 +135224,14 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA30535_00",
+    "conceptId": 10014829,
+    "name": "\u30df\u30b1\u30e9\u30f3\u30b8\u30a7\u30ed\uff1a\u5f6b\u523b\u5bb6\u306e\u30b7\u30df\u30e5\u30ec\u30fc\u30bf\u30fc",
+    "contentId": "UB0990-PPSA30535_00-MICHELANGELOEU00",
+    "region": "UB",
+    "publisherId": "UB0990"
+  },
+  {
     "titleId": "PPSA30539_00",
     "conceptId": 10015384,
     "name": "Ball Rush 2",
@@ -135146,10 +135306,10 @@
   {
     "titleId": "PPSA30560_00",
     "conceptId": 10015393,
-    "name": "The Jumping Bonbon Match 3 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Bonbon Match 3",
+    "contentId": "UP6664-PPSA30560_00-0178037373143808",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA30561_00",
@@ -135251,9 +135411,9 @@
     "titleId": "PPSA30638_00",
     "conceptId": 10015433,
     "name": "Money Laundering Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA30638_00-0129833599746891",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA30639_00",
@@ -135331,9 +135491,9 @@
     "titleId": "PPSA30669_00",
     "conceptId": 10005458,
     "name": "Dyna Bomb 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5958-PPSA30669_00-0830905268864830",
+    "region": "UP",
+    "publisherId": "UP5958"
   },
   {
     "titleId": "PPSA30670_00",
@@ -135619,9 +135779,9 @@
     "titleId": "PPSA30804_00",
     "conceptId": 10015534,
     "name": "Battle Mythic Maidens Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA30804_00-BATTLEMYTHICMAAR",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA30817_00",
@@ -136408,6 +136568,14 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31185_00",
+    "conceptId": 10015743,
+    "name": "SCP-087 THE STAIRWELL HORROR VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31189_00",
     "conceptId": 10015747,
     "name": "Pixicharm - TuttiRun",
@@ -136904,6 +137072,14 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31408_00",
+    "conceptId": 10011168,
+    "name": "Anime Dance-Off \u2013 Las Vegas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31415_00",
     "conceptId": 10015593,
     "name": "The Alpha Wolf",
@@ -137216,6 +137392,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA31574_00",
+    "conceptId": 10015980,
+    "name": "Galaxy Roll",
+    "contentId": "UB0337-PPSA31574_00-0378777896777772",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA31593_00",
     "conceptId": 10016005,
     "name": "Magnitude: Lambda",
@@ -137323,9 +137507,9 @@
     "titleId": "PPSA31672_00",
     "conceptId": 10016058,
     "name": "Candy Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA31672_00-0011924189565004",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA31673_00",
@@ -137339,9 +137523,9 @@
     "titleId": "PPSA31674_00",
     "conceptId": 10016058,
     "name": "Candy Trail",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA31674_00-0292806377614457",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA31675_00",
@@ -137568,12 +137752,28 @@
     "publisherId": "EP2919"
   },
   {
+    "titleId": "PPSA31820_00",
+    "conceptId": 10016158,
+    "name": "TUNG TUNG SAHUR EXTREME",
+    "contentId": "EB0963-PPSA31820_00-0373973941567864",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA31846_00",
     "conceptId": 10016180,
     "name": "Silence under the dome",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA31853_00",
+    "conceptId": 10016182,
+    "name": "Kawaii Puzzle Quest 2",
+    "contentId": "UP2136-PPSA31853_00-0032716287505550",
+    "region": "UP",
+    "publisherId": "UP2136"
   },
   {
     "titleId": "PPSA31879_00",
@@ -137744,6 +137944,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA32007_00",
+    "conceptId": 10016262,
+    "name": "Pixicharm - Spikoin",
+    "contentId": "EP1612-PPSA32007_00-SPIKOINGAME00000",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
     "titleId": "PPSA32010_00",
     "conceptId": 10013750,
     "name": "Paintings restoration",
@@ -137876,6 +138084,78 @@
     "conceptId": 10013362,
     "name": "Let's compare the speed of our punches!",
     "contentId": "HB0674-PPSA32137_00-0776139914029031",
+    "region": "HB",
+    "publisherId": "HB0674"
+  },
+  {
+    "titleId": "PPSA32170_00",
+    "conceptId": 10016352,
+    "name": "Memory Holder: The Numbers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32171_00",
+    "conceptId": 10016352,
+    "name": "Memory Holder: The Numbers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32205_00",
+    "conceptId": 10005668,
+    "name": "Don't Fall: aleph",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32241_00",
+    "conceptId": 10015410,
+    "name": "DETECTIVE - Scene Crime",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32254_00",
+    "conceptId": 10005668,
+    "name": "Don't Fall: aleph",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32259_00",
+    "conceptId": 10013986,
+    "name": "Press \"X\" to win",
+    "contentId": "UB0706-PPSA32259_00-0983260054527415",
+    "region": "UB",
+    "publisherId": "UB0706"
+  },
+  {
+    "titleId": "PPSA32260_00",
+    "conceptId": 10013986,
+    "name": "Press \"X\" to win",
+    "contentId": "EB0901-PPSA32260_00-0283506954895238",
+    "region": "EB",
+    "publisherId": "EB0901"
+  },
+  {
+    "titleId": "PPSA32261_00",
+    "conceptId": 10013986,
+    "name": "Press \"X\" to win",
+    "contentId": "JB0645-PPSA32261_00-0577252609211362",
+    "region": "JB",
+    "publisherId": "JB0645"
+  },
+  {
+    "titleId": "PPSA32262_00",
+    "conceptId": 10013986,
+    "name": "Press \"X\" to win",
+    "contentId": "HB0674-PPSA32262_00-0422359617185401",
     "region": "HB",
     "publisherId": "HB0674"
   }
