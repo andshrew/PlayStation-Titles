@@ -64536,6 +64536,14 @@
     "publisherId": "EP8923"
   },
   {
+    "titleId": "PPSA15091_00",
+    "conceptId": 10007867,
+    "name": "Fling to the Finish",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1440"
+  },
+  {
     "titleId": "PPSA15156_00",
     "conceptId": 10007882,
     "name": "Astro Flame: Starfighter",
@@ -137528,6 +137536,14 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA31542_00",
+    "conceptId": 10015958,
+    "name": "SF3RA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31562_00",
     "conceptId": 10011744,
     "name": "MONJUM",
@@ -138446,5 +138462,29 @@
     "contentId": "UB0908-PPSA32287_00-0563889181249936",
     "region": "UB",
     "publisherId": "UB0908"
+  },
+  {
+    "titleId": "PPSA32288_00",
+    "conceptId": 10016418,
+    "name": "Tofu Dream",
+    "contentId": "EB1103-PPSA32288_00-0782561531546771",
+    "region": "EB",
+    "publisherId": "EB1103"
+  },
+  {
+    "titleId": "PPSA32289_00",
+    "conceptId": 10016418,
+    "name": "Tofu Dream",
+    "contentId": "JB0847-PPSA32289_00-0348808286697823",
+    "region": "JB",
+    "publisherId": "JB0847"
+  },
+  {
+    "titleId": "PPSA32290_00",
+    "conceptId": 10016418,
+    "name": "Tofu Dream",
+    "contentId": "HB0876-PPSA32290_00-0192433517662870",
+    "region": "HB",
+    "publisherId": "HB0876"
   }
 ]
