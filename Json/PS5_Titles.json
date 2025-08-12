@@ -23352,6 +23352,14 @@
     "publisherId": "EP1302"
   },
   {
+    "titleId": "PPSA06080_00",
+    "conceptId": 10004254,
+    "name": "The Knightling",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA06081_00",
     "conceptId": 10003641,
     "name": "Totally Accurate Battle Simulator",
@@ -83320,6 +83328,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA19044_00",
+    "conceptId": 10009247,
+    "name": "Doors: Paradox",
+    "contentId": "JP5785-PPSA19044_00-0588581722850002",
+    "region": "JP",
+    "publisherId": "JP5785"
+  },
+  {
     "titleId": "PPSA19048_00",
     "conceptId": 10009384,
     "name": "MediEvil 2",
@@ -117936,6 +117952,22 @@
     "publisherId": "UP0913"
   },
   {
+    "titleId": "PPSA26302_00",
+    "conceptId": 10012728,
+    "name": "ZOE Begone!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26303_00",
+    "conceptId": 10012728,
+    "name": "ZOE Begone!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26311_00",
     "conceptId": 10011854,
     "name": "Blades of Fire",
@@ -122622,6 +122654,14 @@
     "contentId": "HB1381-PPSA27337_00-0722383978609858",
     "region": "HB",
     "publisherId": "HB1381"
+  },
+  {
+    "titleId": "PPSA27338_00",
+    "conceptId": 10013367,
+    "name": "Into Black",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27339_00",
@@ -133883,9 +133923,9 @@
     "titleId": "PPSA30188_00",
     "conceptId": 10014543,
     "name": "Ra Ra BOOM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1558-PPSA30188_00-001241248001Y100",
+    "region": "UB",
+    "publisherId": "UB1558"
   },
   {
     "titleId": "PPSA30189_00",
@@ -135512,6 +135552,22 @@
     "publisherId": "EP8062"
   },
   {
+    "titleId": "PPSA30596_00",
+    "conceptId": 10015410,
+    "name": "DETECTIVE - Scene Crime",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30597_00",
+    "conceptId": 10015410,
+    "name": "DETECTIVE - Scene Crime",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30604_00",
     "conceptId": 10015415,
     "name": "Oscuro Blossom's Glow",
@@ -136200,6 +136256,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30926_00",
+    "conceptId": 10015622,
+    "name": "Hook: Complete Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30929_00",
     "conceptId": 10015625,
     "name": "CORE.SYS",
@@ -136766,6 +136830,38 @@
     "contentId": "HP8462-PPSA31202_00-0377026526318305",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA31206_00",
+    "conceptId": 10015750,
+    "name": "Sector Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31207_00",
+    "conceptId": 10015750,
+    "name": "Sector Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31208_00",
+    "conceptId": 10015750,
+    "name": "Sector Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31209_00",
+    "conceptId": 10015750,
+    "name": "Sector Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31218_00",
@@ -137544,6 +137640,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31546_00",
+    "conceptId": 10012746,
+    "name": "Viking Colony Builder Valhalla",
+    "contentId": "UB1015-PPSA31546_00-0392876114117481",
+    "region": "UB",
+    "publisherId": "UB1015"
+  },
+  {
     "titleId": "PPSA31562_00",
     "conceptId": 10011744,
     "name": "MONJUM",
@@ -137731,6 +137835,14 @@
     "titleId": "PPSA31661_00",
     "conceptId": 10016052,
     "name": "LAPIN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31667_00",
+    "conceptId": 10011975,
+    "name": "Second Coat",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -138400,12 +138512,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32172_00",
+    "conceptId": 10016352,
+    "name": "Memory Holder: The Numbers",
+    "contentId": "HP7367-PPSA32172_00-0160469790992605",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA32173_00",
+    "conceptId": 10016352,
+    "name": "Memory Holder: The Numbers",
+    "contentId": "JP7323-PPSA32173_00-0445981180755310",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
     "titleId": "PPSA32205_00",
     "conceptId": 10005668,
-    "name": "Don't Fall: aleph",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Don't Fall aleph refreshed",
+    "contentId": "JP7921-PPSA32205_00-0263473559507119",
+    "region": "JP",
+    "publisherId": "JP7921"
+  },
+  {
+    "titleId": "PPSA32206_00",
+    "conceptId": 10005668,
+    "name": "Don't Fall aleph refreshed",
+    "contentId": "HP7967-PPSA32206_00-0887672196718071",
+    "region": "HP",
+    "publisherId": "HP7967"
   },
   {
     "titleId": "PPSA32241_00",
