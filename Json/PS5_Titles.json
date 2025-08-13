@@ -83336,6 +83336,14 @@
     "publisherId": "JP5785"
   },
   {
+    "titleId": "PPSA19045_00",
+    "conceptId": 10009247,
+    "name": "Doors: Paradox",
+    "contentId": "HP5847-PPSA19045_00-0837404030275877",
+    "region": "HP",
+    "publisherId": "HP5847"
+  },
+  {
     "titleId": "PPSA19048_00",
     "conceptId": 10009384,
     "name": "MediEvil 2",
@@ -117840,6 +117848,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26278_00",
+    "conceptId": 10012728,
+    "name": "ZOE Begone!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26279_00",
     "conceptId": 10012725,
     "name": "Christmas Race",
@@ -117961,6 +117977,14 @@
   },
   {
     "titleId": "PPSA26303_00",
+    "conceptId": 10012728,
+    "name": "ZOE Begone!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26304_00",
     "conceptId": 10012728,
     "name": "ZOE Begone!",
     "contentId": null,
@@ -123702,6 +123726,14 @@
     "contentId": "UB0008-PPSA27580_00-0287489395149072",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA27581_00",
+    "conceptId": 10013503,
+    "name": "Hellblade: Senua\u2019s Sacrifice",
+    "contentId": "UP6312-PPSA27581_00-0368189183871703",
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA27582_00",
@@ -133672,6 +133704,14 @@
     "publisherId": "EP8208"
   },
   {
+    "titleId": "PPSA30114_00",
+    "conceptId": 10015146,
+    "name": "Robots at Midnight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30116_00",
     "conceptId": 10012616,
     "name": "\u30b3\u30fc\u30d2\u30fc\u30c8\u30fc\u30af \u30c8\u30fc\u30ad\u30e7\u30fc \u30c7\u30e2",
@@ -135954,10 +135994,10 @@
   {
     "titleId": "PPSA30776_00",
     "conceptId": 10012536,
-    "name": "Senua's Saga: Hellblade II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hellblade: Senua's Sacrifice - Original Soundtrack",
+    "contentId": "UP6312-PPSA30776_00-0637102640326775",
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA30777_00",
@@ -136771,9 +136811,9 @@
     "titleId": "PPSA31185_00",
     "conceptId": 10015743,
     "name": "SCP-087 THE STAIRWELL HORROR VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0963-PPSA31185_00-0917850829782845",
+    "region": "EB",
+    "publisherId": "EB0963"
   },
   {
     "titleId": "PPSA31189_00",
@@ -136835,33 +136875,33 @@
     "titleId": "PPSA31206_00",
     "conceptId": 10015750,
     "name": "Sector Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA31206_00-0086494992836988",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA31207_00",
     "conceptId": 10015750,
     "name": "Sector Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA31207_00-0762200181568028",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA31208_00",
     "conceptId": 10015750,
     "name": "Sector Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA31208_00-0977136921167556",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA31209_00",
     "conceptId": 10015750,
     "name": "Sector Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA31209_00-0742415341303737",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA31218_00",
@@ -137256,12 +137296,28 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA31362_00",
+    "conceptId": 10015854,
+    "name": "Hidden Memories of The Gardens Between",
+    "contentId": "UP4266-PPSA31362_00-GARDENSBETWEENVR",
+    "region": "UP",
+    "publisherId": "UP4266"
+  },
+  {
     "titleId": "PPSA31374_00",
     "conceptId": 10009623,
     "name": "Discounty Demo",
     "contentId": "UP4293-PPSA31374_00-DISCOUNTYDEMOPS5",
     "region": "UP",
     "publisherId": "UP4293"
+  },
+  {
+    "titleId": "PPSA31375_00",
+    "conceptId": 10015864,
+    "name": "Arab drift cars 2 - The Definitive Edition",
+    "contentId": "EP5206-PPSA31375_00-0646747467997425",
+    "region": "EP",
+    "publisherId": "EP5206"
   },
   {
     "titleId": "PPSA31377_00",
@@ -137851,33 +137907,33 @@
     "titleId": "PPSA31668_00",
     "conceptId": 10016057,
     "name": "Temari Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA31668_00-0027544305147057",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA31669_00",
     "conceptId": 10016057,
     "name": "Temari Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA31669_00-0553905758100604",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA31670_00",
     "conceptId": 10016057,
     "name": "Temari Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA31670_00-0128389696122077",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA31671_00",
     "conceptId": 10016057,
     "name": "Temari Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA31671_00-0239155025091689",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA31672_00",
@@ -138040,6 +138096,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA31722_00",
+    "conceptId": 10005051,
+    "name": "Hell Is Us - Demo",
+    "contentId": "EP6665-PPSA31722_00-HIU00DEMO0000000",
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA31765_00",
     "conceptId": 10011938,
     "name": "Color Recreator",
@@ -138184,6 +138248,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA31883_00",
+    "conceptId": 10016072,
+    "name": "Workshop Simulator VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31886_00",
     "conceptId": 10016201,
     "name": "Pixicharm - Kunai Zone",
@@ -138310,6 +138382,22 @@
     "contentId": "JP7323-PPSA31919_00-0771293527102183",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA31928_00",
+    "conceptId": 10016220,
+    "name": "To Farm Lands",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31929_00",
+    "conceptId": 10016220,
+    "name": "To Farm Lands",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31944_00",
@@ -138499,17 +138587,17 @@
     "titleId": "PPSA32170_00",
     "conceptId": 10016352,
     "name": "Memory Holder: The Numbers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA32170_00-0224580968565757",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA32171_00",
     "conceptId": 10016352,
     "name": "Memory Holder: The Numbers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA32171_00-0892491801075489",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA32172_00",
@@ -138542,6 +138630,14 @@
     "contentId": "HP7967-PPSA32206_00-0887672196718071",
     "region": "HP",
     "publisherId": "HP7967"
+  },
+  {
+    "titleId": "PPSA32207_00",
+    "conceptId": 10016371,
+    "name": "BOMBORDIRO CROCODILO Flight Simulator",
+    "contentId": "EB0963-PPSA32207_00-0052515477860862",
+    "region": "EB",
+    "publisherId": "EB0963"
   },
   {
     "titleId": "PPSA32241_00",
