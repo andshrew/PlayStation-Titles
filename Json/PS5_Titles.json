@@ -93728,6 +93728,14 @@
     "publisherId": "JP3553"
   },
   {
+    "titleId": "PPSA21235_00",
+    "conceptId": 10008535,
+    "name": "Remedium: Sentinels",
+    "contentId": "JP7843-PPSA21235_00-SENTMGPS500000JP",
+    "region": "JP",
+    "publisherId": "JP7843"
+  },
+  {
     "titleId": "PPSA21237_00",
     "conceptId": 10010256,
     "name": "Monster Train",
@@ -104387,9 +104395,9 @@
     "titleId": "PPSA23552_00",
     "conceptId": 10011224,
     "name": "Lost Twins 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7892-PPSA23552_00-0550496421809705",
+    "region": "UP",
+    "publisherId": "UP7892"
   },
   {
     "titleId": "PPSA23559_00",
@@ -111619,9 +111627,9 @@
     "titleId": "PPSA24998_00",
     "conceptId": 10011975,
     "name": "Second Coat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1066-PPSA24998_00-0805512191859072",
+    "region": "HB",
+    "publisherId": "HB1066"
   },
   {
     "titleId": "PPSA24999_00",
@@ -120626,10 +120634,10 @@
   {
     "titleId": "PPSA26880_00",
     "conceptId": 10013082,
-    "name": "Toaplan Arcade Collection Vol.1",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Toaplan Arcade Collection Vol. 1",
+    "contentId": "UP6026-PPSA26880_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP6026"
   },
   {
     "titleId": "PPSA26882_00",
@@ -120662,6 +120670,14 @@
     "contentId": "UP0082-PPSA26890_00-0250750572673043",
     "region": "UP",
     "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA26891_00",
+    "conceptId": 10013078,
+    "name": "\u7a7a\u306e\u8ecc\u8de1 the 1st",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0425"
   },
   {
     "titleId": "PPSA26893_00",
@@ -120966,6 +120982,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA26949_00",
+    "conceptId": 10013119,
+    "name": "GOST of Time",
+    "contentId": "JP1932-PPSA26949_00-SYPS5GOSTOFTIME0",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA26955_00",
@@ -121902,6 +121926,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27177_00",
+    "conceptId": 10013281,
+    "name": "Henry Halfhead",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27178_00",
+    "conceptId": 10013282,
+    "name": "Cats Ritual",
+    "contentId": "EP6878-PPSA27178_00-0173401033911094",
+    "region": "EP",
+    "publisherId": "EP6878"
   },
   {
     "titleId": "PPSA27180_00",
@@ -125064,6 +125104,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA27827_00",
+    "conceptId": 10013703,
+    "name": "DUCKSIDE (Early Access)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27828_00",
     "conceptId": 10013703,
     "name": "DUCKSIDE (Early Access)",
@@ -125230,6 +125278,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA27886_00",
+    "conceptId": 10013728,
+    "name": "Mortal Glory 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27888_00",
@@ -125992,6 +126048,14 @@
     "publisherId": "JB1412"
   },
   {
+    "titleId": "PPSA28049_00",
+    "conceptId": 10012778,
+    "name": "Lost Soul Aside\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28051_00",
     "conceptId": 10013799,
     "name": "AFL 26",
@@ -126038,6 +126102,22 @@
     "contentId": "HP3536-PPSA28060_00-0822948729597602",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA28063_00",
+    "conceptId": 10013899,
+    "name": "Dead Reset",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28064_00",
+    "conceptId": 10013899,
+    "name": "Dead Reset",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28065_00",
@@ -129819,9 +129899,9 @@
     "titleId": "PPSA29024_00",
     "conceptId": 10014511,
     "name": "Dorfromantik",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0822-PPSA29024_00-DORFROMANTIK0PS5",
+    "region": "EP",
+    "publisherId": "EP0822"
   },
   {
     "titleId": "PPSA29025_00",
@@ -130403,9 +130483,9 @@
     "titleId": "PPSA29198_00",
     "conceptId": 10013186,
     "name": "Bangman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA29198_00-0462295218993509",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA29199_00",
@@ -130419,17 +130499,17 @@
     "titleId": "PPSA29200_00",
     "conceptId": 10013186,
     "name": "Bangman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA29200_00-0600406972802719",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA29201_00",
     "conceptId": 10013186,
     "name": "Bangman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7843-PPSA29201_00-0012666918015414",
+    "region": "JP",
+    "publisherId": "JP7843"
   },
   {
     "titleId": "PPSA29205_00",
@@ -133760,6 +133840,14 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA30117_00",
+    "conceptId": 10013078,
+    "name": "Sora no Kiseki the 1st",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA30119_00",
     "conceptId": 10014010,
     "name": "Nioh 3",
@@ -135440,6 +135528,22 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA30521_00",
+    "conceptId": 10015378,
+    "name": "Heading Out",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30526_00",
+    "conceptId": 10015378,
+    "name": "Heading Out",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30530_00",
     "conceptId": 10015381,
     "name": "Island Rescue",
@@ -136072,6 +136176,14 @@
     "publisherId": "UP8767"
   },
   {
+    "titleId": "PPSA30827_00",
+    "conceptId": 10013130,
+    "name": "Fast Food Manager Simulator",
+    "contentId": "UB1264-PPSA30827_00-0933852890614771",
+    "region": "UB",
+    "publisherId": "UB1264"
+  },
+  {
     "titleId": "PPSA30828_00",
     "conceptId": 10015559,
     "name": "Morning 333",
@@ -136259,9 +136371,9 @@
     "titleId": "PPSA30897_00",
     "conceptId": 10014257,
     "name": "Curse Rounds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA30897_00-CURSEROUNDSPS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA30898_00",
@@ -136982,6 +137094,14 @@
     "contentId": "HB0674-PPSA31223_00-0331071720341460",
     "region": "HB",
     "publisherId": "HB0674"
+  },
+  {
+    "titleId": "PPSA31227_00",
+    "conceptId": 10015767,
+    "name": "Demons Are Coming!",
+    "contentId": "UB0383-PPSA31227_00-0213195883730857",
+    "region": "UB",
+    "publisherId": "UB0383"
   },
   {
     "titleId": "PPSA31230_00",
@@ -137896,6 +138016,22 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA31629_00",
+    "conceptId": 10016036,
+    "name": "Learn to Play Vol. 12 - Jungle Frog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31630_00",
+    "conceptId": 10016036,
+    "name": "Learn to Play Vol. 12 - Jungle Frog",
+    "contentId": "JP0078-PPSA31630_00-LTPJUNGLEFROG000",
+    "region": "JP",
+    "publisherId": "JP0078"
+  },
+  {
     "titleId": "PPSA31638_00",
     "conceptId": 10016039,
     "name": "Oh, Canada!",
@@ -137947,6 +138083,14 @@
     "titleId": "PPSA31661_00",
     "conceptId": 10016052,
     "name": "LAPIN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31666_00",
+    "conceptId": 10013078,
+    "name": "Trails in the Sky 1st Chapter",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -138091,33 +138235,33 @@
     "titleId": "PPSA31704_00",
     "conceptId": 10016081,
     "name": "Steampunch: Lost Tombs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA31704_00-0764561426093780",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA31705_00",
     "conceptId": 10016081,
     "name": "Steampunch: Lost Tombs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA31705_00-0641284150548429",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA31706_00",
     "conceptId": 10016081,
     "name": "Steampunch: Lost Tombs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA31706_00-0245487204969790",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA31707_00",
     "conceptId": 10016081,
     "name": "Steampunch: Lost Tombs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA31707_00-0669152470113213",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA31713_00",
@@ -138584,6 +138728,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA32064_00",
+    "conceptId": 10016287,
+    "name": "Inflatables",
+    "contentId": "UB0337-PPSA32064_00-0593972742902036",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA32079_00",
     "conceptId": 10016294,
     "name": "Buddy Garden",
@@ -138670,6 +138822,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32168_00",
+    "conceptId": 10016347,
+    "name": "Pixicharm - Spartunex",
+    "contentId": "EP1612-PPSA32168_00-SPARTUNEXGAME000",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA32170_00",
