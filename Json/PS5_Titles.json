@@ -93728,6 +93728,14 @@
     "publisherId": "JP3553"
   },
   {
+    "titleId": "PPSA21233_00",
+    "conceptId": 10008535,
+    "name": "Remedium: Sentinels",
+    "contentId": "EP7860-PPSA21233_00-SENTMGPS500000EU",
+    "region": "EP",
+    "publisherId": "EP7860"
+  },
+  {
     "titleId": "PPSA21235_00",
     "conceptId": 10008535,
     "name": "Remedium: Sentinels",
@@ -93766,6 +93774,14 @@
     "contentId": "EP0506-PPSA21241_00-SCES008420000000",
     "region": "EP",
     "publisherId": "EP0506"
+  },
+  {
+    "titleId": "PPSA21244_00",
+    "conceptId": 10010258,
+    "name": "Parking World: Build & Manage",
+    "contentId": "UP3003-PPSA21244_00-0658145093765825",
+    "region": "UP",
+    "publisherId": "UP3003"
   },
   {
     "titleId": "PPSA21249_00",
@@ -117082,8 +117098,8 @@
   {
     "titleId": "PPSA26127_00",
     "conceptId": 10012604,
-    "name": "EA SPORTS\u2122 Madden NFL 26 Standard Edition",
-    "contentId": null,
+    "name": "Madden NFL 26",
+    "contentId": "UP0006-PPSA26127_00-MADDENNFL26GAME0",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -117784,6 +117800,14 @@
     "publisherId": "HB0405"
   },
   {
+    "titleId": "PPSA26266_00",
+    "conceptId": 10012667,
+    "name": "Ukko & Guar\u00e1: Stellarbound",
+    "contentId": "UB1116-PPSA26266_00-0094074652023778",
+    "region": "UB",
+    "publisherId": "UB1116"
+  },
+  {
     "titleId": "PPSA26267_00",
     "conceptId": 10012724,
     "name": "Waifu Impact 2",
@@ -118350,6 +118374,14 @@
     "contentId": "JP0106-PPSA26393_00-DWORIGINSDEMO000",
     "region": "JP",
     "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA26394_00",
+    "conceptId": 10012804,
+    "name": "Formula Legends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26395_00",
@@ -120971,17 +121003,17 @@
     "titleId": "PPSA26947_00",
     "conceptId": 10013119,
     "name": "GOST of Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA26947_00-SYPS5GOSTOFTIME0",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA26948_00",
     "conceptId": 10013119,
     "name": "GOST of Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA26948_00-SYPS5GOSTOFTIME0",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA26949_00",
@@ -120990,6 +121022,14 @@
     "contentId": "JP1932-PPSA26949_00-SYPS5GOSTOFTIME0",
     "region": "JP",
     "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA26950_00",
+    "conceptId": 10013119,
+    "name": "GOST of Time",
+    "contentId": "HP1792-PPSA26950_00-SYPS5GOSTOFTIME0",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA26955_00",
@@ -122416,6 +122456,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA27281_00",
+    "conceptId": 10013341,
+    "name": "I'm on Observation Duty 7",
+    "contentId": "EP2685-PPSA27281_00-0656480148590963",
+    "region": "EP",
+    "publisherId": "EP2685"
+  },
+  {
     "titleId": "PPSA27282_00",
     "conceptId": 10013343,
     "name": "Holiday Eye Spy",
@@ -123766,6 +123814,14 @@
     "contentId": "UP6557-PPSA27576_00-0738523538395733",
     "region": "UP",
     "publisherId": "UP6557"
+  },
+  {
+    "titleId": "PPSA27577_00",
+    "conceptId": 10013495,
+    "name": "Baki Hanma: Blood Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27578_00",
@@ -125230,6 +125286,22 @@
     "contentId": "JP0001-PPSA27846_00-OUTLAWDEMO100000",
     "region": "JP",
     "publisherId": "JP0001"
+  },
+  {
+    "titleId": "PPSA27847_00",
+    "conceptId": 10013713,
+    "name": "Dirt Racing Bundle Off Road & WildTrax",
+    "contentId": "EP6922-PPSA27847_00-0904335450945106",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
+    "titleId": "PPSA27848_00",
+    "conceptId": 10013713,
+    "name": "Dirt Racing Bundle Off Road & WildTrax",
+    "contentId": "EP6922-PPSA27848_00-0689439251600616",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA27866_00",
@@ -126824,6 +126896,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28239_00",
+    "conceptId": 10014017,
+    "name": "Cats in Cozy Rooms",
+    "contentId": "UB1511-PPSA28239_00-0310361858287303",
+    "region": "UB",
+    "publisherId": "UB1511"
+  },
+  {
     "titleId": "PPSA28240_00",
     "conceptId": 10014028,
     "name": "Pixicharm - Darkwood Dash",
@@ -126883,9 +126963,9 @@
     "titleId": "PPSA28255_00",
     "conceptId": 10014036,
     "name": "1989 After the War",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28255_00-1989AFTERTHEWARG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28256_00",
@@ -128587,9 +128667,9 @@
     "titleId": "PPSA28609_00",
     "conceptId": 10014263,
     "name": "Bendy: Lone Wolf",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5519-PPSA28609_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP5519"
   },
   {
     "titleId": "PPSA28612_00",
@@ -130491,9 +130571,9 @@
     "titleId": "PPSA29199_00",
     "conceptId": 10013186,
     "name": "Bangman",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA29199_00-0428223796337403",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA29200_00",
@@ -131992,12 +132072,20 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29581_00",
+    "conceptId": 10014849,
+    "name": "Bus Stop Shuffle",
+    "contentId": "UP7335-PPSA29581_00-0356475188387583",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA29582_00",
     "conceptId": 10014849,
     "name": "Bus Stop Shuffle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA29582_00-0670532477966533",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA29583_00",
@@ -134824,6 +134912,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA30373_00",
+    "conceptId": 10015283,
+    "name": "Girls of the Tower",
+    "contentId": "UB0675-PPSA30373_00-0998016640384846",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
     "titleId": "PPSA30379_00",
     "conceptId": 10004499,
     "name": "Forever Skies - Original Soundtrack",
@@ -135635,9 +135731,9 @@
     "titleId": "PPSA30545_00",
     "conceptId": 10015385,
     "name": "Mind Over Magnet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0782-PPSA30545_00-MOM0000000000001",
+    "region": "EP",
+    "publisherId": "EP0782"
   },
   {
     "titleId": "PPSA30546_00",
@@ -135708,8 +135804,8 @@
     "conceptId": 10015398,
     "name": "Bad Cat",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA30578_00",
@@ -135830,6 +135926,14 @@
     "contentId": "UP0676-PPSA30650_00-XXXXXXXXXXXXXXXX",
     "region": "UP",
     "publisherId": "UP0676"
+  },
+  {
+    "titleId": "PPSA30651_00",
+    "conceptId": 10015438,
+    "name": "BOULDER DASH 40th Anniversary",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30653_00",
@@ -136734,6 +136838,14 @@
     "contentId": "UB0337-PPSA31095_00-0110158508613295",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA31097_00",
+    "conceptId": 10013297,
+    "name": "Fresh Tracks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31099_00",
@@ -138016,12 +138128,20 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA31628_00",
+    "conceptId": 10016036,
+    "name": "Learn to Play Vol. 12 - Jungle Frog",
+    "contentId": "UP2005-PPSA31628_00-LTPJUNGLEFROG000",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
     "titleId": "PPSA31629_00",
     "conceptId": 10016036,
     "name": "Learn to Play Vol. 12 - Jungle Frog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA31629_00-LTPJUNGLEFROG000",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA31630_00",
@@ -138262,6 +138382,14 @@
     "contentId": "HP8462-PPSA31707_00-0669152470113213",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA31709_00",
+    "conceptId": 10016082,
+    "name": "Rabbit Run Carrot Hunt",
+    "contentId": "UP7668-PPSA31709_00-0654898848403614",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA31713_00",
@@ -138864,6 +138992,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA32179_00",
+    "conceptId": 10016341,
+    "name": "The Old Ways",
+    "contentId": "EB1103-PPSA32179_00-0446865325932514",
+    "region": "EB",
+    "publisherId": "EB1103"
+  },
+  {
     "titleId": "PPSA32205_00",
     "conceptId": 10005668,
     "name": "Don't Fall aleph refreshed",
@@ -138886,6 +139022,38 @@
     "contentId": "EB0963-PPSA32207_00-0052515477860862",
     "region": "EB",
     "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA32211_00",
+    "conceptId": 10016372,
+    "name": "Axobubble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32212_00",
+    "conceptId": 10016372,
+    "name": "Axobubble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32213_00",
+    "conceptId": 10016372,
+    "name": "Axobubble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32214_00",
+    "conceptId": 10016372,
+    "name": "Axobubble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32241_00",
@@ -138966,5 +139134,13 @@
     "contentId": "HB0876-PPSA32290_00-0192433517662870",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA32596_00",
+    "conceptId": 10016597,
+    "name": "Debtor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
