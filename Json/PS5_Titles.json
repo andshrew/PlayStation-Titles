@@ -72208,6 +72208,14 @@
     "publisherId": "HP5783"
   },
   {
+    "titleId": "PPSA16608_00",
+    "conceptId": 10008442,
+    "name": "Frostpunk 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4361"
+  },
+  {
     "titleId": "PPSA16610_00",
     "conceptId": 10008441,
     "name": "Krispain Hero VR: Roguelite Dungeon Shooter Simulator",
@@ -93736,12 +93744,28 @@
     "publisherId": "EP7860"
   },
   {
+    "titleId": "PPSA21234_00",
+    "conceptId": 10008535,
+    "name": "Remedium: Sentinels",
+    "contentId": "UP7862-PPSA21234_00-SENTMGPS500000US",
+    "region": "UP",
+    "publisherId": "UP7862"
+  },
+  {
     "titleId": "PPSA21235_00",
     "conceptId": 10008535,
     "name": "Remedium: Sentinels",
     "contentId": "JP7843-PPSA21235_00-SENTMGPS500000JP",
     "region": "JP",
     "publisherId": "JP7843"
+  },
+  {
+    "titleId": "PPSA21236_00",
+    "conceptId": 10008535,
+    "name": "Remedium: Sentinels",
+    "contentId": "HP7889-PPSA21236_00-SENTMGPS500000HP",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA21237_00",
@@ -93774,6 +93798,14 @@
     "contentId": "EP0506-PPSA21241_00-SCES008420000000",
     "region": "EP",
     "publisherId": "EP0506"
+  },
+  {
+    "titleId": "PPSA21243_00",
+    "conceptId": 10010258,
+    "name": "Parking World: Build & Manage",
+    "contentId": "EP2865-PPSA21243_00-0658145093765825",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA21244_00",
@@ -125355,9 +125387,9 @@
     "titleId": "PPSA27886_00",
     "conceptId": 10013728,
     "name": "Mortal Glory 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1317-PPSA27886_00-0247499320799261",
+    "region": "HB",
+    "publisherId": "HB1317"
   },
   {
     "titleId": "PPSA27888_00",
@@ -132280,6 +132312,14 @@
     "publisherId": "EP5265"
   },
   {
+    "titleId": "PPSA29640_00",
+    "conceptId": 10011097,
+    "name": "Daemon X Machina: Titanic Scion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29641_00",
     "conceptId": 10014853,
     "name": "BrokenLore: DON'T WATCH",
@@ -133620,6 +133660,14 @@
     "conceptId": 10015081,
     "name": "Bullet Trail",
     "contentId": "UB0008-PPSA30008_00-0889894918720469",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA30009_00",
+    "conceptId": 10015082,
+    "name": "Maze with cube",
+    "contentId": "UB0008-PPSA30009_00-0254841385254507",
     "region": "UB",
     "publisherId": "UB0008"
   },
@@ -137976,6 +138024,22 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA31538_00",
+    "conceptId": 10015957,
+    "name": "Cazzarion: Raccoon Valley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31539_00",
+    "conceptId": 10015957,
+    "name": "Cazzarion: Raccoon Valley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31542_00",
     "conceptId": 10015958,
     "name": "SF3RA",
@@ -138382,6 +138446,14 @@
     "contentId": "HP8462-PPSA31707_00-0669152470113213",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA31708_00",
+    "conceptId": 10016082,
+    "name": "Rabbit Run Carrot Hunt",
+    "contentId": "UP7668-PPSA31708_00-0010579075804507",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA31709_00",
@@ -138992,12 +139064,36 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA32178_00",
+    "conceptId": 10016341,
+    "name": "The Old Ways",
+    "contentId": "UB0908-PPSA32178_00-0232166659710975",
+    "region": "UB",
+    "publisherId": "UB0908"
+  },
+  {
     "titleId": "PPSA32179_00",
     "conceptId": 10016341,
     "name": "The Old Ways",
     "contentId": "EB1103-PPSA32179_00-0446865325932514",
     "region": "EB",
     "publisherId": "EB1103"
+  },
+  {
+    "titleId": "PPSA32180_00",
+    "conceptId": 10016341,
+    "name": "The Old Ways",
+    "contentId": "JB0847-PPSA32180_00-0036376376963749",
+    "region": "JB",
+    "publisherId": "JB0847"
+  },
+  {
+    "titleId": "PPSA32181_00",
+    "conceptId": 10016341,
+    "name": "The Old Ways",
+    "contentId": "HB0876-PPSA32181_00-0059438133576642",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA32205_00",
@@ -139056,12 +139152,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32224_00",
+    "conceptId": 10016375,
+    "name": "Pic-A-Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32225_00",
+    "conceptId": 10016375,
+    "name": "Pic-A-Block",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32241_00",
     "conceptId": 10015410,
     "name": "DETECTIVE - Scene Crime",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32252_00",
+    "conceptId": 10016392,
+    "name": "Grand Classic Auto",
+    "contentId": "EP5206-PPSA32252_00-0139077868031268",
+    "region": "EP",
+    "publisherId": "EP5206"
   },
   {
     "titleId": "PPSA32254_00",
@@ -139134,6 +139254,14 @@
     "contentId": "HB0876-PPSA32290_00-0192433517662870",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA32595_00",
+    "conceptId": 10016597,
+    "name": "Debtor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32596_00",
