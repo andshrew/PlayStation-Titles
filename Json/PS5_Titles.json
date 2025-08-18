@@ -132323,9 +132323,9 @@
     "titleId": "PPSA29641_00",
     "conceptId": 10014853,
     "name": "BrokenLore: DON'T WATCH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8251-PPSA29641_00-0957065071073144",
+    "region": "UP",
+    "publisherId": "UP8251"
   },
   {
     "titleId": "PPSA29652_00",
@@ -134024,6 +134024,22 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA30126_00",
+    "conceptId": 10015150,
+    "name": "Recycling Center Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30127_00",
+    "conceptId": 10015150,
+    "name": "Recycling Center Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30128_00",
     "conceptId": 10015152,
     "name": "tiny Cats",
@@ -134422,6 +134438,14 @@
     "contentId": "UB0008-PPSA30224_00-0148007550109948",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA30239_00",
+    "conceptId": 10015230,
+    "name": "Nachtmahr",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30240_00",
@@ -136222,6 +136246,14 @@
     "contentId": "HP8462-PPSA30719_00-0595980747719928",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA30726_00",
+    "conceptId": 10015491,
+    "name": "Ash Pines: The Motel",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30732_00",
@@ -139267,8 +139299,16 @@
     "titleId": "PPSA32596_00",
     "conceptId": 10016597,
     "name": "Debtor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA32596_00-0048811696057574",
+    "region": "EB",
+    "publisherId": "EB1103"
+  },
+  {
+    "titleId": "PPSA32597_00",
+    "conceptId": 10016597,
+    "name": "Debtor",
+    "contentId": "JB0847-PPSA32597_00-0022722501147419",
+    "region": "JB",
+    "publisherId": "JB0847"
   }
 ]
