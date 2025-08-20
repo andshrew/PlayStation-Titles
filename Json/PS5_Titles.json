@@ -32936,6 +32936,22 @@
     "publisherId": "EP0102"
   },
   {
+    "titleId": "PPSA07813_00",
+    "conceptId": 10005150,
+    "name": "Resident Evil 2",
+    "contentId": "UP0102-PPSA07813_00-SLUS007480000000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
+    "titleId": "PPSA07815_00",
+    "conceptId": 10005151,
+    "name": "Resident Evil 3: Nemesis",
+    "contentId": "UP0102-PPSA07815_00-SLUS009230000000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
     "titleId": "PPSA07817_00",
     "conceptId": 10002224,
     "name": "Shadow Warrior 3",
@@ -33172,6 +33188,22 @@
     "conceptId": 10005142,
     "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u3000\u30c7\u30a3\u30ec\u30af\u30bf\u30fc\u30ba\u30ab\u30c3\u30c8",
     "contentId": "JP0102-PPSA07863_00-SLPS009980000000",
+    "region": "JP",
+    "publisherId": "JP0102"
+  },
+  {
+    "titleId": "PPSA07864_00",
+    "conceptId": 10005150,
+    "name": "BIOHAZARD 2",
+    "contentId": "JP0102-PPSA07864_00-SLPS015100000000",
+    "region": "JP",
+    "publisherId": "JP0102"
+  },
+  {
+    "titleId": "PPSA07865_00",
+    "conceptId": 10005151,
+    "name": "BIOHAZARD 3 LAST ESCAPE",
+    "contentId": "JP0102-PPSA07865_00-SLPS023000000000",
     "region": "JP",
     "publisherId": "JP0102"
   },
@@ -112432,6 +112464,14 @@
     "publisherId": "HP7930"
   },
   {
+    "titleId": "PPSA25140_00",
+    "conceptId": 10012058,
+    "name": "City of Springs",
+    "contentId": "EB1299-PPSA25140_00-0855732320703900",
+    "region": "EB",
+    "publisherId": "EB1299"
+  },
+  {
     "titleId": "PPSA25141_00",
     "conceptId": 10012061,
     "name": "Orphans",
@@ -116416,6 +116456,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25962_00",
+    "conceptId": 10012476,
+    "name": "Extremely Powerful Capybaras",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25963_00",
+    "conceptId": 10012476,
+    "name": "Extremely Powerful Capybaras",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25968_00",
     "conceptId": 10010877,
     "name": "ELDEN RING NIGHTREIGN",
@@ -119190,6 +119246,14 @@
     "contentId": "UP1181-PPSA26539_00-TWATOGIRL0010000",
     "region": "UP",
     "publisherId": "UP1181"
+  },
+  {
+    "titleId": "PPSA26540_00",
+    "conceptId": 10010904,
+    "name": "FARAWAY TRAIN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26541_00",
@@ -124843,17 +124907,17 @@
     "titleId": "PPSA27764_00",
     "conceptId": 10013649,
     "name": "Hide The Corpse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0225-PPSA27764_00-0659730792240554",
+    "region": "UB",
+    "publisherId": "UB0225"
   },
   {
     "titleId": "PPSA27765_00",
     "conceptId": 10013650,
     "name": "Agatha Christie - Death on the Nile",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA27767_00",
@@ -129522,32 +129586,32 @@
   {
     "titleId": "PPSA28881_00",
     "conceptId": 10014058,
-    "name": "Delta Force (F2P)",
-    "contentId": null,
+    "name": "Delta Force",
+    "contentId": "UP5104-PPSA28881_00-0555800169353087",
     "region": "UP",
     "publisherId": "UP5104"
   },
   {
     "titleId": "PPSA28882_00",
     "conceptId": 10014058,
-    "name": "Delta Force (F2P)",
-    "contentId": null,
+    "name": "Delta Force",
+    "contentId": "UP5104-PPSA28882_00-DELTAFORCEEU0000",
     "region": "UP",
     "publisherId": "UP5104"
   },
   {
     "titleId": "PPSA28883_00",
     "conceptId": 10014058,
-    "name": "Delta Force (F2P)",
-    "contentId": null,
+    "name": "Delta Force",
+    "contentId": "UP5104-PPSA28883_00-DELTAFORCEJP0000",
     "region": "UP",
     "publisherId": "UP5104"
   },
   {
     "titleId": "PPSA28884_00",
     "conceptId": 10014058,
-    "name": "Delta Force (F2P)",
-    "contentId": null,
+    "name": "Delta Force",
+    "contentId": "UP5104-PPSA28884_00-DELTAFORCEASIA00",
     "region": "UP",
     "publisherId": "UP5104"
   },
@@ -130995,17 +131059,17 @@
     "titleId": "PPSA29285_00",
     "conceptId": 10014676,
     "name": "Shantae Advance: Risky Revolution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2053-PPSA29285_00-SHANTAEADV0PS5NA",
+    "region": "UP",
+    "publisherId": "UP2053"
   },
   {
     "titleId": "PPSA29286_00",
     "conceptId": 10014676,
     "name": "Shantae Advance: Risky Revolution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8916-PPSA29286_00-SHANTAEADV0PS5EU",
+    "region": "EP",
+    "publisherId": "EP8916"
   },
   {
     "titleId": "PPSA29287_00",
@@ -132312,6 +132376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29624_00",
+    "conceptId": 10011097,
+    "name": "Daemon X Machina: Titanic Scion Demo",
+    "contentId": "UP1023-PPSA29624_00-DXMTITANICSCION0",
+    "region": "UP",
+    "publisherId": "UP1023"
+  },
+  {
     "titleId": "PPSA29630_00",
     "conceptId": 10014733,
     "name": "Remember Easter",
@@ -132378,10 +132450,10 @@
   {
     "titleId": "PPSA29640_00",
     "conceptId": 10011097,
-    "name": "Daemon X Machina: Titanic Scion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Daemon X Machina: Titanic Scion Demo",
+    "contentId": "EP4492-PPSA29640_00-DXMTITANICSCION0",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA29641_00",
@@ -132744,6 +132816,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA29713_00",
+    "conceptId": 10014856,
+    "name": "Karate Survivor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29715_00",
     "conceptId": 10014820,
     "name": "Cat From Hell - Cat Simulator",
@@ -133070,6 +133150,14 @@
     "contentId": "EP6718-PPSA29813_00-0209474617290652",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA29819_00",
+    "conceptId": 10013495,
+    "name": "Baki Hanma: Blood Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29821_00",
@@ -133454,6 +133542,14 @@
     "contentId": "JP0393-PPSA29924_00-0464406993643832",
     "region": "JP",
     "publisherId": "JP0393"
+  },
+  {
+    "titleId": "PPSA29925_00",
+    "conceptId": 10015051,
+    "name": "Chocolate Factory Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29926_00",
@@ -135312,6 +135408,14 @@
     "publisherId": "UB0487"
   },
   {
+    "titleId": "PPSA30425_00",
+    "conceptId": 10015318,
+    "name": "Aphrodite's Bathhouse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30427_00",
     "conceptId": 10011295,
     "name": "Rabbit Raid",
@@ -136504,6 +136608,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30835_00",
+    "conceptId": 10015560,
+    "name": "When the bell goes silent",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30836_00",
     "conceptId": 10015561,
     "name": "The Cabin Factory",
@@ -137072,6 +137184,14 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA31113_00",
+    "conceptId": 10005051,
+    "name": "Hell is Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31115_00",
     "conceptId": 10015695,
     "name": "Veins of DARKNESS HORROR",
@@ -137334,6 +137454,14 @@
     "contentId": "HP8737-PPSA31209_00-0742415341303737",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA31211_00",
+    "conceptId": 10015754,
+    "name": "Electronics Puzzle Lab 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31218_00",
@@ -137643,6 +137771,14 @@
     "titleId": "PPSA31326_00",
     "conceptId": 10008540,
     "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31335_00",
+    "conceptId": 10015838,
+    "name": "Knightica",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -139390,6 +139526,22 @@
     "contentId": "HB0876-PPSA32290_00-0192433517662870",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA32308_00",
+    "conceptId": 10016425,
+    "name": "Otherwar",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32551_00",
+    "conceptId": 10016575,
+    "name": "Cube Merge 2048",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32595_00",
