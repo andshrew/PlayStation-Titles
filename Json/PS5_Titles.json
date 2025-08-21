@@ -64632,6 +64632,14 @@
     "publisherId": "EP3399"
   },
   {
+    "titleId": "PPSA15171_00",
+    "conceptId": 10007754,
+    "name": "Demonschool",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15172_00",
     "conceptId": 10002172,
     "name": "Wayfinder",
@@ -64702,6 +64710,22 @@
     "contentId": "EP1703-PPSA15182_00-0105898678682262",
     "region": "EP",
     "publisherId": "EP1703"
+  },
+  {
+    "titleId": "PPSA15185_00",
+    "conceptId": 10007767,
+    "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4139"
+  },
+  {
+    "titleId": "PPSA15186_00",
+    "conceptId": 10007767,
+    "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4139"
   },
   {
     "titleId": "PPSA15189_00",
@@ -113514,10 +113538,10 @@
   {
     "titleId": "PPSA25344_00",
     "conceptId": 10011227,
-    "name": "Sword of the Sea",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sword Of The Sea",
+    "contentId": "EP0292-PPSA25344_00-0946238103518617",
+    "region": "EP",
+    "publisherId": "EP0292"
   },
   {
     "titleId": "PPSA25345_00",
@@ -113566,6 +113590,14 @@
     "contentId": "UB0312-PPSA25363_00-0225380047969905",
     "region": "UB",
     "publisherId": "UB0312"
+  },
+  {
+    "titleId": "PPSA25366_00",
+    "conceptId": 10012160,
+    "name": "Age of Empires IV: Anniversary Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA25367_00",
@@ -118368,6 +118400,14 @@
     "publisherId": "UB1250"
   },
   {
+    "titleId": "PPSA26351_00",
+    "conceptId": 10012776,
+    "name": "\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc",
+    "contentId": "JP0082-PPSA26351_00-0728986987174400",
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
     "titleId": "PPSA26357_00",
     "conceptId": 10004842,
     "name": "Infinity Nikki",
@@ -121352,6 +121392,14 @@
     "publisherId": "EP0600"
   },
   {
+    "titleId": "PPSA26991_00",
+    "conceptId": 10013144,
+    "name": "UBOAT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26997_00",
     "conceptId": 10013150,
     "name": "SCP-087 THE STAIRWELL HORROR",
@@ -122366,6 +122414,14 @@
     "contentId": "EP3024-PPSA27228_00-CCTREASUREHU3PS5",
     "region": "EP",
     "publisherId": "EP3024"
+  },
+  {
+    "titleId": "PPSA27230_00",
+    "conceptId": 10011450,
+    "name": "World of Tanks: HEAT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27233_00",
@@ -124016,6 +124072,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA27587_00",
+    "conceptId": 10009064,
+    "name": "Tomb Raider IV-VI Remastered",
+    "contentId": "EP1875-PPSA27587_00-0678799933389573",
+    "region": "EP",
+    "publisherId": "EP1875"
+  },
+  {
     "titleId": "PPSA27588_00",
     "conceptId": 10013509,
     "name": "Dragons vs. Balloons TD",
@@ -124702,6 +124766,14 @@
     "contentId": "EP5987-PPSA27717_00-BARTENDERULG0001",
     "region": "EP",
     "publisherId": "EP5987"
+  },
+  {
+    "titleId": "PPSA27719_00",
+    "conceptId": 10013618,
+    "name": "Psycho Dream",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27721_00",
@@ -125594,10 +125666,10 @@
   {
     "titleId": "PPSA27910_00",
     "conceptId": 10013771,
-    "name": "Ariana and the Elder Codex",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u9b54\u6cd5\u53f8\u66f8\u30a2\u30ea\u30a2\u30ca \uff5e\u4e03\u82f1\u5091\u306e\u66f8\uff5e",
+    "contentId": "JP0031-PPSA27910_00-MLARIANANSGAM000",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA27912_00",
@@ -126720,6 +126792,14 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA28150_00",
+    "conceptId": 10013963,
+    "name": "Outlaws + Handful of Missions: Remaster",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0913"
+  },
+  {
     "titleId": "PPSA28151_00",
     "conceptId": 10013966,
     "name": "Herdling",
@@ -127544,6 +127624,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA28336_00",
+    "conceptId": 10014084,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "contentId": null,
+    "region": "EB",
+    "publisherId": "EB0236"
+  },
+  {
     "titleId": "PPSA28338_00",
     "conceptId": 10014087,
     "name": "Nico Saves The State",
@@ -128218,10 +128306,10 @@
   {
     "titleId": "PPSA28506_00",
     "conceptId": 10011097,
-    "name": "Daemon X Machina: Titanic Scion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DAEMON X MACHINA TITANIC SCION \u4f53\u9a13\u7248",
+    "contentId": "JP0507-PPSA28506_00-DXMTITANICSCION0",
+    "region": "JP",
+    "publisherId": "JP0507"
   },
   {
     "titleId": "PPSA28507_00",
@@ -128708,6 +128796,14 @@
     "conceptId": 233994,
     "name": "\u30a4\u30fc\u30b9\u2168 -Monstrum Nox-",
     "contentId": "JP0425-PPSA28578_00-YS09JPGAME000000",
+    "region": "JP",
+    "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA28580_00",
+    "conceptId": 232098,
+    "name": "\u82f1\u96c4\u4f1d\u8aac \u9583\u306e\u8ecc\u8de1\u2163",
+    "contentId": "JP0425-PPSA28580_00-EDSENNOKISEKI4TH",
     "region": "JP",
     "publisherId": "JP0425"
   },
@@ -129368,6 +129464,14 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA28795_00",
+    "conceptId": 10014379,
+    "name": "Snoopy & The Great Mystery Club",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28796_00",
     "conceptId": 10014381,
     "name": "Wall Town Wonders",
@@ -129414,6 +129518,14 @@
     "contentId": "JP5432-PPSA28821_00-0914595171845011",
     "region": "JP",
     "publisherId": "JP5432"
+  },
+  {
+    "titleId": "PPSA28823_00",
+    "conceptId": 10013012,
+    "name": "\u9023\u546a \u4f53\u9a13\u7248",
+    "contentId": "JP0404-PPSA28823_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP0404"
   },
   {
     "titleId": "PPSA28825_00",
@@ -130086,6 +130198,14 @@
     "contentId": "UB1028-PPSA29005_00-0923379634092846",
     "region": "UB",
     "publisherId": "UB1028"
+  },
+  {
+    "titleId": "PPSA29010_00",
+    "conceptId": 10014501,
+    "name": "Nicktoons & The Dice of Destiny",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29011_00",
@@ -131430,6 +131550,22 @@
     "contentId": "JP0700-PPSA29391_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA29392_00",
+    "conceptId": 10013771,
+    "name": "\u9b54\u6cd5\u53f8\u66f8\u30a2\u30ea\u30a2\u30ca \uff5e\u4e03\u82f1\u5091\u306e\u66f8\uff5e \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af",
+    "contentId": "JP0031-PPSA29392_00-MLARIANANSDAB000",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
+    "titleId": "PPSA29393_00",
+    "conceptId": 10013771,
+    "name": "\u9b54\u6cd5\u53f8\u66f8\u30a2\u30ea\u30a2\u30ca \uff5e\u4e03\u82f1\u5091\u306e\u66f8\uff5e \u30c7\u30b8\u30bf\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0031-PPSA29393_00-MLARIANANSDST000",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA29394_00",
@@ -133048,6 +133184,22 @@
     "publisherId": "UP8511"
   },
   {
+    "titleId": "PPSA29769_00",
+    "conceptId": 10014896,
+    "name": "Candylands Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29770_00",
+    "conceptId": 10014896,
+    "name": "Candylands Journey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29783_00",
     "conceptId": 10014587,
     "name": "Hatsune Miku Logic Paint S+",
@@ -134294,6 +134446,14 @@
     "contentId": "HP3473-PPSA30137_00-0101580568742383",
     "region": "HP",
     "publisherId": "HP3473"
+  },
+  {
+    "titleId": "PPSA30138_00",
+    "conceptId": 10015155,
+    "name": "Fast & Furious: Arcade Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30139_00",
@@ -136186,10 +136346,10 @@
   {
     "titleId": "PPSA30651_00",
     "conceptId": 10015438,
-    "name": "BOULDER DASH 40th Anniversary",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d0\u30eb\u30c0\u30fc\u30c0\u30c3\u30b7\u30e540\u5468\u5e74\u8a18\u5ff5",
+    "contentId": "EP7357-PPSA30651_00-0686908275142292",
+    "region": "EP",
+    "publisherId": "EP7357"
   },
   {
     "titleId": "PPSA30653_00",
@@ -136536,6 +136696,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30820_00",
+    "conceptId": 10012159,
+    "name": "ACRES",
+    "contentId": "UB0733-PPSA30820_00-0623135692477115",
+    "region": "UB",
+    "publisherId": "UB0733"
+  },
+  {
     "titleId": "PPSA30824_00",
     "conceptId": 10015099,
     "name": "Day of the Shell",
@@ -136808,6 +136976,14 @@
     "publisherId": "UB1453"
   },
   {
+    "titleId": "PPSA30919_00",
+    "conceptId": 10015619,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u822a\u7a7a\u9a0e\u5175\u7269\u8a9e",
+    "contentId": "JP0571-PPSA30919_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA30920_00",
     "conceptId": 10015620,
     "name": "Overpowered 1 - Mars Infestation",
@@ -136842,10 +137018,10 @@
   {
     "titleId": "PPSA30929_00",
     "conceptId": 10015625,
-    "name": "CORE.SYS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Core.sys",
+    "contentId": "UP2005-PPSA30929_00-CORESYSGAME00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA30931_00",
@@ -138416,6 +138592,30 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA31620_00",
+    "conceptId": 10016028,
+    "name": "Treasure Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31622_00",
+    "conceptId": 10016028,
+    "name": "Treasure Island",
+    "contentId": "HB1069-PPSA31622_00-0635719055334684",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
+    "titleId": "PPSA31623_00",
+    "conceptId": 10016028,
+    "name": "Treasure Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31624_00",
     "conceptId": 10012461,
     "name": "Goblin in the castle",
@@ -139539,9 +139739,9 @@
     "titleId": "PPSA32551_00",
     "conceptId": 10016575,
     "name": "Cube Merge 2048",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1029-PPSA32551_00-0745122114407899",
+    "region": "UB",
+    "publisherId": "UB1029"
   },
   {
     "titleId": "PPSA32595_00",
@@ -139574,5 +139774,29 @@
     "contentId": "HB0876-PPSA32598_00-0032119572012954",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA32599_00",
+    "conceptId": 10016599,
+    "name": "Cauldron Forager",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32600_00",
+    "conceptId": 10016599,
+    "name": "Cauldron Forager",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32602_00",
+    "conceptId": 10016599,
+    "name": "Cauldron Forager",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
