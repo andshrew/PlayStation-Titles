@@ -64632,6 +64632,14 @@
     "publisherId": "EP3399"
   },
   {
+    "titleId": "PPSA15170_00",
+    "conceptId": 10007754,
+    "name": "Demonschool",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15171_00",
     "conceptId": 10007754,
     "name": "Demonschool",
@@ -72502,6 +72510,14 @@
     "contentId": "EB0129-PPSA16657_00-DEADMANSDIARY000",
     "region": "EB",
     "publisherId": "EB0129"
+  },
+  {
+    "titleId": "PPSA16658_00",
+    "conceptId": 10008467,
+    "name": "Buluk",
+    "contentId": "UP8791-PPSA16658_00-0973953919701822",
+    "region": "UP",
+    "publisherId": "UP8791"
   },
   {
     "titleId": "PPSA16661_00",
@@ -97403,7 +97419,7 @@
     "titleId": "PPSA21990_00",
     "conceptId": 10009623,
     "name": "Discounty",
-    "contentId": null,
+    "contentId": "EP4293-PPSA21990_00-DISCOUNTYSIEEPS5",
     "region": "EP",
     "publisherId": "EP4293"
   },
@@ -103454,6 +103470,14 @@
     "contentId": "JP8693-PPSA23352_00-0816786370049219",
     "region": "JP",
     "publisherId": "JP8693"
+  },
+  {
+    "titleId": "PPSA23355_00",
+    "conceptId": 10011142,
+    "name": "Where Winds Meet (F2P)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP7588"
   },
   {
     "titleId": "PPSA23357_00",
@@ -114848,6 +114872,22 @@
     "publisherId": "EP0600"
   },
   {
+    "titleId": "PPSA25596_00",
+    "conceptId": 10012288,
+    "name": "The Nameless City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25597_00",
+    "conceptId": 10012288,
+    "name": "The Nameless City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25604_00",
     "conceptId": 10012289,
     "name": "PAWS & CLEAN",
@@ -115803,9 +115843,9 @@
     "titleId": "PPSA25808_00",
     "conceptId": 10012427,
     "name": "Grit and Valor - 1949",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0836-PPSA25808_00-GRITANDVALOR1949",
+    "region": "UB",
+    "publisherId": "UB0836"
   },
   {
     "titleId": "PPSA25809_00",
@@ -118406,6 +118446,30 @@
     "contentId": "JP0082-PPSA26351_00-0728986987174400",
     "region": "JP",
     "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA26352_00",
+    "conceptId": 10012776,
+    "name": "TRIANGLE STRATEGY",
+    "contentId": "UP0082-PPSA26352_00-0066466457920105",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA26353_00",
+    "conceptId": 10012776,
+    "name": "TRIANGLE STRATEGY",
+    "contentId": "EP0082-PPSA26353_00-0228219070712437",
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA26354_00",
+    "conceptId": 10012776,
+    "name": "TRIANGLE STRATEGY",
+    "contentId": "HP0082-PPSA26354_00-0326281359665223",
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA26357_00",
@@ -123624,6 +123688,14 @@
     "publisherId": "UB1110"
   },
   {
+    "titleId": "PPSA27494_00",
+    "conceptId": 10013431,
+    "name": "Sky of Destruction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27498_00",
     "conceptId": 10013436,
     "name": "Cave Ranger",
@@ -126803,9 +126875,17 @@
     "titleId": "PPSA28151_00",
     "conceptId": 10013966,
     "name": "Herdling",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3971-PPSA28151_00-HERDLINGPANIC000",
+    "region": "UP",
+    "publisherId": "UP3971"
+  },
+  {
+    "titleId": "PPSA28155_00",
+    "conceptId": 10013971,
+    "name": "The Rogue Prince of Persia",
+    "contentId": "EP0001-PPSA28155_00-GAME000000000000",
+    "region": "EP",
+    "publisherId": "EP0001"
   },
   {
     "titleId": "PPSA28156_00",
@@ -126990,6 +127070,14 @@
     "contentId": "EP6556-PPSA28200_00-0183501718478848",
     "region": "EP",
     "publisherId": "EP6556"
+  },
+  {
+    "titleId": "PPSA28201_00",
+    "conceptId": 10013997,
+    "name": "Antarctica 88: 4K Remaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28203_00",
@@ -128800,10 +128888,26 @@
     "publisherId": "JP0425"
   },
   {
+    "titleId": "PPSA28579_00",
+    "conceptId": 228455,
+    "name": "\u82f1\u96c4\u4f1d\u8aac \u9583\u306e\u8ecc\u8de1\u2162",
+    "contentId": "JP0425-PPSA28579_00-EDSENNOKISEKI3RD",
+    "region": "JP",
+    "publisherId": "JP0425"
+  },
+  {
     "titleId": "PPSA28580_00",
     "conceptId": 232098,
     "name": "\u82f1\u96c4\u4f1d\u8aac \u9583\u306e\u8ecc\u8de1\u2163",
     "contentId": "JP0425-PPSA28580_00-EDSENNOKISEKI4TH",
+    "region": "JP",
+    "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA28581_00",
+    "conceptId": 10000489,
+    "name": "\u82f1\u96c4\u4f1d\u8aac \u5275\u306e\u8ecc\u8de1",
+    "contentId": "JP0425-PPSA28581_00-EDHAJIMARIKISEKI",
     "region": "JP",
     "publisherId": "JP0425"
   },
@@ -129478,6 +129582,14 @@
     "contentId": "HP5783-PPSA28796_00-WTW0000000000000",
     "region": "HP",
     "publisherId": "HP5783"
+  },
+  {
+    "titleId": "PPSA28797_00",
+    "conceptId": 10014383,
+    "name": "Rudolph the Red-Nosed Reindeer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28800_00",
@@ -132080,6 +132192,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29512_00",
+    "conceptId": 10008849,
+    "name": "Nikoderiko: The Magical World DEMO",
+    "contentId": "EP2134-PPSA29512_00-0698024947517675",
+    "region": "EP",
+    "publisherId": "EP2134"
+  },
+  {
     "titleId": "PPSA29513_00",
     "conceptId": 10007638,
     "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30b2\u30ad\u30b7\u30f3 \u30b9\u30af\u30a2\u30c9\u30e9 \u30a8\u30ad\u30b7\u30d3\u30b7\u30e7\u30f3\u30de\u30c3\u30c1",
@@ -132606,6 +132726,38 @@
     "contentId": "JP0098-PPSA29652_00-DUNGEONSOFHPS5JP",
     "region": "JP",
     "publisherId": "JP0098"
+  },
+  {
+    "titleId": "PPSA29654_00",
+    "conceptId": 10014703,
+    "name": "Carlos the Taco",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29655_00",
+    "conceptId": 10014703,
+    "name": "Carlos the Taco",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29656_00",
+    "conceptId": 10014703,
+    "name": "Carlos the Taco",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29657_00",
+    "conceptId": 10014703,
+    "name": "Carlos the Taco",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29658_00",
@@ -138184,6 +138336,14 @@
     "publisherId": "EP6556"
   },
   {
+    "titleId": "PPSA31410_00",
+    "conceptId": 10012498,
+    "name": "TCG Card Market Simulator",
+    "contentId": "UB1012-PPSA31410_00-0121554489432849",
+    "region": "UB",
+    "publisherId": "UB1012"
+  },
+  {
     "titleId": "PPSA31415_00",
     "conceptId": 10015593,
     "name": "The Alpha Wolf",
@@ -138326,6 +138486,14 @@
     "contentId": "HB0876-PPSA31478_00-0546086434324982",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA31479_00",
+    "conceptId": 10008019,
+    "name": "MARVEL T\u014dkon: Fighting Souls",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31483_00",
@@ -138475,9 +138643,9 @@
     "titleId": "PPSA31542_00",
     "conceptId": 10015958,
     "name": "SF3RA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA31542_00-SF3RARATALAGAMES",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA31546_00",
@@ -138552,6 +138720,22 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA31572_00",
+    "conceptId": 10013078,
+    "name": "\u7a7a\u306e\u8ecc\u8de1the1st\u4f53\u9a13\u7248",
+    "contentId": "JP0425-PPSA31572_00-EDSORATRIAL00001",
+    "region": "JP",
+    "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA31573_00",
+    "conceptId": 10013078,
+    "name": "\u7a7a\u4e4b\u8ecc\u8de1 the 1st \u9ad4\u9a57\u7248",
+    "contentId": "HP5846-PPSA31573_00-EDSORATRIAL00001",
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA31574_00",
     "conceptId": 10015980,
     "name": "Galaxy Roll",
@@ -138595,9 +138779,17 @@
     "titleId": "PPSA31620_00",
     "conceptId": 10016028,
     "name": "Treasure Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1069-PPSA31620_00-0729356178234952",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
+    "titleId": "PPSA31621_00",
+    "conceptId": 10016028,
+    "name": "Treasure Island",
+    "contentId": "HB1069-PPSA31621_00-0048942723518808",
+    "region": "HB",
+    "publisherId": "HB1069"
   },
   {
     "titleId": "PPSA31622_00",
@@ -138611,9 +138803,9 @@
     "titleId": "PPSA31623_00",
     "conceptId": 10016028,
     "name": "Treasure Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1069-PPSA31623_00-0751306387659661",
+    "region": "HB",
+    "publisherId": "HB1069"
   },
   {
     "titleId": "PPSA31624_00",
@@ -138730,10 +138922,10 @@
   {
     "titleId": "PPSA31666_00",
     "conceptId": 10013078,
-    "name": "Trails in the Sky 1st Chapter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trails in the Sky 1st Chapter Demo",
+    "contentId": "UP8299-PPSA31666_00-EDSORATRIAL00001",
+    "region": "UP",
+    "publisherId": "UP8299"
   },
   {
     "titleId": "PPSA31667_00",
@@ -139264,6 +139456,30 @@
     "publisherId": "EP7177"
   },
   {
+    "titleId": "PPSA31956_00",
+    "conceptId": 10016236,
+    "name": "Draconic Resurgence",
+    "contentId": "JP7094-PPSA31956_00-0326094686791786",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA31958_00",
+    "conceptId": 10016236,
+    "name": "Draconic Resurgence",
+    "contentId": "EP7123-PPSA31958_00-0109056827456099",
+    "region": "EP",
+    "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA31986_00",
+    "conceptId": 10016113,
+    "name": "Flight Sim 2025",
+    "contentId": "EB1366-PPSA31986_00-0947644927124769",
+    "region": "EB",
+    "publisherId": "EB1366"
+  },
+  {
     "titleId": "PPSA31987_00",
     "conceptId": 10011921,
     "name": "Odd Color Out",
@@ -139302,6 +139518,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA31992_00",
+    "conceptId": 10016253,
+    "name": "Italian Brainrot",
+    "contentId": "UB0599-PPSA31992_00-BRAINROT0000SIEA",
+    "region": "UB",
+    "publisherId": "UB0599"
+  },
+  {
+    "titleId": "PPSA31993_00",
+    "conceptId": 10016253,
+    "name": "Italian Brainrot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31994_00",
+    "conceptId": 10016253,
+    "name": "Italian Brainrot",
+    "contentId": "HB0567-PPSA31994_00-BRAINROT000SIEJP",
+    "region": "HB",
+    "publisherId": "HB0567"
+  },
+  {
+    "titleId": "PPSA31995_00",
+    "conceptId": 10016253,
+    "name": "Italian Brainrot",
+    "contentId": "JB0538-PPSA31995_00-BRAINROT000SIEAS",
+    "region": "JB",
+    "publisherId": "JB0538"
   },
   {
     "titleId": "PPSA32004_00",
@@ -139430,6 +139678,14 @@
     "contentId": "UP7552-PPSA32111_00-0166822221804032",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA32112_00",
+    "conceptId": 10016315,
+    "name": "Rattle Royale",
+    "contentId": "UB0337-PPSA32112_00-0712260999662995",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA32134_00",
@@ -139648,6 +139904,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32245_00",
+    "conceptId": 10016389,
+    "name": "Pixicharm - Brotillery",
+    "contentId": "EP1612-PPSA32245_00-BROTILLERYGAME00",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
     "titleId": "PPSA32252_00",
     "conceptId": 10016392,
     "name": "Grand Classic Auto",
@@ -139736,6 +140000,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32404_00",
+    "conceptId": 10016099,
+    "name": "Evasive satellite",
+    "contentId": "UP5464-PPSA32404_00-EVASIVESATELLITE",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
+    "titleId": "PPSA32405_00",
+    "conceptId": 10016099,
+    "name": "Evasive satellite",
+    "contentId": "EP5645-PPSA32405_00-EVASIVESATELLITE",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32406_00",
+    "conceptId": 10016099,
+    "name": "Evasive satellite",
+    "contentId": "JP5299-PPSA32406_00-EVASIVESATELLITE",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32407_00",
+    "conceptId": 10016099,
+    "name": "Evasive satellite",
+    "contentId": "HP5361-PPSA32407_00-EVASIVESATELLITE",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA32551_00",
     "conceptId": 10016575,
     "name": "Cube Merge 2048",
@@ -139795,6 +140091,14 @@
     "titleId": "PPSA32602_00",
     "conceptId": 10016599,
     "name": "Cauldron Forager",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32683_00",
+    "conceptId": 10016615,
+    "name": "Dark burial",
     "contentId": null,
     "region": null,
     "publisherId": null
