@@ -80418,10 +80418,10 @@
   {
     "titleId": "PPSA18387_00",
     "conceptId": 10009144,
-    "name": "OPUS: Echo of Starsong - Full Bloom Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "OPUS: Echo of Starsong",
+    "contentId": "UP7165-PPSA18387_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP7165"
   },
   {
     "titleId": "PPSA18388_00",
@@ -111960,6 +111960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25045_00",
+    "conceptId": 10012024,
+    "name": "Reach",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP2985"
+  },
+  {
     "titleId": "PPSA25051_00",
     "conceptId": 10012023,
     "name": "Dinosaur Fossil Hunter",
@@ -116987,7 +116995,7 @@
     "titleId": "PPSA26057_00",
     "conceptId": 10010183,
     "name": "Sengoku Dynasty",
-    "contentId": null,
+    "contentId": "EP3550-PPSA26057_00-SENGOKUDYNPS5GP0",
     "region": "EP",
     "publisherId": "EP3550"
   },
@@ -123696,6 +123704,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27495_00",
+    "conceptId": 10013431,
+    "name": "Sky of Destruction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27498_00",
     "conceptId": 10013436,
     "name": "Cave Ranger",
@@ -127075,9 +127091,9 @@
     "titleId": "PPSA28201_00",
     "conceptId": 10013997,
     "name": "Antarctica 88: 4K Remaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6556-PPSA28201_00-0811778571751368",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA28203_00",
@@ -128416,6 +128432,14 @@
     "publisherId": "EP8247"
   },
   {
+    "titleId": "PPSA28509_00",
+    "conceptId": 10014205,
+    "name": "Void Crew",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28510_00",
     "conceptId": 10014204,
     "name": "Through the Nightmares",
@@ -129018,10 +129042,10 @@
   {
     "titleId": "PPSA28606_00",
     "conceptId": 10005107,
-    "name": "King of Meat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "King Of Meat",
+    "contentId": "UP5267-PPSA28606_00-KOMPS5TBETA00000",
+    "region": "UP",
+    "publisherId": "UP5267"
   },
   {
     "titleId": "PPSA28609_00",
@@ -129394,10 +129418,10 @@
   {
     "titleId": "PPSA28709_00",
     "conceptId": 10014325,
-    "name": "Labyrinthine - Console Edition",
+    "name": "Labyrinthine - Vampire Deluxe Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA28716_00",
@@ -131128,6 +131152,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA29240_00",
+    "conceptId": 10014654,
+    "name": "Funko Fusion Deluxe Edition",
+    "contentId": "UP7870-PPSA29240_00-FUNKOFUSIONDELED",
+    "region": "UP",
+    "publisherId": "UP7870"
+  },
+  {
     "titleId": "PPSA29242_00",
     "conceptId": 10014129,
     "name": "Power Pointer",
@@ -132515,9 +132547,9 @@
     "titleId": "PPSA29585_00",
     "conceptId": 10014849,
     "name": "Bus Stop Shuffle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA29585_00-0367266595336862",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA29589_00",
@@ -134515,9 +134547,9 @@
     "titleId": "PPSA30127_00",
     "conceptId": 10015150,
     "name": "Recycling Center Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA30127_00-CLAB1RCS20250417",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA30128_00",
@@ -137032,6 +137064,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA30866_00",
+    "conceptId": 10015587,
+    "name": "Trippy Trader Schedule and Sell",
+    "contentId": "UB1511-PPSA30866_00-0699550764894369",
+    "region": "UB",
+    "publisherId": "UB1511"
+  },
+  {
     "titleId": "PPSA30869_00",
     "conceptId": 10015590,
     "name": "Bombardiro Crocodilo Simulator",
@@ -138107,9 +138147,9 @@
     "titleId": "PPSA31335_00",
     "conceptId": 10015838,
     "name": "Knightica",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8767-PPSA31335_00-0882412497143160",
+    "region": "UP",
+    "publisherId": "UP8767"
   },
   {
     "titleId": "PPSA31336_00",
@@ -139464,12 +139504,28 @@
     "publisherId": "JP7094"
   },
   {
+    "titleId": "PPSA31957_00",
+    "conceptId": 10016236,
+    "name": "Draconic Resurgence",
+    "contentId": "UP7126-PPSA31957_00-0223333152924307",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
     "titleId": "PPSA31958_00",
     "conceptId": 10016236,
     "name": "Draconic Resurgence",
     "contentId": "EP7123-PPSA31958_00-0109056827456099",
     "region": "EP",
     "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA31959_00",
+    "conceptId": 10016236,
+    "name": "Draconic Resurgence",
+    "contentId": "HP7141-PPSA31959_00-0737691343477522",
+    "region": "HP",
+    "publisherId": "HP7141"
   },
   {
     "titleId": "PPSA31986_00",
@@ -139531,9 +139587,9 @@
     "titleId": "PPSA31993_00",
     "conceptId": 10016253,
     "name": "Italian Brainrot",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0792-PPSA31993_00-BRAINROT0000SIEE",
+    "region": "EB",
+    "publisherId": "EB0792"
   },
   {
     "titleId": "PPSA31994_00",
@@ -139718,6 +139774,14 @@
     "contentId": "HB0674-PPSA32137_00-0776139914029031",
     "region": "HB",
     "publisherId": "HB0674"
+  },
+  {
+    "titleId": "PPSA32145_00",
+    "conceptId": 10016326,
+    "name": "Fishing Rush",
+    "contentId": "UB0008-PPSA32145_00-0174676458073786",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA32165_00",
@@ -139960,6 +140024,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA32267_00",
+    "conceptId": 10016399,
+    "name": "Arab drift cars 3",
+    "contentId": "EP5206-PPSA32267_00-0051808179044223",
+    "region": "EP",
+    "publisherId": "EP5206"
+  },
+  {
     "titleId": "PPSA32287_00",
     "conceptId": 10016418,
     "name": "Tofu Dream",
@@ -140000,6 +140072,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32332_00",
+    "conceptId": 10016441,
+    "name": "Nun of your Business",
+    "contentId": "UB1029-PPSA32332_00-0739126934128179",
+    "region": "UB",
+    "publisherId": "UB1029"
+  },
+  {
     "titleId": "PPSA32404_00",
     "conceptId": 10016099,
     "name": "Evasive satellite",
@@ -140030,6 +140110,38 @@
     "contentId": "HP5361-PPSA32407_00-EVASIVESATELLITE",
     "region": "HP",
     "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32420_00",
+    "conceptId": 10013969,
+    "name": "Captain Puff MacFly (DEMO)",
+    "contentId": "JB1432-PPSA32420_00-0561397041760887",
+    "region": "JB",
+    "publisherId": "JB1432"
+  },
+  {
+    "titleId": "PPSA32452_00",
+    "conceptId": 10016512,
+    "name": "Dragon Snack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32453_00",
+    "conceptId": 10016512,
+    "name": "Dragon Snack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32455_00",
+    "conceptId": 10016512,
+    "name": "Dragon Snack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32551_00",
@@ -140097,6 +140209,14 @@
   },
   {
     "titleId": "PPSA32683_00",
+    "conceptId": 10016615,
+    "name": "Dark burial",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32684_00",
     "conceptId": 10016615,
     "name": "Dark burial",
     "contentId": null,
