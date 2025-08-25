@@ -108064,6 +108064,14 @@
     "publisherId": "JP0089"
   },
   {
+    "titleId": "PPSA24272_00",
+    "conceptId": 10011647,
+    "name": "Unleaving",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24274_00",
     "conceptId": 10007325,
     "name": "HUNTER\u00d7HUNTER NEN\u00d7IMPACT",
@@ -139811,9 +139819,9 @@
     "titleId": "PPSA32146_00",
     "conceptId": 10016327,
     "name": "Dot Connect",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0008-PPSA32146_00-0688837643286019",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA32165_00",
@@ -140240,12 +140248,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32601_00",
+    "conceptId": 10016599,
+    "name": "Cauldron Forager",
+    "contentId": "JP8458-PPSA32601_00-0720063276042785",
+    "region": "JP",
+    "publisherId": "JP8458"
+  },
+  {
     "titleId": "PPSA32602_00",
     "conceptId": 10016599,
     "name": "Cauldron Forager",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA32602_00-0164754839500288",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA32683_00",
