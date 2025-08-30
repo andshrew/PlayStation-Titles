@@ -71680,6 +71680,22 @@
     "publisherId": "EP3678"
   },
   {
+    "titleId": "PPSA16503_00",
+    "conceptId": 10008389,
+    "name": "Battle Of Rebels",
+    "contentId": "UP3515-PPSA16503_00-BATTLEREBELSP5US",
+    "region": "UP",
+    "publisherId": "UP3515"
+  },
+  {
+    "titleId": "PPSA16505_00",
+    "conceptId": 10008389,
+    "name": "Battle Of Rebels",
+    "contentId": "HP3460-PPSA16505_00-BATTLEREBELSP5AS",
+    "region": "HP",
+    "publisherId": "HP3460"
+  },
+  {
     "titleId": "PPSA16506_00",
     "conceptId": 10004877,
     "name": "Layers of Fear Bonus Content",
@@ -100434,10 +100450,10 @@
   {
     "titleId": "PPSA22625_00",
     "conceptId": 10010815,
-    "name": "VARLET",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30f4\u30a1\u30ec\u30c3\u30c8\uff0fVARLET",
+    "contentId": "JP0536-PPSA22625_00-VARLET0000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
   },
   {
     "titleId": "PPSA22629_00",
@@ -112931,7 +112947,7 @@
     "titleId": "PPSA25217_00",
     "conceptId": 10007610,
     "name": "SUPER ROBOT WARS Y",
-    "contentId": null,
+    "contentId": "HP0700-PPSA25217_00-SUPERROBOTWARSY0",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -116190,6 +116206,14 @@
     "contentId": "UP0006-PPSA25859_00-COLLEGEFB26GAME1",
     "region": "UP",
     "publisherId": "UP0006"
+  },
+  {
+    "titleId": "PPSA25868_00",
+    "conceptId": 10012139,
+    "name": "Rebeloid VR",
+    "contentId": "EP4476-PPSA25868_00-REBELOIDVRFULLGM",
+    "region": "EP",
+    "publisherId": "EP4476"
   },
   {
     "titleId": "PPSA25871_00",
@@ -120104,6 +120128,14 @@
     "publisherId": "JB1262"
   },
   {
+    "titleId": "PPSA26656_00",
+    "conceptId": 10012988,
+    "name": "Bad Cheese",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26657_00",
     "conceptId": 10012988,
     "name": "Bad Cheese",
@@ -120534,6 +120566,30 @@
     "contentId": "EP7334-PPSA26789_00-00000000000000EU",
     "region": "EP",
     "publisherId": "EP7334"
+  },
+  {
+    "titleId": "PPSA26790_00",
+    "conceptId": 10012578,
+    "name": "\u7d05\u306e\u932c\u91d1\u8853\u58eb\u3068\u767d\u306e\u5b88\u8b77\u8005 \uff5e\u30ec\u30b9\u30ec\u30ea\u30a2\u30fc\u30ca\u306e\u30a2\u30c8\u30ea\u30a8\uff5e",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA26791_00",
+    "conceptId": 10012578,
+    "name": "Atelier Resleriana: The Red Alchemist & the White Guardian",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0106"
+  },
+  {
+    "titleId": "PPSA26792_00",
+    "conceptId": 10012578,
+    "name": "Atelier Resleriana: The Red Alchemist & the White Guardian",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4108"
   },
   {
     "titleId": "PPSA26793_00",
@@ -122963,7 +123019,7 @@
     "titleId": "PPSA27305_00",
     "conceptId": 10013351,
     "name": "Goosebumps: Terror in Little Creek",
-    "contentId": null,
+    "contentId": "UP0283-PPSA27305_00-0292206666815801",
     "region": "UP",
     "publisherId": "UP0283"
   },
@@ -123062,6 +123118,14 @@
     "contentId": "HP8462-PPSA27320_00-0255409493843820",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA27321_00",
+    "conceptId": 10013135,
+    "name": "Fear Effect",
+    "contentId": "UP6893-PPSA27321_00-0782432697317606",
+    "region": "UP",
+    "publisherId": "UP6893"
   },
   {
     "titleId": "PPSA27323_00",
@@ -126530,10 +126594,10 @@
   {
     "titleId": "PPSA28049_00",
     "conceptId": 10012778,
-    "name": "Lost Soul Aside\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lost Soul Aside\u2122: Official Soundtrack and Artbook",
+    "contentId": "HP9000-PPSA28049_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP9000"
   },
   {
     "titleId": "PPSA28051_00",
@@ -128338,10 +128402,10 @@
   {
     "titleId": "PPSA28468_00",
     "conceptId": 10008251,
-    "name": "SHINOBI: Art of Vengeance",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SHINOBI: Art of Vengeance - Digital Art Book and Original Soundtrack",
+    "contentId": "UP0177-PPSA28468_00-SHINOBIAOVASB001",
+    "region": "UP",
+    "publisherId": "UP0177"
   },
   {
     "titleId": "PPSA28469_00",
@@ -132880,6 +132944,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA29636_00",
+    "conceptId": 10011556,
+    "name": "Cronos: The New Dawn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29637_00",
     "conceptId": 10014873,
     "name": "Paper Plane",
@@ -132923,17 +132995,17 @@
     "titleId": "PPSA29654_00",
     "conceptId": 10014703,
     "name": "Carlos the Taco",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA29654_00-0881150564012952",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA29655_00",
     "conceptId": 10014703,
     "name": "Carlos the Taco",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA29655_00-0982542582826751",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA29656_00",
@@ -134538,34 +134610,34 @@
   {
     "titleId": "PPSA30080_00",
     "conceptId": 10015130,
-    "name": "The Jumping Orange 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Orange 2",
+    "contentId": "EP6664-PPSA30080_00-0031540453578308",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA30081_00",
     "conceptId": 10015130,
-    "name": "The Jumping Orange 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Orange 2",
+    "contentId": "UP6664-PPSA30081_00-0785487364863859",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA30082_00",
     "conceptId": 10015130,
-    "name": "The Jumping Orange 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Orange 2",
+    "contentId": "JP6595-PPSA30082_00-0687066283093191",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA30083_00",
     "conceptId": 10015130,
-    "name": "The Jumping Orange 2 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Orange 2",
+    "contentId": "HP6661-PPSA30083_00-0690705433477452",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA30088_00",
@@ -135248,6 +135320,14 @@
     "publisherId": "JP0177"
   },
   {
+    "titleId": "PPSA30249_00",
+    "conceptId": 10015233,
+    "name": "Lost Eidolons: Veil of the Witch",
+    "contentId": null,
+    "region": "UB",
+    "publisherId": "UB0445"
+  },
+  {
     "titleId": "PPSA30252_00",
     "conceptId": 10015207,
     "name": "The Trap Remake Winter",
@@ -135486,6 +135566,14 @@
     "contentId": "UP5085-PPSA30312_00-0483934587405263",
     "region": "UP",
     "publisherId": "UP5085"
+  },
+  {
+    "titleId": "PPSA30313_00",
+    "conceptId": 10011796,
+    "name": "The Outer Worlds 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30314_00",
@@ -136507,17 +136595,17 @@
     "titleId": "PPSA30521_00",
     "conceptId": 10015378,
     "name": "Heading Out",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2627-PPSA30521_00-HEADINGOUTPS5000",
+    "region": "EP",
+    "publisherId": "EP2627"
   },
   {
     "titleId": "PPSA30526_00",
     "conceptId": 10015378,
-    "name": "Heading Out",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Heading Out - Original Soundtrack",
+    "contentId": "EP2627-PPSA30526_00-HEADINGOUTOST000",
+    "region": "EP",
+    "publisherId": "EP2627"
   },
   {
     "titleId": "PPSA30530_00",
@@ -137275,17 +137363,17 @@
     "titleId": "PPSA30830_00",
     "conceptId": 10015559,
     "name": "Morning 333",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA30830_00-0489030261195797",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA30831_00",
     "conceptId": 10015559,
     "name": "Morning 333",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA30831_00-0182989980928536",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA30832_00",
@@ -138888,6 +138976,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31450_00",
+    "conceptId": 10015233,
+    "name": "Lost Eidolons: Veil of the Witch Demo",
+    "contentId": "UB0445-PPSA31450_00-0143427970094374",
+    "region": "UB",
+    "publisherId": "UB0445"
+  },
+  {
     "titleId": "PPSA31452_00",
     "conceptId": 10011055,
     "name": "Aquatic Life: Fish Simulator RPG",
@@ -140432,6 +140528,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA32184_00",
+    "conceptId": 10016356,
+    "name": "LoBlocks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32198_00",
     "conceptId": 10015691,
     "name": "Dr. Atominus",
@@ -140768,12 +140872,20 @@
     "publisherId": "JP7094"
   },
   {
+    "titleId": "PPSA32445_00",
+    "conceptId": 10016508,
+    "name": "Cat in Rain",
+    "contentId": "UP7126-PPSA32445_00-0989707317512831",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
     "titleId": "PPSA32446_00",
     "conceptId": 10016508,
     "name": "Cat in Rain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA32446_00-0003599862519321",
+    "region": "EP",
+    "publisherId": "EP7123"
   },
   {
     "titleId": "PPSA32447_00",
@@ -140931,6 +141043,22 @@
     "titleId": "PPSA32686_00",
     "conceptId": 10016615,
     "name": "Dark burial",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32848_00",
+    "conceptId": 10016700,
+    "name": "Crate Fang",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32850_00",
+    "conceptId": 10016700,
+    "name": "Crate Fang",
     "contentId": null,
     "region": null,
     "publisherId": null
