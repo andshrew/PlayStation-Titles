@@ -63059,7 +63059,7 @@
     "titleId": "PPSA14346_00",
     "conceptId": 10007610,
     "name": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226Y",
-    "contentId": null,
+    "contentId": "JP0700-PPSA14346_00-SUPERROBOTWARSY0",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -71680,12 +71680,28 @@
     "publisherId": "EP3678"
   },
   {
+    "titleId": "PPSA16496_00",
+    "conceptId": 10008389,
+    "name": "Battle Of Rebels",
+    "contentId": "EP4358-PPSA16496_00-BATTLEREBELSP5EU",
+    "region": "EP",
+    "publisherId": "EP4358"
+  },
+  {
     "titleId": "PPSA16503_00",
     "conceptId": 10008389,
     "name": "Battle Of Rebels",
     "contentId": "UP3515-PPSA16503_00-BATTLEREBELSP5US",
     "region": "UP",
     "publisherId": "UP3515"
+  },
+  {
+    "titleId": "PPSA16504_00",
+    "conceptId": 10008389,
+    "name": "Battle Of Rebels",
+    "contentId": "JP3555-PPSA16504_00-BATTLEREBELSP5JP",
+    "region": "JP",
+    "publisherId": "JP3555"
   },
   {
     "titleId": "PPSA16505_00",
@@ -75726,6 +75742,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA17322_00",
+    "conceptId": 10008744,
+    "name": "Tormented Souls 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA17327_00",
@@ -85514,8 +85538,8 @@
   {
     "titleId": "PPSA19461_00",
     "conceptId": 10008251,
-    "name": "SHINOBI: Art of Vengeance PS4 & PS5",
-    "contentId": null,
+    "name": "SHINOBI: Art of Vengeance",
+    "contentId": "UP0177-PPSA19461_00-SHINOBIAOV000001",
     "region": "UP",
     "publisherId": "UP0177"
   },
@@ -90230,6 +90254,14 @@
     "contentId": "EP2005-PPSA20431_00-ANOTHERWORLDMAHJ",
     "region": "EP",
     "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA20432_00",
+    "conceptId": 10009928,
+    "name": "Park Ranger Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA20434_00",
@@ -95566,6 +95598,14 @@
     "contentId": "UP3165-PPSA21615_00-SUMMERGACHAPS5US",
     "region": "UP",
     "publisherId": "UP3165"
+  },
+  {
+    "titleId": "PPSA21617_00",
+    "conceptId": 10010432,
+    "name": "SWORN",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4064"
   },
   {
     "titleId": "PPSA21619_00",
@@ -101411,9 +101451,9 @@
     "titleId": "PPSA22820_00",
     "conceptId": 10010894,
     "name": "Welcome to Basingstoke",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6555-PPSA22820_00-BASKINGSTOKEPS5G",
+    "region": "UP",
+    "publisherId": "UP6555"
   },
   {
     "titleId": "PPSA22821_00",
@@ -116214,6 +116254,14 @@
     "contentId": "EP4476-PPSA25868_00-REBELOIDVRFULLGM",
     "region": "EP",
     "publisherId": "EP4476"
+  },
+  {
+    "titleId": "PPSA25869_00",
+    "conceptId": 10012139,
+    "name": "Rebeloid VR",
+    "contentId": "UP2136-PPSA25869_00-REBELOIDVRFULLGM",
+    "region": "UP",
+    "publisherId": "UP2136"
   },
   {
     "titleId": "PPSA25871_00",
@@ -138368,6 +138416,14 @@
     "publisherId": "UB0383"
   },
   {
+    "titleId": "PPSA31229_00",
+    "conceptId": 10015770,
+    "name": "Bodycam Stray Kitty",
+    "contentId": "EB0963-PPSA31229_00-0526669848547956",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA31230_00",
     "conceptId": 10015772,
     "name": "Puppet Theater",
@@ -140531,9 +140587,9 @@
     "titleId": "PPSA32184_00",
     "conceptId": 10016356,
     "name": "LoBlocks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7931-PPSA32184_00-0074461407242261",
+    "region": "UP",
+    "publisherId": "UP7931"
   },
   {
     "titleId": "PPSA32198_00",
@@ -141056,7 +141112,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32849_00",
+    "conceptId": 10016700,
+    "name": "Crate Fang",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32850_00",
+    "conceptId": 10016700,
+    "name": "Crate Fang",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32851_00",
     "conceptId": 10016700,
     "name": "Crate Fang",
     "contentId": null,
