@@ -73944,6 +73944,14 @@
     "publisherId": "EP0182"
   },
   {
+    "titleId": "PPSA16936_00",
+    "conceptId": 10008588,
+    "name": "Baby Steps",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16937_00",
     "conceptId": 10008552,
     "name": "STAR WARS\u2122: Bounty Hunter\u2122",
@@ -118800,6 +118808,14 @@
     "publisherId": "HP0106"
   },
   {
+    "titleId": "PPSA26396_00",
+    "conceptId": 10012806,
+    "name": "Dora\u2122: Rainforest Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26399_00",
     "conceptId": 10012502,
     "name": "Santa's Spot It",
@@ -120187,17 +120203,25 @@
     "titleId": "PPSA26656_00",
     "conceptId": 10012988,
     "name": "Bad Cheese",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA26656_00-0516133686543011",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA26657_00",
     "conceptId": 10012988,
     "name": "Bad Cheese",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA26657_00-0843217213721983",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA26659_00",
+    "conceptId": 10012988,
+    "name": "Bad Cheese",
+    "contentId": "HP3473-PPSA26659_00-0102768586424962",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA26660_00",
@@ -122475,6 +122499,14 @@
     "titleId": "PPSA27185_00",
     "conceptId": 225700,
     "name": "Skull and Bones\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27188_00",
+    "conceptId": 10013289,
+    "name": "PAW Patrol\u2122 Rescue Wheels\u2122: Championship",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -132200,6 +132232,14 @@
     "publisherId": "HP8412"
   },
   {
+    "titleId": "PPSA29443_00",
+    "conceptId": 10014769,
+    "name": "Chicken Run: Eggstraction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29445_00",
     "conceptId": 10014772,
     "name": "Unboxing: Cozy Home Simulator",
@@ -135331,9 +135371,9 @@
     "titleId": "PPSA30239_00",
     "conceptId": 10015230,
     "name": "Nachtmahr",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1730-PPSA30239_00-0038004691580475",
+    "region": "UB",
+    "publisherId": "UB1730"
   },
   {
     "titleId": "PPSA30240_00",
@@ -136011,17 +136051,17 @@
     "titleId": "PPSA30404_00",
     "conceptId": 10015308,
     "name": "Mind Labyrinth VR Dreams",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6016-PPSA30404_00-0296501015797859",
+    "region": "EP",
+    "publisherId": "EP6016"
   },
   {
     "titleId": "PPSA30405_00",
     "conceptId": 10015308,
     "name": "Mind Labyrinth VR Dreams",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6016-PPSA30405_00-0179477302679041",
+    "region": "EP",
+    "publisherId": "EP6016"
   },
   {
     "titleId": "PPSA30407_00",
@@ -140040,6 +140080,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA31880_00",
+    "conceptId": 10016136,
+    "name": "The life of Buzludzha",
+    "contentId": "UP6699-PPSA31880_00-0654794855318379",
+    "region": "UP",
+    "publisherId": "UP6699"
+  },
+  {
     "titleId": "PPSA31883_00",
     "conceptId": 10016072,
     "name": "Workshop Simulator VR",
@@ -140872,6 +140920,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32326_00",
+    "conceptId": 10016440,
+    "name": "Claim The Forest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32332_00",
     "conceptId": 10016441,
     "name": "Nun of your Business",
@@ -140976,6 +141032,38 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA32448_00",
+    "conceptId": 10016511,
+    "name": "Snack and Quack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32449_00",
+    "conceptId": 10016511,
+    "name": "Snack and Quack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32450_00",
+    "conceptId": 10016511,
+    "name": "Snack and Quack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32451_00",
+    "conceptId": 10016511,
+    "name": "Snack and Quack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32452_00",
     "conceptId": 10016512,
     "name": "Dragon Snack",
@@ -141022,6 +141110,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32549_00",
+    "conceptId": 10016572,
+    "name": "Space KaBAAM: Neon IV",
+    "contentId": "HP7367-PPSA32549_00-0786593452125098",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA32550_00",
+    "conceptId": 10016572,
+    "name": "Space KaBAAM: Neon IV",
+    "contentId": "JP7323-PPSA32550_00-0608805188409404",
+    "region": "JP",
+    "publisherId": "JP7323"
   },
   {
     "titleId": "PPSA32551_00",
@@ -141099,17 +141203,17 @@
     "titleId": "PPSA32683_00",
     "conceptId": 10016615,
     "name": "Dark burial",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA32683_00-0828341636660305",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA32684_00",
     "conceptId": 10016615,
     "name": "Dark burial",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA32684_00-0337467204340125",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA32685_00",
@@ -141123,9 +141227,9 @@
     "titleId": "PPSA32686_00",
     "conceptId": 10016615,
     "name": "Dark burial",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA32686_00-0684088632539938",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA32848_00",
