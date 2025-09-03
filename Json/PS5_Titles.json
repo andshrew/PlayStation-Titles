@@ -56056,6 +56056,14 @@
     "publisherId": "EP3968"
   },
   {
+    "titleId": "PPSA12544_00",
+    "conceptId": 10005908,
+    "name": "Hollow Knight: Silksong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA12545_00",
     "conceptId": 10004876,
     "name": "Romancing SaGa -Minstrel Song- Remastered",
@@ -108187,9 +108195,9 @@
     "titleId": "PPSA24272_00",
     "conceptId": 10011647,
     "name": "Unleaving",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8573-PPSA24272_00-0769030164872023",
+    "region": "UP",
+    "publisherId": "UP8573"
   },
   {
     "titleId": "PPSA24274_00",
@@ -120216,6 +120224,14 @@
     "publisherId": "EP3385"
   },
   {
+    "titleId": "PPSA26658_00",
+    "conceptId": 10012988,
+    "name": "Bad Cheese",
+    "contentId": "JP3568-PPSA26658_00-0766386491739967",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
     "titleId": "PPSA26659_00",
     "conceptId": 10012988,
     "name": "Bad Cheese",
@@ -122166,6 +122182,14 @@
     "contentId": "HB1034-PPSA27121_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB1034"
+  },
+  {
+    "titleId": "PPSA27127_00",
+    "conceptId": 10004415,
+    "name": "Mythwrecked: Ambrosia Island",
+    "contentId": "UP5223-PPSA27127_00-MYTHWRECKEDPS5WW",
+    "region": "UP",
+    "publisherId": "UP5223"
   },
   {
     "titleId": "PPSA27128_00",
@@ -124926,6 +124950,14 @@
     "contentId": "EP5645-PPSA27690_00-333SMILYANGRY333",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA27691_00",
+    "conceptId": 10013594,
+    "name": "Notice Me Leena-senpai!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27694_00",
@@ -136600,12 +136632,28 @@
     "publisherId": "UB0851"
   },
   {
+    "titleId": "PPSA30502_00",
+    "conceptId": 10011097,
+    "name": "Daemon X Machina: Titanic Scion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30503_00",
     "conceptId": 10011043,
     "name": "Gigner : The Tooth Fairy",
     "contentId": "UB0851-PPSA30503_00-GINGER0PS5000000",
     "region": "UB",
     "publisherId": "UB0851"
+  },
+  {
+    "titleId": "PPSA30504_00",
+    "conceptId": 10011097,
+    "name": "Daemon X Machina: Titanic Scion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30505_00",
@@ -137600,6 +137648,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30853_00",
+    "conceptId": 10015573,
+    "name": "The Devil is in the Details",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30854_00",
     "conceptId": 10015575,
     "name": "Trial of Greed",
@@ -137747,25 +137803,25 @@
     "titleId": "PPSA30921_00",
     "conceptId": 10015620,
     "name": "Overpowered 1 - Mars Infestation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2005-PPSA30921_00-OP1MARSINFESTATN",
+    "region": "EP",
+    "publisherId": "EP2005"
   },
   {
     "titleId": "PPSA30922_00",
     "conceptId": 10015620,
     "name": "Overpowered 1 - Mars Infestation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA30922_00-OP1MARSINFESTATN",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA30926_00",
     "conceptId": 10015622,
     "name": "Hook: Complete Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA30926_00-ULGHOOKCEPS50001",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA30929_00",
@@ -139008,12 +139064,76 @@
     "publisherId": "UB1012"
   },
   {
+    "titleId": "PPSA31411_00",
+    "conceptId": 10015891,
+    "name": "Animal Kingdom 3",
+    "contentId": "EP1411-PPSA31411_00-0150710329933829",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31412_00",
+    "conceptId": 10015891,
+    "name": "Animal Kingdom 3",
+    "contentId": "EP1411-PPSA31412_00-0911405674476083",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31413_00",
+    "conceptId": 10015891,
+    "name": "Animal Kingdom 3",
+    "contentId": "EP1411-PPSA31413_00-0116033959840902",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31414_00",
+    "conceptId": 10015891,
+    "name": "Animal Kingdom 3",
+    "contentId": "EP1411-PPSA31414_00-0674694936353169",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA31415_00",
     "conceptId": 10015593,
     "name": "The Alpha Wolf",
     "contentId": "UB1029-PPSA31415_00-0124292197815761",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA31416_00",
+    "conceptId": 10015892,
+    "name": "The Harmony Chronicles: Cat Out of the Bag Collector's Edition",
+    "contentId": "EP1411-PPSA31416_00-0990782035760316",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31417_00",
+    "conceptId": 10015892,
+    "name": "The Harmony Chronicles: Cat Out of the Bag Collector's Edition",
+    "contentId": "EP1411-PPSA31417_00-0209283839271307",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31418_00",
+    "conceptId": 10015892,
+    "name": "The Harmony Chronicles: Cat Out of the Bag Collector's Edition",
+    "contentId": "EP1411-PPSA31418_00-0591615606463744",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31419_00",
+    "conceptId": 10015892,
+    "name": "The Harmony Chronicles: Cat Out of the Bag Collector's Edition",
+    "contentId": "EP1411-PPSA31419_00-0960843622745059",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA31430_00",
@@ -139320,12 +139440,20 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31515_00",
+    "conceptId": 10015448,
+    "name": "Moontales Picbook",
+    "contentId": "HP7967-PPSA31515_00-0030812858773955",
+    "region": "HP",
+    "publisherId": "HP7967"
+  },
+  {
     "titleId": "PPSA31516_00",
     "conceptId": 10015448,
     "name": "Moontales Picbook",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7938-PPSA31516_00-0428764912726143",
+    "region": "EP",
+    "publisherId": "EP7938"
   },
   {
     "titleId": "PPSA31525_00",
@@ -140022,6 +140150,14 @@
     "contentId": "EP2919-PPSA31799_00-0117654691753483",
     "region": "EP",
     "publisherId": "EP2919"
+  },
+  {
+    "titleId": "PPSA31814_00",
+    "conceptId": 10014090,
+    "name": "Let Them Come: Onslaught - Demo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31820_00",
@@ -140920,7 +141056,31 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32325_00",
+    "conceptId": 10016440,
+    "name": "Claim The Forest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32326_00",
+    "conceptId": 10016440,
+    "name": "Claim The Forest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32327_00",
+    "conceptId": 10016440,
+    "name": "Claim The Forest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32328_00",
     "conceptId": 10016440,
     "name": "Claim The Forest",
     "contentId": null,
@@ -141099,17 +141259,17 @@
     "titleId": "PPSA32547_00",
     "conceptId": 10016572,
     "name": "Space KaBAAM: Neon IV",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA32547_00-0874843213230520",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA32548_00",
     "conceptId": 10016572,
     "name": "Space KaBAAM: Neon IV",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA32548_00-0985023359931099",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA32549_00",
