@@ -70291,9 +70291,9 @@
     "titleId": "PPSA16211_00",
     "conceptId": 10008291,
     "name": "Metal Eden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4062-PPSA16211_00-METALEDENPS5SIEE",
+    "region": "EP",
+    "publisherId": "EP4062"
   },
   {
     "titleId": "PPSA16213_00",
@@ -74022,6 +74022,22 @@
     "contentId": "UP8650-PPSA16947_00-0186662604269082",
     "region": "UP",
     "publisherId": "UP8650"
+  },
+  {
+    "titleId": "PPSA16950_00",
+    "conceptId": 10008573,
+    "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a2 \u30ea\u30de\u30b9\u30bf\u30fc",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA16951_00",
+    "conceptId": 10008573,
+    "name": "Tales of Xillia Remastered",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA16954_00",
@@ -105136,6 +105152,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA23663_00",
+    "conceptId": 10011309,
+    "name": "Barbie\u2122 Horse Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23666_00",
     "conceptId": 10011313,
     "name": "The Line",
@@ -115056,6 +115080,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25598_00",
+    "conceptId": 10012288,
+    "name": "The Nameless City",
+    "contentId": "JP1932-PPSA25598_00-SYPS5THENAMELESS",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
     "titleId": "PPSA25604_00",
     "conceptId": 10012289,
     "name": "PAWS & CLEAN",
@@ -119400,6 +119432,14 @@
     "publisherId": "UB0585"
   },
   {
+    "titleId": "PPSA26501_00",
+    "conceptId": 10012875,
+    "name": "Hot Wheels Let's Race\u2122: Ultimate Speed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26503_00",
     "conceptId": 10012859,
     "name": "EA SPORTS FC\u2122 25 SHOWCASE",
@@ -121312,6 +121352,14 @@
     "publisherId": "JB0377"
   },
   {
+    "titleId": "PPSA26917_00",
+    "conceptId": 10004736,
+    "name": "Mandragora: Whispers of the Witch Tree",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26918_00",
     "conceptId": 10013100,
     "name": "Cazzarion: UFO Kidnapping",
@@ -121606,6 +121654,14 @@
     "contentId": "EP1875-PPSA26973_00-0952027929746716",
     "region": "EP",
     "publisherId": "EP1875"
+  },
+  {
+    "titleId": "PPSA26974_00",
+    "conceptId": 10013132,
+    "name": "Platypus Reclayed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26976_00",
@@ -129504,6 +129560,14 @@
     "publisherId": "UB1338"
   },
   {
+    "titleId": "PPSA28645_00",
+    "conceptId": 10014290,
+    "name": "King of Ping Pong: MEGAMIX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28646_00",
     "conceptId": 10014291,
     "name": "Age of Dead: Zombie Simulator",
@@ -131195,7 +131259,7 @@
     "titleId": "PPSA29173_00",
     "conceptId": 10014615,
     "name": "Hirogami",
-    "contentId": null,
+    "contentId": "HP3620-PPSA29173_00-HIROGAMI00000000",
     "region": "HP",
     "publisherId": "HP3620"
   },
@@ -132971,9 +133035,9 @@
     "titleId": "PPSA29610_00",
     "conceptId": 10014860,
     "name": "Yatzi 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA29610_00-KNIFFELYAT2PS5WW",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA29613_00",
@@ -133752,6 +133816,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29771_00",
+    "conceptId": 10014896,
+    "name": "Candylands Journey",
+    "contentId": "JP1932-PPSA29771_00-SYPS5CANDYLANDSJ",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA29772_00",
+    "conceptId": 10014896,
+    "name": "Candylands Journey",
+    "contentId": "HP1792-PPSA29772_00-SYPS5CANDYLANDSJ",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA29783_00",
     "conceptId": 10014587,
     "name": "Hatsune Miku Logic Paint S+",
@@ -134198,6 +134278,14 @@
     "contentId": "HP0918-PPSA29898_00-0045579274010126",
     "region": "HP",
     "publisherId": "HP0918"
+  },
+  {
+    "titleId": "PPSA29899_00",
+    "conceptId": 10015029,
+    "name": "Hidden Cats in Tokyo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29900_00",
@@ -135134,6 +135222,14 @@
     "contentId": "UB0008-PPSA30160_00-0618744920275885",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA30161_00",
+    "conceptId": 10008588,
+    "name": "Baby Steps",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30170_00",
@@ -137000,12 +137096,20 @@
     "publisherId": "EP8062"
   },
   {
+    "titleId": "PPSA30592_00",
+    "conceptId": 10015409,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30de\u30c3\u30cf\u30d6\u30ec\u30a4\u30ab\u30fc\u30ba",
+    "contentId": "JP0571-PPSA30592_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA30596_00",
     "conceptId": 10015410,
     "name": "DETECTIVE - Scene Crime",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA30596_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA30597_00",
@@ -137046,6 +137150,38 @@
     "contentId": "UB0714-PPSA30616_00-0895634267245936",
     "region": "UB",
     "publisherId": "UB0714"
+  },
+  {
+    "titleId": "PPSA30623_00",
+    "conceptId": 10015428,
+    "name": "The Flying Jet",
+    "contentId": "UB0487-PPSA30623_00-0252888652381343",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30624_00",
+    "conceptId": 10015428,
+    "name": "The Flying Jet",
+    "contentId": "UB0487-PPSA30624_00-0327291258315960",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30625_00",
+    "conceptId": 10015428,
+    "name": "The Flying Jet",
+    "contentId": "UB0487-PPSA30625_00-0323841589527770",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA30626_00",
+    "conceptId": 10015428,
+    "name": "The Flying Jet",
+    "contentId": "UB0487-PPSA30626_00-0770121320244354",
+    "region": "UB",
+    "publisherId": "UB0487"
   },
   {
     "titleId": "PPSA30637_00",
@@ -137459,9 +137595,9 @@
     "titleId": "PPSA30814_00",
     "conceptId": 10015542,
     "name": "Jotunnslayer: Hordes of Hel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4632-PPSA30814_00-JOTUNNSLAYERHOH0",
+    "region": "EP",
+    "publisherId": "EP4632"
   },
   {
     "titleId": "PPSA30817_00",
@@ -137795,9 +137931,9 @@
     "titleId": "PPSA30920_00",
     "conceptId": 10015620,
     "name": "Overpowered 1 - Mars Infestation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA30920_00-OP1MARSINFESTATN",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA30921_00",
@@ -137830,6 +137966,14 @@
     "contentId": "UP2005-PPSA30929_00-CORESYSGAME00000",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA30930_00",
+    "conceptId": 10015615,
+    "name": "Becastled",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30931_00",
@@ -138062,6 +138206,38 @@
     "contentId": "UP7668-PPSA31069_00-0124559079645770",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31076_00",
+    "conceptId": 10015674,
+    "name": "CAPTURED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31077_00",
+    "conceptId": 10015674,
+    "name": "CAPTURED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31078_00",
+    "conceptId": 10015674,
+    "name": "CAPTURED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31079_00",
+    "conceptId": 10015674,
+    "name": "CAPTURED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31084_00",
@@ -139456,6 +139632,14 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA31517_00",
+    "conceptId": 10015448,
+    "name": "Moontales Picbook",
+    "contentId": "UP7940-PPSA31517_00-0670488429262144",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
     "titleId": "PPSA31525_00",
     "conceptId": 10015948,
     "name": "Galacticon",
@@ -139761,6 +139945,14 @@
   },
   {
     "titleId": "PPSA31640_00",
+    "conceptId": 10016040,
+    "name": "Monkey Lost",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31641_00",
     "conceptId": 10016040,
     "name": "Monkey Lost",
     "contentId": null,
@@ -140227,9 +140419,9 @@
     "titleId": "PPSA31883_00",
     "conceptId": 10016072,
     "name": "Workshop Simulator VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4904-PPSA31883_00-0553501447247812",
+    "region": "EP",
+    "publisherId": "EP4904"
   },
   {
     "titleId": "PPSA31886_00",
@@ -140360,6 +140552,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA31924_00",
+    "conceptId": 10014706,
+    "name": "Chickenhare and the treasure of Spiking-beard",
+    "contentId": null,
+    "region": "HB",
+    "publisherId": "HB1589"
+  },
+  {
     "titleId": "PPSA31928_00",
     "conceptId": 10016220,
     "name": "To Farm Lands",
@@ -140430,6 +140630,14 @@
     "contentId": "HP7141-PPSA31959_00-0737691343477522",
     "region": "HP",
     "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA31984_00",
+    "conceptId": 10013771,
+    "name": "\u9b54\u6cd5\u53f8\u66f8\u30a2\u30ea\u30a2\u30ca \uff5e\u4e03\u82f1\u5091\u306e\u66f8\uff5e DEMO\u7248",
+    "contentId": "JP0031-PPSA31984_00-MLARIANANSDEM000",
+    "region": "JP",
+    "publisherId": "JP0031"
   },
   {
     "titleId": "PPSA31986_00",
@@ -140904,6 +141112,14 @@
     "publisherId": "EP5133"
   },
   {
+    "titleId": "PPSA32233_00",
+    "conceptId": 10016380,
+    "name": "Journey of a Special Average Balloon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32241_00",
     "conceptId": 10015410,
     "name": "DETECTIVE - Scene Crime",
@@ -141227,33 +141443,33 @@
     "titleId": "PPSA32452_00",
     "conceptId": 10016512,
     "name": "Dragon Snack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA32452_00-0587179990870952",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA32453_00",
     "conceptId": 10016512,
     "name": "Dragon Snack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA32453_00-0591662338816788",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA32454_00",
     "conceptId": 10016512,
     "name": "Dragon Snack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA32454_00-0458459796393755",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA32455_00",
     "conceptId": 10016512,
     "name": "Dragon Snack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA32455_00-0221600306229904",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA32547_00",
