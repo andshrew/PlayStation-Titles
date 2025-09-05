@@ -41498,8 +41498,8 @@
   {
     "titleId": "PPSA09259_00",
     "conceptId": 10005051,
-    "name": "Hell is Us",
-    "contentId": null,
+    "name": "Hell Is Us",
+    "contentId": "EP6665-PPSA09259_00-HIU0000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -66776,6 +66776,14 @@
     "publisherId": "EP3862"
   },
   {
+    "titleId": "PPSA15555_00",
+    "conceptId": 10008051,
+    "name": "Friends vs Friends",
+    "contentId": "UP2320-PPSA15555_00-FRIENDSVSFRIENDS",
+    "region": "UP",
+    "publisherId": "UP2320"
+  },
+  {
     "titleId": "PPSA15557_00",
     "conceptId": 10006321,
     "name": "MIDNIGHT Remastered",
@@ -73952,6 +73960,14 @@
     "publisherId": "EP0182"
   },
   {
+    "titleId": "PPSA16935_00",
+    "conceptId": 10008588,
+    "name": "Baby Steps",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16936_00",
     "conceptId": 10008588,
     "name": "Baby Steps",
@@ -74038,6 +74054,14 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA16952_00",
+    "conceptId": 10008573,
+    "name": "Tales of Xillia Remastered",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA16954_00",
@@ -88984,6 +89008,14 @@
     "publisherId": "UB0488"
   },
   {
+    "titleId": "PPSA20160_00",
+    "conceptId": 10009771,
+    "name": "HYKE:Northern Light(s)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20164_00",
     "conceptId": 10009203,
     "name": "\u91ce\u72d7\u5b50: Slitterhead",
@@ -101918,6 +101950,14 @@
     "contentId": "EB0966-PPSA22922_00-0065016477339309",
     "region": "EB",
     "publisherId": "EB0966"
+  },
+  {
+    "titleId": "PPSA22924_00",
+    "conceptId": 10008528,
+    "name": "Bye Sweet Carole",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22925_00",
@@ -115067,9 +115107,9 @@
     "titleId": "PPSA25596_00",
     "conceptId": 10012288,
     "name": "The Nameless City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA25596_00-SYPS5THENAMELESS",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA25597_00",
@@ -115086,6 +115126,14 @@
     "contentId": "JP1932-PPSA25598_00-SYPS5THENAMELESS",
     "region": "JP",
     "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA25599_00",
+    "conceptId": 10012288,
+    "name": "The Nameless City",
+    "contentId": "HP1792-PPSA25599_00-SYPS5THENAMELESS",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA25604_00",
@@ -117539,23 +117587,23 @@
     "titleId": "PPSA26143_00",
     "conceptId": 10012639,
     "name": "\u307f\u3093\u306a\u306eGOLF WORLD",
-    "contentId": null,
+    "contentId": "JP0700-PPSA26143_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA26144_00",
     "conceptId": 10012639,
-    "name": "EVERYBODY'S GOLF HOT SHOTS",
-    "contentId": null,
+    "name": "\u5168\u6c11\u9ad8\u723e\u592b \u74b0\u7403\u4e4b\u65c5",
+    "contentId": "HP0700-PPSA26144_00-MAINGAME00000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA26145_00",
     "conceptId": 10012639,
-    "name": "EVERYBODY'S GOLF HOT SHOTS",
-    "contentId": null,
+    "name": "EVERYBODY'S GOLF: Hot Shots",
+    "contentId": "EP0700-PPSA26145_00-MAINGAME00000000",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -120624,6 +120672,14 @@
     "publisherId": "UP7939"
   },
   {
+    "titleId": "PPSA26767_00",
+    "conceptId": 10012700,
+    "name": "Deadzone: Rogue",
+    "contentId": "UP6094-PPSA26767_00-0001535859972007",
+    "region": "UP",
+    "publisherId": "UP6094"
+  },
+  {
     "titleId": "PPSA26768_00",
     "conceptId": 10013027,
     "name": "Leo & Mia: Animal Rescue",
@@ -121083,9 +121139,9 @@
     "titleId": "PPSA26854_00",
     "conceptId": 10004736,
     "name": "Mandragora: Whispers of the Witch Tree",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5134-PPSA26854_00-MANDRAPS50000002",
+    "region": "JP",
+    "publisherId": "JP5134"
   },
   {
     "titleId": "PPSA26856_00",
@@ -121355,9 +121411,9 @@
     "titleId": "PPSA26917_00",
     "conceptId": 10004736,
     "name": "Mandragora: Whispers of the Witch Tree",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8260-PPSA26917_00-MANDRAPS50000003",
+    "region": "HP",
+    "publisherId": "HP8260"
   },
   {
     "titleId": "PPSA26918_00",
@@ -122840,6 +122896,14 @@
     "publisherId": "EP8070"
   },
   {
+    "titleId": "PPSA27242_00",
+    "conceptId": 10013321,
+    "name": "TAXI DRIVER SIMULATOR",
+    "contentId": "UB0859-PPSA27242_00-0491432968340855",
+    "region": "UB",
+    "publisherId": "UB0859"
+  },
+  {
     "titleId": "PPSA27243_00",
     "conceptId": 10013323,
     "name": "Grand Taxi Auto - GTA",
@@ -123496,6 +123560,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27358_00",
+    "conceptId": 10011998,
+    "name": "Extinction Rifts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27359_00",
     "conceptId": 10012814,
     "name": "Accolade Sports Collection (QUByte Classics)",
@@ -124030,6 +124102,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27496_00",
+    "conceptId": 10013431,
+    "name": "Sky of Destruction",
+    "contentId": "JP1932-PPSA27496_00-SYPS5SKYOFDESTRU",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA27498_00",
@@ -125187,9 +125267,9 @@
     "titleId": "PPSA27719_00",
     "conceptId": 10013618,
     "name": "Psycho Dream",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA27719_00-PSYCHODREAMRATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA27721_00",
@@ -125422,6 +125502,14 @@
     "contentId": "EP0546-PPSA27768_00-DEEPNIGHTMARE5EU",
     "region": "EP",
     "publisherId": "EP0546"
+  },
+  {
+    "titleId": "PPSA27770_00",
+    "conceptId": 10013653,
+    "name": "Baseless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27773_00",
@@ -125802,18 +125890,18 @@
   {
     "titleId": "PPSA27827_00",
     "conceptId": 10013703,
-    "name": "DUCKSIDE (Early Access)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DUCKSIDE",
+    "contentId": "UP0097-PPSA27827_00-DUCKSIDEGAME0000",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA27828_00",
     "conceptId": 10013703,
-    "name": "DUCKSIDE (Early Access)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DUCKSIDE",
+    "contentId": "UP0097-PPSA27828_00-DUCKSIDEGAME0000",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA27829_00",
@@ -127155,9 +127243,9 @@
     "titleId": "PPSA28139_00",
     "conceptId": 10012129,
     "name": "Above Snakes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8203-PPSA28139_00-0744845811170905",
+    "region": "UP",
+    "publisherId": "UP8203"
   },
   {
     "titleId": "PPSA28140_00",
@@ -128466,10 +128554,10 @@
   {
     "titleId": "PPSA28407_00",
     "conceptId": 10005051,
-    "name": "Hell is Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hell is Us - Art Pack",
+    "contentId": "EP6665-PPSA28407_00-HIU00GOODIES0000",
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA28412_00",
@@ -128506,8 +128594,8 @@
   {
     "titleId": "PPSA28420_00",
     "conceptId": 10014149,
-    "name": "NBA 2K26 for PS5\u00ae",
-    "contentId": null,
+    "name": "NBA 2K26",
+    "contentId": "UP1001-PPSA28420_00-NBA2K26000000000",
     "region": "UP",
     "publisherId": "UP1001"
   },
@@ -128803,9 +128891,9 @@
     "titleId": "PPSA28509_00",
     "conceptId": 10014205,
     "name": "Void Crew",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4133-PPSA28509_00-VOIDCREWGAME0000",
+    "region": "EP",
+    "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA28510_00",
@@ -132736,6 +132824,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29535_00",
+    "conceptId": 10014832,
+    "name": "Aaero 2: Black Razor Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29536_00",
     "conceptId": 10005866,
     "name": "D LASER",
@@ -133226,10 +133322,10 @@
   {
     "titleId": "PPSA29658_00",
     "conceptId": 10007890,
-    "name": "SULFUR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SULFUR Demo",
+    "contentId": "EP8774-PPSA29658_00-0718248558769948",
+    "region": "EP",
+    "publisherId": "EP8774"
   },
   {
     "titleId": "PPSA29663_00",
@@ -133803,17 +133899,17 @@
     "titleId": "PPSA29769_00",
     "conceptId": 10014896,
     "name": "Candylands Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA29769_00-SYPS5CANDYLANDSJ",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA29770_00",
     "conceptId": 10014896,
     "name": "Candylands Journey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA29770_00-SYPS5CANDYLANDSJ",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA29771_00",
@@ -134355,9 +134451,9 @@
     "titleId": "PPSA29925_00",
     "conceptId": 10015051,
     "name": "Chocolate Factory Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA29925_00-0497717946263508",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA29926_00",
@@ -135960,6 +136056,14 @@
     "publisherId": "JP7843"
   },
   {
+    "titleId": "PPSA30341_00",
+    "conceptId": 10015268,
+    "name": "Puzzle Plowing A Field",
+    "contentId": "UB0008-PPSA30341_00-0200988527120730",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA30349_00",
     "conceptId": 10015275,
     "name": "Horse Dash",
@@ -136378,10 +136482,10 @@
   {
     "titleId": "PPSA30433_00",
     "conceptId": 10011097,
-    "name": "Daemon X Machina: Titanic Scion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DAEMON X MACHINA TITANIC SCION DIGITAL ART BOOK & SOUNDTRACK",
+    "contentId": "JP0507-PPSA30433_00-DXMDCV0000000000",
+    "region": "JP",
+    "publisherId": "JP0507"
   },
   {
     "titleId": "PPSA30434_00",
@@ -136730,10 +136834,10 @@
   {
     "titleId": "PPSA30502_00",
     "conceptId": 10011097,
-    "name": "Daemon X Machina: Titanic Scion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Daemon X Machina: Titanic Scion Digital Art Book & Soundtrack",
+    "contentId": "EP4492-PPSA30502_00-DXMDCV0000000000",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA30503_00",
@@ -137115,9 +137219,9 @@
     "titleId": "PPSA30597_00",
     "conceptId": 10015410,
     "name": "DETECTIVE - Scene Crime",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA30597_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA30604_00",
@@ -137534,6 +137638,14 @@
     "contentId": "UB0752-PPSA30739_00-0943948899908578",
     "region": "UB",
     "publisherId": "UB0752"
+  },
+  {
+    "titleId": "PPSA30746_00",
+    "conceptId": 10015498,
+    "name": "Arisen Force: LifeDevotee",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30754_00",
@@ -138006,6 +138118,14 @@
     "contentId": "HB1316-PPSA30944_00-0502122127345786",
     "region": "HB",
     "publisherId": "HB1316"
+  },
+  {
+    "titleId": "PPSA30948_00",
+    "conceptId": 10015630,
+    "name": "Zumba - Treasure of the Marble Sea",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30951_00",
@@ -139499,33 +139619,33 @@
     "titleId": "PPSA31485_00",
     "conceptId": 10015930,
     "name": "Zombie Lockdown Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA31485_00-0861016450656493",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA31486_00",
     "conceptId": 10015930,
     "name": "Zombie Lockdown Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA31486_00-0286576659747959",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA31487_00",
     "conceptId": 10015930,
     "name": "Zombie Lockdown Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA31487_00-0230760482936722",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA31488_00",
     "conceptId": 10015930,
     "name": "Zombie Lockdown Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA31488_00-0318093192135739",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA31489_00",
@@ -139686,6 +139806,14 @@
     "contentId": "EP0896-PPSA31542_00-SF3RARATALAGAMES",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA31545_00",
+    "conceptId": 10015962,
+    "name": "Dragon Ruins",
+    "contentId": "JP0013-PPSA31545_00-JP0DRUINS0000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA31546_00",
@@ -140728,6 +140856,14 @@
     "publisherId": "JB1853"
   },
   {
+    "titleId": "PPSA32005_00",
+    "conceptId": 10015414,
+    "name": "POLICE BORDER CONTRABAND PATROL SIMULATOR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32007_00",
     "conceptId": 10016262,
     "name": "Pixicharm - Spikoin",
@@ -141120,12 +141256,20 @@
     "publisherId": null
   },
   {
-    "titleId": "PPSA32241_00",
-    "conceptId": 10015410,
-    "name": "DETECTIVE - Scene Crime",
+    "titleId": "PPSA32234_00",
+    "conceptId": 10016380,
+    "name": "Journey of a Special Average Balloon",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32241_00",
+    "conceptId": 10015410,
+    "name": "DETECTIVE - Scene Crime",
+    "contentId": "JP0078-PPSA32241_00-DETECTIVESCENECR",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA32245_00",
@@ -141243,33 +141387,33 @@
     "titleId": "PPSA32321_00",
     "conceptId": 10016438,
     "name": "Tidy Toys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA32321_00-0623864923416207",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA32322_00",
     "conceptId": 10016438,
     "name": "Tidy Toys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA32322_00-0447514281723811",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA32323_00",
     "conceptId": 10016438,
     "name": "Tidy Toys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA32323_00-0702980901865546",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA32324_00",
     "conceptId": 10016438,
     "name": "Tidy Toys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA32324_00-0038092507218263",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA32325_00",
@@ -141315,9 +141459,9 @@
     "titleId": "PPSA32345_00",
     "conceptId": 10016449,
     "name": "The Kangaroo Conspiracy DX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0382-PPSA32345_00-0657485782059272",
+    "region": "UB",
+    "publisherId": "UB0382"
   },
   {
     "titleId": "PPSA32404_00",
@@ -141470,6 +141614,14 @@
     "contentId": "HP8462-PPSA32455_00-0221600306229904",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA32515_00",
+    "conceptId": 10016539,
+    "name": "Sniper Rescue",
+    "contentId": "UB0337-PPSA32515_00-0658513866967690",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA32547_00",
