@@ -74064,6 +74064,14 @@
     "publisherId": "EP0700"
   },
   {
+    "titleId": "PPSA16953_00",
+    "conceptId": 10008573,
+    "name": "Tales of Xillia Remastered",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA16954_00",
     "conceptId": 10008590,
     "name": "\u63a2\u3057\u3082\u306e\u306f\u3001\u590f\u3067\u3059\u304b\u3002",
@@ -103162,8 +103170,8 @@
   {
     "titleId": "PPSA23253_00",
     "conceptId": 10011097,
-    "name": "DAEMON X MACHINA TITANIC SCION  \u30c7\u30e2\u30f3\u30a8\u30af\u30b9\u30de\u30ad\u30ca \u30bf\u30a4\u30bf\u30cb\u30c3\u30af\u30b5\u30a4\u30aa\u30f3",
-    "contentId": null,
+    "name": "DAEMON X MACHINA TITANIC SCION",
+    "contentId": "JP0507-PPSA23253_00-DXMTITANICSCION0",
     "region": "JP",
     "publisherId": "JP0507"
   },
@@ -107379,7 +107387,7 @@
     "titleId": "PPSA24096_00",
     "conceptId": 10011556,
     "name": "Cronos: The New Dawn",
-    "contentId": null,
+    "contentId": "EP4176-PPSA24096_00-TITAN00000000000",
     "region": "EP",
     "publisherId": "EP4176"
   },
@@ -111552,6 +111560,14 @@
     "publisherId": "HP0036"
   },
   {
+    "titleId": "PPSA24921_00",
+    "conceptId": 10011956,
+    "name": "\u9280\u661f\u56f2\u7881 AI\u306a\u3089\u3053\u3046\u6253\u3064",
+    "contentId": "JP0239-PPSA24921_00-0926670477743235",
+    "region": "JP",
+    "publisherId": "JP0239"
+  },
+  {
     "titleId": "PPSA24922_00",
     "conceptId": 10009904,
     "name": "Shadow of the Ninja - Reborn DEMO",
@@ -114976,6 +114992,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA25574_00",
+    "conceptId": 10011998,
+    "name": "Extinction Rifts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25576_00",
     "conceptId": 10012223,
     "name": "Find Room 96",
@@ -115115,9 +115139,9 @@
     "titleId": "PPSA25597_00",
     "conceptId": 10012288,
     "name": "The Nameless City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA25597_00-SYPS5THENAMELESS",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA25598_00",
@@ -117610,8 +117634,8 @@
   {
     "titleId": "PPSA26146_00",
     "conceptId": 10012639,
-    "name": "EVERYBODY'S GOLF HOT SHOTS",
-    "contentId": null,
+    "name": "EVERYBODY'S GOLF: Hot Shots",
+    "contentId": "UP0700-PPSA26146_00-MAINGAME00000000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -124091,17 +124115,17 @@
     "titleId": "PPSA27494_00",
     "conceptId": 10013431,
     "name": "Sky of Destruction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA27494_00-SYPS5SKYOFDESTRU",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA27495_00",
     "conceptId": 10013431,
     "name": "Sky of Destruction",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA27495_00-SYPS5SKYOFDESTRU",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA27496_00",
@@ -124110,6 +124134,14 @@
     "contentId": "JP1932-PPSA27496_00-SYPS5SKYOFDESTRU",
     "region": "JP",
     "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA27497_00",
+    "conceptId": 10013431,
+    "name": "Sky of Destruction",
+    "contentId": "HP1792-PPSA27497_00-SYPS5SKYOFDESTRU",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA27498_00",
@@ -131243,7 +131275,7 @@
     "titleId": "PPSA29136_00",
     "conceptId": 10011097,
     "name": "Daemon X Machina: Titanic Scion",
-    "contentId": null,
+    "contentId": "EP4492-PPSA29136_00-DXMTITANICSCION0",
     "region": "EP",
     "publisherId": "EP4492"
   },
@@ -131315,7 +131347,7 @@
     "titleId": "PPSA29154_00",
     "conceptId": 10011097,
     "name": "Daemon X Machina: Titanic Scion",
-    "contentId": null,
+    "contentId": "UP1023-PPSA29154_00-DXMTITANICSCION0",
     "region": "UP",
     "publisherId": "UP1023"
   },
@@ -133242,10 +133274,10 @@
   {
     "titleId": "PPSA29636_00",
     "conceptId": 10011556,
-    "name": "Cronos: The New Dawn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Soundtrack and The Art of Cronos: The New Dawn",
+    "contentId": "EP4176-PPSA29636_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP4176"
   },
   {
     "titleId": "PPSA29637_00",
@@ -136850,10 +136882,10 @@
   {
     "titleId": "PPSA30504_00",
     "conceptId": 10011097,
-    "name": "Daemon X Machina: Titanic Scion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Daemon X Machina: Titanic Scion Digital Art Book & Soundtrack",
+    "contentId": "UP1023-PPSA30504_00-DXMDCV0000000000",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA30505_00",
@@ -137795,17 +137827,17 @@
     "titleId": "PPSA30834_00",
     "conceptId": 10015560,
     "name": "When the bell goes silent",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA30834_00-0036441785093581",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA30835_00",
     "conceptId": 10015560,
     "name": "When the bell goes silent",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA30835_00-0478383981303401",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA30836_00",
@@ -138123,9 +138155,9 @@
     "titleId": "PPSA30948_00",
     "conceptId": 10015630,
     "name": "Zumba - Treasure of the Marble Sea",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6556-PPSA30948_00-0694206053792308",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA30951_00",
@@ -139824,6 +139856,14 @@
     "publisherId": "UB1015"
   },
   {
+    "titleId": "PPSA31559_00",
+    "conceptId": 10015975,
+    "name": "Surviving Mars: Pioneer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31562_00",
     "conceptId": 10011744,
     "name": "MONJUM",
@@ -140859,9 +140899,9 @@
     "titleId": "PPSA32005_00",
     "conceptId": 10015414,
     "name": "POLICE BORDER CONTRABAND PATROL SIMULATOR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1025-PPSA32005_00-0459369439202095",
+    "region": "UB",
+    "publisherId": "UB1025"
   },
   {
     "titleId": "PPSA32007_00",
@@ -141728,6 +141768,22 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA32605_00",
+    "conceptId": 10003477,
+    "name": "The Chase: Cop Pursuit",
+    "contentId": "JP7279-PPSA32605_00-0728004082039822",
+    "region": "JP",
+    "publisherId": "JP7279"
+  },
+  {
+    "titleId": "PPSA32606_00",
+    "conceptId": 10003477,
+    "name": "The Chase: Cop Pursuit",
+    "contentId": "HP7325-PPSA32606_00-0300782423913760",
+    "region": "HP",
+    "publisherId": "HP7325"
+  },
+  {
     "titleId": "PPSA32683_00",
     "conceptId": 10016615,
     "name": "Dark burial",
@@ -141790,5 +141846,13 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32884_00",
+    "conceptId": 10016720,
+    "name": "Cats vs Dogs",
+    "contentId": "UP7552-PPSA32884_00-0791757608823162",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
