@@ -114992,6 +114992,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA25573_00",
+    "conceptId": 10011998,
+    "name": "Extinction Rifts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25574_00",
     "conceptId": 10011998,
     "name": "Extinction Rifts",
@@ -130040,6 +130048,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA28775_00",
+    "conceptId": 10001633,
+    "name": "WE WERE HERE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28777_00",
     "conceptId": 10012700,
     "name": "Deadzone: Rogue Demo",
@@ -139840,6 +139856,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA31543_00",
+    "conceptId": 10009704,
+    "name": "Cladun X3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31545_00",
     "conceptId": 10015962,
     "name": "Dragon Ruins",
@@ -141784,6 +141808,30 @@
     "publisherId": "HP7325"
   },
   {
+    "titleId": "PPSA32659_00",
+    "conceptId": 10016248,
+    "name": "Garden Catcher",
+    "contentId": "HP5361-PPSA32659_00-000GARDENCATCHER",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32661_00",
+    "conceptId": 10016248,
+    "name": "Garden Catcher",
+    "contentId": "EP5645-PPSA32661_00-000GARDENCATCHER",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32662_00",
+    "conceptId": 10016248,
+    "name": "Garden Catcher",
+    "contentId": "JP5299-PPSA32662_00-000GARDENCATCHER",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
     "titleId": "PPSA32683_00",
     "conceptId": 10016615,
     "name": "Dark burial",
@@ -141852,6 +141900,14 @@
     "conceptId": 10016720,
     "name": "Cats vs Dogs",
     "contentId": "UP7552-PPSA32884_00-0791757608823162",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA32898_00",
+    "conceptId": 10016731,
+    "name": "Maxi Trucks Racing",
+    "contentId": "UP7552-PPSA32898_00-0056959016119848",
     "region": "UP",
     "publisherId": "UP7552"
   }
