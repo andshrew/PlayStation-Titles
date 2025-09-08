@@ -66784,6 +66784,14 @@
     "publisherId": "UP2320"
   },
   {
+    "titleId": "PPSA15556_00",
+    "conceptId": 10008051,
+    "name": "Friends vs Friends",
+    "contentId": "EP2187-PPSA15556_00-FRIENDSVSFRIENDS",
+    "region": "EP",
+    "publisherId": "EP2187"
+  },
+  {
     "titleId": "PPSA15557_00",
     "conceptId": 10006321,
     "name": "MIDNIGHT Remastered",
@@ -103091,7 +103099,7 @@
     "titleId": "PPSA23240_00",
     "conceptId": 10011094,
     "name": "Adventure of Samsara",
-    "contentId": null,
+    "contentId": "UP0182-PPSA23240_00-SAMSARA000007770",
     "region": "UP",
     "publisherId": "UP0182"
   },
@@ -137744,6 +137752,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30779_00",
+    "conceptId": 10015516,
+    "name": "Cat Needs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30804_00",
     "conceptId": 10015534,
     "name": "Battle Mythic Maidens Arena",
@@ -141816,6 +141832,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32660_00",
+    "conceptId": 10016248,
+    "name": "Garden Catcher",
+    "contentId": "UP5464-PPSA32660_00-000GARDENCATCHER",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA32661_00",
     "conceptId": 10016248,
     "name": "Garden Catcher",
@@ -141864,6 +141888,38 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA32687_00",
+    "conceptId": 10016386,
+    "name": "Portal Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32689_00",
+    "conceptId": 10016386,
+    "name": "Portal Shooter",
+    "contentId": "EP5645-PPSA32689_00-000PORTALSHOOTER",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32828_00",
+    "conceptId": 10016701,
+    "name": "Magnitude: Sigma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32829_00",
+    "conceptId": 10016701,
+    "name": "Magnitude: Sigma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32848_00",
     "conceptId": 10016700,
     "name": "Crate Fang",
@@ -141875,9 +141931,9 @@
     "titleId": "PPSA32849_00",
     "conceptId": 10016700,
     "name": "Crate Fang",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA32849_00-0807042616375925",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA32850_00",
@@ -141910,5 +141966,37 @@
     "contentId": "UP7552-PPSA32898_00-0056959016119848",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA33138_00",
+    "conceptId": 10016795,
+    "name": "Calyssa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33139_00",
+    "conceptId": 10016795,
+    "name": "Calyssa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33140_00",
+    "conceptId": 10016795,
+    "name": "Calyssa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33141_00",
+    "conceptId": 10016795,
+    "name": "Calyssa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
