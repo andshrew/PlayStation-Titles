@@ -126802,10 +126802,10 @@
   {
     "titleId": "PPSA28021_00",
     "conceptId": 10013869,
-    "name": "Bubsy in: The Purrfect Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bubsy In: The Purrfect Collection",
+    "contentId": "UP0182-PPSA28021_00-BUBSYPURRFECTPS5",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA28022_00",
@@ -136824,6 +136824,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30490_00",
+    "conceptId": 10015356,
+    "name": "Asterix & Obelix - Mission Babylon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30491_00",
     "conceptId": 10015357,
     "name": "Republic of Pirates",
@@ -137755,6 +137763,14 @@
     "titleId": "PPSA30779_00",
     "conceptId": 10015516,
     "name": "Cat Needs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30798_00",
+    "conceptId": 10015522,
+    "name": "Judero",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -139155,6 +139171,14 @@
     "titleId": "PPSA31326_00",
     "conceptId": 10008540,
     "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31331_00",
+    "conceptId": 10008744,
+    "name": "Tormented Souls 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -140592,6 +140616,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA31850_00",
+    "conceptId": 10016181,
+    "name": "Blue notebook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31853_00",
     "conceptId": 10016182,
     "name": "Kawaii Puzzle Quest 2",
@@ -141891,9 +141923,17 @@
     "titleId": "PPSA32687_00",
     "conceptId": 10016386,
     "name": "Portal Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5361-PPSA32687_00-000PORTALSHOOTER",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32688_00",
+    "conceptId": 10016386,
+    "name": "Portal Shooter",
+    "contentId": "UP5464-PPSA32688_00-000PORTALSHOOTER",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32689_00",
@@ -141902,6 +141942,14 @@
     "contentId": "EP5645-PPSA32689_00-000PORTALSHOOTER",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32690_00",
+    "conceptId": 10016386,
+    "name": "Portal Shooter",
+    "contentId": "JP5299-PPSA32690_00-000PORTALSHOOTER",
+    "region": "JP",
+    "publisherId": "JP5299"
   },
   {
     "titleId": "PPSA32828_00",
@@ -141923,9 +141971,9 @@
     "titleId": "PPSA32848_00",
     "conceptId": 10016700,
     "name": "Crate Fang",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA32848_00-0976193524756165",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA32849_00",
@@ -141939,17 +141987,17 @@
     "titleId": "PPSA32850_00",
     "conceptId": 10016700,
     "name": "Crate Fang",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA32850_00-0151931894204271",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA32851_00",
     "conceptId": 10016700,
     "name": "Crate Fang",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA32851_00-0625486188002249",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA32884_00",
