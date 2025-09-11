@@ -23355,9 +23355,9 @@
     "titleId": "PPSA06080_00",
     "conceptId": 10004254,
     "name": "The Knightling",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3582-PPSA06080_00-THEKNIGHTLING000",
+    "region": "EP",
+    "publisherId": "EP3582"
   },
   {
     "titleId": "PPSA06081_00",
@@ -56067,9 +56067,9 @@
     "titleId": "PPSA12544_00",
     "conceptId": 10005908,
     "name": "Hollow Knight: Silksong",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1805-PPSA12544_00-HKSILKSONGPS5000",
+    "region": "EP",
+    "publisherId": "EP1805"
   },
   {
     "titleId": "PPSA12545_00",
@@ -64619,7 +64619,7 @@
     "titleId": "PPSA15091_00",
     "conceptId": 10007867,
     "name": "Fling to the Finish",
-    "contentId": null,
+    "contentId": "UP1440-PPSA15091_00-0308235903040097",
     "region": "UP",
     "publisherId": "UP1440"
   },
@@ -76379,7 +76379,7 @@
     "titleId": "PPSA17456_00",
     "conceptId": 10008409,
     "name": "Firefighting Simulator: Ignite",
-    "contentId": null,
+    "contentId": "EP2430-PPSA17456_00-0206793519245545",
     "region": "EP",
     "publisherId": "EP2430"
   },
@@ -105304,6 +105304,14 @@
     "publisherId": "HP7354"
   },
   {
+    "titleId": "PPSA23679_00",
+    "conceptId": 10011319,
+    "name": "Bounty Star",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23683_00",
     "conceptId": 10011321,
     "name": "Mindscapes VR",
@@ -116656,6 +116664,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25915_00",
+    "conceptId": 10011861,
+    "name": "Digimon Story Time Stranger Demo",
+    "contentId": "HP0700-PPSA25915_00-DSTS0DEMO0000000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA25916_00",
+    "conceptId": 10011861,
+    "name": "Digimon Story Time Stranger Demo",
+    "contentId": "EP0700-PPSA25916_00-DSTS0DEMO0000000",
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
     "titleId": "PPSA25918_00",
     "conceptId": 10009135,
     "name": "Exhausted Man Demo",
@@ -120110,6 +120134,14 @@
     "contentId": "EP2363-PPSA26612_00-EU0ALVASTIA00PS5",
     "region": "EP",
     "publisherId": "EP2363"
+  },
+  {
+    "titleId": "PPSA26613_00",
+    "conceptId": 10011890,
+    "name": "Beat Hazard Arcade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26615_00",
@@ -126920,6 +126952,14 @@
     "publisherId": "JB1412"
   },
   {
+    "titleId": "PPSA28046_00",
+    "conceptId": 10010043,
+    "name": "Mamorukun ReCurse!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28047_00",
     "conceptId": 10010043,
     "name": "Mamorukun ReCurse!",
@@ -126984,6 +127024,14 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA28061_00",
+    "conceptId": 10013897,
+    "name": "Earthion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28063_00",
     "conceptId": 10013899,
     "name": "Dead Reset",
@@ -126994,10 +127042,10 @@
   {
     "titleId": "PPSA28064_00",
     "conceptId": 10013899,
-    "name": "Dead Reset",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dead Reset Demo",
+    "contentId": "EP4459-PPSA28064_00-DEADRESETPS5DEMO",
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA28065_00",
@@ -127022,6 +127070,14 @@
     "contentId": "HP3536-PPSA28067_00-XXXXXXXXXXXXXXXX",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA28068_00",
+    "conceptId": 10013904,
+    "name": "Mortal Kombat: Legacy Kollection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28069_00",
@@ -130182,6 +130238,14 @@
     "contentId": "UP8767-PPSA28802_00-0311460923657489",
     "region": "UP",
     "publisherId": "UP8767"
+  },
+  {
+    "titleId": "PPSA28803_00",
+    "conceptId": 10014336,
+    "name": "Odania Sports Arena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28812_00",
@@ -134483,9 +134547,9 @@
     "titleId": "PPSA29900_00",
     "conceptId": 10015030,
     "name": "9 Lives to Defend",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA29900_00-0288567162902057",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA29904_00",
@@ -138456,6 +138520,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31073_00",
+    "conceptId": 10015319,
+    "name": "ShapeHero Factory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31076_00",
     "conceptId": 10015674,
     "name": "CAPTURED",
@@ -140008,6 +140080,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA31566_00",
+    "conceptId": 10015976,
+    "name": "Arcade Archives 2 VIDEO HUSTLER",
+    "contentId": "JP0571-PPSA31566_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA31567_00",
     "conceptId": 10015977,
     "name": "Fruit Collector: Beach edition",
@@ -140096,20 +140176,28 @@
     "publisherId": "JP7323"
   },
   {
-    "titleId": "PPSA31613_00",
-    "conceptId": 10016029,
-    "name": "Trasmoz Legends",
+    "titleId": "PPSA31606_00",
+    "conceptId": 10015887,
+    "name": "TVer/\u6c11\u653e\u516c\u5f0f\u30c6\u30ec\u30d3\u914d\u4fe1\u30b5\u30fc\u30d3\u30b9",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
+    "titleId": "PPSA31613_00",
+    "conceptId": 10016029,
+    "name": "Trasmoz Legends",
+    "contentId": "UP3252-PPSA31613_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
+  },
+  {
     "titleId": "PPSA31614_00",
     "conceptId": 10016029,
     "name": "Trasmoz Legends",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA31614_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA31615_00",
@@ -140227,9 +140315,9 @@
     "titleId": "PPSA31640_00",
     "conceptId": 10016040,
     "name": "Monkey Lost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31640_00-MONKEYLOST0000EU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31641_00",
@@ -140560,6 +140648,14 @@
     "publisherId": "UB0706"
   },
   {
+    "titleId": "PPSA31770_00",
+    "conceptId": 10016019,
+    "name": "POLICE OFFICERS SIMULATOR",
+    "contentId": "UB1720-PPSA31770_00-0583599703298904",
+    "region": "UB",
+    "publisherId": "UB1720"
+  },
+  {
     "titleId": "PPSA31773_00",
     "conceptId": 10016136,
     "name": "The life of Buzludzha",
@@ -140626,10 +140722,10 @@
   {
     "titleId": "PPSA31814_00",
     "conceptId": 10014090,
-    "name": "Let Them Come: Onslaught - Demo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Let Them Come: Onslaught Demo",
+    "contentId": "HB1034-PPSA31814_00-0023936831834707",
+    "region": "HB",
+    "publisherId": "HB1034"
   },
   {
     "titleId": "PPSA31820_00",
@@ -141603,9 +141699,9 @@
     "titleId": "PPSA32326_00",
     "conceptId": 10016440,
     "name": "Claim The Forest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA32326_00-0791393163335543",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA32327_00",
@@ -141638,6 +141734,14 @@
     "contentId": "UB0382-PPSA32345_00-0657485782059272",
     "region": "UB",
     "publisherId": "UB0382"
+  },
+  {
+    "titleId": "PPSA32350_00",
+    "conceptId": 10016452,
+    "name": "Pixicharm - Blaster Orbit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32404_00",
@@ -141920,6 +142024,14 @@
     "publisherId": "HP7325"
   },
   {
+    "titleId": "PPSA32613_00",
+    "conceptId": 10016607,
+    "name": "Goat Out Of Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32618_00",
     "conceptId": 10016609,
     "name": "Sokomine",
@@ -142048,6 +142160,22 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA32715_00",
+    "conceptId": 10013349,
+    "name": "IntegriFIx",
+    "contentId": "UP7940-PPSA32715_00-0815122597593091",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA32716_00",
+    "conceptId": 10013349,
+    "name": "IntegriFIx",
+    "contentId": "JP7921-PPSA32716_00-0860926472186745",
+    "region": "JP",
+    "publisherId": "JP7921"
+  },
+  {
     "titleId": "PPSA32828_00",
     "conceptId": 10016701,
     "name": "Magnitude: Sigma",
@@ -142115,33 +142243,33 @@
     "titleId": "PPSA32975_00",
     "conceptId": 10016756,
     "name": "Block Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA32975_00-0341935438526975",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA32976_00",
     "conceptId": 10016756,
     "name": "Block Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA32976_00-0958156387394053",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA32977_00",
     "conceptId": 10016756,
     "name": "Block Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA32977_00-0177178355912163",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA32978_00",
     "conceptId": 10016756,
     "name": "Block Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA32978_00-0133813806424810",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA33057_00",
