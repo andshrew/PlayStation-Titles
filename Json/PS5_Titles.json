@@ -116664,6 +116664,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25914_00",
+    "conceptId": 10011861,
+    "name": "\u30c7\u30b8\u30e2\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc \u30bf\u30a4\u30e0\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc \u4f53\u9a13\u7248",
+    "contentId": "JP0700-PPSA25914_00-DSTS0DEMO0000000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA25915_00",
     "conceptId": 10011861,
     "name": "Digimon Story Time Stranger Demo",
@@ -116678,6 +116686,14 @@
     "contentId": "EP0700-PPSA25916_00-DSTS0DEMO0000000",
     "region": "EP",
     "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA25917_00",
+    "conceptId": 10011861,
+    "name": "Digimon Story Time Stranger Demo",
+    "contentId": "UP0700-PPSA25917_00-DSTS0DEMO0000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA25918_00",
@@ -125624,6 +125640,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA27775_00",
+    "conceptId": 10013666,
+    "name": "Castle of Heart: Retold",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27776_00",
     "conceptId": 10013667,
     "name": "Shopping Fever",
@@ -126712,6 +126736,14 @@
     "publisherId": "JP1970"
   },
   {
+    "titleId": "PPSA27992_00",
+    "conceptId": 10013349,
+    "name": "IntegriFIx",
+    "contentId": "UP7940-PPSA27992_00-0175171708717590",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
     "titleId": "PPSA27993_00",
     "conceptId": 10013846,
     "name": "FOMOGRAPHY",
@@ -127035,9 +127067,9 @@
     "titleId": "PPSA28063_00",
     "conceptId": 10013899,
     "name": "Dead Reset",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4459-PPSA28063_00-DEADRESETPS5GAME",
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA28064_00",
@@ -127867,9 +127899,9 @@
     "titleId": "PPSA28252_00",
     "conceptId": 10014032,
     "name": "Monstrous Lovers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28252_00-MONSTROUSLOVERRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28253_00",
@@ -130024,6 +130056,14 @@
     "publisherId": "UP4713"
   },
   {
+    "titleId": "PPSA28715_00",
+    "conceptId": 10014327,
+    "name": "Anime Warriors Clash",
+    "contentId": "UB0768-PPSA28715_00-0428318430377855",
+    "region": "UB",
+    "publisherId": "UB0768"
+  },
+  {
     "titleId": "PPSA28716_00",
     "conceptId": 10014328,
     "name": "Supermarket Anime Collector's Simulator",
@@ -130518,6 +130558,22 @@
     "contentId": "EB0805-PPSA28890_00-0473107129073931",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA28893_00",
+    "conceptId": 10014444,
+    "name": "Grief like a stray dog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28894_00",
+    "conceptId": 10014444,
+    "name": "Grief like a stray dog",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28905_00",
@@ -132120,6 +132176,14 @@
     "publisherId": "EP6681"
   },
   {
+    "titleId": "PPSA29318_00",
+    "conceptId": 10014697,
+    "name": "Puzzle Quest: Immortal Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29322_00",
     "conceptId": 10000578,
     "name": "Do Not Feed the Monkeys",
@@ -132262,6 +132326,22 @@
     "contentId": "EP5265-PPSA29359_00-0017348506477054",
     "region": "EP",
     "publisherId": "EP5265"
+  },
+  {
+    "titleId": "PPSA29372_00",
+    "conceptId": 10014697,
+    "name": "Puzzle Quest: Immortal Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29373_00",
+    "conceptId": 10014697,
+    "name": "Puzzle Quest: Immortal Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29375_00",
@@ -135680,6 +135760,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA30212_00",
+    "conceptId": 10015211,
+    "name": "Pixel Head Soccer",
+    "contentId": "UB0008-PPSA30212_00-0180725542636277",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA30213_00",
     "conceptId": 10015212,
     "name": "Castle Heroes",
@@ -136331,9 +136419,9 @@
     "titleId": "PPSA30376_00",
     "conceptId": 10015287,
     "name": "Gloomy Eyes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6978-PPSA30376_00-XXXXXXGLOOMYEYES",
+    "region": "HP",
+    "publisherId": "HP6978"
   },
   {
     "titleId": "PPSA30379_00",
@@ -138091,9 +138179,9 @@
     "titleId": "PPSA30853_00",
     "conceptId": 10015573,
     "name": "The Devil is in the Details",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB1734-PPSA30853_00-0731245943397786",
+    "region": "JB",
+    "publisherId": "JB1734"
   },
   {
     "titleId": "PPSA30854_00",
@@ -138520,6 +138608,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31071_00",
+    "conceptId": 10015667,
+    "name": "Ballista Wall Defense Rush",
+    "contentId": "UP7668-PPSA31071_00-0256965445249751",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31073_00",
     "conceptId": 10015319,
     "name": "ShapeHero Factory",
@@ -138547,17 +138643,17 @@
     "titleId": "PPSA31078_00",
     "conceptId": 10015674,
     "name": "CAPTURED",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3631-PPSA31078_00-0007533225551610",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA31079_00",
     "conceptId": 10015674,
     "name": "CAPTURED",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA31079_00-0719203042057651",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA31084_00",
@@ -140296,6 +140392,30 @@
     "publisherId": "JP0078"
   },
   {
+    "titleId": "PPSA31635_00",
+    "conceptId": 10016039,
+    "name": "Oh, Canada!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31636_00",
+    "conceptId": 10016039,
+    "name": "Oh, Canada!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31637_00",
+    "conceptId": 10016039,
+    "name": "Oh, Canada!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31638_00",
     "conceptId": 10016039,
     "name": "Oh, Canada!",
@@ -140307,9 +140427,9 @@
     "titleId": "PPSA31639_00",
     "conceptId": 10016040,
     "name": "Monkey Lost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31639_00-MONKEYLOST0000NA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31640_00",
@@ -140323,17 +140443,17 @@
     "titleId": "PPSA31641_00",
     "conceptId": 10016040,
     "name": "Monkey Lost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31641_00-MONKEYLOST0000JP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31642_00",
     "conceptId": 10016040,
     "name": "Monkey Lost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31642_00-MONKEYLOST0000AS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31647_00",
@@ -140350,6 +140470,14 @@
     "contentId": "EB0963-PPSA31654_00-0289833302968193",
     "region": "EB",
     "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA31656_00",
+    "conceptId": 10011786,
+    "name": "POOLS Demo",
+    "contentId": "UB0992-PPSA31656_00-0717648679093335",
+    "region": "UB",
+    "publisherId": "UB0992"
   },
   {
     "titleId": "PPSA31661_00",
@@ -140608,6 +140736,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31748_00",
+    "conceptId": 10016120,
+    "name": "Hell Is Other Demons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31759_00",
     "conceptId": 10014541,
     "name": "Robot Warzone Tactical Assault",
@@ -140782,6 +140918,14 @@
     "contentId": "UP2136-PPSA31854_00-0685582483741336",
     "region": "UP",
     "publisherId": "UP2136"
+  },
+  {
+    "titleId": "PPSA31866_00",
+    "conceptId": 10016039,
+    "name": "Oh, Canada!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31879_00",
@@ -141198,6 +141342,38 @@
     "contentId": "HB0674-PPSA32021_00-0543285384353079",
     "region": "HB",
     "publisherId": "HB0674"
+  },
+  {
+    "titleId": "PPSA32040_00",
+    "conceptId": 10016278,
+    "name": "Glint's Trial",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32041_00",
+    "conceptId": 10016278,
+    "name": "Glint's Trial",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32042_00",
+    "conceptId": 10016278,
+    "name": "Glint's Trial",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32043_00",
+    "conceptId": 10016278,
+    "name": "Glint's Trial",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32064_00",
@@ -141691,9 +141867,9 @@
     "titleId": "PPSA32325_00",
     "conceptId": 10016440,
     "name": "Claim The Forest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA32325_00-0672445942530094",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA32326_00",
@@ -141707,17 +141883,17 @@
     "titleId": "PPSA32327_00",
     "conceptId": 10016440,
     "name": "Claim The Forest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA32327_00-0937523516470588",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA32328_00",
     "conceptId": 10016440,
     "name": "Claim The Forest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA32328_00-0478622406384839",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA32332_00",
@@ -141739,9 +141915,9 @@
     "titleId": "PPSA32350_00",
     "conceptId": 10016452,
     "name": "Pixicharm - Blaster Orbit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA32350_00-BLASTERORBITGAME",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA32404_00",
@@ -141904,6 +142080,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA32516_00",
+    "conceptId": 10016540,
+    "name": "Crazy Bus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32547_00",
     "conceptId": 10016572,
     "name": "Space KaBAAM: Neon IV",
@@ -141942,6 +142126,30 @@
     "contentId": "UB1029-PPSA32551_00-0745122114407899",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA32563_00",
+    "conceptId": 10016586,
+    "name": "Kitten Island 2",
+    "contentId": "JP7094-PPSA32563_00-0543704872392604",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA32564_00",
+    "conceptId": 10016586,
+    "name": "Kitten Island 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32566_00",
+    "conceptId": 10016586,
+    "name": "Kitten Island 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32595_00",
@@ -142022,6 +142230,30 @@
     "contentId": "HP7325-PPSA32606_00-0300782423913760",
     "region": "HP",
     "publisherId": "HP7325"
+  },
+  {
+    "titleId": "PPSA32610_00",
+    "conceptId": 10016607,
+    "name": "Goat Out Of Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32611_00",
+    "conceptId": 10016607,
+    "name": "Goat Out Of Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32612_00",
+    "conceptId": 10016607,
+    "name": "Goat Out Of Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32613_00",
@@ -142190,6 +142422,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32830_00",
+    "conceptId": 10016701,
+    "name": "Magnitude: Sigma",
+    "contentId": "HP7367-PPSA32830_00-0768925355557736",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA32831_00",
+    "conceptId": 10016701,
+    "name": "Magnitude: Sigma",
+    "contentId": "JP7323-PPSA32831_00-0841280496119976",
+    "region": "JP",
+    "publisherId": "JP7323"
   },
   {
     "titleId": "PPSA32848_00",
