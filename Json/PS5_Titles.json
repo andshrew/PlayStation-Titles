@@ -77544,6 +77544,14 @@
     "publisherId": "UP5468"
   },
   {
+    "titleId": "PPSA17730_00",
+    "conceptId": 10008842,
+    "name": "DRAGON QUEST VII Reimagined",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA17732_00",
     "conceptId": 10008902,
     "name": "The Precinct",
@@ -78478,6 +78486,22 @@
     "contentId": "HP8005-PPSA17940_00-0118136921017879",
     "region": "HP",
     "publisherId": "HP8005"
+  },
+  {
+    "titleId": "PPSA17941_00",
+    "conceptId": 10008842,
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8VII Reimagined",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA17943_00",
+    "conceptId": 10008842,
+    "name": "DRAGON QUEST VII Reimagined",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA17948_00",
@@ -122026,10 +122050,10 @@
   {
     "titleId": "PPSA27035_00",
     "conceptId": 10013175,
-    "name": "Inspector Waffles: Early Days",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Inspector Waffles Early Days",
+    "contentId": "EP5098-PPSA27035_00-0969250826173318",
+    "region": "EP",
+    "publisherId": "EP5098"
   },
   {
     "titleId": "PPSA27038_00",
@@ -124619,9 +124643,9 @@
     "titleId": "PPSA27577_00",
     "conceptId": 10013495,
     "name": "Baki Hanma: Blood Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0946-PPSA27577_00-BAKIHANMAGAMEPS5",
+    "region": "UB",
+    "publisherId": "UB0946"
   },
   {
     "titleId": "PPSA27578_00",
@@ -130283,9 +130307,9 @@
     "titleId": "PPSA28803_00",
     "conceptId": 10014336,
     "name": "Odania Sports Arena",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1389-PPSA28803_00-0851019657934624",
+    "region": "EB",
+    "publisherId": "EB1389"
   },
   {
     "titleId": "PPSA28812_00",
@@ -136024,6 +136048,14 @@
     "publisherId": "EP8208"
   },
   {
+    "titleId": "PPSA30288_00",
+    "conceptId": 10015246,
+    "name": "Ambidextro",
+    "contentId": "EB0310-PPSA30288_00-AMBIDEXTRO000000",
+    "region": "EB",
+    "publisherId": "EB0310"
+  },
+  {
     "titleId": "PPSA30289_00",
     "conceptId": 10015231,
     "name": "The Flying Ship",
@@ -137906,10 +137938,10 @@
   {
     "titleId": "PPSA30746_00",
     "conceptId": 10015498,
-    "name": "Arisen Force: LifeDevotee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Arisen Force: Life Devotee",
+    "contentId": "HB1358-PPSA30746_00-20250717084359XX",
+    "region": "HB",
+    "publisherId": "HB1358"
   },
   {
     "titleId": "PPSA30754_00",
@@ -137963,6 +137995,14 @@
     "titleId": "PPSA30779_00",
     "conceptId": 10015516,
     "name": "Cat Needs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30797_00",
+    "conceptId": 10015528,
+    "name": "Kaku - Ancient Seal",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -138304,6 +138344,22 @@
     "publisherId": "UP4312"
   },
   {
+    "titleId": "PPSA30910_00",
+    "conceptId": 10015572,
+    "name": "Gemz Burst",
+    "contentId": "JP0089-PPSA30910_00-0316804060932166",
+    "region": "JP",
+    "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA30911_00",
+    "conceptId": 10015572,
+    "name": "Gemz Burst",
+    "contentId": "HP4312-PPSA30911_00-0182039265418922",
+    "region": "HP",
+    "publisherId": "HP4312"
+  },
+  {
     "titleId": "PPSA30915_00",
     "conceptId": 10013657,
     "name": "Cat Girl Survivor",
@@ -138608,6 +138664,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31070_00",
+    "conceptId": 10015667,
+    "name": "Ballista Wall Defense Rush",
+    "contentId": "UP7668-PPSA31070_00-0377027793623932",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31071_00",
     "conceptId": 10015667,
     "name": "Ballista Wall Defense Rush",
@@ -138627,17 +138691,17 @@
     "titleId": "PPSA31076_00",
     "conceptId": 10015674,
     "name": "CAPTURED",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA31076_00-0366451571862459",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA31077_00",
     "conceptId": 10015674,
     "name": "CAPTURED",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA31077_00-0045811453490343",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA31078_00",
@@ -140138,10 +140202,10 @@
   {
     "titleId": "PPSA31559_00",
     "conceptId": 10015975,
-    "name": "Surviving Mars: Pioneer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Surviving Mars Pioneer",
+    "contentId": "EB1267-PPSA31559_00-0000000000000000",
+    "region": "EB",
+    "publisherId": "EB1267"
   },
   {
     "titleId": "PPSA31562_00",
@@ -140896,12 +140960,20 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA31849_00",
+    "conceptId": 10016181,
+    "name": "Blue notebook",
+    "contentId": "UP7335-PPSA31849_00-0008832610460015",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA31850_00",
     "conceptId": 10016181,
     "name": "Blue notebook",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA31850_00-0414990556506380",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA31853_00",
@@ -140998,6 +141070,22 @@
     "contentId": "HB0876-PPSA31892_00-0384909078359455",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA31899_00",
+    "conceptId": 10016207,
+    "name": "Rocket Spin Orbit Glide",
+    "contentId": "UP7668-PPSA31899_00-0409747897514921",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31900_00",
+    "conceptId": 10016207,
+    "name": "Rocket Spin Orbit Glide",
+    "contentId": "UP7668-PPSA31900_00-0156004603392012",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA31907_00",
@@ -142083,9 +142171,9 @@
     "titleId": "PPSA32516_00",
     "conceptId": 10016540,
     "name": "Crazy Bus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0337-PPSA32516_00-0989162811487009",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA32547_00",
@@ -142139,17 +142227,25 @@
     "titleId": "PPSA32564_00",
     "conceptId": 10016586,
     "name": "Kitten Island 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA32564_00-0340391743860694",
+    "region": "EP",
+    "publisherId": "EP7123"
+  },
+  {
+    "titleId": "PPSA32565_00",
+    "conceptId": 10016586,
+    "name": "Kitten Island 2",
+    "contentId": "UP7126-PPSA32565_00-0292122554581183",
+    "region": "UP",
+    "publisherId": "UP7126"
   },
   {
     "titleId": "PPSA32566_00",
     "conceptId": 10016586,
     "name": "Kitten Island 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7141-PPSA32566_00-0681042153372346",
+    "region": "HP",
+    "publisherId": "HP7141"
   },
   {
     "titleId": "PPSA32595_00",
@@ -142411,17 +142507,17 @@
     "titleId": "PPSA32828_00",
     "conceptId": 10016701,
     "name": "Magnitude: Sigma",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA32828_00-0934384741082494",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA32829_00",
     "conceptId": 10016701,
     "name": "Magnitude: Sigma",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA32829_00-0904339631638618",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA32830_00",
