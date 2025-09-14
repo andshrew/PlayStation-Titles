@@ -78496,6 +78496,14 @@
     "publisherId": "JP0082"
   },
   {
+    "titleId": "PPSA17942_00",
+    "conceptId": 10008842,
+    "name": "DRAGON QUEST VII Reimagined",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
     "titleId": "PPSA17943_00",
     "conceptId": 10008842,
     "name": "DRAGON QUEST VII Reimagined",
@@ -93707,9 +93715,9 @@
     "titleId": "PPSA21173_00",
     "conceptId": 10010247,
     "name": "Bratz\u00ae Rhythm & Style",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3824-PPSA21173_00-BRATZ2GAME000000",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA21174_00",
@@ -120850,8 +120858,8 @@
   {
     "titleId": "PPSA26785_00",
     "conceptId": 10012851,
-    "name": "NHL\u00ae 26 Standard Edition PS5",
-    "contentId": null,
+    "name": "NHL 26",
+    "contentId": "UP0006-PPSA26785_00-NHLPS5HOCKEY2026",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -132526,6 +132534,14 @@
     "contentId": "UB0111-PPSA29412_00-0291541096823522",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA29413_00",
+    "conceptId": 10014752,
+    "name": "Wobbly Life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29416_00",
