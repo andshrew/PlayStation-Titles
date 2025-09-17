@@ -63322,10 +63322,10 @@
   {
     "titleId": "PPSA14393_00",
     "conceptId": 10007638,
-    "name": "DRAGON BALL GEKISHIN SQUADRA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30b2\u30ad\u30b7\u30f3 \u30b9\u30af\u30a2\u30c9\u30e9",
+    "contentId": "JP0700-PPSA14393_00-MAINGAME00000000",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA14394_00",
@@ -64014,6 +64014,22 @@
     "contentId": "EP2822-PPSA14655_00-HAROLDHALIBUT000",
     "region": "EP",
     "publisherId": "EP2822"
+  },
+  {
+    "titleId": "PPSA14656_00",
+    "conceptId": 10002917,
+    "name": "PixelJunk Eden 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA14659_00",
+    "conceptId": 10002917,
+    "name": "PixelJunk Eden 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA14661_00",
@@ -103552,6 +103568,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23319_00",
+    "conceptId": 10011133,
+    "name": "MOUTHOLE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23324_00",
     "conceptId": 10011135,
     "name": "Billy's Game Show",
@@ -118192,6 +118216,14 @@
     "publisherId": "UP2680"
   },
   {
+    "titleId": "PPSA26226_00",
+    "conceptId": 10012698,
+    "name": "Legacy of Kain: Defiance",
+    "contentId": "UP8489-PPSA26226_00-SLUS207730000000",
+    "region": "UP",
+    "publisherId": "UP8489"
+  },
+  {
     "titleId": "PPSA26229_00",
     "conceptId": 10012701,
     "name": "\u30de\u30b9\u30bf\u30fc\u30aa\u30d6\u30e2\u30f3\u30b9\u30bf\u30fc\u30baSSB",
@@ -118635,9 +118667,9 @@
     "titleId": "PPSA26304_00",
     "conceptId": 10012728,
     "name": "ZOE Begone!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6477-PPSA26304_00-0840017002833156",
+    "region": "HP",
+    "publisherId": "HP6477"
   },
   {
     "titleId": "PPSA26311_00",
@@ -122731,9 +122763,9 @@
     "titleId": "PPSA27177_00",
     "conceptId": 10013281,
     "name": "Henry Halfhead",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8329-PPSA27177_00-0307669613955527",
+    "region": "UP",
+    "publisherId": "UP8329"
   },
   {
     "titleId": "PPSA27178_00",
@@ -127146,10 +127178,10 @@
   {
     "titleId": "PPSA28068_00",
     "conceptId": 10013904,
-    "name": "Mortal Kombat: Legacy Kollection",
+    "name": "Mortal Kombat: Legacy Kollection PS4 & PS5",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP7818"
   },
   {
     "titleId": "PPSA28069_00",
@@ -129874,10 +129906,10 @@
   {
     "titleId": "PPSA28645_00",
     "conceptId": 10014290,
-    "name": "King of Ping Pong: MEGAMIX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ping Pong: MEGAMIX",
+    "contentId": "UP2005-PPSA28645_00-PINGPONGMEGAMIX0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28646_00",
@@ -131278,6 +131310,30 @@
     "contentId": "UB0837-PPSA29055_00-0101561673954854",
     "region": "UB",
     "publisherId": "UB0837"
+  },
+  {
+    "titleId": "PPSA29056_00",
+    "conceptId": 10003713,
+    "name": "Little Nightmares III",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29058_00",
+    "conceptId": 10003713,
+    "name": "Little Nightmares III - Demo",
+    "contentId": "HP5028-PPSA29058_00-LITTLENIGHTS3DEM",
+    "region": "HP",
+    "publisherId": "HP5028"
+  },
+  {
+    "titleId": "PPSA29059_00",
+    "conceptId": 10003713,
+    "name": "\u30ea\u30c8\u30eb\u30ca\u30a4\u30c8\u30e1\u30a23 - \u4f53\u9a13\u7248",
+    "contentId": "JP0700-PPSA29059_00-LITTLENIGHTS3DEM",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA29063_00",
@@ -134104,6 +134160,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA29729_00",
+    "conceptId": 10014926,
+    "name": "Super Mining Mechs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29734_00",
     "conceptId": 10014933,
     "name": "Clash of Weirdos - Card Carnage",
@@ -134358,6 +134422,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP0006"
+  },
+  {
+    "titleId": "PPSA29805_00",
+    "conceptId": 10014149,
+    "name": "NBA 2K26",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29812_00",
@@ -139032,6 +139104,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31153_00",
+    "conceptId": 10013897,
+    "name": "Earthion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31168_00",
     "conceptId": 10015732,
     "name": "Astro Surge",
@@ -139459,17 +139539,17 @@
     "titleId": "PPSA31268_00",
     "conceptId": 10015786,
     "name": "TRALALERO TRALALA Slot Machine Casino Heaven",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31268_00-TRALALASLOTSHVNA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31269_00",
     "conceptId": 10015786,
     "name": "TRALALERO TRALALA Slot Machine Casino Heaven",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31269_00-TRALALASLOTSHVEU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31272_00",
@@ -140888,6 +140968,14 @@
     "publisherId": "EP6665"
   },
   {
+    "titleId": "PPSA31732_00",
+    "conceptId": 10016107,
+    "name": "Kotenok",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31743_00",
     "conceptId": 10012778,
     "name": "Lost Soul Aside Demo",
@@ -141464,6 +141552,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32000_00",
+    "conceptId": 10016257,
+    "name": "Ball in the hole!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32002_00",
+    "conceptId": 10016257,
+    "name": "Ball in the hole!",
+    "contentId": "HB1069-PPSA32002_00-0013260145875774",
+    "region": "HB",
+    "publisherId": "HB1069"
+  },
+  {
     "titleId": "PPSA32004_00",
     "conceptId": 10016189,
     "name": "Zip's Jumping Adventure",
@@ -141896,6 +142000,54 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA32216_00",
+    "conceptId": 10009740,
+    "name": "SLICK SLACK",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32218_00",
+    "conceptId": 10009740,
+    "name": "SLICK SLACK",
+    "contentId": "JP5299-PPSA32218_00-000000SLICKSLACK",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32219_00",
+    "conceptId": 10009740,
+    "name": "SLICK SLACK",
+    "contentId": "HP5361-PPSA32219_00-000000SLICKSLACK",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32220_00",
+    "conceptId": 10011507,
+    "name": "METEO PLANET",
+    "contentId": "EP5645-PPSA32220_00-00000METEOPLANET",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32222_00",
+    "conceptId": 10011507,
+    "name": "METEO PLANET",
+    "contentId": "JP5299-PPSA32222_00-00000METEOPLANET",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32223_00",
+    "conceptId": 10011507,
+    "name": "METEO PLANET",
+    "contentId": "HP5361-PPSA32223_00-00000METEOPLANET",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA32224_00",
     "conceptId": 10016375,
     "name": "Pic-A-Block",
@@ -141915,17 +142067,17 @@
     "titleId": "PPSA32233_00",
     "conceptId": 10016380,
     "name": "Journey of a Special Average Balloon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4947-PPSA32233_00-JOURNEYOFBALLOON",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA32234_00",
     "conceptId": 10016380,
     "name": "Journey of a Special Average Balloon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5133-PPSA32234_00-JOURNEYOFBALLOON",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA32241_00",
@@ -142136,6 +142288,22 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA32378_00",
+    "conceptId": 10016463,
+    "name": "Reflex Drop Time Race",
+    "contentId": "UP7668-PPSA32378_00-0664709515801340",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA32379_00",
+    "conceptId": 10016463,
+    "name": "Reflex Drop Time Race",
+    "contentId": "UP7668-PPSA32379_00-0093567021424215",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA32404_00",
     "conceptId": 10016099,
     "name": "Evasive satellite",
@@ -142190,6 +142358,14 @@
     "contentId": "JB1432-PPSA32420_00-0561397041760887",
     "region": "JB",
     "publisherId": "JB1432"
+  },
+  {
+    "titleId": "PPSA32436_00",
+    "conceptId": 10016505,
+    "name": "REDEX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32444_00",
@@ -142320,6 +142496,22 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32505_00",
+    "conceptId": 10014196,
+    "name": "BALL 28 IN SPACE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32507_00",
+    "conceptId": 10014196,
+    "name": "BALL 28 IN SPACE",
+    "contentId": "JP5299-PPSA32507_00-000BALL28INSPACE",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
     "titleId": "PPSA32515_00",
     "conceptId": 10016539,
     "name": "Sniper Rescue",
@@ -142424,6 +142616,54 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA32576_00",
+    "conceptId": 10011987,
+    "name": "DEFEAT ME",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32578_00",
+    "conceptId": 10011987,
+    "name": "DEFEAT ME",
+    "contentId": "JP5299-PPSA32578_00-00000000DEFEATME",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32579_00",
+    "conceptId": 10011987,
+    "name": "DEFEAT ME",
+    "contentId": "HP5361-PPSA32579_00-00000000DEFEATME",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32584_00",
+    "conceptId": 10013401,
+    "name": "Laser Shield",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32586_00",
+    "conceptId": 10013401,
+    "name": "Laser Shield",
+    "contentId": "JP5299-PPSA32586_00-00000LASERSHIELD",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32587_00",
+    "conceptId": 10013401,
+    "name": "Laser Shield",
+    "contentId": "HP5361-PPSA32587_00-00000LASERSHIELD",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA32595_00",
     "conceptId": 10016597,
     "name": "Debtor",
@@ -142507,33 +142747,33 @@
     "titleId": "PPSA32610_00",
     "conceptId": 10016607,
     "name": "Goat Out Of Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA32610_00-0839708269318785",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA32611_00",
     "conceptId": 10016607,
     "name": "Goat Out Of Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA32611_00-0568983804793551",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA32612_00",
     "conceptId": 10016607,
     "name": "Goat Out Of Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA32612_00-0323096506969589",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA32613_00",
     "conceptId": 10016607,
     "name": "Goat Out Of Hell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA32613_00-0556541245693438",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA32618_00",
@@ -142688,6 +142928,30 @@
     "publisherId": "EP8062"
   },
   {
+    "titleId": "PPSA32774_00",
+    "conceptId": 10016226,
+    "name": "EARTH DEFENSE STICKS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32776_00",
+    "conceptId": 10016226,
+    "name": "EARTH DEFENSE STICKS",
+    "contentId": "JP5299-PPSA32776_00-0000000000000EDS",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32777_00",
+    "conceptId": 10016226,
+    "name": "EARTH DEFENSE STICKS",
+    "contentId": "HP5361-PPSA32777_00-0000000000000EDS",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA32828_00",
     "conceptId": 10016701,
     "name": "Magnitude: Sigma",
@@ -142755,9 +143019,17 @@
     "titleId": "PPSA32878_00",
     "conceptId": 10016299,
     "name": "beanball",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA32878_00-00000000BEANBALL",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32879_00",
+    "conceptId": 10016299,
+    "name": "beanball",
+    "contentId": "UP5464-PPSA32879_00-00000000BEANBALL",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32880_00",
@@ -142790,6 +143062,62 @@
     "contentId": "UP7552-PPSA32898_00-0056959016119848",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA32899_00",
+    "conceptId": 10013818,
+    "name": "Yasuke: Black Samurai Legend",
+    "contentId": "UB0859-PPSA32899_00-0193944245371081",
+    "region": "UB",
+    "publisherId": "UB0859"
+  },
+  {
+    "titleId": "PPSA32925_00",
+    "conceptId": 10013415,
+    "name": "BLOCK FLYING AT ME",
+    "contentId": "EP5645-PPSA32925_00-BLOCKSFLYINGATME",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32926_00",
+    "conceptId": 10013415,
+    "name": "BLOCK FLYING AT ME",
+    "contentId": "JP5299-PPSA32926_00-BLOCKSFLYINGATME",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32927_00",
+    "conceptId": 10013415,
+    "name": "BLOCK FLYING AT ME",
+    "contentId": "HP5361-PPSA32927_00-BLOCKSFLYINGATME",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32929_00",
+    "conceptId": 10013435,
+    "name": "Downward",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32930_00",
+    "conceptId": 10013435,
+    "name": "Downward",
+    "contentId": "JP5299-PPSA32930_00-00000000DOWNWARD",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32931_00",
+    "conceptId": 10013435,
+    "name": "Downward",
+    "contentId": "HP5361-PPSA32931_00-00000000DOWNWARD",
+    "region": "HP",
+    "publisherId": "HP5361"
   },
   {
     "titleId": "PPSA32975_00",
@@ -142862,6 +143190,22 @@
     "contentId": "HB0876-PPSA33141_00-0059846035307695",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA33261_00",
+    "conceptId": 10016935,
+    "name": "Eternum EX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33262_00",
+    "conceptId": 10016935,
+    "name": "Eternum EX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33320_00",
