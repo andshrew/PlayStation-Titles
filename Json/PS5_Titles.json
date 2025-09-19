@@ -45232,6 +45232,14 @@
     "publisherId": "HP0177"
   },
   {
+    "titleId": "PPSA09901_00",
+    "conceptId": 10003726,
+    "name": "Blood of Mehran",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA09903_00",
     "conceptId": 10004944,
     "name": "NAIAD",
@@ -64024,6 +64032,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA14658_00",
+    "conceptId": 10002917,
+    "name": "PixelJunk Eden 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA14659_00",
     "conceptId": 10002917,
     "name": "PixelJunk Eden 2",
@@ -70147,9 +70163,9 @@
     "titleId": "PPSA16176_00",
     "conceptId": 10008255,
     "name": "Rise of Industry 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8787-PPSA16176_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP8787"
   },
   {
     "titleId": "PPSA16177_00",
@@ -70163,9 +70179,9 @@
     "titleId": "PPSA16178_00",
     "conceptId": 10008255,
     "name": "Rise of Industry 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8548-PPSA16178_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP8548"
   },
   {
     "titleId": "PPSA16179_00",
@@ -72379,7 +72395,7 @@
     "titleId": "PPSA16608_00",
     "conceptId": 10008442,
     "name": "Frostpunk 2",
-    "contentId": null,
+    "contentId": "EP4361-PPSA16608_00-FROSTPUNKPS50000",
     "region": "EP",
     "publisherId": "EP4361"
   },
@@ -105643,9 +105659,9 @@
     "titleId": "PPSA23732_00",
     "conceptId": 10011346,
     "name": "LEGO\u00ae Voyagers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2470-PPSA23732_00-LB2SIEA000000000",
+    "region": "UP",
+    "publisherId": "UP2470"
   },
   {
     "titleId": "PPSA23741_00",
@@ -109598,6 +109614,14 @@
     "contentId": "EP7305-PPSA24479_00-0436818627066310",
     "region": "EP",
     "publisherId": "EP7305"
+  },
+  {
+    "titleId": "PPSA24483_00",
+    "conceptId": 10010779,
+    "name": "Meteorfall: Krumit's Tale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24485_00",
@@ -113960,6 +113984,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25351_00",
+    "conceptId": 10012151,
+    "name": "Buildest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25354_00",
     "conceptId": 10010574,
     "name": "Sunderfolk",
@@ -115115,17 +115147,17 @@
     "titleId": "PPSA25573_00",
     "conceptId": 10011998,
     "name": "Extinction Rifts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA25573_00-EXTINCTIONRIFTNA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA25574_00",
     "conceptId": 10011998,
     "name": "Extinction Rifts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA25574_00-EXTINCTIONRIFTEU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA25576_00",
@@ -116851,7 +116883,7 @@
     "titleId": "PPSA25935_00",
     "conceptId": 10012506,
     "name": "\u30c8\u30ef\u3068\u795e\u6a39\u306e\u7948\u308a\u5b50\u305f\u3061",
-    "contentId": null,
+    "contentId": "JP0700-PPSA25935_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -119792,6 +119824,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA26535_00",
+    "conceptId": 10012910,
+    "name": "\u5263\u3068\u9b54\u6cd5\u3068\u5b66\u5712\u30e2\u30ce\u30023 Remaster",
+    "contentId": "JP0048-PPSA26535_00-CLASSOFHEROES3R0",
+    "region": "JP",
+    "publisherId": "JP0048"
+  },
+  {
     "titleId": "PPSA26536_00",
     "conceptId": 10012912,
     "name": "Blues of War",
@@ -120010,16 +120050,16 @@
   {
     "titleId": "PPSA26572_00",
     "conceptId": 10012910,
-    "name": "Class of Heroes 3 Remaster",
-    "contentId": null,
+    "name": "CLASS OF HEROES 3 Remaster",
+    "contentId": "UP4293-PPSA26572_00-CLASSOFHEROES3R0",
     "region": "UP",
     "publisherId": "UP4293"
   },
   {
     "titleId": "PPSA26573_00",
     "conceptId": 10012910,
-    "name": "Class of Heroes 3 Remaster",
-    "contentId": null,
+    "name": "CLASS OF HEROES 3 Remaster",
+    "contentId": "EP4293-PPSA26573_00-CLASSOFHEROES3R0",
     "region": "EP",
     "publisherId": "EP4293"
   },
@@ -122011,9 +122051,9 @@
     "titleId": "PPSA26991_00",
     "conceptId": 10013144,
     "name": "UBOAT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA26991_00-UBOATPS500000001",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA26997_00",
@@ -122155,9 +122195,9 @@
     "titleId": "PPSA27043_00",
     "conceptId": 10013179,
     "name": "Arctic Awakening",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0342-PPSA27043_00-0721389548337788",
+    "region": "UB",
+    "publisherId": "UB0342"
   },
   {
     "titleId": "PPSA27048_00",
@@ -124246,6 +124286,22 @@
     "contentId": "HP6661-PPSA27470_00-0553537091701818",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA27475_00",
+    "conceptId": 10013428,
+    "name": "Galactic Guardian 1988 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27476_00",
+    "conceptId": 10013428,
+    "name": "Galactic Guardian 1988",
+    "contentId": "UP6664-PPSA27476_00-0055866871509046",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA27483_00",
@@ -127171,9 +127227,9 @@
     "titleId": "PPSA28061_00",
     "conceptId": 10013897,
     "name": "Earthion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6893-PPSA28061_00-000000000000BASE",
+    "region": "UP",
+    "publisherId": "UP6893"
   },
   {
     "titleId": "PPSA28063_00",
@@ -128278,6 +128334,14 @@
     "contentId": "UB1478-PPSA28296_00-0581373574457760",
     "region": "UB",
     "publisherId": "UB1478"
+  },
+  {
+    "titleId": "PPSA28297_00",
+    "conceptId": 10013999,
+    "name": "RENNSPORT",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA28299_00",
@@ -130224,6 +130288,14 @@
     "publisherId": "HP0918"
   },
   {
+    "titleId": "PPSA28723_00",
+    "conceptId": 10014332,
+    "name": "NASCAR 25 Gold Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1456"
+  },
+  {
     "titleId": "PPSA28725_00",
     "conceptId": 10014288,
     "name": "Donut Blast",
@@ -132026,10 +132098,10 @@
   {
     "titleId": "PPSA29241_00",
     "conceptId": 10008442,
-    "name": "Frostpunk 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Frostpunk 2: Digital Artbook & Original Soundtrack",
+    "contentId": "UP4361-PPSA29241_00-0537962098628037",
+    "region": "UP",
+    "publisherId": "UP4361"
   },
   {
     "titleId": "PPSA29242_00",
@@ -132363,9 +132435,9 @@
     "titleId": "PPSA29318_00",
     "conceptId": 10014697,
     "name": "Puzzle Quest: Immortal Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4040-PPSA29318_00-PQIMMORTAL000000",
+    "region": "UP",
+    "publisherId": "UP4040"
   },
   {
     "titleId": "PPSA29322_00",
@@ -132515,17 +132587,17 @@
     "titleId": "PPSA29372_00",
     "conceptId": 10014697,
     "name": "Puzzle Quest: Immortal Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4040-PPSA29372_00-PQIMMORTAL000000",
+    "region": "EP",
+    "publisherId": "EP4040"
   },
   {
     "titleId": "PPSA29373_00",
     "conceptId": 10014697,
     "name": "Puzzle Quest: Immortal Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0114-PPSA29373_00-PQIMMORTAL000000",
+    "region": "JP",
+    "publisherId": "JP0114"
   },
   {
     "titleId": "PPSA29375_00",
@@ -132691,9 +132763,9 @@
     "titleId": "PPSA29413_00",
     "conceptId": 10014752,
     "name": "Wobbly Life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7742-PPSA29413_00-WOBBLYLIFEEUUSXX",
+    "region": "UP",
+    "publisherId": "UP7742"
   },
   {
     "titleId": "PPSA29416_00",
@@ -133307,33 +133379,33 @@
     "titleId": "PPSA29552_00",
     "conceptId": 10014842,
     "name": "Dunk Trickster 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29552_00-0834183636555423",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29553_00",
     "conceptId": 10014842,
     "name": "Dunk Trickster 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29553_00-0571887333373583",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29554_00",
     "conceptId": 10014842,
     "name": "Dunk Trickster 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29554_00-0865492204901233",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29555_00",
     "conceptId": 10014842,
     "name": "Dunk Trickster 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29555_00-0471367391746635",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29556_00",
@@ -133558,6 +133630,14 @@
     "contentId": "HP4312-PPSA29592_00-0221118462031816",
     "region": "HP",
     "publisherId": "HP4312"
+  },
+  {
+    "titleId": "PPSA29597_00",
+    "conceptId": 10012102,
+    "name": "Starbites",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29601_00",
@@ -134246,6 +134326,14 @@
     "contentId": "EP6556-PPSA29735_00-0032687510209018",
     "region": "EP",
     "publisherId": "EP6556"
+  },
+  {
+    "titleId": "PPSA29736_00",
+    "conceptId": 10014935,
+    "name": "Gang Wars - Cards and Bullets",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29737_00",
@@ -135626,8 +135714,8 @@
   {
     "titleId": "PPSA30117_00",
     "conceptId": 10013078,
-    "name": "Sora no Kiseki the 1st",
-    "contentId": null,
+    "name": "\u7a7a\u4e4b\u8ecc\u8de1 the 1st",
+    "contentId": "HP5846-PPSA30117_00-EDSORANOKISEKI01",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -137324,8 +137412,8 @@
     "conceptId": 10015356,
     "name": "Asterix & Obelix - Mission Babylon",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA30491_00",
@@ -137714,8 +137802,8 @@
   {
     "titleId": "PPSA30575_00",
     "conceptId": 10015398,
-    "name": "Bad Cat",
-    "contentId": null,
+    "name": "Bad Cat: Chaos Simulator",
+    "contentId": "UB0837-PPSA30575_00-0501337628138738",
     "region": "UB",
     "publisherId": "UB0837"
   },
@@ -137798,6 +137886,14 @@
     "contentId": "EB0152-PPSA30605_00-0402587205522928",
     "region": "EB",
     "publisherId": "EB0152"
+  },
+  {
+    "titleId": "PPSA30611_00",
+    "conceptId": 10012099,
+    "name": "Fuga : Melodies of Steel 3 - Demo",
+    "contentId": "JP4566-PPSA30611_00-FUGA3DEMO0000000",
+    "region": "JP",
+    "publisherId": "JP4566"
   },
   {
     "titleId": "PPSA30615_00",
@@ -138267,9 +138363,9 @@
     "titleId": "PPSA30779_00",
     "conceptId": 10015516,
     "name": "Cat Needs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA30779_00-CATNEEDSRATGAMES",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA30797_00",
@@ -138712,6 +138808,14 @@
     "publisherId": "EB1737"
   },
   {
+    "titleId": "PPSA30939_00",
+    "conceptId": 10015507,
+    "name": "Moon Mystery",
+    "contentId": "HP6701-PPSA30939_00-0149355389291486",
+    "region": "HP",
+    "publisherId": "HP6701"
+  },
+  {
     "titleId": "PPSA30943_00",
     "conceptId": 10005570,
     "name": "Sonic Racing: CrossWorlds - Demo",
@@ -139110,6 +139214,14 @@
     "contentId": "JB0538-PPSA31102_00-TRALALERO00SIEAS",
     "region": "JB",
     "publisherId": "JB0538"
+  },
+  {
+    "titleId": "PPSA31105_00",
+    "conceptId": 10012949,
+    "name": "FULL METAL SCHOOLGIRL",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5846"
   },
   {
     "titleId": "PPSA31107_00",
@@ -141688,6 +141800,14 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31998_00",
+    "conceptId": 10012102,
+    "name": "\u30b9\u30bf\u30fc\u30d0\u30a4\u30c4 \u4f53\u9a13\u7248",
+    "contentId": "JP0530-PPSA31998_00-0454182702510246",
+    "region": "JP",
+    "publisherId": "JP0530"
+  },
+  {
     "titleId": "PPSA31999_00",
     "conceptId": 10015221,
     "name": "Virtua Fighter 5 R.E.V.O. World Stage",
@@ -142275,17 +142395,17 @@
     "titleId": "PPSA32248_00",
     "conceptId": 10011986,
     "name": "Typingcommand",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA32248_00-000TYPINGCOMMAND",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA32249_00",
     "conceptId": 10011986,
     "name": "Typingcommand",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5464-PPSA32249_00-000TYPINGCOMMAND",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32250_00",
@@ -142408,6 +142528,22 @@
     "publisherId": "EP6880"
   },
   {
+    "titleId": "PPSA32312_00",
+    "conceptId": 10016428,
+    "name": "EVERDARK: Undead Apocalypse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32314_00",
+    "conceptId": 10016430,
+    "name": "The Visitor Effect: Not an experiment",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32321_00",
     "conceptId": 10016438,
     "name": "Tidy Toys",
@@ -142510,6 +142646,14 @@
     "contentId": "UP7668-PPSA32379_00-0093567021424215",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA32402_00",
+    "conceptId": 10016485,
+    "name": "Pixicharm - Chromastronaut",
+    "contentId": "EP1612-PPSA32402_00-CHROMASTRONAUT00",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA32404_00",
@@ -142912,6 +143056,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32591_00",
+    "conceptId": 10011989,
+    "name": "CIrcle Triangle Cross",
+    "contentId": "UP5464-PPSA32591_00-0000000000000CTC",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA32592_00",
     "conceptId": 10011989,
     "name": "CIrcle Triangle Cross",
@@ -143075,9 +143227,17 @@
     "titleId": "PPSA32641_00",
     "conceptId": 10012891,
     "name": "Criss Cross Bomb",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA32641_00-00CRISSCROSSBOMB",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32642_00",
+    "conceptId": 10012891,
+    "name": "Criss Cross Bomb",
+    "contentId": "UP5464-PPSA32642_00-00CRISSCROSSBOMB",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32643_00",
@@ -143216,6 +143376,86 @@
     "publisherId": "EP8062"
   },
   {
+    "titleId": "PPSA32752_00",
+    "conceptId": 10016252,
+    "name": "Through the gates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32754_00",
+    "conceptId": 10016252,
+    "name": "Through the gates",
+    "contentId": "JP5299-PPSA32754_00-00THROUGHTHEGATE",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32756_00",
+    "conceptId": 10012894,
+    "name": "Strong buy Strong Sell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32758_00",
+    "conceptId": 10012894,
+    "name": "Strong but Strong Sell",
+    "contentId": "JP5299-PPSA32758_00-0STRONGBUYSTRONG",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32759_00",
+    "conceptId": 10012894,
+    "name": "Strong but Strong Sell",
+    "contentId": "HP5361-PPSA32759_00-0STRONGBUYSTRONG",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32760_00",
+    "conceptId": 10016666,
+    "name": "I Am Busy Digging A Hole",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32761_00",
+    "conceptId": 10016667,
+    "name": "Drizzlepath: Picturae",
+    "contentId": "UP5877-PPSA32761_00-0482674621251751",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA32770_00",
+    "conceptId": 10016298,
+    "name": "CALC+-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32772_00",
+    "conceptId": 10016298,
+    "name": "CALC+-",
+    "contentId": "JP5299-PPSA32772_00-000000000000CALC",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32773_00",
+    "conceptId": 10016298,
+    "name": "CALC+-",
+    "contentId": "HP5361-PPSA32773_00-000000000000CALC",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA32774_00",
     "conceptId": 10016226,
     "name": "EARTH DEFENSE STICKS",
@@ -143246,6 +143486,14 @@
     "contentId": "HP5361-PPSA32777_00-0000000000000EDS",
     "region": "HP",
     "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32791_00",
+    "conceptId": 10012610,
+    "name": "Yooka-Replaylee Demo",
+    "contentId": "UP2011-PPSA32791_00-0269312632763868",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA32828_00",
@@ -143282,10 +143530,18 @@
   {
     "titleId": "PPSA32837_00",
     "conceptId": 10015302,
-    "name": "SHEEP RUNNING",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sheep Running",
+    "contentId": "EP5645-PPSA32837_00-0000SHEEPRUNNING",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32838_00",
+    "conceptId": 10015302,
+    "name": "Sheep Running",
+    "contentId": "UP5464-PPSA32838_00-0000SHEEPRUNNING",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32839_00",
@@ -143376,6 +143632,30 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA32887_00",
+    "conceptId": 10013784,
+    "name": "Scaffold now",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32889_00",
+    "conceptId": 10013784,
+    "name": "SCAFFOLD NOW",
+    "contentId": "JP5299-PPSA32889_00-00000SCAFFOLDNOW",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32890_00",
+    "conceptId": 10013784,
+    "name": "Scaffold now",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32898_00",
     "conceptId": 10016731,
     "name": "Maxi Trucks Racing",
@@ -143390,6 +143670,30 @@
     "contentId": "UB0859-PPSA32899_00-0193944245371081",
     "region": "UB",
     "publisherId": "UB0859"
+  },
+  {
+    "titleId": "PPSA32905_00",
+    "conceptId": 10016737,
+    "name": "Colorful Colore",
+    "contentId": "JP7094-PPSA32905_00-0530531275867789",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA32907_00",
+    "conceptId": 10016737,
+    "name": "Colorful Colore",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32908_00",
+    "conceptId": 10016737,
+    "name": "Colorful Colore",
+    "contentId": "HP7141-PPSA32908_00-0816869997839048",
+    "region": "HP",
+    "publisherId": "HP7141"
   },
   {
     "titleId": "PPSA32924_00",
