@@ -89107,9 +89107,9 @@
     "titleId": "PPSA20160_00",
     "conceptId": 10009771,
     "name": "HYKE:Northern Light(s)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3372-PPSA20160_00-GAME00000000HYKE",
+    "region": "JP",
+    "publisherId": "JP3372"
   },
   {
     "titleId": "PPSA20164_00",
@@ -110720,6 +110720,14 @@
     "publisherId": "EP4476"
   },
   {
+    "titleId": "PPSA24729_00",
+    "conceptId": 10011869,
+    "name": "The Last Zone",
+    "contentId": "UP2136-PPSA24729_00-KODBRTHELASTZONE",
+    "region": "UP",
+    "publisherId": "UP2136"
+  },
+  {
     "titleId": "PPSA24732_00",
     "conceptId": 10010193,
     "name": "63 Days Demo",
@@ -110830,6 +110838,14 @@
     "contentId": "UP7939-PPSA24764_00-0672630872911952",
     "region": "UP",
     "publisherId": "UP7939"
+  },
+  {
+    "titleId": "PPSA24765_00",
+    "conceptId": 10011892,
+    "name": "The Lonesome Guild",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP5898"
   },
   {
     "titleId": "PPSA24772_00",
@@ -124338,10 +124354,10 @@
   {
     "titleId": "PPSA27478_00",
     "conceptId": 10013428,
-    "name": "Galactic Guardian 1988 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Galactic Guardian 1988",
+    "contentId": "HP6661-PPSA27478_00-0727256841750829",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27483_00",
@@ -129912,12 +129928,20 @@
     "publisherId": "EP5519"
   },
   {
+    "titleId": "PPSA28610_00",
+    "conceptId": 10014174,
+    "name": "Car Mechanic Shop Simulator",
+    "contentId": "UP1564-PPSA28610_00-CLAB2CMS20250206",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA28611_00",
     "conceptId": 10014174,
     "name": "Car Mechanic Shop Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA28611_00-CLAB3CMS20250206",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA28612_00",
@@ -139691,9 +139715,9 @@
     "titleId": "PPSA31236_00",
     "conceptId": 10015773,
     "name": "Forest of Terenu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA31236_00-0646682975565920",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA31239_00",
@@ -141768,6 +141792,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31937_00",
+    "conceptId": 10016224,
+    "name": "Orb Slide Dodge Danger",
+    "contentId": "UP7668-PPSA31937_00-0664552468975688",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31944_00",
     "conceptId": 10014901,
     "name": "CASE RECORDS: Fear of Abduction",
@@ -142051,9 +142083,9 @@
     "titleId": "PPSA32042_00",
     "conceptId": 10016278,
     "name": "Glint's Trial",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32042_00-GLINTSTRIAL000JP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32043_00",
@@ -142134,6 +142166,14 @@
     "contentId": "UB0337-PPSA32112_00-0712260999662995",
     "region": "UB",
     "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA32113_00",
+    "conceptId": 10011509,
+    "name": "PAKU PAKU",
+    "contentId": "EP5645-PPSA32113_00-0241964759036272",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA32114_00",
@@ -142931,9 +142971,17 @@
     "titleId": "PPSA32458_00",
     "conceptId": 10011511,
     "name": "P FIT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA32458_00-000000000000PFIT",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32459_00",
+    "conceptId": 10011511,
+    "name": "P FIT",
+    "contentId": "UP5464-PPSA32459_00-000000000000PFIT",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32460_00",
@@ -142958,6 +143006,14 @@
     "contentId": "EP5645-PPSA32462_00-0000000000PILEUP",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32463_00",
+    "conceptId": 10011512,
+    "name": "PILEUP",
+    "contentId": "UP5464-PPSA32463_00-0000000000PILEUP",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32464_00",
@@ -143184,12 +143240,28 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32581_00",
+    "conceptId": 10012896,
+    "name": "LeftRedRightBlue",
+    "contentId": "UP5464-PPSA32581_00-LEFTREDRIGHTBLUE",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA32582_00",
     "conceptId": 10012896,
     "name": "LeftRedRightBlue",
     "contentId": "JP5299-PPSA32582_00-LEFTREDRIGHTBLUE",
     "region": "JP",
     "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32583_00",
+    "conceptId": 10012896,
+    "name": "LeftRedRightBlue",
+    "contentId": "HP5361-PPSA32583_00-LEFTREDRIGHTBLUE",
+    "region": "HP",
+    "publisherId": "HP5361"
   },
   {
     "titleId": "PPSA32584_00",
@@ -143416,6 +143488,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32638_00",
+    "conceptId": 10014186,
+    "name": "I'm Frontline",
+    "contentId": "UP5464-PPSA32638_00-00000IMFRONTLINE",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA32639_00",
     "conceptId": 10014186,
     "name": "I'm Frontline",
@@ -143586,10 +143666,18 @@
   {
     "titleId": "PPSA32748_00",
     "conceptId": 10013768,
-    "name": "Pincer Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "PINCER ATTACK",
+    "contentId": "EP5645-PPSA32748_00-0000PINCERATTACK",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32749_00",
+    "conceptId": 10013768,
+    "name": "PINCER ATTACK",
+    "contentId": "UP5464-PPSA32749_00-0000PINCERATTACK",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32750_00",
@@ -143760,6 +143848,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32788_00",
+    "conceptId": 10016281,
+    "name": "SIDE WALLS MULTI KICKS",
+    "contentId": "UP5464-PPSA32788_00-000000000000SWMK",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA32789_00",
     "conceptId": 10016281,
     "name": "SIDE WALLS MULTI KICKS",
@@ -143856,12 +143952,28 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32843_00",
+    "conceptId": 10015286,
+    "name": "LONG EDGE WINS",
+    "contentId": "UP5464-PPSA32843_00-0000LONGEDGEWINS",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA32844_00",
     "conceptId": 10015286,
     "name": "LONG EDGE WINS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5299-PPSA32844_00-0000LONGEDGEWINS",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32845_00",
+    "conceptId": 10015286,
+    "name": "LONG EDGE WINS",
+    "contentId": "HP5361-PPSA32845_00-0000LONGEDGEWINS",
+    "region": "HP",
+    "publisherId": "HP5361"
   },
   {
     "titleId": "PPSA32848_00",
@@ -143966,6 +144078,14 @@
     "contentId": "EP5645-PPSA32882_00-000000000REVGRAV",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32883_00",
+    "conceptId": 10012892,
+    "name": "Rev Grav",
+    "contentId": "UP5464-PPSA32883_00-000000000REVGRAV",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32884_00",
@@ -144078,6 +144198,14 @@
     "contentId": "EP5645-PPSA32920_00-0000000CLOCKJUMP",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32921_00",
+    "conceptId": 10014197,
+    "name": "CLOCK JUMP",
+    "contentId": "UP5464-PPSA32921_00-0000000CLOCKJUMP",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA32922_00",
