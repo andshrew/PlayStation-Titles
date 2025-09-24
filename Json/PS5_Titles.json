@@ -109832,6 +109832,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA24538_00",
+    "conceptId": 10007289,
+    "name": "XENOTILT",
+    "contentId": "EP0263-PPSA24538_00-0590182702822301",
+    "region": "EP",
+    "publisherId": "EP0263"
+  },
+  {
     "titleId": "PPSA24542_00",
     "conceptId": 10011777,
     "name": "Customers From Hell",
@@ -115126,6 +115134,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA25557_00",
+    "conceptId": 10012272,
+    "name": "Hyper Team Recon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA25558_00",
+    "conceptId": 10012272,
+    "name": "Hyper Team Recon Demo",
+    "contentId": "UP5155-PPSA25558_00-HTRDEMO000000000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA25559_00",
@@ -122232,6 +122256,22 @@
     "publisherId": "EP6357"
   },
   {
+    "titleId": "PPSA27041_00",
+    "conceptId": 10005447,
+    "name": "Night Detective: Decrepit Manor",
+    "contentId": "UP4947-PPSA27041_00-NIGHTDETECTIVE12",
+    "region": "UP",
+    "publisherId": "UP4947"
+  },
+  {
+    "titleId": "PPSA27042_00",
+    "conceptId": 10005447,
+    "name": "Night Detective: Decrepit Manor",
+    "contentId": "EP5133-PPSA27042_00-NIGHTDETECTIVE12",
+    "region": "EP",
+    "publisherId": "EP5133"
+  },
+  {
     "titleId": "PPSA27043_00",
     "conceptId": 10013179,
     "name": "Arctic Awakening",
@@ -122582,6 +122622,14 @@
     "contentId": "HB1034-PPSA27121_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB1034"
+  },
+  {
+    "titleId": "PPSA27125_00",
+    "conceptId": 10013241,
+    "name": "Islets Demo",
+    "contentId": "UP5155-PPSA27125_00-ISLETSDEMO000000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA27127_00",
@@ -123854,6 +123902,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA27357_00",
+    "conceptId": 10013379,
+    "name": "Kingdom Shell Demo",
+    "contentId": "UP5155-PPSA27357_00-KINGDOMSHELL0000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA27358_00",
@@ -127240,6 +127296,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28048_00",
+    "conceptId": 10010043,
+    "name": "Mamorukun ReCurse!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28049_00",
     "conceptId": 10012778,
     "name": "Lost Soul Aside\u2122: Official Soundtrack and Artbook",
@@ -128070,6 +128134,14 @@
     "contentId": "HP8504-PPSA28228_00-0724329533380782",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA28229_00",
+    "conceptId": 10014016,
+    "name": "Wallace & Gromit in the Grand Getaway",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28230_00",
@@ -131419,9 +131491,9 @@
     "titleId": "PPSA29035_00",
     "conceptId": 10014515,
     "name": "Forgive Me Father 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2552-PPSA29035_00-FMF2000000000ALL",
+    "region": "EP",
+    "publisherId": "EP2552"
   },
   {
     "titleId": "PPSA29037_00",
@@ -136043,9 +136115,9 @@
     "titleId": "PPSA30161_00",
     "conceptId": 10008588,
     "name": "Baby Steps",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0110-PPSA30161_00-BABYSTEPS0000000",
+    "region": "JP",
+    "publisherId": "JP0110"
   },
   {
     "titleId": "PPSA30170_00",
@@ -138848,6 +138920,22 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA30901_00",
+    "conceptId": 10015603,
+    "name": "Call of Brothers: The Backrooms Zombie Survival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30906_00",
+    "conceptId": 10015603,
+    "name": "Call of Brothers: The Backrooms Zombie Survival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30908_00",
     "conceptId": 10015572,
     "name": "Gemz Burst",
@@ -139592,6 +139680,14 @@
     "publisherId": "EB0963"
   },
   {
+    "titleId": "PPSA31187_00",
+    "conceptId": 10015745,
+    "name": "Rise Eterna 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31189_00",
     "conceptId": 10015747,
     "name": "Pixicharm - TuttiRun",
@@ -139691,9 +139787,9 @@
     "titleId": "PPSA31211_00",
     "conceptId": 10015754,
     "name": "Electronics Puzzle Lab 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA31211_00-ELECTRONICSPLAB2",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA31218_00",
@@ -140704,6 +140800,14 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31509_00",
+    "conceptId": 10015940,
+    "name": "Twilight Parade: Moonlit Mononoke",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31515_00",
     "conceptId": 10015448,
     "name": "Moontales Picbook",
@@ -141480,6 +141584,38 @@
     "publisherId": "EP6698"
   },
   {
+    "titleId": "PPSA31777_00",
+    "conceptId": 10015875,
+    "name": "\u96e2\u9678\u751f\u6b8b",
+    "contentId": "JP4800-PPSA31777_00-0888852789741577",
+    "region": "JP",
+    "publisherId": "JP4800"
+  },
+  {
+    "titleId": "PPSA31779_00",
+    "conceptId": 10015875,
+    "name": "Off-the-Ground Survival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31780_00",
+    "conceptId": 10015875,
+    "name": "Off-the-Ground Survival",
+    "contentId": "JP4800-PPSA31780_00-0933918039711620",
+    "region": "JP",
+    "publisherId": "JP4800"
+  },
+  {
+    "titleId": "PPSA31781_00",
+    "conceptId": 10015875,
+    "name": "Off-the-Ground Survival",
+    "contentId": "JP4800-PPSA31781_00-0326265925476172",
+    "region": "JP",
+    "publisherId": "JP4800"
+  },
+  {
     "titleId": "PPSA31782_00",
     "conceptId": 10016138,
     "name": "BREAKING BRICKS",
@@ -141816,7 +141952,23 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA31920_00",
+    "conceptId": 10016215,
+    "name": "Bunny Pit Stop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31921_00",
+    "conceptId": 10016215,
+    "name": "Bunny Pit Stop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31922_00",
     "conceptId": 10016215,
     "name": "Bunny Pit Stop",
     "contentId": null,
@@ -142624,6 +142776,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32230_00",
+    "conceptId": 10016377,
+    "name": "Zerion 12",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32233_00",
     "conceptId": 10016380,
     "name": "Journey of a Special Average Balloon",
@@ -142920,6 +143080,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA32400_00",
+    "conceptId": 10016480,
+    "name": "Bomb Kitten",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32402_00",
     "conceptId": 10016485,
     "name": "Pixicharm - Chromastronaut",
@@ -142976,12 +143144,20 @@
     "publisherId": "EB0178"
   },
   {
+    "titleId": "PPSA32410_00",
+    "conceptId": 10016488,
+    "name": "The Chase: Police Rush",
+    "contentId": "JP8693-PPSA32410_00-0725019688407251",
+    "region": "JP",
+    "publisherId": "JP8693"
+  },
+  {
     "titleId": "PPSA32411_00",
     "conceptId": 10016488,
     "name": "The Chase: Police Rush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA32411_00-0637470438538446",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA32420_00",
@@ -144512,6 +144688,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33205_00",
+    "conceptId": 10016203,
+    "name": "Orchard Odyssey: Cherry Chase",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33206_00",
     "conceptId": 10016203,
     "name": "Orchard Odyssey: Cherry Chase",
@@ -144534,6 +144718,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA33271_00",
+    "conceptId": 10016391,
+    "name": "Green Soldiers Heroes: Extreme Bikers (Demo)",
+    "contentId": "JB1686-PPSA33271_00-0884964600110317",
+    "region": "JB",
+    "publisherId": "JB1686"
   },
   {
     "titleId": "PPSA33320_00",
