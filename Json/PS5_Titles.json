@@ -79730,8 +79730,8 @@
   {
     "titleId": "PPSA18186_00",
     "conceptId": 10009073,
-    "name": "\u30d1\u30c3\u30af\u30de\u30f3\u30ef\u30fc\u30eb\u30c92 \u30ea\u30fb\u30d1\u30c3\u30af PS4 & PS5",
-    "contentId": null,
+    "name": "\u30d1\u30c3\u30af\u30de\u30f3\u30ef\u30fc\u30eb\u30c92 \u30ea\u30fb\u30d1\u30c3\u30af",
+    "contentId": "JP0700-PPSA18186_00-PACMANWORLD2RPAC",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -83670,6 +83670,14 @@
     "contentId": "HP0365-PPSA19052_00-SURVIVALASCENDED",
     "region": "HP",
     "publisherId": "HP0365"
+  },
+  {
+    "titleId": "PPSA19053_00",
+    "conceptId": 10009386,
+    "name": "LET IT DIE: INFERNO",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0747"
   },
   {
     "titleId": "PPSA19057_00",
@@ -95779,7 +95787,7 @@
     "titleId": "PPSA21617_00",
     "conceptId": 10010432,
     "name": "SWORN",
-    "contentId": null,
+    "contentId": "EP4064-PPSA21617_00-SWORN00000000000",
     "region": "EP",
     "publisherId": "EP4064"
   },
@@ -108200,6 +108208,14 @@
     "publisherId": "UB1005"
   },
   {
+    "titleId": "PPSA24227_00",
+    "conceptId": 10011615,
+    "name": "Deus Ex Remastered",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1875"
+  },
+  {
     "titleId": "PPSA24234_00",
     "conceptId": 224923,
     "name": "\u30ec\u30a4\u30b8\u30f3\u30b0\u30eb\u30fc\u30d7",
@@ -109626,10 +109642,10 @@
   {
     "titleId": "PPSA24483_00",
     "conceptId": 10010779,
-    "name": "Meteorfall: Krumit's Tale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30af\u30eb\u30df\u30c3\u30c8\u306e\u7269\u8a9e Meteorfall: Krumit's Tale",
+    "contentId": "JP3325-PPSA24483_00-0120748175588604",
+    "region": "JP",
+    "publisherId": "JP3325"
   },
   {
     "titleId": "PPSA24485_00",
@@ -112331,9 +112347,9 @@
     "titleId": "PPSA25034_00",
     "conceptId": 10012016,
     "name": "NBA BOUNCE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3768-PPSA25034_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP3768"
   },
   {
     "titleId": "PPSA25042_00",
@@ -113126,6 +113142,14 @@
     "contentId": "UP7782-PPSA25179_00-0176365726737628",
     "region": "UP",
     "publisherId": "UP7782"
+  },
+  {
+    "titleId": "PPSA25186_00",
+    "conceptId": 10012081,
+    "name": "Strings Theory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25187_00",
@@ -115139,9 +115163,9 @@
     "titleId": "PPSA25557_00",
     "conceptId": 10012272,
     "name": "Hyper Team Recon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5155-PPSA25557_00-HTR0000000000000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA25558_00",
@@ -117051,9 +117075,9 @@
     "titleId": "PPSA25960_00",
     "conceptId": 10012476,
     "name": "Extremely Powerful Capybaras",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2011-PPSA25960_00-EXTRPOWCAPYBARAS",
+    "region": "UP",
+    "publisherId": "UP2011"
   },
   {
     "titleId": "PPSA25961_00",
@@ -117512,6 +117536,14 @@
     "publisherId": "JP6079"
   },
   {
+    "titleId": "PPSA26055_00",
+    "conceptId": 10008236,
+    "name": "SaGa Emerald Beyond",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26056_00",
     "conceptId": 10011682,
     "name": "ANTRO DEMO",
@@ -117662,6 +117694,14 @@
     "contentId": "UP8517-PPSA26096_00-HARPAGUN00000000",
     "region": "UP",
     "publisherId": "UP8517"
+  },
+  {
+    "titleId": "PPSA26097_00",
+    "conceptId": 10012610,
+    "name": "Yooka-Replaylee",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26098_00",
@@ -119698,10 +119738,10 @@
   {
     "titleId": "PPSA26480_00",
     "conceptId": 10010242,
-    "name": "SILENT HILL f",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SILENT HILL f - Bonus Content",
+    "contentId": "JP0101-PPSA26480_00-BONUS00000000000",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA26482_00",
@@ -121067,15 +121107,15 @@
     "titleId": "PPSA26790_00",
     "conceptId": 10012578,
     "name": "\u7d05\u306e\u932c\u91d1\u8853\u58eb\u3068\u767d\u306e\u5b88\u8b77\u8005 \uff5e\u30ec\u30b9\u30ec\u30ea\u30a2\u30fc\u30ca\u306e\u30a2\u30c8\u30ea\u30a8\uff5e",
-    "contentId": null,
+    "contentId": "JP0106-PPSA26790_00-RESLERI100MASTER",
     "region": "JP",
     "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA26791_00",
     "conceptId": 10012578,
-    "name": "Atelier Resleriana: The Red Alchemist & the White Guardian",
-    "contentId": null,
+    "name": "\u7d05\u8272\u7684\u934a\u91d1\u8853\u58eb\u548c\u767d\u8272\u7684\u5b88\u8b77\u8005 \uff5e\u857e\u65af\u840a\u8389\u5a6d\u5a1c\u7684\u934a\u91d1\u5de5\u623f\uff5e",
+    "contentId": "HP0106-PPSA26791_00-RESLERI100MASTER",
     "region": "HP",
     "publisherId": "HP0106"
   },
@@ -124248,6 +124288,22 @@
     "publisherId": "HP6900"
   },
   {
+    "titleId": "PPSA27427_00",
+    "conceptId": 10013422,
+    "name": "The Jumping Strawberry - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27428_00",
+    "conceptId": 10013422,
+    "name": "The Jumping Strawberry - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27429_00",
     "conceptId": 10013422,
     "name": "The Jumping Strawberry - PS4 & PS5",
@@ -125096,6 +125152,14 @@
     "publisherId": "EB0757"
   },
   {
+    "titleId": "PPSA27604_00",
+    "conceptId": 10013523,
+    "name": "Sektori",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27606_00",
     "conceptId": 10013531,
     "name": "Electro Ride: The Neon Racing",
@@ -125923,7 +125987,7 @@
     "titleId": "PPSA27765_00",
     "conceptId": 10013650,
     "name": "Agatha Christie - Death on the Nile",
-    "contentId": null,
+    "contentId": "EP4295-PPSA27765_00-ACDONPS5000000WW",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -126571,9 +126635,9 @@
     "titleId": "PPSA27902_00",
     "conceptId": 10013758,
     "name": "DOOMCRUSH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0928-PPSA27902_00-0842995615763017",
+    "region": "UB",
+    "publisherId": "UB0928"
   },
   {
     "titleId": "PPSA27903_00",
@@ -127315,9 +127379,9 @@
     "titleId": "PPSA28046_00",
     "conceptId": 10010043,
     "name": "Mamorukun ReCurse!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6026-PPSA28046_00-MAMORUKUNCURSECR",
+    "region": "UP",
+    "publisherId": "UP6026"
   },
   {
     "titleId": "PPSA28047_00",
@@ -128118,6 +128182,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28217_00",
+    "conceptId": 10014010,
+    "name": "\u4ec1\u738b\uff13",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA28219_00",
@@ -130248,6 +130320,30 @@
     "publisherId": "EP2649"
   },
   {
+    "titleId": "PPSA28669_00",
+    "conceptId": 10014309,
+    "name": "Two Hands Hospital Assistant Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28670_00",
+    "conceptId": 10014309,
+    "name": "Two Hands Hospital Assistant Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28671_00",
+    "conceptId": 10014309,
+    "name": "Two Hands Hospital Assistant Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28672_00",
     "conceptId": 10014309,
     "name": "Two Hands Hospital Assistant Simulator",
@@ -130682,10 +130778,10 @@
   {
     "titleId": "PPSA28797_00",
     "conceptId": 10014383,
-    "name": "Rudolph the Red-Nosed Reindeer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Rudolph The Red-Nosed Reindeer",
+    "contentId": "UP0283-PPSA28797_00-0361071496749038",
+    "region": "UP",
+    "publisherId": "UP0283"
   },
   {
     "titleId": "PPSA28800_00",
@@ -130998,6 +131094,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA28895_00",
+    "conceptId": 10014444,
+    "name": "Grief like a stray dog",
+    "contentId": "JP1932-PPSA28895_00-SYPS5GRIEFLIKEAS",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA28896_00",
+    "conceptId": 10014444,
+    "name": "Grief like a stray dog",
+    "contentId": "HP1792-PPSA28896_00-SYPS5GRIEFLIKEAS",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA28905_00",
@@ -132758,6 +132870,14 @@
     "contentId": "HP8414-PPSA29342_00-SCARLEADSAART000",
     "region": "HP",
     "publisherId": "HP8414"
+  },
+  {
+    "titleId": "PPSA29348_00",
+    "conceptId": 10014720,
+    "name": "7DS Origin(F2P) Special Item Pack(Pre-Order Bundle)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP6414"
   },
   {
     "titleId": "PPSA29350_00",
@@ -134552,6 +134672,14 @@
     "publisherId": "EP6556"
   },
   {
+    "titleId": "PPSA29738_00",
+    "conceptId": 10014938,
+    "name": "Path of Legends",
+    "contentId": "EP6556-PPSA29738_00-0611384556165879",
+    "region": "EP",
+    "publisherId": "EP6556"
+  },
+  {
     "titleId": "PPSA29740_00",
     "conceptId": 10014940,
     "name": "A REPORT: Blackout Protocol",
@@ -135704,6 +135832,14 @@
     "publisherId": "UP8203"
   },
   {
+    "titleId": "PPSA30045_00",
+    "conceptId": 10015114,
+    "name": "Heroes of Mount Dragon",
+    "contentId": "UP8215-PPSA30045_00-0521291584771106",
+    "region": "UP",
+    "publisherId": "UP8215"
+  },
+  {
     "titleId": "PPSA30053_00",
     "conceptId": 10015122,
     "name": "Paper Plane",
@@ -135990,6 +136126,22 @@
     "contentId": "HP8504-PPSA30123_00-0915463998465063",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA30124_00",
+    "conceptId": 10001202,
+    "name": "We Were Here Together",
+    "contentId": "EP4697-PPSA30124_00-0370690658999331",
+    "region": "EP",
+    "publisherId": "EP4697"
+  },
+  {
+    "titleId": "PPSA30125_00",
+    "conceptId": 10001202,
+    "name": "We Were Here Together",
+    "contentId": "UP6535-PPSA30125_00-0851244671382801",
+    "region": "UP",
+    "publisherId": "UP6535"
   },
   {
     "titleId": "PPSA30126_00",
@@ -138499,9 +138651,9 @@
     "titleId": "PPSA30705_00",
     "conceptId": 10015484,
     "name": "The Order of the Snake Scale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA30705_00-ULGSNAKE00000001",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA30706_00",
@@ -138616,12 +138768,60 @@
     "publisherId": "UB0752"
   },
   {
+    "titleId": "PPSA30740_00",
+    "conceptId": 234467,
+    "name": "\u30a2\u30b9\u30c7\u30a3\u30d0\u30a4\u30f3\u30e1\u30ca\u30b9",
+    "contentId": "JP0013-PPSA30740_00-JP0AMENACE000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA30741_00",
+    "conceptId": 234467,
+    "name": "Asdivine Menace",
+    "contentId": "UP2500-PPSA30741_00-US0AMENACE000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
+  },
+  {
+    "titleId": "PPSA30742_00",
+    "conceptId": 234467,
+    "name": "Asdivine Menace",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30743_00",
+    "conceptId": 234879,
+    "name": "\u30d6\u30e9\u30f3\u30c9\u30eb\u306e\u9b54\u6cd5\u4f7f\u3044",
+    "contentId": "JP0013-PPSA30743_00-JP0BRANDEL000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA30746_00",
     "conceptId": 10015498,
     "name": "Arisen Force: Life Devotee",
     "contentId": "HB1358-PPSA30746_00-20250717084359XX",
     "region": "HB",
     "publisherId": "HB1358"
+  },
+  {
+    "titleId": "PPSA30747_00",
+    "conceptId": 235294,
+    "name": "\u30b7\u30fc\u30af\u30cf\u30fc\u30c4",
+    "contentId": "JP0013-PPSA30747_00-JP0SEEKH00000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA30750_00",
+    "conceptId": 10000565,
+    "name": "\u30a4\u30ce\u30bb\u30f3\u30c8\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc \uff5e\u58c1\u306e\u4e59\u5973\u3068\u30df\u30c7\u30f3\u306e\u5854\uff5e",
+    "contentId": "JP0013-PPSA30750_00-JP0MIDEN00000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA30754_00",
@@ -140187,9 +140387,9 @@
     "titleId": "PPSA31281_00",
     "conceptId": 10015788,
     "name": "The Backrooms: Maze Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31281_00-BACKROOMSMAZESEU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31284_00",
@@ -140390,6 +140590,14 @@
     "contentId": "JP0745-PPSA31368_00-0339347551236333",
     "region": "JP",
     "publisherId": "JP0745"
+  },
+  {
+    "titleId": "PPSA31370_00",
+    "conceptId": 10015858,
+    "name": "Cats and Seek : Kyoto",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31374_00",
@@ -140766,6 +140974,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA31482_00",
+    "conceptId": 10015924,
+    "name": "Wild West Shooter",
+    "contentId": "EP4358-PPSA31482_00-WILDWESTSHOOTER5",
+    "region": "EP",
+    "publisherId": "EP4358"
   },
   {
     "titleId": "PPSA31483_00",
@@ -141152,6 +141368,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31610_00",
+    "conceptId": 10016023,
+    "name": "Blablublas Battle Royale Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31613_00",
     "conceptId": 10016029,
     "name": "Trasmoz Legends",
@@ -141438,6 +141662,14 @@
     "contentId": "HP8462-PPSA31675_00-0176495963594010",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA31684_00",
+    "conceptId": 10015263,
+    "name": "\u30a6\u30a3\u30f3\u30bf\u30fc\u30b2\u30fc\u30e0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol. 2",
+    "contentId": "EP3945-PPSA31684_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3945"
   },
   {
     "titleId": "PPSA31691_00",
@@ -143008,6 +143240,14 @@
     "publisherId": "EP5206"
   },
   {
+    "titleId": "PPSA32268_00",
+    "conceptId": 10014784,
+    "name": "Bioprototype",
+    "contentId": "HB1626-PPSA32268_00-0387904410352203",
+    "region": "HB",
+    "publisherId": "HB1626"
+  },
+  {
     "titleId": "PPSA32282_00",
     "conceptId": 10016416,
     "name": "Pixicharm - Hue Break the Law",
@@ -143264,6 +143504,22 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA32413_00",
+    "conceptId": 10016489,
+    "name": "New Supper Banana!",
+    "contentId": "UP7940-PPSA32413_00-0061330921704557",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA32414_00",
+    "conceptId": 10016489,
+    "name": "New Supper Banana!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32420_00",
     "conceptId": 10013969,
     "name": "Captain Puff MacFly (DEMO)",
@@ -143438,6 +143694,14 @@
     "contentId": "HP5361-PPSA32465_00-0000000000PILEUP",
     "region": "HP",
     "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32486_00",
+    "conceptId": 10016527,
+    "name": "Pixicharm - Polar Outta Place",
+    "contentId": "EP1612-PPSA32486_00-POLAROUTTAPLACE0",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA32501_00",
@@ -144248,6 +144512,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32785_00",
+    "conceptId": 10014010,
+    "name": "Nioh 3",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4108"
+  },
+  {
     "titleId": "PPSA32786_00",
     "conceptId": 10014010,
     "name": "Nioh 3",
@@ -144451,17 +144723,17 @@
     "titleId": "PPSA32860_00",
     "conceptId": 10016712,
     "name": "Tube Repairs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA32860_00-0301914146621712",
+    "region": "JP",
+    "publisherId": "JP8458"
   },
   {
     "titleId": "PPSA32861_00",
     "conceptId": 10016712,
     "name": "Tube Repairs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA32861_00-0388945599265615",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA32878_00",
@@ -144832,6 +145104,30 @@
     "publisherId": "EB2111"
   },
   {
+    "titleId": "PPSA33256_00",
+    "conceptId": 10016932,
+    "name": "Liquid Cat",
+    "contentId": "JP7094-PPSA33256_00-0424465351590176",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA33258_00",
+    "conceptId": 10016932,
+    "name": "Liquid Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33259_00",
+    "conceptId": 10016932,
+    "name": "Liquid Cat",
+    "contentId": "HP7141-PPSA33259_00-0446923359523700",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
     "titleId": "PPSA33261_00",
     "conceptId": 10016935,
     "name": "Eternum EX",
@@ -144864,12 +145160,20 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA33290_00",
+    "conceptId": 10016695,
+    "name": "Jump Unlock Escape",
+    "contentId": "UP5464-PPSA33290_00-JUMPUNLOCKESCAPE",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA33291_00",
     "conceptId": 10016695,
     "name": "Jump Unlock Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA33291_00-JUMPUNLOCKESCAPE",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33292_00",
