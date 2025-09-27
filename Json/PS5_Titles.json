@@ -65240,6 +65240,14 @@
     "publisherId": "HP8551"
   },
   {
+    "titleId": "PPSA15285_00",
+    "conceptId": 10007936,
+    "name": "Lethal Honor - Order of the Apocalypse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15290_00",
     "conceptId": 10007937,
     "name": "I Love Finding Birds",
@@ -74019,17 +74027,17 @@
     "titleId": "PPSA16935_00",
     "conceptId": 10008588,
     "name": "Baby Steps",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3643-PPSA16935_00-BABYSTEPS0000000",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA16936_00",
     "conceptId": 10008588,
     "name": "Baby Steps",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3643-PPSA16936_00-BABYSTEPS0000000",
+    "region": "EP",
+    "publisherId": "EP3643"
   },
   {
     "titleId": "PPSA16937_00",
@@ -76326,6 +76334,14 @@
     "contentId": "EB0160-PPSA17424_00-0920507048639298",
     "region": "EB",
     "publisherId": "EB0160"
+  },
+  {
+    "titleId": "PPSA17429_00",
+    "conceptId": 10007566,
+    "name": "\u30d7\u30ec\u30fc\u30c8\u30a2\u30c3\u30d7\uff01",
+    "contentId": "JP0098-PPSA17429_00-0470646061328597",
+    "region": "JP",
+    "publisherId": "JP0098"
   },
   {
     "titleId": "PPSA17439_00",
@@ -79754,8 +79770,8 @@
   {
     "titleId": "PPSA18189_00",
     "conceptId": 10009073,
-    "name": "PAC-MAN WORLD 2 Re-PAC PS4 & PS5",
-    "contentId": null,
+    "name": "PAC-MAN WORLD 2 Re-PAC",
+    "contentId": "UP0700-PPSA18189_00-PACMANWORLD2RPAC",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -93739,7 +93755,7 @@
     "titleId": "PPSA21159_00",
     "conceptId": 10010242,
     "name": "SILENT HILL f",
-    "contentId": null,
+    "contentId": "JP0101-PPSA21159_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -99214,6 +99230,22 @@
     "contentId": null,
     "region": "HP",
     "publisherId": "HP0082"
+  },
+  {
+    "titleId": "PPSA22324_00",
+    "conceptId": 10010273,
+    "name": "PyroMind",
+    "contentId": "UP6963-PPSA22324_00-PYROMINDXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP6963"
+  },
+  {
+    "titleId": "PPSA22325_00",
+    "conceptId": 10010273,
+    "name": "PyroMind",
+    "contentId": "EP6958-PPSA22325_00-PYROMINDXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP6958"
   },
   {
     "titleId": "PPSA22327_00",
@@ -106528,6 +106560,22 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA23908_00",
+    "conceptId": 10011448,
+    "name": "Code Vein II",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA23909_00",
+    "conceptId": 10011448,
+    "name": "CODE VEIN II",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA23910_00",
     "conceptId": 10010500,
     "name": "Antstream Arcade",
@@ -106710,6 +106758,14 @@
     "contentId": "EB0805-PPSA23942_00-0183111930256420",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA23943_00",
+    "conceptId": 10011463,
+    "name": "Microsoft Flight Simulator 2024- Standard Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA23944_00",
@@ -113654,6 +113710,14 @@
     "contentId": "HP0980-PPSA25283_00-0521490747959268",
     "region": "HP",
     "publisherId": "HP0980"
+  },
+  {
+    "titleId": "PPSA25286_00",
+    "conceptId": 10002363,
+    "name": "Crimson Desert",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4162"
   },
   {
     "titleId": "PPSA25287_00",
@@ -121123,7 +121187,7 @@
     "titleId": "PPSA26792_00",
     "conceptId": 10012578,
     "name": "Atelier Resleriana: The Red Alchemist & the White Guardian",
-    "contentId": null,
+    "contentId": "EP4108-PPSA26792_00-RESLERI100MASTER",
     "region": "EP",
     "publisherId": "EP4108"
   },
@@ -123986,8 +124050,8 @@
   {
     "titleId": "PPSA27360_00",
     "conceptId": 10011898,
-    "name": "EA SPORTS FC\u2122 26 Ultimate Edition PS4 & PS5",
-    "contentId": null,
+    "name": "EA SPORTS FC 26",
+    "contentId": "UP0006-PPSA27360_00-EASPORTSFC2026BG",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -124290,18 +124354,18 @@
   {
     "titleId": "PPSA27427_00",
     "conceptId": 10013422,
-    "name": "The Jumping Strawberry - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Strawberry",
+    "contentId": "EP6664-PPSA27427_00-0099092330728748",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA27428_00",
     "conceptId": 10013422,
-    "name": "The Jumping Strawberry - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Strawberry",
+    "contentId": "UP6664-PPSA27428_00-0808126570722443",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA27429_00",
@@ -124314,10 +124378,10 @@
   {
     "titleId": "PPSA27430_00",
     "conceptId": 10013422,
-    "name": "The Jumping Strawberry - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Strawberry",
+    "contentId": "HP6661-PPSA27430_00-0713051531497503",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA27435_00",
@@ -127387,9 +127451,9 @@
     "titleId": "PPSA28047_00",
     "conceptId": 10010043,
     "name": "Mamorukun ReCurse!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6027-PPSA28047_00-MAMORUKUNCURSECR",
+    "region": "EP",
+    "publisherId": "EP6027"
   },
   {
     "titleId": "PPSA28048_00",
@@ -127579,9 +127643,9 @@
     "titleId": "PPSA28094_00",
     "conceptId": 10013931,
     "name": "Airborne Justice",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28094_00-AIRBORNEJUSTICRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28095_00",
@@ -130968,6 +131032,30 @@
     "publisherId": "UP2158"
   },
   {
+    "titleId": "PPSA28858_00",
+    "conceptId": 10012897,
+    "name": "Hannah",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28859_00",
+    "conceptId": 10012897,
+    "name": "Hannah",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28860_00",
+    "conceptId": 10012897,
+    "name": "Hannah",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28872_00",
     "conceptId": 10010911,
     "name": "KARMA: The Dark World EP",
@@ -131083,17 +131171,17 @@
     "titleId": "PPSA28893_00",
     "conceptId": 10014444,
     "name": "Grief like a stray dog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA28893_00-SYPS5GRIEFLIKEAS",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA28894_00",
     "conceptId": 10014444,
     "name": "Grief like a stray dog",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA28894_00-SYPS5GRIEFLIKEAS",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA28895_00",
@@ -138504,6 +138592,14 @@
     "publisherId": "JP0177"
   },
   {
+    "titleId": "PPSA30667_00",
+    "conceptId": 10015449,
+    "name": "Grunio\u017cerca Trilogy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30668_00",
     "conceptId": 10015451,
     "name": "Exit the lot",
@@ -138680,6 +138776,30 @@
     "publisherId": "UB0743"
   },
   {
+    "titleId": "PPSA30709_00",
+    "conceptId": 10015449,
+    "name": "Grunio\u017cerca Trilogy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30710_00",
+    "conceptId": 10015449,
+    "name": "Grunio\u017cerca Trilogy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30711_00",
+    "conceptId": 10015449,
+    "name": "Grunio\u017cerca Trilogy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30715_00",
     "conceptId": 10015487,
     "name": "Dungeons of Paint",
@@ -138787,9 +138907,9 @@
     "titleId": "PPSA30742_00",
     "conceptId": 234467,
     "name": "Asdivine Menace",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA30742_00-EU0AMENACE000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA30743_00",
@@ -139310,6 +139430,14 @@
     "contentId": "EP5987-PPSA30926_00-ULGHOOKCEPS50001",
     "region": "EP",
     "publisherId": "EP5987"
+  },
+  {
+    "titleId": "PPSA30927_00",
+    "conceptId": 10015623,
+    "name": "Junkyard Builder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30929_00",
@@ -142384,6 +142512,14 @@
     "publisherId": "EP7177"
   },
   {
+    "titleId": "PPSA31945_00",
+    "conceptId": 10016227,
+    "name": "Jump Land Glow Challenge",
+    "contentId": "UP7668-PPSA31945_00-0290503463824253",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31956_00",
     "conceptId": 10016236,
     "name": "Draconic Resurgence",
@@ -142720,12 +142856,20 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA32087_00",
+    "conceptId": 10016301,
+    "name": "For a few minutes",
+    "contentId": "UP7335-PPSA32087_00-0203557343615910",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA32088_00",
     "conceptId": 10016301,
     "name": "For a few minutes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA32088_00-0518784714226709",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA32111_00",
@@ -143515,9 +143659,9 @@
     "titleId": "PPSA32414_00",
     "conceptId": 10016489,
     "name": "New Supper Banana!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7938-PPSA32414_00-0032249382736362",
+    "region": "EP",
+    "publisherId": "EP7938"
   },
   {
     "titleId": "PPSA32420_00",
@@ -143534,6 +143678,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32437_00",
+    "conceptId": 10016489,
+    "name": "New Supper Banana!",
+    "contentId": "UP7940-PPSA32437_00-0247761829138153",
+    "region": "UP",
+    "publisherId": "UP7940"
   },
   {
     "titleId": "PPSA32444_00",
@@ -144707,17 +144859,17 @@
     "titleId": "PPSA32858_00",
     "conceptId": 10016712,
     "name": "Tube Repairs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA32858_00-0643716532138135",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA32859_00",
     "conceptId": 10016712,
     "name": "Tube Repairs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA32859_00-0611835687978310",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA32860_00",
@@ -145064,6 +145216,22 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA33163_00",
+    "conceptId": 10016873,
+    "name": "Memory Holder: Scent of Life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33164_00",
+    "conceptId": 10016873,
+    "name": "Memory Holder: Scent of Life",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33203_00",
     "conceptId": 10016203,
     "name": "Orchard Odyssey: Cherry Chase",
@@ -145096,6 +145264,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33209_00",
+    "conceptId": 10016899,
+    "name": "The Jumping Ball",
+    "contentId": "UB0487-PPSA33209_00-0867196482443099",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA33210_00",
+    "conceptId": 10016899,
+    "name": "The Jumping Ball",
+    "contentId": "UB0487-PPSA33210_00-0035214868152531",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA33211_00",
+    "conceptId": 10016899,
+    "name": "The Jumping Ball",
+    "contentId": "UB0487-PPSA33211_00-0394278622215392",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA33212_00",
+    "conceptId": 10016899,
+    "name": "The Jumping Ball",
+    "contentId": "UB0487-PPSA33212_00-0353950628615444",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
     "titleId": "PPSA33231_00",
     "conceptId": 10016538,
     "name": "Schedule I - Drug Dealer",
@@ -145112,12 +145312,20 @@
     "publisherId": "JP7094"
   },
   {
+    "titleId": "PPSA33257_00",
+    "conceptId": 10016932,
+    "name": "Liquid Cat",
+    "contentId": "UP7126-PPSA33257_00-0078330245624385",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
     "titleId": "PPSA33258_00",
     "conceptId": 10016932,
     "name": "Liquid Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA33258_00-0686893083869492",
+    "region": "EP",
+    "publisherId": "EP7123"
   },
   {
     "titleId": "PPSA33259_00",
@@ -145131,17 +145339,17 @@
     "titleId": "PPSA33261_00",
     "conceptId": 10016935,
     "name": "Eternum EX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA33261_00-0245156191921810",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA33262_00",
     "conceptId": 10016935,
     "name": "Eternum EX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA33262_00-0317946041329552",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA33271_00",
@@ -145216,6 +145424,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33331_00",
+    "conceptId": 10016913,
+    "name": "EA SPORTS FC\u2122 26 SHOWCASE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33413_00",
     "conceptId": 10016979,
     "name": ">start ai",
@@ -145246,5 +145462,21 @@
     "contentId": "HB0876-PPSA33416_00-0581054964082171",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA33418_00",
+    "conceptId": 10016997,
+    "name": "Bike Runner",
+    "contentId": "UP7552-PPSA33418_00-0370858210241861",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA33571_00",
+    "conceptId": 10017078,
+    "name": "Drift Highway: Retro Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
