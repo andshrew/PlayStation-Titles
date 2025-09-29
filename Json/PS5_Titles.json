@@ -79763,7 +79763,7 @@
     "titleId": "PPSA18188_00",
     "conceptId": 10009073,
     "name": "PAC-MAN WORLD 2 Re-PAC",
-    "contentId": null,
+    "contentId": "EP0700-PPSA18188_00-PACMANWORLD2RPAC",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -94627,9 +94627,9 @@
     "titleId": "PPSA21349_00",
     "conceptId": 10010271,
     "name": "HOTEL BARCELONA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3918-PPSA21349_00-ZZZZZZZZZZZZZZZZ",
+    "region": "JP",
+    "publisherId": "JP3918"
   },
   {
     "titleId": "PPSA21353_00",
@@ -115192,6 +115192,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25546_00",
+    "conceptId": 10011999,
+    "name": "RollCats",
+    "contentId": "EB1284-PPSA25546_00-0621166028133106",
+    "region": "EB",
+    "publisherId": "EB1284"
+  },
+  {
     "titleId": "PPSA25547_00",
     "conceptId": 10012259,
     "name": "Germanfest",
@@ -130912,6 +130920,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA28815_00",
+    "conceptId": 10014391,
+    "name": "Screw Master",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28821_00",
     "conceptId": 10011140,
     "name": "Rock 'N Racing Bundle 3 in 1",
@@ -143696,6 +143712,14 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA32415_00",
+    "conceptId": 10016489,
+    "name": "New Supper Banana!",
+    "contentId": "HP7967-PPSA32415_00-0425199400064008",
+    "region": "HP",
+    "publisherId": "HP7967"
+  },
+  {
     "titleId": "PPSA32420_00",
     "conceptId": 10013969,
     "name": "Captain Puff MacFly (DEMO)",
@@ -144401,6 +144425,30 @@
   },
   {
     "titleId": "PPSA32648_00",
+    "conceptId": 10012895,
+    "name": "SUM10",
+    "contentId": "EP5645-PPSA32648_00-00000000000SUM10",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32651_00",
+    "conceptId": 10012895,
+    "name": "SUM10",
+    "contentId": "EP5645-PPSA32651_00-00000000000SUM10",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32652_00",
+    "conceptId": 10016618,
+    "name": "I made her up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32653_00",
     "conceptId": 10012895,
     "name": "SUM10",
     "contentId": null,
@@ -145416,6 +145464,14 @@
     "publisherId": "JB1686"
   },
   {
+    "titleId": "PPSA33282_00",
+    "conceptId": 10016942,
+    "name": "Duck Hunt VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33289_00",
     "conceptId": 10016695,
     "name": "Jump Unlock Escape",
@@ -145459,9 +145515,9 @@
     "titleId": "PPSA33321_00",
     "conceptId": 10016959,
     "name": "BOUNCY BREAD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA33321_00-0347080728463436",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA33322_00",
@@ -145486,6 +145542,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA33337_00",
+    "conceptId": 10016415,
+    "name": "Good Knight's Sleep",
+    "contentId": "UB0706-PPSA33337_00-0068675113471554",
+    "region": "UB",
+    "publisherId": "UB0706"
+  },
+  {
+    "titleId": "PPSA33338_00",
+    "conceptId": 10016415,
+    "name": "Good Knight's Sleep",
+    "contentId": "EB0901-PPSA33338_00-0098208769765326",
+    "region": "EB",
+    "publisherId": "EB0901"
+  },
+  {
+    "titleId": "PPSA33339_00",
+    "conceptId": 10016415,
+    "name": "Good Knight's Sleep",
+    "contentId": "JB0645-PPSA33339_00-0020314600338421",
+    "region": "JB",
+    "publisherId": "JB0645"
+  },
+  {
+    "titleId": "PPSA33340_00",
+    "conceptId": 10016415,
+    "name": "Good Knight's Sleep",
+    "contentId": "HB0674-PPSA33340_00-0690698237197765",
+    "region": "HB",
+    "publisherId": "HB0674"
   },
   {
     "titleId": "PPSA33413_00",
