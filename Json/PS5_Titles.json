@@ -38618,8 +38618,8 @@
   {
     "titleId": "PPSA08804_00",
     "conceptId": 10005570,
-    "name": "Sonic Racing: CrossWorlds PS4 & PS5",
-    "contentId": null,
+    "name": "Sonic Racing: CrossWorlds",
+    "contentId": "JP0177-PPSA08804_00-SONICRACINGCW000",
     "region": "JP",
     "publisherId": "JP0177"
   },
@@ -72544,6 +72544,14 @@
     "publisherId": "EP4977"
   },
   {
+    "titleId": "PPSA16634_00",
+    "conceptId": 10008447,
+    "name": "Satisfactory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16636_00",
     "conceptId": 10007176,
     "name": "EA SPORTS FC\u2122 24",
@@ -102648,6 +102656,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA23066_00",
+    "conceptId": 10010903,
+    "name": "Biped 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23067_00",
     "conceptId": 10010995,
     "name": "Smoots Summer Games II",
@@ -103678,6 +103694,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23321_00",
+    "conceptId": 10011133,
+    "name": "MOUTHOLE",
+    "contentId": "HP1792-PPSA23321_00-SYPS5MOUTHOLE000",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA23324_00",
@@ -118208,6 +118232,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA26172_00",
+    "conceptId": 10012661,
+    "name": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 All\u2019s Justice",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA26176_00",
     "conceptId": 10002114,
     "name": "\u795e\u3005\u306e\u30ea\u30ba\u30e0",
@@ -121126,6 +121158,14 @@
     "contentId": "HP8462-PPSA26758_00-0671581170902362",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA26763_00",
+    "conceptId": 10013025,
+    "name": "Let's Sing 2026",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26765_00",
@@ -128704,6 +128744,14 @@
     "publisherId": "UP2136"
   },
   {
+    "titleId": "PPSA28294_00",
+    "conceptId": 10013025,
+    "name": "Let's Sing 2026",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28296_00",
     "conceptId": 10013738,
     "name": "Knock on the Coffin Lid",
@@ -132211,15 +132259,15 @@
     "titleId": "PPSA29141_00",
     "conceptId": 10014603,
     "name": "LEGO\u00ae Party!",
-    "contentId": null,
+    "contentId": "EB1794-PPSA29141_00-LEGOPARTYSIEE000",
     "region": "EB",
     "publisherId": "EB1794"
   },
   {
     "titleId": "PPSA29142_00",
     "conceptId": 10014603,
-    "name": "LEGO\u00ae\u30d1\u30fc\u30c6\u30a3\u30fc\u3067",
-    "contentId": null,
+    "name": "LEGO\u00ae Party!",
+    "contentId": "JB1538-PPSA29142_00-LEGOPARTYSIEJ000",
     "region": "JB",
     "publisherId": "JB1538"
   },
@@ -132227,7 +132275,7 @@
     "titleId": "PPSA29143_00",
     "conceptId": 10014603,
     "name": "LEGO\u00ae Party!",
-    "contentId": null,
+    "contentId": "HB1567-PPSA29143_00-LEGOPARTYSIEJA00",
     "region": "HB",
     "publisherId": "HB1567"
   },
@@ -135666,8 +135714,8 @@
   {
     "titleId": "PPSA29953_00",
     "conceptId": 10015062,
-    "name": "Train Sim World\u00ae 6: Standard Edition PS4 & PS5",
-    "contentId": null,
+    "name": "Train Sim World 6",
+    "contentId": "EP2866-PPSA29953_00-TRAINSIMWORLD6DG",
     "region": "EP",
     "publisherId": "EP2866"
   },
@@ -137280,6 +137328,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA30344_00",
+    "conceptId": 10015251,
+    "name": "MotoTrials",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30349_00",
     "conceptId": 10015275,
     "name": "Horse Dash",
@@ -137435,7 +137491,7 @@
     "titleId": "PPSA30390_00",
     "conceptId": 10015301,
     "name": "Alien: Rogue Incursion Evolved Edition",
-    "contentId": null,
+    "contentId": "UP2292-PPSA30390_00-ARIEVOLVED000001",
     "region": "UP",
     "publisherId": "UP2292"
   },
@@ -137443,7 +137499,7 @@
     "titleId": "PPSA30391_00",
     "conceptId": 10015301,
     "name": "Alien: Rogue Incursion Evolved Edition",
-    "contentId": null,
+    "contentId": "EP2147-PPSA30391_00-ARIEVOLVED000001",
     "region": "EP",
     "publisherId": "EP2147"
   },
@@ -139766,6 +139822,14 @@
     "contentId": "HP8462-PPSA31065_00-0168631759503401",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA31066_00",
+    "conceptId": 10015663,
+    "name": "Adrenaline Rampage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31067_00",
@@ -143016,6 +143080,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32116_00",
+    "conceptId": 10011509,
+    "name": "PAKU PAKU",
+    "contentId": "EP5645-PPSA32116_00-0987048755894081",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA32134_00",
     "conceptId": 10013362,
     "name": "Let's compare the speed of our punches!",
@@ -143363,9 +143435,9 @@
     "titleId": "PPSA32230_00",
     "conceptId": 10016377,
     "name": "Zerion 12",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7276-PPSA32230_00-0000ZERION120000",
+    "region": "UP",
+    "publisherId": "UP7276"
   },
   {
     "titleId": "PPSA32233_00",
@@ -144624,6 +144696,14 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA32708_00",
+    "conceptId": 10016641,
+    "name": "Hajwalah Of Riyadh",
+    "contentId": "HB1728-PPSA32708_00-0558491273411822",
+    "region": "HB",
+    "publisherId": "HB1728"
+  },
+  {
     "titleId": "PPSA32715_00",
     "conceptId": 10013349,
     "name": "IntegriFIx",
@@ -145398,6 +145478,38 @@
     "contentId": "HB0876-PPSA33141_00-0059846035307695",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA33142_00",
+    "conceptId": 10016796,
+    "name": "Red Cape Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33143_00",
+    "conceptId": 10016796,
+    "name": "Red Cape Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33144_00",
+    "conceptId": 10016796,
+    "name": "Red Cape Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33145_00",
+    "conceptId": 10016796,
+    "name": "Red Cape Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33163_00",
