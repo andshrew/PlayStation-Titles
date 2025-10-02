@@ -102712,6 +102712,14 @@
     "publisherId": "EP0455"
   },
   {
+    "titleId": "PPSA23076_00",
+    "conceptId": 10010903,
+    "name": "Biped 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23083_00",
     "conceptId": 10010877,
     "name": "ELDEN RING NIGHTREIGN",
@@ -103683,9 +103691,9 @@
     "titleId": "PPSA23318_00",
     "conceptId": 10011133,
     "name": "MOUTHOLE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA23318_00-SYPS5MOUTHOLE000",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA23319_00",
@@ -103694,6 +103702,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA23320_00",
+    "conceptId": 10011133,
+    "name": "MOUTHOLE",
+    "contentId": "EP1661-PPSA23320_00-SYPS5MOUTHOLE000",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA23321_00",
@@ -109408,6 +109424,14 @@
     "publisherId": "UP7907"
   },
   {
+    "titleId": "PPSA24420_00",
+    "conceptId": 10011712,
+    "name": "Blacktop Hoops",
+    "contentId": "UP8486-PPSA24420_00-0041594521010746",
+    "region": "UP",
+    "publisherId": "UP8486"
+  },
+  {
     "titleId": "PPSA24421_00",
     "conceptId": 10001260,
     "name": "MARS 2120",
@@ -114187,9 +114211,25 @@
     "titleId": "PPSA25351_00",
     "conceptId": 10012151,
     "name": "Buildest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA25351_00-SYPS5BUILDEST000",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA25352_00",
+    "conceptId": 10012151,
+    "name": "Buildest",
+    "contentId": "JP1932-PPSA25352_00-SYPS5BUILDEST000",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA25353_00",
+    "conceptId": 10012151,
+    "name": "Buildest",
+    "contentId": "HP1792-PPSA25353_00-SYPS5BUILDEST000",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA25354_00",
@@ -116304,6 +116344,14 @@
     "publisherId": "EP3024"
   },
   {
+    "titleId": "PPSA25764_00",
+    "conceptId": 10004414,
+    "name": "Magical Delicacy",
+    "contentId": "UP5223-PPSA25764_00-MAGIDELIFULL0PS5",
+    "region": "UP",
+    "publisherId": "UP5223"
+  },
+  {
     "titleId": "PPSA25769_00",
     "conceptId": 10011382,
     "name": "\u30d4\u30d4\u30b9\u30c8\u30ec\u30c3\u30ed\u3068\u30e8\u30fc\u30e8\u30fc\u306e\u546a\u3044 \u4f53\u9a13\u7248",
@@ -118240,6 +118288,30 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA26173_00",
+    "conceptId": 10012661,
+    "name": "MY HERO ACADEMIA: All\u2019s Justice",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA26174_00",
+    "conceptId": 10012661,
+    "name": "MY HERO ACADEMIA: All\u2019s Justice",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA26175_00",
+    "conceptId": 10012661,
+    "name": "MY HERO ACADEMIA: All\u2019s Justice",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA26176_00",
     "conceptId": 10002114,
     "name": "\u795e\u3005\u306e\u30ea\u30ba\u30e0",
@@ -119162,8 +119234,8 @@
   {
     "titleId": "PPSA26344_00",
     "conceptId": 10003923,
-    "name": "Ghost of Y\u014dtei\u2122",
-    "contentId": null,
+    "name": "Ghost of Y\u014dtei",
+    "contentId": "UP9000-PPSA26344_00-GHOST2SHIP000000",
     "region": "UP",
     "publisherId": "UP9000"
   },
@@ -123194,10 +123266,10 @@
   {
     "titleId": "PPSA27187_00",
     "conceptId": 10009333,
-    "name": "Dark Atlas: Infernum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dark Atlas: Infernum Demo",
+    "contentId": "EP6325-PPSA27187_00-0105396363939918",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA27188_00",
@@ -125763,9 +125835,9 @@
     "titleId": "PPSA27691_00",
     "conceptId": 10013594,
     "name": "Notice Me Leena-senpai!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA27691_00-NOTICEMELEENASEN",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA27694_00",
@@ -131760,6 +131832,14 @@
     "publisherId": "UB1028"
   },
   {
+    "titleId": "PPSA29006_00",
+    "conceptId": 10009333,
+    "name": "Dark Atlas: Infernum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29010_00",
     "conceptId": 10014501,
     "name": "Nicktoons & The Dice of Destiny",
@@ -132251,7 +132331,7 @@
     "titleId": "PPSA29140_00",
     "conceptId": 10014603,
     "name": "LEGO\u00ae Party!",
-    "contentId": null,
+    "contentId": "UB1599-PPSA29140_00-LEGOPARTYSIEA000",
     "region": "UB",
     "publisherId": "UB1599"
   },
@@ -132870,6 +132950,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA29295_00",
+    "conceptId": 10013364,
+    "name": "\u9b54\u6cd5\u4f7f\u3044\u306e\u5ac1\u3000\u76db\u590f\u306e\u5e7b\u3068\u5922\u898b\u308b\u65c5\u8def",
+    "contentId": "HP6931-PPSA29295_00-BRIDE00000000000",
+    "region": "HP",
+    "publisherId": "HP6931"
   },
   {
     "titleId": "PPSA29297_00",
@@ -139704,6 +139792,38 @@
     "publisherId": "HB1728"
   },
   {
+    "titleId": "PPSA30968_00",
+    "conceptId": 10015647,
+    "name": "The Jumping Bonbon Match 4 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30969_00",
+    "conceptId": 10015647,
+    "name": "The Jumping Bonbon Match 4 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30970_00",
+    "conceptId": 10015647,
+    "name": "The Jumping Bonbon Match 4 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30971_00",
+    "conceptId": 10015647,
+    "name": "The Jumping Bonbon Match 4 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31026_00",
     "conceptId": 10015655,
     "name": "Puzzle Piecer: The Sky Above",
@@ -141176,6 +141296,14 @@
     "publisherId": "UB0445"
   },
   {
+    "titleId": "PPSA31451_00",
+    "conceptId": 10015882,
+    "name": "A Wild Last Boss Appeared! ~Black-Winged Survivor~",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31452_00",
     "conceptId": 10011055,
     "name": "Aquatic Life: Fish Simulator RPG",
@@ -141688,6 +141816,22 @@
     "publisherId": "UP0751"
   },
   {
+    "titleId": "PPSA31616_00",
+    "conceptId": 10011745,
+    "name": "FLIPBOMB",
+    "contentId": "EP5645-PPSA31616_00-0889823255567229",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31617_00",
+    "conceptId": 10011745,
+    "name": "FLIPBOMB",
+    "contentId": "EP5645-PPSA31617_00-0179771260008798",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA31620_00",
     "conceptId": 10016028,
     "name": "Treasure Island",
@@ -141795,9 +141939,9 @@
     "titleId": "PPSA31637_00",
     "conceptId": 10016039,
     "name": "Oh, Canada!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31637_00-OHCANADA000000JP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31638_00",
@@ -143568,6 +143712,14 @@
     "publisherId": "HB1626"
   },
   {
+    "titleId": "PPSA32271_00",
+    "conceptId": 10016403,
+    "name": "Arcade Archives 2 GEE BEE",
+    "contentId": "JP0571-PPSA32271_00-0538416178489778",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA32282_00",
     "conceptId": 10016416,
     "name": "Pixicharm - Hue Break the Law",
@@ -144112,6 +144264,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32514_00",
+    "conceptId": 10011839,
+    "name": "Chained Climb Together",
+    "contentId": "UB0797-PPSA32514_00-0991454887543718",
+    "region": "UB",
+    "publisherId": "UB0797"
+  },
+  {
     "titleId": "PPSA32515_00",
     "conceptId": 10016539,
     "name": "Sniper Rescue",
@@ -144598,6 +144758,22 @@
     "contentId": "HP5361-PPSA32653_00-00000000000SUM10",
     "region": "HP",
     "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA32655_00",
+    "conceptId": 10016616,
+    "name": "Beauty Clicker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32657_00",
+    "conceptId": 10016616,
+    "name": "Beauty Clicker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32659_00",
@@ -145648,6 +145824,22 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA33269_00",
+    "conceptId": 10016376,
+    "name": "Stay Still",
+    "contentId": "JP1134-PPSA33269_00-0146694630317438",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
+    "titleId": "PPSA33270_00",
+    "conceptId": 10016376,
+    "name": "Stay Still",
+    "contentId": "HP0980-PPSA33270_00-0463520046026354",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA33271_00",
     "conceptId": 10016391,
     "name": "Green Soldiers Heroes: Extreme Bikers (Demo)",
@@ -145806,6 +145998,14 @@
     "contentId": "UP7552-PPSA33418_00-0370858210241861",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA33466_00",
+    "conceptId": 10016029,
+    "name": "Trasmoz Legends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33571_00",
