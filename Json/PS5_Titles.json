@@ -82816,6 +82816,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA18870_00",
+    "conceptId": 10007128,
+    "name": "One Military Camp",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18871_00",
     "conceptId": 10008624,
     "name": "Ghost Signal: A Stellaris Game Demo",
@@ -110811,7 +110819,7 @@
     "titleId": "PPSA24699_00",
     "conceptId": 10011861,
     "name": "\u30c7\u30b8\u30e2\u30f3\u30b9\u30c8\u30fc\u30ea\u30fc \u30bf\u30a4\u30e0\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc",
-    "contentId": null,
+    "contentId": "JP0700-PPSA24699_00-DIGIMONSTORYTS00",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -117728,12 +117736,28 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA26045_00",
+    "conceptId": 10012555,
+    "name": "Color Swiper 2 - DEMO",
+    "contentId": "EP6664-PPSA26045_00-0776897377466492",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
     "titleId": "PPSA26047_00",
     "conceptId": 10012555,
     "name": "Color Swiper 2 - DEMO",
     "contentId": "JP6595-PPSA26047_00-0547813298927399",
     "region": "JP",
     "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA26048_00",
+    "conceptId": 10012555,
+    "name": "Color Swiper 2 - DEMO",
+    "contentId": "HP6661-PPSA26048_00-0269235021417346",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26053_00",
@@ -126323,9 +126347,9 @@
     "titleId": "PPSA27775_00",
     "conceptId": 10013666,
     "name": "Castle of Heart: Retold",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5112-PPSA27775_00-0589080011846458",
+    "region": "EP",
+    "publisherId": "EP5112"
   },
   {
     "titleId": "PPSA27776_00",
@@ -126832,12 +126856,20 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA27853_00",
+    "conceptId": 10013715,
+    "name": "Dirt Racing Rally & Trucks",
+    "contentId": "EP6922-PPSA27853_00-0836975314325475",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA27854_00",
     "conceptId": 10013715,
-    "name": "Dirt Racing Bundle Rally & Truck",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Dirt Racing Rally & Trucks",
+    "contentId": "EP6922-PPSA27854_00-0869509093596685",
+    "region": "EP",
+    "publisherId": "EP6922"
   },
   {
     "titleId": "PPSA27866_00",
@@ -131219,9 +131251,9 @@
     "titleId": "PPSA28842_00",
     "conceptId": 10014407,
     "name": "Lorn's Lure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3528-PPSA28842_00-LORNSLUREXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP3528"
   },
   {
     "titleId": "PPSA28843_00",
@@ -131235,17 +131267,17 @@
     "titleId": "PPSA28844_00",
     "conceptId": 10014407,
     "name": "Lorn's Lure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3568-PPSA28844_00-LORNSLUREXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP3568"
   },
   {
     "titleId": "PPSA28845_00",
     "conceptId": 10014407,
     "name": "Lorn's Lure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3473-PPSA28845_00-LORNSLUREXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA28846_00",
@@ -135459,17 +135491,17 @@
     "titleId": "PPSA29854_00",
     "conceptId": 10015006,
     "name": "Motel Business Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29854_00-0893485343083276",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29855_00",
     "conceptId": 10015006,
     "name": "Motel Business Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA29855_00-0454156075533589",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA29856_00",
@@ -139296,6 +139328,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA30792_00",
+    "conceptId": 10015521,
+    "name": "Bloodshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30795_00",
     "conceptId": 10015525,
     "name": "Simon the Sorcerer Origins",
@@ -139315,9 +139355,9 @@
     "titleId": "PPSA30798_00",
     "conceptId": 10015522,
     "name": "Judero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0655-PPSA30798_00-0953421814880459",
+    "region": "UB",
+    "publisherId": "UB0655"
   },
   {
     "titleId": "PPSA30804_00",
@@ -139890,18 +139930,18 @@
   {
     "titleId": "PPSA30970_00",
     "conceptId": 10015647,
-    "name": "The Jumping Bonbon Match 4 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Bonbon Match 4",
+    "contentId": "JP6595-PPSA30970_00-0014105745359893",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA30971_00",
     "conceptId": 10015647,
-    "name": "The Jumping Bonbon Match 4 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Bonbon Match 4",
+    "contentId": "HP6661-PPSA30971_00-0130281943185013",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA31026_00",
@@ -140898,18 +140938,18 @@
   {
     "titleId": "PPSA31322_00",
     "conceptId": 10005079,
-    "name": "The Grinch: Christmas Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Grinch: Christmas Adventures - Merry & Mischievous Edition",
+    "contentId": "EP3678-PPSA31322_00-0123456789ABCDEF",
+    "region": "EP",
+    "publisherId": "EP3678"
   },
   {
     "titleId": "PPSA31323_00",
     "conceptId": 10005079,
-    "name": "The Grinch: Christmas Adventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Grinch: Christmas Adventures - Merry & Mischievous Edition",
+    "contentId": "UP3824-PPSA31323_00-0123456789ABCDEF",
+    "region": "UP",
+    "publisherId": "UP3824"
   },
   {
     "titleId": "PPSA31326_00",
@@ -141294,6 +141334,22 @@
     "contentId": "EP1411-PPSA31419_00-0960843622745059",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31424_00",
+    "conceptId": 10015890,
+    "name": "Laundry Store Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31425_00",
+    "conceptId": 10015890,
+    "name": "Laundry Store Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31430_00",
@@ -142208,6 +142264,14 @@
     "publisherId": "EP3945"
   },
   {
+    "titleId": "PPSA31686_00",
+    "conceptId": 10016069,
+    "name": "Castle Crumble",
+    "contentId": "EP4897-PPSA31686_00-CASTLEBLASTOFFXX",
+    "region": "EP",
+    "publisherId": "EP4897"
+  },
+  {
     "titleId": "PPSA31691_00",
     "conceptId": 10016073,
     "name": "Tiny Little Farm",
@@ -142408,10 +142472,34 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31749_00",
+    "conceptId": 10011747,
+    "name": "UP 1 WAY",
+    "contentId": "EP5645-PPSA31749_00-0685251150309344",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA31750_00",
     "conceptId": 10011747,
     "name": "UP 1 WAY",
     "contentId": "EP5645-PPSA31750_00-0070891853541868",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31751_00",
+    "conceptId": 10011747,
+    "name": "UP 1 WAY",
+    "contentId": "EP5645-PPSA31751_00-0589543818226653",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31752_00",
+    "conceptId": 10011747,
+    "name": "UP 1 WAY",
+    "contentId": "EP5645-PPSA31752_00-0835481858419857",
     "region": "EP",
     "publisherId": "EP5645"
   },
@@ -142566,6 +142654,14 @@
     "contentId": "UP7552-PPSA31786_00-0871063235687912",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA31789_00",
+    "conceptId": 10011748,
+    "name": "FROM TWO SIDES",
+    "contentId": "EP5645-PPSA31789_00-0408379422614883",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA31798_00",
@@ -143707,17 +143803,17 @@
     "titleId": "PPSA32228_00",
     "conceptId": 10016376,
     "name": "Stay Still",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA32228_00-0766519093067274",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA32229_00",
     "conceptId": 10016376,
     "name": "Stay Still",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA32229_00-0780620362326167",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA32230_00",
@@ -143931,9 +144027,9 @@
     "titleId": "PPSA32307_00",
     "conceptId": 233983,
     "name": "Legend of the Tetrarchs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA32307_00-EU0FOURLEGE00PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA32308_00",
@@ -144971,17 +145067,17 @@
     "titleId": "PPSA32655_00",
     "conceptId": 10016616,
     "name": "Beauty Clicker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4476-PPSA32655_00-0129120319421869",
+    "region": "EP",
+    "publisherId": "EP4476"
   },
   {
     "titleId": "PPSA32657_00",
     "conceptId": 10016616,
     "name": "Beauty Clicker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2136-PPSA32657_00-0500078203302527",
+    "region": "UP",
+    "publisherId": "UP2136"
   },
   {
     "titleId": "PPSA32659_00",
@@ -145816,7 +145912,31 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA32997_00",
+    "conceptId": 10016772,
+    "name": "Cloud to Gold",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32998_00",
+    "conceptId": 10016772,
+    "name": "Cloud to Gold",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32999_00",
+    "conceptId": 10016772,
+    "name": "Cloud to Gold",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33000_00",
     "conceptId": 10016772,
     "name": "Cloud to Gold",
     "contentId": null,
@@ -145931,9 +146051,9 @@
     "titleId": "PPSA33164_00",
     "conceptId": 10016873,
     "name": "Memory Holder: Scent of Life",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA33164_00-0095302102187465",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA33165_00",
@@ -146014,6 +146134,14 @@
     "contentId": "UB0487-PPSA33212_00-0353950628615444",
     "region": "UB",
     "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA33228_00",
+    "conceptId": 10016912,
+    "name": "Road Turbo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33231_00",
@@ -146256,9 +146384,49 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33507_00",
+    "conceptId": 10017032,
+    "name": "Puzzle Piecer: Leaves of Autumn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33508_00",
+    "conceptId": 10017032,
+    "name": "Puzzle Piecer: Leaves of Autumn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33571_00",
     "conceptId": 10017078,
     "name": "Drift Highway: Retro Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33682_00",
+    "conceptId": 10017154,
+    "name": "Sokmeal Time",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33683_00",
+    "conceptId": 10017154,
+    "name": "Sokmeal Time",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33684_00",
+    "conceptId": 10017154,
+    "name": "Sokmeal Time",
     "contentId": null,
     "region": null,
     "publisherId": null
