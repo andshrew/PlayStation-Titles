@@ -50360,6 +50360,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA10739_00",
+    "conceptId": 223059,
+    "name": "Little Nightmares",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA10740_00",
     "conceptId": 223059,
     "name": "Little Nightmares",
@@ -110827,7 +110835,7 @@
     "titleId": "PPSA24700_00",
     "conceptId": 10011861,
     "name": "Digimon Story Time Stranger",
-    "contentId": null,
+    "contentId": "HP0700-PPSA24700_00-DIGIMONSTORYTS00",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -110835,7 +110843,7 @@
     "titleId": "PPSA24701_00",
     "conceptId": 10011861,
     "name": "Digimon Story Time Stranger",
-    "contentId": null,
+    "contentId": "EP0700-PPSA24701_00-DIGIMONSTORYTS00",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -114227,9 +114235,9 @@
     "titleId": "PPSA25350_00",
     "conceptId": 10012151,
     "name": "Buildest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA25350_00-SYPS5BUILDEST000",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA25351_00",
@@ -116400,6 +116408,14 @@
     "publisherId": "EP3945"
   },
   {
+    "titleId": "PPSA25775_00",
+    "conceptId": 10012400,
+    "name": "Contraband Police",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25776_00",
     "conceptId": 10012411,
     "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30d1\u30cb\u30c3\u30af",
@@ -117742,6 +117758,14 @@
     "contentId": "EP6664-PPSA26045_00-0776897377466492",
     "region": "EP",
     "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA26046_00",
+    "conceptId": 10012555,
+    "name": "Color Swiper 2 - DEMO",
+    "contentId": "UP6664-PPSA26046_00-0196582500426305",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26047_00",
@@ -121190,6 +121214,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA26717_00",
+    "conceptId": 10012961,
+    "name": "The Jumping Onion Ring - DEMO",
+    "contentId": "JP6595-PPSA26717_00-0864616561851268",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26739_00",
@@ -131163,17 +131195,17 @@
     "titleId": "PPSA28814_00",
     "conceptId": 10014391,
     "name": "Screw Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA28814_00-0343601504578170",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA28815_00",
     "conceptId": 10014391,
     "name": "Screw Master",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA28815_00-0665583881794177",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA28821_00",
@@ -137256,6 +137288,14 @@
     "publisherId": "UB0487"
   },
   {
+    "titleId": "PPSA30293_00",
+    "conceptId": 10014093,
+    "name": "Super 3D Maze 16",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30295_00",
     "conceptId": 10015247,
     "name": "Space KaBAAM: Neon II",
@@ -141434,10 +141474,10 @@
   {
     "titleId": "PPSA31451_00",
     "conceptId": 10015882,
-    "name": "A Wild Last Boss Appeared! ~Black-Winged Survivor~",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "A Wild Last Boss Appeared!\u3000\uff5eBlack-Winged Survivor\uff5e",
+    "contentId": "JP0202-PPSA31451_00-LASTBOSSPS500001",
+    "region": "JP",
+    "publisherId": "JP0202"
   },
   {
     "titleId": "PPSA31452_00",
@@ -141880,6 +141920,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA31575_00",
+    "conceptId": 10015509,
+    "name": "\u30ad\u30e3\u30b9\u30bf\u30fc\u306e\u5fc3",
+    "contentId": "HB0700-PPSA31575_00-0913400700404277",
+    "region": "HB",
+    "publisherId": "HB0700"
+  },
+  {
     "titleId": "PPSA31593_00",
     "conceptId": 10016005,
     "name": "Magnitude: Lambda",
@@ -141923,9 +141971,9 @@
     "titleId": "PPSA31610_00",
     "conceptId": 10016023,
     "name": "Blablublas Battle Royale Shooter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0963-PPSA31610_00-0677953207170483",
+    "region": "EB",
+    "publisherId": "EB0963"
   },
   {
     "titleId": "PPSA31613_00",
@@ -142528,6 +142576,14 @@
     "publisherId": "EP2363"
   },
   {
+    "titleId": "PPSA31756_00",
+    "conceptId": 10015233,
+    "name": "Lost Eidolons: Veil of the Witch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31759_00",
     "conceptId": 10014541,
     "name": "Robot Warzone Tactical Assault",
@@ -142656,10 +142712,34 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA31787_00",
+    "conceptId": 10011748,
+    "name": "FROM TWO SIDES",
+    "contentId": "EP5645-PPSA31787_00-0971706060767362",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31788_00",
+    "conceptId": 10011748,
+    "name": "FROM TWO SIDES",
+    "contentId": "EP5645-PPSA31788_00-0307914871703198",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA31789_00",
     "conceptId": 10011748,
     "name": "FROM TWO SIDES",
     "contentId": "EP5645-PPSA31789_00-0408379422614883",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31790_00",
+    "conceptId": 10011748,
+    "name": "FROM TWO SIDES",
+    "contentId": "EP5645-PPSA31790_00-0556898622999767",
     "region": "EP",
     "publisherId": "EP5645"
   },
@@ -142715,6 +142795,14 @@
     "titleId": "PPSA31830_00",
     "conceptId": 10011898,
     "name": "EA SPORTS FC\u2122 26",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31837_00",
+    "conceptId": 10011749,
+    "name": "INTERSPACE",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -143328,6 +143416,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA32033_00",
+    "conceptId": 10016273,
+    "name": "Monster Ramp Racing",
+    "contentId": "UB0008-PPSA32033_00-0471471111486488",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA32040_00",
     "conceptId": 10016278,
     "name": "Glint's Trial",
@@ -143406,6 +143502,38 @@
     "contentId": "HB0876-PPSA32082_00-0616036857043074",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA32083_00",
+    "conceptId": 10016297,
+    "name": "Viking Ventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32084_00",
+    "conceptId": 10016297,
+    "name": "Viking Ventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32085_00",
+    "conceptId": 10016297,
+    "name": "Viking Ventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32086_00",
+    "conceptId": 10016297,
+    "name": "Viking Ventures",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32087_00",
@@ -145944,6 +146072,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33001_00",
+    "conceptId": 10016776,
+    "name": "Many Turns One Road",
+    "contentId": "UP7668-PPSA33001_00-0397556926713461",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA33002_00",
+    "conceptId": 10016776,
+    "name": "Many Turns One Road",
+    "contentId": "UP7668-PPSA33002_00-0530398087165365",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA33005_00",
     "conceptId": 10016777,
     "name": "1-2-Exquisite Word Search!",
@@ -146403,6 +146547,14 @@
     "titleId": "PPSA33571_00",
     "conceptId": 10017078,
     "name": "Drift Highway: Retro Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33681_00",
+    "conceptId": 10017154,
+    "name": "Sokmeal Time",
     "contentId": null,
     "region": null,
     "publisherId": null
