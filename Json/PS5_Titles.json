@@ -107696,6 +107696,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA24095_00",
+    "conceptId": 10010555,
+    "name": "Junkyard Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24096_00",
     "conceptId": 10011556,
     "name": "Cronos: The New Dawn",
@@ -107878,6 +107886,14 @@
     "contentId": "HB0405-PPSA24132_00-XXXXXXXXXXXXXXXX",
     "region": "HB",
     "publisherId": "HB0405"
+  },
+  {
+    "titleId": "PPSA24133_00",
+    "conceptId": 10010555,
+    "name": "Junkyard Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24134_00",
@@ -110851,7 +110867,7 @@
     "titleId": "PPSA24702_00",
     "conceptId": 10011861,
     "name": "Digimon Story Time Stranger",
-    "contentId": null,
+    "contentId": "UP0700-PPSA24702_00-DIGIMONSTORYTS00",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -121200,6 +121216,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA26712_00",
+    "conceptId": 10012957,
+    "name": "The Jumping Toast Tower - DEMO",
+    "contentId": "UP6664-PPSA26712_00-0203068993899999",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA26713_00",
     "conceptId": 10012957,
     "name": "The Jumping Toast Tower - DEMO",
@@ -121210,10 +121234,26 @@
   {
     "titleId": "PPSA26714_00",
     "conceptId": 10012957,
-    "name": "The Jumping Toast Tower - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Toast Tower - DEMO",
+    "contentId": "HP6661-PPSA26714_00-0060454816262929",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA26715_00",
+    "conceptId": 10012961,
+    "name": "The Jumping Onion Ring - DEMO",
+    "contentId": "EP6664-PPSA26715_00-0538094616648420",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA26716_00",
+    "conceptId": 10012961,
+    "name": "The Jumping Onion Ring - DEMO",
+    "contentId": "UP6664-PPSA26716_00-0660031202426564",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26717_00",
@@ -121222,6 +121262,38 @@
     "contentId": "JP6595-PPSA26717_00-0864616561851268",
     "region": "JP",
     "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA26718_00",
+    "conceptId": 10012961,
+    "name": "The Jumping Onion Ring - DEMO",
+    "contentId": "HP6661-PPSA26718_00-0768512396257713",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA26720_00",
+    "conceptId": 10012962,
+    "name": "The Jumping Melon Rush - DEMO",
+    "contentId": "UP6664-PPSA26720_00-0378208374923993",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA26721_00",
+    "conceptId": 10012962,
+    "name": "The Jumping Melon Rush - DEMO",
+    "contentId": "JP6595-PPSA26721_00-0913510412457431",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA26722_00",
+    "conceptId": 10012962,
+    "name": "The Jumping Melon Rush - DEMO",
+    "contentId": "HP6661-PPSA26722_00-0843324052431708",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26739_00",
@@ -131080,6 +131152,14 @@
     "publisherId": "UP6094"
   },
   {
+    "titleId": "PPSA28778_00",
+    "conceptId": 10014126,
+    "name": "Campfire of Oasis 2",
+    "contentId": "UB0796-PPSA28778_00-0467533596356618",
+    "region": "UB",
+    "publisherId": "UB0796"
+  },
+  {
     "titleId": "PPSA28779_00",
     "conceptId": 10010971,
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
@@ -136784,6 +136864,14 @@
     "publisherId": "EP8442"
   },
   {
+    "titleId": "PPSA30173_00",
+    "conceptId": 10015177,
+    "name": "Blaster Force 3000",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30174_00",
     "conceptId": 10015178,
     "name": "The Wellmonts Case Demo",
@@ -139912,6 +140000,14 @@
     "publisherId": "UP8616"
   },
   {
+    "titleId": "PPSA30956_00",
+    "conceptId": 10015636,
+    "name": "Unmourned Demo",
+    "contentId": "HB1739-PPSA30956_00-VERSION170000000",
+    "region": "HB",
+    "publisherId": "HB1739"
+  },
+  {
     "titleId": "PPSA30958_00",
     "conceptId": 10015638,
     "name": "NBA Quiz",
@@ -142800,12 +142896,36 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31835_00",
+    "conceptId": 10011749,
+    "name": "INTERSPACE",
+    "contentId": "EP5645-PPSA31835_00-0514602856834386",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31836_00",
+    "conceptId": 10011749,
+    "name": "INTERSPACE",
+    "contentId": "EP5645-PPSA31836_00-0223579448479808",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA31837_00",
     "conceptId": 10011749,
     "name": "INTERSPACE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA31837_00-0013110247235358",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31838_00",
+    "conceptId": 10011749,
+    "name": "INTERSPACE",
+    "contentId": "EP5645-PPSA31838_00-0640514432710256",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA31845_00",
@@ -146155,9 +146275,9 @@
     "titleId": "PPSA33142_00",
     "conceptId": 10016796,
     "name": "Red Cape Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA33142_00-0042388721020544",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA33143_00",
