@@ -116440,6 +116440,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA25778_00",
+    "conceptId": 10012400,
+    "name": "Contraband Police",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25779_00",
     "conceptId": 10012412,
     "name": "Path to Purge",
@@ -121270,6 +121278,14 @@
     "contentId": "HP6661-PPSA26718_00-0768512396257713",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA26719_00",
+    "conceptId": 10012962,
+    "name": "The Jumping Melon Rush - DEMO",
+    "contentId": "EP6664-PPSA26719_00-0586408526997153",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26720_00",
@@ -140296,6 +140312,22 @@
     "publisherId": "HP3536"
   },
   {
+    "titleId": "PPSA31080_00",
+    "conceptId": 10001636,
+    "name": "We Were Here Too",
+    "contentId": "EP4697-PPSA31080_00-0968286172929917",
+    "region": "EP",
+    "publisherId": "EP4697"
+  },
+  {
+    "titleId": "PPSA31081_00",
+    "conceptId": 10001636,
+    "name": "We Were Here Too",
+    "contentId": "UP6535-PPSA31081_00-0946143006355926",
+    "region": "UP",
+    "publisherId": "UP6535"
+  },
+  {
     "titleId": "PPSA31083_00",
     "conceptId": 10015677,
     "name": "Truck Driver: The Dutch Connection",
@@ -142603,9 +142635,9 @@
     "titleId": "PPSA31747_00",
     "conceptId": 10016119,
     "name": "Battle Suit Aces",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0112-PPSA31747_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP0112"
   },
   {
     "titleId": "PPSA31748_00",
@@ -143651,9 +143683,9 @@
     "titleId": "PPSA32086_00",
     "conceptId": 10016297,
     "name": "Viking Ventures",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32086_00-VIKINGVENTURESAS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32087_00",
@@ -143830,6 +143862,14 @@
     "contentId": "JP7323-PPSA32173_00-0445981180755310",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA32175_00",
+    "conceptId": 10010891,
+    "name": "GODBREAKERS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32178_00",
@@ -144888,6 +144928,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA32553_00",
+    "conceptId": 10011413,
+    "name": "Real Estate Simulator - From Bum To Millionaire",
+    "contentId": "UB0861-PPSA32553_00-0003009466187834",
+    "region": "UB",
+    "publisherId": "UB0861"
+  },
+  {
     "titleId": "PPSA32563_00",
     "conceptId": 10016586,
     "name": "Kitten Island 2",
@@ -145446,6 +145494,14 @@
     "contentId": "JP7921-PPSA32716_00-0860926472186745",
     "region": "JP",
     "publisherId": "JP7921"
+  },
+  {
+    "titleId": "PPSA32725_00",
+    "conceptId": 10011463,
+    "name": "Microsoft Flight Simulator 2024",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32743_00",
@@ -146283,25 +146339,25 @@
     "titleId": "PPSA33143_00",
     "conceptId": 10016796,
     "name": "Red Cape Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA33143_00-0274522046208670",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA33144_00",
     "conceptId": 10016796,
     "name": "Red Cape Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA33144_00-0561318380230696",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA33145_00",
     "conceptId": 10016796,
     "name": "Red Cape Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA33145_00-0388680108022491",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA33163_00",
@@ -146491,9 +146547,9 @@
     "titleId": "PPSA33282_00",
     "conceptId": 10016942,
     "name": "Duck Hunt VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0111-PPSA33282_00-0483763440876914",
+    "region": "UB",
+    "publisherId": "UB0111"
   },
   {
     "titleId": "PPSA33289_00",
@@ -146667,6 +146723,14 @@
     "titleId": "PPSA33571_00",
     "conceptId": 10017078,
     "name": "Drift Highway: Retro Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33608_00",
+    "conceptId": 10017109,
+    "name": "Horrorillo Brainrotillo",
     "contentId": null,
     "region": null,
     "publisherId": null
