@@ -64067,9 +64067,9 @@
     "titleId": "PPSA14656_00",
     "conceptId": 10002917,
     "name": "PixelJunk Eden 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0743-PPSA14656_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP0743"
   },
   {
     "titleId": "PPSA14657_00",
@@ -102952,6 +102952,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA23122_00",
+    "conceptId": 10011030,
+    "name": "Ember Knights: Heroes of the Nexus Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23123_00",
     "conceptId": 10011010,
     "name": "For The King II",
@@ -115418,8 +115426,8 @@
   {
     "titleId": "PPSA25554_00",
     "conceptId": 10005107,
-    "name": "King of Meat: Standard Edition",
-    "contentId": null,
+    "name": "King Of Meat",
+    "contentId": "UP5267-PPSA25554_00-KOMGAME000000000",
     "region": "UP",
     "publisherId": "UP5267"
   },
@@ -130819,9 +130827,9 @@
     "titleId": "PPSA28669_00",
     "conceptId": 10014309,
     "name": "Two Hands Hospital Assistant Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28669_00-0325174439320746",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28670_00",
@@ -130835,9 +130843,9 @@
     "titleId": "PPSA28671_00",
     "conceptId": 10014309,
     "name": "Two Hands Hospital Assistant Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28671_00-0169614149128950",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28672_00",
@@ -131299,9 +131307,9 @@
     "titleId": "PPSA28798_00",
     "conceptId": 10011481,
     "name": "Cards We're Dealt",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0985-PPSA28798_00-CARDSWEREDEALTZZ",
+    "region": "UB",
+    "publisherId": "UB0985"
   },
   {
     "titleId": "PPSA28800_00",
@@ -133243,9 +133251,9 @@
     "titleId": "PPSA29294_00",
     "conceptId": 10014678,
     "name": "Scurge: Hive",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA29294_00-SCURGEHIVERATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA29295_00",
@@ -135134,6 +135142,14 @@
     "contentId": "HB1069-PPSA29706_00-0826546055921521",
     "region": "HB",
     "publisherId": "HB1069"
+  },
+  {
+    "titleId": "PPSA29707_00",
+    "conceptId": 10014519,
+    "name": "Football Manager 26 Console",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0177"
   },
   {
     "titleId": "PPSA29713_00",
@@ -138675,9 +138691,9 @@
     "titleId": "PPSA30511_00",
     "conceptId": 10015371,
     "name": "Finding Paradise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0604-PPSA30511_00-0577968536352526",
+    "region": "UP",
+    "publisherId": "UP0604"
   },
   {
     "titleId": "PPSA30513_00",
@@ -140104,6 +140120,14 @@
     "publisherId": "EB1737"
   },
   {
+    "titleId": "PPSA30937_00",
+    "conceptId": 10013892,
+    "name": "Gunsmith Simulator",
+    "contentId": "EP1549-PPSA30937_00-0281714758878187",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
     "titleId": "PPSA30939_00",
     "conceptId": 10015507,
     "name": "Moon Mystery",
@@ -140720,6 +140744,14 @@
     "publisherId": "JP7863"
   },
   {
+    "titleId": "PPSA31155_00",
+    "conceptId": 10015727,
+    "name": "Sweet Surrender",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31168_00",
     "conceptId": 10015732,
     "name": "Astro Surge",
@@ -140819,9 +140851,9 @@
     "titleId": "PPSA31187_00",
     "conceptId": 10015745,
     "name": "Rise Eterna 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA31187_00-0417527281454980",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA31189_00",
@@ -141636,6 +141668,38 @@
     "conceptId": 10015892,
     "name": "The Harmony Chronicles: Cat Out of the Bag Collector's Edition",
     "contentId": "EP1411-PPSA31419_00-0960843622745059",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31420_00",
+    "conceptId": 10015893,
+    "name": "Dark Steel Legends",
+    "contentId": "EP1411-PPSA31420_00-0638415760224167",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31421_00",
+    "conceptId": 10015893,
+    "name": "Dark Steel Legends",
+    "contentId": "EP1411-PPSA31421_00-0409254398118804",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31422_00",
+    "conceptId": 10015893,
+    "name": "Dark Steel Legends",
+    "contentId": "EP1411-PPSA31422_00-0694860071676334",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31423_00",
+    "conceptId": 10015893,
+    "name": "Dark Steel Legends",
+    "contentId": "EP1411-PPSA31423_00-0949070165092566",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -142480,6 +142544,14 @@
     "publisherId": "UB0992"
   },
   {
+    "titleId": "PPSA31657_00",
+    "conceptId": 10016048,
+    "name": "Battle Puzzle 2048 - Wicked Witches",
+    "contentId": "EP6556-PPSA31657_00-0149058585516420",
+    "region": "EP",
+    "publisherId": "EP6556"
+  },
+  {
     "titleId": "PPSA31661_00",
     "conceptId": 10016052,
     "name": "Lapin",
@@ -142842,10 +142914,10 @@
   {
     "titleId": "PPSA31756_00",
     "conceptId": 10015233,
-    "name": "Lost Eidolons: Veil of the Witch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lost Eidolons: Veil of the Witch - Original Soundtrack",
+    "contentId": "UB0445-PPSA31756_00-0688007062152814",
+    "region": "UB",
+    "publisherId": "UB0445"
   },
   {
     "titleId": "PPSA31759_00",
@@ -143387,33 +143459,33 @@
     "titleId": "PPSA31920_00",
     "conceptId": 10016215,
     "name": "Bunny Pit Stop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA31920_00-0890004881926587",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA31921_00",
     "conceptId": 10016215,
     "name": "Bunny Pit Stop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA31921_00-0118448358394434",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA31922_00",
     "conceptId": 10016215,
     "name": "Bunny Pit Stop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA31922_00-0712572475325629",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA31923_00",
     "conceptId": 10016215,
     "name": "Bunny Pit Stop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA31923_00-0966337634530839",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA31924_00",
@@ -144160,6 +144232,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA32151_00",
+    "conceptId": 10016334,
+    "name": "A Tower Full of Cats",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32165_00",
     "conceptId": 10016340,
     "name": "Smoots Crazy Wave",
@@ -144563,9 +144643,9 @@
     "titleId": "PPSA32258_00",
     "conceptId": 10016391,
     "name": "Green Soldiers Heroes: Extreme Bikers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB1686-PPSA32258_00-0775020888898151",
+    "region": "JB",
+    "publisherId": "JB1686"
   },
   {
     "titleId": "PPSA32259_00",
@@ -144723,9 +144803,9 @@
     "titleId": "PPSA32320_00",
     "conceptId": 10016433,
     "name": "Twins of the Sun",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0383-PPSA32320_00-0385001299986914",
+    "region": "UB",
+    "publisherId": "UB0383"
   },
   {
     "titleId": "PPSA32321_00",
@@ -146712,6 +146792,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33023_00",
+    "conceptId": 10016785,
+    "name": "SortCraft",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33032_00",
     "conceptId": 10016789,
     "name": "Slide Viking",
@@ -146834,10 +146922,10 @@
   {
     "titleId": "PPSA33130_00",
     "conceptId": 10013794,
-    "name": "Ultra super reflection guide",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ULTRA SUPER REFLECTION GUIDE",
+    "contentId": "EP5645-PPSA33130_00-000000000000USRG",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33132_00",
@@ -146942,6 +147030,14 @@
     "contentId": "HB0876-PPSA33145_00-0388680108022491",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA33147_00",
+    "conceptId": 10016858,
+    "name": "Cat From Hell 2",
+    "contentId": "UB0837-PPSA33147_00-0392084874484777",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA33163_00",
@@ -147178,10 +147274,10 @@
   {
     "titleId": "PPSA33301_00",
     "conceptId": 10016300,
-    "name": "Carpieces",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Carieces",
+    "contentId": "EP5645-PPSA33301_00-0000000CARPIECES",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33302_00",
@@ -147275,9 +147371,9 @@
     "titleId": "PPSA33365_00",
     "conceptId": 10016494,
     "name": "Space Scavenger Origins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA33365_00-0000000000000SSO",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33367_00",
@@ -147299,9 +147395,9 @@
     "titleId": "PPSA33369_00",
     "conceptId": 10016495,
     "name": "W.U.R.M.",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA33369_00-000000000000WURM",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33371_00",
@@ -147323,9 +147419,9 @@
     "titleId": "PPSA33384_00",
     "conceptId": 10016497,
     "name": "Robocrush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA33384_00-0000000ROBOCRUSH",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33387_00",
@@ -147352,6 +147448,22 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA33394_00",
+    "conceptId": 10016496,
+    "name": "Void Source Origins",
+    "contentId": "JP5299-PPSA33394_00-00000VOIDSOURCEO",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA33395_00",
+    "conceptId": 10016496,
+    "name": "Void Source Origins",
+    "contentId": "HP5361-PPSA33395_00-00000VOIDSOURCEO",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA33396_00",
     "conceptId": 10016357,
     "name": "Chiro Gravitas",
@@ -147366,6 +147478,14 @@
     "contentId": "JP5299-PPSA33398_00-000CHIROGRAVITAS",
     "region": "JP",
     "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA33399_00",
+    "conceptId": 10016357,
+    "name": "Chiro Gravitas",
+    "contentId": "HP5361-PPSA33399_00-000CHIROGRAVITAS",
+    "region": "HP",
+    "publisherId": "HP5361"
   },
   {
     "titleId": "PPSA33413_00",
@@ -147432,6 +147552,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33509_00",
+    "conceptId": 10017032,
+    "name": "Puzzle Piecer: Leaves of Autumn",
+    "contentId": "HP7367-PPSA33509_00-0699755832616665",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA33510_00",
+    "conceptId": 10017032,
+    "name": "Puzzle Piecer: Leaves of Autumn",
+    "contentId": "JP7323-PPSA33510_00-0944717435282358",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
     "titleId": "PPSA33522_00",
     "conceptId": 10016827,
     "name": "Infection Inspection",
@@ -147486,6 +147622,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA33656_00",
+    "conceptId": 10011999,
+    "name": "RollCats Demo",
+    "contentId": "EB1284-PPSA33656_00-0832211914451329",
+    "region": "EB",
+    "publisherId": "EB1284"
   },
   {
     "titleId": "PPSA33681_00",
