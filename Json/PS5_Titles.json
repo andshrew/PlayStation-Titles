@@ -18290,8 +18290,8 @@
   {
     "titleId": "PPSA05144_00",
     "conceptId": 10003713,
-    "name": "Little Nightmares III PS4 & PS5",
-    "contentId": null,
+    "name": "Little Nightmares III",
+    "contentId": "UP0700-PPSA05144_00-LITTLENIGHTS3000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -64091,9 +64091,9 @@
     "titleId": "PPSA14659_00",
     "conceptId": 10002917,
     "name": "PixelJunk Eden 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0743-PPSA14659_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP0743"
   },
   {
     "titleId": "PPSA14661_00",
@@ -65282,10 +65282,10 @@
   {
     "titleId": "PPSA15285_00",
     "conceptId": 10007936,
-    "name": "Lethal Honor - Order of the Apocalypse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lethal Honor",
+    "contentId": "EP4539-PPSA15285_00-0804658770440128",
+    "region": "EP",
+    "publisherId": "EP4539"
   },
   {
     "titleId": "PPSA15290_00",
@@ -92104,12 +92104,20 @@
     "publisherId": "UP1643"
   },
   {
+    "titleId": "PPSA20739_00",
+    "conceptId": 10010072,
+    "name": "Turbo Hyper Drive",
+    "contentId": "UP7335-PPSA20739_00-0161331535023381",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA20740_00",
     "conceptId": 10010072,
     "name": "Turbo Hyper Drive",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA20740_00-0402493295914627",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA20743_00",
@@ -105507,9 +105515,9 @@
     "titleId": "PPSA23663_00",
     "conceptId": 10011309,
     "name": "Barbie\u2122 Horse Trails",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3768-PPSA23663_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP3768"
   },
   {
     "titleId": "PPSA23666_00",
@@ -118067,9 +118075,9 @@
     "titleId": "PPSA26097_00",
     "conceptId": 10012610,
     "name": "Yooka-Replaylee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1053-PPSA26097_00-0454227768983271",
+    "region": "EP",
+    "publisherId": "EP1053"
   },
   {
     "titleId": "PPSA26098_00",
@@ -131118,6 +131126,14 @@
     "contentId": "UB0768-PPSA28717_00-0888131129741426",
     "region": "UB",
     "publisherId": "UB0768"
+  },
+  {
+    "titleId": "PPSA28718_00",
+    "conceptId": 10014330,
+    "name": "Boxes: Lost Fragments",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28719_00",
@@ -145107,33 +145123,33 @@
     "titleId": "PPSA32416_00",
     "conceptId": 10016492,
     "name": "Cat Doctor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA32416_00-0201562092492461",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA32417_00",
     "conceptId": 10016492,
     "name": "Cat Doctor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA32417_00-0321074543131721",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA32418_00",
     "conceptId": 10016492,
     "name": "Cat Doctor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA32418_00-0724352272488943",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA32419_00",
     "conceptId": 10016492,
     "name": "Cat Doctor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA32419_00-0992543856733822",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA32420_00",
@@ -147256,6 +147272,14 @@
     "publisherId": "EB2111"
   },
   {
+    "titleId": "PPSA33248_00",
+    "conceptId": 10016926,
+    "name": "Word Quest Pirates",
+    "contentId": "UB0008-PPSA33248_00-0957004493428426",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA33256_00",
     "conceptId": 10016932,
     "name": "Liquid Cat",
@@ -147544,7 +147568,23 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA33389_00",
+    "conceptId": 10016989,
+    "name": "Cookie's Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33390_00",
+    "conceptId": 10016989,
+    "name": "Cookie's Trails",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33391_00",
     "conceptId": 10016989,
     "name": "Cookie's Trails",
     "contentId": null,
