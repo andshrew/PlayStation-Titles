@@ -45266,10 +45266,10 @@
   {
     "titleId": "PPSA09901_00",
     "conceptId": 10003726,
-    "name": "Blood of Mehran",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Blood Of Mehran",
+    "contentId": "UP5552-PPSA09901_00-4868768336024731",
+    "region": "UP",
+    "publisherId": "UP5552"
   },
   {
     "titleId": "PPSA09903_00",
@@ -64075,17 +64075,17 @@
     "titleId": "PPSA14657_00",
     "conceptId": 10002917,
     "name": "PixelJunk Eden 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0743-PPSA14657_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP0743"
   },
   {
     "titleId": "PPSA14658_00",
     "conceptId": 10002917,
     "name": "PixelJunk Eden 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0743-PPSA14658_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP0743"
   },
   {
     "titleId": "PPSA14659_00",
@@ -86066,8 +86066,8 @@
   {
     "titleId": "PPSA19534_00",
     "conceptId": 10009568,
-    "name": "Battlefield\u2122 6 Standard Edition",
-    "contentId": null,
+    "name": "Battlefield\u2122 6",
+    "contentId": "UP0006-PPSA19534_00-GLACIERGAME00000",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -86907,7 +86907,7 @@
     "titleId": "PPSA19692_00",
     "conceptId": 10009629,
     "name": "Dreams of Another",
-    "contentId": null,
+    "contentId": "JP0743-PPSA19692_00-DOFA000000000000",
     "region": "JP",
     "publisherId": "JP0743"
   },
@@ -118272,6 +118272,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA26137_00",
+    "conceptId": 10012633,
+    "name": "Acre Crisis",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26138_00",
     "conceptId": 10012633,
     "name": "Acre Crisis",
@@ -128232,6 +128240,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA28116_00",
+    "conceptId": 10009174,
+    "name": "Cluedo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28117_00",
     "conceptId": 10013945,
     "name": "Spin Around",
@@ -135774,6 +135790,14 @@
     "contentId": "EP0896-PPSA29838_00-PREHISTORICGALRG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA29839_00",
+    "conceptId": 10014997,
+    "name": "CORALINA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29845_00",
@@ -147787,9 +147811,9 @@
     "titleId": "PPSA33681_00",
     "conceptId": 10017154,
     "name": "Sokmeal Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA33681_00-0614085462363440",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA33682_00",
@@ -147827,9 +147851,9 @@
     "titleId": "PPSA33792_00",
     "conceptId": 10017213,
     "name": "Orb Grabber",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA33792_00-0436792782155222",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA33793_00",
@@ -147843,8 +147867,16 @@
     "titleId": "PPSA33794_00",
     "conceptId": 10017213,
     "name": "Orb Grabber",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8458-PPSA33794_00-0206029035289647",
+    "region": "JP",
+    "publisherId": "JP8458"
+  },
+  {
+    "titleId": "PPSA33795_00",
+    "conceptId": 10017213,
+    "name": "Orb Grabber",
+    "contentId": "HP8504-PPSA33795_00-0380611067116989",
+    "region": "HP",
+    "publisherId": "HP8504"
   }
 ]
