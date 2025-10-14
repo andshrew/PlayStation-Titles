@@ -50370,10 +50370,10 @@
   {
     "titleId": "PPSA10739_00",
     "conceptId": 223059,
-    "name": "Little Nightmares",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ea\u30c8\u30eb\u30ca\u30a4\u30c8\u30e1\u30a2 Enhanced Edition",
+    "contentId": "JP0700-PPSA10739_00-LITTLENIGHTMARES",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA10740_00",
@@ -102147,9 +102147,9 @@
     "titleId": "PPSA22894_00",
     "conceptId": 10010925,
     "name": "Ys vs. Trails in the Sky: Alternative Saga",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1037-PPSA22894_00-YSVSSORANOKISEKI",
+    "region": "EB",
+    "publisherId": "EB1037"
   },
   {
     "titleId": "PPSA22910_00",
@@ -127912,6 +127912,14 @@
     "publisherId": "EP5987"
   },
   {
+    "titleId": "PPSA28037_00",
+    "conceptId": 10013883,
+    "name": "Halls of Torment",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28041_00",
     "conceptId": 10013886,
     "name": "Vlad Circus: Curse of Asmodeus",
@@ -128243,9 +128251,9 @@
     "titleId": "PPSA28116_00",
     "conceptId": 10009174,
     "name": "Cluedo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5609-PPSA28116_00-0721213427652178",
+    "region": "EP",
+    "publisherId": "EP5609"
   },
   {
     "titleId": "PPSA28117_00",
@@ -144048,6 +144056,38 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA32044_00",
+    "conceptId": 10016279,
+    "name": "Space Graze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32045_00",
+    "conceptId": 10016279,
+    "name": "Space Graze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32046_00",
+    "conceptId": 10016279,
+    "name": "Space Graze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32047_00",
+    "conceptId": 10016279,
+    "name": "Space Graze",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32064_00",
     "conceptId": 10016287,
     "name": "Inflatables",
@@ -146536,6 +146576,30 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA32867_00",
+    "conceptId": 10016714,
+    "name": "P1: Anchor Light",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32868_00",
+    "conceptId": 10016714,
+    "name": "P1: Anchor Light",
+    "contentId": "EP3446-PPSA32868_00-0517038932741563",
+    "region": "EP",
+    "publisherId": "EP3446"
+  },
+  {
+    "titleId": "PPSA32869_00",
+    "conceptId": 10016714,
+    "name": "P1: Anchor Light",
+    "contentId": "JP3631-PPSA32869_00-0711924787330837",
+    "region": "JP",
+    "publisherId": "JP3631"
+  },
+  {
     "titleId": "PPSA32878_00",
     "conceptId": 10016299,
     "name": "beanball",
@@ -146963,6 +147027,14 @@
     "titleId": "PPSA33035_00",
     "conceptId": 10016789,
     "name": "Slide Viking",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33055_00",
+    "conceptId": 10016814,
+    "name": "Sushi For Robots",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -147704,6 +147776,38 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA33419_00",
+    "conceptId": 10016638,
+    "name": "Opaloid Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33420_00",
+    "conceptId": 10016638,
+    "name": "Opaloid Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33421_00",
+    "conceptId": 10016638,
+    "name": "Opaloid Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33422_00",
+    "conceptId": 10016638,
+    "name": "Opaloid Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33466_00",
     "conceptId": 10016029,
     "name": "Trasmoz Legends",
@@ -147819,25 +147923,25 @@
     "titleId": "PPSA33682_00",
     "conceptId": 10017154,
     "name": "Sokmeal Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA33682_00-0397612683674051",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA33683_00",
     "conceptId": 10017154,
     "name": "Sokmeal Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA33683_00-0393556646997715",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA33684_00",
     "conceptId": 10017154,
     "name": "Sokmeal Time",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA33684_00-0990810600565300",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA33754_00",
@@ -147859,9 +147963,9 @@
     "titleId": "PPSA33793_00",
     "conceptId": 10017213,
     "name": "Orb Grabber",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA33793_00-0158358904398500",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA33794_00",
@@ -147878,5 +147982,61 @@
     "contentId": "HP8504-PPSA33795_00-0380611067116989",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA33884_00",
+    "conceptId": 10017270,
+    "name": "Pumpkin Bloodshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33885_00",
+    "conceptId": 10017270,
+    "name": "Pumpkin Bloodshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33886_00",
+    "conceptId": 10017270,
+    "name": "Pumpkin Bloodshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33887_00",
+    "conceptId": 10017270,
+    "name": "Pumpkin Bloodshed",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34004_00",
+    "conceptId": 10017257,
+    "name": "Nyaa, smack!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34006_00",
+    "conceptId": 10017257,
+    "name": "Nyaa, smack!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34007_00",
+    "conceptId": 10017257,
+    "name": "Nyaa, smack!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
