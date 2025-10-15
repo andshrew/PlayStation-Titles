@@ -50354,10 +50354,10 @@
   {
     "titleId": "PPSA10737_00",
     "conceptId": 223059,
-    "name": "Little Nightmares",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Little Nightmares Enhanced Edition",
+    "contentId": "EP0700-PPSA10737_00-LITTLENIGHTMARES",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA10738_00",
@@ -122896,6 +122896,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA27059_00",
+    "conceptId": 10012799,
+    "name": "Before Exit: Gas Station",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27064_00",
     "conceptId": 10013206,
     "name": "Justice Ninja Casey",
@@ -131170,8 +131178,8 @@
   {
     "titleId": "PPSA28723_00",
     "conceptId": 10014332,
-    "name": "NASCAR 25 Gold Edition",
-    "contentId": null,
+    "name": "NASCAR 25",
+    "contentId": "UP1456-PPSA28723_00-NASCAR25BASEGAME",
     "region": "UP",
     "publisherId": "UP1456"
   },
@@ -137472,6 +137480,14 @@
     "publisherId": "UB0445"
   },
   {
+    "titleId": "PPSA30250_00",
+    "conceptId": 10015234,
+    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout DX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30252_00",
     "conceptId": 10015207,
     "name": "The Trap Remake Winter",
@@ -138928,6 +138944,14 @@
     "publisherId": "UB0990"
   },
   {
+    "titleId": "PPSA30538_00",
+    "conceptId": 10013086,
+    "name": "SpongeBob SquarePants: Titans of the Tide - Demo",
+    "contentId": "EP4389-PPSA30538_00-SPONGETOTTDEMO00",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA30539_00",
     "conceptId": 10015384,
     "name": "Ball Rush 2",
@@ -139134,6 +139158,14 @@
     "contentId": "JP0571-PPSA30592_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA30595_00",
+    "conceptId": 10011925,
+    "name": "Croc Legend of the Gobbos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30596_00",
@@ -140832,6 +140864,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31148_00",
+    "conceptId": 10015718,
+    "name": "Hungry Monster Food Rain",
+    "contentId": "UP7668-PPSA31148_00-0819175889876790",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31149_00",
     "conceptId": 10015719,
     "name": "Tap Combo Color Blocks",
@@ -141070,6 +141110,30 @@
     "contentId": "UP2005-PPSA31211_00-ELECTRONICSPLAB2",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA31214_00",
+    "conceptId": 10015756,
+    "name": "\u30e9\u30a4\u30b6\u306e\u30a2\u30c8\u30ea\u30a8\uff12 \uff5e\u5931\u308f\u308c\u305f\u4f1d\u627f\u3068\u79d8\u5bc6\u306e\u5996\u7cbe\uff5e DX",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA31216_00",
+    "conceptId": 10015757,
+    "name": "\u30e9\u30a4\u30b6\u306e\u30a2\u30c8\u30ea\u30a8\uff13 \uff5e\u7d42\u308f\u308a\u306e\u932c\u91d1\u8853\u58eb\u3068\u79d8\u5bc6\u306e\u9375\uff5e DX",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
+  },
+  {
+    "titleId": "PPSA31217_00",
+    "conceptId": 10015757,
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key DX",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0106"
   },
   {
     "titleId": "PPSA31218_00",
@@ -142931,9 +142995,9 @@
     "titleId": "PPSA31732_00",
     "conceptId": 10016107,
     "name": "Kotenok",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA31732_00-KOTENOK000000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA31743_00",
@@ -143603,7 +143667,7 @@
     "titleId": "PPSA31924_00",
     "conceptId": 10014706,
     "name": "Chickenhare and the treasure of Spiking-beard",
-    "contentId": null,
+    "contentId": "HB1589-PPSA31924_00-CHICKENHAREATOSB",
     "region": "HB",
     "publisherId": "HB1589"
   },
@@ -144022,6 +144086,14 @@
     "contentId": "UB0008-PPSA32033_00-0471471111486488",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA32036_00",
+    "conceptId": 10016133,
+    "name": "Creepy Shift: Roadside Diner",
+    "contentId": "EP5568-PPSA32036_00-0000084634482503",
+    "region": "EP",
+    "publisherId": "EP5568"
   },
   {
     "titleId": "PPSA32040_00",
@@ -146579,9 +146651,9 @@
     "titleId": "PPSA32867_00",
     "conceptId": 10016714,
     "name": "P1: Anchor Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA32867_00-0711502938165924",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA32868_00",
@@ -146598,6 +146670,14 @@
     "contentId": "JP3631-PPSA32869_00-0711924787330837",
     "region": "JP",
     "publisherId": "JP3631"
+  },
+  {
+    "titleId": "PPSA32870_00",
+    "conceptId": 10016714,
+    "name": "P1: Anchor Light",
+    "contentId": "HP3536-PPSA32870_00-0189558318393663",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA32878_00",
@@ -146939,9 +147019,9 @@
     "titleId": "PPSA32998_00",
     "conceptId": 10016772,
     "name": "Cloud to Gold",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA32998_00-0107735360243696",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA32999_00",
@@ -146979,17 +147059,17 @@
     "titleId": "PPSA33005_00",
     "conceptId": 10016777,
     "name": "1-2-Exquisite Word Search!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4947-PPSA33005_00-12EXQUISITEWORDS",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA33006_00",
     "conceptId": 10016777,
     "name": "1-2-Exquisite Word Search!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5133-PPSA33006_00-12EXQUISITEWORDS",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA33023_00",
@@ -147067,33 +147147,33 @@
     "titleId": "PPSA33067_00",
     "conceptId": 10016813,
     "name": "Paint Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA33067_00-0607818438354126",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA33068_00",
     "conceptId": 10016813,
     "name": "Paint Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA33068_00-0325751563762876",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA33069_00",
     "conceptId": 10016813,
     "name": "Paint Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA33069_00-0382050876468888",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA33070_00",
     "conceptId": 10016813,
     "name": "Paint Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA33070_00-0048243914310309",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA33077_00",
@@ -147102,6 +147182,22 @@
     "contentId": "UB0928-PPSA33077_00-0223570569458073",
     "region": "UB",
     "publisherId": "UB0928"
+  },
+  {
+    "titleId": "PPSA33085_00",
+    "conceptId": 10016838,
+    "name": "Puzzle Blast",
+    "contentId": "UP7977-PPSA33085_00-0111395319463011",
+    "region": "UP",
+    "publisherId": "UP7977"
+  },
+  {
+    "titleId": "PPSA33086_00",
+    "conceptId": 10016838,
+    "name": "Puzzle Blast",
+    "contentId": "EP7975-PPSA33086_00-0874078889132681",
+    "region": "EP",
+    "publisherId": "EP7975"
   },
   {
     "titleId": "PPSA33122_00",
@@ -147984,6 +148080,14 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA33857_00",
+    "conceptId": 10017152,
+    "name": "Elon and the Divine Proof",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33884_00",
     "conceptId": 10017270,
     "name": "Pumpkin Bloodshed",
@@ -148017,6 +148121,14 @@
   },
   {
     "titleId": "PPSA34004_00",
+    "conceptId": 10017257,
+    "name": "Nyaa, smack!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34005_00",
     "conceptId": 10017257,
     "name": "Nyaa, smack!",
     "contentId": null,
