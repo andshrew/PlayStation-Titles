@@ -50378,10 +50378,10 @@
   {
     "titleId": "PPSA10740_00",
     "conceptId": 223059,
-    "name": "Little Nightmares",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u5c0f\u5c0f\u5922\u9b58 \u5f37\u5316\u7248",
+    "contentId": "HP5028-PPSA10740_00-LITTLENIGHTMARES",
+    "region": "HP",
+    "publisherId": "HP5028"
   },
   {
     "titleId": "PPSA10741_00",
@@ -82835,9 +82835,9 @@
     "titleId": "PPSA18870_00",
     "conceptId": 10007128,
     "name": "One Military Camp",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4186-PPSA18870_00-ONEMILITARYCAMP0",
+    "region": "EP",
+    "publisherId": "EP4186"
   },
   {
     "titleId": "PPSA18871_00",
@@ -94360,6 +94360,14 @@
     "publisherId": "UP3003"
   },
   {
+    "titleId": "PPSA21262_00",
+    "conceptId": 10009766,
+    "name": "UNBEATABLE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21264_00",
     "conceptId": 10010269,
     "name": "Deathbound",
@@ -96764,6 +96772,22 @@
     "conceptId": 10010470,
     "name": "Squirrel Stapler",
     "contentId": "UB0622-PPSA21753_00-SQUIRRELSTAPLER1",
+    "region": "UB",
+    "publisherId": "UB0622"
+  },
+  {
+    "titleId": "PPSA21754_00",
+    "conceptId": 10010469,
+    "name": "Chop Goblins",
+    "contentId": "UB0622-PPSA21754_00-CHOPGOBLINS14516",
+    "region": "UB",
+    "publisherId": "UB0622"
+  },
+  {
+    "titleId": "PPSA21755_00",
+    "conceptId": 10010468,
+    "name": "Iron Lung",
+    "contentId": "UB0622-PPSA21755_00-1245195919592951",
     "region": "UB",
     "publisherId": "UB0622"
   },
@@ -112723,7 +112747,7 @@
     "titleId": "PPSA25045_00",
     "conceptId": 10012024,
     "name": "Reach",
-    "contentId": null,
+    "contentId": "UP2985-PPSA25045_00-0865705303155937",
     "region": "UP",
     "publisherId": "UP2985"
   },
@@ -114563,9 +114587,9 @@
     "titleId": "PPSA25382_00",
     "conceptId": 10012169,
     "name": "Blood West",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6170-PPSA25382_00-BLOODWESTGLOBPS5",
+    "region": "EP",
+    "publisherId": "EP6170"
   },
   {
     "titleId": "PPSA25383_00",
@@ -118139,9 +118163,9 @@
     "titleId": "PPSA26093_00",
     "conceptId": 10012599,
     "name": "The Elf on the Shelf\u00ae: Christmas Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3768-PPSA26093_00-ELFONTHESHELFXXX",
+    "region": "HP",
+    "publisherId": "HP3768"
   },
   {
     "titleId": "PPSA26096_00",
@@ -120422,6 +120446,14 @@
     "contentId": "EP2627-PPSA26529_00-TECHNOBANTEROST0",
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA26533_00",
+    "conceptId": 204453,
+    "name": "Shantae: Risky's Revenge - Director's Cut",
+    "contentId": "JP0075-PPSA26533_00-RISKYSREVENGE0JP",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA26534_00",
@@ -127672,6 +127704,14 @@
     "publisherId": "JP5432"
   },
   {
+    "titleId": "PPSA27961_00",
+    "conceptId": 10013813,
+    "name": "Cursed New Year",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27962_00",
     "conceptId": 10013813,
     "name": "Cursed New Year",
@@ -132235,9 +132275,9 @@
     "titleId": "PPSA28966_00",
     "conceptId": 10014277,
     "name": "Amanda the Adventurer 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7236-PPSA28966_00-0027446772030123",
+    "region": "UP",
+    "publisherId": "UP7236"
   },
   {
     "titleId": "PPSA28974_00",
@@ -132886,6 +132926,14 @@
     "contentId": "EP4492-PPSA29136_00-DXMTITANICSCION0",
     "region": "EP",
     "publisherId": "EP4492"
+  },
+  {
+    "titleId": "PPSA29137_00",
+    "conceptId": 10014524,
+    "name": "1000xRESIST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29140_00",
@@ -136720,6 +136768,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA30020_00",
+    "conceptId": 10015091,
+    "name": "Kamla",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30024_00",
     "conceptId": 10015092,
     "name": "Past Easter",
@@ -140288,6 +140344,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30892_00",
+    "conceptId": 10015598,
+    "name": "Tibor: Tale of a Kind Vampire",
+    "contentId": "EB0740-PPSA30892_00-0744301718881967",
+    "region": "EB",
+    "publisherId": "EB0740"
+  },
+  {
     "titleId": "PPSA30897_00",
     "conceptId": 10014257,
     "name": "Curse Rounds",
@@ -140723,9 +140787,9 @@
     "titleId": "PPSA31066_00",
     "conceptId": 10015663,
     "name": "Adrenaline Rampage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1220-PPSA31066_00-0485647258785990",
+    "region": "UB",
+    "publisherId": "UB1220"
   },
   {
     "titleId": "PPSA31067_00",
@@ -143707,9 +143771,17 @@
     "titleId": "PPSA31874_00",
     "conceptId": 10016104,
     "name": "Briks Boss Battle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4312-PPSA31874_00-0908686720507655",
+    "region": "EP",
+    "publisherId": "EP4312"
+  },
+  {
+    "titleId": "PPSA31875_00",
+    "conceptId": 10016104,
+    "name": "Briks Boss Battle",
+    "contentId": "UP4312-PPSA31875_00-0469307992812838",
+    "region": "UP",
+    "publisherId": "UP4312"
   },
   {
     "titleId": "PPSA31879_00",
@@ -146400,6 +146472,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32650_00",
+    "conceptId": 10016618,
+    "name": "I made her up",
+    "contentId": "UP7335-PPSA32650_00-0740385148684987",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA32651_00",
     "conceptId": 10012895,
     "name": "SUM10",
@@ -146411,9 +146491,9 @@
     "titleId": "PPSA32652_00",
     "conceptId": 10016618,
     "name": "I made her up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA32652_00-0475914145197753",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA32653_00",
@@ -147120,6 +147200,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32895_00",
+    "conceptId": 10016726,
+    "name": "Herihor",
+    "contentId": "EP3447-PPSA32895_00-0725243532760497",
+    "region": "EP",
+    "publisherId": "EP3447"
+  },
+  {
     "titleId": "PPSA32898_00",
     "conceptId": 10016731,
     "name": "Maxi Trucks Racing",
@@ -147406,6 +147494,14 @@
     "contentId": "EP5133-PPSA33006_00-12EXQUISITEWORDS",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA33015_00",
+    "conceptId": 10016781,
+    "name": "Spartan Frontline",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33023_00",
@@ -148491,17 +148587,17 @@
     "titleId": "PPSA33886_00",
     "conceptId": 10017270,
     "name": "Pumpkin Bloodshed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA33886_00-0278319089016314",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA33887_00",
     "conceptId": 10017270,
     "name": "Pumpkin Bloodshed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8504-PPSA33887_00-0874753035517531",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA34004_00",
