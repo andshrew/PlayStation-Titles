@@ -103051,9 +103051,9 @@
     "titleId": "PPSA23120_00",
     "conceptId": 10011030,
     "name": "Ember Knights: Heroes of the Nexus Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4917-PPSA23120_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP4917"
   },
   {
     "titleId": "PPSA23122_00",
@@ -123546,10 +123546,10 @@
   {
     "titleId": "PPSA27153_00",
     "conceptId": 10003610,
-    "name": "ARC Raiders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ARC Raiders - Tech Test 2",
+    "contentId": "EP6848-PPSA27153_00-0897507685447884",
+    "region": "EP",
+    "publisherId": "EP6848"
   },
   {
     "titleId": "PPSA27154_00",
@@ -141768,6 +141768,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31328_00",
+    "conceptId": 10015831,
+    "name": "Cat God Ranch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31330_00",
     "conceptId": 10015834,
     "name": "Alphadia III",
@@ -147499,9 +147507,9 @@
     "titleId": "PPSA33015_00",
     "conceptId": 10016781,
     "name": "Spartan Frontline",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0008-PPSA33015_00-0937905592053640",
+    "region": "UB",
+    "publisherId": "UB0008"
   },
   {
     "titleId": "PPSA33023_00",
@@ -148571,17 +148579,17 @@
     "titleId": "PPSA33884_00",
     "conceptId": 10017270,
     "name": "Pumpkin Bloodshed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA33884_00-0848592820700939",
+    "region": "EP",
+    "publisherId": "EP8743"
   },
   {
     "titleId": "PPSA33885_00",
     "conceptId": 10017270,
     "name": "Pumpkin Bloodshed",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8553-PPSA33885_00-0346532422117113",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA33886_00",
@@ -148598,6 +148606,38 @@
     "contentId": "HP8504-PPSA33887_00-0874753035517531",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA33939_00",
+    "conceptId": 10017300,
+    "name": "Orchard Odyssey: Pumpkin Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33940_00",
+    "conceptId": 10017300,
+    "name": "Orchard Odyssey: Pumpkin Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33941_00",
+    "conceptId": 10017300,
+    "name": "Orchard Odyssey: Pumpkin Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33942_00",
+    "conceptId": 10017300,
+    "name": "Orchard Odyssey: Pumpkin Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34004_00",
