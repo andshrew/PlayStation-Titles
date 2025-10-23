@@ -3008,6 +3008,14 @@
     "publisherId": "HP5857"
   },
   {
+    "titleId": "PPSA02069_00",
+    "conceptId": 222250,
+    "name": "Don't Starve Together: Console Edition",
+    "contentId": "UP2107-PPSA02069_00-DSTCEPS5PORTSIEA",
+    "region": "UP",
+    "publisherId": "UP2107"
+  },
+  {
     "titleId": "PPSA02072_00",
     "conceptId": 212581,
     "name": "World of Tanks",
@@ -96808,6 +96816,22 @@
     "publisherId": "HP5846"
   },
   {
+    "titleId": "PPSA21760_00",
+    "conceptId": 10010476,
+    "name": "Humble Haunted House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA21762_00",
+    "conceptId": 10010476,
+    "name": "Humble Haunted House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA21766_00",
     "conceptId": 10010026,
     "name": "The House of Da Vinci 3",
@@ -97443,7 +97467,7 @@
     "titleId": "PPSA21903_00",
     "conceptId": 10010552,
     "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u584a\u9b42",
-    "contentId": null,
+    "contentId": "JP0700-PPSA21903_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -113379,7 +113403,7 @@
     "titleId": "PPSA25153_00",
     "conceptId": 10012067,
     "name": "Jurassic World Evolution 3",
-    "contentId": null,
+    "contentId": "EP2377-PPSA25153_00-JWEVOLUTION30000",
     "region": "EP",
     "publisherId": "EP2377"
   },
@@ -116278,6 +116302,14 @@
     "contentId": "UB0008-PPSA25698_00-0991397476502686",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA25699_00",
+    "conceptId": 10012362,
+    "name": "Montezuma's Revenge - The 40th Anniversary Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25700_00",
@@ -123027,9 +123059,9 @@
     "titleId": "PPSA27058_00",
     "conceptId": 10012799,
     "name": "Before Exit: Gas Station",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6849-PPSA27058_00-0923300665904475",
+    "region": "JP",
+    "publisherId": "JP6849"
   },
   {
     "titleId": "PPSA27059_00",
@@ -126686,6 +126718,14 @@
     "contentId": "EP4295-PPSA27765_00-ACDONPS5000000WW",
     "region": "EP",
     "publisherId": "EP4295"
+  },
+  {
+    "titleId": "PPSA27766_00",
+    "conceptId": 10013651,
+    "name": "GIGASWORD",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27767_00",
@@ -131800,6 +131840,22 @@
     "publisherId": "EB1389"
   },
   {
+    "titleId": "PPSA28854_00",
+    "conceptId": 10000393,
+    "name": "Totally Reliable Delivery Service",
+    "contentId": "UB0821-PPSA28854_00-TOTALLYRELIABLE0",
+    "region": "UB",
+    "publisherId": "UB0821"
+  },
+  {
+    "titleId": "PPSA28855_00",
+    "conceptId": 10000393,
+    "name": "Totally Reliable Delivery Service",
+    "contentId": "EB1016-PPSA28855_00-TOTALLYRELIABLE0",
+    "region": "EB",
+    "publisherId": "EB1016"
+  },
+  {
     "titleId": "PPSA28856_00",
     "conceptId": 10014247,
     "name": "Prison Alone",
@@ -134282,10 +134338,10 @@
   {
     "titleId": "PPSA29464_00",
     "conceptId": 10008744,
-    "name": "Tormented Souls 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u82e6\u60b6\u306e\u9b422",
+    "contentId": "HP6885-PPSA29464_00-TORMSOULSASIAJPN",
+    "region": "HP",
+    "publisherId": "HP6885"
   },
   {
     "titleId": "PPSA29466_00",
@@ -138296,6 +138352,22 @@
     "publisherId": "UP1440"
   },
   {
+    "titleId": "PPSA30365_00",
+    "conceptId": 10008573,
+    "name": "Tales of Xillia Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30366_00",
+    "conceptId": 10008573,
+    "name": "Tales of Xillia Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30371_00",
     "conceptId": 10015281,
     "name": "Boomerang King",
@@ -139843,17 +139915,17 @@
     "titleId": "PPSA30710_00",
     "conceptId": 10015449,
     "name": "Grunio\u017cerca Trilogy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6849-PPSA30710_00-0381922923630444",
+    "region": "JP",
+    "publisherId": "JP6849"
   },
   {
     "titleId": "PPSA30711_00",
     "conceptId": 10015449,
     "name": "Grunio\u017cerca Trilogy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6900-PPSA30711_00-0012567400872840",
+    "region": "HP",
+    "publisherId": "HP6900"
   },
   {
     "titleId": "PPSA30715_00",
@@ -140360,6 +140432,14 @@
     "publisherId": "UB0796"
   },
   {
+    "titleId": "PPSA30855_00",
+    "conceptId": 10015576,
+    "name": "\u30c8\u30e9\u30d6\u30eb\u2606\u30a6\u30a3\u30c3\u30c1\u30fc\u30ba \u3075\u3041\u3044\u306a\u308b\uff01 Last End",
+    "contentId": "JP5666-PPSA30855_00-TWFTLEMAINGAME01",
+    "region": "JP",
+    "publisherId": "JP5666"
+  },
+  {
     "titleId": "PPSA30856_00",
     "conceptId": 10014070,
     "name": "Absolum",
@@ -140438,6 +140518,14 @@
     "contentId": "EB0740-PPSA30892_00-0744301718881967",
     "region": "EB",
     "publisherId": "EB0740"
+  },
+  {
+    "titleId": "PPSA30895_00",
+    "conceptId": 10015601,
+    "name": "Grayland Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30897_00",
@@ -140750,6 +140838,14 @@
     "contentId": "HP6661-PPSA30971_00-0130281943185013",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA30984_00",
+    "conceptId": 10015649,
+    "name": "The Jumping Orange 3 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30985_00",
@@ -141123,7 +141219,7 @@
     "titleId": "PPSA31105_00",
     "conceptId": 10012949,
     "name": "FULL METAL SCHOOLGIRL",
-    "contentId": null,
+    "contentId": "HP5846-PPSA31105_00-ALLMACHINEGIRL01",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -143808,6 +143904,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31831_00",
+    "conceptId": 10016165,
+    "name": "Rabbiman Adventures",
+    "contentId": "EB2056-PPSA31831_00-0611731529140966",
+    "region": "EB",
+    "publisherId": "EB2056"
+  },
+  {
     "titleId": "PPSA31835_00",
     "conceptId": 10011749,
     "name": "INTERSPACE",
@@ -144323,9 +144427,9 @@
     "titleId": "PPSA31968_00",
     "conceptId": 10016240,
     "name": "Murder Inc",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA31968_00-SYPS5MURDERINC00",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA31969_00",
@@ -144907,9 +145011,9 @@
     "titleId": "PPSA32125_00",
     "conceptId": 10016321,
     "name": "Willy's Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32125_00-WILLYSADVENTURNA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32126_00",
@@ -145342,6 +145446,14 @@
     "contentId": "EP1612-PPSA32245_00-BROTILLERYGAME00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA32247_00",
+    "conceptId": 10015296,
+    "name": "Egging On",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32248_00",
@@ -146131,9 +146243,9 @@
     "titleId": "PPSA32517_00",
     "conceptId": 10016541,
     "name": "Gnomdom",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA32517_00-0169021574737541",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA32518_00",
@@ -146456,6 +146568,14 @@
     "publisherId": "HP7325"
   },
   {
+    "titleId": "PPSA32607_00",
+    "conceptId": 10016604,
+    "name": "Pixicharm - Ribbiverse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32610_00",
     "conceptId": 10016607,
     "name": "Goat Out Of Hell",
@@ -146710,6 +146830,14 @@
     "contentId": "JP5299-PPSA32662_00-000GARDENCATCHER",
     "region": "JP",
     "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32677_00",
+    "conceptId": 10016624,
+    "name": "Hidden Cats in Rio de Janeiro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32683_00",
@@ -147739,33 +147867,33 @@
     "titleId": "PPSA33032_00",
     "conceptId": 10016789,
     "name": "Slide Viking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA33032_00-0607604696622895",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA33033_00",
     "conceptId": 10016789,
     "name": "Slide Viking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA33033_00-0366849130068609",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA33034_00",
     "conceptId": 10016789,
     "name": "Slide Viking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA33034_00-0274551341574356",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA33035_00",
     "conceptId": 10016789,
     "name": "Slide Viking",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA33035_00-0132015675397089",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA33053_00",
@@ -147790,6 +147918,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA33058_00",
+    "conceptId": 10016818,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30e9\u30f3\u30c7\u30a3\u30f3\u30b0",
+    "contentId": "JP0571-PPSA33058_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA33059_00",
@@ -147843,9 +147979,9 @@
     "titleId": "PPSA33074_00",
     "conceptId": 10013743,
     "name": "Shroomtopia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA33074_00-SHROOMTOPIAQBPS5",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA33077_00",
@@ -148611,9 +148747,9 @@
     "titleId": "PPSA33466_00",
     "conceptId": 10016029,
     "name": "Trasmoz Legends",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0078-PPSA33466_00-TRASMOZLEGENDS00",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA33493_00",
@@ -148702,6 +148838,38 @@
     "contentId": "JP7323-PPSA33510_00-0944717435282358",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA33516_00",
+    "conceptId": 10017041,
+    "name": "Lucha Align",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33517_00",
+    "conceptId": 10017041,
+    "name": "Lucha Align",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33518_00",
+    "conceptId": 10017041,
+    "name": "Lucha Align",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33519_00",
+    "conceptId": 10017041,
+    "name": "Lucha Align",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33522_00",
@@ -149019,12 +149187,20 @@
     "titleId": "PPSA34027_00",
     "conceptId": 10017344,
     "name": "Plaguetrix",
+    "contentId": "EP2919-PPSA34027_00-0607728127126531",
+    "region": "EP",
+    "publisherId": "EP2919"
+  },
+  {
+    "titleId": "PPSA34124_00",
+    "conceptId": 10017406,
+    "name": "Tidebreaker",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA34124_00",
+    "titleId": "PPSA34125_00",
     "conceptId": 10017406,
     "name": "Tidebreaker",
     "contentId": null,
