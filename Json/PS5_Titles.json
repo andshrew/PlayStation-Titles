@@ -64883,7 +64883,7 @@
     "titleId": "PPSA15185_00",
     "conceptId": 10007767,
     "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2",
-    "contentId": null,
+    "contentId": "EP4139-PPSA15185_00-VTMB2BASEGAME000",
     "region": "EP",
     "publisherId": "EP4139"
   },
@@ -112864,6 +112864,14 @@
     "publisherId": "UP2985"
   },
   {
+    "titleId": "PPSA25047_00",
+    "conceptId": 10012026,
+    "name": "Kentum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25051_00",
     "conceptId": 10012023,
     "name": "Dinosaur Fossil Hunter",
@@ -119950,6 +119958,14 @@
     "contentId": "HP8260-PPSA26413_00-0115760711334705",
     "region": "HP",
     "publisherId": "HP8260"
+  },
+  {
+    "titleId": "PPSA26414_00",
+    "conceptId": 10012820,
+    "name": "R-Type Delta: HD Boosted PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26417_00",
@@ -128283,9 +128299,9 @@
     "titleId": "PPSA28037_00",
     "conceptId": 10013883,
     "name": "Halls of Torment",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1592-PPSA28037_00-0504920833556201",
+    "region": "EP",
+    "publisherId": "EP1592"
   },
   {
     "titleId": "PPSA28041_00",
@@ -129076,6 +129092,14 @@
     "conceptId": 10013997,
     "name": "Antarctica 88: 4K Remaster",
     "contentId": "EP6556-PPSA28201_00-0811778571751368",
+    "region": "EP",
+    "publisherId": "EP6556"
+  },
+  {
+    "titleId": "PPSA28202_00",
+    "conceptId": 10013996,
+    "name": "Death Park 2: 4K Remaster",
+    "contentId": "EP6556-PPSA28202_00-0518400358717827",
     "region": "EP",
     "publisherId": "EP6556"
   },
@@ -131771,9 +131795,9 @@
     "titleId": "PPSA28786_00",
     "conceptId": 10014372,
     "name": "Halloween 1985",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA28786_00-HALLOWEEN1985000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28787_00",
@@ -135374,6 +135398,14 @@
     "contentId": "UP8251-PPSA29641_00-0957065071073144",
     "region": "UP",
     "publisherId": "UP8251"
+  },
+  {
+    "titleId": "PPSA29650_00",
+    "conceptId": 10014878,
+    "name": "Dark Quest 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29652_00",
@@ -140451,9 +140483,9 @@
     "titleId": "PPSA30795_00",
     "conceptId": 10015525,
     "name": "Simon the Sorcerer Origins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8204-PPSA30795_00-SIMONORIGINSPS5X",
+    "region": "EP",
+    "publisherId": "EP8204"
   },
   {
     "titleId": "PPSA30796_00",
@@ -146496,6 +146528,14 @@
     "publisherId": "HP7325"
   },
   {
+    "titleId": "PPSA32484_00",
+    "conceptId": 10016523,
+    "name": "Winterlight - Where silence says it all",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32486_00",
     "conceptId": 10016527,
     "name": "Pixicharm - Polar Outta Place",
@@ -147258,10 +147298,18 @@
   {
     "titleId": "PPSA32694_00",
     "conceptId": 10016634,
-    "name": "SILLY POLLY BEAST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Silly Polly Beast",
+    "contentId": "UP5155-PPSA32694_00-SILLYPOLLYBEAST0",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
+    "titleId": "PPSA32695_00",
+    "conceptId": 10016634,
+    "name": "Silly Polly Beast Demo",
+    "contentId": "UP5155-PPSA32695_00-SILLYPOLLYDEMO00",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA32708_00",
@@ -148536,6 +148584,38 @@
     "publisherId": "UB0837"
   },
   {
+    "titleId": "PPSA33148_00",
+    "conceptId": 10016859,
+    "name": "Just a Little Purr Suit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33149_00",
+    "conceptId": 10016859,
+    "name": "Just a Little Purr Suit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33150_00",
+    "conceptId": 10016859,
+    "name": "Just a Little Purr Suit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33151_00",
+    "conceptId": 10016859,
+    "name": "Just a Little Purr Suit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33163_00",
     "conceptId": 10016873,
     "name": "Memory Holder: Scent of Life",
@@ -149480,7 +149560,39 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33814_00",
+    "conceptId": 10017020,
+    "name": "DETECTIVE - Rainy Night",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33820_00",
+    "conceptId": 10017233,
+    "name": "Current: The Flow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33821_00",
+    "conceptId": 10017233,
+    "name": "Current: The Flow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33834_00",
+    "conceptId": 10014878,
+    "name": "Dark Quest 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33835_00",
     "conceptId": 10014878,
     "name": "Dark Quest 4",
     "contentId": null,
@@ -149502,6 +149614,14 @@
     "contentId": "JB1686-PPSA33857_00-0178032317873403",
     "region": "JB",
     "publisherId": "JB1686"
+  },
+  {
+    "titleId": "PPSA33868_00",
+    "conceptId": 10017261,
+    "name": "Baradroid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33884_00",
@@ -149534,6 +149654,22 @@
     "contentId": "HP8504-PPSA33887_00-0874753035517531",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA33903_00",
+    "conceptId": 10017280,
+    "name": "Toad Slide",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33904_00",
+    "conceptId": 10017280,
+    "name": "Toad Slide",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33939_00",
@@ -149760,35 +149896,43 @@
     "publisherId": "HB0876"
   },
   {
-    "titleId": "PPSA34198_00",
-    "conceptId": 10017465,
-    "name": "Slide The Tiles",
+    "titleId": "PPSA34132_00",
+    "conceptId": 10017421,
+    "name": "Battlefield\u2122 REDSEC",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34198_00",
+    "conceptId": 10017465,
+    "name": "Slide The Tiles",
+    "contentId": "UP8787-PPSA34198_00-0161188904248688",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA34199_00",
     "conceptId": 10017465,
     "name": "Slide The Tiles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA34199_00-0331797823117137",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA34200_00",
     "conceptId": 10017465,
     "name": "Slide The Tiles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA34200_00-0944964297186826",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA34201_00",
     "conceptId": 10017465,
     "name": "Slide The Tiles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA34201_00-0819610575482310",
+    "region": "HP",
+    "publisherId": "HP8737"
   }
 ]
