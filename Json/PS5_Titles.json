@@ -99451,7 +99451,7 @@
     "titleId": "PPSA22319_00",
     "conceptId": 10010701,
     "name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8I\uff06II",
-    "contentId": null,
+    "contentId": "JP0082-PPSA22319_00-DQ1N2RJP00000000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -99475,7 +99475,7 @@
     "titleId": "PPSA22322_00",
     "conceptId": 10010701,
     "name": "DRAGON QUEST I & II HD-2D Remake",
-    "contentId": null,
+    "contentId": "HP0082-PPSA22322_00-DQ1N2RASIA000000",
     "region": "HP",
     "publisherId": "HP0082"
   },
@@ -112816,6 +112816,14 @@
     "publisherId": "UB0429"
   },
   {
+    "titleId": "PPSA25024_00",
+    "conceptId": 10012013,
+    "name": "Baseball Dreams VR",
+    "contentId": "EP2086-PPSA25024_00-BASEBALLDREAMSVR",
+    "region": "EP",
+    "publisherId": "EP2086"
+  },
+  {
     "titleId": "PPSA25031_00",
     "conceptId": 10011963,
     "name": "Drift Master Simulator",
@@ -119720,6 +119728,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA26355_00",
+    "conceptId": 10011008,
+    "name": "Bubble Bobble SUGAR DUNGEONS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26357_00",
     "conceptId": 10004842,
     "name": "Infinity Nikki",
@@ -122848,6 +122864,14 @@
     "publisherId": "UB0837"
   },
   {
+    "titleId": "PPSA26972_00",
+    "conceptId": 10013017,
+    "name": "Surviving Mars: Relaunched",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26973_00",
     "conceptId": 10009063,
     "name": "Legacy of Kain\u2122 Soul Reaver 1&2 Remastered",
@@ -125480,6 +125504,14 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA27508_00",
+    "conceptId": 10013437,
+    "name": "Strike Force Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27509_00",
     "conceptId": 10011830,
     "name": "F1\u00ae 25",
@@ -126830,6 +126862,14 @@
     "contentId": "JP6005-PPSA27753_00-MONSTERWORLD4001",
     "region": "JP",
     "publisherId": "JP6005"
+  },
+  {
+    "titleId": "PPSA27758_00",
+    "conceptId": 10013643,
+    "name": "Lokko",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27759_00",
@@ -131424,6 +131464,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA28688_00",
+    "conceptId": 10014316,
+    "name": "Card Collector Trading Shop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28689_00",
     "conceptId": 10014317,
     "name": "Puzzle Wars",
@@ -135208,6 +135256,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA29594_00",
+    "conceptId": 10014803,
+    "name": "Milano's Odd Job Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29597_00",
     "conceptId": 10012102,
     "name": "\u30b9\u30bf\u30fc\u30d0\u30a4\u30c4",
@@ -136643,9 +136699,9 @@
     "titleId": "PPSA29902_00",
     "conceptId": 10015032,
     "name": "Space Chef",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6928-PPSA29902_00-ZZZZZZZZZZZZZZZZ",
+    "region": "JP",
+    "publisherId": "JP6928"
   },
   {
     "titleId": "PPSA29904_00",
@@ -138618,10 +138674,10 @@
   {
     "titleId": "PPSA30365_00",
     "conceptId": 10008573,
-    "name": "Tales of Xillia Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af & \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+    "contentId": "JP0700-PPSA30365_00-TOXREARTANDSOUND",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA30366_00",
@@ -139299,7 +139355,7 @@
     "titleId": "PPSA30490_00",
     "conceptId": 10015356,
     "name": "Asterix & Obelix - Mission Babylon",
-    "contentId": null,
+    "contentId": "EP4295-PPSA30490_00-AOBABYLONPS500EU",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -140411,9 +140467,9 @@
     "titleId": "PPSA30752_00",
     "conceptId": 10000565,
     "name": "Miden Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2363-PPSA30752_00-EU0MIDEN00000PS5",
+    "region": "EP",
+    "publisherId": "EP2363"
   },
   {
     "titleId": "PPSA30754_00",
@@ -141816,6 +141872,14 @@
     "publisherId": "EB0963"
   },
   {
+    "titleId": "PPSA31186_00",
+    "conceptId": 10015744,
+    "name": "7th Domain \uff1a Tree of Chaos",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31187_00",
     "conceptId": 10015745,
     "name": "Rise Eterna 2",
@@ -142078,6 +142142,22 @@
     "contentId": "HP8462-PPSA31242_00-0614007098696328",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA31246_00",
+    "conceptId": 10015533,
+    "name": "Resident Evil Requiem",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0102"
+  },
+  {
+    "titleId": "PPSA31247_00",
+    "conceptId": 10015533,
+    "name": "BIOHAZARD requiem",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA31249_00",
@@ -143338,10 +143418,10 @@
   {
     "titleId": "PPSA31605_00",
     "conceptId": 10015221,
-    "name": "Virtua Fighter 5 R.E.V.O. World Stage",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "30th Anniversary Music Selection \uff06 Pre-Production Secret Materials",
+    "contentId": "JP0177-PPSA31605_00-VF5REVO30THAPP00",
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA31606_00",
@@ -143946,10 +144026,10 @@
   {
     "titleId": "PPSA31748_00",
     "conceptId": 10016120,
-    "name": "Hell Is Other Demons",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Hell is Other Demons",
+    "contentId": "EP0782-PPSA31748_00-HOD0000000077122",
+    "region": "EP",
+    "publisherId": "EP0782"
   },
   {
     "titleId": "PPSA31749_00",
@@ -144182,6 +144262,14 @@
     "contentId": "EP5645-PPSA31790_00-0556898622999767",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA31797_00",
+    "conceptId": 10016142,
+    "name": "Bokeh Adventure",
+    "contentId": "JB0500-PPSA31797_00-0004842752856419",
+    "region": "JB",
+    "publisherId": "JB0500"
   },
   {
     "titleId": "PPSA31798_00",
@@ -144747,9 +144835,9 @@
     "titleId": "PPSA31961_00",
     "conceptId": 10015951,
     "name": "Dungeon Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1007-PPSA31961_00-MINESWEEPERPS5EU",
+    "region": "EB",
+    "publisherId": "EB1007"
   },
   {
     "titleId": "PPSA31962_00",
@@ -144763,17 +144851,17 @@
     "titleId": "PPSA31963_00",
     "conceptId": 10015951,
     "name": "Dungeon Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0780-PPSA31963_00-MINESWEEPERPS5AS",
+    "region": "HB",
+    "publisherId": "HB0780"
   },
   {
     "titleId": "PPSA31965_00",
     "conceptId": 10015951,
-    "name": "Dungeon Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c0\u30f3\u30b8\u30e7\u30f3\u30de\u30a4\u30f3\u30b9\u30a4\u30fc\u30d1\u30fc",
+    "contentId": "JB0752-PPSA31965_00-MINESWEEPERPS5JP",
+    "region": "JB",
+    "publisherId": "JB0752"
   },
   {
     "titleId": "PPSA31968_00",
@@ -145280,6 +145368,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32105_00",
+    "conceptId": 10016311,
+    "name": "Saving Princess Of Mars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32106_00",
+    "conceptId": 10016311,
+    "name": "Saving Princess Of Mars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32107_00",
+    "conceptId": 10016311,
+    "name": "Saving Princess Of Mars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32108_00",
+    "conceptId": 10016311,
+    "name": "Saving Princess Of Mars",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32110_00",
     "conceptId": 10016313,
     "name": "CLAWPUNK",
@@ -145459,9 +145579,9 @@
     "titleId": "PPSA32156_00",
     "conceptId": 10015737,
     "name": "Mind Twist",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB2034-PPSA32156_00-0617300459852278",
+    "region": "EB",
+    "publisherId": "EB2034"
   },
   {
     "titleId": "PPSA32165_00",
@@ -145932,6 +146052,14 @@
     "conceptId": 10016401,
     "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30b8\u30e7\u30a4\u30d5\u30eb\u30ed\u30fc\u30c9",
     "contentId": "JP0571-PPSA32269_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA32270_00",
+    "conceptId": 10016402,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30b5\u30a4\u30aa\u30f3",
+    "contentId": "JP0571-PPSA32270_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
   },
@@ -147318,6 +147446,14 @@
     "contentId": "HB1728-PPSA32708_00-0558491273411822",
     "region": "HB",
     "publisherId": "HB1728"
+  },
+  {
+    "titleId": "PPSA32714_00",
+    "conceptId": 10016649,
+    "name": "Pixicharm - Knightritious",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32715_00",
@@ -149240,6 +149376,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA33429_00",
+    "conceptId": 10017000,
+    "name": "Rabbit Samurai",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33466_00",
     "conceptId": 10016029,
     "name": "Trasmoz Legends",
@@ -149283,33 +149427,33 @@
     "titleId": "PPSA33493_00",
     "conceptId": 10017025,
     "name": "Lonely Guardian",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA33493_00-0968399805914828",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA33494_00",
     "conceptId": 10017025,
     "name": "Lonely Guardian",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA33494_00-0801692902527819",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA33495_00",
     "conceptId": 10017025,
     "name": "Lonely Guardian",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA33495_00-0535011981813608",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA33497_00",
     "conceptId": 10017025,
     "name": "Lonely Guardian",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA33497_00-0086441183690001",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA33504_00",
@@ -149656,6 +149800,22 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA33901_00",
+    "conceptId": 10017280,
+    "name": "Toad Slide",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33902_00",
+    "conceptId": 10017280,
+    "name": "Toad Slide",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33903_00",
     "conceptId": 10017280,
     "name": "Toad Slide",
@@ -149710,6 +149870,14 @@
     "contentId": "EP7938-PPSA33943_00-0498213465666708",
     "region": "EP",
     "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA33944_00",
+    "conceptId": 10017303,
+    "name": "Favela on the Roll",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33975_00",
