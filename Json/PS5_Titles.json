@@ -6432,6 +6432,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA02766_00",
+    "conceptId": 10002242,
+    "name": "Plague Hunters",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA02771_00",
     "conceptId": 10002234,
     "name": "Horse Tales - Emerald Valley Ranch",
@@ -74210,8 +74218,8 @@
   {
     "titleId": "PPSA16951_00",
     "conceptId": 10008573,
-    "name": "Tales of Xillia Remastered",
-    "contentId": null,
+    "name": "\u7121\u76e1\u50b3\u5947 Remastered",
+    "contentId": "HP0700-PPSA16951_00-MAINGAME00000000",
     "region": "HP",
     "publisherId": "HP0700"
   },
@@ -109200,6 +109208,14 @@
     "publisherId": "EP1063"
   },
   {
+    "titleId": "PPSA24328_00",
+    "conceptId": 10011670,
+    "name": "Possessor(s)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24331_00",
     "conceptId": 10011675,
     "name": "Prison Loop",
@@ -116976,6 +116992,22 @@
     "publisherId": "EP3495"
   },
   {
+    "titleId": "PPSA25816_00",
+    "conceptId": 10004218,
+    "name": "The Letter: Classic Edition",
+    "contentId": "UP4947-PPSA25816_00-THELETTERCLASSIC",
+    "region": "UP",
+    "publisherId": "UP4947"
+  },
+  {
+    "titleId": "PPSA25817_00",
+    "conceptId": 10004218,
+    "name": "The Letter: Classic Edition",
+    "contentId": "EP5133-PPSA25817_00-THELETTERCLASSIC",
+    "region": "EP",
+    "publisherId": "EP5133"
+  },
+  {
     "titleId": "PPSA25818_00",
     "conceptId": 10010843,
     "name": "NO MOSAIC GIRLS with SESS-AI 2.0 DEMO",
@@ -119968,6 +120000,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA26412_00",
+    "conceptId": 10012820,
+    "name": "R-Type Delta: HD Boosted PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26413_00",
     "conceptId": 10009861,
     "name": "Kong: Survivor Instinct",
@@ -121344,6 +121384,14 @@
     "publisherId": "JB1262"
   },
   {
+    "titleId": "PPSA26653_00",
+    "conceptId": 10012883,
+    "name": "Monster House Racing",
+    "contentId": "UB0062-PPSA26653_00-0030441321367159",
+    "region": "UB",
+    "publisherId": "UB0062"
+  },
+  {
     "titleId": "PPSA26656_00",
     "conceptId": 10012988,
     "name": "Bad Cheese",
@@ -121692,6 +121740,22 @@
     "conceptId": 10012962,
     "name": "The Jumping Melon Rush - DEMO",
     "contentId": "HP6661-PPSA26722_00-0843324052431708",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA26723_00",
+    "conceptId": 10012963,
+    "name": "The Jumping Burger Climb - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26730_00",
+    "conceptId": 10012964,
+    "name": "The Jumping Carrot Race - DEMO",
+    "contentId": "HP6661-PPSA26730_00-0171295585598656",
     "region": "HP",
     "publisherId": "HP6661"
   },
@@ -123467,6 +123531,14 @@
     "titleId": "PPSA27109_00",
     "conceptId": 10008444,
     "name": "Alaskan Road Truckers: Highway Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27112_00",
+    "conceptId": 10013236,
+    "name": "House Fighters: Total Mess",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -125606,6 +125678,14 @@
     "contentId": "EP7603-PPSA27521_00-0064247843641391",
     "region": "EP",
     "publisherId": "EP7603"
+  },
+  {
+    "titleId": "PPSA27522_00",
+    "conceptId": 10007454,
+    "name": "Buy The Game, I Have a Gun -Sheesh-Man : Digital Deluxe Mega Chad Edition",
+    "contentId": "JP7586-PPSA27522_00-0416671785220432",
+    "region": "JP",
+    "publisherId": "JP7586"
   },
   {
     "titleId": "PPSA27523_00",
@@ -127968,6 +128048,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27963_00",
+    "conceptId": 10013813,
+    "name": "Cursed New Year",
+    "contentId": "JP1932-PPSA27963_00-SYPS5CURSEDNEWYE",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
     "titleId": "PPSA27966_00",
     "conceptId": 10012670,
     "name": "Dead Land 2",
@@ -128490,8 +128578,8 @@
   {
     "titleId": "PPSA28068_00",
     "conceptId": 10013904,
-    "name": "Mortal Kombat: Legacy Kollection PS4 & PS5",
-    "contentId": null,
+    "name": "Mortal Kombat: Legacy Kollection",
+    "contentId": "UP7818-PPSA28068_00-MKOMBATLEGACYKOL",
     "region": "UP",
     "publisherId": "UP7818"
   },
@@ -131258,8 +131346,8 @@
   {
     "titleId": "PPSA28625_00",
     "conceptId": 10014280,
-    "name": "Harvest Moon\u00ae: Home Sweet Home Special Edition",
-    "contentId": null,
+    "name": "Harvest Moon: Home Sweet Home Special Edition",
+    "contentId": "UP1014-PPSA28625_00-HMHOMESE000000WW",
     "region": "UP",
     "publisherId": "UP1014"
   },
@@ -131464,12 +131552,20 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA28687_00",
+    "conceptId": 10014316,
+    "name": "Card Collector Trading Shop",
+    "contentId": "UP1564-PPSA28687_00-CLAB2CCT20251102",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA28688_00",
     "conceptId": 10014316,
     "name": "Card Collector Trading Shop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA28688_00-CLAB3CCT20251102",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA28689_00",
@@ -131662,6 +131758,14 @@
     "contentId": "HP0918-PPSA28719_00-0819757708968480",
     "region": "HP",
     "publisherId": "HP0918"
+  },
+  {
+    "titleId": "PPSA28721_00",
+    "conceptId": 10014283,
+    "name": "Demeo x Dungeons & Dragons: Battlemarked",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28723_00",
@@ -132131,9 +132235,9 @@
     "titleId": "PPSA28858_00",
     "conceptId": 10012897,
     "name": "Hannah",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA28858_00-HANNAHQUBYTPS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA28859_00",
@@ -132147,9 +132251,9 @@
     "titleId": "PPSA28860_00",
     "conceptId": 10012897,
     "name": "Hannah",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA28860_00-HANNAHQUBYTPS5EU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA28872_00",
@@ -137171,9 +137275,9 @@
     "titleId": "PPSA30020_00",
     "conceptId": 10015091,
     "name": "Kamla",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6885-PPSA30020_00-ZZZZZZZZZZZZZZZZ",
+    "region": "HP",
+    "publisherId": "HP6885"
   },
   {
     "titleId": "PPSA30024_00",
@@ -137230,6 +137334,14 @@
     "contentId": "UP8215-PPSA30045_00-0521291584771106",
     "region": "UP",
     "publisherId": "UP8215"
+  },
+  {
+    "titleId": "PPSA30052_00",
+    "conceptId": 10004896,
+    "name": "\u30a6\u30a9\u30d6\u30ea\u30fc\u30e9\u30a4\u30d5",
+    "contentId": "JP0098-PPSA30052_00-WOBBLYLIFETEYONX",
+    "region": "JP",
+    "publisherId": "JP0098"
   },
   {
     "titleId": "PPSA30053_00",
@@ -138106,8 +138218,8 @@
   {
     "titleId": "PPSA30247_00",
     "conceptId": 10015221,
-    "name": "Virtua Fighter 5 R.E.V.O. World Stage Standard Edition",
-    "contentId": null,
+    "name": "Virtua Fighter 5 R.E.V.O. World Stage",
+    "contentId": "JP0177-PPSA30247_00-VF5REVOMAIN00001",
     "region": "JP",
     "publisherId": "JP0177"
   },
@@ -138402,10 +138514,10 @@
   {
     "titleId": "PPSA30313_00",
     "conceptId": 10011796,
-    "name": "The Outer Worlds 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "TOW2 Artbook",
+    "contentId": "UP6312-PPSA30313_00-0808184590169433",
+    "region": "UP",
+    "publisherId": "UP6312"
   },
   {
     "titleId": "PPSA30314_00",
@@ -138682,10 +138794,10 @@
   {
     "titleId": "PPSA30366_00",
     "conceptId": 10008573,
-    "name": "Tales of Xillia Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Digital Artbook & Soundtrack",
+    "contentId": "HP0700-PPSA30366_00-TOXREARTANDSOUND",
+    "region": "HP",
+    "publisherId": "HP0700"
   },
   {
     "titleId": "PPSA30367_00",
@@ -140459,9 +140571,9 @@
     "titleId": "PPSA30751_00",
     "conceptId": 10000565,
     "name": "Miden Tower",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2500-PPSA30751_00-US0MIDEN00000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA30752_00",
@@ -140566,6 +140678,14 @@
     "contentId": "UB0655-PPSA30798_00-0953421814880459",
     "region": "UB",
     "publisherId": "UB0655"
+  },
+  {
+    "titleId": "PPSA30803_00",
+    "conceptId": 10015533,
+    "name": "Resident Evil Requiem",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0102"
   },
   {
     "titleId": "PPSA30804_00",
@@ -141608,6 +141728,14 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31109_00",
+    "conceptId": 10015420,
+    "name": "Static Dread: The Lighthouse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31110_00",
     "conceptId": 10015694,
     "name": "Snake 2048",
@@ -141771,9 +141899,9 @@
     "titleId": "PPSA31155_00",
     "conceptId": 10015727,
     "name": "Sweet Surrender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3583-PPSA31155_00-0602125704981712",
+    "region": "EP",
+    "publisherId": "EP3583"
   },
   {
     "titleId": "PPSA31168_00",
@@ -144843,9 +144971,9 @@
     "titleId": "PPSA31962_00",
     "conceptId": 10015951,
     "name": "Dungeon Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0812-PPSA31962_00-MINESWEEPERPS5US",
+    "region": "UB",
+    "publisherId": "UB0812"
   },
   {
     "titleId": "PPSA31963_00",
@@ -146256,6 +146384,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA32341_00",
+    "conceptId": 10016446,
+    "name": "VRacer Hoverbike",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32345_00",
     "conceptId": 10016449,
     "name": "The Kangaroo Conspiracy DX",
@@ -146307,17 +146443,17 @@
     "titleId": "PPSA32391_00",
     "conceptId": 10016474,
     "name": "Water Delivery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA32391_00-0188536003782021",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA32392_00",
     "conceptId": 10016474,
     "name": "Water Delivery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA32392_00-0614269473384219",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA32400_00",
@@ -146790,6 +146926,14 @@
     "contentId": "EP3111-PPSA32533_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA32538_00",
+    "conceptId": 10016249,
+    "name": "Delivery Dash: Battle Couriers",
+    "contentId": "UP8616-PPSA32538_00-0568637601370104",
+    "region": "UP",
+    "publisherId": "UP8616"
   },
   {
     "titleId": "PPSA32541_00",
@@ -147451,9 +147595,9 @@
     "titleId": "PPSA32714_00",
     "conceptId": 10016649,
     "name": "Pixicharm - Knightritious",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA32714_00-KNIGHTRITIOUS000",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA32715_00",
@@ -147918,6 +148062,14 @@
     "contentId": "HP3536-PPSA32870_00-0189558318393663",
     "region": "HP",
     "publisherId": "HP3536"
+  },
+  {
+    "titleId": "PPSA32871_00",
+    "conceptId": 10016717,
+    "name": "Hole Switch",
+    "contentId": "UB0337-PPSA32871_00-0159639244337292",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA32878_00",
@@ -148387,33 +148539,33 @@
     "titleId": "PPSA33024_00",
     "conceptId": 10016786,
     "name": "Hula Hula Wee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA33024_00-0709279825232170",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA33025_00",
     "conceptId": 10016786,
     "name": "Hula Hula Wee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA33025_00-0406952120032634",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA33026_00",
     "conceptId": 10016786,
     "name": "Hula Hula Wee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA33026_00-0832719711348144",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA33027_00",
     "conceptId": 10016786,
     "name": "Hula Hula Wee",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA33027_00-0932045209824525",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA33032_00",
@@ -148555,9 +148707,9 @@
     "titleId": "PPSA33079_00",
     "conceptId": 10016832,
     "name": "Beaked Buccaneer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA33079_00-BEAKEDBUCCANEERG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA33085_00",
@@ -148574,6 +148726,14 @@
     "contentId": "EP7975-PPSA33086_00-0874078889132681",
     "region": "EP",
     "publisherId": "EP7975"
+  },
+  {
+    "titleId": "PPSA33094_00",
+    "conceptId": 10014683,
+    "name": "Releaseburg",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33122_00",
@@ -149576,6 +149736,22 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA33530_00",
+    "conceptId": 10017045,
+    "name": "Learn to Play Vol. 13 - Pumpkin Smash!",
+    "contentId": "EP2005-PPSA33530_00-LTPPUMPKINSMASH0",
+    "region": "EP",
+    "publisherId": "EP2005"
+  },
+  {
+    "titleId": "PPSA33531_00",
+    "conceptId": 10017045,
+    "name": "Learn to Play Vol. 13 - Pumpkin Smash!",
+    "contentId": "HP2005-PPSA33531_00-LTPPUMPKINSMASH0",
+    "region": "HP",
+    "publisherId": "HP2005"
+  },
+  {
     "titleId": "PPSA33571_00",
     "conceptId": 10017078,
     "name": "Drift Highway: Retro Console Edition",
@@ -149696,6 +149872,14 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA33796_00",
+    "conceptId": 10017217,
+    "name": "Easy Flight Simulator 2",
+    "contentId": "UP7552-PPSA33796_00-0641714602772186",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA33809_00",
     "conceptId": 228902,
     "name": "ADN",
@@ -149747,9 +149931,9 @@
     "titleId": "PPSA33845_00",
     "conceptId": 10010173,
     "name": "Overdriven Evolution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0592-PPSA33845_00-0897707716114113",
+    "region": "UB",
+    "publisherId": "UB0592"
   },
   {
     "titleId": "PPSA33857_00",
@@ -150032,6 +150216,30 @@
     "publisherId": "EP2919"
   },
   {
+    "titleId": "PPSA34037_00",
+    "conceptId": 10014313,
+    "name": "Angry Video Game Nerd 8-bit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34096_00",
+    "conceptId": 10017392,
+    "name": "Carambole Fireworks",
+    "contentId": "UP7940-PPSA34096_00-0391446885648591",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA34099_00",
+    "conceptId": 10017392,
+    "name": "Carambole Fireworks",
+    "contentId": "JP7921-PPSA34099_00-0610502953719444",
+    "region": "JP",
+    "publisherId": "JP7921"
+  },
+  {
     "titleId": "PPSA34124_00",
     "conceptId": 10017406,
     "name": "Tidebreaker",
@@ -150072,6 +150280,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34164_00",
+    "conceptId": 10016133,
+    "name": "Creepy Shift: Roadside Diner Demo",
+    "contentId": "EP5568-PPSA34164_00-0027874600558419",
+    "region": "EP",
+    "publisherId": "EP5568"
+  },
+  {
     "titleId": "PPSA34198_00",
     "conceptId": 10017465,
     "name": "Slide The Tiles",
@@ -150102,5 +150318,13 @@
     "contentId": "HP8737-PPSA34201_00-0819610575482310",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA34220_00",
+    "conceptId": 10017392,
+    "name": "Carambole Fireworks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
