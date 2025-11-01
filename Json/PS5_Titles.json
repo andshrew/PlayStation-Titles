@@ -108648,6 +108648,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA24216_00",
+    "conceptId": 10011607,
+    "name": "Dreamscapes - The Sandman",
+    "contentId": "EP1629-PPSA24216_00-DREAMSCAPTSJDPS5",
+    "region": "EP",
+    "publisherId": "EP1629"
+  },
+  {
     "titleId": "PPSA24220_00",
     "conceptId": 10011606,
     "name": "Thermonuclear",
@@ -110603,7 +110611,7 @@
     "titleId": "PPSA24588_00",
     "conceptId": 10011796,
     "name": "The Outer Worlds 2",
-    "contentId": null,
+    "contentId": "UP6312-PPSA24588_00-0872768154966924",
     "region": "UP",
     "publisherId": "UP6312"
   },
@@ -119816,6 +119824,14 @@
     "publisherId": "EP3185"
   },
   {
+    "titleId": "PPSA26370_00",
+    "conceptId": 10008621,
+    "name": "Captain Bones",
+    "contentId": "EB0093-PPSA26370_00-0656094952990409",
+    "region": "EB",
+    "publisherId": "EB0093"
+  },
+  {
     "titleId": "PPSA26372_00",
     "conceptId": 10012790,
     "name": "Island Trouble",
@@ -120646,6 +120662,14 @@
     "contentId": "EP2627-PPSA26529_00-TECHNOBANTEROST0",
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA26531_00",
+    "conceptId": 211120,
+    "name": "\u30b7\u30e3\u30f3\u30c6\u30a3 -\u6d77\u8cca\u306e\u546a\u3044-",
+    "contentId": "JP0075-PPSA26531_00-0619345557023176",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA26533_00",
@@ -121752,6 +121776,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26725_00",
+    "conceptId": 10012963,
+    "name": "The Jumping Burger Climb - DEMO",
+    "contentId": "JP6595-PPSA26725_00-0254467293417753",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA26727_00",
+    "conceptId": 10012964,
+    "name": "The Jumping Carrot Race - DEMO",
+    "contentId": "EP6664-PPSA26727_00-0788538622734507",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA26728_00",
+    "conceptId": 10012964,
+    "name": "The Jumping Carrot Race - DEMO",
+    "contentId": "UP6664-PPSA26728_00-0324626011199293",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA26730_00",
     "conceptId": 10012964,
     "name": "The Jumping Carrot Race - DEMO",
@@ -122558,6 +122606,14 @@
     "contentId": "HP6661-PPSA26898_00-0080767378540280",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA26902_00",
+    "conceptId": 10013094,
+    "name": "Color Swiper 3 - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26904_00",
@@ -128035,17 +128091,17 @@
     "titleId": "PPSA27961_00",
     "conceptId": 10013813,
     "name": "Cursed New Year",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA27961_00-SYPS5CURSEDNEWYE",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA27962_00",
     "conceptId": 10013813,
     "name": "Cursed New Year",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA27962_00-SYPS5CURSEDNEWYE",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA27963_00",
@@ -128054,6 +128110,14 @@
     "contentId": "JP1932-PPSA27963_00-SYPS5CURSEDNEWYE",
     "region": "JP",
     "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA27964_00",
+    "conceptId": 10013813,
+    "name": "Cursed New Year",
+    "contentId": "HP1792-PPSA27964_00-SYPS5CURSEDNEWYE",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA27966_00",
@@ -137512,6 +137576,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA30093_00",
+    "conceptId": 10015133,
+    "name": "What is Older?",
+    "contentId": "EP6878-PPSA30093_00-WHATISOLDER11111",
+    "region": "EP",
+    "publisherId": "EP6878"
+  },
+  {
     "titleId": "PPSA30095_00",
     "conceptId": 10003301,
     "name": "GigaBash",
@@ -138802,18 +138874,18 @@
   {
     "titleId": "PPSA30367_00",
     "conceptId": 10008573,
-    "name": "Tales of Xillia Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Digital Artbook & Soundtrack",
+    "contentId": "UP0700-PPSA30367_00-TOXREARTANDSOUND",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA30368_00",
     "conceptId": 10008573,
-    "name": "Tales of Xillia Remastered",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Digital Artbook & Soundtrack",
+    "contentId": "EP0700-PPSA30368_00-TOXREARTANDSOUND",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA30371_00",
@@ -141096,6 +141168,14 @@
     "publisherId": "UB1453"
   },
   {
+    "titleId": "PPSA30918_00",
+    "conceptId": 10013651,
+    "name": "GIGASWORD Demo",
+    "contentId": "HP3332-PPSA30918_00-0666987167990615",
+    "region": "HP",
+    "publisherId": "HP3332"
+  },
+  {
     "titleId": "PPSA30919_00",
     "conceptId": 10015619,
     "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u822a\u7a7a\u9a0e\u5175\u7269\u8a9e",
@@ -141587,9 +141667,9 @@
     "titleId": "PPSA31083_00",
     "conceptId": 10015677,
     "name": "Truck Driver: The Dutch Connection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4541-PPSA31083_00-DUTCHCONNECTION0",
+    "region": "EP",
+    "publisherId": "EP4541"
   },
   {
     "titleId": "PPSA31084_00",
@@ -142002,10 +142082,10 @@
   {
     "titleId": "PPSA31186_00",
     "conceptId": 10015744,
-    "name": "7th Domain \uff1a Tree of Chaos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "7th Domain\uff1aTree of Chaos",
+    "contentId": "UB0675-PPSA31186_00-0096368905648073",
+    "region": "UB",
+    "publisherId": "UB0675"
   },
   {
     "titleId": "PPSA31187_00",
@@ -142939,17 +143019,17 @@
     "titleId": "PPSA31424_00",
     "conceptId": 10015890,
     "name": "Laundry Store Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1564-PPSA31424_00-CLABSLSS20250618",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA31425_00",
     "conceptId": 10015890,
     "name": "Laundry Store Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA31425_00-CLABSLSS20250618",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA31430_00",
@@ -143739,9 +143819,9 @@
     "titleId": "PPSA31638_00",
     "conceptId": 10016039,
     "name": "Oh, Canada!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31638_00-OHCANADA000000AS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31639_00",
@@ -148731,9 +148811,9 @@
     "titleId": "PPSA33094_00",
     "conceptId": 10014683,
     "name": "Releaseburg",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4897-PPSA33094_00-RELEASEBURGXXXXX",
+    "region": "EP",
+    "publisherId": "EP4897"
   },
   {
     "titleId": "PPSA33122_00",
@@ -149736,6 +149816,14 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA33529_00",
+    "conceptId": 10017045,
+    "name": "Learn to Play Vol. 13 - Pumpkin Smash!",
+    "contentId": "UP2005-PPSA33529_00-LTPPUMPKINSMASH0",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
     "titleId": "PPSA33530_00",
     "conceptId": 10017045,
     "name": "Learn to Play Vol. 13 - Pumpkin Smash!",
@@ -149750,6 +149838,14 @@
     "contentId": "HP2005-PPSA33531_00-LTPPUMPKINSMASH0",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA33536_00",
+    "conceptId": 10014949,
+    "name": "20th Century Beauties Premium Edition",
+    "contentId": "EP2402-PPSA33536_00-20THCENTUPREMIUM",
+    "region": "EP",
+    "publisherId": "EP2402"
   },
   {
     "titleId": "PPSA33571_00",
@@ -150099,33 +150195,33 @@
     "titleId": "PPSA33988_00",
     "conceptId": 10017320,
     "name": "Shelter 78: Mutant Protocol",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA33988_00-0636747505472485",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA33989_00",
     "conceptId": 10017320,
     "name": "Shelter 78: Mutant Protocol",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA33989_00-0039897327929648",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA33990_00",
     "conceptId": 10017320,
     "name": "Shelter 78: Mutant Protocol",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA33990_00-0727843617286615",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA33991_00",
     "conceptId": 10017320,
     "name": "Shelter 78: Mutant Protocol",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA33991_00-0572503487677973",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA34004_00",
@@ -150218,7 +150314,23 @@
   {
     "titleId": "PPSA34037_00",
     "conceptId": 10014313,
-    "name": "Angry Video Game Nerd 8-bit",
+    "name": "The Angry Video Game Nerd 8-bit (Demo)",
+    "contentId": "UP5420-PPSA34037_00-0237894546126017",
+    "region": "UP",
+    "publisherId": "UP5420"
+  },
+  {
+    "titleId": "PPSA34045_00",
+    "conceptId": 10017355,
+    "name": "Hexa Chippy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34046_00",
+    "conceptId": 10017355,
+    "name": "Hexa Chippy",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -150230,6 +150342,14 @@
     "contentId": "UP7940-PPSA34096_00-0391446885648591",
     "region": "UP",
     "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA34098_00",
+    "conceptId": 10017392,
+    "name": "Carambole Fireworks",
+    "contentId": "HP7967-PPSA34098_00-0390435521750465",
+    "region": "HP",
+    "publisherId": "HP7967"
   },
   {
     "titleId": "PPSA34099_00",
@@ -150323,8 +150443,8 @@
     "titleId": "PPSA34220_00",
     "conceptId": 10017392,
     "name": "Carambole Fireworks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7938-PPSA34220_00-0667399914727196",
+    "region": "EP",
+    "publisherId": "EP7938"
   }
 ]
