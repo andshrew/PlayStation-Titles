@@ -44883,25 +44883,25 @@
     "titleId": "PPSA09822_00",
     "conceptId": 10005975,
     "name": "Wreckreation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP2880-PPSA09822_00-WRECKCREATION000",
+    "region": "JP",
+    "publisherId": "JP2880"
   },
   {
     "titleId": "PPSA09823_00",
     "conceptId": 10005975,
     "name": "Wreckreation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4389-PPSA09823_00-WRECKCREATION000",
+    "region": "UP",
+    "publisherId": "UP4389"
   },
   {
     "titleId": "PPSA09824_00",
     "conceptId": 10005975,
     "name": "Wreckreation",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4389-PPSA09824_00-WRECKREATION0000",
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA09827_00",
@@ -99467,7 +99467,7 @@
     "titleId": "PPSA22320_00",
     "conceptId": 10010701,
     "name": "DRAGON QUEST I & II HD-2D Remake",
-    "contentId": null,
+    "contentId": "UP0082-PPSA22320_00-DQ1N2RNA00000000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -99475,7 +99475,7 @@
     "titleId": "PPSA22321_00",
     "conceptId": 10010701,
     "name": "DRAGON QUEST I & II HD-2D Remake",
-    "contentId": null,
+    "contentId": "EP0082-PPSA22321_00-DQ1N2REU00000000",
     "region": "EP",
     "publisherId": "EP0082"
   },
@@ -101456,6 +101456,14 @@
     "publisherId": "EP5098"
   },
   {
+    "titleId": "PPSA22705_00",
+    "conceptId": 10010853,
+    "name": "Thief VR: Legacy of Shadow",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3535"
+  },
+  {
     "titleId": "PPSA22717_00",
     "conceptId": 10010861,
     "name": "Campfire of Oasis",
@@ -101942,6 +101950,14 @@
     "contentId": "EP4114-PPSA22813_00-0978818596652672",
     "region": "EP",
     "publisherId": "EP4114"
+  },
+  {
+    "titleId": "PPSA22814_00",
+    "conceptId": 10010648,
+    "name": "Mythargia",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA22819_00",
@@ -106496,6 +106512,14 @@
     "publisherId": "UP1003"
   },
   {
+    "titleId": "PPSA23830_00",
+    "conceptId": 10011025,
+    "name": "Another Bar Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23832_00",
     "conceptId": 10011419,
     "name": "CryptMaster",
@@ -110472,6 +110496,22 @@
     "publisherId": "EP0917"
   },
   {
+    "titleId": "PPSA24560_00",
+    "conceptId": 10001629,
+    "name": "Turok 2: Seeds of Evil",
+    "contentId": "UP0913-PPSA24560_00-HORUS00000000000",
+    "region": "UP",
+    "publisherId": "UP0913"
+  },
+  {
+    "titleId": "PPSA24561_00",
+    "conceptId": 10001629,
+    "name": "Turok 2: Seeds of Evil",
+    "contentId": "EP0917-PPSA24561_00-HORUS00000000000",
+    "region": "EP",
+    "publisherId": "EP0917"
+  },
+  {
     "titleId": "PPSA24562_00",
     "conceptId": 10011787,
     "name": "Summer In Trigue",
@@ -111126,6 +111166,22 @@
     "contentId": "EB1238-PPSA24686_00-0625573803756286",
     "region": "EB",
     "publisherId": "EB1238"
+  },
+  {
+    "titleId": "PPSA24688_00",
+    "conceptId": 10004876,
+    "name": "Romancing SaGa -Minstrel Song- Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA24689_00",
+    "conceptId": 10004876,
+    "name": "Romancing SaGa -Minstrel Song- Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA24690_00",
@@ -121770,10 +121826,10 @@
   {
     "titleId": "PPSA26723_00",
     "conceptId": 10012963,
-    "name": "The Jumping Burger Climb - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Burger Climb - DEMO",
+    "contentId": "EP6664-PPSA26723_00-0237286559440907",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA26725_00",
@@ -121782,6 +121838,14 @@
     "contentId": "JP6595-PPSA26725_00-0254467293417753",
     "region": "JP",
     "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA26726_00",
+    "conceptId": 10012963,
+    "name": "The Jumping Burger Climb - DEMO",
+    "contentId": "HP6661-PPSA26726_00-0617748660378833",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26727_00",
@@ -121800,12 +121864,36 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA26729_00",
+    "conceptId": 10012964,
+    "name": "The Jumping Carrot Race - DEMO",
+    "contentId": "JP6595-PPSA26729_00-0224627267877771",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
     "titleId": "PPSA26730_00",
     "conceptId": 10012964,
     "name": "The Jumping Carrot Race - DEMO",
     "contentId": "HP6661-PPSA26730_00-0171295585598656",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA26731_00",
+    "conceptId": 10012965,
+    "name": "The Jumping Bonbon Match - DEMO",
+    "contentId": "EP6664-PPSA26731_00-0899913069971310",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA26733_00",
+    "conceptId": 10012965,
+    "name": "The Jumping Bonbon Match - DEMO",
+    "contentId": "JP6595-PPSA26733_00-0568737486321171",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA26739_00",
@@ -122608,6 +122696,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA26900_00",
+    "conceptId": 10013094,
+    "name": "Color Swiper 3 - DEMO",
+    "contentId": "UP6664-PPSA26900_00-0828929376034360",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA26902_00",
     "conceptId": 10013094,
     "name": "Color Swiper 3 - PS4 & PS5",
@@ -123014,6 +123110,14 @@
     "contentId": "UP7552-PPSA26976_00-0451690343426693",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA26977_00",
+    "conceptId": 10013140,
+    "name": "The Rocky Horror Show Video Game",
+    "contentId": "UB0687-PPSA26977_00-0280022884607859",
+    "region": "UB",
+    "publisherId": "UB0687"
   },
   {
     "titleId": "PPSA26978_00",
@@ -124027,7 +124131,7 @@
     "titleId": "PPSA27188_00",
     "conceptId": 10013289,
     "name": "PAW Patrol\u2122 Rescue Wheels\u2122: Championship",
-    "contentId": null,
+    "contentId": "HP3768-PPSA27188_00-PAUPABASEGAME000",
     "region": "HP",
     "publisherId": "HP3768"
   },
@@ -129166,6 +129270,14 @@
     "contentId": "EP5077-PPSA28174_00-0356998192881191",
     "region": "EP",
     "publisherId": "EP5077"
+  },
+  {
+    "titleId": "PPSA28175_00",
+    "conceptId": 10013984,
+    "name": "Ultimate Zombie Defense",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA28176_00",
@@ -134323,17 +134435,17 @@
     "titleId": "PPSA29352_00",
     "conceptId": 10014722,
     "name": "Blocky Blast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA29352_00-0512848556343746",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA29353_00",
     "conceptId": 10014722,
     "name": "Blocky Blast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA29353_00-0261066063457842",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA29358_00",
@@ -150320,6 +150432,14 @@
     "publisherId": "UP5420"
   },
   {
+    "titleId": "PPSA34044_00",
+    "conceptId": 10017355,
+    "name": "Hexa Chippy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34045_00",
     "conceptId": 10017355,
     "name": "Hexa Chippy",
@@ -150334,6 +150454,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34047_00",
+    "conceptId": 10017355,
+    "name": "Hexa Chippy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34094_00",
+    "conceptId": 10017393,
+    "name": "Nitro Karts Racing",
+    "contentId": "UP7552-PPSA34094_00-0643640651583351",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "PPSA34096_00",
