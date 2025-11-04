@@ -121848,6 +121848,14 @@
     "publisherId": "EP6664"
   },
   {
+    "titleId": "PPSA26724_00",
+    "conceptId": 10012963,
+    "name": "The Jumping Burger Climb - DEMO",
+    "contentId": "UP6664-PPSA26724_00-0235745082682489",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA26725_00",
     "conceptId": 10012963,
     "name": "The Jumping Burger Climb - DEMO",
@@ -121918,6 +121926,14 @@
     "contentId": "JP6595-PPSA26733_00-0568737486321171",
     "region": "JP",
     "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA26734_00",
+    "conceptId": 10012965,
+    "name": "The Jumping Bonbon Match - DEMO",
+    "contentId": "HP6661-PPSA26734_00-0047192122567472",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26739_00",
@@ -122744,12 +122760,20 @@
     "publisherId": "UP6664"
   },
   {
+    "titleId": "PPSA26901_00",
+    "conceptId": 10013094,
+    "name": "Color Swiper 3 - DEMO",
+    "contentId": "JP6595-PPSA26901_00-0100724284175372",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
     "titleId": "PPSA26902_00",
     "conceptId": 10013094,
-    "name": "Color Swiper 3 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Color Swiper 3 - DEMO",
+    "contentId": "HP6661-PPSA26902_00-0805947943846462",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA26904_00",
@@ -144976,6 +145000,14 @@
     "publisherId": "EP2919"
   },
   {
+    "titleId": "PPSA31909_00",
+    "conceptId": 10016209,
+    "name": "Love is all around 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31912_00",
     "conceptId": 10011853,
     "name": "Fruits' harvest sorter",
@@ -147480,6 +147512,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA32609_00",
+    "conceptId": 10011329,
+    "name": "Truck Simulator Cargo Driver 2024 - EURO",
+    "contentId": "UP8681-PPSA32609_00-0939884099452603",
+    "region": "UP",
+    "publisherId": "UP8681"
+  },
+  {
     "titleId": "PPSA32610_00",
     "conceptId": 10016607,
     "name": "Goat Out Of Hell",
@@ -148595,9 +148635,9 @@
     "titleId": "PPSA32945_00",
     "conceptId": 10016748,
     "name": "Vyun, Kosmeya, And The Witch\u2019s Curse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA32945_00-KOSMEYA00PS500EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA32946_00",
@@ -148619,22 +148659,30 @@
     "titleId": "PPSA32950_00",
     "conceptId": 10016748,
     "name": "Vyun, Kosmeya, And The Witch\u2019s Curse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA32950_00-KOSMEYA00PS500NA",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA32951_00",
     "conceptId": 10016748,
     "name": "Vyun, Kosmeya, And The Witch\u2019s Curse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-PPSA32951_00-KOSMEYA00PS500JP",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "PPSA32952_00",
     "conceptId": 10016748,
     "name": "Vyun, Kosmeya, And The Witch\u2019s Curse",
+    "contentId": "EP6694-PPSA32952_00-KOSMEYA00PS500AS",
+    "region": "EP",
+    "publisherId": "EP6694"
+  },
+  {
+    "titleId": "PPSA32954_00",
+    "conceptId": 10016251,
+    "name": "Star Ores Inc.",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -148984,6 +149032,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA33123_00",
+    "conceptId": 10013786,
+    "name": "SIDE SHOT BOOSTER",
+    "contentId": "EP5645-PPSA33123_00-0SIDESHOTBOOSTER",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA33124_00",
     "conceptId": 10012900,
     "name": "AmidaDaMida",
@@ -148992,10 +149048,26 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA33125_00",
+    "conceptId": 10013786,
+    "name": "SIDE SHOT BOOSTER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33126_00",
     "conceptId": 10012900,
     "name": "AmidaDaMida",
     "contentId": "EP5645-PPSA33126_00-00000AMIDADAMIDA",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA33129_00",
+    "conceptId": 10013786,
+    "name": "SIDE SHOT BOOSTER",
+    "contentId": "EP5645-PPSA33129_00-0SIDESHOTBOOSTER",
     "region": "EP",
     "publisherId": "EP5645"
   },
@@ -150168,6 +150240,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33822_00",
+    "conceptId": 10017233,
+    "name": "Current: The Flow",
+    "contentId": "HP7367-PPSA33822_00-0888626072360833",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA33823_00",
+    "conceptId": 10017233,
+    "name": "Current: The Flow",
+    "contentId": "JP7323-PPSA33823_00-0427646139515470",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
     "titleId": "PPSA33834_00",
     "conceptId": 10014878,
     "name": "Dark Quest 4",
@@ -150419,9 +150507,9 @@
     "titleId": "PPSA34009_00",
     "conceptId": 10017324,
     "name": "Rifle MarksMan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA34009_00-0806587698215447",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA34010_00",
@@ -150435,17 +150523,17 @@
     "titleId": "PPSA34011_00",
     "conceptId": 10017324,
     "name": "Rifle MarksMan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA34011_00-0196414463624831",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA34012_00",
     "conceptId": 10017324,
     "name": "Rifle MarksMan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA34012_00-0346759111181394",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA34014_00",
@@ -150630,5 +150718,13 @@
     "contentId": "EP7938-PPSA34220_00-0667399914727196",
     "region": "EP",
     "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA34311_00",
+    "conceptId": 10017535,
+    "name": "Hex Park",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
