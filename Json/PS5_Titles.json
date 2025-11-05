@@ -74211,7 +74211,7 @@
     "titleId": "PPSA16950_00",
     "conceptId": 10008573,
     "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a2 \u30ea\u30de\u30b9\u30bf\u30fc",
-    "contentId": null,
+    "contentId": "JP0700-PPSA16950_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -74227,7 +74227,7 @@
     "titleId": "PPSA16952_00",
     "conceptId": 10008573,
     "name": "Tales of Xillia Remastered",
-    "contentId": null,
+    "contentId": "EP0700-PPSA16952_00-MAINGAME00000000",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -106523,9 +106523,9 @@
     "titleId": "PPSA23830_00",
     "conceptId": 10011025,
     "name": "Another Bar Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0883-PPSA23830_00-0271537667124706",
+    "region": "UB",
+    "publisherId": "UB0883"
   },
   {
     "titleId": "PPSA23832_00",
@@ -130176,6 +130176,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA28341_00",
+    "conceptId": 10014090,
+    "name": "Let Them Come: Onslaught",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28342_00",
     "conceptId": 10000929,
     "name": "Firmament",
@@ -132082,10 +132090,10 @@
   {
     "titleId": "PPSA28752_00",
     "conceptId": 10014352,
-    "name": "Of Lies and Rain",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Of Lies And Rain",
+    "contentId": "UP8666-PPSA28752_00-0684236635885369",
+    "region": "UP",
+    "publisherId": "UP8666"
   },
   {
     "titleId": "PPSA28755_00",
@@ -141288,6 +141296,22 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA30902_00",
+    "conceptId": 10015604,
+    "name": "The Last Shot Arcades",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30903_00",
+    "conceptId": 10015604,
+    "name": "The Last Shot Arcades",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30906_00",
     "conceptId": 10015603,
     "name": "Call of Brothers: The Backrooms Zombie Survival",
@@ -141840,6 +141864,14 @@
     "publisherId": "UP6535"
   },
   {
+    "titleId": "PPSA31082_00",
+    "conceptId": 10015676,
+    "name": "Bus World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31083_00",
     "conceptId": 10015677,
     "name": "Truck Driver: The Dutch Connection",
@@ -142190,6 +142222,14 @@
     "contentId": "HP8504-PPSA31171_00-0268561090495446",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA31172_00",
+    "conceptId": 10015733,
+    "name": "ABYSS: BACKROOMS POOLS HORROR VR",
+    "contentId": "EB0963-PPSA31172_00-0581635074807649",
+    "region": "EB",
+    "publisherId": "EB0963"
   },
   {
     "titleId": "PPSA31173_00",
@@ -143539,9 +143579,9 @@
     "titleId": "PPSA31509_00",
     "conceptId": 10015940,
     "name": "Twilight Parade: Moonlit Mononoke",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA31509_00-TWILIGHTPARADEMM",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA31515_00",
@@ -146048,6 +146088,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA32174_00",
+    "conceptId": 10016302,
+    "name": "Chorus of Carcosa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32175_00",
     "conceptId": 10010891,
     "name": "GODBREAKERS",
@@ -146659,9 +146707,9 @@
     "titleId": "PPSA32341_00",
     "conceptId": 10016446,
     "name": "VRacer Hoverbike",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1267-PPSA32341_00-0883501571420595",
+    "region": "EB",
+    "publisherId": "EB1267"
   },
   {
     "titleId": "PPSA32345_00",
@@ -146731,9 +146779,9 @@
     "titleId": "PPSA32400_00",
     "conceptId": 10016480,
     "name": "Bomb Kitten",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA32400_00-BOMBKITTENGAME00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA32402_00",
@@ -148280,6 +148328,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA32852_00",
+    "conceptId": 10016705,
+    "name": "Blood: Refreshed Supply\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32858_00",
     "conceptId": 10016712,
     "name": "Tube Repairs",
@@ -149051,15 +149107,23 @@
     "titleId": "PPSA33125_00",
     "conceptId": 10013786,
     "name": "SIDE SHOT BOOSTER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA33125_00-0SIDESHOTBOOSTER",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33126_00",
     "conceptId": 10012900,
     "name": "AmidaDaMida",
     "contentId": "EP5645-PPSA33126_00-00000AMIDADAMIDA",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA33127_00",
+    "conceptId": 10013786,
+    "name": "SIDE SHOT BOOSTER",
+    "contentId": "EP5645-PPSA33127_00-0SIDESHOTBOOSTER",
     "region": "EP",
     "publisherId": "EP5645"
   },
@@ -149987,33 +150051,33 @@
     "titleId": "PPSA33516_00",
     "conceptId": 10017041,
     "name": "Lucha Align",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA33516_00-0351445104368799",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA33517_00",
     "conceptId": 10017041,
     "name": "Lucha Align",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA33517_00-0147801271685553",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA33518_00",
     "conceptId": 10017041,
     "name": "Lucha Align",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA33518_00-0397316929486391",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA33519_00",
     "conceptId": 10017041,
     "name": "Lucha Align",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA33519_00-0242852460354840",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA33522_00",
@@ -150160,6 +150224,14 @@
     "publisherId": "HB1339"
   },
   {
+    "titleId": "PPSA33767_00",
+    "conceptId": 10017176,
+    "name": "Secrets of Blackrock Manor - Escape Room",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33780_00",
     "conceptId": 10017204,
     "name": "FLOCKOUT",
@@ -150227,17 +150299,17 @@
     "titleId": "PPSA33820_00",
     "conceptId": 10017233,
     "name": "Current: The Flow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA33820_00-0472431144224129",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA33821_00",
     "conceptId": 10017233,
     "name": "Current: The Flow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA33821_00-0506204931611065",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA33822_00",
@@ -150440,6 +150512,14 @@
     "publisherId": "HP8504"
   },
   {
+    "titleId": "PPSA33987_00",
+    "conceptId": 10017318,
+    "name": "\u30c8\u30e9\u30c7\u30a3\u30b7\u30e7\u30ca\u30eb\u30fb\u30bf\u30af\u30c6\u30a3\u30af\u30b9  with SESS-AI 2.0",
+    "contentId": "UP6872-PPSA33987_00-TRATACTI20PS5PUS",
+    "region": "UP",
+    "publisherId": "UP6872"
+  },
+  {
     "titleId": "PPSA33988_00",
     "conceptId": 10017320,
     "name": "Shelter 78: Mutant Protocol",
@@ -150515,9 +150595,9 @@
     "titleId": "PPSA34010_00",
     "conceptId": 10017324,
     "name": "Rifle MarksMan",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA34010_00-0440924469443790",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA34011_00",
@@ -150726,5 +150806,37 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34317_00",
+    "conceptId": 10017534,
+    "name": "Mosaics Wall Deco",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34318_00",
+    "conceptId": 10017534,
+    "name": "Mosaics Wall Deco",
+    "contentId": "EP7938-PPSA34318_00-0149115154590107",
+    "region": "EP",
+    "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA34319_00",
+    "conceptId": 10017534,
+    "name": "Mosaics Wall Deco",
+    "contentId": "JP7921-PPSA34319_00-0860613789846419",
+    "region": "JP",
+    "publisherId": "JP7921"
+  },
+  {
+    "titleId": "PPSA34320_00",
+    "conceptId": 10017534,
+    "name": "Mosaics Wall Deco",
+    "contentId": "HP7967-PPSA34320_00-0076576565394437",
+    "region": "HP",
+    "publisherId": "HP7967"
   }
 ]
