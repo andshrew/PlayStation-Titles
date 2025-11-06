@@ -72627,9 +72627,9 @@
     "titleId": "PPSA16634_00",
     "conceptId": 10008447,
     "name": "Satisfactory",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4664-PPSA16634_00-FACTORYGAME00000",
+    "region": "UP",
+    "publisherId": "UP4664"
   },
   {
     "titleId": "PPSA16636_00",
@@ -74235,7 +74235,7 @@
     "titleId": "PPSA16953_00",
     "conceptId": 10008573,
     "name": "Tales of Xillia Remastered",
-    "contentId": null,
+    "contentId": "UP0700-PPSA16953_00-MAINGAME00000000",
     "region": "UP",
     "publisherId": "UP0700"
   },
@@ -80230,6 +80230,14 @@
     "contentId": "UP0891-PPSA18253_00-SUPERBRAWLRUSHRG",
     "region": "UP",
     "publisherId": "UP0891"
+  },
+  {
+    "titleId": "PPSA18258_00",
+    "conceptId": 10009107,
+    "name": "Richie's Plank Experience",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA18259_00",
@@ -106507,9 +106515,9 @@
     "titleId": "PPSA23828_00",
     "conceptId": 10011417,
     "name": "Dude, Where Is My Beer?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0883-PPSA23828_00-0536158776475011",
+    "region": "UB",
+    "publisherId": "UB0883"
   },
   {
     "titleId": "PPSA23829_00",
@@ -122051,9 +122059,9 @@
     "titleId": "PPSA26763_00",
     "conceptId": 10013025,
     "name": "Let's Sing 2026",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3763-PPSA26763_00-LS20260000ALLPS5",
+    "region": "UP",
+    "publisherId": "UP3763"
   },
   {
     "titleId": "PPSA26765_00",
@@ -125803,9 +125811,9 @@
     "titleId": "PPSA27508_00",
     "conceptId": 10013437,
     "name": "Strike Force Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8419-PPSA27508_00-0457243291699424",
+    "region": "UP",
+    "publisherId": "UP8419"
   },
   {
     "titleId": "PPSA27509_00",
@@ -130336,6 +130344,14 @@
     "publisherId": "EP7099"
   },
   {
+    "titleId": "PPSA28372_00",
+    "conceptId": 10014108,
+    "name": "SEDAP! A Culinary Adventure (Demo)",
+    "contentId": "UB1522-PPSA28372_00-0279952385707989",
+    "region": "UB",
+    "publisherId": "UB1522"
+  },
+  {
     "titleId": "PPSA28374_00",
     "conceptId": 10014110,
     "name": "King of drift 2",
@@ -133619,9 +133635,9 @@
     "titleId": "PPSA29137_00",
     "conceptId": 10014524,
     "name": "1000xRESIST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5661-PPSA29137_00-1000XRESIST00000",
+    "region": "EP",
+    "publisherId": "EP5661"
   },
   {
     "titleId": "PPSA29140_00",
@@ -134894,6 +134910,14 @@
     "contentId": "HP3768-PPSA29443_00-CR2FULLGAME00001",
     "region": "HP",
     "publisherId": "HP3768"
+  },
+  {
+    "titleId": "PPSA29444_00",
+    "conceptId": 10014770,
+    "name": "Rue Valley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29445_00",
@@ -136202,8 +136226,8 @@
   {
     "titleId": "PPSA29707_00",
     "conceptId": 10014519,
-    "name": "Football Manager 26 Console",
-    "contentId": null,
+    "name": "Football Manager 26 Console Edition",
+    "contentId": "EP0177-PPSA29707_00-FM26EU0000000000",
     "region": "EP",
     "publisherId": "EP0177"
   },
@@ -141232,6 +141256,30 @@
     "publisherId": "HP8406"
   },
   {
+    "titleId": "PPSA30884_00",
+    "conceptId": 10015462,
+    "name": "The Cat With Amazing Hat",
+    "contentId": "HP5361-PPSA30884_00-000THECATWITHHAT",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
+    "titleId": "PPSA30886_00",
+    "conceptId": 10015462,
+    "name": "The Cat With Amazing Hat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30887_00",
+    "conceptId": 10015462,
+    "name": "The Cat With Amazing Hat",
+    "contentId": "JP5299-PPSA30887_00-000THECATWITHHAT",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
     "titleId": "PPSA30890_00",
     "conceptId": 10015597,
     "name": "GLITCH: Dead Loop Horror",
@@ -141630,6 +141678,38 @@
     "contentId": "HP6661-PPSA30987_00-0399565152549056",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA30992_00",
+    "conceptId": 10015650,
+    "name": "The Jumping Food Racing - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30993_00",
+    "conceptId": 10015650,
+    "name": "The Jumping Food Racing - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30994_00",
+    "conceptId": 10015650,
+    "name": "The Jumping Food Racing - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30995_00",
+    "conceptId": 10015650,
+    "name": "The Jumping Food Racing - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31026_00",
@@ -142536,6 +142616,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA31237_00",
+    "conceptId": 10015773,
+    "name": "Forest of Terenu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31238_00",
+    "conceptId": 10015773,
+    "name": "Forest of Terenu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31239_00",
     "conceptId": 10015774,
     "name": "Out of Moves: Another Try",
@@ -142678,6 +142774,14 @@
     "contentId": "JB0538-PPSA31260_00-CAPPUCCINO0SIEAS",
     "region": "JB",
     "publisherId": "JB0538"
+  },
+  {
+    "titleId": "PPSA31261_00",
+    "conceptId": 10013255,
+    "name": "Car For Sale Simulator 2023",
+    "contentId": "UB0748-PPSA31261_00-0459488087229937",
+    "region": "UB",
+    "publisherId": "UB0748"
   },
   {
     "titleId": "PPSA31263_00",
@@ -143816,6 +143920,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31589_00",
+    "conceptId": 10015982,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30c8\u30fc\u30ad\u30e7\u30fc\u30a6\u30a9\u30fc\u30ba",
+    "contentId": "JP0571-PPSA31589_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA31593_00",
     "conceptId": 10016005,
     "name": "Magnitude: Lambda",
@@ -144816,6 +144928,22 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA31847_00",
+    "conceptId": 10016180,
+    "name": "Silence under the dome",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31848_00",
+    "conceptId": 10016180,
+    "name": "Silence under the dome",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31849_00",
     "conceptId": 10016181,
     "name": "Blue notebook",
@@ -144854,6 +144982,14 @@
     "contentId": "JP0571-PPSA31855_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA31859_00",
+    "conceptId": 10016183,
+    "name": "Audio Trip",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31860_00",
@@ -145664,6 +145800,38 @@
     "publisherId": "UP8553"
   },
   {
+    "titleId": "PPSA32051_00",
+    "conceptId": 10012172,
+    "name": "SKI ZONE",
+    "contentId": "EP5645-PPSA32051_00-0151535499702606",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32052_00",
+    "conceptId": 10012172,
+    "name": "SKI ZONE",
+    "contentId": "EP5645-PPSA32052_00-0842074988025396",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32053_00",
+    "conceptId": 10012172,
+    "name": "SKI ZONE",
+    "contentId": "EP5645-PPSA32053_00-0475141153788229",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32054_00",
+    "conceptId": 10012172,
+    "name": "SKI ZONE",
+    "contentId": "EP5645-PPSA32054_00-0823313833009825",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA32064_00",
     "conceptId": 10016287,
     "name": "Inflatables",
@@ -145795,9 +145963,9 @@
     "titleId": "PPSA32091_00",
     "conceptId": 10016304,
     "name": "High School Dirty Secrets",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA32091_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA32092_00",
@@ -149424,6 +149592,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA33253_00",
+    "conceptId": 10016931,
+    "name": "Lamplighter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33256_00",
     "conceptId": 10016932,
     "name": "Liquid Cat",
@@ -149670,6 +149846,14 @@
     "contentId": "HB0674-PPSA33340_00-0690698237197765",
     "region": "HB",
     "publisherId": "HB0674"
+  },
+  {
+    "titleId": "PPSA33344_00",
+    "conceptId": 10016976,
+    "name": "Golf: Minigolf",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33353_00",
@@ -150331,9 +150515,9 @@
     "titleId": "PPSA33834_00",
     "conceptId": 10014878,
     "name": "Dark Quest 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3921-PPSA33834_00-0959873410005018",
+    "region": "EP",
+    "publisherId": "EP3921"
   },
   {
     "titleId": "PPSA33835_00",
@@ -150342,6 +150526,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA33836_00",
+    "conceptId": 10014878,
+    "name": "Dark Quest 4",
+    "contentId": "EP3921-PPSA33836_00-0799016330297844",
+    "region": "EP",
+    "publisherId": "EP3921"
   },
   {
     "titleId": "PPSA33845_00",
@@ -150680,6 +150872,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34087_00",
+    "conceptId": 10017374,
+    "name": "Mel The Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34088_00",
+    "conceptId": 10017374,
+    "name": "Mel The Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34089_00",
+    "conceptId": 10017374,
+    "name": "Mel The Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34090_00",
+    "conceptId": 10017374,
+    "name": "Mel The Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34094_00",
     "conceptId": 10017393,
     "name": "Nitro Karts Racing",
@@ -150760,6 +150984,14 @@
     "publisherId": "EP5568"
   },
   {
+    "titleId": "PPSA34192_00",
+    "conceptId": 10017458,
+    "name": "Anime Uni 5",
+    "contentId": "EP5506-PPSA34192_00-ANIMEUNI50000000",
+    "region": "EP",
+    "publisherId": "EP5506"
+  },
+  {
     "titleId": "PPSA34198_00",
     "conceptId": 10017465,
     "name": "Slide The Tiles",
@@ -150811,9 +151043,9 @@
     "titleId": "PPSA34317_00",
     "conceptId": 10017534,
     "name": "Mosaics Wall Deco",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7940-PPSA34317_00-0158492593421836",
+    "region": "UP",
+    "publisherId": "UP7940"
   },
   {
     "titleId": "PPSA34318_00",
@@ -150838,5 +151070,37 @@
     "contentId": "HP7967-PPSA34320_00-0076576565394437",
     "region": "HP",
     "publisherId": "HP7967"
+  },
+  {
+    "titleId": "PPSA34405_00",
+    "conceptId": 10017527,
+    "name": "Rookie Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34406_00",
+    "conceptId": 10017527,
+    "name": "Rookie Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34407_00",
+    "conceptId": 10017527,
+    "name": "Rookie Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34408_00",
+    "conceptId": 10017527,
+    "name": "Rookie Knight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
