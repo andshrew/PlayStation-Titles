@@ -102938,10 +102938,10 @@
   {
     "titleId": "PPSA23066_00",
     "conceptId": 10010903,
-    "name": "Biped 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Biped2",
+    "contentId": "EP6008-PPSA23066_00-0000000BIPED2PS5",
+    "region": "EP",
+    "publisherId": "EP6008"
   },
   {
     "titleId": "PPSA23067_00",
@@ -112971,9 +112971,9 @@
     "titleId": "PPSA25047_00",
     "conceptId": 10012026,
     "name": "Kentum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0595-PPSA25047_00-0045036645941995",
+    "region": "UB",
+    "publisherId": "UB0595"
   },
   {
     "titleId": "PPSA25051_00",
@@ -114698,8 +114698,8 @@
   {
     "titleId": "PPSA25366_00",
     "conceptId": 10012160,
-    "name": "Age of Empires IV: Anniversary Edition",
-    "contentId": null,
+    "name": "Age of Empires IV",
+    "contentId": "UP6312-PPSA25366_00-0950569117932928",
     "region": "UP",
     "publisherId": "UP6312"
   },
@@ -123104,6 +123104,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA26959_00",
+    "conceptId": 10013123,
+    "name": "Neon Tail",
+    "contentId": "EP6138-PPSA26959_00-0079784986331433",
+    "region": "EP",
+    "publisherId": "EP6138"
+  },
+  {
     "titleId": "PPSA26960_00",
     "conceptId": 10013124,
     "name": "Learn to Play Vol. 9 - Santa's Sleigh Ride",
@@ -126344,6 +126352,14 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA27597_00",
+    "conceptId": 10013520,
+    "name": "Stellaris: Console Edition",
+    "contentId": "UP4139-PPSA27597_00-STELLARISBASEPS5",
+    "region": "UP",
+    "publisherId": "UP4139"
+  },
+  {
     "titleId": "PPSA27599_00",
     "conceptId": 10013481,
     "name": "LEGO\u00ae Fortnite Brick Life",
@@ -127800,6 +127816,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA27851_00",
+    "conceptId": 10013714,
+    "name": "Dirt Racing Wildtrax & Rally",
+    "contentId": "EP6922-PPSA27851_00-0788573285981413",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA27853_00",
     "conceptId": 10013715,
     "name": "Dirt Racing Rally & Trucks",
@@ -128054,6 +128078,14 @@
     "contentId": "HP8406-PPSA27923_00-ANNIELASTHOPEPS5",
     "region": "HP",
     "publisherId": "HP8406"
+  },
+  {
+    "titleId": "PPSA27924_00",
+    "conceptId": 10013778,
+    "name": "The Awakener\uff1aForgotten Oath",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27929_00",
@@ -129299,9 +129331,9 @@
     "titleId": "PPSA28169_00",
     "conceptId": 10013979,
     "name": "Pin Strike 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28169_00-0990413285066320",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28170_00",
@@ -132011,9 +132043,9 @@
     "titleId": "PPSA28718_00",
     "conceptId": 10014330,
     "name": "Boxes: Lost Fragments",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8140-PPSA28718_00-BXESSNAPBREAKPS5",
+    "region": "EP",
+    "publisherId": "EP8140"
   },
   {
     "titleId": "PPSA28719_00",
@@ -135835,9 +135867,9 @@
     "titleId": "PPSA29650_00",
     "conceptId": 10014878,
     "name": "Dark Quest 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3921-PPSA29650_00-0578619560953434",
+    "region": "EP",
+    "publisherId": "EP3921"
   },
   {
     "titleId": "PPSA29652_00",
@@ -136443,9 +136475,9 @@
     "titleId": "PPSA29750_00",
     "conceptId": 10014944,
     "name": "Square Brothers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA29750_00-SQUAREBROTHERSRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA29751_00",
@@ -136670,6 +136702,14 @@
     "contentId": "JP0078-PPSA29819_00-BAKIHANMAGAMEPS5",
     "region": "JP",
     "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA29820_00",
+    "conceptId": 10014670,
+    "name": "Pampas and Selene",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29821_00",
@@ -138075,7 +138115,7 @@
     "titleId": "PPSA30140_00",
     "conceptId": 10015158,
     "name": "Syberia - Remastered",
-    "contentId": null,
+    "contentId": "EP4295-PPSA30140_00-SYBREMASTERPS5WW",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -141264,12 +141304,20 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA30885_00",
+    "conceptId": 10015462,
+    "name": "The Cat With Amazing Hat",
+    "contentId": "UP5464-PPSA30885_00-000THECATWITHHAT",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA30886_00",
     "conceptId": 10015462,
     "name": "The Cat With Amazing Hat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA30886_00-000THECATWITHHAT",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA30887_00",
@@ -142099,9 +142147,9 @@
     "titleId": "PPSA31109_00",
     "conceptId": 10015420,
     "name": "Static Dread: The Lighthouse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1220-PPSA31109_00-0237418495659322",
+    "region": "UB",
+    "publisherId": "UB1220"
   },
   {
     "titleId": "PPSA31110_00",
@@ -142152,12 +142200,36 @@
     "publisherId": "UP8703"
   },
   {
+    "titleId": "PPSA31128_00",
+    "conceptId": 10015709,
+    "name": "Dollmare",
+    "contentId": "UP3528-PPSA31128_00-DOLLMARE00000000",
+    "region": "UP",
+    "publisherId": "UP3528"
+  },
+  {
     "titleId": "PPSA31129_00",
     "conceptId": 10015709,
     "name": "Dollmare",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3385-PPSA31129_00-DOLLMARE00000000",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA31130_00",
+    "conceptId": 10015709,
+    "name": "Dollmare",
+    "contentId": "JP3568-PPSA31130_00-DOLLMARE00000000",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
+    "titleId": "PPSA31131_00",
+    "conceptId": 10015709,
+    "name": "Dollmare",
+    "contentId": "HP3473-PPSA31131_00-DOLLMARE00000000",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA31132_00",
@@ -144256,6 +144328,14 @@
     "publisherId": "EP0782"
   },
   {
+    "titleId": "PPSA31665_00",
+    "conceptId": 10016056,
+    "name": "Neon Inferno",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31666_00",
     "conceptId": 10013078,
     "name": "Trails in the Sky 1st Chapter Demo",
@@ -144510,6 +144590,14 @@
     "contentId": "EP6665-PPSA31722_00-HIU00DEMO0000000",
     "region": "EP",
     "publisherId": "EP6665"
+  },
+  {
+    "titleId": "PPSA31727_00",
+    "conceptId": 10016097,
+    "name": "Ad Fundum",
+    "contentId": "EP6138-PPSA31727_00-0061871133894072",
+    "region": "EP",
+    "publisherId": "EP6138"
   },
   {
     "titleId": "PPSA31729_00",
@@ -145720,6 +145808,38 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA32027_00",
+    "conceptId": 10016268,
+    "name": "Pad Quad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32028_00",
+    "conceptId": 10016268,
+    "name": "Pad Quad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32029_00",
+    "conceptId": 10016268,
+    "name": "Pad Quad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32030_00",
+    "conceptId": 10016268,
+    "name": "Pad Quad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32033_00",
     "conceptId": 10016273,
     "name": "Monster Ramp Racing",
@@ -145971,41 +146091,41 @@
     "titleId": "PPSA32092_00",
     "conceptId": 10016304,
     "name": "High School Dirty Secrets",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA32092_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA32105_00",
     "conceptId": 10016311,
-    "name": "Saving Princess Of Mars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Saving Princess of Mars",
+    "contentId": "EP1411-PPSA32105_00-0571805906202249",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA32106_00",
     "conceptId": 10016311,
-    "name": "Saving Princess Of Mars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Saving Princess of Mars",
+    "contentId": "EP1411-PPSA32106_00-0686822291656754",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA32107_00",
     "conceptId": 10016311,
-    "name": "Saving Princess Of Mars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Saving Princess of Mars",
+    "contentId": "EP1411-PPSA32107_00-0539974506809776",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA32108_00",
     "conceptId": 10016311,
-    "name": "Saving Princess Of Mars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Saving Princess of Mars",
+    "contentId": "EP1411-PPSA32108_00-0783168367328736",
+    "region": "EP",
+    "publisherId": "EP1411"
   },
   {
     "titleId": "PPSA32110_00",
@@ -146555,9 +146675,9 @@
     "titleId": "PPSA32247_00",
     "conceptId": 10015296,
     "name": "Egging On",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1681-PPSA32247_00-EGGINGONGLOBAL00",
+    "region": "UB",
+    "publisherId": "UB1681"
   },
   {
     "titleId": "PPSA32248_00",
@@ -146779,9 +146899,9 @@
     "titleId": "PPSA32314_00",
     "conceptId": 10016430,
     "name": "The Visitor Effect: Not an experiment",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0500-PPSA32314_00-0589041591263793",
+    "region": "JB",
+    "publisherId": "JB0500"
   },
   {
     "titleId": "PPSA32320_00",
@@ -149080,6 +149200,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA33031_00",
+    "conceptId": 10016787,
+    "name": "Golden Sunshine Beside You",
+    "contentId": "HP8232-PPSA33031_00-0314951861658104",
+    "region": "HP",
+    "publisherId": "HP8232"
+  },
+  {
     "titleId": "PPSA33032_00",
     "conceptId": 10016789,
     "name": "Slide Viking",
@@ -149451,6 +149579,14 @@
     "titleId": "PPSA33151_00",
     "conceptId": 10016859,
     "name": "Just a Little Purr Suit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33157_00",
+    "conceptId": 10016865,
+    "name": "Hymer 2000",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -150336,6 +150472,14 @@
     "publisherId": "EB2171"
   },
   {
+    "titleId": "PPSA33576_00",
+    "conceptId": 10017079,
+    "name": "Pixicharm - Vesprax",
+    "contentId": "EP1612-PPSA33576_00-VESPRAXGAME00000",
+    "region": "EP",
+    "publisherId": "EP1612"
+  },
+  {
     "titleId": "PPSA33584_00",
     "conceptId": 10017089,
     "name": "Hajwala Drift X",
@@ -150352,12 +150496,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33618_00",
+    "conceptId": 10017117,
+    "name": "Witness to Plague",
+    "contentId": "UP5877-PPSA33618_00-0558679877687280",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA33631_00",
     "conceptId": 10017027,
     "name": "RUSH: Apex Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4731-PPSA33631_00-0417436680813181",
+    "region": "EP",
+    "publisherId": "EP4731"
   },
   {
     "titleId": "PPSA33656_00",
@@ -150595,33 +150747,33 @@
     "titleId": "PPSA33901_00",
     "conceptId": 10017280,
     "name": "Toad Slide",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA33901_00-0172435771320909",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA33902_00",
     "conceptId": 10017280,
     "name": "Toad Slide",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA33902_00-0528799025691391",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA33903_00",
     "conceptId": 10017280,
     "name": "Toad Slide",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA33903_00-0721278300347685",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA33904_00",
     "conceptId": 10017280,
     "name": "Toad Slide",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA33904_00-0061219933903666",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA33939_00",
