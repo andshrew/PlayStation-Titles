@@ -102994,10 +102994,10 @@
   {
     "titleId": "PPSA23076_00",
     "conceptId": 10010903,
-    "name": "Biped 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Biped2",
+    "contentId": "UP6007-PPSA23076_00-0000000BIPED2PS5",
+    "region": "UP",
+    "publisherId": "UP6007"
   },
   {
     "titleId": "PPSA23083_00",
@@ -116867,9 +116867,9 @@
     "titleId": "PPSA25778_00",
     "conceptId": 10012400,
     "name": "Contraband Police",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA25778_00-CLABSCBP20240828",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA25779_00",
@@ -127816,6 +127816,14 @@
     "publisherId": "EP6922"
   },
   {
+    "titleId": "PPSA27850_00",
+    "conceptId": 10013714,
+    "name": "Dirty Racing Wildtrax & Rally",
+    "contentId": "EP6922-PPSA27850_00-0425423502699251",
+    "region": "EP",
+    "publisherId": "EP6922"
+  },
+  {
     "titleId": "PPSA27851_00",
     "conceptId": 10013714,
     "name": "Dirt Racing Wildtrax & Rally",
@@ -128083,9 +128091,9 @@
     "titleId": "PPSA27924_00",
     "conceptId": 10013778,
     "name": "The Awakener\uff1aForgotten Oath",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7805-PPSA27924_00-0885687350166649",
+    "region": "UP",
+    "publisherId": "UP7805"
   },
   {
     "titleId": "PPSA27929_00",
@@ -129307,25 +129315,25 @@
     "titleId": "PPSA28166_00",
     "conceptId": 10013979,
     "name": "Pin Strike 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28166_00-0760324192142364",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28167_00",
     "conceptId": 10013979,
     "name": "Pin Strike 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28167_00-0370351942812474",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28168_00",
     "conceptId": 10013979,
     "name": "Pin Strike 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA28168_00-0377549635445177",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA28169_00",
@@ -135776,6 +135784,14 @@
     "publisherId": "UP1023"
   },
   {
+    "titleId": "PPSA29629_00",
+    "conceptId": 10012545,
+    "name": "MARVEL Cosmic Invasion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29630_00",
     "conceptId": 10014733,
     "name": "Remember Easter",
@@ -136706,10 +136722,10 @@
   {
     "titleId": "PPSA29820_00",
     "conceptId": 10014670,
-    "name": "Pampas and Selene",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Pampas & Selene",
+    "contentId": "UP2803-PPSA29820_00-0735965035884208",
+    "region": "UP",
+    "publisherId": "UP2803"
   },
   {
     "titleId": "PPSA29821_00",
@@ -136846,6 +136862,14 @@
     "contentId": "EP0896-PPSA29839_00-CORALINARATGAMES",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA29840_00",
+    "conceptId": 10009704,
+    "name": "Cladun X3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29845_00",
@@ -142755,9 +142779,9 @@
     "titleId": "PPSA31249_00",
     "conceptId": 10015779,
     "name": "Peachy Derby",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1856-PPSA31249_00-0697950721796684",
+    "region": "UB",
+    "publisherId": "UB1856"
   },
   {
     "titleId": "PPSA31250_00",
@@ -145712,6 +145736,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA32008_00",
+    "conceptId": 10016265,
+    "name": "Celestial Fall",
+    "contentId": "EP6556-PPSA32008_00-0132724904168979",
+    "region": "EP",
+    "publisherId": "EP6556"
+  },
+  {
     "titleId": "PPSA32010_00",
     "conceptId": 10013750,
     "name": "Paintings restoration",
@@ -146187,17 +146219,17 @@
     "titleId": "PPSA32121_00",
     "conceptId": 10016319,
     "name": "Deadly Combat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32121_00-DEADLYCOMBAT00NA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32122_00",
     "conceptId": 10016319,
     "name": "Deadly Combat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32122_00-DEADLYCOMBAT00EU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32123_00",
@@ -146211,9 +146243,9 @@
     "titleId": "PPSA32124_00",
     "conceptId": 10016319,
     "name": "Deadly Combat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32124_00-DEADLYCOMBAT00AS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32125_00",
@@ -149043,17 +149075,17 @@
     "titleId": "PPSA32972_00",
     "conceptId": 10016761,
     "name": "A Pizza Delivery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6718-PPSA32972_00-0401685566364953",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA32973_00",
     "conceptId": 10016761,
     "name": "A Pizza Delivery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA32973_00-0984148912662526",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA32975_00",
@@ -149198,6 +149230,22 @@
     "contentId": "HP8462-PPSA33027_00-0932045209824525",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA33029_00",
+    "conceptId": 10016787,
+    "name": "Golden Sunshine Beside You",
+    "contentId": "EP8472-PPSA33029_00-0101537023321466",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA33030_00",
+    "conceptId": 10016787,
+    "name": "\u91d1\u8272\u306e\u967d\u3060\u307e\u308a\u3068\u541b\u306e\u96a3",
+    "contentId": "JP8187-PPSA33030_00-0828678431129113",
+    "region": "JP",
+    "publisherId": "JP8187"
   },
   {
     "titleId": "PPSA33031_00",
@@ -149984,12 +150032,20 @@
     "publisherId": "HB0674"
   },
   {
+    "titleId": "PPSA33342_00",
+    "conceptId": 10016976,
+    "name": "Golf: Minigolf",
+    "contentId": "UP7335-PPSA33342_00-0771601339138125",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA33344_00",
     "conceptId": 10016976,
     "name": "Golf: Minigolf",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA33344_00-0157716427802838",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA33353_00",
@@ -150510,6 +150566,14 @@
     "contentId": "EP4731-PPSA33631_00-0417436680813181",
     "region": "EP",
     "publisherId": "EP4731"
+  },
+  {
+    "titleId": "PPSA33653_00",
+    "conceptId": 10012874,
+    "name": "NTE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33656_00",
