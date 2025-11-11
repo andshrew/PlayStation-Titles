@@ -116875,9 +116875,9 @@
     "titleId": "PPSA25775_00",
     "conceptId": 10012400,
     "name": "Contraband Police",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1564-PPSA25775_00-CLABSCBP20240828",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA25776_00",
@@ -147488,6 +147488,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32498_00",
+    "conceptId": 10012899,
+    "name": "bacrush",
+    "contentId": "UP5464-PPSA32498_00-000000000BACRUSH",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA32499_00",
     "conceptId": 10012899,
     "name": "bacrush",
@@ -147499,9 +147507,9 @@
     "titleId": "PPSA32500_00",
     "conceptId": 10012899,
     "name": "bacrush",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP5361-PPSA32500_00-000000000BACRUSH",
+    "region": "HP",
+    "publisherId": "HP5361"
   },
   {
     "titleId": "PPSA32501_00",
@@ -150376,6 +150384,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33448_00",
+    "conceptId": 10017002,
+    "name": "Animal Anatomy VR",
+    "contentId": "EP5449-PPSA33448_00-0791428391257160",
+    "region": "EP",
+    "publisherId": "EP5449"
+  },
+  {
+    "titleId": "PPSA33451_00",
+    "conceptId": 10017002,
+    "name": "Animal Anatomy VR",
+    "contentId": "EP5449-PPSA33451_00-0347798565404535",
+    "region": "EP",
+    "publisherId": "EP5449"
+  },
+  {
     "titleId": "PPSA33466_00",
     "conceptId": 10016029,
     "name": "Trasmoz Legends",
@@ -150646,6 +150670,22 @@
     "contentId": "UP5877-PPSA33618_00-0558679877687280",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA33622_00",
+    "conceptId": 10008186,
+    "name": "Hotel Infinity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33623_00",
+    "conceptId": 10008186,
+    "name": "Hotel Infinity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33631_00",
@@ -151416,6 +151456,14 @@
     "publisherId": "UB0487"
   },
   {
+    "titleId": "PPSA34330_00",
+    "conceptId": 10017540,
+    "name": "The Colorful Biplane",
+    "contentId": "UB0487-PPSA34330_00-0519756716787443",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
     "titleId": "PPSA34331_00",
     "conceptId": 10017540,
     "name": "The Colorful Biplane",
@@ -151424,35 +151472,59 @@
     "publisherId": "UB0487"
   },
   {
-    "titleId": "PPSA34405_00",
-    "conceptId": 10017527,
-    "name": "Rookie Knight",
+    "titleId": "PPSA34332_00",
+    "conceptId": 10017541,
+    "name": "Hit The Clock",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34333_00",
+    "conceptId": 10017541,
+    "name": "Hit The Clock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34335_00",
+    "conceptId": 10017541,
+    "name": "Hit The Clock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34405_00",
+    "conceptId": 10017527,
+    "name": "Rookie Knight",
+    "contentId": "UB0908-PPSA34405_00-0754356121525444",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA34406_00",
     "conceptId": 10017527,
     "name": "Rookie Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA34406_00-0046933442780996",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA34407_00",
     "conceptId": 10017527,
     "name": "Rookie Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA34407_00-0914690825275387",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA34408_00",
     "conceptId": 10017527,
     "name": "Rookie Knight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA34408_00-0102991253396776",
+    "region": "HB",
+    "publisherId": "HB0876"
   }
 ]
