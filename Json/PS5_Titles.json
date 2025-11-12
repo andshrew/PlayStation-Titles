@@ -6427,9 +6427,9 @@
     "titleId": "PPSA02765_00",
     "conceptId": 10002242,
     "name": "Plague Hunters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1594-PPSA02765_00-PLAGUEHUNTERS000",
+    "region": "UP",
+    "publisherId": "UP1594"
   },
   {
     "titleId": "PPSA02766_00",
@@ -92464,6 +92464,14 @@
     "publisherId": "UP0177"
   },
   {
+    "titleId": "PPSA20807_00",
+    "conceptId": 10010096,
+    "name": "Ahhnalog 112",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20809_00",
     "conceptId": 10010097,
     "name": "Sakura Melody",
@@ -132040,6 +132048,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA28708_00",
+    "conceptId": 10014324,
+    "name": "Speed Legacy: Ultimate Drive",
+    "contentId": "UB0768-PPSA28708_00-0367833969979162",
+    "region": "UB",
+    "publisherId": "UB0768"
+  },
+  {
     "titleId": "PPSA28709_00",
     "conceptId": 10014325,
     "name": "Labyrinthine - Console Edition",
@@ -137224,6 +137240,22 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA29917_00",
+    "conceptId": 10015049,
+    "name": "MySims\u2122: Cozy Bundle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29918_00",
+    "conceptId": 10015049,
+    "name": "MySims\u2122: Cozy Bundle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29924_00",
     "conceptId": 10012701,
     "name": "\u30de\u30b9\u30bf\u30fc\u30aa\u30d6\u30e2\u30f3\u30b9\u30bf\u30fc\u30baSSB\u4f53\u9a13\u7248",
@@ -137694,6 +137726,14 @@
     "contentId": "UP8215-PPSA30045_00-0521291584771106",
     "region": "UP",
     "publisherId": "UP8215"
+  },
+  {
+    "titleId": "PPSA30046_00",
+    "conceptId": 10015116,
+    "name": "Remnants of the Rift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30052_00",
@@ -140435,9 +140475,9 @@
     "titleId": "PPSA30627_00",
     "conceptId": 10015429,
     "name": "Wildkeepers Rising",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6664-PPSA30627_00-0068001786068755",
+    "region": "HP",
+    "publisherId": "HP6664"
   },
   {
     "titleId": "PPSA30628_00",
@@ -140542,6 +140582,14 @@
     "contentId": "UP7578-PPSA30657_00-0462637944554851",
     "region": "UP",
     "publisherId": "UP7578"
+  },
+  {
+    "titleId": "PPSA30658_00",
+    "conceptId": 229391,
+    "name": "The Long Dark",
+    "contentId": "UP2982-PPSA30658_00-TLDRKFULLGAMEPS5",
+    "region": "UP",
+    "publisherId": "UP2982"
   },
   {
     "titleId": "PPSA30664_00",
@@ -142218,10 +142266,10 @@
   {
     "titleId": "PPSA31114_00",
     "conceptId": 10015606,
-    "name": "Sacred 2 Remaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sacred 2 - Remaster",
+    "contentId": "EP4389-PPSA31114_00-SACRED2REMASTER0",
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA31115_00",
@@ -143920,6 +143968,14 @@
     "publisherId": "UB1015"
   },
   {
+    "titleId": "PPSA31551_00",
+    "conceptId": 10015968,
+    "name": "Car Parking Legends: Drive & Park Adventure",
+    "contentId": "EB0963-PPSA31551_00-0107232480148657",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA31559_00",
     "conceptId": 10015975,
     "name": "Surviving Mars Pioneer",
@@ -144034,10 +144090,18 @@
   {
     "titleId": "PPSA31581_00",
     "conceptId": 10015992,
-    "name": "Windswept",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "WINDSWEPT",
+    "contentId": "UP5155-PPSA31581_00-WINDSWEPT0000000",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
+    "titleId": "PPSA31582_00",
+    "conceptId": 10015992,
+    "name": "WINDSWEPT DEMO",
+    "contentId": "UP5155-PPSA31582_00-WINDSWEPTDEMO000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA31589_00",
@@ -144464,6 +144528,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA31682_00",
+    "conceptId": 10016065,
+    "name": "\u51f6\u4e71\u30de\u30ab\u30a4\u30ba\u30e0",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
     "titleId": "PPSA31683_00",
     "conceptId": 10008744,
     "name": "\u82e6\u60b6\u306e\u9b42\uff12\u4f53\u9a13\u7248",
@@ -144782,6 +144854,14 @@
     "contentId": "EB1366-PPSA31759_00-0019151976748342",
     "region": "EB",
     "publisherId": "EB1366"
+  },
+  {
+    "titleId": "PPSA31764_00",
+    "conceptId": 10016101,
+    "name": "Suzerain",
+    "contentId": "UP8520-PPSA31764_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP8520"
   },
   {
     "titleId": "PPSA31765_00",
@@ -145123,9 +145203,9 @@
     "titleId": "PPSA31859_00",
     "conceptId": 10016183,
     "name": "Audio Trip",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1267-PPSA31859_00-0835129210571378",
+    "region": "EB",
+    "publisherId": "EB1267"
   },
   {
     "titleId": "PPSA31860_00",
@@ -146443,9 +146523,9 @@
     "titleId": "PPSA32174_00",
     "conceptId": 10016302,
     "name": "Chorus of Carcosa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1220-PPSA32174_00-0000000000000000",
+    "region": "UB",
+    "publisherId": "UB1220"
   },
   {
     "titleId": "PPSA32175_00",
@@ -146718,6 +146798,14 @@
     "contentId": "EP5133-PPSA32234_00-JOURNEYOFBALLOON",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA32236_00",
+    "conceptId": 10016323,
+    "name": "Tokyo Xtreme Racer",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0128"
   },
   {
     "titleId": "PPSA32241_00",
@@ -149184,6 +149272,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA32984_00",
+    "conceptId": 10015542,
+    "name": "Jotunnslayer: Hordes of Hel - Demo",
+    "contentId": "EP4632-PPSA32984_00-JOTUNNSLAYERHOHD",
+    "region": "EP",
+    "publisherId": "EP4632"
+  },
+  {
     "titleId": "PPSA32997_00",
     "conceptId": 10016772,
     "name": "Cloud to Gold",
@@ -149683,33 +149779,33 @@
     "titleId": "PPSA33148_00",
     "conceptId": 10016859,
     "name": "Just a Little Purr Suit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA33148_00-0283879976217870",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA33149_00",
     "conceptId": 10016859,
     "name": "Just a Little Purr Suit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA33149_00-0198580405720374",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA33150_00",
     "conceptId": 10016859,
     "name": "Just a Little Purr Suit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA33150_00-0067635100018756",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA33151_00",
     "conceptId": 10016859,
     "name": "Just a Little Purr Suit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA33151_00-0809089042149470",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA33157_00",
@@ -150388,6 +150484,22 @@
     "conceptId": 10017002,
     "name": "Animal Anatomy VR",
     "contentId": "EP5449-PPSA33448_00-0791428391257160",
+    "region": "EP",
+    "publisherId": "EP5449"
+  },
+  {
+    "titleId": "PPSA33449_00",
+    "conceptId": 10017002,
+    "name": "Animal Anatomy VR",
+    "contentId": "EP5449-PPSA33449_00-0962283566060744",
+    "region": "EP",
+    "publisherId": "EP5449"
+  },
+  {
+    "titleId": "PPSA33450_00",
+    "conceptId": 10017002,
+    "name": "Animal Anatomy VR",
+    "contentId": "EP5449-PPSA33450_00-0377710565188513",
     "region": "EP",
     "publisherId": "EP5449"
   },
@@ -151224,6 +151336,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34054_00",
+    "conceptId": 10017362,
+    "name": "Wandering Sword",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP5784"
+  },
+  {
     "titleId": "PPSA34055_00",
     "conceptId": 10017363,
     "name": "Lost Lands 2: The Four Horsemen",
@@ -151400,6 +151520,22 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA34264_00",
+    "conceptId": 10017502,
+    "name": "Cat Clinic Simulator: Vet Hospital",
+    "contentId": "EB0963-PPSA34264_00-0242446335973872",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA34294_00",
+    "conceptId": 10017517,
+    "name": "Top Shot Pool",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34311_00",
     "conceptId": 10017535,
     "name": "Hex Park",
@@ -151481,6 +151617,14 @@
   },
   {
     "titleId": "PPSA34333_00",
+    "conceptId": 10017541,
+    "name": "Hit The Clock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34334_00",
     "conceptId": 10017541,
     "name": "Hit The Clock",
     "contentId": null,
