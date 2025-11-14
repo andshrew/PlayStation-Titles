@@ -19504,6 +19504,14 @@
     "publisherId": "HP1127"
   },
   {
+    "titleId": "PPSA05351_00",
+    "conceptId": 10003284,
+    "name": "Aimlabs",
+    "contentId": "UP6344-PPSA05351_00-4900041844419474",
+    "region": "UP",
+    "publisherId": "UP6344"
+  },
+  {
     "titleId": "PPSA05355_00",
     "conceptId": 10003420,
     "name": "Lucid Cycle",
@@ -96704,6 +96712,14 @@
     "publisherId": "JP0031"
   },
   {
+    "titleId": "PPSA21725_00",
+    "conceptId": 10010475,
+    "name": "RIDE 6 - Ultimate Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4356"
+  },
+  {
     "titleId": "PPSA21728_00",
     "conceptId": 10010477,
     "name": "Monster Prom 3: Monster Roadtrip XXL",
@@ -99002,8 +99018,8 @@
   {
     "titleId": "PPSA22207_00",
     "conceptId": 231308,
-    "name": "INAZUMA ELEVEN: Victory Road  PS4 & PS5",
-    "contentId": null,
+    "name": "INAZUMA ELEVEN: Victory Road",
+    "contentId": "JP0720-PPSA22207_00-INZMGAME00000000",
     "region": "JP",
     "publisherId": "JP0720"
   },
@@ -124392,6 +124408,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA27214_00",
+    "conceptId": 10012944,
+    "name": "Never Grave: The Witch and The Curse\uff08PS5 & PS4\uff09",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6360"
+  },
+  {
     "titleId": "PPSA27216_00",
     "conceptId": 10013310,
     "name": "Deep, In the Forest",
@@ -124491,7 +124515,7 @@
     "titleId": "PPSA27236_00",
     "conceptId": 10011885,
     "name": "Lumines Arise",
-    "contentId": null,
+    "contentId": "UP0751-PPSA27236_00-LUMINESARISE0001",
     "region": "UP",
     "publisherId": "UP0751"
   },
@@ -125232,6 +125256,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA27363_00",
+    "conceptId": 232860,
+    "name": "PUBG: BATTLEGROUNDS",
+    "contentId": "UP5082-PPSA27363_00-PUBGPS5000000000",
+    "region": "UP",
+    "publisherId": "UP5082"
+  },
+  {
     "titleId": "PPSA27365_00",
     "conceptId": 225700,
     "name": "Skull and Bones\u2122",
@@ -125830,6 +125862,30 @@
     "contentId": "UB0108-PPSA27498_00-0441744126204538",
     "region": "UB",
     "publisherId": "UB0108"
+  },
+  {
+    "titleId": "PPSA27499_00",
+    "conceptId": 234628,
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27500_00",
+    "conceptId": 234628,
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27501_00",
+    "conceptId": 234628,
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27503_00",
@@ -127315,9 +127371,9 @@
     "titleId": "PPSA27766_00",
     "conceptId": 10013651,
     "name": "GIGASWORD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3332-PPSA27766_00-0970259942664531",
+    "region": "HP",
+    "publisherId": "HP3332"
   },
   {
     "titleId": "PPSA27767_00",
@@ -127923,6 +127979,14 @@
     "titleId": "PPSA27871_00",
     "conceptId": 10012463,
     "name": "EA SPORTS\u2122 College Football 26",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27876_00",
+    "conceptId": 10013721,
+    "name": "Hypercar Racing",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -130059,7 +130123,7 @@
     "titleId": "PPSA28297_00",
     "conceptId": 10013999,
     "name": "RENNSPORT",
-    "contentId": null,
+    "contentId": "EP6665-PPSA28297_00-RS00000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -130958,6 +131022,14 @@
     "contentId": "UB0008-PPSA28501_00-0769927174356441",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA28503_00",
+    "conceptId": 10014194,
+    "name": "A.I.L.A",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28505_00",
@@ -131862,6 +131934,14 @@
     "contentId": "EP4200-PPSA28675_00-0371016237851868",
     "region": "EP",
     "publisherId": "EP4200"
+  },
+  {
+    "titleId": "PPSA28677_00",
+    "conceptId": 10014182,
+    "name": "Mai: Child of Ages",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28678_00",
@@ -133502,6 +133582,14 @@
     "contentId": "HB1069-PPSA29078_00-0737830367034713",
     "region": "HB",
     "publisherId": "HB1069"
+  },
+  {
+    "titleId": "PPSA29091_00",
+    "conceptId": 10014563,
+    "name": "Turbo Boost Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29092_00",
@@ -135726,6 +135814,14 @@
     "contentId": "HP7354-PPSA29585_00-0367266595336862",
     "region": "HP",
     "publisherId": "HP7354"
+  },
+  {
+    "titleId": "PPSA29587_00",
+    "conceptId": 10014851,
+    "name": "Use Your Words 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29589_00",
@@ -138698,8 +138794,8 @@
   {
     "titleId": "PPSA30250_00",
     "conceptId": 10015234,
-    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout DX (PS4&5)",
-    "contentId": null,
+    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout DX",
+    "contentId": "JP0106-PPSA30250_00-RYZADX0000MASTER",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -139946,10 +140042,10 @@
   {
     "titleId": "PPSA30493_00",
     "conceptId": 10015358,
-    "name": "Bibi Blocksberg \u2013 Big Broom Race 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bibi Blocksberg - Big Broom Race 4",
+    "contentId": "EP3024-PPSA30493_00-BIBIBLOCKHBR4PS5",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA30494_00",
@@ -140326,6 +140422,14 @@
     "contentId": "HP6661-PPSA30562_00-0600554387576478",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA30570_00",
+    "conceptId": 10015397,
+    "name": "Samurai Academy: Paws of Fury",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30571_00",
@@ -140766,6 +140870,14 @@
     "contentId": "HP7141-PPSA30681_00-0642605857613994",
     "region": "HP",
     "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA30690_00",
+    "conceptId": 10011997,
+    "name": "Saborus",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30691_00",
@@ -141914,10 +142026,10 @@
   {
     "titleId": "PPSA30993_00",
     "conceptId": 10015650,
-    "name": "The Jumping Food Racing - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Food Racing",
+    "contentId": "UP6664-PPSA30993_00-0739515359620744",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA30994_00",
@@ -141931,6 +142043,38 @@
     "titleId": "PPSA30995_00",
     "conceptId": 10015650,
     "name": "The Jumping Food Racing - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31000_00",
+    "conceptId": 10015651,
+    "name": "The Jumping Food Catcher - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31001_00",
+    "conceptId": 10015651,
+    "name": "The Jumping Food Catcher - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31002_00",
+    "conceptId": 10015651,
+    "name": "The Jumping Food Catcher - PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31003_00",
+    "conceptId": 10015651,
+    "name": "The Jumping Food Catcher - PS4 & PS5",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -143995,9 +144139,9 @@
     "titleId": "PPSA31535_00",
     "conceptId": 10015954,
     "name": "VIDEOVERSE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA31535_00-VIDEOVERSERATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA31536_00",
@@ -145416,6 +145560,14 @@
     "publisherId": "JP0098"
   },
   {
+    "titleId": "PPSA31898_00",
+    "conceptId": 10016204,
+    "name": "Hero Seekers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31899_00",
     "conceptId": 10016207,
     "name": "Rocket Spin Orbit Glide",
@@ -145483,9 +145635,9 @@
     "titleId": "PPSA31909_00",
     "conceptId": 10016209,
     "name": "Love is all around 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8406-PPSA31909_00-0724920813428567",
+    "region": "HP",
+    "publisherId": "HP8406"
   },
   {
     "titleId": "PPSA31912_00",
@@ -145926,6 +146078,14 @@
     "contentId": "UB1025-PPSA32005_00-0459369439202095",
     "region": "UB",
     "publisherId": "UB1025"
+  },
+  {
+    "titleId": "PPSA32006_00",
+    "conceptId": 10016260,
+    "name": "Sophia\u2019s Animal Clinic - Mission Wildlife Park",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32007_00",
@@ -147624,6 +147784,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32473_00",
+    "conceptId": 10016517,
+    "name": "Zumba World - The Lost Marble Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32476_00",
     "conceptId": 10009634,
     "name": "Highway Drifter: \u30cf\u30b8\u30e5\u30ef\u30e9\u30fb\u30b7\u30df\u30e5\u30ec\u30fc\u30bf\u30fc",
@@ -148512,6 +148680,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32726_00",
+    "conceptId": 10016209,
+    "name": "Love is all around 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32743_00",
     "conceptId": 10016662,
     "name": "OLIVIAS DREAM",
@@ -148768,6 +148944,14 @@
     "publisherId": "HP0106"
   },
   {
+    "titleId": "PPSA32807_00",
+    "conceptId": 10011284,
+    "name": "ESCAPE - BACKROOMS HORROR",
+    "contentId": "UP8703-PPSA32807_00-0167266710320626",
+    "region": "UP",
+    "publisherId": "UP8703"
+  },
+  {
     "titleId": "PPSA32809_00",
     "conceptId": 10012026,
     "name": "Kentum Demo",
@@ -148907,6 +149091,14 @@
     "titleId": "PPSA32852_00",
     "conceptId": 10016705,
     "name": "Blood: Refreshed Supply\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32853_00",
+    "conceptId": 10016706,
+    "name": "BROK: The Brawl Bar",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -149568,6 +149760,14 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA33040_00",
+    "conceptId": 10016794,
+    "name": "Hajwala Dubai",
+    "contentId": "UB2022-PPSA33040_00-0085242355894277",
+    "region": "UB",
+    "publisherId": "UB2022"
+  },
+  {
     "titleId": "PPSA33053_00",
     "conceptId": 10016812,
     "name": "Kittengumi Short: Chapter 0",
@@ -149914,10 +150114,18 @@
   {
     "titleId": "PPSA33157_00",
     "conceptId": 10016865,
-    "name": "Hymer 2000",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30cf\u30a4\u30de\u30fc2000",
+    "contentId": "EP3146-PPSA33157_00-0946720350644294",
+    "region": "EP",
+    "publisherId": "EP3146"
+  },
+  {
+    "titleId": "PPSA33161_00",
+    "conceptId": 10016869,
+    "name": "Smash Balls",
+    "contentId": "UB0337-PPSA33161_00-0281860313826492",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA33163_00",
@@ -150864,6 +151072,38 @@
     "publisherId": "EP2402"
   },
   {
+    "titleId": "PPSA33554_00",
+    "conceptId": 10017060,
+    "name": "Sailing the Winds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33555_00",
+    "conceptId": 10017060,
+    "name": "Sailing the Winds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33556_00",
+    "conceptId": 10017060,
+    "name": "Sailing the Winds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33557_00",
+    "conceptId": 10017060,
+    "name": "Sailing the Winds",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33571_00",
     "conceptId": 10017078,
     "name": "Drift Highway: Retro Console Edition",
@@ -150974,6 +151214,14 @@
     "contentId": "HB0876-PPSA33684_00-0990810600565300",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA33751_00",
+    "conceptId": 10017177,
+    "name": "Pixicharm - Hallowkinz",
+    "contentId": "EP1612-PPSA33751_00-HALLOWKINZGAME00",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA33754_00",
@@ -151648,6 +151896,38 @@
     "publisherId": "EB0963"
   },
   {
+    "titleId": "PPSA34274_00",
+    "conceptId": 10017467,
+    "name": "World is Lava",
+    "contentId": "UP7940-PPSA34274_00-0436884992864373",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA34275_00",
+    "conceptId": 10017467,
+    "name": "World is Lava",
+    "contentId": "EP7938-PPSA34275_00-0035608088968597",
+    "region": "EP",
+    "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA34276_00",
+    "conceptId": 10017467,
+    "name": "World is Lava",
+    "contentId": "JP7921-PPSA34276_00-0356797584888594",
+    "region": "JP",
+    "publisherId": "JP7921"
+  },
+  {
+    "titleId": "PPSA34277_00",
+    "conceptId": 10017467,
+    "name": "World is Lava",
+    "contentId": "HP7967-PPSA34277_00-0688635671276987",
+    "region": "HP",
+    "publisherId": "HP7967"
+  },
+  {
     "titleId": "PPSA34294_00",
     "conceptId": 10017517,
     "name": "Top Shot Pool",
@@ -151790,5 +152070,29 @@
     "contentId": "HB0876-PPSA34408_00-0102991253396776",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA34445_00",
+    "conceptId": 10017587,
+    "name": "SEWER QUEST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34446_00",
+    "conceptId": 10017587,
+    "name": "SEWER QUEST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34447_00",
+    "conceptId": 10017587,
+    "name": "SEWER QUEST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
