@@ -105224,6 +105224,14 @@
     "publisherId": "EP4312"
   },
   {
+    "titleId": "PPSA23538_00",
+    "conceptId": 10011233,
+    "name": "SLEEP AWAKE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23539_00",
     "conceptId": 10011200,
     "name": "Goblins",
@@ -105291,7 +105299,7 @@
     "titleId": "PPSA23559_00",
     "conceptId": 10011009,
     "name": "Anno 117: Pax Romana",
-    "contentId": null,
+    "contentId": "EP0001-PPSA23559_00-LS00000000000117",
     "region": "EP",
     "publisherId": "EP0001"
   },
@@ -123384,6 +123392,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA27013_00",
+    "conceptId": 10013166,
+    "name": "ChromaGun 2: Dye Hard",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27014_00",
     "conceptId": 10013164,
     "name": "Dark Fox Infinity Runner",
@@ -126280,6 +126296,14 @@
     "publisherId": "UP0031"
   },
   {
+    "titleId": "PPSA27567_00",
+    "conceptId": 10013420,
+    "name": "Bee Simulator: The Hive",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27568_00",
     "conceptId": 10013488,
     "name": "The Golden Eagle",
@@ -127979,6 +128003,14 @@
     "titleId": "PPSA27871_00",
     "conceptId": 10012463,
     "name": "EA SPORTS\u2122 College Football 26",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA27875_00",
+    "conceptId": 10013721,
+    "name": "Hypercar Racing",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -133291,9 +133323,9 @@
     "titleId": "PPSA29006_00",
     "conceptId": 10009333,
     "name": "Dark Atlas: Infernum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6325-PPSA29006_00-0717329157545461",
+    "region": "EP",
+    "publisherId": "EP6325"
   },
   {
     "titleId": "PPSA29010_00",
@@ -133587,9 +133619,9 @@
     "titleId": "PPSA29091_00",
     "conceptId": 10014563,
     "name": "Turbo Boost Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0806-PPSA29091_00-0955974048548907",
+    "region": "EP",
+    "publisherId": "EP0806"
   },
   {
     "titleId": "PPSA29092_00",
@@ -135819,9 +135851,9 @@
     "titleId": "PPSA29587_00",
     "conceptId": 10014851,
     "name": "Use Your Words 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3151-PPSA29587_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP3151"
   },
   {
     "titleId": "PPSA29589_00",
@@ -137070,6 +137102,14 @@
     "contentId": "UP8703-PPSA29845_00-0606043934029817",
     "region": "UP",
     "publisherId": "UP8703"
+  },
+  {
+    "titleId": "PPSA29847_00",
+    "conceptId": 10015004,
+    "name": "Starsand Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29853_00",
@@ -142018,10 +142058,10 @@
   {
     "titleId": "PPSA30992_00",
     "conceptId": 10015650,
-    "name": "The Jumping Food Racing - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Food Racing",
+    "contentId": "EP6664-PPSA30992_00-0410201730194850",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA30993_00",
@@ -142034,18 +142074,18 @@
   {
     "titleId": "PPSA30994_00",
     "conceptId": 10015650,
-    "name": "The Jumping Food Racing - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Food Racing",
+    "contentId": "JP6595-PPSA30994_00-0439382029132735",
+    "region": "JP",
+    "publisherId": "JP6595"
   },
   {
     "titleId": "PPSA30995_00",
     "conceptId": 10015650,
-    "name": "The Jumping Food Racing - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Jumping Food Racing",
+    "contentId": "HP6661-PPSA30995_00-0718799877675356",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA31000_00",
@@ -143011,17 +143051,17 @@
     "titleId": "PPSA31237_00",
     "conceptId": 10015773,
     "name": "Forest of Terenu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA31237_00-0203073866107403",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA31238_00",
     "conceptId": 10015773,
     "name": "Forest of Terenu",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA31238_00-0194461449697886",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA31239_00",
@@ -146523,9 +146563,9 @@
     "titleId": "PPSA32110_00",
     "conceptId": 10016313,
     "name": "CLAWPUNK",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0836-PPSA32110_00-CLAWPUNKSTANDARD",
+    "region": "UB",
+    "publisherId": "UB0836"
   },
   {
     "titleId": "PPSA32111_00",
@@ -147786,10 +147826,10 @@
   {
     "titleId": "PPSA32473_00",
     "conceptId": 10016517,
-    "name": "Zumba World - The Lost Marble Island",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Zumba - The Lost Marble Island",
+    "contentId": "UP6557-PPSA32473_00-0292672579945705",
+    "region": "UP",
+    "publisherId": "UP6557"
   },
   {
     "titleId": "PPSA32476_00",
@@ -148622,6 +148662,14 @@
     "contentId": "JP5299-PPSA32690_00-000PORTALSHOOTER",
     "region": "JP",
     "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32692_00",
+    "conceptId": 10016631,
+    "name": "Torii",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32694_00",
@@ -150795,9 +150843,9 @@
     "titleId": "PPSA33429_00",
     "conceptId": 10017000,
     "name": "Rabbit Samurai",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0837-PPSA33429_00-0630903931011540",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA33448_00",
@@ -151376,6 +151424,14 @@
     "publisherId": "JB1686"
   },
   {
+    "titleId": "PPSA33863_00",
+    "conceptId": 10017259,
+    "name": "Miiridian Prime",
+    "contentId": "UB1301-PPSA33863_00-MIIRPRIMEBETA001",
+    "region": "UB",
+    "publisherId": "UB1301"
+  },
+  {
     "titleId": "PPSA33868_00",
     "conceptId": 10017261,
     "name": "Baradroid",
@@ -151928,6 +151984,22 @@
     "publisherId": "HP7967"
   },
   {
+    "titleId": "PPSA34278_00",
+    "conceptId": 10017510,
+    "name": "Bunninjutsu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34280_00",
+    "conceptId": 10017510,
+    "name": "Bunninjutsu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34294_00",
     "conceptId": 10017517,
     "name": "Top Shot Pool",
@@ -152040,6 +152112,22 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA34397_00",
+    "conceptId": 10017573,
+    "name": "Cube KaBAAM",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34398_00",
+    "conceptId": 10017573,
+    "name": "Cube KaBAAM",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34405_00",
     "conceptId": 10017527,
     "name": "Rookie Knight",
@@ -152070,6 +152158,14 @@
     "contentId": "HB0876-PPSA34408_00-0102991253396776",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA34444_00",
+    "conceptId": 10017587,
+    "name": "SEWER QUEST",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34445_00",
