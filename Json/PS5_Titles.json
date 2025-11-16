@@ -6435,9 +6435,9 @@
     "titleId": "PPSA02766_00",
     "conceptId": 10002242,
     "name": "Plague Hunters",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1580-PPSA02766_00-PLAGUEHUNTERS000",
+    "region": "EP",
+    "publisherId": "EP1580"
   },
   {
     "titleId": "PPSA02771_00",
@@ -110210,10 +110210,10 @@
   {
     "titleId": "PPSA24476_00",
     "conceptId": 10011715,
-    "name": "Where Is Billy?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Where is Billy",
+    "contentId": "HP5623-PPSA24476_00-0101056626026823",
+    "region": "HP",
+    "publisherId": "HP5623"
   },
   {
     "titleId": "PPSA24477_00",
@@ -120814,6 +120814,14 @@
     "contentId": "EP2627-PPSA26529_00-TECHNOBANTEROST0",
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA26530_00",
+    "conceptId": 223164,
+    "name": "Shantae: Half-Genie Hero Ultimate Edition",
+    "contentId": "JP0075-PPSA26530_00-5532510806615455",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA26531_00",
@@ -132880,6 +132888,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA28899_00",
+    "conceptId": 10014369,
+    "name": "Roboquest VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28905_00",
     "conceptId": 10014446,
     "name": "Cute Puppy Academy",
@@ -143240,6 +143256,22 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA31266_00",
+    "conceptId": 10015785,
+    "name": "Classic Arcades: Pong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31267_00",
+    "conceptId": 10015785,
+    "name": "Classic Arcades: Pong",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31268_00",
     "conceptId": 10015786,
     "name": "TRALALERO TRALALA Slot Machine Casino Heaven",
@@ -144582,6 +144614,38 @@
     "contentId": "JP0078-PPSA31630_00-LTPJUNGLEFROG000",
     "region": "JP",
     "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA31631_00",
+    "conceptId": 10016038,
+    "name": "Banana Dash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31632_00",
+    "conceptId": 10016038,
+    "name": "Banana Dash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31633_00",
+    "conceptId": 10016038,
+    "name": "Banana Dash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31634_00",
+    "conceptId": 10016038,
+    "name": "Banana Dash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31635_00",
@@ -146398,6 +146462,38 @@
     "contentId": "EP1592-PPSA32065_00-0704306198430471",
     "region": "EP",
     "publisherId": "EP1592"
+  },
+  {
+    "titleId": "PPSA32070_00",
+    "conceptId": 10016295,
+    "name": "Master Detective",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32072_00",
+    "conceptId": 10016295,
+    "name": "Master Detective",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32073_00",
+    "conceptId": 10016295,
+    "name": "Master Detective",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32074_00",
+    "conceptId": 10016295,
+    "name": "Master Detective",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32075_00",
@@ -149392,6 +149488,22 @@
     "publisherId": "HP7141"
   },
   {
+    "titleId": "PPSA32916_00",
+    "conceptId": 10016739,
+    "name": "Cazzarion: Jetpack Fighter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32917_00",
+    "conceptId": 10016739,
+    "name": "Cazzarion: Jetpack Fighter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32920_00",
     "conceptId": 10014197,
     "name": "CLOCK JUMP",
@@ -151992,7 +152104,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34279_00",
+    "conceptId": 10017510,
+    "name": "Bunninjutsu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34280_00",
+    "conceptId": 10017510,
+    "name": "Bunninjutsu",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34281_00",
     "conceptId": 10017510,
     "name": "Bunninjutsu",
     "contentId": null,
