@@ -69131,9 +69131,9 @@
     "titleId": "PPSA15964_00",
     "conceptId": 10008186,
     "name": "Hotel Infinity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0689-PPSA15964_00-0617747147281218",
+    "region": "EP",
+    "publisherId": "EP0689"
   },
   {
     "titleId": "PPSA15966_00",
@@ -104226,8 +104226,8 @@
   {
     "titleId": "PPSA23355_00",
     "conceptId": 10011142,
-    "name": "Where Winds Meet (F2P)",
-    "contentId": null,
+    "name": "Where Winds Meet",
+    "contentId": "HP7588-PPSA23355_00-YYSLSYYSLS000001",
     "region": "HP",
     "publisherId": "HP7588"
   },
@@ -152054,6 +152054,14 @@
     "contentId": "EP7938-PPSA34220_00-0667399914727196",
     "region": "EP",
     "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA34257_00",
+    "conceptId": 10017498,
+    "name": "Drone Simulator",
+    "contentId": "UP8616-PPSA34257_00-0790321615478155",
+    "region": "UP",
+    "publisherId": "UP8616"
   },
   {
     "titleId": "PPSA34264_00",
