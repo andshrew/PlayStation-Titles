@@ -80896,6 +80896,22 @@
     "publisherId": "EP8726"
   },
   {
+    "titleId": "PPSA18405_00",
+    "conceptId": 10009151,
+    "name": "Tabula Rasa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA18406_00",
+    "conceptId": 10009151,
+    "name": "Tabula Rasa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA18408_00",
     "conceptId": 10008515,
     "name": "Corridor VR",
@@ -125914,13 +125930,21 @@
   {
     "titleId": "PPSA27500_00",
     "conceptId": 234628,
+    "name": "ONE PIECE \u6d77\u8cca\u7121\u96d94",
+    "contentId": "HP0700-PPSA27500_00-OPPW4ASHDDGAME00",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA27501_00",
+    "conceptId": 234628,
     "name": "ONE PIECE: PIRATE WARRIORS 4",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA27501_00",
+    "titleId": "PPSA27502_00",
     "conceptId": 234628,
     "name": "ONE PIECE: PIRATE WARRIORS 4",
     "contentId": null,
@@ -128960,6 +128984,14 @@
     "publisherId": "EP6665"
   },
   {
+    "titleId": "PPSA28053_00",
+    "conceptId": 10013889,
+    "name": "Cricket 26",
+    "contentId": "EP6665-PPSA28053_00-C260000000000000",
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA28057_00",
     "conceptId": 10013893,
     "name": "Finding Frankie",
@@ -131419,9 +131451,9 @@
     "titleId": "PPSA28552_00",
     "conceptId": 10014237,
     "name": "StarLightRiders: HyperJump",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA28552_00-STARLIGHTRIDERS0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA28553_00",
@@ -134010,10 +134042,10 @@
   {
     "titleId": "PPSA29174_00",
     "conceptId": 10014618,
-    "name": "Football, Tactics & Glory \u2013 Treble Deluxe Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football, Tactics & Glory Treble Deluxe",
+    "contentId": "EP3024-PPSA29174_00-FOOTBALLTACTIPS5",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA29186_00",
@@ -137490,18 +137522,18 @@
   {
     "titleId": "PPSA29917_00",
     "conceptId": 10015049,
-    "name": "MySims\u2122: Cozy Bundle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "MySims",
+    "contentId": "UP0006-PPSA29917_00-MYSIMS0000000000",
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA29918_00",
     "conceptId": 10015049,
-    "name": "MySims\u2122: Cozy Bundle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "MySims Kingdom",
+    "contentId": "UP0006-PPSA29918_00-MYSIMSKINGDOM000",
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA29924_00",
@@ -139760,6 +139792,14 @@
     "publisherId": "UP6472"
   },
   {
+    "titleId": "PPSA30426_00",
+    "conceptId": 10011423,
+    "name": "Eldrador Creatures Shadowfall",
+    "contentId": "EP5728-PPSA30426_00-0411305770469206",
+    "region": "EP",
+    "publisherId": "EP5728"
+  },
+  {
     "titleId": "PPSA30427_00",
     "conceptId": 10011295,
     "name": "Rabbit Raid",
@@ -140344,12 +140384,44 @@
     "publisherId": "EP2627"
   },
   {
+    "titleId": "PPSA30523_00",
+    "conceptId": 10006164,
+    "name": "Red Dead Redemption",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30525_00",
+    "conceptId": 10006164,
+    "name": "Red Dead Redemption",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30526_00",
     "conceptId": 10015378,
     "name": "Heading Out - Original Soundtrack",
     "contentId": "EP2627-PPSA30526_00-HEADINGOUTOST000",
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA30528_00",
+    "conceptId": 10006164,
+    "name": "Red Dead Redemption",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30529_00",
+    "conceptId": 10006164,
+    "name": "Red Dead Redemption",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30530_00",
@@ -140995,9 +141067,9 @@
     "titleId": "PPSA30691_00",
     "conceptId": 10011997,
     "name": "Saborus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0546-PPSA30691_00-SABORUSQUBYPS5EU",
+    "region": "EP",
+    "publisherId": "EP0546"
   },
   {
     "titleId": "PPSA30693_00",
@@ -141795,17 +141867,17 @@
     "titleId": "PPSA30902_00",
     "conceptId": 10015604,
     "name": "The Last Shot Arcades",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-PPSA30902_00-SYPS5TLSARCADES0",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA30903_00",
     "conceptId": 10015604,
     "name": "The Last Shot Arcades",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-PPSA30903_00-SYPS5TLSARCADES0",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA30904_00",
@@ -141819,9 +141891,9 @@
     "titleId": "PPSA30905_00",
     "conceptId": 10015604,
     "name": "The Last Shot Arcades",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP1792-PPSA30905_00-SYPS5TLSARCADES0",
+    "region": "HP",
+    "publisherId": "HP1792"
   },
   {
     "titleId": "PPSA30906_00",
@@ -143459,9 +143531,9 @@
     "titleId": "PPSA31328_00",
     "conceptId": 10015831,
     "name": "Cat God Ranch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1179-PPSA31328_00-0211015196244537",
+    "region": "HB",
+    "publisherId": "HB1179"
   },
   {
     "titleId": "PPSA31330_00",
@@ -144544,6 +144616,14 @@
     "publisherId": "EB0963"
   },
   {
+    "titleId": "PPSA31611_00",
+    "conceptId": 10016024,
+    "name": "Run from LABUBOL horror",
+    "contentId": "EB0963-PPSA31611_00-0815392307796007",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA31613_00",
     "conceptId": 10016029,
     "name": "Trasmoz Legends",
@@ -144851,9 +144931,9 @@
     "titleId": "PPSA31665_00",
     "conceptId": 10016056,
     "name": "Neon Inferno",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5420-PPSA31665_00-0807198200770730",
+    "region": "UP",
+    "publisherId": "UP5420"
   },
   {
     "titleId": "PPSA31666_00",
@@ -146395,9 +146475,9 @@
     "titleId": "PPSA32028_00",
     "conceptId": 10016268,
     "name": "Pad Quad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA32028_00-0227288333791440",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA32029_00",
@@ -147672,6 +147752,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA32386_00",
+    "conceptId": 10016468,
+    "name": "Dungeons and Ducklings",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32391_00",
     "conceptId": 10016474,
     "name": "Water Delivery",
@@ -148182,6 +148270,14 @@
     "contentId": "EP1612-PPSA32518_00-GOOPATROLGAME000",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA32531_00",
+    "conceptId": 10016552,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30dc\u30e0\u30d3\u30fc",
+    "contentId": "JP0571-PPSA32531_00-0538416178489778",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA32532_00",
@@ -150104,6 +150200,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA33073_00",
+    "conceptId": 10016121,
+    "name": "Street Racer Collection (QUByte Classics)",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33074_00",
     "conceptId": 10013743,
     "name": "Shroomtopia",
@@ -150126,6 +150230,14 @@
     "contentId": "EP0896-PPSA33079_00-BEAKEDBUCCANEERG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA33081_00",
+    "conceptId": 10016834,
+    "name": "Speed Factor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33082_00",
@@ -150736,6 +150848,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA33313_00",
+    "conceptId": 10015326,
+    "name": "Peppermint",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33320_00",
     "conceptId": 10016959,
     "name": "BOUNCY BREAD",
@@ -150992,6 +151112,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA33401_00",
+    "conceptId": 10016991,
+    "name": "Skinwalker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33413_00",
     "conceptId": 10016979,
     "name": ">start ai",
@@ -151102,6 +151230,22 @@
     "contentId": "EP5449-PPSA33451_00-0347798565404535",
     "region": "EP",
     "publisherId": "EP5449"
+  },
+  {
+    "titleId": "PPSA33463_00",
+    "conceptId": 10017009,
+    "name": "Heavy Duty",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33464_00",
+    "conceptId": 10017015,
+    "name": "Funny Animal Cafe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33466_00",
@@ -151515,9 +151659,9 @@
     "titleId": "PPSA33767_00",
     "conceptId": 10017176,
     "name": "Secrets of Blackrock Manor - Escape Room",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8723-PPSA33767_00-0720695244299324",
+    "region": "EP",
+    "publisherId": "EP8723"
   },
   {
     "titleId": "PPSA33780_00",
@@ -151864,6 +152008,38 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA33992_00",
+    "conceptId": 10017321,
+    "name": "Ultra Bonk Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33993_00",
+    "conceptId": 10017321,
+    "name": "Ultra Bonk Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33994_00",
+    "conceptId": 10017321,
+    "name": "Ultra Bonk Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33995_00",
+    "conceptId": 10017321,
+    "name": "Ultra Bonk Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34004_00",
     "conceptId": 10017257,
     "name": "Nyaa, smack!",
@@ -152203,9 +152379,9 @@
     "titleId": "PPSA34193_00",
     "conceptId": 10017459,
     "name": "Anime: Fantasy Uni",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5506-PPSA34193_00-ANIMEFANTASYUNI0",
+    "region": "EP",
+    "publisherId": "EP5506"
   },
   {
     "titleId": "PPSA34198_00",
@@ -152446,6 +152622,14 @@
     "contentId": "HP8737-PPSA34335_00-0127250276758121",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA34388_00",
+    "conceptId": 10016856,
+    "name": "Waterpark Simulator 25",
+    "contentId": "HB1334-PPSA34388_00-0939843570422372",
+    "region": "HB",
+    "publisherId": "HB1334"
   },
   {
     "titleId": "PPSA34397_00",
