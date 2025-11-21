@@ -102056,6 +102056,14 @@
     "publisherId": "UP0259"
   },
   {
+    "titleId": "PPSA22824_00",
+    "conceptId": 10010906,
+    "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30ea\u30de\u30b9\u30bf\u30fc \u30c7\u30e9\u30c3\u30af\u30b9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA22829_00",
     "conceptId": 10010908,
     "name": "Ghost Teen Escape from Limbo",
@@ -108424,6 +108432,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA24166_00",
+    "conceptId": 10011589,
+    "name": "BOSSGAME",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24167_00",
     "conceptId": 10011488,
     "name": "Whitewater VR - Extreme Kayaking Adventure",
@@ -114768,6 +114784,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25362_00",
+    "conceptId": 10009601,
+    "name": "Perennial Order Demo",
+    "contentId": "EP4541-PPSA25362_00-0062065557846998",
+    "region": "EP",
+    "publisherId": "EP4541"
+  },
+  {
     "titleId": "PPSA25363_00",
     "conceptId": 10012064,
     "name": "Hell Of An Office",
@@ -116395,9 +116419,9 @@
     "titleId": "PPSA25664_00",
     "conceptId": 10012334,
     "name": "Morsels",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2470-PPSA25664_00-MORSELSGLOBAL000",
+    "region": "UP",
+    "publisherId": "UP2470"
   },
   {
     "titleId": "PPSA25669_00",
@@ -120186,10 +120210,10 @@
   {
     "titleId": "PPSA26411_00",
     "conceptId": 10012820,
-    "name": "R-Type Delta: HD Boosted PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "R-Type Delta: HD Boosted",
+    "contentId": "HP5035-PPSA26411_00-RTYPEDELTA00ASIA",
+    "region": "HP",
+    "publisherId": "HP5035"
   },
   {
     "titleId": "PPSA26412_00",
@@ -122819,7 +122843,7 @@
     "titleId": "PPSA26893_00",
     "conceptId": 10013086,
     "name": "SpongeBob SquarePants: Titans of the Tide",
-    "contentId": null,
+    "contentId": "EP4389-PPSA26893_00-SBGHOSTUNIVERSAL",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -125922,10 +125946,10 @@
   {
     "titleId": "PPSA27499_00",
     "conceptId": 234628,
-    "name": "ONE PIECE: PIRATE WARRIORS 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "ONE PIECE \u6d77\u8cca\u7121\u53cc4",
+    "contentId": "JP0700-PPSA27499_00-OPPW4JPHDDGAME00",
+    "region": "JP",
+    "publisherId": "JP0700"
   },
   {
     "titleId": "PPSA27500_00",
@@ -126710,6 +126734,22 @@
     "contentId": "UP6527-PPSA27621_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP6527"
+  },
+  {
+    "titleId": "PPSA27622_00",
+    "conceptId": 234630,
+    "name": "ASTRONEER",
+    "contentId": "UP2467-PPSA27622_00-ASTRONEER0000000",
+    "region": "UP",
+    "publisherId": "UP2467"
+  },
+  {
+    "titleId": "PPSA27623_00",
+    "conceptId": 234630,
+    "name": "ASTRONEER",
+    "contentId": "EP2330-PPSA27623_00-ASTRONEER0000000",
+    "region": "EP",
+    "publisherId": "EP2330"
   },
   {
     "titleId": "PPSA27624_00",
@@ -130419,7 +130459,7 @@
     "titleId": "PPSA28336_00",
     "conceptId": 10014084,
     "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-    "contentId": null,
+    "contentId": "EB0236-PPSA28336_00-STALKER2UA000000",
     "region": "EB",
     "publisherId": "EB0236"
   },
@@ -132307,9 +132347,9 @@
     "titleId": "PPSA28721_00",
     "conceptId": 10014283,
     "name": "Demeo x Dungeons & Dragons: Battlemarked",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5430-PPSA28721_00-DEMEOXDNDXGLOBAL",
+    "region": "UP",
+    "publisherId": "UP5430"
   },
   {
     "titleId": "PPSA28723_00",
@@ -134230,6 +134270,22 @@
     "contentId": "EP5645-PPSA29212_00-0785729915187247",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29216_00",
+    "conceptId": 10014188,
+    "name": "Scott Whiskers: the Search for the Golden Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29217_00",
+    "conceptId": 10014188,
+    "name": "Scott Whiskers: the Search for the Golden Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29226_00",
@@ -140611,9 +140667,9 @@
     "titleId": "PPSA30570_00",
     "conceptId": 10015397,
     "name": "Samurai Academy: Paws of Fury",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8208-PPSA30570_00-SAMURAIACAPOF000",
+    "region": "EP",
+    "publisherId": "EP8208"
   },
   {
     "titleId": "PPSA30571_00",
@@ -141059,9 +141115,9 @@
     "titleId": "PPSA30690_00",
     "conceptId": 10011997,
     "name": "Saborus",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA30690_00-SABORUSQUBYPS5NA",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA30691_00",
@@ -141750,6 +141806,22 @@
     "contentId": "EB0792-PPSA30870_00-BOMBARDIRO00SIEE",
     "region": "EB",
     "publisherId": "EB0792"
+  },
+  {
+    "titleId": "PPSA30874_00",
+    "conceptId": 10015592,
+    "name": "Sacrifice For Sale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30875_00",
+    "conceptId": 10015592,
+    "name": "Sacrifice For Sale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30882_00",
@@ -143968,6 +144040,38 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA31426_00",
+    "conceptId": 10015894,
+    "name": "Malachite: Temple of the Sun",
+    "contentId": "EP1411-PPSA31426_00-0388156661121677",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31427_00",
+    "conceptId": 10015894,
+    "name": "Malachite: Temple of the Sun",
+    "contentId": "EP1411-PPSA31427_00-0847405313522736",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31428_00",
+    "conceptId": 10015894,
+    "name": "Malachite: Temple of the Sun",
+    "contentId": "EP1411-PPSA31428_00-0458550538627403",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA31429_00",
+    "conceptId": 10015894,
+    "name": "Malachite: Temple of the Sun",
+    "contentId": "EP1411-PPSA31429_00-0811020981239280",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA31430_00",
     "conceptId": 10015896,
     "name": "Pixicharm - Majestreats",
@@ -143994,10 +144098,10 @@
   {
     "titleId": "PPSA31437_00",
     "conceptId": 10014084,
-    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl \u2014 Official Soundtrack & Artbook",
+    "contentId": "EB0236-PPSA31437_00-0499842799099291",
+    "region": "EB",
+    "publisherId": "EB0236"
   },
   {
     "titleId": "PPSA31438_00",
@@ -144363,9 +144467,9 @@
     "titleId": "PPSA31536_00",
     "conceptId": 10015955,
     "name": "Save Room - The Merchant",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA31536_00-SAVEROOMMERCHARG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA31538_00",
@@ -144864,6 +144968,14 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "PPSA31643_00",
+    "conceptId": 10016041,
+    "name": "Crescent Tower",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31647_00",
     "conceptId": 10016043,
     "name": "Mergery",
@@ -145240,6 +145352,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA31740_00",
+    "conceptId": 10015990,
+    "name": "Mobile Suit Gundam: Silver Phantom",
+    "contentId": "EB0032-PPSA31740_00-0379398285441078",
+    "region": "EB",
+    "publisherId": "EB0032"
+  },
+  {
     "titleId": "PPSA31743_00",
     "conceptId": 10012778,
     "name": "Lost Soul Aside Demo",
@@ -145544,6 +145664,14 @@
     "publisherId": "UB1720"
   },
   {
+    "titleId": "PPSA31807_00",
+    "conceptId": 10016146,
+    "name": "Zombie Quarantine: Blackout Survival",
+    "contentId": "EB0963-PPSA31807_00-0510302365704365",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA31814_00",
     "conceptId": 10014090,
     "name": "Let Them Come: Onslaught Demo",
@@ -145558,6 +145686,14 @@
     "contentId": "EB0963-PPSA31820_00-0373973941567864",
     "region": "EB",
     "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA31826_00",
+    "conceptId": 10016161,
+    "name": "Chaos Method",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31828_00",
@@ -146467,9 +146603,9 @@
     "titleId": "PPSA32027_00",
     "conceptId": 10016268,
     "name": "Pad Quad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA32027_00-0885532185385083",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA32028_00",
@@ -146483,17 +146619,17 @@
     "titleId": "PPSA32029_00",
     "conceptId": 10016268,
     "name": "Pad Quad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA32029_00-0572849302685985",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA32030_00",
     "conceptId": 10016268,
     "name": "Pad Quad",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA32030_00-0839085232334318",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA32033_00",
@@ -147512,6 +147648,14 @@
     "publisherId": "JP0714"
   },
   {
+    "titleId": "PPSA32280_00",
+    "conceptId": 10016409,
+    "name": "Bob Brick Breaker",
+    "contentId": "UB0851-PPSA32280_00-BOBBRICKBREAKER0",
+    "region": "UB",
+    "publisherId": "UB0851"
+  },
+  {
     "titleId": "PPSA32282_00",
     "conceptId": 10016416,
     "name": "Pixicharm - Hue Break the Law",
@@ -147774,6 +147918,22 @@
     "contentId": "EP6718-PPSA32392_00-0614269473384219",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA32393_00",
+    "conceptId": 10016442,
+    "name": "Total Chaos",
+    "contentId": "UP0182-PPSA32393_00-TOTALCHAOS000000",
+    "region": "UP",
+    "publisherId": "UP0182"
+  },
+  {
+    "titleId": "PPSA32398_00",
+    "conceptId": 10016478,
+    "name": "Dragon Ruins II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32400_00",
@@ -149624,6 +149784,14 @@
     "publisherId": "EP3447"
   },
   {
+    "titleId": "PPSA32896_00",
+    "conceptId": 10016727,
+    "name": "The Christmas Pickle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32897_00",
     "conceptId": 10014720,
     "name": "The Seven Deadly Sins: Origin",
@@ -149928,6 +150096,30 @@
     "publisherId": "EP4632"
   },
   {
+    "titleId": "PPSA32986_00",
+    "conceptId": 10016769,
+    "name": "Coinfields",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32989_00",
+    "conceptId": 10016769,
+    "name": "Coinfields",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32990_00",
+    "conceptId": 10016769,
+    "name": "Coinfields",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32997_00",
     "conceptId": 10016772,
     "name": "Cloud to Gold",
@@ -149992,12 +150184,52 @@
     "publisherId": "EP5133"
   },
   {
+    "titleId": "PPSA33007_00",
+    "conceptId": 10016610,
+    "name": "Who's at the door?",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33015_00",
     "conceptId": 10016781,
     "name": "Spartan Frontline",
     "contentId": "UB0008-PPSA33015_00-0937905592053640",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA33017_00",
+    "conceptId": 10016782,
+    "name": "Kiosk",
+    "contentId": "UP3528-PPSA33017_00-KIOSK00000000000",
+    "region": "UP",
+    "publisherId": "UP3528"
+  },
+  {
+    "titleId": "PPSA33018_00",
+    "conceptId": 10016782,
+    "name": "Kiosk",
+    "contentId": "EP3385-PPSA33018_00-KIOSK00000000000",
+    "region": "EP",
+    "publisherId": "EP3385"
+  },
+  {
+    "titleId": "PPSA33019_00",
+    "conceptId": 10016782,
+    "name": "Kiosk",
+    "contentId": "JP3568-PPSA33019_00-KIOSK00000000000",
+    "region": "JP",
+    "publisherId": "JP3568"
+  },
+  {
+    "titleId": "PPSA33020_00",
+    "conceptId": 10016782,
+    "name": "Kiosk",
+    "contentId": "HP3473-PPSA33020_00-KIOSK00000000000",
+    "region": "HP",
+    "publisherId": "HP3473"
   },
   {
     "titleId": "PPSA33023_00",
@@ -150222,6 +150454,14 @@
     "contentId": "UB0928-PPSA33077_00-0223570569458073",
     "region": "UB",
     "publisherId": "UB0928"
+  },
+  {
+    "titleId": "PPSA33078_00",
+    "conceptId": 10016778,
+    "name": "Why Me?",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33079_00",
@@ -150638,6 +150878,22 @@
     "contentId": "EB2111-PPSA33231_00-0047415776244242",
     "region": "EB",
     "publisherId": "EB2111"
+  },
+  {
+    "titleId": "PPSA33237_00",
+    "conceptId": 10015687,
+    "name": "Jaleco Sports: Goal!",
+    "contentId": "UB0648-PPSA33237_00-0000000000JSGOAL",
+    "region": "UB",
+    "publisherId": "UB0648"
+  },
+  {
+    "titleId": "PPSA33238_00",
+    "conceptId": 10014747,
+    "name": "Jaleco Sports: Bases Loaded",
+    "contentId": "UB0648-PPSA33238_00-000JSBASESLOADED",
+    "region": "UB",
+    "publisherId": "UB0648"
   },
   {
     "titleId": "PPSA33243_00",
@@ -151507,17 +151763,25 @@
     "titleId": "PPSA33556_00",
     "conceptId": 10017060,
     "name": "Sailing the Winds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7889-PPSA33556_00-0705223971056702",
+    "region": "HP",
+    "publisherId": "HP7889"
   },
   {
     "titleId": "PPSA33557_00",
     "conceptId": 10017060,
     "name": "Sailing the Winds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7843-PPSA33557_00-0906799702426279",
+    "region": "JP",
+    "publisherId": "JP7843"
+  },
+  {
+    "titleId": "PPSA33569_00",
+    "conceptId": 10011639,
+    "name": "Helicopter Flight Simulator",
+    "contentId": "UB0714-PPSA33569_00-0403703303031289",
+    "region": "UB",
+    "publisherId": "UB0714"
   },
   {
     "titleId": "PPSA33571_00",
@@ -151566,6 +151830,14 @@
     "contentId": "UP5877-PPSA33618_00-0558679877687280",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA33619_00",
+    "conceptId": 10017118,
+    "name": "Project 7",
+    "contentId": "JB1899-PPSA33619_00-0659315957159940",
+    "region": "JB",
+    "publisherId": "JB1899"
   },
   {
     "titleId": "PPSA33622_00",
@@ -151710,6 +151982,14 @@
     "contentId": "UP7552-PPSA33796_00-0641714602772186",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA33799_00",
+    "conceptId": 10017219,
+    "name": "Pixicharm - Celestibun",
+    "contentId": "EP1612-PPSA33799_00-CELESTIBUNGAME00",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA33809_00",
@@ -151928,6 +152208,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33957_00",
+    "conceptId": 10017306,
+    "name": "Micro Race R",
+    "contentId": "JP7094-PPSA33957_00-0154990234835903",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA33959_00",
+    "conceptId": 10017306,
+    "name": "Micro Race R",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33960_00",
+    "conceptId": 10017306,
+    "name": "Micro Race R",
+    "contentId": "HP7141-PPSA33960_00-0650984587598246",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
     "titleId": "PPSA33964_00",
     "conceptId": 10012436,
     "name": "Master Lemon: The Quest for Iceland",
@@ -152126,6 +152430,14 @@
     "contentId": "EP2919-PPSA34027_00-0607728127126531",
     "region": "EP",
     "publisherId": "EP2919"
+  },
+  {
+    "titleId": "PPSA34033_00",
+    "conceptId": 10016251,
+    "name": "Star Ores Inc. (Demo)",
+    "contentId": "UB0990-PPSA34033_00-STARORESINCDEMO1",
+    "region": "UB",
+    "publisherId": "UB0990"
   },
   {
     "titleId": "PPSA34037_00",
@@ -152520,6 +152832,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34308_00",
+    "conceptId": 10017531,
+    "name": "Christmas Mutilator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34309_00",
+    "conceptId": 10017531,
+    "name": "Christmas Mutilator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34311_00",
     "conceptId": 10017535,
     "name": "Hex Park",
@@ -152635,9 +152963,9 @@
     "titleId": "PPSA34397_00",
     "conceptId": 10017573,
     "name": "Cube KaBAAM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA34397_00-0201417333115549",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA34398_00",
@@ -152646,6 +152974,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34399_00",
+    "conceptId": 10017573,
+    "name": "Cube KaBAAM",
+    "contentId": "HP7367-PPSA34399_00-0622048814702377",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA34400_00",
+    "conceptId": 10017573,
+    "name": "Cube KaBAAM",
+    "contentId": "JP7323-PPSA34400_00-0500966915413562",
+    "region": "JP",
+    "publisherId": "JP7323"
   },
   {
     "titleId": "PPSA34405_00",
