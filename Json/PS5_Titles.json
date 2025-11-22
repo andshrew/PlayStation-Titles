@@ -80267,9 +80267,9 @@
     "titleId": "PPSA18258_00",
     "conceptId": 10009107,
     "name": "Richie's Plank Experience",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3114-PPSA18258_00-0623372926660979",
+    "region": "EP",
+    "publisherId": "EP3114"
   },
   {
     "titleId": "PPSA18259_00",
@@ -102064,6 +102064,22 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA22827_00",
+    "conceptId": 10010906,
+    "name": "Tales of Berseria Remastered",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0700"
+  },
+  {
+    "titleId": "PPSA22828_00",
+    "conceptId": 10010906,
+    "name": "Tales of Berseria Remastered",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA22829_00",
     "conceptId": 10010908,
     "name": "Ghost Teen Escape from Limbo",
@@ -115184,6 +115200,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25429_00",
+    "conceptId": 10009601,
+    "name": "Perennial Order Demo",
+    "contentId": "UP1470-PPSA25429_00-0974360907443096",
+    "region": "UP",
+    "publisherId": "UP1470"
+  },
+  {
     "titleId": "PPSA25430_00",
     "conceptId": 10001133,
     "name": "\u4fe1\u9577\u306e\u91ce\u671b\uff65\u65b0\u751f with \u30d1\u30ef\u30fc\u30a2\u30c3\u30d7\u30ad\u30c3\u30c8",
@@ -119992,6 +120016,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA26363_00",
+    "conceptId": 10012787,
+    "name": "TERRIFIER The ArtCade Game",
+    "contentId": "UP6326-PPSA26363_00-0848324950615180",
+    "region": "UP",
+    "publisherId": "UP6326"
+  },
+  {
     "titleId": "PPSA26365_00",
     "conceptId": 10012788,
     "name": "Buildozer Simulator",
@@ -120206,6 +120238,14 @@
     "contentId": "UB1022-PPSA26409_00-MATHGENIUSMULTJP",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA26410_00",
+    "conceptId": 10012820,
+    "name": "R-Type Delta: HD Boosted",
+    "contentId": "JP1091-PPSA26410_00-RTYPEDELTA0000JP",
+    "region": "JP",
+    "publisherId": "JP1091"
   },
   {
     "titleId": "PPSA26411_00",
@@ -120883,9 +120923,9 @@
     "titleId": "PPSA26532_00",
     "conceptId": 235387,
     "name": "Shantae and the Seven Sirens",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0075-PPSA26532_00-7875224661967724",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA26533_00",
@@ -125963,17 +126003,17 @@
     "titleId": "PPSA27501_00",
     "conceptId": 234628,
     "name": "ONE PIECE: PIRATE WARRIORS 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0700-PPSA27501_00-OPPW4NAHDDGAME00",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA27502_00",
     "conceptId": 234628,
     "name": "ONE PIECE: PIRATE WARRIORS 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0700-PPSA27502_00-OPPW4EUHDDGAME00",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA27503_00",
@@ -129491,7 +129531,7 @@
     "titleId": "PPSA28150_00",
     "conceptId": 10013963,
     "name": "Outlaws + Handful of Missions: Remaster",
-    "contentId": null,
+    "contentId": "UP0913-PPSA28150_00-0732264165432134",
     "region": "UP",
     "publisherId": "UP0913"
   },
@@ -132986,10 +133026,10 @@
   {
     "titleId": "PPSA28899_00",
     "conceptId": 10014369,
-    "name": "Roboquest VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "RoboQuestVR",
+    "contentId": "EB1267-PPSA28899_00-0454070817341208",
+    "region": "EB",
+    "publisherId": "EB1267"
   },
   {
     "titleId": "PPSA28905_00",
@@ -136450,10 +136490,10 @@
   {
     "titleId": "PPSA29683_00",
     "conceptId": 10010999,
-    "name": "REANIMAL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "REANIMAL DEMO",
+    "contentId": "EP4389-PPSA29683_00-REANIMALGAMEDEMO",
+    "region": "EP",
+    "publisherId": "EP4389"
   },
   {
     "titleId": "PPSA29684_00",
@@ -140624,6 +140664,14 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA30552_00",
+    "conceptId": 10015382,
+    "name": "A Game About Digging A Hole\u2122",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30558_00",
     "conceptId": 10015392,
     "name": "Once Upon a Jester",
@@ -141870,6 +141918,22 @@
     "contentId": "JP5299-PPSA30887_00-000THECATWITHHAT",
     "region": "JP",
     "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA30888_00",
+    "conceptId": 10015596,
+    "name": "The Last Case of John Morley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30889_00",
+    "conceptId": 10015596,
+    "name": "The Last Case of John Morley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30890_00",
@@ -143606,6 +143670,14 @@
     "contentId": "HB1179-PPSA31328_00-0211015196244537",
     "region": "HB",
     "publisherId": "HB1179"
+  },
+  {
+    "titleId": "PPSA31329_00",
+    "conceptId": 10015833,
+    "name": "Fantasy Aquarium",
+    "contentId": "UB0675-PPSA31329_00-0020027052924643",
+    "region": "UB",
+    "publisherId": "UB0675"
   },
   {
     "titleId": "PPSA31330_00",
@@ -150104,6 +150176,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32988_00",
+    "conceptId": 10016769,
+    "name": "Coinfields",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32989_00",
     "conceptId": 10016769,
     "name": "Coinfields",
@@ -150458,10 +150538,10 @@
   {
     "titleId": "PPSA33078_00",
     "conceptId": 10016778,
-    "name": "Why Me?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Why Me",
+    "contentId": "UB0928-PPSA33078_00-0857852576232605",
+    "region": "UB",
+    "publisherId": "UB0928"
   },
   {
     "titleId": "PPSA33079_00",
@@ -150920,12 +151000,20 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA33252_00",
+    "conceptId": 10016931,
+    "name": "Lamplighter",
+    "contentId": "UP7335-PPSA33252_00-0429891077515703",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA33253_00",
     "conceptId": 10016931,
     "name": "Lamplighter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA33253_00-0041934456229672",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA33256_00",
@@ -151499,9 +151587,9 @@
     "titleId": "PPSA33464_00",
     "conceptId": 10017015,
     "name": "Funny Animal Cafe",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0837-PPSA33464_00-0571893740580165",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA33466_00",
@@ -151747,17 +151835,17 @@
     "titleId": "PPSA33554_00",
     "conceptId": 10017060,
     "name": "Sailing the Winds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7860-PPSA33554_00-0084069526647877",
+    "region": "EP",
+    "publisherId": "EP7860"
   },
   {
     "titleId": "PPSA33555_00",
     "conceptId": 10017060,
     "name": "Sailing the Winds",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7862-PPSA33555_00-0862428648833622",
+    "region": "UP",
+    "publisherId": "UP7862"
   },
   {
     "titleId": "PPSA33556_00",
@@ -151798,6 +151886,14 @@
     "contentId": "EP1612-PPSA33576_00-VESPRAXGAME00000",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA33583_00",
+    "conceptId": 10017088,
+    "name": "Winning Post 10 2026\uff08PS4 & PS5\uff09",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA33584_00",
@@ -152216,12 +152312,20 @@
     "publisherId": "JP7094"
   },
   {
+    "titleId": "PPSA33958_00",
+    "conceptId": 10017306,
+    "name": "Micro Race R",
+    "contentId": "UP7126-PPSA33958_00-0368379709586422",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
     "titleId": "PPSA33959_00",
     "conceptId": 10017306,
     "name": "Micro Race R",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA33959_00-0716336499815979",
+    "region": "EP",
+    "publisherId": "EP7123"
   },
   {
     "titleId": "PPSA33960_00",
@@ -152827,9 +152931,9 @@
     "titleId": "PPSA34294_00",
     "conceptId": 10017517,
     "name": "Top Shot Pool",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6197-PPSA34294_00-0827241841181397",
+    "region": "EP",
+    "publisherId": "EP6197"
   },
   {
     "titleId": "PPSA34308_00",
@@ -152971,9 +153075,9 @@
     "titleId": "PPSA34398_00",
     "conceptId": 10017573,
     "name": "Cube KaBAAM",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA34398_00-0447759555985758",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA34399_00",
