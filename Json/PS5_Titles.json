@@ -102064,6 +102064,14 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA22826_00",
+    "conceptId": 10010906,
+    "name": "Tales of Berseria Remastered Deluxe Edition",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
     "titleId": "PPSA22827_00",
     "conceptId": 10010906,
     "name": "Tales of Berseria Remastered",
@@ -120274,10 +120282,10 @@
   {
     "titleId": "PPSA26414_00",
     "conceptId": 10012820,
-    "name": "R-Type Delta: HD Boosted PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "R-Type Delta: HD Boosted",
+    "contentId": "EP6027-PPSA26414_00-RTYPEDELTA0000EU",
+    "region": "EP",
+    "publisherId": "EP6027"
   },
   {
     "titleId": "PPSA26417_00",
@@ -147099,9 +147107,9 @@
     "titleId": "PPSA32123_00",
     "conceptId": 10016319,
     "name": "Deadly Combat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32123_00-DEADLYCOMBAT00JP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32124_00",
@@ -148350,6 +148358,14 @@
     "contentId": "HP7325-PPSA32477_00-0514999161009289",
     "region": "HP",
     "publisherId": "HP7325"
+  },
+  {
+    "titleId": "PPSA32482_00",
+    "conceptId": 10016521,
+    "name": "Handyman: House Repair and Flip",
+    "contentId": "UB1029-PPSA32482_00-0118410849288366",
+    "region": "UB",
+    "publisherId": "UB1029"
   },
   {
     "titleId": "PPSA32484_00",
