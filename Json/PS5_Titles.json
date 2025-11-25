@@ -64819,9 +64819,9 @@
     "titleId": "PPSA15171_00",
     "conceptId": 10007754,
     "name": "Demonschool",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2081-PPSA15171_00-0252702365519950",
+    "region": "EP",
+    "publisherId": "EP2081"
   },
   {
     "titleId": "PPSA15172_00",
@@ -102027,9 +102027,9 @@
     "titleId": "PPSA22814_00",
     "conceptId": 10010648,
     "name": "Mythargia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8703-PPSA22814_00-0486345033149695",
+    "region": "EP",
+    "publisherId": "EP8703"
   },
   {
     "titleId": "PPSA22819_00",
@@ -108458,10 +108458,10 @@
   {
     "titleId": "PPSA24165_00",
     "conceptId": 10011589,
-    "name": "BOSSGAME",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BOSSGAME: The Final Boss Is My Heart",
+    "contentId": "UP6718-PPSA24165_00-0252604507655418",
+    "region": "UP",
+    "publisherId": "UP6718"
   },
   {
     "titleId": "PPSA24166_00",
@@ -134344,6 +134344,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA29218_00",
+    "conceptId": 10014644,
+    "name": "Floaty Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29219_00",
+    "conceptId": 10014644,
+    "name": "Floaty Rescue",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29226_00",
     "conceptId": 10010139,
     "name": "Hand in Hand",
@@ -141008,6 +141024,30 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA30641_00",
+    "conceptId": 10015434,
+    "name": "Pin Strike 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30642_00",
+    "conceptId": 10015434,
+    "name": "Pin Strike 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA30643_00",
+    "conceptId": 10015434,
+    "name": "Pin Strike 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30645_00",
     "conceptId": 10014845,
     "name": "Blacksmith Simulator",
@@ -143342,6 +143382,22 @@
     "contentId": "EP7333-PPSA31231_00-0964379262818840",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA31232_00",
+    "conceptId": 10015772,
+    "name": "Puppet Theater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31233_00",
+    "conceptId": 10015772,
+    "name": "Puppet Theater",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31234_00",
@@ -145760,6 +145816,14 @@
     "publisherId": "EB0963"
   },
   {
+    "titleId": "PPSA31810_00",
+    "conceptId": 10016150,
+    "name": "Cakey's Twisted Bakery",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31814_00",
     "conceptId": 10014090,
     "name": "Let Them Come: Onslaught Demo",
@@ -145886,6 +145950,22 @@
     "contentId": "EP7333-PPSA31850_00-0414990556506380",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA31851_00",
+    "conceptId": 10016181,
+    "name": "Blue notebook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31852_00",
+    "conceptId": 10016181,
+    "name": "Blue notebook",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31853_00",
@@ -146990,6 +147070,22 @@
     "contentId": "EP7333-PPSA32088_00-0518784714226709",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA32089_00",
+    "conceptId": 10016301,
+    "name": "For a few minutes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32090_00",
+    "conceptId": 10016301,
+    "name": "For a few minutes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32091_00",
@@ -149088,12 +149184,28 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32654_00",
+    "conceptId": 10016618,
+    "name": "I made her up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32655_00",
     "conceptId": 10016616,
     "name": "Beauty Clicker",
     "contentId": "EP4476-PPSA32655_00-0129120319421869",
     "region": "EP",
     "publisherId": "EP4476"
+  },
+  {
+    "titleId": "PPSA32656_00",
+    "conceptId": 10016618,
+    "name": "I made her up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32657_00",
@@ -149278,6 +149390,30 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32738_00",
+    "conceptId": 10016250,
+    "name": "Strategy game but with a penguin who has a sword",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32739_00",
+    "conceptId": 10016250,
+    "name": "Strategy game but with a penguin who has a sword",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32741_00",
+    "conceptId": 10016250,
+    "name": "Strategy game but with a penguin who has a sword",
+    "contentId": "HP7967-PPSA32741_00-0297800462942815",
+    "region": "HP",
+    "publisherId": "HP7967"
   },
   {
     "titleId": "PPSA32743_00",
@@ -149947,17 +150083,17 @@
     "titleId": "PPSA32916_00",
     "conceptId": 10016739,
     "name": "Cazzarion: Jetpack Fighter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0438-PPSA32916_00-XXXXXXXXXXXXXXXX",
+    "region": "UB",
+    "publisherId": "UB0438"
   },
   {
     "titleId": "PPSA32917_00",
     "conceptId": 10016739,
     "name": "Cazzarion: Jetpack Fighter",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0629-PPSA32917_00-XXXXXXXXXXXXXXXX",
+    "region": "EB",
+    "publisherId": "EB0629"
   },
   {
     "titleId": "PPSA32920_00",
@@ -151038,6 +151174,22 @@
     "contentId": "EP7333-PPSA33253_00-0041934456229672",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA33254_00",
+    "conceptId": 10016931,
+    "name": "Lamplighter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33255_00",
+    "conceptId": 10016931,
+    "name": "Lamplighter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33256_00",
@@ -152608,6 +152760,30 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA34049_00",
+    "conceptId": 10017357,
+    "name": "Delivery of Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34050_00",
+    "conceptId": 10017357,
+    "name": "Delivery of Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34051_00",
+    "conceptId": 10017357,
+    "name": "Delivery of Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34054_00",
     "conceptId": 10017362,
     "name": "Wandering Sword",
@@ -152683,6 +152859,14 @@
     "titleId": "PPSA34074_00",
     "conceptId": 10017376,
     "name": "The Cute Whale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34079_00",
+    "conceptId": 10017384,
+    "name": "Furry Hearts",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -152872,6 +153056,14 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA34226_00",
+    "conceptId": 10017484,
+    "name": "Parallel Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34231_00",
     "conceptId": 10015370,
     "name": "Invincible VS",
@@ -152960,6 +153152,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34282_00",
+    "conceptId": 10017512,
+    "name": "Habitat Shapes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34283_00",
+    "conceptId": 10017512,
+    "name": "Habitat Shapes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34284_00",
+    "conceptId": 10017512,
+    "name": "Habitat Shapes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34294_00",
     "conceptId": 10017517,
     "name": "Top Shot Pool",
@@ -152985,6 +153201,14 @@
   },
   {
     "titleId": "PPSA34311_00",
+    "conceptId": 10017535,
+    "name": "Hex Park",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34312_00",
     "conceptId": 10017535,
     "name": "Hex Park",
     "contentId": null,
@@ -153128,6 +153352,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA34404_00",
+    "conceptId": 10017562,
+    "name": "Stonebound",
+    "contentId": "UB0487-PPSA34404_00-0141888690806784",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
     "titleId": "PPSA34405_00",
     "conceptId": 10017527,
     "name": "Rookie Knight",
@@ -153171,22 +153403,46 @@
     "titleId": "PPSA34445_00",
     "conceptId": 10017587,
     "name": "SEWER QUEST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA34445_00-0642143914510642",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA34446_00",
     "conceptId": 10017587,
     "name": "SEWER QUEST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA34446_00-0628393062554838",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA34447_00",
     "conceptId": 10017587,
     "name": "SEWER QUEST",
+    "contentId": "HB0876-PPSA34447_00-0301156318721065",
+    "region": "HB",
+    "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA34556_00",
+    "conceptId": 10017686,
+    "name": "Prizma Puzzle Classic",
+    "contentId": "UP8623-PPSA34556_00-0104574862471677",
+    "region": "UP",
+    "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA34558_00",
+    "conceptId": 10017686,
+    "name": "Prizma Puzzle Classic",
+    "contentId": "UP8623-PPSA34558_00-0270153263245519",
+    "region": "UP",
+    "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA34726_00",
+    "conceptId": 10017779,
+    "name": "Trigger Path",
     "contentId": null,
     "region": null,
     "publisherId": null
