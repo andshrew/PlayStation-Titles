@@ -122528,6 +122528,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA26823_00",
+    "conceptId": 10013049,
+    "name": "Primal Fray",
+    "contentId": "UB0683-PPSA26823_00-0373114245061384",
+    "region": "UB",
+    "publisherId": "UB0683"
+  },
+  {
     "titleId": "PPSA26827_00",
     "conceptId": 10013053,
     "name": "Supermarket CEO Simulator VR",
@@ -122742,6 +122750,14 @@
     "contentId": "EP6075-PPSA26856_00-KVARK00000000000",
     "region": "EP",
     "publisherId": "EP6075"
+  },
+  {
+    "titleId": "PPSA26857_00",
+    "conceptId": 10013066,
+    "name": "Anarchy Racer: Fury Roads",
+    "contentId": "UB1029-PPSA26857_00-0727870022865047",
+    "region": "UB",
+    "publisherId": "UB1029"
   },
   {
     "titleId": "PPSA26858_00",
@@ -126830,6 +126846,14 @@
     "contentId": "UP7788-PPSA27630_00-DUNJUNGLEPS5DEMO",
     "region": "UP",
     "publisherId": "UP7788"
+  },
+  {
+    "titleId": "PPSA27631_00",
+    "conceptId": 10013544,
+    "name": "Dunjungle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27635_00",
@@ -141048,6 +141072,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30644_00",
+    "conceptId": 10015434,
+    "name": "Pin Strike 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30645_00",
     "conceptId": 10014845,
     "name": "Blacksmith Simulator",
@@ -145608,6 +145640,14 @@
     "publisherId": "EB1366"
   },
   {
+    "titleId": "PPSA31760_00",
+    "conceptId": 10016125,
+    "name": "Pursuit",
+    "contentId": "EB0963-PPSA31760_00-0049760233419558",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA31764_00",
     "conceptId": 10016101,
     "name": "Suzerain",
@@ -149395,17 +149435,25 @@
     "titleId": "PPSA32738_00",
     "conceptId": 10016250,
     "name": "Strategy game but with a penguin who has a sword",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7938-PPSA32738_00-0360346421237334",
+    "region": "EP",
+    "publisherId": "EP7938"
   },
   {
     "titleId": "PPSA32739_00",
     "conceptId": 10016250,
     "name": "Strategy game but with a penguin who has a sword",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7940-PPSA32739_00-0174813172148956",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA32740_00",
+    "conceptId": 10016250,
+    "name": "Strategy game but with a penguin who has a sword",
+    "contentId": "JP7921-PPSA32740_00-0834727443075477",
+    "region": "JP",
+    "publisherId": "JP7921"
   },
   {
     "titleId": "PPSA32741_00",
@@ -151054,6 +151102,14 @@
     "contentId": "HB0706-PPSA33206_00-0374325533658813",
     "region": "HB",
     "publisherId": "HB0706"
+  },
+  {
+    "titleId": "PPSA33207_00",
+    "conceptId": 10016886,
+    "name": "Neural Requiem",
+    "contentId": "UP8616-PPSA33207_00-0226722077886170",
+    "region": "UP",
+    "publisherId": "UP8616"
   },
   {
     "titleId": "PPSA33209_00",
@@ -152760,6 +152816,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA34048_00",
+    "conceptId": 10017357,
+    "name": "Delivery of Us",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34049_00",
     "conceptId": 10017357,
     "name": "Delivery of Us",
@@ -153072,6 +153136,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34256_00",
+    "conceptId": 10011786,
+    "name": "POOLS VR Demo",
+    "contentId": "UB0992-PPSA34256_00-0605009404516589",
+    "region": "UB",
+    "publisherId": "UB0992"
+  },
+  {
     "titleId": "PPSA34257_00",
     "conceptId": 10017498,
     "name": "Drone Simulator",
@@ -153169,6 +153241,14 @@
   },
   {
     "titleId": "PPSA34284_00",
+    "conceptId": 10017512,
+    "name": "Habitat Shapes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34285_00",
     "conceptId": 10017512,
     "name": "Habitat Shapes",
     "contentId": null,
@@ -153352,6 +153432,30 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA34401_00",
+    "conceptId": 10017562,
+    "name": "Stonebound",
+    "contentId": "UB0487-PPSA34401_00-0998453663615191",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA34402_00",
+    "conceptId": 10017562,
+    "name": "Stonebound",
+    "contentId": "UB0487-PPSA34402_00-0628416520369573",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA34403_00",
+    "conceptId": 10017562,
+    "name": "Stonebound",
+    "contentId": "UB0487-PPSA34403_00-0571531977856462",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
     "titleId": "PPSA34404_00",
     "conceptId": 10017562,
     "name": "Stonebound",
@@ -153424,10 +153528,50 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA34459_00",
+    "conceptId": 10016538,
+    "name": "Schedule I - Drug Dealer",
+    "contentId": "EB2111-PPSA34459_00-0290123167817327",
+    "region": "EB",
+    "publisherId": "EB2111"
+  },
+  {
+    "titleId": "PPSA34480_00",
+    "conceptId": 10017633,
+    "name": "Run from Duck",
+    "contentId": "EB0963-PPSA34480_00-0654913540073847",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA34531_00",
+    "conceptId": 10016056,
+    "name": "Neon Inferno Demo",
+    "contentId": "UP5420-PPSA34531_00-0447929881701385",
+    "region": "UP",
+    "publisherId": "UP5420"
+  },
+  {
+    "titleId": "PPSA34555_00",
+    "conceptId": 10017686,
+    "name": "Prizma Puzzle Classic",
+    "contentId": "UP8623-PPSA34555_00-0932121557530534",
+    "region": "UP",
+    "publisherId": "UP8623"
+  },
+  {
     "titleId": "PPSA34556_00",
     "conceptId": 10017686,
     "name": "Prizma Puzzle Classic",
     "contentId": "UP8623-PPSA34556_00-0104574862471677",
+    "region": "UP",
+    "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA34557_00",
+    "conceptId": 10017686,
+    "name": "Prizma Puzzle Classic",
+    "contentId": "UP8623-PPSA34557_00-0665614612742369",
     "region": "UP",
     "publisherId": "UP8623"
   },
@@ -153440,7 +153584,47 @@
     "publisherId": "UP8623"
   },
   {
+    "titleId": "PPSA34611_00",
+    "conceptId": 10015737,
+    "name": "Mind Twist",
+    "contentId": "EB2034-PPSA34611_00-0882719812229024",
+    "region": "EB",
+    "publisherId": "EB2034"
+  },
+  {
+    "titleId": "PPSA34691_00",
+    "conceptId": 10015737,
+    "name": "Mind Twist",
+    "contentId": "JB1778-PPSA34691_00-0473266300269250",
+    "region": "JB",
+    "publisherId": "JB1778"
+  },
+  {
     "titleId": "PPSA34726_00",
+    "conceptId": 10017779,
+    "name": "Trigger Path",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34727_00",
+    "conceptId": 10017779,
+    "name": "Trigger Path",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34728_00",
+    "conceptId": 10017779,
+    "name": "Trigger Path",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34729_00",
     "conceptId": 10017779,
     "name": "Trigger Path",
     "contentId": null,
