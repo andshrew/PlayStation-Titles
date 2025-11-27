@@ -78328,6 +78328,14 @@
     "publisherId": "EP2005"
   },
   {
+    "titleId": "PPSA17870_00",
+    "conceptId": 10008965,
+    "name": "God Of Riffs: Battle for the Metalverse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17872_00",
     "conceptId": 10007658,
     "name": "Kittengumi: The Sakabato's Thief Demo",
@@ -113048,6 +113056,14 @@
     "publisherId": "EP2086"
   },
   {
+    "titleId": "PPSA25025_00",
+    "conceptId": 10011786,
+    "name": "POOLS",
+    "contentId": "UB0992-PPSA25025_00-0547876571128999",
+    "region": "UB",
+    "publisherId": "UB0992"
+  },
+  {
     "titleId": "PPSA25031_00",
     "conceptId": 10011963,
     "name": "Drift Master Simulator",
@@ -113846,6 +113862,14 @@
     "contentId": "EP4538-PPSA25173_00-NEOHARBORRESCUE0",
     "region": "EP",
     "publisherId": "EP4538"
+  },
+  {
+    "titleId": "PPSA25174_00",
+    "conceptId": 10010871,
+    "name": "Reloadian",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25175_00",
@@ -121203,7 +121227,7 @@
     "titleId": "PPSA26575_00",
     "conceptId": 10011465,
     "name": "Project Motor Racing",
-    "contentId": null,
+    "contentId": "EP4399-PPSA26575_00-PROJECTMOTORRACE",
     "region": "EP",
     "publisherId": "EP4399"
   },
@@ -127344,6 +127368,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA27720_00",
+    "conceptId": 10013619,
+    "name": "Dino Land",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27721_00",
     "conceptId": 10009134,
     "name": "\ub3d9\ubc29 \uc2a4\ud3a0 \uce74\ub2c8\ubc1c",
@@ -131243,9 +131275,9 @@
     "titleId": "PPSA28503_00",
     "conceptId": 10014194,
     "name": "A.I.L.A",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2660-PPSA28503_00-SIEESIEAAILA0000",
+    "region": "UP",
+    "publisherId": "UP2660"
   },
   {
     "titleId": "PPSA28505_00",
@@ -131902,6 +131934,14 @@
     "contentId": "UP5267-PPSA28606_00-KOMPS5TBETA00000",
     "region": "UP",
     "publisherId": "UP5267"
+  },
+  {
+    "titleId": "PPSA28607_00",
+    "conceptId": 10014262,
+    "name": "\u5947\u5929\u70c8\u76f8\u8ac7\u30c0\u30a4\u30e4\u30eb",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28609_00",
@@ -142032,6 +142072,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30891_00",
+    "conceptId": 10015304,
+    "name": "Karous",
+    "contentId": "HP3879-PPSA30891_00-RS34RS34RS34RS34",
+    "region": "HP",
+    "publisherId": "HP3879"
+  },
+  {
     "titleId": "PPSA30892_00",
     "conceptId": 10015598,
     "name": "Tibor: Tale of a Kind Vampire",
@@ -148058,10 +148106,10 @@
   {
     "titleId": "PPSA32337_00",
     "conceptId": 10008760,
-    "name": "Broken Sword - Shadow of the Templars: Reforged",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c6\u30f3\u30d7\u30eb\u9a0e\u58eb\u56e3\u306e\u5f71 -Broken Sword REMAKE-",
+    "contentId": "JP0075-PPSA32337_00-BROKENSWORDJPPS5",
+    "region": "JP",
+    "publisherId": "JP0075"
   },
   {
     "titleId": "PPSA32341_00",
@@ -149363,9 +149411,9 @@
     "titleId": "PPSA32692_00",
     "conceptId": 10016631,
     "name": "Torii",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA32692_00-0737156190750313",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA32694_00",
@@ -150723,9 +150771,9 @@
     "titleId": "PPSA33073_00",
     "conceptId": 10016121,
     "name": "Street Racer Collection (QUByte Classics)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2158-PPSA33073_00-STREETRACERQBPS5",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA33074_00",
@@ -150771,6 +150819,14 @@
     "titleId": "PPSA33082_00",
     "conceptId": 10016835,
     "name": "Red Pippy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33084_00",
+    "conceptId": 10016837,
+    "name": "Big Trouble in Little Chimney",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -151808,6 +151864,38 @@
     "publisherId": "EP5449"
   },
   {
+    "titleId": "PPSA33453_00",
+    "conceptId": 10017010,
+    "name": "She's Leaving",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33454_00",
+    "conceptId": 10017010,
+    "name": "She's Leaving",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33456_00",
+    "conceptId": 10017010,
+    "name": "She's Leaving",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33457_00",
+    "conceptId": 10017010,
+    "name": "She's Leaving",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33463_00",
     "conceptId": 10017009,
     "name": "Heavy Duty",
@@ -151966,6 +152054,14 @@
     "contentId": "JP7323-PPSA33510_00-0944717435282358",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA33512_00",
+    "conceptId": 10017035,
+    "name": "Delivery Driver Massacre",
+    "contentId": "EP1612-PPSA33512_00-DELIVERYDRIVERMA",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA33516_00",
@@ -152256,6 +152352,38 @@
     "publisherId": "HB1339"
   },
   {
+    "titleId": "PPSA33759_00",
+    "conceptId": 10006018,
+    "name": "PUMP PRESS",
+    "contentId": "UP5464-PPSA33759_00-0453702482565531",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
+    "titleId": "PPSA33760_00",
+    "conceptId": 10006018,
+    "name": "PUMP PRESS",
+    "contentId": "EP5645-PPSA33760_00-0900035236974846",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA33761_00",
+    "conceptId": 10006018,
+    "name": "PUMP PRESS",
+    "contentId": "JP5299-PPSA33761_00-0970792204744769",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA33762_00",
+    "conceptId": 10006018,
+    "name": "PUMP PRESS",
+    "contentId": "HP5361-PPSA33762_00-0762843615103112",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA33767_00",
     "conceptId": 10017176,
     "name": "Secrets of Blackrock Manor - Escape Room",
@@ -152366,6 +152494,14 @@
     "contentId": "JP7323-PPSA33823_00-0427646139515470",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA33829_00",
+    "conceptId": 233876,
+    "name": "Lost Ember: Rekindled Edition",
+    "contentId": "EP2945-PPSA33829_00-LOSTEMBERREKINDL",
+    "region": "EP",
+    "publisherId": "EP2945"
   },
   {
     "titleId": "PPSA33834_00",
@@ -152768,6 +152904,14 @@
     "publisherId": "EP2919"
   },
   {
+    "titleId": "PPSA34030_00",
+    "conceptId": 233876,
+    "name": "Lost Ember: Rekindled Edition",
+    "contentId": "UP3086-PPSA34030_00-LOSTEMBERREKINDL",
+    "region": "UP",
+    "publisherId": "UP3086"
+  },
+  {
     "titleId": "PPSA34033_00",
     "conceptId": 10016251,
     "name": "Star Ores Inc. (Demo)",
@@ -152899,36 +153043,52 @@
     "titleId": "PPSA34071_00",
     "conceptId": 10017376,
     "name": "The Cute Whale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA34071_00-0759704874258945",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA34072_00",
     "conceptId": 10017376,
     "name": "The Cute Whale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA34072_00-0871910222717741",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA34073_00",
     "conceptId": 10017376,
     "name": "The Cute Whale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA34073_00-0648482973804646",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA34074_00",
     "conceptId": 10017376,
     "name": "The Cute Whale",
+    "contentId": "HP8462-PPSA34074_00-0536069045323666",
+    "region": "HP",
+    "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA34079_00",
+    "conceptId": 10017384,
+    "name": "Furry Hearts",
     "contentId": null,
     "region": null,
     "publisherId": null
   },
   {
-    "titleId": "PPSA34079_00",
+    "titleId": "PPSA34080_00",
+    "conceptId": 10017384,
+    "name": "Furry Hearts",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34081_00",
     "conceptId": 10017384,
     "name": "Furry Hearts",
     "contentId": null,
@@ -153046,6 +153206,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34149_00",
+    "conceptId": 10017433,
+    "name": "BioMech Vendetta",
+    "contentId": "UB1029-PPSA34149_00-0770642573571601",
+    "region": "UB",
+    "publisherId": "UB1029"
   },
   {
     "titleId": "PPSA34164_00",
@@ -153536,12 +153704,28 @@
     "publisherId": "EB2111"
   },
   {
+    "titleId": "PPSA34476_00",
+    "conceptId": 10017629,
+    "name": "My Existential Crisis",
+    "contentId": "UP5877-PPSA34476_00-0141717147241828",
+    "region": "UP",
+    "publisherId": "UP5877"
+  },
+  {
     "titleId": "PPSA34480_00",
     "conceptId": 10017633,
     "name": "Run from Duck",
     "contentId": "EB0963-PPSA34480_00-0654913540073847",
     "region": "EB",
     "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA34484_00",
+    "conceptId": 10017637,
+    "name": "Crosak",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34531_00",
