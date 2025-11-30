@@ -55715,9 +55715,9 @@
     "titleId": "PPSA12434_00",
     "conceptId": 10006883,
     "name": "Schildmaid MX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA12434_00-SCHILDMAIDMX0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA12436_00",
@@ -146123,9 +146123,9 @@
     "titleId": "PPSA31847_00",
     "conceptId": 10016180,
     "name": "Silence under the dome",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA31847_00-0523898152534258",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA31848_00",
@@ -148942,6 +148942,14 @@
     "contentId": "HP7141-PPSA32566_00-0681042153372346",
     "region": "HP",
     "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA32567_00",
+    "conceptId": 10016587,
+    "name": "PLATFORM 0",
+    "contentId": "EB0963-PPSA32567_00-0354698588913723",
+    "region": "EB",
+    "publisherId": "EB0963"
   },
   {
     "titleId": "PPSA32576_00",
@@ -151984,12 +151992,36 @@
     "publisherId": "UB0837"
   },
   {
+    "titleId": "PPSA33432_00",
+    "conceptId": 10017004,
+    "name": "Recipe of Love",
+    "contentId": "UP8281-PPSA33432_00-0968659338108858",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
     "titleId": "PPSA33433_00",
     "conceptId": 10017004,
     "name": "Recipe of Love",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8472-PPSA33433_00-0521754894496311",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA33434_00",
+    "conceptId": 10017004,
+    "name": "\u604b\u306e\u30ec\u30b7\u30d4",
+    "contentId": "JP8187-PPSA33434_00-0610635877130199",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "PPSA33435_00",
+    "conceptId": 10017004,
+    "name": "Recipe of Love",
+    "contentId": "HP8232-PPSA33435_00-0596763953830597",
+    "region": "HP",
+    "publisherId": "HP8232"
   },
   {
     "titleId": "PPSA33448_00",
