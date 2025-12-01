@@ -143048,6 +143048,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA31124_00",
+    "conceptId": 10015447,
+    "name": "The Axis Unseen",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31125_00",
     "conceptId": 10011190,
     "name": "Supermarket Owner Simulator: Business",
@@ -143835,9 +143843,9 @@
     "titleId": "PPSA31284_00",
     "conceptId": 10015789,
     "name": "Brothers in Duty \u2013 Space Brawl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31284_00-BROTHERSINDUTYNA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31285_00",
@@ -144382,6 +144390,14 @@
     "contentId": "EP3185-PPSA31432_00-0317003324660128",
     "region": "EP",
     "publisherId": "EP3185"
+  },
+  {
+    "titleId": "PPSA31434_00",
+    "conceptId": 10015901,
+    "name": "JOYN. \u00d6sterreichs SuperStreamer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31436_00",
@@ -151680,6 +151696,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33333_00",
+    "conceptId": 10016972,
+    "name": "BROK: Natal Tail, A New Christmas Special",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33337_00",
     "conceptId": 10016415,
     "name": "Good Knight's Sleep",
@@ -154027,33 +154051,33 @@
     "titleId": "PPSA34674_00",
     "conceptId": 10017772,
     "name": "Cannon Defender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8787-PPSA34674_00-0755734331209230",
+    "region": "UP",
+    "publisherId": "UP8787"
   },
   {
     "titleId": "PPSA34675_00",
     "conceptId": 10017772,
     "name": "Cannon Defender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0178-PPSA34675_00-0084266490629232",
+    "region": "EB",
+    "publisherId": "EB0178"
   },
   {
     "titleId": "PPSA34676_00",
     "conceptId": 10017772,
     "name": "Cannon Defender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8693-PPSA34676_00-0676983695079615",
+    "region": "JP",
+    "publisherId": "JP8693"
   },
   {
     "titleId": "PPSA34677_00",
     "conceptId": 10017772,
     "name": "Cannon Defender",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8737-PPSA34677_00-0427414715571882",
+    "region": "HP",
+    "publisherId": "HP8737"
   },
   {
     "titleId": "PPSA34691_00",
@@ -154107,6 +154131,22 @@
     "titleId": "PPSA34729_00",
     "conceptId": 10017779,
     "name": "Trigger Path",
+    "contentId": "HB0876-PPSA34729_00-0435158101787019",
+    "region": "HB",
+    "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA34876_00",
+    "conceptId": 10017874,
+    "name": "Carrot Smash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34877_00",
+    "conceptId": 10017874,
+    "name": "Carrot Smash",
     "contentId": null,
     "region": null,
     "publisherId": null
