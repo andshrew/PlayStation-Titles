@@ -92504,6 +92504,14 @@
     "publisherId": "UP0177"
   },
   {
+    "titleId": "PPSA20805_00",
+    "conceptId": 10010082,
+    "name": "Ghost Town",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA20807_00",
     "conceptId": 10010096,
     "name": "Ahhnalog 112",
@@ -138416,6 +138424,14 @@
     "publisherId": "EP6878"
   },
   {
+    "titleId": "PPSA30094_00",
+    "conceptId": 10012995,
+    "name": "High On Life 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3024"
+  },
+  {
     "titleId": "PPSA30095_00",
     "conceptId": 10003301,
     "name": "GigaBash",
@@ -140611,17 +140627,17 @@
     "titleId": "PPSA30523_00",
     "conceptId": 10006164,
     "name": "Red Dead Redemption",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1004-PPSA30523_00-REDEMPTION000001",
+    "region": "EP",
+    "publisherId": "EP1004"
   },
   {
     "titleId": "PPSA30525_00",
     "conceptId": 10006164,
-    "name": "Red Dead Redemption",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ec\u30c3\u30c9\u30fb\u30c7\u30c3\u30c9\u30fb\u30ea\u30c7\u30f3\u30d7\u30b7\u30e7\u30f3",
+    "contentId": "JP0230-PPSA30525_00-REDEMPTION000001",
+    "region": "JP",
+    "publisherId": "JP0230"
   },
   {
     "titleId": "PPSA30526_00",
@@ -140635,9 +140651,9 @@
     "titleId": "PPSA30528_00",
     "conceptId": 10006164,
     "name": "Red Dead Redemption",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1004-PPSA30528_00-REDEMPTION000001",
+    "region": "UP",
+    "publisherId": "UP1004"
   },
   {
     "titleId": "PPSA30529_00",
@@ -143888,6 +143904,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31327_00",
+    "conceptId": 10015829,
+    "name": "Yakuza 0 Director's Cut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31328_00",
     "conceptId": 10015831,
     "name": "Cat God Ranch",
@@ -143918,6 +143942,22 @@
     "contentId": "EP4293-PPSA31331_00-00000TRM2PS5DEMO",
     "region": "EP",
     "publisherId": "EP4293"
+  },
+  {
+    "titleId": "PPSA31333_00",
+    "conceptId": 228780,
+    "name": "Yakuza Kiwami 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31334_00",
+    "conceptId": 217751,
+    "name": "Yakuza Kiwami",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31335_00",
@@ -144395,6 +144435,14 @@
     "titleId": "PPSA31434_00",
     "conceptId": 10015901,
     "name": "JOYN. \u00d6sterreichs SuperStreamer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31435_00",
+    "conceptId": 10015902,
+    "name": "Joyn",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -146059,9 +146107,9 @@
     "titleId": "PPSA31826_00",
     "conceptId": 10016161,
     "name": "Chaos Method",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7664-PPSA31826_00-0070338268599423",
+    "region": "UP",
+    "publisherId": "UP7664"
   },
   {
     "titleId": "PPSA31828_00",
@@ -146518,6 +146566,14 @@
     "contentId": "HB1589-PPSA31924_00-CHICKENHAREATOSB",
     "region": "HB",
     "publisherId": "HB1589"
+  },
+  {
+    "titleId": "PPSA31927_00",
+    "conceptId": 10016219,
+    "name": "Big Hops",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31928_00",
@@ -147318,6 +147374,22 @@
     "contentId": "EP3111-PPSA32092_00-JANDUSOFT0000001",
     "region": "EP",
     "publisherId": "EP3111"
+  },
+  {
+    "titleId": "PPSA32098_00",
+    "conceptId": 10016307,
+    "name": "ReSetna",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32099_00",
+    "conceptId": 10016307,
+    "name": "ReSetna",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32105_00",
@@ -149266,10 +149338,10 @@
   {
     "titleId": "PPSA32625_00",
     "conceptId": 10012545,
-    "name": "MARVEL Cosmic Invasion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30de\u30fc\u30d9\u30eb \u30b3\u30ba\u30df\u30c3\u30af \u30a4\u30f3\u30d9\u30fc\u30b8\u30e7\u30f3",
+    "contentId": "JP1561-PPSA32625_00-MARVELADOTEMUPS5",
+    "region": "JP",
+    "publisherId": "JP1561"
   },
   {
     "titleId": "PPSA32632_00",
@@ -150058,10 +150130,10 @@
   {
     "titleId": "PPSA32853_00",
     "conceptId": 10016706,
-    "name": "BROK: The Brawl Bar",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BROK: The Brawl Bar \u540d\u63a2\u5075\u30d6\u30ed\u30af\u3068\u6fc0\u95d8\u306e\u9152\u5834",
+    "contentId": "EP1762-PPSA32853_00-BROKTBRAWLBARPS5",
+    "region": "EP",
+    "publisherId": "EP1762"
   },
   {
     "titleId": "PPSA32858_00",
@@ -150251,9 +150323,9 @@
     "titleId": "PPSA32896_00",
     "conceptId": 10016727,
     "name": "The Christmas Pickle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3447-PPSA32896_00-0802652713881536",
+    "region": "EP",
+    "publisherId": "EP3447"
   },
   {
     "titleId": "PPSA32897_00",
@@ -151688,6 +151760,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA33329_00",
+    "conceptId": 10016970,
+    "name": "Whoowasit?",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33331_00",
     "conceptId": 10016913,
     "name": "EA SPORTS FC\u2122 26 SHOWCASE",
@@ -151902,6 +151982,14 @@
     "contentId": "EP5645-PPSA33396_00-000CHIROGRAVITAS",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA33397_00",
+    "conceptId": 10016357,
+    "name": "Chiro Gravitas",
+    "contentId": "UP5464-PPSA33397_00-000CHIROGRAVITAS",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA33398_00",
@@ -152731,9 +152819,9 @@
     "titleId": "PPSA33835_00",
     "conceptId": 10014878,
     "name": "Dark Quest 4",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3921-PPSA33835_00-0989715718447789",
+    "region": "EP",
+    "publisherId": "EP3921"
   },
   {
     "titleId": "PPSA33836_00",
@@ -153544,6 +153632,14 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA34203_00",
+    "conceptId": 10017468,
+    "name": "Angry Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34220_00",
     "conceptId": 10017392,
     "name": "Carambole Fireworks",
@@ -154080,6 +154176,38 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA34685_00",
+    "conceptId": 10017777,
+    "name": "Apocryphoid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34686_00",
+    "conceptId": 10017777,
+    "name": "Apocryphoid",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34687_00",
+    "conceptId": 10017777,
+    "name": "Apocryphoid",
+    "contentId": "UP8553-PPSA34687_00-0831162099205929",
+    "region": "UP",
+    "publisherId": "UP8553"
+  },
+  {
+    "titleId": "PPSA34688_00",
+    "conceptId": 10017777,
+    "name": "Apocryphoid",
+    "contentId": "HP8504-PPSA34688_00-0237351877563346",
+    "region": "HP",
+    "publisherId": "HP8504"
+  },
+  {
     "titleId": "PPSA34691_00",
     "conceptId": 10015737,
     "name": "Mind Twist",
@@ -154107,25 +154235,25 @@
     "titleId": "PPSA34726_00",
     "conceptId": 10017779,
     "name": "Trigger Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA34726_00-0092095459303202",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA34727_00",
     "conceptId": 10017779,
     "name": "Trigger Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA34727_00-0921943503921923",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA34728_00",
     "conceptId": 10017779,
     "name": "Trigger Path",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA34728_00-0559571616459383",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA34729_00",
@@ -154145,6 +154273,22 @@
   },
   {
     "titleId": "PPSA34877_00",
+    "conceptId": 10017874,
+    "name": "Carrot Smash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34878_00",
+    "conceptId": 10017874,
+    "name": "Carrot Smash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34879_00",
     "conceptId": 10017874,
     "name": "Carrot Smash",
     "contentId": null,
