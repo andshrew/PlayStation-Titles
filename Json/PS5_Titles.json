@@ -105315,9 +105315,9 @@
     "titleId": "PPSA23538_00",
     "conceptId": 10011233,
     "name": "SLEEP AWAKE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8651-PPSA23538_00-SLEEPAWAKE000000",
+    "region": "UP",
+    "publisherId": "UP8651"
   },
   {
     "titleId": "PPSA23539_00",
@@ -119817,6 +119817,14 @@
   },
   {
     "titleId": "PPSA26306_00",
+    "conceptId": 10012731,
+    "name": "Tank Mechanic Simulator - Reinforced",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26307_00",
     "conceptId": 10012731,
     "name": "Tank Mechanic Simulator - Reinforced",
     "contentId": null,
@@ -143091,9 +143099,9 @@
     "titleId": "PPSA31124_00",
     "conceptId": 10015447,
     "name": "The Axis Unseen",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1607-PPSA31124_00-0888716096653988",
+    "region": "HB",
+    "publisherId": "HB1607"
   },
   {
     "titleId": "PPSA31125_00",
@@ -143587,9 +143595,9 @@
     "titleId": "PPSA31233_00",
     "conceptId": 10015772,
     "name": "Puppet Theater",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA31233_00-0171569420348653",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA31234_00",
@@ -146954,10 +146962,10 @@
   {
     "titleId": "PPSA32006_00",
     "conceptId": 10016260,
-    "name": "Sophia\u2019s Animal Clinic - Mission Wildlife Park",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Sophia\u2019s Animal Clinic \u2013 Mission Wildlife Park",
+    "contentId": "EP1629-PPSA32006_00-SOFANIHOMWPJDPS5",
+    "region": "EP",
+    "publisherId": "EP1629"
   },
   {
     "titleId": "PPSA32007_00",
@@ -147224,10 +147232,26 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32056_00",
+    "conceptId": 10008279,
+    "name": "HEXMIN",
+    "contentId": "EP5645-PPSA32056_00-0937121808338992",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA32057_00",
     "conceptId": 10008279,
     "name": "HEXMIN",
     "contentId": "EP5645-PPSA32057_00-0618856777692180",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32058_00",
+    "conceptId": 10008279,
+    "name": "HEXMIN",
+    "contentId": "EP5645-PPSA32058_00-0586680438550284",
     "region": "EP",
     "publisherId": "EP5645"
   },
@@ -148419,9 +148443,9 @@
     "titleId": "PPSA32386_00",
     "conceptId": 10016468,
     "name": "Dungeons and Ducklings",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA32386_00-0959221083739492",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA32391_00",
@@ -148992,12 +149016,28 @@
     "publisherId": "UP8616"
   },
   {
+    "titleId": "PPSA32540_00",
+    "conceptId": 10016561,
+    "name": "Caput Mortum",
+    "contentId": "UB0683-PPSA32540_00-0142963766933020",
+    "region": "UB",
+    "publisherId": "UB0683"
+  },
+  {
     "titleId": "PPSA32541_00",
     "conceptId": 10016562,
     "name": "Pixicharm - Cavrielle",
     "contentId": "EP1612-PPSA32541_00-CAVRIELLEGAME000",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA32542_00",
+    "conceptId": 10016563,
+    "name": "Look Mum No Computer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32547_00",
@@ -149086,6 +149126,14 @@
     "contentId": "EB0963-PPSA32567_00-0354698588913723",
     "region": "EB",
     "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA32569_00",
+    "conceptId": 10016534,
+    "name": "Running Fable Petite Party",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32576_00",
@@ -150070,6 +150118,14 @@
     "contentId": "JP7323-PPSA32831_00-0841280496119976",
     "region": "JP",
     "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA32832_00",
+    "conceptId": 10016702,
+    "name": "Zumba - Soccer Marble League",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32837_00",
@@ -151496,6 +151552,14 @@
     "publisherId": "UB0487"
   },
   {
+    "titleId": "PPSA33215_00",
+    "conceptId": 10016902,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30d0\u30df\u30e5\u30fc\u30c0\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
+    "contentId": "JP0571-PPSA33215_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA33219_00",
     "conceptId": 10016904,
     "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30ae\u30e3\u30e9\u30af\u30c6\u30a3\u30c3\u30af\u30a6\u30a9\u30fc\u30ea\u30a2\u30fc\u30ba",
@@ -152299,17 +152363,17 @@
     "titleId": "PPSA33477_00",
     "conceptId": 10017020,
     "name": "DETECTIVE - Rainy Night",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3252-PPSA33477_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
   },
   {
     "titleId": "PPSA33478_00",
     "conceptId": 10017020,
     "name": "DETECTIVE - Rainy Night",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3111-PPSA33478_00-JANDUSOFT0000001",
+    "region": "EP",
+    "publisherId": "EP3111"
   },
   {
     "titleId": "PPSA33484_00",
@@ -152694,6 +152758,14 @@
     "contentId": "HB0876-PPSA33684_00-0990810600565300",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA33746_00",
+    "conceptId": 10016938,
+    "name": "JellyCar Worlds",
+    "contentId": "EP6097-PPSA33746_00-0464463379506793",
+    "region": "EP",
+    "publisherId": "EP6097"
   },
   {
     "titleId": "PPSA33751_00",
@@ -153379,33 +153451,33 @@
     "titleId": "PPSA34065_00",
     "conceptId": 10017373,
     "name": "Quick Whiskers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA34065_00-0200813538393314",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA34066_00",
     "conceptId": 10017373,
     "name": "Quick Whiskers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA34066_00-0165871827211034",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA34067_00",
     "conceptId": 10017373,
     "name": "Quick Whiskers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA34067_00-0525548918219457",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA34068_00",
     "conceptId": 10017373,
     "name": "Quick Whiskers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA34068_00-0292326621531243",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA34071_00",
@@ -153603,6 +153675,14 @@
     "titleId": "PPSA34132_00",
     "conceptId": 10017421,
     "name": "Battlefield\u2122 REDSEC",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34147_00",
+    "conceptId": 10017431,
+    "name": "M.A.U.S",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -153856,6 +153936,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34302_00",
+    "conceptId": 10017523,
+    "name": "Cute Bonfire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34303_00",
+    "conceptId": 10017523,
+    "name": "Cute Bonfire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34304_00",
     "conceptId": 10017523,
     "name": "Cute Bonfire",
@@ -154096,6 +154192,38 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA34440_00",
+    "conceptId": 10017601,
+    "name": "ShapeShift Rush",
+    "contentId": "UB0487-PPSA34440_00-0965832379393984",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA34441_00",
+    "conceptId": 10017601,
+    "name": "ShapeShift Rush",
+    "contentId": "UB0487-PPSA34441_00-0479870593358105",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA34442_00",
+    "conceptId": 10017601,
+    "name": "ShapeShift Rush",
+    "contentId": "UB0487-PPSA34442_00-0792667260121151",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA34443_00",
+    "conceptId": 10017601,
+    "name": "ShapeShift Rush",
+    "contentId": "UB0487-PPSA34443_00-0760580207028388",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
     "titleId": "PPSA34444_00",
     "conceptId": 10017587,
     "name": "SEWER QUEST",
@@ -154160,6 +154288,14 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA34510_00",
+    "conceptId": 10017666,
+    "name": "Anime Christmas Uni",
+    "contentId": "EP5506-PPSA34510_00-CHRISTMASUNIPS50",
+    "region": "EP",
+    "publisherId": "EP5506"
+  },
+  {
     "titleId": "PPSA34522_00",
     "conceptId": 10017674,
     "name": "Cute Astro",
@@ -154168,7 +154304,23 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34523_00",
+    "conceptId": 10017674,
+    "name": "Cute Astro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34524_00",
+    "conceptId": 10017674,
+    "name": "Cute Astro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34525_00",
     "conceptId": 10017674,
     "name": "Cute Astro",
     "contentId": null,
@@ -154294,6 +154446,14 @@
     "contentId": "HP8737-PPSA34677_00-0427414715571882",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA34678_00",
+    "conceptId": 10017774,
+    "name": "Suika Sprunki Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34685_00",
