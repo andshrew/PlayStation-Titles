@@ -101592,6 +101592,14 @@
     "publisherId": "UP3535"
   },
   {
+    "titleId": "PPSA22707_00",
+    "conceptId": 10010852,
+    "name": "Lonely Mountains: Snow Riders",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22717_00",
     "conceptId": 10010861,
     "name": "Campfire of Oasis",
@@ -115688,6 +115696,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25502_00",
+    "conceptId": 10012247,
+    "name": "Football Striker 2025 - DEMO",
+    "contentId": "UP6664-PPSA25502_00-0119586601630004",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
     "titleId": "PPSA25505_00",
     "conceptId": 10012248,
     "name": "Bust A Block 2",
@@ -118400,6 +118416,22 @@
     "publisherId": "EP6664"
   },
   {
+    "titleId": "PPSA26030_00",
+    "conceptId": 10012552,
+    "name": "Christmas Gift Catcher - DEMO",
+    "contentId": "UP6664-PPSA26030_00-0456300967937892",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA26031_00",
+    "conceptId": 10012552,
+    "name": "Christmas Gift Catcher - DEMO",
+    "contentId": "JP6595-PPSA26031_00-0527565595893676",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
     "titleId": "PPSA26032_00",
     "conceptId": 10012552,
     "name": "Christmas Gift Catcher - DEMO",
@@ -118438,6 +118470,22 @@
     "contentId": "HP6661-PPSA26036_00-0056644262610109",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA26037_00",
+    "conceptId": 10012553,
+    "name": "Christmas Tree Decorating Simulator - DEMO",
+    "contentId": "EP6664-PPSA26037_00-0939456781087862",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA26038_00",
+    "conceptId": 10012553,
+    "name": "Christmas Tree Decorating Simulator - DEMO",
+    "contentId": "UP6664-PPSA26038_00-0600199524228058",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA26039_00",
@@ -119899,9 +119947,9 @@
     "titleId": "PPSA26306_00",
     "conceptId": 10012731,
     "name": "Tank Mechanic Simulator - Reinforced",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1564-PPSA26306_00-0957456420755656",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA26307_00",
@@ -125764,6 +125812,22 @@
     "conceptId": 10013404,
     "name": "The Jumping Orange",
     "contentId": "HP6661-PPSA27399_00-0043733161153575",
+    "region": "HP",
+    "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA27400_00",
+    "conceptId": 10013404,
+    "name": "The Jumping Orange - DEMO",
+    "contentId": "EP6664-PPSA27400_00-0839211510109275",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA27403_00",
+    "conceptId": 10013404,
+    "name": "The Jumping Orange - DEMO",
+    "contentId": "HP6661-PPSA27403_00-0193960306441025",
     "region": "HP",
     "publisherId": "HP6661"
   },
@@ -132728,6 +132792,14 @@
     "publisherId": "EP0771"
   },
   {
+    "titleId": "PPSA28769_00",
+    "conceptId": 10014085,
+    "name": "Cairn",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28771_00",
     "conceptId": 10014364,
     "name": "Fruitbus",
@@ -134166,6 +134238,14 @@
     "contentId": "EP5645-PPSA29123_00-0636053926247068",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA29124_00",
+    "conceptId": 10014567,
+    "name": "Hannah VCR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29125_00",
@@ -153024,12 +153104,20 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA33789_00",
+    "conceptId": 10017073,
+    "name": "Oasis Invasion",
+    "contentId": "UP5464-PPSA33789_00-000OASISINVASION",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA33790_00",
     "conceptId": 10017073,
     "name": "Oasis Invasion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA33790_00-000OASISINVASION",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33791_00",
@@ -154875,6 +154963,30 @@
     "titleId": "PPSA34879_00",
     "conceptId": 10017874,
     "name": "Carrot Smash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34880_00",
+    "conceptId": 10017875,
+    "name": "BEAR ESCAPE MISSION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34881_00",
+    "conceptId": 10017875,
+    "name": "BEAR ESCAPE MISSION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34882_00",
+    "conceptId": 10017875,
+    "name": "BEAR ESCAPE MISSION",
     "contentId": null,
     "region": null,
     "publisherId": null
