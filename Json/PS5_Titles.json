@@ -91928,6 +91928,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA20661_00",
+    "conceptId": 10010037,
+    "name": "MIO: Memories in Orbit",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4133"
+  },
+  {
+    "titleId": "PPSA20662_00",
+    "conceptId": 10010037,
+    "name": "MIO: Memories in Orbit",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4133"
+  },
+  {
     "titleId": "PPSA20663_00",
     "conceptId": 10010043,
     "name": "\u307e\u3082\u306e\u308dKAI\uff01\u3000\uff5e\u307e\u3082\u308b\u30af\u30f3\u306f\u546a\u308f\u308c\u3066\u3057\u307e\u3063\u305f\uff01\uff5e",
@@ -125824,6 +125840,22 @@
     "publisherId": "EP6664"
   },
   {
+    "titleId": "PPSA27401_00",
+    "conceptId": 10013404,
+    "name": "The Jumping Orange - DEMO",
+    "contentId": "UP6664-PPSA27401_00-0592530112012728",
+    "region": "UP",
+    "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA27402_00",
+    "conceptId": 10013404,
+    "name": "The Jumping Orange - DEMO",
+    "contentId": "JP6595-PPSA27402_00-0659854275343831",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
     "titleId": "PPSA27403_00",
     "conceptId": 10013404,
     "name": "The Jumping Orange - DEMO",
@@ -144138,10 +144170,10 @@
   {
     "titleId": "PPSA31327_00",
     "conceptId": 10015829,
-    "name": "Yakuza 0 Director's Cut",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u9f8d\u304c\u5982\u304f\uff10 \u8a93\u3044\u306e\u5834\u6240 Director's Cut",
+    "contentId": "JP0177-PPSA31327_00-MAINGAME00000000",
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA31328_00",
@@ -144178,18 +144210,18 @@
   {
     "titleId": "PPSA31333_00",
     "conceptId": 228780,
-    "name": "Yakuza Kiwami 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u9f8d\u304c\u5982\u304f \u6975\uff12",
+    "contentId": "JP0177-PPSA31333_00-MAINGAME00000000",
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA31334_00",
     "conceptId": 217751,
-    "name": "Yakuza Kiwami",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u9f8d\u304c\u5982\u304f \u6975",
+    "contentId": "JP0177-PPSA31334_00-MAINGAME00000000",
+    "region": "JP",
+    "publisherId": "JP0177"
   },
   {
     "titleId": "PPSA31335_00",
@@ -154939,9 +154971,9 @@
     "titleId": "PPSA34876_00",
     "conceptId": 10017874,
     "name": "Carrot Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA34876_00-0889746609347442",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA34877_00",
@@ -154985,6 +155017,14 @@
   },
   {
     "titleId": "PPSA34882_00",
+    "conceptId": 10017875,
+    "name": "BEAR ESCAPE MISSION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34883_00",
     "conceptId": 10017875,
     "name": "BEAR ESCAPE MISSION",
     "contentId": null,
