@@ -115706,10 +115706,10 @@
   {
     "titleId": "PPSA25501_00",
     "conceptId": 10012247,
-    "name": "Football Striker 2025 - PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Football Striker 2025 - DEMO",
+    "contentId": "EP6664-PPSA25501_00-0823579804701406",
+    "region": "EP",
+    "publisherId": "EP6664"
   },
   {
     "titleId": "PPSA25502_00",
@@ -115718,6 +115718,22 @@
     "contentId": "UP6664-PPSA25502_00-0119586601630004",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA25503_00",
+    "conceptId": 10012247,
+    "name": "Football Striker 2025 - DEMO",
+    "contentId": "JP6595-PPSA25503_00-0216939840932363",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA25504_00",
+    "conceptId": 10012247,
+    "name": "Football Striker 2025 - DEMO",
+    "contentId": "HP6661-PPSA25504_00-0725211110669376",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA25505_00",
@@ -122014,6 +122030,14 @@
     "contentId": "EP8140-PPSA26681_00-TAPXSNAPBREAKPS5",
     "region": "EP",
     "publisherId": "EP8140"
+  },
+  {
+    "titleId": "PPSA26683_00",
+    "conceptId": 235115,
+    "name": "Death Match Love Comedy!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26684_00",
@@ -150048,6 +150072,14 @@
     "publisherId": "JP7921"
   },
   {
+    "titleId": "PPSA32717_00",
+    "conceptId": 10016650,
+    "name": "Icebound Secrets: The Frostwood Bane",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32725_00",
     "conceptId": 10011463,
     "name": "Microsoft Flight Simulator 2024",
@@ -152195,9 +152227,9 @@
     "titleId": "PPSA33333_00",
     "conceptId": 10016972,
     "name": "BROK: Natal Tail, A New Christmas Special",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1762-PPSA33333_00-BROKNATALTAILPS5",
+    "region": "EP",
+    "publisherId": "EP1762"
   },
   {
     "titleId": "PPSA33337_00",
@@ -152603,17 +152635,17 @@
     "titleId": "PPSA33456_00",
     "conceptId": 10017010,
     "name": "She's Leaving",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP3631-PPSA33456_00-0202322707406611",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA33457_00",
     "conceptId": 10017010,
     "name": "She's Leaving",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3536-PPSA33457_00-0058945863258506",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA33463_00",
@@ -153112,6 +153144,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA33765_00",
+    "conceptId": 10017192,
+    "name": "Hidden Cats in Istanbul",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33767_00",
     "conceptId": 10017176,
     "name": "Secrets of Blackrock Manor - Escape Room",
@@ -153126,6 +153166,14 @@
     "contentId": "EP8062-PPSA33780_00-0482786461585695",
     "region": "EP",
     "publisherId": "EP8062"
+  },
+  {
+    "titleId": "PPSA33787_00",
+    "conceptId": 10015948,
+    "name": "Galacticon",
+    "contentId": "HP0980-PPSA33787_00-0856000757631990",
+    "region": "HP",
+    "publisherId": "HP0980"
   },
   {
     "titleId": "PPSA33788_00",
@@ -153779,9 +153827,9 @@
     "titleId": "PPSA34051_00",
     "conceptId": 10017357,
     "name": "Delivery of Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA34051_00-0142296782673636",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA34054_00",
@@ -154032,6 +154080,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34146_00",
+    "conceptId": 10017430,
+    "name": "Pixel Puzzles CHRISTMAS Jigsaws",
+    "contentId": "EB2067-PPSA34146_00-0672672969539251",
+    "region": "EB",
+    "publisherId": "EB2067"
+  },
+  {
     "titleId": "PPSA34147_00",
     "conceptId": 10017431,
     "name": "M.A.U.S",
@@ -154147,6 +154203,22 @@
     "titleId": "PPSA34231_00",
     "conceptId": 10015370,
     "name": "Invincible VS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34244_00",
+    "conceptId": 234870,
+    "name": "Asdivine Kamura",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34245_00",
+    "conceptId": 234870,
+    "name": "Asdivine Kamura",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -154542,6 +154614,22 @@
     "contentId": "HB0876-PPSA34408_00-0102991253396776",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA34409_00",
+    "conceptId": 10017576,
+    "name": "Paws and Clean Japan",
+    "contentId": "UB0796-PPSA34409_00-0630752175605058",
+    "region": "UB",
+    "publisherId": "UB0796"
+  },
+  {
+    "titleId": "PPSA34435_00",
+    "conceptId": 10016744,
+    "name": "Cassette Boy",
+    "contentId": "EP3948-PPSA34435_00-0033222359696322",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA34440_00",
@@ -154968,6 +155056,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34875_00",
+    "conceptId": 10011065,
+    "name": "Cloudberry Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34876_00",
     "conceptId": 10017874,
     "name": "Carrot Smash",
@@ -154979,25 +155075,25 @@
     "titleId": "PPSA34877_00",
     "conceptId": 10017874,
     "name": "Carrot Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA34877_00-0298672737795316",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA34878_00",
     "conceptId": 10017874,
     "name": "Carrot Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA34878_00-0559186580560655",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA34879_00",
     "conceptId": 10017874,
     "name": "Carrot Smash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA34879_00-0246824269144320",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA34880_00",
@@ -155027,6 +155123,14 @@
     "titleId": "PPSA34883_00",
     "conceptId": 10017875,
     "name": "BEAR ESCAPE MISSION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34898_00",
+    "conceptId": 10017882,
+    "name": "Fatal Slash",
     "contentId": null,
     "region": null,
     "publisherId": null
