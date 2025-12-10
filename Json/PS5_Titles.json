@@ -94547,9 +94547,9 @@
     "titleId": "PPSA21262_00",
     "conceptId": 10009766,
     "name": "UNBEATABLE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3639-PPSA21262_00-0632996973596833",
+    "region": "UP",
+    "publisherId": "UP3639"
   },
   {
     "titleId": "PPSA21264_00",
@@ -98526,6 +98526,14 @@
     "contentId": "JP6412-PPSA22074_00-0076645834454820",
     "region": "JP",
     "publisherId": "JP6412"
+  },
+  {
+    "titleId": "PPSA22094_00",
+    "conceptId": 10010621,
+    "name": "Showgunners Platinum Edition",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4713"
   },
   {
     "titleId": "PPSA22100_00",
@@ -106704,6 +106712,14 @@
     "publisherId": "EP6827"
   },
   {
+    "titleId": "PPSA23827_00",
+    "conceptId": 10011065,
+    "name": "Cloudberry Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23828_00",
     "conceptId": 10011417,
     "name": "Dude, Where Is My Beer?",
@@ -107370,8 +107386,8 @@
   {
     "titleId": "PPSA23943_00",
     "conceptId": 10011463,
-    "name": "Microsoft Flight Simulator 2024- Standard Edition",
-    "contentId": null,
+    "name": "Microsoft Flight Simulator 2024",
+    "contentId": "UP6312-PPSA23943_00-FLIGHTSIM2024XXX",
     "region": "UP",
     "publisherId": "UP6312"
   },
@@ -116584,6 +116600,14 @@
     "publisherId": "EP5864"
   },
   {
+    "titleId": "PPSA25659_00",
+    "conceptId": 10011260,
+    "name": "Ink Inside",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25661_00",
     "conceptId": 10012329,
     "name": "Deliver At All Costs",
@@ -122006,6 +122030,14 @@
     "contentId": "UP9000-PPSA26676_00-MIDNIGHTMURDERCL",
     "region": "UP",
     "publisherId": "UP9000"
+  },
+  {
+    "titleId": "PPSA26677_00",
+    "conceptId": 10010244,
+    "name": "Rune Factory: Guardians of Azuma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26679_00",
@@ -133003,9 +133035,9 @@
     "titleId": "PPSA28801_00",
     "conceptId": 10014385,
     "name": "Skate Story",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3643-PPSA28801_00-1234567891234567",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA28802_00",
@@ -133246,6 +133278,22 @@
     "contentId": "EP0546-PPSA28860_00-HANNAHQUBYTPS5EU",
     "region": "EP",
     "publisherId": "EP0546"
+  },
+  {
+    "titleId": "PPSA28866_00",
+    "conceptId": 10014424,
+    "name": "I Am Future: Cozy Apocalypse Survival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA28867_00",
+    "conceptId": 10014424,
+    "name": "I Am Future: Cozy Apocalypse Survival",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28872_00",
@@ -136459,9 +136507,9 @@
     "titleId": "PPSA29594_00",
     "conceptId": 10014803,
     "name": "Milano's Odd Job Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1023-PPSA29594_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1023"
   },
   {
     "titleId": "PPSA29597_00",
@@ -141082,10 +141130,10 @@
   {
     "titleId": "PPSA30552_00",
     "conceptId": 10015382,
-    "name": "A Game About Digging A Hole\u2122",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "A Game About Digging A Hole",
+    "contentId": "EP5049-PPSA30552_00-DIGGINGGAME00000",
+    "region": "EP",
+    "publisherId": "EP5049"
   },
   {
     "titleId": "PPSA30558_00",
@@ -146539,9 +146587,9 @@
     "titleId": "PPSA31852_00",
     "conceptId": 10016181,
     "name": "Blue notebook",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA31852_00-0927368704586718",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA31853_00",
@@ -149104,6 +149152,30 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32466_00",
+    "conceptId": 10011988,
+    "name": "Reflector satellites",
+    "contentId": "EP5645-PPSA32466_00-000000REFLECTORS",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32468_00",
+    "conceptId": 10011988,
+    "name": "Reflector satellites",
+    "contentId": "JP5299-PPSA32468_00-000000REFLECTORS",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA32469_00",
+    "conceptId": 10011988,
+    "name": "Reflector satellites",
+    "contentId": "HP5361-PPSA32469_00-000000REFLECTORS",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA32473_00",
     "conceptId": 10016517,
     "name": "Zumba - The Lost Marble Island",
@@ -149438,6 +149510,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA32573_00",
+    "conceptId": 10013675,
+    "name": "Wylde Flowers",
+    "contentId": "UB1463-PPSA32573_00-0859816365253723",
+    "region": "UB",
+    "publisherId": "UB1463"
   },
   {
     "titleId": "PPSA32576_00",
@@ -150016,6 +150096,14 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA32691_00",
+    "conceptId": 10016627,
+    "name": "Death Horizon Reloaded",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32692_00",
     "conceptId": 10016631,
     "name": "Torii",
@@ -150075,9 +150163,9 @@
     "titleId": "PPSA32717_00",
     "conceptId": 10016650,
     "name": "Icebound Secrets: The Frostwood Bane",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0429-PPSA32717_00-0309146415556657",
+    "region": "UB",
+    "publisherId": "UB0429"
   },
   {
     "titleId": "PPSA32725_00",
@@ -151059,33 +151147,33 @@
     "titleId": "PPSA32986_00",
     "conceptId": 10016769,
     "name": "Coinfields",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32986_00-COINFIELDS0000NA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32988_00",
     "conceptId": 10016769,
     "name": "Coinfields",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32988_00-COINFIELDS0000EU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32989_00",
     "conceptId": 10016769,
     "name": "Coinfields",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32989_00-COINFIELDS0000JP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32990_00",
     "conceptId": 10016769,
     "name": "Coinfields",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32990_00-COINFIELDS0000AS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32993_00",
@@ -152619,17 +152707,17 @@
     "titleId": "PPSA33453_00",
     "conceptId": 10017010,
     "name": "She's Leaving",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3446-PPSA33453_00-0327665621076894",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA33454_00",
     "conceptId": 10017010,
     "name": "She's Leaving",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3589-PPSA33454_00-0022109026811762",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA33456_00",
@@ -153166,6 +153254,14 @@
     "contentId": "EP8062-PPSA33780_00-0482786461585695",
     "region": "EP",
     "publisherId": "EP8062"
+  },
+  {
+    "titleId": "PPSA33786_00",
+    "conceptId": 10015948,
+    "name": "Galacticon",
+    "contentId": "JP1134-PPSA33786_00-0227571937185907",
+    "region": "JP",
+    "publisherId": "JP1134"
   },
   {
     "titleId": "PPSA33787_00",
@@ -153803,25 +153899,25 @@
     "titleId": "PPSA34048_00",
     "conceptId": 10017357,
     "name": "Delivery of Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA34048_00-0819251557216184",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA34049_00",
     "conceptId": 10017357,
     "name": "Delivery of Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA34049_00-0319960193321440",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA34050_00",
     "conceptId": 10017357,
     "name": "Delivery of Us",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA34050_00-0206028160292488",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA34051_00",
@@ -154040,6 +154136,14 @@
     "publisherId": "UB0190"
   },
   {
+    "titleId": "PPSA34118_00",
+    "conceptId": 10017409,
+    "name": "Tiny Biomes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34124_00",
     "conceptId": 10017406,
     "name": "Tidebreaker",
@@ -154184,6 +154288,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34210_00",
+    "conceptId": 10017475,
+    "name": "Direction Quad",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34211_00",
+    "conceptId": 10017476,
+    "name": "Hextreme Void",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34220_00",
     "conceptId": 10017392,
     "name": "Carambole Fireworks",
@@ -154203,6 +154323,14 @@
     "titleId": "PPSA34231_00",
     "conceptId": 10015370,
     "name": "Invincible VS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34235_00",
+    "conceptId": 10017488,
+    "name": "Too Many Santas!",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -154624,6 +154752,14 @@
     "publisherId": "UB0796"
   },
   {
+    "titleId": "PPSA34417_00",
+    "conceptId": 10017583,
+    "name": "Lost Lands 4: The Wanderer",
+    "contentId": "UB0190-PPSA34417_00-0913640984183370",
+    "region": "UB",
+    "publisherId": "UB0190"
+  },
+  {
     "titleId": "PPSA34435_00",
     "conceptId": 10016744,
     "name": "Cassette Boy",
@@ -154728,6 +154864,14 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA34495_00",
+    "conceptId": 10017652,
+    "name": "Tales Of Morphos",
+    "contentId": "EB0963-PPSA34495_00-0462908302427276",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA34506_00",
     "conceptId": 10017661,
     "name": "Mini Golf Quest",
@@ -154742,6 +154886,30 @@
     "contentId": "EP5506-PPSA34510_00-CHRISTMASUNIPS50",
     "region": "EP",
     "publisherId": "EP5506"
+  },
+  {
+    "titleId": "PPSA34518_00",
+    "conceptId": 10017673,
+    "name": "Capy Spa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34519_00",
+    "conceptId": 10017673,
+    "name": "Capy Spa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34521_00",
+    "conceptId": 10017673,
+    "name": "Capy Spa",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34522_00",
@@ -154771,6 +154939,30 @@
     "titleId": "PPSA34525_00",
     "conceptId": 10017674,
     "name": "Cute Astro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34526_00",
+    "conceptId": 10017675,
+    "name": "Hummingbird Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34527_00",
+    "conceptId": 10017675,
+    "name": "Hummingbird Garden",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34528_00",
+    "conceptId": 10017675,
+    "name": "Hummingbird Garden",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -154811,6 +155003,38 @@
     "titleId": "PPSA34535_00",
     "conceptId": 10017677,
     "name": "Magic Sheep",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34537_00",
+    "conceptId": 10017678,
+    "name": "Meowgic Mix",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34538_00",
+    "conceptId": 10017678,
+    "name": "Meowgic Mix",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34539_00",
+    "conceptId": 10017678,
+    "name": "Meowgic Mix",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34540_00",
+    "conceptId": 10017678,
+    "name": "Meowgic Mix",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -155043,6 +155267,30 @@
     "titleId": "PPSA34730_00",
     "conceptId": 10017797,
     "name": "Block Cascade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34765_00",
+    "conceptId": 10017813,
+    "name": "Pop Slinger Vol. 2 - Loveless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34766_00",
+    "conceptId": 10017813,
+    "name": "Pop Slinger Vol. 2 - Loveless",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34767_00",
+    "conceptId": 10017813,
+    "name": "Pop Slinger Vol. 2 - Loveless",
     "contentId": null,
     "region": null,
     "publisherId": null
