@@ -31920,6 +31920,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA07633_00",
+    "conceptId": 10005069,
+    "name": "SAROS",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP9000"
+  },
+  {
     "titleId": "PPSA07635_00",
     "conceptId": 10005072,
     "name": "C-SMASH VRS",
@@ -81528,6 +81536,14 @@
     "publisherId": "UP0700"
   },
   {
+    "titleId": "PPSA18538_00",
+    "conceptId": 10009205,
+    "name": "Arknights: Endfield(Free to Play)Pre-Order Bundle",
+    "contentId": null,
+    "region": "UB",
+    "publisherId": "UB0018"
+  },
+  {
     "titleId": "PPSA18539_00",
     "conceptId": 10008286,
     "name": "ARK Survival Ascended",
@@ -103120,6 +103136,14 @@
     "publisherId": "EB0629"
   },
   {
+    "titleId": "PPSA23060_00",
+    "conceptId": 10002684,
+    "name": "ASTRO BOT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA23063_00",
     "conceptId": 10003429,
     "name": "Shujinkou Demo",
@@ -117691,9 +117715,9 @@
     "titleId": "PPSA25872_00",
     "conceptId": 10012469,
     "name": "Terminator 2D: NO FATE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4060-PPSA25872_00-T2DNFMAINGAMEPS5",
+    "region": "EP",
+    "publisherId": "EP4060"
   },
   {
     "titleId": "PPSA25873_00",
@@ -132976,6 +133000,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA28764_00",
+    "conceptId": 10014022,
+    "name": "Drug Dealer Simulator 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28768_00",
     "conceptId": 10014085,
     "name": "Cairn Demo",
@@ -133790,6 +133822,14 @@
     "contentId": "EP5645-PPSA28945_00-0657620486121414",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA28946_00",
+    "conceptId": 10014470,
+    "name": "Arcade Room Simulator 2026",
+    "contentId": "UB1029-PPSA28946_00-0691571555436233",
+    "region": "UB",
+    "publisherId": "UB1029"
   },
   {
     "titleId": "PPSA28950_00",
@@ -134859,9 +134899,9 @@
     "titleId": "PPSA29218_00",
     "conceptId": 10014644,
     "name": "Floaty Rescue",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA29218_00-0655121101222234",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA29219_00",
@@ -142222,6 +142262,14 @@
     "contentId": "UB0733-PPSA30820_00-0623135692477115",
     "region": "UB",
     "publisherId": "UB0733"
+  },
+  {
+    "titleId": "PPSA30821_00",
+    "conceptId": 10015554,
+    "name": "Zero Caliber VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30824_00",
@@ -154992,6 +155040,14 @@
     "publisherId": "UB1511"
   },
   {
+    "titleId": "PPSA34368_00",
+    "conceptId": 10012400,
+    "name": "Contraband Police Demo",
+    "contentId": "UP1564-PPSA34368_00-CLABSCBP20251028",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA34369_00",
     "conceptId": 10012400,
     "name": "Contraband Police Demo",
@@ -155260,6 +155316,14 @@
     "conceptId": 10017633,
     "name": "Run from Duck",
     "contentId": "EB0963-PPSA34480_00-0654913540073847",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
+    "titleId": "PPSA34483_00",
+    "conceptId": 10017636,
+    "name": "Backrooms: Duck Escape",
+    "contentId": "EB0963-PPSA34483_00-0661229337237208",
     "region": "EB",
     "publisherId": "EB0963"
   },
@@ -155827,6 +155891,22 @@
     "titleId": "PPSA34898_00",
     "conceptId": 10017882,
     "name": "Fatal Slash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34986_00",
+    "conceptId": 10017946,
+    "name": "Mementos: Lost Things",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34987_00",
+    "conceptId": 10017946,
+    "name": "Mementos: Lost Things",
     "contentId": null,
     "region": null,
     "publisherId": null
