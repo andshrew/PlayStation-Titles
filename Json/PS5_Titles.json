@@ -73680,6 +73680,14 @@
     "publisherId": "EP5649"
   },
   {
+    "titleId": "PPSA16833_00",
+    "conceptId": 10008537,
+    "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1018"
+  },
+  {
     "titleId": "PPSA16835_00",
     "conceptId": 10008444,
     "name": "Alaskan Road Truckers",
@@ -111403,17 +111411,17 @@
     "titleId": "PPSA24668_00",
     "conceptId": 10011311,
     "name": "Military Logistics Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA24668_00-0348348785367089",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA24669_00",
     "conceptId": 10011311,
     "name": "Military Logistics Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2865-PPSA24669_00-0629186324981783",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA24670_00",
@@ -118862,6 +118870,14 @@
     "contentId": "EB1420-PPSA26091_00-0473475868369028",
     "region": "EB",
     "publisherId": "EB1420"
+  },
+  {
+    "titleId": "PPSA26092_00",
+    "conceptId": 10012598,
+    "name": "Screamer",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4356"
   },
   {
     "titleId": "PPSA26093_00",
@@ -129712,6 +129728,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA28093_00",
+    "conceptId": 10013930,
+    "name": "Jelly & Toast",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28094_00",
     "conceptId": 10013931,
     "name": "Airborne Justice",
@@ -137978,10 +138002,10 @@
   {
     "titleId": "PPSA29866_00",
     "conceptId": 10015010,
-    "name": "Tomba! 2 Special Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c8\u30f3\u30d0! \u30b6\u30fb\u30ef\u30a4\u30eb\u30c9\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc Special Edition",
+    "contentId": "UP6893-PPSA29866_00-0481747241856795",
+    "region": "UP",
+    "publisherId": "UP6893"
   },
   {
     "titleId": "PPSA29869_00",
@@ -145406,6 +145430,22 @@
     "contentId": "EB0629-PPSA31539_00-XXXXXXXXXXXXXXXX",
     "region": "EB",
     "publisherId": "EB0629"
+  },
+  {
+    "titleId": "PPSA31540_00",
+    "conceptId": 10015957,
+    "name": "Cazzarion: Raccoon Valley",
+    "contentId": "JB0377-PPSA31540_00-XXXXXXXXXXXXXXXX",
+    "region": "JB",
+    "publisherId": "JB0377"
+  },
+  {
+    "titleId": "PPSA31541_00",
+    "conceptId": 10015957,
+    "name": "Cazzarion: Raccoon Valley",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31542_00",
@@ -153075,9 +153115,9 @@
     "titleId": "PPSA33460_00",
     "conceptId": 10017012,
     "name": "Cozy Jigsaw Puzzles",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB2067-PPSA33460_00-0045977266070217",
+    "region": "EB",
+    "publisherId": "EB2067"
   },
   {
     "titleId": "PPSA33463_00",
@@ -155656,6 +155696,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34683_00",
+    "conceptId": 10015332,
+    "name": "Eros Zone: Sensual Dawn",
+    "contentId": "HB1339-PPSA34683_00-0658692299955122",
+    "region": "HB",
+    "publisherId": "HB1339"
+  },
+  {
     "titleId": "PPSA34685_00",
     "conceptId": 10017777,
     "name": "Apocryphoid",
@@ -155875,9 +155923,9 @@
     "titleId": "PPSA34882_00",
     "conceptId": 10017875,
     "name": "BEAR ESCAPE MISSION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA34882_00-0419794047287624",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA34883_00",
@@ -155910,6 +155958,22 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA35015_00",
+    "conceptId": 10017908,
+    "name": "Pizza No Pizza",
+    "contentId": "EP7938-PPSA35015_00-0127691774599358",
+    "region": "EP",
+    "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA35016_00",
+    "conceptId": 10017908,
+    "name": "Pizza No Pizza",
+    "contentId": "UP7940-PPSA35016_00-0603902815586592",
+    "region": "UP",
+    "publisherId": "UP7940"
   },
   {
     "titleId": "PPSA35017_00",
