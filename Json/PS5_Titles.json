@@ -5224,6 +5224,14 @@
     "publisherId": "EP4293"
   },
   {
+    "titleId": "PPSA02530_00",
+    "conceptId": 10002075,
+    "name": "PRAGMATA",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
     "titleId": "PPSA02532_00",
     "conceptId": 10000185,
     "name": "DEATHLOOP",
@@ -145443,9 +145451,9 @@
     "titleId": "PPSA31541_00",
     "conceptId": 10015957,
     "name": "Cazzarion: Raccoon Valley",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0405-PPSA31541_00-XXXXXXXXXXXXXXXX",
+    "region": "HB",
+    "publisherId": "HB0405"
   },
   {
     "titleId": "PPSA31542_00",
@@ -146923,6 +146931,30 @@
     "titleId": "PPSA31860_00",
     "conceptId": 10010925,
     "name": "Ys vs. Trails in the Sky: Alternative Saga",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31861_00",
+    "conceptId": 10006527,
+    "name": "Trenches",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31862_00",
+    "conceptId": 10006527,
+    "name": "Trenches",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA31863_00",
+    "conceptId": 10006527,
+    "name": "Trenches",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -148414,6 +148446,14 @@
     "contentId": "EP2627-PPSA32176_00-OUAJOST000000000",
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA32177_00",
+    "conceptId": 10016348,
+    "name": "Beach Invasion 1915 - Gallipoli",
+    "contentId": "UB0165-PPSA32177_00-0522297822001353",
+    "region": "UB",
+    "publisherId": "UB0165"
   },
   {
     "titleId": "PPSA32178_00",
@@ -153424,6 +153464,14 @@
     "publisherId": "JP7843"
   },
   {
+    "titleId": "PPSA33564_00",
+    "conceptId": 232084,
+    "name": "\u30c7\u30a3\u30f4\u30a3\u30cb\u30c6\u30a3\uff1a\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b7\u30f3 2 \u30c7\u30a3\u30d5\u30a3\u30cb\u30c6\u30a3\u30d6\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
+    "contentId": "JP3565-PPSA33564_00-ORIGINALSIN2XPS5",
+    "region": "JP",
+    "publisherId": "JP3565"
+  },
+  {
     "titleId": "PPSA33569_00",
     "conceptId": 10011639,
     "name": "Helicopter Flight Simulator",
@@ -154160,6 +154208,14 @@
     "publisherId": "EB0805"
   },
   {
+    "titleId": "PPSA33996_00",
+    "conceptId": 10017323,
+    "name": "ION Shift",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34004_00",
     "conceptId": 10017257,
     "name": "Nyaa, smack!",
@@ -154622,6 +154678,14 @@
     "contentId": "UB1029-PPSA34149_00-0770642573571601",
     "region": "UB",
     "publisherId": "UB1029"
+  },
+  {
+    "titleId": "PPSA34163_00",
+    "conceptId": 10016006,
+    "name": "TRUCK SIMULATOR US DRIVER",
+    "contentId": "HB1689-PPSA34163_00-0477693395696820",
+    "region": "HB",
+    "publisherId": "HB1689"
   },
   {
     "titleId": "PPSA34164_00",
@@ -155475,33 +155539,33 @@
     "titleId": "PPSA34526_00",
     "conceptId": 10017675,
     "name": "Hummingbird Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA34526_00-0165300576053071",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA34527_00",
     "conceptId": 10017675,
     "name": "Hummingbird Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA34527_00-0753402607270288",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA34528_00",
     "conceptId": 10017675,
     "name": "Hummingbird Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA34528_00-0727019224829444",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA34529_00",
     "conceptId": 10017675,
     "name": "Hummingbird Garden",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA34529_00-0798313112582640",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA34531_00",
@@ -155614,6 +155678,14 @@
     "contentId": "UP7552-PPSA34573_00-0621310179817196",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA34585_00",
+    "conceptId": 10017713,
+    "name": "THE LAST TRAIN: Baquedano",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34611_00",
@@ -155907,17 +155979,17 @@
     "titleId": "PPSA34880_00",
     "conceptId": 10017875,
     "name": "BEAR ESCAPE MISSION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA34880_00-0298342671833864",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA34881_00",
     "conceptId": 10017875,
     "name": "BEAR ESCAPE MISSION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA34881_00-0069225771168726",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA34882_00",
@@ -155931,9 +156003,9 @@
     "titleId": "PPSA34883_00",
     "conceptId": 10017875,
     "name": "BEAR ESCAPE MISSION",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA34883_00-0949797025971274",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA34898_00",
@@ -156022,5 +156094,37 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA35057_00",
+    "conceptId": 10014206,
+    "name": "Dark Farts: Parody Smell Edition",
+    "contentId": "UB1372-PPSA35057_00-0784747465622598",
+    "region": "UB",
+    "publisherId": "UB1372"
+  },
+  {
+    "titleId": "PPSA35107_00",
+    "conceptId": 10018008,
+    "name": "Space Adventure",
+    "contentId": "UB0487-PPSA35107_00-0508329662763778",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35108_00",
+    "conceptId": 10018008,
+    "name": "Space Adventure",
+    "contentId": "UB0487-PPSA35108_00-0954621109605868",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35109_00",
+    "conceptId": 10018008,
+    "name": "Space Adventure",
+    "contentId": "UB0487-PPSA35109_00-0995336255820156",
+    "region": "UB",
+    "publisherId": "UB0487"
   }
 ]
