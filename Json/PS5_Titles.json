@@ -136370,10 +136370,10 @@
   {
     "titleId": "PPSA29535_00",
     "conceptId": 10014832,
-    "name": "Aaero 2: Black Razor Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Aaero2: Black Razor Edition",
+    "contentId": "EP4382-PPSA29535_00-AAERO20000000000",
+    "region": "EP",
+    "publisherId": "EP4382"
   },
   {
     "titleId": "PPSA29536_00",
@@ -146960,6 +146960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA31864_00",
+    "conceptId": 10006527,
+    "name": "Trenches",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA31866_00",
     "conceptId": 10016039,
     "name": "Oh, Canada!",
@@ -147158,6 +147166,14 @@
     "contentId": "HP8406-PPSA31909_00-0724920813428567",
     "region": "HP",
     "publisherId": "HP8406"
+  },
+  {
+    "titleId": "PPSA31911_00",
+    "conceptId": 10016210,
+    "name": "SOULCALIBUR\u2122 III",
+    "contentId": "UP0700-PPSA31911_00-SLUS212160000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA31912_00",
@@ -148083,17 +148099,17 @@
     "titleId": "PPSA32089_00",
     "conceptId": 10016301,
     "name": "For a few minutes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA32089_00-0416302400962639",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA32090_00",
     "conceptId": 10016301,
     "name": "For a few minutes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA32090_00-0527462866649621",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA32091_00",
@@ -149102,6 +149118,38 @@
     "contentId": "EP1612-PPSA32350_00-BLASTERORBITGAME",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA32359_00",
+    "conceptId": 10016455,
+    "name": "The Adventures of Hori",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32360_00",
+    "conceptId": 10016455,
+    "name": "The Adventures of Hori",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32361_00",
+    "conceptId": 10016455,
+    "name": "The Adventures of Hori",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA32362_00",
+    "conceptId": 10016455,
+    "name": "The Adventures of Hori",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32366_00",
@@ -152144,6 +152192,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA33146_00",
+    "conceptId": 10011587,
+    "name": "Apartment No 129",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33147_00",
     "conceptId": 10016858,
     "name": "Cat From Hell 2",
@@ -152558,6 +152614,22 @@
     "contentId": "UP7668-PPSA33275_00-0168911926285347",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA33277_00",
+    "conceptId": 10015944,
+    "name": "Unknown Castle",
+    "contentId": "UP7940-PPSA33277_00-0069138261729468",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA33279_00",
+    "conceptId": 10015944,
+    "name": "Unknown Castle",
+    "contentId": "EP7938-PPSA33279_00-0975861964921298",
+    "region": "EP",
+    "publisherId": "EP7938"
   },
   {
     "titleId": "PPSA33280_00",
@@ -154000,6 +154072,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA33914_00",
+    "conceptId": 10017287,
+    "name": "Dark Atlas: Infernum",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33939_00",
     "conceptId": 10017300,
     "name": "Orchard Odyssey: Pumpkin Party",
@@ -154699,9 +154779,9 @@
     "titleId": "PPSA34169_00",
     "conceptId": 10017443,
     "name": "Vambrace: Dungeon Monarch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0822-PPSA34169_00-VAMBRACEDMPS5000",
+    "region": "EP",
+    "publisherId": "EP0822"
   },
   {
     "titleId": "PPSA34170_00",
@@ -155003,6 +155083,14 @@
     "titleId": "PPSA34304_00",
     "conceptId": 10017523,
     "name": "Cute Bonfire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34306_00",
+    "conceptId": 10017526,
+    "name": "Heroes Battle Awakening",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -155376,6 +155464,14 @@
     "publisherId": "EB2111"
   },
   {
+    "titleId": "PPSA34463_00",
+    "conceptId": 10017619,
+    "name": "Duck Battle Royale",
+    "contentId": "EB0963-PPSA34463_00-087105273778547Z",
+    "region": "EB",
+    "publisherId": "EB0963"
+  },
+  {
     "titleId": "PPSA34467_00",
     "conceptId": 10017623,
     "name": "Orchard Odyssey: Chestnut Christmas",
@@ -155475,33 +155571,33 @@
     "titleId": "PPSA34518_00",
     "conceptId": 10017673,
     "name": "Capy Spa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA34518_00-0565275611261339",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA34519_00",
     "conceptId": 10017673,
     "name": "Capy Spa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA34519_00-0914944525229979",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA34520_00",
     "conceptId": 10017673,
     "name": "Capy Spa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA34520_00-0260715137562311",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA34521_00",
     "conceptId": 10017673,
     "name": "Capy Spa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA34521_00-0264125538259316",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA34522_00",
@@ -155768,6 +155864,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34682_00",
+    "conceptId": 10014109,
+    "name": "I Am Your Demon Girl",
+    "contentId": "HB1339-PPSA34682_00-0183929200139370",
+    "region": "HB",
+    "publisherId": "HB1339"
+  },
+  {
     "titleId": "PPSA34683_00",
     "conceptId": 10015332,
     "name": "Eros Zone: Sensual Dawn",
@@ -155814,6 +155918,14 @@
     "contentId": "JB1778-PPSA34691_00-0473266300269250",
     "region": "JB",
     "publisherId": "JB1778"
+  },
+  {
+    "titleId": "PPSA34695_00",
+    "conceptId": 10017780,
+    "name": "Color Inverter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34711_00",
@@ -155934,6 +156046,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34856_00",
+    "conceptId": 10017758,
+    "name": "\u30a8\u30b9\u30b1\u30fc\u30d7\u30b4\u30fc\u30c8 \uff5e\u543e\u59bb\u885b\u58eb\u306e\u51a4\u7f6a\uff5e",
+    "contentId": "EP6112-PPSA34856_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP6112"
   },
   {
     "titleId": "PPSA34875_00",
@@ -156104,6 +156224,22 @@
     "publisherId": "UB1372"
   },
   {
+    "titleId": "PPSA35061_00",
+    "conceptId": 10017969,
+    "name": "Balls Break Bricks",
+    "contentId": "UP7940-PPSA35061_00-0306059857675329",
+    "region": "UP",
+    "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA35062_00",
+    "conceptId": 10017969,
+    "name": "Balls Break Bricks",
+    "contentId": "EP7938-PPSA35062_00-0647460281611868",
+    "region": "EP",
+    "publisherId": "EP7938"
+  },
+  {
     "titleId": "PPSA35107_00",
     "conceptId": 10018008,
     "name": "Space Adventure",
@@ -156124,6 +156260,14 @@
     "conceptId": 10018008,
     "name": "Space Adventure",
     "contentId": "UB0487-PPSA35109_00-0995336255820156",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35110_00",
+    "conceptId": 10018008,
+    "name": "Space Adventure",
+    "contentId": "UB0487-PPSA35110_00-0880086550371043",
     "region": "UB",
     "publisherId": "UB0487"
   }
