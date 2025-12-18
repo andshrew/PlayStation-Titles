@@ -31928,6 +31928,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA07632_00",
+    "conceptId": 10005069,
+    "name": "SAROS",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
+  },
+  {
     "titleId": "PPSA07633_00",
     "conceptId": 10005069,
     "name": "SAROS",
@@ -35422,6 +35430,14 @@
     "contentId": "EP6918-PPSA08253_00-5341513226459957",
     "region": "EP",
     "publisherId": "EP6918"
+  },
+  {
+    "titleId": "PPSA08254_00",
+    "conceptId": 10004956,
+    "name": "John Carpenter\u2019s Toxic Commando",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4133"
   },
   {
     "titleId": "PPSA08255_00",
@@ -101667,9 +101683,9 @@
     "titleId": "PPSA22707_00",
     "conceptId": 10010852,
     "name": "Lonely Mountains: Snow Riders",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5253-PPSA22707_00-0437539253161351",
+    "region": "EP",
+    "publisherId": "EP5253"
   },
   {
     "titleId": "PPSA22717_00",
@@ -102966,6 +102982,14 @@
     "contentId": "HP0332-PPSA23010_00-0137714608594139",
     "region": "HP",
     "publisherId": "HP0332"
+  },
+  {
+    "titleId": "PPSA23011_00",
+    "conceptId": 10007535,
+    "name": "\u30b5\u30b9\u30da\u30af\u30c4\u30eb\u30fc\u30e0 -\u8b66\u8996\u5e81\u9580\u524d\u7f72\u53d6\u8abf\u73ed-",
+    "contentId": "JP6027-PPSA23011_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP6027"
   },
   {
     "titleId": "PPSA23012_00",
@@ -137296,6 +137320,14 @@
     "publisherId": "EP0177"
   },
   {
+    "titleId": "PPSA29708_00",
+    "conceptId": 10014900,
+    "name": "KEJORA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29713_00",
     "conceptId": 10014856,
     "name": "Karate Survivor",
@@ -142298,10 +142330,10 @@
   {
     "titleId": "PPSA30821_00",
     "conceptId": 10015554,
-    "name": "Zero Caliber VR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Zero Caliber",
+    "contentId": "EP3886-PPSA30821_00-ZEROCALIBERPSVR2",
+    "region": "EP",
+    "publisherId": "EP3886"
   },
   {
     "titleId": "PPSA30824_00",
@@ -148128,6 +148160,22 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA32094_00",
+    "conceptId": 10014503,
+    "name": "Wings of Endless",
+    "contentId": "JP1134-PPSA32094_00-0153640150365464",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
+    "titleId": "PPSA32095_00",
+    "conceptId": 10014503,
+    "name": "Wings of Endless",
+    "contentId": "HP0980-PPSA32095_00-0302079781666444",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA32098_00",
     "conceptId": 10016307,
     "name": "ReSetna",
@@ -148734,6 +148782,14 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0128"
+  },
+  {
+    "titleId": "PPSA32239_00",
+    "conceptId": 10016383,
+    "name": "Mega Man Star Force Legacy Collection PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0102"
   },
   {
     "titleId": "PPSA32241_00",
@@ -150498,10 +150554,10 @@
   {
     "titleId": "PPSA32691_00",
     "conceptId": 10016627,
-    "name": "Death Horizon Reloaded",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30c7\u30b9\u30db\u30e9\u30a4\u30ba\u30f3\uff1a\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
+    "contentId": "UB0081-PPSA32691_00-0024682326322696",
+    "region": "UB",
+    "publisherId": "UB0081"
   },
   {
     "titleId": "PPSA32692_00",
@@ -151518,6 +151574,14 @@
     "contentId": "EB1798-PPSA32964_00-0914443718863818",
     "region": "EB",
     "publisherId": "EB1798"
+  },
+  {
+    "titleId": "PPSA32971_00",
+    "conceptId": 10015385,
+    "name": "\u30de\u30a4\u30f3\u30c9 \u30aa\u30fc\u30d0\u30fc \u30de\u30b0\u30cd\u30c3\u30c8",
+    "contentId": "JP1392-PPSA32971_00-MOMSTANDARDJPPS5",
+    "region": "JP",
+    "publisherId": "JP1392"
   },
   {
     "titleId": "PPSA32972_00",
@@ -153336,6 +153400,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA33499_00",
+    "conceptId": 10015043,
+    "name": "PBA Pro Bowling 2026",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33504_00",
     "conceptId": 10016996,
     "name": "Sentiment Laundromat",
@@ -153486,6 +153558,14 @@
     "contentId": "HP2005-PPSA33531_00-LTPPUMPKINSMASH0",
     "region": "HP",
     "publisherId": "HP2005"
+  },
+  {
+    "titleId": "PPSA33532_00",
+    "conceptId": 10017048,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30a2\u30a6\u30c8\u30d5\u30a9\u30af\u30b7\u30fc\u30ba",
+    "contentId": "JP0571-PPSA33532_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA33535_00",
@@ -153747,9 +153827,9 @@
     "titleId": "PPSA33765_00",
     "conceptId": 10017192,
     "name": "Hidden Cats in Istanbul",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-PPSA33765_00-0399144814996797",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA33767_00",
@@ -154003,9 +154083,9 @@
     "titleId": "PPSA33868_00",
     "conceptId": 10017261,
     "name": "Baradroid",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA33868_00-BARADROID0000000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA33884_00",
@@ -154688,6 +154768,14 @@
     "publisherId": "UB0190"
   },
   {
+    "titleId": "PPSA34113_00",
+    "conceptId": 10017404,
+    "name": "Ligue 1+",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34118_00",
     "conceptId": 10017409,
     "name": "Tiny Biomes",
@@ -154878,6 +154966,14 @@
     "contentId": "EP7938-PPSA34220_00-0667399914727196",
     "region": "EP",
     "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA34222_00",
+    "conceptId": 10017483,
+    "name": "A house that glows",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34226_00",
@@ -155707,33 +155803,33 @@
     "titleId": "PPSA34537_00",
     "conceptId": 10017678,
     "name": "Meowgic Mix",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA34537_00-0460241656782466",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA34538_00",
     "conceptId": 10017678,
     "name": "Meowgic Mix",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA34538_00-0140814160970736",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA34539_00",
     "conceptId": 10017678,
     "name": "Meowgic Mix",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA34539_00-0651922126046846",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA34540_00",
     "conceptId": 10017678,
     "name": "Meowgic Mix",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA34540_00-0541835849537967",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA34555_00",
@@ -155928,6 +156024,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34696_00",
+    "conceptId": 10017780,
+    "name": "Color Inverter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34697_00",
+    "conceptId": 10017780,
+    "name": "Color Inverter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34698_00",
+    "conceptId": 10017780,
+    "name": "Color Inverter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34711_00",
     "conceptId": 10017785,
     "name": "Puzzle Piecer: The Holiday Spirit",
@@ -156043,9 +156163,9 @@
     "titleId": "PPSA34841_00",
     "conceptId": 10017851,
     "name": "Mini Ghost",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2803-PPSA34841_00-0416243726410095",
+    "region": "UP",
+    "publisherId": "UP2803"
   },
   {
     "titleId": "PPSA34856_00",
@@ -156238,6 +156358,22 @@
     "contentId": "EP7938-PPSA35062_00-0647460281611868",
     "region": "EP",
     "publisherId": "EP7938"
+  },
+  {
+    "titleId": "PPSA35063_00",
+    "conceptId": 10017969,
+    "name": "Balls Break Bricks",
+    "contentId": "JP7921-PPSA35063_00-0648478369659497",
+    "region": "JP",
+    "publisherId": "JP7921"
+  },
+  {
+    "titleId": "PPSA35064_00",
+    "conceptId": 10017969,
+    "name": "Balls Break Bricks",
+    "contentId": "HP7967-PPSA35064_00-0542761543832542",
+    "region": "HP",
+    "publisherId": "HP7967"
   },
   {
     "titleId": "PPSA35107_00",
