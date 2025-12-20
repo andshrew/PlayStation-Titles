@@ -92635,9 +92635,9 @@
     "titleId": "PPSA20807_00",
     "conceptId": 10010096,
     "name": "Ahhnalog 112",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6470-PPSA20807_00-AHHNALOG11200000",
+    "region": "EP",
+    "publisherId": "EP6470"
   },
   {
     "titleId": "PPSA20809_00",
@@ -97074,10 +97074,10 @@
   {
     "titleId": "PPSA21760_00",
     "conceptId": 10010476,
-    "name": "Humble Haunted House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u5996\u602a\u30d7\u30c1\u90e8\u5c4b",
+    "contentId": "JP4800-PPSA21760_00-0991503311212296",
+    "region": "JP",
+    "publisherId": "JP4800"
   },
   {
     "titleId": "PPSA21761_00",
@@ -97091,9 +97091,9 @@
     "titleId": "PPSA21762_00",
     "conceptId": 10010476,
     "name": "Humble Haunted House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5145-PPSA21762_00-0585670557129888",
+    "region": "EP",
+    "publisherId": "EP5145"
   },
   {
     "titleId": "PPSA21763_00",
@@ -134555,9 +134555,9 @@
     "titleId": "PPSA29124_00",
     "conceptId": 10014567,
     "name": "Hannah VCR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1063-PPSA29124_00-0689716916788567",
+    "region": "HB",
+    "publisherId": "HB1063"
   },
   {
     "titleId": "PPSA29125_00",
@@ -137507,9 +137507,9 @@
     "titleId": "PPSA29739_00",
     "conceptId": 10014939,
     "name": "Demonspire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6556-PPSA29739_00-0915394638354089",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA29740_00",
@@ -142224,6 +142224,38 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA30768_00",
+    "conceptId": 10012789,
+    "name": "The Legend of Heroes: Trails beyond the Horizon Story Demo",
+    "contentId": "UP1063-PPSA30768_00-EDKAI001STRYDEMO",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
+    "titleId": "PPSA30769_00",
+    "conceptId": 10012789,
+    "name": "The Legend of Heroes: Trails beyond the Horizon Story Demo",
+    "contentId": "EP1063-PPSA30769_00-EDKAI001STRYDEMO",
+    "region": "EP",
+    "publisherId": "EP1063"
+  },
+  {
+    "titleId": "PPSA30770_00",
+    "conceptId": 10012789,
+    "name": "The Legend of Heroes: Trails beyond the Horizon Battle Demo",
+    "contentId": "UP1063-PPSA30770_00-EDKAI001BATLDEMO",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
+    "titleId": "PPSA30771_00",
+    "conceptId": 10012789,
+    "name": "The Legend of Heroes: Trails beyond the Horizon Battle Demo",
+    "contentId": "EP1063-PPSA30771_00-EDKAI001BATLDEMO",
+    "region": "EP",
+    "publisherId": "EP1063"
+  },
+  {
     "titleId": "PPSA30772_00",
     "conceptId": 10015511,
     "name": "Icy Gifts",
@@ -143042,10 +143074,10 @@
   {
     "titleId": "PPSA30965_00",
     "conceptId": 10015643,
-    "name": "Nom Nom Apocalypse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30ce\u30e0\u30ce\u30e0\u30a2\u30dd\u30ab\u30ea\u30d7\u30b9",
+    "contentId": "UB0837-PPSA30965_00-0566231130514924",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA30966_00",
@@ -143542,6 +143574,14 @@
     "contentId": "UB1333-PPSA31097_00-0734354834258898",
     "region": "UB",
     "publisherId": "UB1333"
+  },
+  {
+    "titleId": "PPSA31098_00",
+    "conceptId": 10015689,
+    "name": "Racecar Crashers",
+    "contentId": "EP4325-PPSA31098_00-RACECARCRASHERS0",
+    "region": "EP",
+    "publisherId": "EP4325"
   },
   {
     "titleId": "PPSA31099_00",
@@ -145683,9 +145723,9 @@
     "titleId": "PPSA31588_00",
     "conceptId": 10015993,
     "name": "Nordic Ashes: The Complete Saga",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8643-PPSA31588_00-0607898791576094",
+    "region": "UP",
+    "publisherId": "UP8643"
   },
   {
     "titleId": "PPSA31589_00",
@@ -151360,6 +151400,14 @@
     "publisherId": "UB0859"
   },
   {
+    "titleId": "PPSA32903_00",
+    "conceptId": 10016735,
+    "name": "Vironics",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32905_00",
     "conceptId": 10016737,
     "name": "Colorful Colore",
@@ -154080,6 +154128,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA33856_00",
+    "conceptId": 10017196,
+    "name": "MAVRIX by Matt Jones",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33857_00",
     "conceptId": 10017152,
     "name": "Elon and the Divine Proof (Demo)",
@@ -154387,9 +154443,9 @@
     "titleId": "PPSA33996_00",
     "conceptId": 10017323,
     "name": "ION Shift",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7256-PPSA33996_00-IONSHIFT00000000",
+    "region": "EP",
+    "publisherId": "EP7256"
   },
   {
     "titleId": "PPSA34004_00",
@@ -154954,10 +155010,10 @@
   {
     "titleId": "PPSA34203_00",
     "conceptId": 10017468,
-    "name": "Angry Cat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u6012\u308c\u308b\u732b",
+    "contentId": "UB0837-PPSA34203_00-0163801730460158",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA34210_00",
@@ -154984,12 +155040,20 @@
     "publisherId": "EP7938"
   },
   {
+    "titleId": "PPSA34221_00",
+    "conceptId": 10017483,
+    "name": "A house that glows",
+    "contentId": "UP7335-PPSA34221_00-0649921863945614",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA34222_00",
     "conceptId": 10017483,
     "name": "A house that glows",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA34222_00-0743936525736295",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA34226_00",
@@ -155568,6 +155632,38 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA34448_00",
+    "conceptId": 10017603,
+    "name": "Nibiru Voyage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34449_00",
+    "conceptId": 10017603,
+    "name": "Nibiru Voyage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34450_00",
+    "conceptId": 10017603,
+    "name": "Nibiru Voyage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34451_00",
+    "conceptId": 10017603,
+    "name": "Nibiru Voyage",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34459_00",
     "conceptId": 10016538,
     "name": "Schedule I - Drug Dealer",
@@ -155668,6 +155764,14 @@
     "conceptId": 10017662,
     "name": "Gravity Biker",
     "contentId": "UB0008-PPSA34507_00-0785016208664908",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA34509_00",
+    "conceptId": 10017664,
+    "name": "Voxel Panic",
+    "contentId": "UB0008-PPSA34509_00-0017830329090778",
     "region": "UB",
     "publisherId": "UB0008"
   },
@@ -155894,6 +155998,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34608_00",
+    "conceptId": 10010153,
+    "name": "Colorful Recolor",
+    "contentId": "UP7940-PPSA34608_00-0355833832192483",
+    "region": "UP",
+    "publisherId": "UP7940"
   },
   {
     "titleId": "PPSA34611_00",
@@ -156152,6 +156264,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34757_00",
+    "conceptId": 10017805,
+    "name": "Pocket Drift Rally",
+    "contentId": "UB0008-PPSA34757_00-0948819608831801",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA34765_00",
     "conceptId": 10017813,
     "name": "Popslinger Vol. 2 - Loveless",
@@ -156291,25 +156411,25 @@
     "titleId": "PPSA34898_00",
     "conceptId": 10017882,
     "name": "Fatal Slash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6197-PPSA34898_00-0514434425135666",
+    "region": "EP",
+    "publisherId": "EP6197"
   },
   {
     "titleId": "PPSA34986_00",
     "conceptId": 10017946,
     "name": "Mementos: Lost Things",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA34986_00-0074831897310012",
+    "region": "EP",
+    "publisherId": "EP7345"
   },
   {
     "titleId": "PPSA34987_00",
     "conceptId": 10017946,
     "name": "Mementos: Lost Things",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7347-PPSA34987_00-0643331404056136",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA34988_00",
@@ -156462,5 +156582,13 @@
     "contentId": "UB0487-PPSA35110_00-0880086550371043",
     "region": "UB",
     "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35122_00",
+    "conceptId": 10018018,
+    "name": "Offroad Rally Racing",
+    "contentId": "UP7552-PPSA35122_00-0832086738723637",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
