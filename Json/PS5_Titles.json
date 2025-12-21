@@ -31952,6 +31952,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA07634_00",
+    "conceptId": 10005069,
+    "name": "SAROS",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP9000"
+  },
+  {
     "titleId": "PPSA07635_00",
     "conceptId": 10005072,
     "name": "C-SMASH VRS",
@@ -110528,6 +110536,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA24487_00",
+    "conceptId": 10008864,
+    "name": "Marathon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24490_00",
     "conceptId": 10010334,
     "name": "Balatro",
@@ -153467,9 +153483,9 @@
     "titleId": "PPSA33499_00",
     "conceptId": 10015043,
     "name": "PBA Pro Bowling 2026",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2058-PPSA33499_00-PBAPROBOWLING026",
+    "region": "EP",
+    "publisherId": "EP2058"
   },
   {
     "titleId": "PPSA33504_00",
@@ -154896,6 +154912,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34133_00",
+    "conceptId": 10016329,
+    "name": "Aerial_Knight's DropShot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34146_00",
     "conceptId": 10017430,
     "name": "Pixel Puzzles CHRISTMAS Jigsaws",
@@ -155995,6 +156019,14 @@
     "titleId": "PPSA34585_00",
     "conceptId": 10017713,
     "name": "THE LAST TRAIN: Baquedano",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34604_00",
+    "conceptId": 10010153,
+    "name": "Colorful Recolor",
     "contentId": null,
     "region": null,
     "publisherId": null
