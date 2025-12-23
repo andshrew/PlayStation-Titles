@@ -31936,6 +31936,14 @@
     "publisherId": "EP7333"
   },
   {
+    "titleId": "PPSA07631_00",
+    "conceptId": 10005069,
+    "name": "SAROS",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP9000"
+  },
+  {
     "titleId": "PPSA07632_00",
     "conceptId": 10005069,
     "name": "SAROS",
@@ -142368,6 +142376,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA30811_00",
+    "conceptId": 10015537,
+    "name": "Truck Simulator 25: Euro Driver VR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30814_00",
     "conceptId": 10015542,
     "name": "Jotunnslayer: Hordes of Hel",
@@ -152931,9 +152947,9 @@
     "titleId": "PPSA33329_00",
     "conceptId": 10016970,
     "name": "Whoowasit?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA33329_00-WHOOWASITRAPS5WW",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA33331_00",
@@ -154944,6 +154960,22 @@
     "publisherId": "UB1029"
   },
   {
+    "titleId": "PPSA34159_00",
+    "conceptId": 10016935,
+    "name": "Eternum EX",
+    "contentId": "JP1134-PPSA34159_00-0852158036056319",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
+    "titleId": "PPSA34160_00",
+    "conceptId": 10016935,
+    "name": "Eternum EX",
+    "contentId": "HP0980-PPSA34160_00-0660799364846977",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA34163_00",
     "conceptId": 10016006,
     "name": "TRUCK SIMULATOR US DRIVER",
@@ -155454,6 +155486,14 @@
     "contentId": "HB1334-PPSA34388_00-0939843570422372",
     "region": "HB",
     "publisherId": "HB1334"
+  },
+  {
+    "titleId": "PPSA34394_00",
+    "conceptId": 10002560,
+    "name": "Classic Racers Elite",
+    "contentId": "JP3555-PPSA34394_00-CLASSICRACERSJP5",
+    "region": "JP",
+    "publisherId": "JP3555"
   },
   {
     "titleId": "PPSA34397_00",
@@ -155978,10 +156018,10 @@
   {
     "titleId": "PPSA34552_00",
     "conceptId": 10017669,
-    "name": "Lost Lands 5: Ice Spell",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lost Lands 5: The Four Horsemen",
+    "contentId": "UB0190-PPSA34552_00-0627638835545491",
+    "region": "UB",
+    "publisherId": "UB0190"
   },
   {
     "titleId": "PPSA34555_00",
@@ -156539,25 +156579,25 @@
     "titleId": "PPSA35029_00",
     "conceptId": 10017967,
     "name": "Mr.Slime in Dungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA35029_00-0888263070501260",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA35030_00",
     "conceptId": 10017967,
     "name": "Mr.Slime in Dungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA35030_00-0865149024187338",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA35031_00",
     "conceptId": 10017967,
     "name": "Mr.Slime in Dungeon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA35031_00-0553881845187438",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA35057_00",
