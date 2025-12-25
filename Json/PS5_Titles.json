@@ -81018,18 +81018,18 @@
   {
     "titleId": "PPSA18405_00",
     "conceptId": 10009151,
-    "name": "Tabula Rasa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Injection \u03c023 'Tabula Rasa'",
+    "contentId": "EP6346-PPSA18405_00-INJE23TABULARASA",
+    "region": "EP",
+    "publisherId": "EP6346"
   },
   {
     "titleId": "PPSA18406_00",
     "conceptId": 10009151,
-    "name": "Tabula Rasa",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Injection \u03c023 'Tabula Rasa'",
+    "contentId": "UP6347-PPSA18406_00-INJE23TABULARASA",
+    "region": "UP",
+    "publisherId": "UP6347"
   },
   {
     "titleId": "PPSA18408_00",
@@ -153216,6 +153216,14 @@
     "publisherId": "UB0837"
   },
   {
+    "titleId": "PPSA33411_00",
+    "conceptId": 10016982,
+    "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30b9\u30da\u30fc\u30b9\u30a4\u30f3\u30d9\u30fc\u30c0\u30fc",
+    "contentId": "JP0571-PPSA33411_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA33413_00",
     "conceptId": 10016979,
     "name": ">start ai",
@@ -153848,6 +153856,14 @@
     "publisherId": "EB1284"
   },
   {
+    "titleId": "PPSA33657_00",
+    "conceptId": 10017142,
+    "name": "60 Minutes to Extinction: Escape Room",
+    "contentId": "UP8533-PPSA33657_00-0229882937774295",
+    "region": "UP",
+    "publisherId": "UP8533"
+  },
+  {
     "titleId": "PPSA33681_00",
     "conceptId": 10017154,
     "name": "Sokmeal Time",
@@ -154238,6 +154254,14 @@
     "contentId": "HP8504-PPSA33887_00-0874753035517531",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA33890_00",
+    "conceptId": 10016197,
+    "name": "Primal Dinosaur Shooter - Dino Killer",
+    "contentId": "UB1720-PPSA33890_00-0144575241302106",
+    "region": "UB",
+    "publisherId": "UB1720"
   },
   {
     "titleId": "PPSA33901_00",
@@ -155174,6 +155198,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA34248_00",
+    "conceptId": 10015411,
+    "name": "Front Mission 3: Remake Demo",
+    "contentId": "EP3948-PPSA34248_00-7F5KFFS352352GFS",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA34256_00",
