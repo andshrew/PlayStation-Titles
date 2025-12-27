@@ -151283,9 +151283,9 @@
     "titleId": "PPSA32862_00",
     "conceptId": 10014502,
     "name": "Prison Life Sim 2025 - Survival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0861-PPSA32862_00-0700862520652253",
+    "region": "UB",
+    "publisherId": "UB0861"
   },
   {
     "titleId": "PPSA32867_00",
@@ -152696,6 +152696,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA33249_00",
+    "conceptId": 10016927,
+    "name": "Word Quest Fantasy",
+    "contentId": "UB0008-PPSA33249_00-0091274377388918",
+    "region": "UB",
+    "publisherId": "UB0008"
+  },
+  {
     "titleId": "PPSA33250_00",
     "conceptId": 10016928,
     "name": "Word Quest Space",
@@ -153443,9 +153451,9 @@
     "titleId": "PPSA33463_00",
     "conceptId": 10017009,
     "name": "Heavy Duty",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0837-PPSA33463_00-0541264656228998",
+    "region": "UB",
+    "publisherId": "UB0837"
   },
   {
     "titleId": "PPSA33464_00",
@@ -153619,9 +153627,9 @@
     "titleId": "PPSA33515_00",
     "conceptId": 10017038,
     "name": "Drifties",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0337-PPSA33515_00-0129031669940928",
+    "region": "UB",
+    "publisherId": "UB0337"
   },
   {
     "titleId": "PPSA33516_00",
@@ -154440,6 +154448,30 @@
     "publisherId": "EB1301"
   },
   {
+    "titleId": "PPSA33971_00",
+    "conceptId": 10017313,
+    "name": "Nekomimi Days ~365 Days with You~",
+    "contentId": "UP8281-PPSA33971_00-0001208003263706",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
+    "titleId": "PPSA33972_00",
+    "conceptId": 10017313,
+    "name": "Nekomimi Days ~365 Days with You~",
+    "contentId": "EP8472-PPSA33972_00-0793712640165575",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA33973_00",
+    "conceptId": 10017313,
+    "name": "\u306d\u3053\u307f\u307f\u65e5\u548c\uff5e\u541b\u3068\u904e\u3054\u3059365\u65e5\uff5e",
+    "contentId": "JP8187-PPSA33973_00-0838769656440845",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
     "titleId": "PPSA33974_00",
     "conceptId": 10017313,
     "name": "Nekomimi Days ~365 Days with You~",
@@ -154824,28 +154856,36 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA34078_00",
+    "conceptId": 10017384,
+    "name": "Furry Hearts",
+    "contentId": "UP7335-PPSA34078_00-0522372147775280",
+    "region": "UP",
+    "publisherId": "UP7335"
+  },
+  {
     "titleId": "PPSA34079_00",
     "conceptId": 10017384,
     "name": "Furry Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA34079_00-0453664623377369",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA34080_00",
     "conceptId": 10017384,
     "name": "Furry Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA34080_00-0334756086331138",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA34081_00",
     "conceptId": 10017384,
     "name": "Furry Hearts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA34081_00-0659922609236425",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA34087_00",
