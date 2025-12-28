@@ -27867,9 +27867,9 @@
     "titleId": "PPSA06866_00",
     "conceptId": 232084,
     "name": "Divinity: Original Sin 2 - Definitive Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3383-PPSA06866_00-ORIGINALSIN2XPS5",
+    "region": "EP",
+    "publisherId": "EP3383"
   },
   {
     "titleId": "PPSA06871_00",
@@ -146019,17 +146019,17 @@
     "titleId": "PPSA31633_00",
     "conceptId": 10016038,
     "name": "Banana Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31633_00-BANANADASH0000JP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31634_00",
     "conceptId": 10016038,
     "name": "Banana Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31634_00-BANANADASH0000AS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31635_00",
@@ -152528,6 +152528,30 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA33185_00",
+    "conceptId": 10016493,
+    "name": "Fly Light",
+    "contentId": "JP5299-PPSA33185_00-00000000FLYLIGHT",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA33187_00",
+    "conceptId": 10016493,
+    "name": "Fly Light",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33188_00",
+    "conceptId": 10016493,
+    "name": "Fly Light",
+    "contentId": "JP5299-PPSA33188_00-00000000FLYLIGHT",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
     "titleId": "PPSA33200_00",
     "conceptId": 10016889,
     "name": "Hero Wheels",
@@ -156582,6 +156606,14 @@
     "contentId": "EP6112-PPSA34856_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP6112"
+  },
+  {
+    "titleId": "PPSA34859_00",
+    "conceptId": 10016000,
+    "name": "ROMEO IS A DEAD MAN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34875_00",
