@@ -146003,17 +146003,17 @@
     "titleId": "PPSA31631_00",
     "conceptId": 10016038,
     "name": "Banana Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31631_00-BANANADASH0000NA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31632_00",
     "conceptId": 10016038,
     "name": "Banana Dash",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31632_00-BANANADASH0000EU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31633_00",
@@ -152536,12 +152536,20 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA33186_00",
+    "conceptId": 10016493,
+    "name": "Fly Light",
+    "contentId": "UP5464-PPSA33186_00-00000000FLYLIGHT",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA33187_00",
     "conceptId": 10016493,
     "name": "Fly Light",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5645-PPSA33187_00-00000000FLYLIGHT",
+    "region": "EP",
+    "publisherId": "EP5645"
   },
   {
     "titleId": "PPSA33188_00",
