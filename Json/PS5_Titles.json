@@ -78824,6 +78824,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA17946_00",
+    "conceptId": 10008842,
+    "name": "DRAGON QUEST VII Reimagined",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17948_00",
     "conceptId": 10008997,
     "name": "Plumbers Don't Wear Ties: Definitive Edition",
@@ -148432,6 +148440,14 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32118_00",
+    "conceptId": 10011789,
+    "name": "TOBITARO",
+    "contentId": "EP5645-PPSA32118_00-0167237274728674",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA32121_00",
     "conceptId": 10016319,
     "name": "Deadly Combat",
@@ -152248,6 +152264,14 @@
     "publisherId": "EP7975"
   },
   {
+    "titleId": "PPSA33090_00",
+    "conceptId": 10016654,
+    "name": "God bless, or Goddess",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33094_00",
     "conceptId": 10014683,
     "name": "Releaseburg",
@@ -153907,9 +153931,9 @@
     "titleId": "PPSA33604_00",
     "conceptId": 10017105,
     "name": "Gridz Keeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA33604_00-GRIDZKEEPER00000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA33608_00",
@@ -156800,6 +156824,14 @@
     "publisherId": "EP6197"
   },
   {
+    "titleId": "PPSA34921_00",
+    "conceptId": 10017907,
+    "name": "Lantern Push",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34923_00",
     "conceptId": 10017910,
     "name": "Beetle Shock",
@@ -156809,6 +156841,14 @@
   },
   {
     "titleId": "PPSA34924_00",
+    "conceptId": 10017910,
+    "name": "Beetle Shock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34925_00",
     "conceptId": 10017910,
     "name": "Beetle Shock",
     "contentId": null,
@@ -156936,6 +156976,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA35034_00",
+    "conceptId": 10017968,
+    "name": "Crabwave",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35035_00",
     "conceptId": 10017968,
     "name": "Crabwave",
@@ -157030,5 +157078,13 @@
     "contentId": "EP1612-PPSA35180_00-ACORNFLAREGAME00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA35337_00",
+    "conceptId": 10018149,
+    "name": "Anime: Fantasy Uni 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
