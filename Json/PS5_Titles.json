@@ -78824,6 +78824,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA17945_00",
+    "conceptId": 10008842,
+    "name": "DRAGON QUEST VII Reimagined Demo",
+    "contentId": "UP0082-PPSA17945_00-DQ7RE0000000DEMO",
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA17946_00",
     "conceptId": 10008842,
     "name": "DRAGON QUEST VII Reimagined",
@@ -138560,6 +138568,14 @@
     "publisherId": "HP0980"
   },
   {
+    "titleId": "PPSA29977_00",
+    "conceptId": 10014506,
+    "name": "Amber Alert Director's cut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29983_00",
     "conceptId": 10013397,
     "name": "Dreamless",
@@ -148440,10 +148456,34 @@
     "publisherId": "EP5645"
   },
   {
+    "titleId": "PPSA32117_00",
+    "conceptId": 10011789,
+    "name": "TOBITARO",
+    "contentId": "EP5645-PPSA32117_00-0603744578490662",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
     "titleId": "PPSA32118_00",
     "conceptId": 10011789,
     "name": "TOBITARO",
     "contentId": "EP5645-PPSA32118_00-0167237274728674",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32119_00",
+    "conceptId": 10011789,
+    "name": "TOBITARO",
+    "contentId": "EP5645-PPSA32119_00-0615676346405623",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA32120_00",
+    "conceptId": 10011789,
+    "name": "TOBITARO",
+    "contentId": "EP5645-PPSA32120_00-0930888551958318",
     "region": "EP",
     "publisherId": "EP5645"
   },
@@ -156344,6 +156384,14 @@
     "publisherId": "UP8623"
   },
   {
+    "titleId": "PPSA34572_00",
+    "conceptId": 10013050,
+    "name": "Recycling Station Simulator",
+    "contentId": "UB1264-PPSA34572_00-0680222652136346",
+    "region": "UB",
+    "publisherId": "UB1264"
+  },
+  {
     "titleId": "PPSA34573_00",
     "conceptId": 10017701,
     "name": "Top Gun Global War",
@@ -156712,6 +156760,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34810_00",
+    "conceptId": 10017832,
+    "name": "The Boba Teashop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34815_00",
+    "conceptId": 10007307,
+    "name": "Salamander County Public Television",
+    "contentId": "JP7070-PPSA34815_00-PPGSALAMANDERPTV",
+    "region": "JP",
+    "publisherId": "JP7070"
+  },
+  {
     "titleId": "PPSA34835_00",
     "conceptId": 204541,
     "name": "Sky Go",
@@ -156824,7 +156888,31 @@
     "publisherId": "EP6197"
   },
   {
+    "titleId": "PPSA34919_00",
+    "conceptId": 10017907,
+    "name": "Lantern Push",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34920_00",
+    "conceptId": 10017907,
+    "name": "Lantern Push",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34921_00",
+    "conceptId": 10017907,
+    "name": "Lantern Push",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34922_00",
     "conceptId": 10017907,
     "name": "Lantern Push",
     "contentId": null,
@@ -156859,6 +156947,38 @@
     "titleId": "PPSA34926_00",
     "conceptId": 10017910,
     "name": "Beetle Shock",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34927_00",
+    "conceptId": 10017911,
+    "name": "Mole Cart Mining",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34928_00",
+    "conceptId": 10017911,
+    "name": "Mole Cart Mining",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34929_00",
+    "conceptId": 10017911,
+    "name": "Mole Cart Mining",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34930_00",
+    "conceptId": 10017911,
+    "name": "Mole Cart Mining",
     "contentId": null,
     "region": null,
     "publisherId": null
