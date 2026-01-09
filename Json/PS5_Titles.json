@@ -75624,6 +75624,14 @@
     "publisherId": "UP0287"
   },
   {
+    "titleId": "PPSA17204_00",
+    "conceptId": 10008700,
+    "name": "Jimmy and the Pulsating Mass",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA17206_00",
     "conceptId": 10002182,
     "name": "Hawked",
@@ -78824,6 +78832,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA17944_00",
+    "conceptId": 10008842,
+    "name": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8VII Reimagined \u65c5\u306e\u306f\u3058\u307e\u308a\u5148\u884c\u30d7\u30ec\u30a4\u7248",
+    "contentId": "JP0082-PPSA17944_00-DQ7RE0000000DEMO",
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
     "titleId": "PPSA17945_00",
     "conceptId": 10008842,
     "name": "DRAGON QUEST VII Reimagined Demo",
@@ -78833,6 +78849,14 @@
   },
   {
     "titleId": "PPSA17946_00",
+    "conceptId": 10008842,
+    "name": "DRAGON QUEST VII Reimagined",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA17947_00",
     "conceptId": 10008842,
     "name": "DRAGON QUEST VII Reimagined",
     "contentId": null,
@@ -111424,6 +111448,14 @@
     "publisherId": "EP3643"
   },
   {
+    "titleId": "PPSA24652_00",
+    "conceptId": 10011821,
+    "name": "Disco Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24656_00",
     "conceptId": 10008991,
     "name": "Thief Simulator VR: Prologue",
@@ -133539,17 +133571,17 @@
     "titleId": "PPSA28866_00",
     "conceptId": 10014424,
     "name": "I Am Future: Cozy Apocalypse Survival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0097-PPSA28866_00-IAMFUTUREGAME000",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA28867_00",
     "conceptId": 10014424,
     "name": "I Am Future: Cozy Apocalypse Survival",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP0097-PPSA28867_00-IAMFUTUREGAME000",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA28872_00",
@@ -139864,6 +139896,14 @@
     "publisherId": "UB0768"
   },
   {
+    "titleId": "PPSA30278_00",
+    "conceptId": 10015238,
+    "name": "Taxi Chaos 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30280_00",
     "conceptId": 10015239,
     "name": "Infernitos: Fiery Dishes",
@@ -141712,6 +141752,14 @@
     "publisherId": "HP6664"
   },
   {
+    "titleId": "PPSA30631_00",
+    "conceptId": 10014742,
+    "name": "The Brew Barons",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30634_00",
     "conceptId": 10008673,
     "name": "Death end re;Quest Code Z",
@@ -143198,6 +143246,22 @@
     "contentId": "HP6661-PPSA30971_00-0130281943185013",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA30976_00",
+    "conceptId": 10015648,
+    "name": "The Jumping Bonbon Match 5",
+    "contentId": "EP6664-PPSA30976_00-0595637405973522",
+    "region": "EP",
+    "publisherId": "EP6664"
+  },
+  {
+    "titleId": "PPSA30977_00",
+    "conceptId": 10015648,
+    "name": "The Jumping Bonbon Match 5",
+    "contentId": "UP6664-PPSA30977_00-0260319550171212",
+    "region": "UP",
+    "publisherId": "UP6664"
   },
   {
     "titleId": "PPSA30984_00",
@@ -147282,10 +147346,10 @@
   {
     "titleId": "PPSA31898_00",
     "conceptId": 10016204,
-    "name": "Hero Seekers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u30d2\u30fc\u30ed\u30fc\u30b7\u30fc\u30ab\u30fc\u30ba",
+    "contentId": "JP0013-PPSA31898_00-JP0HSEEKERSO0PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
   },
   {
     "titleId": "PPSA31899_00",
@@ -150992,6 +151056,14 @@
     "publisherId": "UP5877"
   },
   {
+    "titleId": "PPSA32766_00",
+    "conceptId": 10016520,
+    "name": "Hunter Simulator VR : Wild Hunting",
+    "contentId": "UB1025-PPSA32766_00-0767399243053736",
+    "region": "UB",
+    "publisherId": "UB1025"
+  },
+  {
     "titleId": "PPSA32770_00",
     "conceptId": 10016298,
     "name": "CALC+-",
@@ -154048,6 +154120,14 @@
     "publisherId": "UP8533"
   },
   {
+    "titleId": "PPSA33664_00",
+    "conceptId": 10017147,
+    "name": "Owlen and the Spirits of the Past",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33667_00",
     "conceptId": 10016681,
     "name": "YOU HAVE ONE SHOT",
@@ -154126,6 +154206,14 @@
     "contentId": "EP1612-PPSA33751_00-HALLOWKINZGAME00",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA33753_00",
+    "conceptId": 10017179,
+    "name": "Cats Around Us: Giant Cat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33754_00",
@@ -155480,6 +155568,14 @@
     "publisherId": "EP3948"
   },
   {
+    "titleId": "PPSA34251_00",
+    "conceptId": 10017495,
+    "name": "Paint Bowl",
+    "contentId": "UB0337-PPSA34251_00-0430437190272035",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
     "titleId": "PPSA34256_00",
     "conceptId": 10011786,
     "name": "POOLS VR Demo",
@@ -156656,6 +156752,14 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA34724_00",
+    "conceptId": 10017793,
+    "name": "Only Down",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34726_00",
     "conceptId": 10017779,
     "name": "Trigger Path",
@@ -157203,6 +157307,14 @@
     "titleId": "PPSA35337_00",
     "conceptId": 10018149,
     "name": "Anime: Fantasy Uni 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35367_00",
+    "conceptId": 10018163,
+    "name": "Pixicharm - Zippyron",
     "contentId": null,
     "region": null,
     "publisherId": null
