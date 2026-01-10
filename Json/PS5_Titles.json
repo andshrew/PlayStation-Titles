@@ -129408,6 +129408,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA27995_00",
+    "conceptId": 10013848,
+    "name": "Umami Grove",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA27996_00",
     "conceptId": 10013849,
     "name": "\u7206\u76db\u98df\u5802",
@@ -129851,9 +129859,9 @@
     "titleId": "PPSA28093_00",
     "conceptId": 10013930,
     "name": "Jelly & Toast",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA28093_00-JELLYANDTOASTRAG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA28094_00",
@@ -138416,6 +138424,30 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA29935_00",
+    "conceptId": 10011448,
+    "name": "Code Vein II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29936_00",
+    "conceptId": 10011448,
+    "name": "Code Vein II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA29938_00",
+    "conceptId": 10011448,
+    "name": "Code Vein II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29939_00",
     "conceptId": 10003301,
     "name": "GigaBash",
@@ -140824,6 +140856,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA30449_00",
+    "conceptId": 10012863,
+    "name": "Pathologic 3",
+    "contentId": "EP4638-PPSA30449_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP4638"
+  },
+  {
     "titleId": "PPSA30452_00",
     "conceptId": 10015336,
     "name": "Tung Tung Tung Sahur Runner",
@@ -141755,9 +141795,9 @@
     "titleId": "PPSA30631_00",
     "conceptId": 10014742,
     "name": "The Brew Barons",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1784-PPSA30631_00-0172864945735769",
+    "region": "EB",
+    "publisherId": "EB1784"
   },
   {
     "titleId": "PPSA30634_00",
@@ -143262,6 +143302,22 @@
     "contentId": "UP6664-PPSA30977_00-0260319550171212",
     "region": "UP",
     "publisherId": "UP6664"
+  },
+  {
+    "titleId": "PPSA30978_00",
+    "conceptId": 10015648,
+    "name": "The Jumping Bonbon Match 5",
+    "contentId": "JP6595-PPSA30978_00-0416857193846156",
+    "region": "JP",
+    "publisherId": "JP6595"
+  },
+  {
+    "titleId": "PPSA30979_00",
+    "conceptId": 10015648,
+    "name": "The Jumping Bonbon Match 5",
+    "contentId": "HP6661-PPSA30979_00-0013386988613704",
+    "region": "HP",
+    "publisherId": "HP6661"
   },
   {
     "titleId": "PPSA30984_00",
@@ -147003,9 +147059,9 @@
     "titleId": "PPSA31810_00",
     "conceptId": 10016150,
     "name": "Cakey's Twisted Bakery",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5987-PPSA31810_00-CAKEYSULG0000000",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA31814_00",
@@ -154123,9 +154179,9 @@
     "titleId": "PPSA33664_00",
     "conceptId": 10017147,
     "name": "Owlen and the Spirits of the Past",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6556-PPSA33664_00-0533987814760147",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA33667_00",
@@ -156040,6 +156096,14 @@
     "publisherId": "UB0190"
   },
   {
+    "titleId": "PPSA34429_00",
+    "conceptId": 10001029,
+    "name": "Metaphor: ReFantazio",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34435_00",
     "conceptId": 10016744,
     "name": "Cassette Boy",
@@ -156905,6 +156969,30 @@
   },
   {
     "titleId": "PPSA34859_00",
+    "conceptId": 10016000,
+    "name": "ROMEO IS A DEAD MAN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34860_00",
+    "conceptId": 10016000,
+    "name": "ROMEO IS A DEAD MAN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34861_00",
+    "conceptId": 10016000,
+    "name": "ROMEO IS A DEAD MAN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34862_00",
     "conceptId": 10016000,
     "name": "ROMEO IS A DEAD MAN",
     "contentId": null,
