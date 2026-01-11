@@ -78850,18 +78850,18 @@
   {
     "titleId": "PPSA17946_00",
     "conceptId": 10008842,
-    "name": "DRAGON QUEST VII Reimagined",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "DRAGON QUEST VII Reimagined Demo",
+    "contentId": "EP0082-PPSA17946_00-DQ7RE0000000DEMO",
+    "region": "EP",
+    "publisherId": "EP0082"
   },
   {
     "titleId": "PPSA17947_00",
     "conceptId": 10008842,
-    "name": "DRAGON QUEST VII Reimagined",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u52c7\u8005\u9b25\u60e1\u9f8d VII Reimagined \u7387\u5148\u555f\u7a0b\u9ad4\u9a57\u7248",
+    "contentId": "HP0082-PPSA17947_00-DQ7RE0000000DEMO",
+    "region": "HP",
+    "publisherId": "HP0082"
   },
   {
     "titleId": "PPSA17948_00",
@@ -119224,6 +119224,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA26136_00",
+    "conceptId": 10012632,
+    "name": "Avowed",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
+  },
+  {
     "titleId": "PPSA26137_00",
     "conceptId": 10012633,
     "name": "Acre Crisis",
@@ -123283,7 +123291,7 @@
     "titleId": "PPSA26858_00",
     "conceptId": 10010762,
     "name": "Bunny Rampage: History of Revenge",
-    "contentId": null,
+    "contentId": "UB0714-PPSA26858_00-0691148616968410",
     "region": "UB",
     "publisherId": "UB0714"
   },
@@ -125086,6 +125094,14 @@
     "contentId": null,
     "region": "UP",
     "publisherId": "UP6360"
+  },
+  {
+    "titleId": "PPSA27215_00",
+    "conceptId": 10010244,
+    "name": "Rune Factory: Guardians of Azuma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27216_00",
@@ -139936,6 +139952,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA30279_00",
+    "conceptId": 10015238,
+    "name": "Taxi Chaos 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30280_00",
     "conceptId": 10015239,
     "name": "Infernitos: Fiery Dishes",
@@ -153192,6 +153216,14 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA33300_00",
+    "conceptId": 10016300,
+    "name": "Carieces",
+    "contentId": "UP5464-PPSA33300_00-0000000CARPIECES",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
     "titleId": "PPSA33301_00",
     "conceptId": 10016300,
     "name": "Carieces",
@@ -157384,6 +157416,38 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA35162_00",
+    "conceptId": 10018053,
+    "name": "The Jumping Cat",
+    "contentId": "UB0487-PPSA35162_00-0797440296985927",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35163_00",
+    "conceptId": 10018053,
+    "name": "The Jumping Cat",
+    "contentId": "UB0487-PPSA35163_00-0331116361494478",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35164_00",
+    "conceptId": 10018053,
+    "name": "The Jumping Cat",
+    "contentId": "UB0487-PPSA35164_00-0896631310615799",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35166_00",
+    "conceptId": 10018053,
+    "name": "The Jumping Cat",
+    "contentId": "UB0487-PPSA35166_00-0369160858071040",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
     "titleId": "PPSA35180_00",
     "conceptId": 10018068,
     "name": "Pixicharm - Acornflare",
@@ -157403,6 +157467,14 @@
     "titleId": "PPSA35367_00",
     "conceptId": 10018163,
     "name": "Pixicharm - Zippyron",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35389_00",
+    "conceptId": 10018180,
+    "name": "Space KaBAAM: Dagger",
     "contentId": null,
     "region": null,
     "publisherId": null
