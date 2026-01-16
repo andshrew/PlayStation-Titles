@@ -120424,6 +120424,14 @@
     "publisherId": "UP9000"
   },
   {
+    "titleId": "PPSA26345_00",
+    "conceptId": 10010302,
+    "name": "Escape from Ever After",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26350_00",
     "conceptId": 10012775,
     "name": "Entropy Survivors",
@@ -120651,9 +120659,9 @@
     "titleId": "PPSA26392_00",
     "conceptId": 10012789,
     "name": "The Legend of Heroes: Trails beyond the Horizon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1063-PPSA26392_00-EDKAINOKISEKI001",
+    "region": "EP",
+    "publisherId": "EP1063"
   },
   {
     "titleId": "PPSA26393_00",
@@ -130170,10 +130178,10 @@
   {
     "titleId": "PPSA28143_00",
     "conceptId": 10013958,
-    "name": "BlazBlue Entropy Effect X",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BlazBlue Entropy Effect X DEMO",
+    "contentId": "UB0473-PPSA28143_00-GREATACTGAMEBBE2",
+    "region": "UB",
+    "publisherId": "UB0473"
   },
   {
     "titleId": "PPSA28144_00",
@@ -132792,6 +132800,14 @@
     "publisherId": "EP2649"
   },
   {
+    "titleId": "PPSA28665_00",
+    "conceptId": 10012987,
+    "name": "Disciples: Domination",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4365"
+  },
+  {
     "titleId": "PPSA28669_00",
     "conceptId": 10014309,
     "name": "Two Hands Hospital Assistant Simulator",
@@ -135256,6 +135272,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA29246_00",
+    "conceptId": 10014658,
+    "name": "Voidwrought",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29249_00",
     "conceptId": 10014661,
     "name": "Out of Moves",
@@ -135526,6 +135550,14 @@
     "contentId": "EP4389-PPSA29309_00-GOTHICREMAKEDEMO",
     "region": "EP",
     "publisherId": "EP4389"
+  },
+  {
+    "titleId": "PPSA29310_00",
+    "conceptId": 10010244,
+    "name": "Rune Factory: Guardians of Azuma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29312_00",
@@ -136872,6 +136904,14 @@
     "publisherId": "JP0530"
   },
   {
+    "titleId": "PPSA29600_00",
+    "conceptId": 10014857,
+    "name": "Lovish",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29601_00",
     "conceptId": 10014010,
     "name": "Nioh 3 Alpha Demo",
@@ -137475,9 +137515,9 @@
     "titleId": "PPSA29708_00",
     "conceptId": 10014900,
     "name": "KEJORA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6885-PPSA29708_00-KEJORAPSSGLOBALM",
+    "region": "HP",
+    "publisherId": "HP6885"
   },
   {
     "titleId": "PPSA29713_00",
@@ -138982,6 +139022,14 @@
     "contentId": "UP7552-PPSA30053_00-0293384568913877",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA30054_00",
+    "conceptId": 10006294,
+    "name": "SUCCUBUS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30060_00",
@@ -144851,25 +144899,25 @@
     "titleId": "PPSA31285_00",
     "conceptId": 10015789,
     "name": "Brothers in Duty \u2013 Space Brawl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31285_00-BROTHERSINDUTYEU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31286_00",
     "conceptId": 10015789,
     "name": "Brothers in Duty \u2013 Space Brawl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31286_00-BROTHERSINDUTYJP",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31287_00",
     "conceptId": 10015789,
     "name": "Brothers in Duty \u2013 Space Brawl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31287_00-BROTHERSINDUTYAS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31291_00",
@@ -150112,6 +150160,14 @@
     "publisherId": "HP5361"
   },
   {
+    "titleId": "PPSA32472_00",
+    "conceptId": 10016516,
+    "name": "Battle Puzzle 2048 - Queens of the Abyss",
+    "contentId": "UP6557-PPSA32472_00-0957253100259642",
+    "region": "UP",
+    "publisherId": "UP6557"
+  },
+  {
     "titleId": "PPSA32473_00",
     "conceptId": 10016517,
     "name": "Zumba - The Lost Marble Island",
@@ -150139,9 +150195,9 @@
     "titleId": "PPSA32478_00",
     "conceptId": 10016519,
     "name": "Ghostly Whiskers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA32478_00-0917994780986130",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA32479_00",
@@ -150155,17 +150211,17 @@
     "titleId": "PPSA32480_00",
     "conceptId": 10016519,
     "name": "Ghostly Whiskers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA32480_00-0645618811697336",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA32481_00",
     "conceptId": 10016519,
     "name": "Ghostly Whiskers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA32481_00-0331162218681563",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA32482_00",
@@ -152059,9 +152115,9 @@
     "titleId": "PPSA32938_00",
     "conceptId": 10016744,
     "name": "CASSETTE BOY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3948-PPSA32938_00-0193250449869660",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA32940_00",
@@ -152608,6 +152664,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA33080_00",
+    "conceptId": 10016833,
+    "name": "Milo's Dream",
+    "contentId": "EP0896-PPSA33080_00-MILOSDREAMRATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA33081_00",
     "conceptId": 10016834,
     "name": "Speed Factor",
@@ -152650,10 +152714,10 @@
   {
     "titleId": "PPSA33090_00",
     "conceptId": 10016654,
-    "name": "God bless, or Goddess",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "God bless, or Goddess Global",
+    "contentId": "HP8406-PPSA33090_00-0003681767096256",
+    "region": "HP",
+    "publisherId": "HP8406"
   },
   {
     "titleId": "PPSA33094_00",
@@ -154472,6 +154536,14 @@
     "publisherId": "EP6556"
   },
   {
+    "titleId": "PPSA33666_00",
+    "conceptId": 10017149,
+    "name": "Zumba - The Dragon's Marble Trial",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33667_00",
     "conceptId": 10016681,
     "name": "YOU HAVE ONE SHOT",
@@ -154816,6 +154888,38 @@
     "publisherId": "JP7323"
   },
   {
+    "titleId": "PPSA33825_00",
+    "conceptId": 10017235,
+    "name": "MOTE: Workshop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33826_00",
+    "conceptId": 10017235,
+    "name": "MOTE: Workshop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33827_00",
+    "conceptId": 10017235,
+    "name": "MOTE: Workshop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33828_00",
+    "conceptId": 10017235,
+    "name": "MOTE: Workshop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33829_00",
     "conceptId": 233876,
     "name": "Lost Ember: Rekindled Edition",
@@ -154915,9 +155019,9 @@
     "titleId": "PPSA33883_00",
     "conceptId": 10017272,
     "name": "Arcade Archives 2 BOMB JACK TWIN",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP0571-PPSA33883_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA33884_00",
@@ -155984,12 +156088,20 @@
     "publisherId": "JP0571"
   },
   {
+    "titleId": "PPSA34243_00",
+    "conceptId": 234870,
+    "name": "\u30a2\u30b9\u30c7\u30a3\u30d0\u30a4\u30f3\u30ab\u30e0\u30e9",
+    "contentId": "JP0013-PPSA34243_00-JP0AKAMURA000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA34244_00",
     "conceptId": 234870,
     "name": "Asdivine Kamura",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2500-PPSA34244_00-US0AKAMURA000PS5",
+    "region": "UP",
+    "publisherId": "UP2500"
   },
   {
     "titleId": "PPSA34245_00",
@@ -156944,6 +157056,14 @@
     "publisherId": "UP8623"
   },
   {
+    "titleId": "PPSA34561_00",
+    "conceptId": 10017693,
+    "name": "Lonely Hospital",
+    "contentId": "EP6698-PPSA34561_00-0506433341815689",
+    "region": "EP",
+    "publisherId": "EP6698"
+  },
+  {
     "titleId": "PPSA34572_00",
     "conceptId": 10013050,
     "name": "Recycling Station Simulator",
@@ -157243,9 +157363,9 @@
     "titleId": "PPSA34724_00",
     "conceptId": 10017793,
     "name": "Only Down",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1069-PPSA34724_00-0223007948143004",
+    "region": "HB",
+    "publisherId": "HB1069"
   },
   {
     "titleId": "PPSA34726_00",
@@ -157340,6 +157460,102 @@
     "conceptId": 10017813,
     "name": "Popslinger Vol. 2 - Loveless",
     "contentId": "EP1411-PPSA34768_00-0740592704090577",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34785_00",
+    "conceptId": 10017818,
+    "name": "Nature Escapes 5: Collector's Edition",
+    "contentId": "EP1411-PPSA34785_00-0111531564424632",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34786_00",
+    "conceptId": 10017818,
+    "name": "Nature Escapes 5: Collector's Edition",
+    "contentId": "EP1411-PPSA34786_00-0030298406250675",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34787_00",
+    "conceptId": 10017818,
+    "name": "Nature Escapes 5: Collector's Edition",
+    "contentId": "EP1411-PPSA34787_00-0569321150317936",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34788_00",
+    "conceptId": 10017818,
+    "name": "Nature Escapes 5: Collector's Edition",
+    "contentId": "EP1411-PPSA34788_00-0932780110594638",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34789_00",
+    "conceptId": 10017819,
+    "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition",
+    "contentId": "EP1411-PPSA34789_00-0586213560496269",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34790_00",
+    "conceptId": 10017819,
+    "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition",
+    "contentId": "EP1411-PPSA34790_00-0245598057987417",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34791_00",
+    "conceptId": 10017819,
+    "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition",
+    "contentId": "EP1411-PPSA34791_00-0869593630410822",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34792_00",
+    "conceptId": 10017819,
+    "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition",
+    "contentId": "EP1411-PPSA34792_00-0390417665554649",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34793_00",
+    "conceptId": 10017820,
+    "name": "Big Adventure: Trip to Europe 9 - Collector's Edition",
+    "contentId": "EP1411-PPSA34793_00-0959385867122242",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34794_00",
+    "conceptId": 10017820,
+    "name": "Big Adventure: Trip to Europe 9 - Collector's Edition",
+    "contentId": "EP1411-PPSA34794_00-0614019473250879",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34795_00",
+    "conceptId": 10017820,
+    "name": "Big Adventure: Trip to Europe 9 - Collector's Edition",
+    "contentId": "EP1411-PPSA34795_00-0722917125310187",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34796_00",
+    "conceptId": 10017820,
+    "name": "Big Adventure: Trip to Europe 9 - Collector's Edition",
+    "contentId": "EP1411-PPSA34796_00-0745220350243332",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -157520,12 +157736,52 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA34892_00",
+    "conceptId": 10013181,
+    "name": "Baptiste",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34895_00",
+    "conceptId": 229794,
+    "name": "Rollercoaster Legends",
+    "contentId": "UP3202-PPSA34895_00-0121985794720991",
+    "region": "UP",
+    "publisherId": "UP3202"
+  },
+  {
+    "titleId": "PPSA34897_00",
+    "conceptId": 229794,
+    "name": "RollerCoaster Legends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34898_00",
     "conceptId": 10017882,
     "name": "Fatal Slash",
     "contentId": "EP6197-PPSA34898_00-0514434425135666",
     "region": "EP",
     "publisherId": "EP6197"
+  },
+  {
+    "titleId": "PPSA34899_00",
+    "conceptId": 232623,
+    "name": "RollerCoaster Legends II: Thor's Hammer",
+    "contentId": "UP3202-PPSA34899_00-0034540061405510",
+    "region": "UP",
+    "publisherId": "UP3202"
+  },
+  {
+    "titleId": "PPSA34900_00",
+    "conceptId": 232623,
+    "name": "RollerCoaster Legends II: Thor's Hammer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34919_00",
@@ -157763,33 +158019,33 @@
     "titleId": "PPSA35032_00",
     "conceptId": 10017968,
     "name": "Crabwave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA35032_00-0970440110180166",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA35033_00",
     "conceptId": 10017968,
     "name": "Crabwave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA35033_00-0714566513808484",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA35034_00",
     "conceptId": 10017968,
     "name": "Crabwave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA35034_00-0699652049282381",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA35035_00",
     "conceptId": 10017968,
     "name": "Crabwave",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA35035_00-0969102895053447",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA35036_00",
@@ -157968,12 +158224,60 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA35184_00",
+    "conceptId": 10018072,
+    "name": "Deep Combat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35186_00",
+    "conceptId": 10018072,
+    "name": "Deep Combat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35187_00",
+    "conceptId": 10018072,
+    "name": "Deep Combat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35188_00",
+    "conceptId": 10018072,
+    "name": "Deep Combat",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35337_00",
     "conceptId": 10018149,
     "name": "Anime: Fantasy Uni 2",
     "contentId": "EP5506-PPSA35337_00-FANTASYUNI2PS500",
     "region": "EP",
     "publisherId": "EP5506"
+  },
+  {
+    "titleId": "PPSA35339_00",
+    "conceptId": 10018151,
+    "name": "Liminal Tower",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35342_00",
+    "conceptId": 10018151,
+    "name": "Liminal Tower",
+    "contentId": "UP8553-PPSA35342_00-0396626917274472",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA35367_00",
@@ -157990,6 +158294,38 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA35390_00",
+    "conceptId": 10018180,
+    "name": "Space KaBAAM: Dagger",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35391_00",
+    "conceptId": 10018180,
+    "name": "Space KaBAAM: Dagger",
+    "contentId": "HP7367-PPSA35391_00-0037885532027615",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA35392_00",
+    "conceptId": 10018180,
+    "name": "Space KaBAAM: Dagger",
+    "contentId": "JP7323-PPSA35392_00-0867421439035219",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
+    "titleId": "PPSA35393_00",
+    "conceptId": 10018181,
+    "name": "Pixicharm - BitPew",
+    "contentId": "EP1612-PPSA35393_00-BITPEWGAME000000",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA35461_00",
@@ -158022,5 +158358,21 @@
     "contentId": "HP8737-PPSA35464_00-0659096359504672",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA35517_00",
+    "conceptId": 10018288,
+    "name": "Pixel Puzzles WINTER Jigsaws",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35637_00",
+    "conceptId": 10018365,
+    "name": "Stellar Strider",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
