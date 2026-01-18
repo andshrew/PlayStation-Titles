@@ -102368,6 +102368,14 @@
     "publisherId": "HP0088"
   },
   {
+    "titleId": "PPSA22837_00",
+    "conceptId": 10010906,
+    "name": "Tales of Berseria Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA22839_00",
     "conceptId": 10010375,
     "name": "ASTROSMASH",
@@ -108630,6 +108638,14 @@
     "contentId": "JP0530-PPSA24152_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP0530"
+  },
+  {
+    "titleId": "PPSA24153_00",
+    "conceptId": 10011376,
+    "name": "Sumorbit",
+    "contentId": "UB0954-PPSA24153_00-0844912325524634",
+    "region": "UB",
+    "publisherId": "UB0954"
   },
   {
     "titleId": "PPSA24154_00",
@@ -119790,6 +119806,14 @@
     "contentId": "JP0393-PPSA26229_00-0747174704606154",
     "region": "JP",
     "publisherId": "JP0393"
+  },
+  {
+    "titleId": "PPSA26230_00",
+    "conceptId": 10012672,
+    "name": "SEGA FOOTBALL CLUB CHAMPIONS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA26231_00",
@@ -149699,17 +149723,17 @@
     "titleId": "PPSA32359_00",
     "conceptId": 10016455,
     "name": "The Adventures of Hori",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32359_00-ADVENTUREHORI0NA",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32360_00",
     "conceptId": 10016455,
     "name": "The Adventures of Hori",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32360_00-ADVENTUREHORI0EU",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32361_00",
@@ -149723,9 +149747,9 @@
     "titleId": "PPSA32362_00",
     "conceptId": 10016455,
     "name": "The Adventures of Hori",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA32362_00-ADVENTUREHORI0AS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA32366_00",
@@ -155040,6 +155064,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA33875_00",
+    "conceptId": 10017265,
+    "name": "Fruits Drop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33876_00",
     "conceptId": 10017265,
     "name": "Fruits Drop",
@@ -158264,7 +158296,31 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA35133_00",
+    "conceptId": 10018029,
+    "name": "Minos Trials",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35134_00",
+    "conceptId": 10018029,
+    "name": "Minos Trials",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35135_00",
+    "conceptId": 10018029,
+    "name": "Minos Trials",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35136_00",
     "conceptId": 10018029,
     "name": "Minos Trials",
     "contentId": null,
@@ -158289,6 +158345,14 @@
   },
   {
     "titleId": "PPSA35144_00",
+    "conceptId": 10018034,
+    "name": "Do You Really Know?",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35145_00",
     "conceptId": 10018034,
     "name": "Do You Really Know?",
     "contentId": null,
@@ -158374,6 +158438,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA35323_00",
+    "conceptId": 10016600,
+    "name": "The 9th Charnel Demo",
+    "contentId": "EP4541-PPSA35323_00-0048013140078375",
+    "region": "EP",
+    "publisherId": "EP4541"
   },
   {
     "titleId": "PPSA35337_00",
@@ -158496,6 +158568,38 @@
     "publisherId": "HP8737"
   },
   {
+    "titleId": "PPSA35507_00",
+    "conceptId": 10018284,
+    "name": "67",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35508_00",
+    "conceptId": 10018284,
+    "name": "67",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35509_00",
+    "conceptId": 10018284,
+    "name": "67",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35510_00",
+    "conceptId": 10018284,
+    "name": "67",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35517_00",
     "conceptId": 10018288,
     "name": "Pixel Puzzles WINTER Jigsaws",
@@ -158513,6 +158617,22 @@
   },
   {
     "titleId": "PPSA35638_00",
+    "conceptId": 10018365,
+    "name": "Stellar Strider",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35639_00",
+    "conceptId": 10018365,
+    "name": "Stellar Strider",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35640_00",
     "conceptId": 10018365,
     "name": "Stellar Strider",
     "contentId": null,
