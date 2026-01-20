@@ -117560,6 +117560,14 @@
     "publisherId": "JP0122"
   },
   {
+    "titleId": "PPSA25806_00",
+    "conceptId": 10011942,
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25808_00",
     "conceptId": 10012427,
     "name": "Grit and Valor - 1949",
@@ -125670,6 +125678,14 @@
     "contentId": "UP7668-PPSA27310_00-0362449620613121",
     "region": "UP",
     "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA27311_00",
+    "conceptId": 10013354,
+    "name": "ICARUS: Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA27312_00",
@@ -144923,9 +144939,9 @@
     "titleId": "PPSA31283_00",
     "conceptId": 10015788,
     "name": "The Backrooms: Maze Escape",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA31283_00-BACKROOMSMAZESAS",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA31284_00",
@@ -145206,6 +145222,14 @@
     "contentId": "EP6985-PPSA31370_00-0762492349171715",
     "region": "EP",
     "publisherId": "EP6985"
+  },
+  {
+    "titleId": "PPSA31372_00",
+    "conceptId": 10015861,
+    "name": "RIDGE RACER\u2122",
+    "contentId": "UP0700-PPSA31372_00-SCUS943000000000",
+    "region": "UP",
+    "publisherId": "UP0700"
   },
   {
     "titleId": "PPSA31374_00",
@@ -145584,6 +145608,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31440_00",
+    "conceptId": 10015906,
+    "name": "Left Right Dodge Race",
+    "contentId": "UP7668-PPSA31440_00-0360489243036263",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31441_00",
+    "conceptId": 10015906,
+    "name": "Left Right Dodge Race",
+    "contentId": "UP7668-PPSA31441_00-0862786141748192",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31442_00",
     "conceptId": 10015908,
     "name": "Meteor Break Mission",
@@ -145600,6 +145640,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31444_00",
+    "conceptId": 10015908,
+    "name": "Meteor Break Mission",
+    "contentId": "UP7668-PPSA31444_00-0725312661263216",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31445_00",
+    "conceptId": 10015908,
+    "name": "Meteor Break Mission",
+    "contentId": "UP7668-PPSA31445_00-0270398371334709",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31446_00",
     "conceptId": 10015909,
     "name": "Drift Fuel Loop",
@@ -145612,6 +145668,14 @@
     "conceptId": 10015909,
     "name": "Drift Fuel Loop",
     "contentId": "UP7668-PPSA31447_00-0664101508801389",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31448_00",
+    "conceptId": 10015909,
+    "name": "Drift Fuel Loop",
+    "contentId": "UP7668-PPSA31448_00-0699742428376917",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -145684,6 +145748,22 @@
     "conceptId": 10015920,
     "name": "Blaster Rush Blocks",
     "contentId": "UP7668-PPSA31470_00-0332870657397464",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31471_00",
+    "conceptId": 10015920,
+    "name": "Blaster Rush Blocks",
+    "contentId": "UP7668-PPSA31471_00-0406239283256143",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31472_00",
+    "conceptId": 10015920,
+    "name": "Blaster Rush Blocks",
+    "contentId": "UP7668-PPSA31472_00-0733855875248195",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -146832,6 +146912,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA31710_00",
+    "conceptId": 10016082,
+    "name": "Rabbit Run Carrot Hunt",
+    "contentId": "UP7668-PPSA31710_00-0008030141930361",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31711_00",
+    "conceptId": 10016082,
+    "name": "Rabbit Run Carrot Hunt",
+    "contentId": "UP7668-PPSA31711_00-0344895315900143",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA31713_00",
     "conceptId": 10007483,
     "name": "MORTAR",
@@ -147506,18 +147602,18 @@
   {
     "titleId": "PPSA31863_00",
     "conceptId": 10006527,
-    "name": "Trenches",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trenches VR",
+    "contentId": "JP3631-PPSA31863_00-0966510186841415",
+    "region": "JP",
+    "publisherId": "JP3631"
   },
   {
     "titleId": "PPSA31864_00",
     "conceptId": 10006527,
-    "name": "Trenches",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trenches VR",
+    "contentId": "HP3536-PPSA31864_00-0966510186841415",
+    "region": "HP",
+    "publisherId": "HP3536"
   },
   {
     "titleId": "PPSA31866_00",
@@ -147660,6 +147756,22 @@
     "conceptId": 10016207,
     "name": "Rocket Spin Orbit Glide",
     "contentId": "UP7668-PPSA31900_00-0156004603392012",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31901_00",
+    "conceptId": 10016207,
+    "name": "Rocket Spin Orbit Glide",
+    "contentId": "UP7668-PPSA31901_00-0521071409020315",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31902_00",
+    "conceptId": 10016207,
+    "name": "Rocket Spin Orbit Glide",
+    "contentId": "UP7668-PPSA31902_00-0323838696763291",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -147924,6 +148036,22 @@
     "conceptId": 10016227,
     "name": "Jump Land Glow Challenge",
     "contentId": "UP7668-PPSA31946_00-0614040169851046",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31947_00",
+    "conceptId": 10016227,
+    "name": "Jump Land Glow Challenge",
+    "contentId": "UP7668-PPSA31947_00-0317149828424420",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA31948_00",
+    "conceptId": 10016227,
+    "name": "Jump Land Glow Challenge",
+    "contentId": "UP7668-PPSA31948_00-0544146837698579",
     "region": "UP",
     "publisherId": "UP7668"
   },
@@ -153112,6 +153240,22 @@
     "publisherId": "HP3473"
   },
   {
+    "titleId": "PPSA33181_00",
+    "conceptId": 10016885,
+    "name": "Falling Bricks Endless Smash",
+    "contentId": "UP7668-PPSA33181_00-0220907102169473",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA33182_00",
+    "conceptId": 10016885,
+    "name": "Falling Bricks Endless Smash",
+    "contentId": "UP7668-PPSA33182_00-0010019493537127",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA33185_00",
     "conceptId": 10016493,
     "name": "Fly Light",
@@ -153288,6 +153432,22 @@
     "publisherId": "UB0648"
   },
   {
+    "titleId": "PPSA33241_00",
+    "conceptId": 10016921,
+    "name": "Slime Shot Adventure",
+    "contentId": "UP7668-PPSA33241_00-0425039251632913",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA33242_00",
+    "conceptId": 10016921,
+    "name": "Slime Shot Adventure",
+    "contentId": "UP7668-PPSA33242_00-0915108570379074",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA33243_00",
     "conceptId": 10016921,
     "name": "Slime Shot Adventure",
@@ -153430,6 +153590,22 @@
     "contentId": "JB1686-PPSA33271_00-0884964600110317",
     "region": "JB",
     "publisherId": "JB1686"
+  },
+  {
+    "titleId": "PPSA33273_00",
+    "conceptId": 10016941,
+    "name": "Pinball Strike Arcade Rampage",
+    "contentId": "UP7668-PPSA33273_00-0746564808556809",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA33274_00",
+    "conceptId": 10016941,
+    "name": "Pinball Strike Arcade Rampage",
+    "contentId": "UP7668-PPSA33274_00-0274988393863316",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA33275_00",
@@ -154534,6 +154710,14 @@
     "contentId": "EB2171-PPSA33608_00-0811838257582227",
     "region": "EB",
     "publisherId": "EB2171"
+  },
+  {
+    "titleId": "PPSA33611_00",
+    "conceptId": 10017110,
+    "name": "RUBATO (Demo)",
+    "contentId": "UP8212-PPSA33611_00-XXXXXXXXXXXXXXXZ",
+    "region": "UP",
+    "publisherId": "UP8212"
   },
   {
     "titleId": "PPSA33618_00",
@@ -156960,6 +157144,14 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA34487_00",
+    "conceptId": 10017643,
+    "name": "Cryptical Path",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34495_00",
     "conceptId": 10017652,
     "name": "Tales Of Morphos",
@@ -157254,6 +157446,14 @@
     "contentId": "UP7940-PPSA34608_00-0355833832192483",
     "region": "UP",
     "publisherId": "UP7940"
+  },
+  {
+    "titleId": "PPSA34609_00",
+    "conceptId": 10010153,
+    "name": "Colorful Recolor",
+    "contentId": "JP7921-PPSA34609_00-0014259729942487",
+    "region": "JP",
+    "publisherId": "JP7921"
   },
   {
     "titleId": "PPSA34610_00",
@@ -157584,6 +157784,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA34761_00",
+    "conceptId": 10015442,
+    "name": "Island Market Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34765_00",
     "conceptId": 10017813,
     "name": "Popslinger Vol. 2 - Loveless",
@@ -157612,6 +157820,14 @@
     "conceptId": 10017813,
     "name": "Popslinger Vol. 2 - Loveless",
     "contentId": "EP1411-PPSA34768_00-0740592704090577",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34781_00",
+    "conceptId": 10017817,
+    "name": "Enchantment 2: Sun's Tear",
+    "contentId": "EP1411-PPSA34781_00-0526648207085792",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -158211,25 +158427,25 @@
     "titleId": "PPSA35036_00",
     "conceptId": 10017872,
     "name": "Bomboban",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA35036_00-0823089894234795",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA35037_00",
     "conceptId": 10017872,
     "name": "Bomboban",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA35037_00-0030228691761014",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA35038_00",
     "conceptId": 10017872,
     "name": "Bomboban",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA35038_00-0597426199248490",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA35039_00",
@@ -158278,6 +158494,22 @@
     "contentId": "HP7967-PPSA35064_00-0542761543832542",
     "region": "HP",
     "publisherId": "HP7967"
+  },
+  {
+    "titleId": "PPSA35066_00",
+    "conceptId": 10017982,
+    "name": "Speed Dates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35067_00",
+    "conceptId": 10017982,
+    "name": "Speed Dates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA35091_00",
@@ -158539,9 +158771,9 @@
     "titleId": "PPSA35367_00",
     "conceptId": 10018163,
     "name": "Pixicharm - Zippyron",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1612-PPSA35367_00-ZIPPYRONGAME0000",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA35389_00",
@@ -158614,6 +158846,14 @@
     "contentId": "HP8737-PPSA35464_00-0659096359504672",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA35503_00",
+    "conceptId": 10015253,
+    "name": "Tralalero Tralala\u2122: Backrooms",
+    "contentId": "UB0569-PPSA35503_00-TRTLBACKROOMSPS5",
+    "region": "UB",
+    "publisherId": "UB0569"
   },
   {
     "titleId": "PPSA35507_00",
