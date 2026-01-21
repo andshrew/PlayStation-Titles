@@ -74048,6 +74048,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA16900_00",
+    "conceptId": 10008474,
+    "name": "Speedball",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA16901_00",
     "conceptId": 10008568,
     "name": "Tomb Raider I-III Remastered",
@@ -75766,6 +75774,14 @@
     "contentId": "UP4363-PPSA17232_00-SNIPERELITERES00",
     "region": "UP",
     "publisherId": "UP4363"
+  },
+  {
+    "titleId": "PPSA17233_00",
+    "conceptId": 10008716,
+    "name": "Sniper Elite: Resistance",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA17236_00",
@@ -92066,8 +92082,8 @@
   {
     "titleId": "PPSA20662_00",
     "conceptId": 10010037,
-    "name": "MIO: Memories in Orbit",
-    "contentId": null,
+    "name": "MIO: Memories In Orbit",
+    "contentId": "UP4133-PPSA20662_00-MIOMRYINORBIT000",
     "region": "UP",
     "publisherId": "UP4133"
   },
@@ -110618,10 +110634,10 @@
   {
     "titleId": "PPSA24487_00",
     "conceptId": 10008864,
-    "name": "Marathon",
+    "name": "Marathon Deluxe Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP9200"
   },
   {
     "titleId": "PPSA24490_00",
@@ -117558,6 +117574,14 @@
     "contentId": "JP0122-PPSA25804_00-000000MOMODORAMF",
     "region": "JP",
     "publisherId": "JP0122"
+  },
+  {
+    "titleId": "PPSA25805_00",
+    "conceptId": 10011942,
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA25806_00",
@@ -129992,6 +130016,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA28099_00",
+    "conceptId": 10013938,
+    "name": "Life is Strange: Reunion",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
     "titleId": "PPSA28105_00",
     "conceptId": 10013940,
     "name": "JumpJump!",
@@ -134598,6 +134630,14 @@
     "contentId": "HB1069-PPSA29078_00-0737830367034713",
     "region": "HB",
     "publisherId": "HB1069"
+  },
+  {
+    "titleId": "PPSA29085_00",
+    "conceptId": 10005386,
+    "name": "Anime Uni",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA29091_00",
@@ -147586,18 +147626,18 @@
   {
     "titleId": "PPSA31861_00",
     "conceptId": 10006527,
-    "name": "Trenches",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trenches VR",
+    "contentId": "UP3589-PPSA31861_00-0966510186841415",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA31862_00",
     "conceptId": 10006527,
-    "name": "Trenches",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Trenches VR",
+    "contentId": "EP3446-PPSA31862_00-0966510186841415",
+    "region": "EP",
+    "publisherId": "EP3446"
   },
   {
     "titleId": "PPSA31863_00",
@@ -156307,9 +156347,9 @@
     "titleId": "PPSA34211_00",
     "conceptId": 10017476,
     "name": "Hextreme Void",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-PPSA34211_00-HEXTREMEVOID0000",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA34220_00",
@@ -156339,17 +156379,17 @@
     "titleId": "PPSA34223_00",
     "conceptId": 10017483,
     "name": "A house that glows",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7309-PPSA34223_00-0286809003965664",
+    "region": "JP",
+    "publisherId": "JP7309"
   },
   {
     "titleId": "PPSA34224_00",
     "conceptId": 10017483,
     "name": "A house that glows",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7354-PPSA34224_00-0424547867183610",
+    "region": "HP",
+    "publisherId": "HP7354"
   },
   {
     "titleId": "PPSA34225_00",
@@ -157828,6 +157868,30 @@
     "conceptId": 10017817,
     "name": "Enchantment 2: Sun's Tear",
     "contentId": "EP1411-PPSA34781_00-0526648207085792",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34782_00",
+    "conceptId": 10017817,
+    "name": "Enchantment 2: Sun's Tear",
+    "contentId": "EP1411-PPSA34782_00-0733466908883204",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34783_00",
+    "conceptId": 10017817,
+    "name": "Enchantment 2: Sun's Tear",
+    "contentId": "EP1411-PPSA34783_00-0544421577865260",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34784_00",
+    "conceptId": 10017817,
+    "name": "Enchantment 2: Sun's Tear",
+    "contentId": "EP1411-PPSA34784_00-0190097738781920",
     "region": "EP",
     "publisherId": "EP1411"
   },
