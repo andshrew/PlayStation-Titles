@@ -81658,8 +81658,8 @@
   {
     "titleId": "PPSA18538_00",
     "conceptId": 10009205,
-    "name": "Arknights: Endfield(Free to Play)Pre-Order Bundle",
-    "contentId": null,
+    "name": "Arknights: Endfield",
+    "contentId": "UB0018-PPSA18538_00-ENDFIELD0000SIEA",
     "region": "UB",
     "publisherId": "UB0018"
   },
@@ -117600,6 +117600,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA25807_00",
+    "conceptId": 10011942,
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25808_00",
     "conceptId": 10012427,
     "name": "Grit and Valor - 1949",
@@ -131544,6 +131552,14 @@
     "publisherId": "EP4902"
   },
   {
+    "titleId": "PPSA28379_00",
+    "conceptId": 10014121,
+    "name": "Centipede Gun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28383_00",
     "conceptId": 10014124,
     "name": "Remember Valentine",
@@ -138672,6 +138688,22 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA29927_00",
+    "conceptId": 10011448,
+    "name": "CODE VEIN \u2161 Character Creator Demo",
+    "contentId": "JP0700-PPSA29927_00-MAINGAMEDEMO0000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
+    "titleId": "PPSA29930_00",
+    "conceptId": 10011448,
+    "name": "Code Vein II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA29935_00",
     "conceptId": 10011448,
     "name": "Code Vein II",
@@ -142792,6 +142824,14 @@
     "publisherId": "UB0655"
   },
   {
+    "titleId": "PPSA30799_00",
+    "conceptId": 10015529,
+    "name": "Desvelado",
+    "contentId": "UB0946-PPSA30799_00-DESVELADO0000PS5",
+    "region": "UB",
+    "publisherId": "UB0946"
+  },
+  {
     "titleId": "PPSA30803_00",
     "conceptId": 10015533,
     "name": "Resident Evil Requiem",
@@ -144419,9 +144459,9 @@
     "titleId": "PPSA31177_00",
     "conceptId": 10015736,
     "name": "Fighting Force Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6890-PPSA31177_00-0509013129930531",
+    "region": "EP",
+    "publisherId": "EP6890"
   },
   {
     "titleId": "PPSA31178_00",
@@ -146171,9 +146211,9 @@
     "titleId": "PPSA31537_00",
     "conceptId": 10015956,
     "name": "Tropicalia",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA31537_00-TROPICALIARATGAM",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA31538_00",
@@ -146774,6 +146814,14 @@
     "contentId": "EP6556-PPSA31657_00-0149058585516420",
     "region": "EP",
     "publisherId": "EP6556"
+  },
+  {
+    "titleId": "PPSA31658_00",
+    "conceptId": 10016049,
+    "name": "Horror Tale 1: Remaster",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA31661_00",
@@ -147766,6 +147814,14 @@
     "contentId": "UP4312-PPSA31875_00-0469307992812838",
     "region": "UP",
     "publisherId": "UP4312"
+  },
+  {
+    "titleId": "PPSA31876_00",
+    "conceptId": 10016104,
+    "name": "Briks Boss Battle",
+    "contentId": "JP0089-PPSA31876_00-0442756576921366",
+    "region": "JP",
+    "publisherId": "JP0089"
   },
   {
     "titleId": "PPSA31879_00",
@@ -150259,17 +150315,17 @@
     "titleId": "PPSA32427_00",
     "conceptId": 10016501,
     "name": "Mage Wars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA32427_00-0931165028115004",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA32428_00",
     "conceptId": 10016501,
     "name": "Mage Wars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA32428_00-0937144292796756",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA32429_00",
@@ -150771,9 +150827,9 @@
     "titleId": "PPSA32542_00",
     "conceptId": 10016563,
     "name": "Look Mum No Computer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0822-PPSA32542_00-LOOKMUMNOCOMPUT5",
+    "region": "EP",
+    "publisherId": "EP0822"
   },
   {
     "titleId": "PPSA32547_00",
@@ -152539,9 +152595,9 @@
     "titleId": "PPSA32965_00",
     "conceptId": 10016757,
     "name": "Sun, Sand & Monster Slayers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1069-PPSA32965_00-0701704600161672",
+    "region": "HB",
+    "publisherId": "HB1069"
   },
   {
     "titleId": "PPSA32971_00",
@@ -153912,6 +153968,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33315_00",
+    "conceptId": 10013771,
+    "name": "Ariana and the Elder Codex",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33320_00",
     "conceptId": 10016959,
     "name": "BOUNCY BREAD",
@@ -153942,6 +154006,14 @@
     "contentId": "HB0876-PPSA33323_00-0247419141230554",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA33327_00",
+    "conceptId": 10010175,
+    "name": "Panty Party Perfect",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33329_00",
@@ -154214,6 +154286,22 @@
     "contentId": "UB0837-PPSA33401_00-0152592893885959",
     "region": "UB",
     "publisherId": "UB0837"
+  },
+  {
+    "titleId": "PPSA33404_00",
+    "conceptId": 10013771,
+    "name": "Ariana and the Elder Codex",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33405_00",
+    "conceptId": 10013771,
+    "name": "Ariana and the Elder Codex",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33411_00",
@@ -155403,9 +155491,9 @@
     "titleId": "PPSA33856_00",
     "conceptId": 10017196,
     "name": "MAVRIX by Matt Jones",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB2044-PPSA33856_00-0977312686682747",
+    "region": "UB",
+    "publisherId": "UB2044"
   },
   {
     "titleId": "PPSA33857_00",
@@ -155558,6 +155646,14 @@
     "contentId": "JP0211-PPSA33914_00-0111529861606057",
     "region": "JP",
     "publisherId": "JP0211"
+  },
+  {
+    "titleId": "PPSA33922_00",
+    "conceptId": 10017292,
+    "name": "SkyLeap",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33939_00",
@@ -156123,9 +156219,9 @@
     "titleId": "PPSA34083_00",
     "conceptId": 10012019,
     "name": "Electronics Supermarket Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0861-PPSA34083_00-0399034627792619",
+    "region": "UB",
+    "publisherId": "UB0861"
   },
   {
     "titleId": "PPSA34087_00",
@@ -156768,6 +156864,30 @@
     "publisherId": "EP6197"
   },
   {
+    "titleId": "PPSA34295_00",
+    "conceptId": 10017518,
+    "name": "Cowboys",
+    "contentId": "JP7094-PPSA34295_00-0586779324785586",
+    "region": "JP",
+    "publisherId": "JP7094"
+  },
+  {
+    "titleId": "PPSA34297_00",
+    "conceptId": 10017518,
+    "name": "Cowboys",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34298_00",
+    "conceptId": 10017518,
+    "name": "Cowboys",
+    "contentId": "HP7141-PPSA34298_00-0141472912429504",
+    "region": "HP",
+    "publisherId": "HP7141"
+  },
+  {
     "titleId": "PPSA34301_00",
     "conceptId": 10017523,
     "name": "Cute Bonfire",
@@ -156934,6 +157054,22 @@
     "contentId": "HP8737-PPSA34335_00-0127250276758121",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA34343_00",
+    "conceptId": 10017545,
+    "name": "Switch Race",
+    "contentId": "UB0337-PPSA34343_00-0657679540591401",
+    "region": "UB",
+    "publisherId": "UB0337"
+  },
+  {
+    "titleId": "PPSA34354_00",
+    "conceptId": 10017550,
+    "name": "Escape - Backrooms Horror VR",
+    "contentId": "UP8703-PPSA34354_00-0672190993981436",
+    "region": "UP",
+    "publisherId": "UP8703"
   },
   {
     "titleId": "PPSA34357_00",
@@ -157648,6 +157784,14 @@
     "publisherId": "EB2034"
   },
   {
+    "titleId": "PPSA34617_00",
+    "conceptId": 10017733,
+    "name": "Shop & Stuff: Supermarket Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34624_00",
     "conceptId": 10017738,
     "name": "A living house",
@@ -158000,6 +158144,70 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA34769_00",
+    "conceptId": 10017814,
+    "name": "New Yankee: Through the History Mirror Collector's Edition",
+    "contentId": "EP1411-PPSA34769_00-0377999801738351",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34770_00",
+    "conceptId": 10017814,
+    "name": "New Yankee: Through the History Mirror Collector's Edition",
+    "contentId": "EP1411-PPSA34770_00-0158278945312303",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34771_00",
+    "conceptId": 10017814,
+    "name": "New Yankee: Through the History Mirror Collector's Edition",
+    "contentId": "EP1411-PPSA34771_00-0973419925900138",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34772_00",
+    "conceptId": 10017814,
+    "name": "New Yankee: Through the History Mirror Collector's Edition",
+    "contentId": "EP1411-PPSA34772_00-0624223909159416",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34773_00",
+    "conceptId": 10017815,
+    "name": "Queen's Garden : French Splendor",
+    "contentId": "EP1411-PPSA34773_00-0708526445791121",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34774_00",
+    "conceptId": 10017815,
+    "name": "Queen's Garden : French Splendor",
+    "contentId": "EP1411-PPSA34774_00-0902060140495056",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34775_00",
+    "conceptId": 10017815,
+    "name": "Queen's Garden : French Splendor",
+    "contentId": "EP1411-PPSA34775_00-0633671139084196",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34776_00",
+    "conceptId": 10017815,
+    "name": "Queen's Garden : French Splendor",
+    "contentId": "EP1411-PPSA34776_00-0337591871416420",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA34781_00",
     "conceptId": 10017817,
     "name": "Enchantment 2: Sun's Tear",
@@ -158124,6 +158332,38 @@
     "conceptId": 10017820,
     "name": "Big Adventure: Trip to Europe 9 - Collector's Edition",
     "contentId": "EP1411-PPSA34796_00-0745220350243332",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34797_00",
+    "conceptId": 10017821,
+    "name": "Motorhome: Traveling America Collector's Edition",
+    "contentId": "EP1411-PPSA34797_00-0178910845262931",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34798_00",
+    "conceptId": 10017821,
+    "name": "Motorhome: Traveling America Collector's Edition",
+    "contentId": "EP1411-PPSA34798_00-0805057421624338",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34799_00",
+    "conceptId": 10017821,
+    "name": "Motorhome: Traveling America Collector's Edition",
+    "contentId": "EP1411-PPSA34799_00-0280279544387453",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA34800_00",
+    "conceptId": 10017821,
+    "name": "Motorhome: Traveling America Collector's Edition",
+    "contentId": "EP1411-PPSA34800_00-0770081329432953",
     "region": "EP",
     "publisherId": "EP1411"
   },
@@ -158459,17 +158699,17 @@
     "titleId": "PPSA34931_00",
     "conceptId": 10017876,
     "name": "The Perplexing Orb: Bounce Mania",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4947-PPSA34931_00-ORBBOUNCEMANIA12",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA34932_00",
     "conceptId": 10017876,
     "name": "The Perplexing Orb: Bounce Mania",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5133-PPSA34932_00-ORBBOUNCEMANIA12",
+    "region": "EP",
+    "publisherId": "EP5133"
   },
   {
     "titleId": "PPSA34933_00",
@@ -158494,6 +158734,14 @@
     "contentId": "EP7333-PPSA34946_00-0175154447745917",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA34949_00",
+    "conceptId": 10017926,
+    "name": "Ho Ho & Move",
+    "contentId": "EP1612-PPSA34949_00-HOHOMOVEGAME0000",
+    "region": "EP",
+    "publisherId": "EP1612"
   },
   {
     "titleId": "PPSA34986_00",
@@ -158784,6 +159032,14 @@
     "publisherId": "UB0487"
   },
   {
+    "titleId": "PPSA35121_00",
+    "conceptId": 10018017,
+    "name": "Dark Quest: Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35122_00",
     "conceptId": 10018018,
     "name": "Offroad Rally Racing",
@@ -158795,33 +159051,33 @@
     "titleId": "PPSA35133_00",
     "conceptId": 10018029,
     "name": "Minos Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA35133_00-0312116312200908",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA35134_00",
     "conceptId": 10018029,
     "name": "Minos Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA35134_00-0261607953245798",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA35135_00",
     "conceptId": 10018029,
     "name": "Minos Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA35135_00-0233312644632726",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA35136_00",
     "conceptId": 10018029,
     "name": "Minos Trials",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA35136_00-0620779078885139",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA35142_00",
@@ -158854,6 +159110,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA35149_00",
+    "conceptId": 10018041,
+    "name": "Guts 'n Grunts Jr.",
+    "contentId": "UB0108-PPSA35149_00-0736492604990631",
+    "region": "UB",
+    "publisherId": "UB0108"
   },
   {
     "titleId": "PPSA35150_00",
@@ -158894,6 +159158,14 @@
     "contentId": "UB0487-PPSA35166_00-0369160858071040",
     "region": "UB",
     "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35173_00",
+    "conceptId": 10018063,
+    "name": "Avatar Island",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA35180_00",
@@ -158942,6 +159214,14 @@
     "contentId": "EP4541-PPSA35323_00-0048013140078375",
     "region": "EP",
     "publisherId": "EP4541"
+  },
+  {
+    "titleId": "PPSA35332_00",
+    "conceptId": 10017346,
+    "name": "Hacked: The Streamer",
+    "contentId": "UP7939-PPSA35332_00-0227976651477996",
+    "region": "UP",
+    "publisherId": "UP7939"
   },
   {
     "titleId": "PPSA35337_00",
@@ -159112,6 +159392,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA35513_00",
+    "conceptId": 10018285,
+    "name": "Magnitude: X",
+    "contentId": "HP7367-PPSA35513_00-0341604071125159",
+    "region": "HP",
+    "publisherId": "HP7367"
+  },
+  {
+    "titleId": "PPSA35514_00",
+    "conceptId": 10018285,
+    "name": "Magnitude: X",
+    "contentId": "JP7323-PPSA35514_00-0673276403208554",
+    "region": "JP",
+    "publisherId": "JP7323"
+  },
+  {
     "titleId": "PPSA35517_00",
     "conceptId": 10018288,
     "name": "Pixel Puzzles WINTER Jigsaws",
@@ -159123,17 +159419,17 @@
     "titleId": "PPSA35637_00",
     "conceptId": 10018365,
     "name": "Stellar Strider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA35637_00-0631792470139731",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA35638_00",
     "conceptId": 10018365,
     "name": "Stellar Strider",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA35638_00-0484735225573974",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA35639_00",
