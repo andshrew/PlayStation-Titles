@@ -43147,9 +43147,9 @@
     "titleId": "PPSA09528_00",
     "conceptId": 10005841,
     "name": "2XKO",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP3993-PPSA09528_00-0211633994336246",
+    "region": "UP",
+    "publisherId": "UP3993"
   },
   {
     "titleId": "PPSA09532_00",
@@ -134691,17 +134691,17 @@
     "titleId": "PPSA29084_00",
     "conceptId": 10005386,
     "name": "Anime Uni",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP5325-PPSA29084_00-ANIMEUNIPS5UP000",
+    "region": "UP",
+    "publisherId": "UP5325"
   },
   {
     "titleId": "PPSA29085_00",
     "conceptId": 10005386,
     "name": "Anime Uni",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5506-PPSA29085_00-ANIMEUNIPS5EP000",
+    "region": "EP",
+    "publisherId": "EP5506"
   },
   {
     "titleId": "PPSA29091_00",
@@ -138696,12 +138696,28 @@
     "publisherId": "JP0700"
   },
   {
+    "titleId": "PPSA29928_00",
+    "conceptId": 10011448,
+    "name": "CODE VEIN \u566c\u8840\u4ee3\u78bc II Character Creator Demo",
+    "contentId": "HP0700-PPSA29928_00-MAINGAMEDEMO0000",
+    "region": "HP",
+    "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA29929_00",
+    "conceptId": 10011448,
+    "name": "CODE VEIN II Character Creator Demo",
+    "contentId": "UP0700-PPSA29929_00-MAINGAMEDEMO0000",
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
     "titleId": "PPSA29930_00",
     "conceptId": 10011448,
-    "name": "Code Vein II",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CODE VEIN II Character Creator Demo",
+    "contentId": "EP0700-PPSA29930_00-MAINGAMEDEMO0000",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA29935_00",
@@ -146818,10 +146834,10 @@
   {
     "titleId": "PPSA31658_00",
     "conceptId": 10016049,
-    "name": "Horror Tale 1: Remaster",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Horror Tale 1: 4k Remaster",
+    "contentId": "EP6556-PPSA31658_00-0124145547385239",
+    "region": "EP",
+    "publisherId": "EP6556"
   },
   {
     "titleId": "PPSA31661_00",
@@ -147822,6 +147838,14 @@
     "contentId": "JP0089-PPSA31876_00-0442756576921366",
     "region": "JP",
     "publisherId": "JP0089"
+  },
+  {
+    "titleId": "PPSA31877_00",
+    "conceptId": 10016104,
+    "name": "Briks Boss Battle",
+    "contentId": "HP4312-PPSA31877_00-0202905798283139",
+    "region": "HP",
+    "publisherId": "HP4312"
   },
   {
     "titleId": "PPSA31879_00",
@@ -149648,6 +149672,14 @@
     "publisherId": "JP0128"
   },
   {
+    "titleId": "PPSA32237_00",
+    "conceptId": 10016382,
+    "name": "DUSK INDEX: GION",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32239_00",
     "conceptId": 10016383,
     "name": "Mega Man Star Force Legacy Collection PS4 & PS5",
@@ -150331,17 +150363,17 @@
     "titleId": "PPSA32429_00",
     "conceptId": 10016501,
     "name": "Mage Wars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA32429_00-0974175910350586",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA32430_00",
     "conceptId": 10016501,
     "name": "Mage Wars",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB0805-PPSA32430_00-0308911755297692",
+    "region": "EB",
+    "publisherId": "EB0805"
   },
   {
     "titleId": "PPSA32436_00",
@@ -154304,6 +154336,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33406_00",
+    "conceptId": 10013771,
+    "name": "Ariana and the Elder Codex",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33411_00",
     "conceptId": 10016982,
     "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30b9\u30da\u30fc\u30b9\u30a4\u30f3\u30d9\u30fc\u30c0\u30fc",
@@ -154390,6 +154430,22 @@
     "contentId": "HB0876-PPSA33422_00-0160772857461200",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA33426_00",
+    "conceptId": 10013771,
+    "name": "Ariana and the Elder Codex",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33427_00",
+    "conceptId": 10013771,
+    "name": "Ariana and the Elder Codex",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33428_00",
@@ -154603,9 +154659,9 @@
     "titleId": "PPSA33486_00",
     "conceptId": 10013891,
     "name": "Haunted House Renovator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1549-PPSA33486_00-CLAB1HHR20250915",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA33492_00",
@@ -154856,6 +154912,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA33542_00",
+    "conceptId": 10017054,
+    "name": "Warplanes: WW2 Dogfight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA33543_00",
+    "conceptId": 10017055,
+    "name": "Warplanes: WWI Sky Aces",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA33554_00",
     "conceptId": 10017060,
     "name": "Sailing the Winds",
@@ -154942,6 +155014,14 @@
     "contentId": "HB1728-PPSA33584_00-0179509653042653",
     "region": "HB",
     "publisherId": "HB1728"
+  },
+  {
+    "titleId": "PPSA33602_00",
+    "conceptId": 10016882,
+    "name": "Flingin' Poo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA33604_00",
@@ -156872,12 +156952,20 @@
     "publisherId": "JP7094"
   },
   {
+    "titleId": "PPSA34296_00",
+    "conceptId": 10017518,
+    "name": "Cowboys",
+    "contentId": "UP7126-PPSA34296_00-0555172602203054",
+    "region": "UP",
+    "publisherId": "UP7126"
+  },
+  {
     "titleId": "PPSA34297_00",
     "conceptId": 10017518,
     "name": "Cowboys",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7123-PPSA34297_00-0549349990123559",
+    "region": "EP",
+    "publisherId": "EP7123"
   },
   {
     "titleId": "PPSA34298_00",
@@ -157744,6 +157832,14 @@
     "publisherId": "JB0500"
   },
   {
+    "titleId": "PPSA34593_00",
+    "conceptId": 10016065,
+    "name": "KYORANMAKAISM",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34604_00",
     "conceptId": 10010153,
     "name": "Colorful Recolor",
@@ -158088,6 +158184,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34749_00",
+    "conceptId": 10017801,
+    "name": "Moorhuhn Winter Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA34757_00",
     "conceptId": 10017805,
     "name": "Pocket Drift Rally",
@@ -158406,6 +158510,30 @@
     "contentId": "JP7070-PPSA34815_00-PPGSALAMANDERPTV",
     "region": "JP",
     "publisherId": "JP7070"
+  },
+  {
+    "titleId": "PPSA34816_00",
+    "conceptId": 10017834,
+    "name": "A Cafe at the End of the World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34818_00",
+    "conceptId": 10017834,
+    "name": "A Cafe at the End of the World",
+    "contentId": "EB2034-PPSA34818_00-JAPAN00000000000",
+    "region": "EB",
+    "publisherId": "EB2034"
+  },
+  {
+    "titleId": "PPSA34819_00",
+    "conceptId": 10017834,
+    "name": "A Cafe at the End of the World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34835_00",
@@ -159091,9 +159219,9 @@
     "titleId": "PPSA35143_00",
     "conceptId": 10018034,
     "name": "Do You Really Know?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8701-PPSA35143_00-0276307162288250",
+    "region": "EP",
+    "publisherId": "EP8701"
   },
   {
     "titleId": "PPSA35144_00",
@@ -159387,9 +159515,17 @@
     "titleId": "PPSA35511_00",
     "conceptId": 10018285,
     "name": "Magnitude: X",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7345-PPSA35511_00-0325812910606626",
+    "region": "EP",
+    "publisherId": "EP7345"
+  },
+  {
+    "titleId": "PPSA35512_00",
+    "conceptId": 10018285,
+    "name": "Magnitude: X",
+    "contentId": "UP7347-PPSA35512_00-0972442090664138",
+    "region": "UP",
+    "publisherId": "UP7347"
   },
   {
     "titleId": "PPSA35513_00",
@@ -159446,5 +159582,13 @@
     "contentId": "HB0876-PPSA35640_00-0623643672643991",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA35822_00",
+    "conceptId": 10018464,
+    "name": "Balls vs. Tombs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
