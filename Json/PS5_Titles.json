@@ -69160,6 +69160,14 @@
     "publisherId": "HP0874"
   },
   {
+    "titleId": "PPSA15941_00",
+    "conceptId": 10002212,
+    "name": "Cave Digger 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15942_00",
     "conceptId": 10007959,
     "name": "Ninja Five-O",
@@ -106224,6 +106232,14 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA23684_00",
+    "conceptId": 10011320,
+    "name": "EBOLA VILLAGE",
+    "contentId": "UB0245-PPSA23684_00-0987842916872143",
+    "region": "UB",
+    "publisherId": "UB0245"
+  },
+  {
     "titleId": "PPSA23685_00",
     "conceptId": 10008971,
     "name": "Off The Grid",
@@ -120507,9 +120523,9 @@
     "titleId": "PPSA26345_00",
     "conceptId": 10010302,
     "name": "Escape from Ever After",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4638-PPSA26345_00-EFEA000000000000",
+    "region": "EP",
+    "publisherId": "EP4638"
   },
   {
     "titleId": "PPSA26350_00",
@@ -124142,6 +124158,14 @@
     "contentId": "EP6484-PPSA27000_00-GRIMORIOOFGAMES0",
     "region": "EP",
     "publisherId": "EP6484"
+  },
+  {
+    "titleId": "PPSA27001_00",
+    "conceptId": 10013155,
+    "name": "Factory Simulator: Clothes & Outlet",
+    "contentId": "UB1029-PPSA27001_00-0847150797820728",
+    "region": "UB",
+    "publisherId": "UB1029"
   },
   {
     "titleId": "PPSA27006_00",
@@ -150808,6 +150832,14 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA32524_00",
+    "conceptId": 10016098,
+    "name": "Laysara: Summit Kingdom",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32531_00",
     "conceptId": 10016552,
     "name": "\u30a2\u30fc\u30b1\u30fc\u30c9\u30a2\u30fc\u30ab\u30a4\u30d6\u30b92 \u30dc\u30e0\u30d3\u30fc",
@@ -154651,9 +154683,9 @@
     "titleId": "PPSA33485_00",
     "conceptId": 10013891,
     "name": "Haunted House Renovator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1564-PPSA33485_00-CLAB0HHR20250915",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA33486_00",
@@ -158171,17 +158203,17 @@
     "titleId": "PPSA34730_00",
     "conceptId": 10017797,
     "name": "Block Cascade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7335-PPSA34730_00-0804689880743087",
+    "region": "UP",
+    "publisherId": "UP7335"
   },
   {
     "titleId": "PPSA34731_00",
     "conceptId": 10017797,
     "name": "Block Cascade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7333-PPSA34731_00-0399949154162037",
+    "region": "EP",
+    "publisherId": "EP7333"
   },
   {
     "titleId": "PPSA34749_00",
@@ -158515,9 +158547,17 @@
     "titleId": "PPSA34816_00",
     "conceptId": 10017834,
     "name": "A Cafe at the End of the World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB2034-PPSA34816_00-EUROPE0000000000",
+    "region": "EB",
+    "publisherId": "EB2034"
+  },
+  {
+    "titleId": "PPSA34817_00",
+    "conceptId": 10017834,
+    "name": "A Cafe at the End of the World",
+    "contentId": "EB2034-PPSA34817_00-AMERICAS00000000",
+    "region": "EB",
+    "publisherId": "EB2034"
   },
   {
     "titleId": "PPSA34818_00",
@@ -158531,9 +158571,9 @@
     "titleId": "PPSA34819_00",
     "conceptId": 10017834,
     "name": "A Cafe at the End of the World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB2034-PPSA34819_00-ASIA000000000000",
+    "region": "EB",
+    "publisherId": "EB2034"
   },
   {
     "titleId": "PPSA34835_00",
@@ -158674,10 +158714,10 @@
   {
     "titleId": "PPSA34892_00",
     "conceptId": 10013181,
-    "name": "Baptiste",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Baptiste Demo",
+    "contentId": "UP6974-PPSA34892_00-0000BAPTISTEDEMO",
+    "region": "UP",
+    "publisherId": "UP6974"
   },
   {
     "titleId": "PPSA34895_00",
@@ -159211,9 +159251,9 @@
     "titleId": "PPSA35142_00",
     "conceptId": 10018034,
     "name": "Do You Really Know?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8511-PPSA35142_00-0631920294473658",
+    "region": "UP",
+    "publisherId": "UP8511"
   },
   {
     "titleId": "PPSA35143_00",
@@ -159227,17 +159267,17 @@
     "titleId": "PPSA35144_00",
     "conceptId": 10018034,
     "name": "Do You Really Know?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP8416-PPSA35144_00-0568250246343326",
+    "region": "JP",
+    "publisherId": "JP8416"
   },
   {
     "titleId": "PPSA35145_00",
     "conceptId": 10018034,
     "name": "Do You Really Know?",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP8462-PPSA35145_00-0005423091672084",
+    "region": "HP",
+    "publisherId": "HP8462"
   },
   {
     "titleId": "PPSA35149_00",
@@ -159440,6 +159480,22 @@
     "publisherId": "EP1612"
   },
   {
+    "titleId": "PPSA35449_00",
+    "conceptId": 10018228,
+    "name": "Crazy Cats Survivors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35451_00",
+    "conceptId": 10018228,
+    "name": "Crazy Cats Survivors",
+    "contentId": "JP8458-PPSA35451_00-0505654359281961",
+    "region": "JP",
+    "publisherId": "JP8458"
+  },
+  {
     "titleId": "PPSA35461_00",
     "conceptId": 10018229,
     "name": "Fill The Cup 3: Frost",
@@ -159470,6 +159526,30 @@
     "contentId": "HP8737-PPSA35464_00-0659096359504672",
     "region": "HP",
     "publisherId": "HP8737"
+  },
+  {
+    "titleId": "PPSA35487_00",
+    "conceptId": 10018258,
+    "name": "The Far Node",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35489_00",
+    "conceptId": 10018258,
+    "name": "The Far Node",
+    "contentId": "JP8458-PPSA35489_00-0297442327410989",
+    "region": "JP",
+    "publisherId": "JP8458"
+  },
+  {
+    "titleId": "PPSA35490_00",
+    "conceptId": 10018258,
+    "name": "The Far Node",
+    "contentId": "HP8504-PPSA35490_00-0363292959920127",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA35503_00",
