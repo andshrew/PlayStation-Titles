@@ -112464,6 +112464,14 @@
     "publisherId": "UP7605"
   },
   {
+    "titleId": "PPSA24855_00",
+    "conceptId": 10011514,
+    "name": "TRAIL OUT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA24859_00",
     "conceptId": 10005251,
     "name": "Cuties Hacked Premium Edition Demo",
@@ -148712,6 +148720,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA32034_00",
+    "conceptId": 10007695,
+    "name": "Project Colored Mountains",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA32036_00",
     "conceptId": 10016133,
     "name": "Creepy Shift: Roadside Diner",
@@ -150152,6 +150168,22 @@
     "publisherId": "UP7668"
   },
   {
+    "titleId": "PPSA32368_00",
+    "conceptId": 10016458,
+    "name": "Ball Wall Jump Bump",
+    "contentId": "UP7668-PPSA32368_00-0575738404443508",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
+    "titleId": "PPSA32369_00",
+    "conceptId": 10016458,
+    "name": "Ball Wall Jump Bump",
+    "contentId": "UP7668-PPSA32369_00-0767535557944178",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA32378_00",
     "conceptId": 10016463,
     "name": "Reflex Drop Time Race",
@@ -150694,6 +150726,14 @@
     "contentId": "EP1612-PPSA32486_00-POLAROUTTAPLACE0",
     "region": "EP",
     "publisherId": "EP1612"
+  },
+  {
+    "titleId": "PPSA32496_00",
+    "conceptId": 10007695,
+    "name": "Project Colored Mountains",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32497_00",
@@ -155168,12 +155208,28 @@
     "publisherId": "JP5299"
   },
   {
+    "titleId": "PPSA33668_00",
+    "conceptId": 10017151,
+    "name": "Golf Journey Without End",
+    "contentId": "UP7668-PPSA33668_00-0977596485129770",
+    "region": "UP",
+    "publisherId": "UP7668"
+  },
+  {
     "titleId": "PPSA33669_00",
     "conceptId": 10016681,
     "name": "YOU HAVE ONE SHOT",
     "contentId": "UP5464-PPSA33669_00-00YOUHAVEONESHOT",
     "region": "UP",
     "publisherId": "UP5464"
+  },
+  {
+    "titleId": "PPSA33670_00",
+    "conceptId": 10017151,
+    "name": "Golf Journey Without End",
+    "contentId": "UP7668-PPSA33670_00-0038491857712828",
+    "region": "UP",
+    "publisherId": "UP7668"
   },
   {
     "titleId": "PPSA33671_00",
@@ -159355,9 +159411,9 @@
     "titleId": "PPSA35186_00",
     "conceptId": 10018072,
     "name": "Deep Combat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA35186_00-0055406407289786",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA35187_00",
@@ -159371,9 +159427,9 @@
     "titleId": "PPSA35188_00",
     "conceptId": 10018072,
     "name": "Deep Combat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA35188_00-0590062023183516",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA35323_00",
@@ -159483,9 +159539,17 @@
     "titleId": "PPSA35449_00",
     "conceptId": 10018228,
     "name": "Crazy Cats Survivors",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8743-PPSA35449_00-0780896809581023",
+    "region": "EP",
+    "publisherId": "EP8743"
+  },
+  {
+    "titleId": "PPSA35450_00",
+    "conceptId": 10018228,
+    "name": "Crazy Cats Survivors",
+    "contentId": "UP8553-PPSA35450_00-0509001253741108",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA35451_00",
@@ -159494,6 +159558,14 @@
     "contentId": "JP8458-PPSA35451_00-0505654359281961",
     "region": "JP",
     "publisherId": "JP8458"
+  },
+  {
+    "titleId": "PPSA35452_00",
+    "conceptId": 10018228,
+    "name": "Crazy Cats Survivors",
+    "contentId": "HP8504-PPSA35452_00-0318259985448637",
+    "region": "HP",
+    "publisherId": "HP8504"
   },
   {
     "titleId": "PPSA35461_00",
@@ -159528,12 +159600,28 @@
     "publisherId": "HP8737"
   },
   {
-    "titleId": "PPSA35487_00",
-    "conceptId": 10018258,
-    "name": "The Far Node",
+    "titleId": "PPSA35486_00",
+    "conceptId": 10018019,
+    "name": "Deep Space Shooter",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA35487_00",
+    "conceptId": 10018258,
+    "name": "The Far Node",
+    "contentId": "EP8743-PPSA35487_00-0687488251323494",
+    "region": "EP",
+    "publisherId": "EP8743"
+  },
+  {
+    "titleId": "PPSA35488_00",
+    "conceptId": 10018258,
+    "name": "The Far Node",
+    "contentId": "UP8553-PPSA35488_00-0580754084926993",
+    "region": "UP",
+    "publisherId": "UP8553"
   },
   {
     "titleId": "PPSA35489_00",
@@ -159632,6 +159720,30 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA35519_00",
+    "conceptId": 10018019,
+    "name": "Deep Space Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35520_00",
+    "conceptId": 10018019,
+    "name": "Deep Space Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35521_00",
+    "conceptId": 10018019,
+    "name": "Deep Space Shooter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35637_00",
     "conceptId": 10018365,
     "name": "Stellar Strider",
@@ -159662,6 +159774,14 @@
     "contentId": "HB0876-PPSA35640_00-0623643672643991",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA35684_00",
+    "conceptId": 10018394,
+    "name": "Backrooms: Poolrooms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA35822_00",
