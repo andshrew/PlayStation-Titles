@@ -69160,6 +69160,14 @@
     "publisherId": "HP0874"
   },
   {
+    "titleId": "PPSA15940_00",
+    "conceptId": 10002212,
+    "name": "Cave Digger 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA15941_00",
     "conceptId": 10002212,
     "name": "Cave Digger 2",
@@ -114248,6 +114256,14 @@
     "publisherId": "UP7782"
   },
   {
+    "titleId": "PPSA25180_00",
+    "conceptId": 10012077,
+    "name": "The Occultist",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25186_00",
     "conceptId": 10012081,
     "name": "Strings Theory",
@@ -129579,9 +129595,9 @@
     "titleId": "PPSA27995_00",
     "conceptId": 10013848,
     "name": "Umami Grove",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4127-PPSA27995_00-UMAMIGLOBAL00000",
+    "region": "UP",
+    "publisherId": "UP4127"
   },
   {
     "titleId": "PPSA27996_00",
@@ -142552,6 +142568,14 @@
     "publisherId": "HP6900"
   },
   {
+    "titleId": "PPSA30714_00",
+    "conceptId": 10015478,
+    "name": "Prince of Persia The Lost Crown",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30715_00",
     "conceptId": 10015487,
     "name": "Dungeons of Paint",
@@ -143302,6 +143326,14 @@
     "contentId": "UB0486-PPSA30895_00-0958461495439073",
     "region": "UB",
     "publisherId": "UB0486"
+  },
+  {
+    "titleId": "PPSA30896_00",
+    "conceptId": 10015602,
+    "name": "Death Howl",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA30897_00",
@@ -150112,6 +150144,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA32348_00",
+    "conceptId": 10016450,
+    "name": "Dark Auction Demo",
+    "contentId": "JP6079-PPSA32348_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP6079"
+  },
+  {
     "titleId": "PPSA32350_00",
     "conceptId": 10016452,
     "name": "Pixicharm - Blaster Orbit",
@@ -155691,17 +155731,17 @@
     "titleId": "PPSA33875_00",
     "conceptId": 10017265,
     "name": "Fruits Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA33875_00-FRUITSDROPNA0000",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA33876_00",
     "conceptId": 10017265,
     "name": "Fruits Drop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1022-PPSA33876_00-FRUITSDROPEU0000",
+    "region": "UB",
+    "publisherId": "UB1022"
   },
   {
     "titleId": "PPSA33877_00",
@@ -156726,6 +156766,14 @@
     "contentId": "UB0837-PPSA34204_00-0830727494922332",
     "region": "UB",
     "publisherId": "UB0837"
+  },
+  {
+    "titleId": "PPSA34206_00",
+    "conceptId": 10017471,
+    "name": "From the Bunker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA34210_00",
@@ -159136,6 +159184,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA35040_00",
+    "conceptId": 10017873,
+    "name": "Sanctum Push",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35057_00",
     "conceptId": 10014206,
     "name": "Dark Farts: Parody Smell Edition",
@@ -159403,9 +159459,9 @@
     "titleId": "PPSA35184_00",
     "conceptId": 10018072,
     "name": "Deep Combat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA35184_00-0114297232447444",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA35186_00",
@@ -159419,9 +159475,9 @@
     "titleId": "PPSA35187_00",
     "conceptId": 10018072,
     "name": "Deep Combat",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA35187_00-0070629669324605",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA35188_00",
@@ -159744,6 +159800,38 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA35606_00",
+    "conceptId": 10018346,
+    "name": "Happy Ball Rush",
+    "contentId": "UB0487-PPSA35606_00-0916661191509716",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35607_00",
+    "conceptId": 10018346,
+    "name": "Happy Ball Rush",
+    "contentId": "UB0487-PPSA35607_00-0399453378800899",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35608_00",
+    "conceptId": 10018346,
+    "name": "Happy Ball Rush",
+    "contentId": "UB0487-PPSA35608_00-0930062096478671",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
+    "titleId": "PPSA35609_00",
+    "conceptId": 10018346,
+    "name": "Happy Ball Rush",
+    "contentId": "UB0487-PPSA35609_00-0564685932204749",
+    "region": "UB",
+    "publisherId": "UB0487"
+  },
+  {
     "titleId": "PPSA35637_00",
     "conceptId": 10018365,
     "name": "Stellar Strider",
@@ -159779,6 +159867,30 @@
     "titleId": "PPSA35684_00",
     "conceptId": 10018394,
     "name": "Backrooms: Poolrooms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35742_00",
+    "conceptId": 10018429,
+    "name": "Skullbreaker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35744_00",
+    "conceptId": 10018429,
+    "name": "Skullbreaker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35745_00",
+    "conceptId": 10018429,
+    "name": "Skullbreaker",
     "contentId": null,
     "region": null,
     "publisherId": null
