@@ -125788,8 +125788,8 @@
     "conceptId": 10013354,
     "name": "ICARUS: Console Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP4151"
   },
   {
     "titleId": "PPSA27312_00",
@@ -129020,6 +129020,14 @@
     "conceptId": 10013731,
     "name": "Maths Pals",
     "contentId": "EP6556-PPSA27888_00-0276324725927074",
+    "region": "EP",
+    "publisherId": "EP6556"
+  },
+  {
+    "titleId": "PPSA27889_00",
+    "conceptId": 10013732,
+    "name": "Bumblebee - Search for Happiness",
+    "contentId": "EP6556-PPSA27889_00-0782120918330909",
     "region": "EP",
     "publisherId": "EP6556"
   },
@@ -133435,9 +133443,9 @@
     "titleId": "PPSA28769_00",
     "conceptId": 10014085,
     "name": "Cairn",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0771-PPSA28769_00-CAIRNGAMESTNOV25",
+    "region": "EP",
+    "publisherId": "EP0771"
   },
   {
     "titleId": "PPSA28771_00",
@@ -156208,6 +156216,38 @@
     "publisherId": "EB1301"
   },
   {
+    "titleId": "PPSA33967_00",
+    "conceptId": 10017312,
+    "name": "Whispers of Winter Blossom",
+    "contentId": "UP8281-PPSA33967_00-0566317463136726",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
+    "titleId": "PPSA33968_00",
+    "conceptId": 10017312,
+    "name": "Whispers of Winter Blossom",
+    "contentId": "EP8472-PPSA33968_00-0956804481540192",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA33969_00",
+    "conceptId": 10017312,
+    "name": "\u51ac\u3001\u541b\u304c\u9759\u304b\u306b\u54b2\u304f",
+    "contentId": "JP8187-PPSA33969_00-0984332392571812",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "PPSA33970_00",
+    "conceptId": 10017312,
+    "name": "Whispers of Winter Blossom",
+    "contentId": "HP8232-PPSA33970_00-0907516305394870",
+    "region": "HP",
+    "publisherId": "HP8232"
+  },
+  {
     "titleId": "PPSA33971_00",
     "conceptId": 10017313,
     "name": "Nekomimi Days ~365 Days with You~",
@@ -159779,9 +159819,9 @@
     "titleId": "PPSA35111_00",
     "conceptId": 10017909,
     "name": "The Curse of Tethria",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB2216-PPSA35111_00-0549692728347400",
+    "region": "UB",
+    "publisherId": "UB2216"
   },
   {
     "titleId": "PPSA35121_00",
@@ -160475,8 +160515,8 @@
     "titleId": "PPSA35822_00",
     "conceptId": 10018464,
     "name": "Balls vs. Tombs",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0111-PPSA35822_00-0507322311109849",
+    "region": "UB",
+    "publisherId": "UB0111"
   }
 ]
