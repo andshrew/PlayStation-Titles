@@ -31840,6 +31840,14 @@
     "publisherId": "EP4908"
   },
   {
+    "titleId": "PPSA07610_00",
+    "conceptId": 10003744,
+    "name": "Fallen Legion Revenants",
+    "contentId": "HP6885-PPSA07610_00-9875601161171854",
+    "region": "HP",
+    "publisherId": "HP6885"
+  },
+  {
     "titleId": "PPSA07611_00",
     "conceptId": 10003533,
     "name": "\u4ed9\u5263\u5947\u4fa0\u4f1d : \u5b88\u308a\u5408\u3044",
@@ -43035,6 +43043,14 @@
     "titleId": "PPSA09510_00",
     "conceptId": 10005850,
     "name": "The Inverse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA09512_00",
+    "conceptId": 10005852,
+    "name": "Mirage 7",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -122920,6 +122936,22 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA26759_00",
+    "conceptId": 10013023,
+    "name": "Snow Bros. Classic Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA26760_00",
+    "conceptId": 10013023,
+    "name": "Snow Bros. Classic Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA26763_00",
     "conceptId": 10013025,
     "name": "Let's Sing 2026",
@@ -123670,6 +123702,14 @@
     "contentId": "HP6661-PPSA26902_00-0805947943846462",
     "region": "HP",
     "publisherId": "HP6661"
+  },
+  {
+    "titleId": "PPSA26903_00",
+    "conceptId": 10013097,
+    "name": "Sovereign Syndicate",
+    "contentId": "UB0858-PPSA26903_00-SOVEREIGNSYN0PS5",
+    "region": "UB",
+    "publisherId": "UB0858"
   },
   {
     "titleId": "PPSA26904_00",
@@ -129374,6 +129414,14 @@
     "contentId": "UP0031-PPSA27948_00-DXCONTENTSND0001",
     "region": "UP",
     "publisherId": "UP0031"
+  },
+  {
+    "titleId": "PPSA27949_00",
+    "conceptId": 10013804,
+    "name": "Majotori",
+    "contentId": "EB0310-PPSA27949_00-MAJOTORI00000000",
+    "region": "EB",
+    "publisherId": "EB0310"
   },
   {
     "titleId": "PPSA27955_00",
@@ -141232,6 +141280,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA30437_00",
+    "conceptId": 10013023,
+    "name": "Snow Bros. Classic Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30438_00",
     "conceptId": 10008926,
     "name": "Cybertrash STATYX",
@@ -150938,10 +150994,10 @@
   {
     "titleId": "PPSA32496_00",
     "conceptId": 10007695,
-    "name": "Project Colored Mountains",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Project Colored Mountains Demo",
+    "contentId": "EP8749-PPSA32496_00-PROJECTCMDEMOE00",
+    "region": "EP",
+    "publisherId": "EP8749"
   },
   {
     "titleId": "PPSA32497_00",
@@ -154502,6 +154558,14 @@
     "contentId": "EP5645-PPSA33384_00-0000000ROBOCRUSH",
     "region": "EP",
     "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA33385_00",
+    "conceptId": 10016497,
+    "name": "Robocrush",
+    "contentId": "UP5464-PPSA33385_00-0000000ROBOCRUSH",
+    "region": "UP",
+    "publisherId": "UP5464"
   },
   {
     "titleId": "PPSA33386_00",
@@ -159683,17 +159747,17 @@
     "titleId": "PPSA35042_00",
     "conceptId": 10017873,
     "name": "Sanctum Push",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB0847-PPSA35042_00-0967540054347677",
+    "region": "JB",
+    "publisherId": "JB0847"
   },
   {
     "titleId": "PPSA35043_00",
     "conceptId": 10017873,
     "name": "Sanctum Push",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB0876-PPSA35043_00-0172007281141233",
+    "region": "HB",
+    "publisherId": "HB0876"
   },
   {
     "titleId": "PPSA35057_00",
