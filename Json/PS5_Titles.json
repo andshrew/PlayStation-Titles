@@ -130504,6 +130504,14 @@
     "publisherId": "UP8552"
   },
   {
+    "titleId": "PPSA28157_00",
+    "conceptId": 10013180,
+    "name": "Backrooms Level X",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA28158_00",
     "conceptId": 10013975,
     "name": "Spiritfall",
@@ -132166,6 +132174,14 @@
     "contentId": "UB0008-PPSA28501_00-0769927174356441",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA28502_00",
+    "conceptId": 10013614,
+    "name": "Pure Pool Pro",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA28503_00",
@@ -141280,6 +141296,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA30436_00",
+    "conceptId": 10013023,
+    "name": "Snow Bros. Classic Collection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA30437_00",
     "conceptId": 10013023,
     "name": "Snow Bros. Classic Collection",
@@ -148906,10 +148930,10 @@
   {
     "titleId": "PPSA32034_00",
     "conceptId": 10007695,
-    "name": "Project Colored Mountains",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Project Colored Mountains Demo",
+    "contentId": "UP8559-PPSA32034_00-PROJECTCMDEMOU00",
+    "region": "UP",
+    "publisherId": "UP8559"
   },
   {
     "titleId": "PPSA32036_00",
@@ -150070,6 +150094,14 @@
     "contentId": "JP0571-PPSA32271_00-0538416178489778",
     "region": "JP",
     "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA32275_00",
+    "conceptId": 10016344,
+    "name": "Revenge On Gold Diggers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA32279_00",
@@ -156176,6 +156208,38 @@
     "publisherId": "UB0192"
   },
   {
+    "titleId": "PPSA33923_00",
+    "conceptId": 10005874,
+    "name": "TWIN P",
+    "contentId": "UP5464-PPSA33923_00-0221029320505809",
+    "region": "UP",
+    "publisherId": "UP5464"
+  },
+  {
+    "titleId": "PPSA33924_00",
+    "conceptId": 10005874,
+    "name": "TWIN P",
+    "contentId": "EP5645-PPSA33924_00-0426266065340250",
+    "region": "EP",
+    "publisherId": "EP5645"
+  },
+  {
+    "titleId": "PPSA33925_00",
+    "conceptId": 10005874,
+    "name": "TWIN P",
+    "contentId": "JP5299-PPSA33925_00-0038691844935900",
+    "region": "JP",
+    "publisherId": "JP5299"
+  },
+  {
+    "titleId": "PPSA33926_00",
+    "conceptId": 10005874,
+    "name": "TWIN P",
+    "contentId": "HP5361-PPSA33926_00-0389081200114265",
+    "region": "HP",
+    "publisherId": "HP5361"
+  },
+  {
     "titleId": "PPSA33939_00",
     "conceptId": 10017300,
     "name": "Orchard Odyssey: Pumpkin Party",
@@ -157139,6 +157203,14 @@
     "titleId": "PPSA34206_00",
     "conceptId": 10017471,
     "name": "From the Bunker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA34209_00",
+    "conceptId": 10017474,
+    "name": "Book of Korvald",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -159731,17 +159803,17 @@
     "titleId": "PPSA35040_00",
     "conceptId": 10017873,
     "name": "Sanctum Push",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0908-PPSA35040_00-0105972202772164",
+    "region": "UB",
+    "publisherId": "UB0908"
   },
   {
     "titleId": "PPSA35041_00",
     "conceptId": 10017873,
     "name": "Sanctum Push",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1103-PPSA35041_00-0539713634168451",
+    "region": "EB",
+    "publisherId": "EB1103"
   },
   {
     "titleId": "PPSA35042_00",
@@ -159758,6 +159830,14 @@
     "contentId": "HB0876-PPSA35043_00-0172007281141233",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA35047_00",
+    "conceptId": 202573,
+    "name": "MUBI",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA35057_00",
@@ -160582,5 +160662,37 @@
     "contentId": "UB0111-PPSA35822_00-0507322311109849",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA35931_00",
+    "conceptId": 10018514,
+    "name": "Kuky Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35932_00",
+    "conceptId": 10018514,
+    "name": "Kuky Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35933_00",
+    "conceptId": 10018514,
+    "name": "Kuky Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35934_00",
+    "conceptId": 10018514,
+    "name": "Kuky Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   }
 ]
