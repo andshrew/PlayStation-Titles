@@ -384219,17 +384219,17 @@
     "titleId": "CUSA59933_00",
     "conceptId": 10020441,
     "name": "Tank Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB2357-CUSA59933_00-TANKODYSSEYEUAJP",
+    "region": "JB",
+    "publisherId": "JB2357"
   },
   {
     "titleId": "CUSA59934_00",
     "conceptId": 10020441,
     "name": "Tank Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB2357-CUSA59934_00-TANKODYSSEYNA000",
+    "region": "JB",
+    "publisherId": "JB2357"
   },
   {
     "titleId": "CUSA59937_00",
@@ -516512,6 +516512,14 @@
     "publisherId": "EP4295"
   },
   {
+    "titleId": "PPSA28142_00",
+    "conceptId": 10013947,
+    "name": "Mega City Force",
+    "contentId": "HP8289-PPSA28142_00-0684070565674926",
+    "region": "HP",
+    "publisherId": "HP8289"
+  },
+  {
     "titleId": "PPSA28143_00",
     "conceptId": 10013958,
     "name": "BlazBlue Entropy Effect X DEMO",
@@ -530470,6 +530478,14 @@
     "contentId": "JP3568-PPSA30838_00-CABINFACTORY0000",
     "region": "JP",
     "publisherId": "JP3568"
+  },
+  {
+    "titleId": "PPSA30839_00",
+    "conceptId": 10015195,
+    "name": "MXGP 26 - The Official Game",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
   },
   {
     "titleId": "PPSA30840_00",
