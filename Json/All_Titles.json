@@ -383584,6 +383584,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "CUSA59719_00",
+    "conceptId": 10020145,
+    "name": "Well Dweller",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59720_00",
     "conceptId": 10016708,
     "name": "FlipCat",
@@ -383832,12 +383840,20 @@
     "publisherId": null
   },
   {
-    "titleId": "CUSA59791_00",
-    "conceptId": 10018993,
-    "name": "Jonah Lomu Rugby Challenge 4 Remastered",
+    "titleId": "CUSA59788_00",
+    "conceptId": 10020130,
+    "name": "MANIC MINER",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "CUSA59791_00",
+    "conceptId": 10018993,
+    "name": "Jonah Lomu Rugby Challenge 4",
+    "contentId": "UP1280-CUSA59791_00-0915764715445050",
+    "region": "UP",
+    "publisherId": "UP1280"
   },
   {
     "titleId": "CUSA59793_00",
@@ -545976,6 +545992,14 @@
     "publisherId": "UB2090"
   },
   {
+    "titleId": "PPSA33917_00",
+    "conceptId": 10017084,
+    "name": "Gear.Club Unlimited 3",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP6665"
+  },
+  {
     "titleId": "PPSA33918_00",
     "conceptId": 10017291,
     "name": "Crazy Basket",
@@ -557472,6 +557496,14 @@
     "publisherId": "UP7745"
   },
   {
+    "titleId": "PPSA36595_00",
+    "conceptId": 10010803,
+    "name": "\u8d85\u65b0\u6642\u7a7a\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30cc\u221e \u30b5\u30a6\u30f3\u30c9\u30fb\u30d3\u30b8\u30e5\u30a2\u30eb\u30d6\u30c3\u30af",
+    "contentId": "JP0031-PPSA36595_00-NEPTUNESNDARTAPP",
+    "region": "JP",
+    "publisherId": "JP0031"
+  },
+  {
     "titleId": "PPSA36598_00",
     "conceptId": 10018895,
     "name": "Stickin' The Landing",
@@ -563038,6 +563070,14 @@
     "contentId": "EB1284-PPSA39435_00-0408998828516051",
     "region": "EB",
     "publisherId": "EB1284"
+  },
+  {
+    "titleId": "PPSA39485_00",
+    "conceptId": 10020598,
+    "name": "1-2-Splendid Word Search!",
+    "contentId": "UP4947-PPSA39485_00-SPLENDIDWORDSEAR",
+    "region": "UP",
+    "publisherId": "UP4947"
   },
   {
     "titleId": "PPSA39486_00",

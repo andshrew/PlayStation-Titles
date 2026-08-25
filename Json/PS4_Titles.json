@@ -518173,7 +518173,7 @@
     "region": "EP",
     "publisherId": "EP0896",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -527428,6 +527428,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59719_00",
+    "conceptId": 10020145,
+    "name": "Well Dweller",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59720_00",
     "conceptId": 10016708,
     "name": "FlipCat",
@@ -527769,15 +527780,26 @@
     "pS5BackCompat": null
   },
   {
-    "titleId": "CUSA59791_00",
-    "conceptId": 10018993,
-    "name": "Jonah Lomu Rugby Challenge 4 Remastered",
+    "titleId": "CUSA59788_00",
+    "conceptId": 10020130,
+    "name": "MANIC MINER",
     "contentId": null,
     "region": null,
     "publisherId": null,
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59791_00",
+    "conceptId": 10018993,
+    "name": "Jonah Lomu Rugby Challenge 4",
+    "contentId": "UP1280-CUSA59791_00-0915764715445050",
+    "region": "UP",
+    "publisherId": "UP1280",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59793_00",
