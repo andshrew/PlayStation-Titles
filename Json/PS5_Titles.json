@@ -79699,7 +79699,7 @@
     "titleId": "PPSA18054_00",
     "conceptId": 10009029,
     "name": "STAR WARS Zero Company\u2122",
-    "contentId": null,
+    "contentId": "UP0006-PPSA18054_00-BRUNOSTANDGAME00",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -80510,6 +80510,14 @@
     "contentId": "EP8566-PPSA18214_00-0207758032000932",
     "region": "EP",
     "publisherId": "EP8566"
+  },
+  {
+    "titleId": "PPSA18215_00",
+    "conceptId": 10009075,
+    "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
+    "contentId": "JP0101-PPSA18215_00-METALGEARPW00000",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA18218_00",
@@ -100774,6 +100782,14 @@
     "contentId": null,
     "region": "EP",
     "publisherId": "EP4356"
+  },
+  {
+    "titleId": "PPSA22411_00",
+    "conceptId": 10010732,
+    "name": "Aggelos 2",
+    "contentId": "EP4293-PPSA22411_00-AGGELOS2SIEEPS50",
+    "region": "EP",
+    "publisherId": "EP4293"
   },
   {
     "titleId": "PPSA22414_00",
@@ -122120,6 +122136,14 @@
     "publisherId": "EP6027"
   },
   {
+    "titleId": "PPSA26416_00",
+    "conceptId": 10012807,
+    "name": "\u30eb\u30fc\u306e\u30e9\u30b0\u30fc\u30f3",
+    "contentId": "UB0836-PPSA26416_00-UNCLELOUDELIVERS",
+    "region": "UB",
+    "publisherId": "UB0836"
+  },
+  {
     "titleId": "PPSA26417_00",
     "conceptId": 10012825,
     "name": "Mars Farce",
@@ -141216,6 +141240,14 @@
     "publisherId": "UP0006"
   },
   {
+    "titleId": "PPSA29920_00",
+    "conceptId": 10014695,
+    "name": "Aliens: Fireteam Elite 2",
+    "contentId": "UP0017-PPSA29920_00-ALIENSFIRETEAM02",
+    "region": "UP",
+    "publisherId": "UP0017"
+  },
+  {
     "titleId": "PPSA29921_00",
     "conceptId": 10015027,
     "name": "\u30a8\u30c8\u30e9\u30f3\u30b8\u30e5 \u30aa\u30fc\u30f4\u30a1\u30fc\u30ed\u30fc\u30c9",
@@ -144156,8 +144188,8 @@
     "conceptId": 10015054,
     "name": "Transport Fever 3",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "EP",
+    "publisherId": "EP7064"
   },
   {
     "titleId": "PPSA30480_00",
@@ -157896,6 +157928,14 @@
     "publisherId": "UP0745"
   },
   {
+    "titleId": "PPSA33099_00",
+    "conceptId": 10016847,
+    "name": "Funguys Swarm",
+    "contentId": "EB0377-PPSA33099_00-FUNGUYSSIEJASIA0",
+    "region": "EB",
+    "publisherId": "EB0377"
+  },
+  {
     "titleId": "PPSA33102_00",
     "conceptId": 10016850,
     "name": "PLANET WOW Wildlife Adventure",
@@ -162488,6 +162528,14 @@
     "publisherId": "UB2101"
   },
   {
+    "titleId": "PPSA34116_00",
+    "conceptId": 10017408,
+    "name": "Fractured Worlds",
+    "contentId": "UP4944-PPSA34116_00-0850203374659776",
+    "region": "UP",
+    "publisherId": "UP4944"
+  },
+  {
     "titleId": "PPSA34118_00",
     "conceptId": 10017409,
     "name": "Tiny Biomes",
@@ -165768,6 +165816,14 @@
     "publisherId": "EP3024"
   },
   {
+    "titleId": "PPSA34751_00",
+    "conceptId": 230052,
+    "name": "MudRunner",
+    "contentId": "EP4133-PPSA34751_00-MUDRUNNER0000000",
+    "region": "EP",
+    "publisherId": "EP4133"
+  },
+  {
     "titleId": "PPSA34753_00",
     "conceptId": 10017804,
     "name": "Technotopia",
@@ -166564,6 +166620,22 @@
     "conceptId": 10016847,
     "name": "Funguys Swarm",
     "contentId": "EB0377-PPSA34888_00-FUNGUYSIEAMERICA",
+    "region": "EB",
+    "publisherId": "EB0377"
+  },
+  {
+    "titleId": "PPSA34889_00",
+    "conceptId": 10016847,
+    "name": "Funguys Swarm",
+    "contentId": "EB0377-PPSA34889_00-FUNGUYSSIEEUROPE",
+    "region": "EB",
+    "publisherId": "EB0377"
+  },
+  {
+    "titleId": "PPSA34890_00",
+    "conceptId": 10016847,
+    "name": "Funguys Swarm",
+    "contentId": "EB0377-PPSA34890_00-FUNGUYSSIEJAPAN0",
     "region": "EB",
     "publisherId": "EB0377"
   },
@@ -168744,6 +168816,14 @@
     "publisherId": "EP6556"
   },
   {
+    "titleId": "PPSA35442_00",
+    "conceptId": 10018215,
+    "name": "Whisper of the House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35444_00",
     "conceptId": 10016177,
     "name": "NITRO GEN OMEGA",
@@ -170000,6 +170080,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA35787_00",
+    "conceptId": 10018440,
+    "name": "The Immortal John Triptych",
+    "contentId": "HP3332-PPSA35787_00-0760284025995909",
+    "region": "HP",
+    "publisherId": "HP3332"
+  },
+  {
     "titleId": "PPSA35788_00",
     "conceptId": 10018348,
     "name": "Isekai Villain",
@@ -170574,6 +170662,14 @@
     "contentId": "HB0876-PPSA35938_00-0445558767103955",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA35943_00",
+    "conceptId": 10018528,
+    "name": "Graveyard Keeper 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA35952_00",
@@ -173000,6 +173096,22 @@
     "publisherId": "JP0031"
   },
   {
+    "titleId": "PPSA36596_00",
+    "conceptId": 10016761,
+    "name": "A Pizza Delivery",
+    "contentId": "JP1134-PPSA36596_00-0292614072599888",
+    "region": "JP",
+    "publisherId": "JP1134"
+  },
+  {
+    "titleId": "PPSA36597_00",
+    "conceptId": 10016761,
+    "name": "A Pizza Delivery",
+    "contentId": "HP0980-PPSA36597_00-0536344518603650",
+    "region": "HP",
+    "publisherId": "HP0980"
+  },
+  {
     "titleId": "PPSA36598_00",
     "conceptId": 10018895,
     "name": "Stickin' The Landing",
@@ -174944,6 +175056,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA37196_00",
+    "conceptId": 10019232,
+    "name": "\u30c6\u30a3\u30a2\u30b9\u30b1\u30fc\u30d7",
+    "contentId": "EB2644-PPSA37196_00-0058494629800652",
+    "region": "EB",
+    "publisherId": "EB2644"
+  },
+  {
     "titleId": "PPSA37197_00",
     "conceptId": 10018205,
     "name": "WORD SEARCH BY JGABRIB",
@@ -175006,6 +175126,14 @@
     "contentId": "HB0876-PPSA37215_00-0802797206156824",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA37219_00",
+    "conceptId": 10019254,
+    "name": "Golftacular!",
+    "contentId": "UB2435-PPSA37219_00-GOLFTACULARPS500",
+    "region": "UB",
+    "publisherId": "UB2435"
   },
   {
     "titleId": "PPSA37223_00",
@@ -175102,6 +175230,14 @@
     "contentId": "JB2357-PPSA37242_00-JAPAN00000000000",
     "region": "JB",
     "publisherId": "JB2357"
+  },
+  {
+    "titleId": "PPSA37243_00",
+    "conceptId": 10019264,
+    "name": "Arcade Archives 2 SATAN OF SATURN",
+    "contentId": "JP0571-PPSA37243_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA37244_00",
@@ -176496,6 +176632,14 @@
     "publisherId": "JP9201"
   },
   {
+    "titleId": "PPSA37717_00",
+    "conceptId": 10019543,
+    "name": "Mind Diver",
+    "contentId": "JP0122-PPSA37717_00-0522294953700475",
+    "region": "JP",
+    "publisherId": "JP0122"
+  },
+  {
     "titleId": "PPSA37720_00",
     "conceptId": 10019555,
     "name": "Minigolf Rush",
@@ -177006,6 +177150,14 @@
     "contentId": "EP1411-PPSA37904_00-0478961899709117",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA37911_00",
+    "conceptId": 10019606,
+    "name": "Train Sim World\u00ae 7: Standard Edition",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2866"
   },
   {
     "titleId": "PPSA37912_00",
@@ -177752,6 +177904,22 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA38222_00",
+    "conceptId": 10019835,
+    "name": "I am an Air Traffic Controller AIRPORT HERO Centrair EX",
+    "contentId": "JP0079-PPSA38222_00-0207162540664796",
+    "region": "JP",
+    "publisherId": "JP0079"
+  },
+  {
+    "titleId": "PPSA38223_00",
+    "conceptId": 10019835,
+    "name": "I am an Air Traffic Controller AIRPORT HERO Centrair EX",
+    "contentId": "JP0079-PPSA38223_00-0644286425179546",
+    "region": "JP",
+    "publisherId": "JP0079"
+  },
+  {
     "titleId": "PPSA38233_00",
     "conceptId": 10016065,
     "name": "Disgaea Mayhem Demo",
@@ -178136,6 +178304,14 @@
     "publisherId": "UB2202"
   },
   {
+    "titleId": "PPSA38626_00",
+    "conceptId": 10018086,
+    "name": "GOBBLE",
+    "contentId": "HP5846-PPSA38626_00-GOBBLEDEMO000000",
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA38631_00",
     "conceptId": 10018802,
     "name": "High Times - DLC",
@@ -178294,6 +178470,14 @@
     "contentId": "EP1411-PPSA38836_00-0638868199740220",
     "region": "EP",
     "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA38841_00",
+    "conceptId": 10020205,
+    "name": "Obby Sprunki Towers",
+    "contentId": "EP5506-PPSA38841_00-OBBYTOWERSPS5000",
+    "region": "EP",
+    "publisherId": "EP5506"
   },
   {
     "titleId": "PPSA38843_00",
@@ -178568,6 +178752,14 @@
     "publisherId": "EB1284"
   },
   {
+    "titleId": "PPSA39300_00",
+    "conceptId": 10020487,
+    "name": "Frutz",
+    "contentId": "JP1663-PPSA39300_00-0012704551074192",
+    "region": "JP",
+    "publisherId": "JP1663"
+  },
+  {
     "titleId": "PPSA39428_00",
     "conceptId": 10020565,
     "name": "Quiz Challenge Multiplayer",
@@ -178606,5 +178798,13 @@
     "contentId": "UP7552-PPSA39552_00-0954067546972854",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA39588_00",
+    "conceptId": 10020636,
+    "name": "The Legend of Dark Witch Renovation",
+    "contentId": "HB1638-PPSA39588_00-0338028110677176",
+    "region": "HB",
+    "publisherId": "HB1638"
   }
 ]

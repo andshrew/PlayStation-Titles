@@ -515001,7 +515001,7 @@
     "titleId": "CUSA58027_00",
     "conceptId": 10010803,
     "name": "\u8d85\u65b0\u6642\u7a7a\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30cc\u221e",
-    "contentId": null,
+    "contentId": "JP0031-CUSA58027_00-NEPTUNEXMAINGAME",
     "region": "JP",
     "publisherId": "JP0031",
     "psVR": null,
@@ -516145,6 +516145,17 @@
     "titleId": "CUSA58164_00",
     "conceptId": 10018277,
     "name": "Lizards Must Die 2",
+    "contentId": "JB0540-CUSA58164_00-0808637805983405",
+    "region": "JB",
+    "publisherId": "JB0540",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA58165_00",
+    "conceptId": 10018279,
+    "name": "Bibi & Tina \u2013 Ready, Set, Ride!",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -518771,6 +518782,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA58513_00",
+    "conceptId": 10018380,
+    "name": "Muchi Muchi Pork! & PinkSweets Boosted",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58514_00",
     "conceptId": 10018627,
     "name": "Cardboard Racers",
@@ -520819,13 +520841,13 @@
   {
     "titleId": "CUSA58750_00",
     "conceptId": 10010803,
-    "name": "Hyperspace Neptunia: Unlimited",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "\u8d85\u65b0\u6642\u7a7a\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30cc\u221e \u30b5\u30a6\u30f3\u30c9\u30fb\u30d3\u30b8\u30e5\u30a2\u30eb\u30d6\u30c3\u30af",
+    "contentId": "JP0031-CUSA58750_00-NEPTUNESNDARTAPP",
+    "region": "JP",
+    "publisherId": "JP0031",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58751_00",
@@ -520898,11 +520920,11 @@
     "conceptId": 10018528,
     "name": "Graveyard Keeper 2",
     "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "region": "UP",
+    "publisherId": "UP0097",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58763_00",
@@ -523378,6 +523400,17 @@
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59049_00",
+    "conceptId": 10019264,
+    "name": "Arcade Archives SATAN OF SATURN",
+    "contentId": "JP0571-CUSA59049_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59050_00",
@@ -526198,13 +526231,13 @@
   {
     "titleId": "CUSA59463_00",
     "conceptId": 10019727,
-    "name": "KUUKIYOMI 4: Consider It + \"Dire Situations\" DLC",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "KUUKIYOMI 4: Consider It",
+    "contentId": "JP4932-CUSA59463_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP4932",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59464_00",
@@ -528022,6 +528055,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59856_00",
+    "conceptId": 10020365,
+    "name": "Choice of Life: Samosbor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59857_00",
     "conceptId": 10020362,
     "name": "Neanderthallica",
@@ -528586,6 +528630,17 @@
     "titleId": "CUSA59988_00",
     "conceptId": 10004133,
     "name": "RimWorld Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60014_00",
+    "conceptId": 10020596,
+    "name": "Choice of Life: Floors",
     "contentId": null,
     "region": null,
     "publisherId": null,
