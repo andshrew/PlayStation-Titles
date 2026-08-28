@@ -515275,13 +515275,13 @@
   {
     "titleId": "CUSA58075_00",
     "conceptId": 10018176,
-    "name": "1x1 Street Football: mini soccer PvP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "1x1 Street Football - mini soccer PvP",
+    "contentId": "UB0027-CUSA58075_00-0211154671369634",
+    "region": "UB",
+    "publisherId": "UB0027",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58076_00",
@@ -524667,6 +524667,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59217_00",
+    "conceptId": 10019478,
+    "name": "Lady Death Demonicron",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59218_00",
     "conceptId": 10019458,
     "name": "Draw Save Puzzle",
@@ -525759,9 +525770,9 @@
     "titleId": "CUSA59381_00",
     "conceptId": 10019647,
     "name": "1964 Operation Velvet Twins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0896-CUSA59381_00-VELVETTWINSRATGA",
+    "region": "EP",
+    "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -527054,6 +527065,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59616_00",
+    "conceptId": 10019757,
+    "name": "Aeruta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59619_00",
     "conceptId": 10019896,
     "name": "Amour Shot",
@@ -528289,45 +528311,45 @@
     "titleId": "CUSA59909_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP6694-CUSA59909_00-MINESWEEPERPS4EU",
+    "region": "EP",
+    "publisherId": "EP6694",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": null
   },
   {
     "titleId": "CUSA59911_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP6695-CUSA59911_00-MINESWEEPERPS4NA",
+    "region": "UP",
+    "publisherId": "UP6695",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59912_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP6627-CUSA59912_00-MINESWEEPERPS4JP",
+    "region": "JP",
+    "publisherId": "JP6627",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59913_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP6691-CUSA59913_00-MINESWEEPERPS4AS",
+    "region": "HP",
+    "publisherId": "HP6691",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59917_00",
@@ -528630,6 +528652,17 @@
     "titleId": "CUSA59988_00",
     "conceptId": 10004133,
     "name": "RimWorld Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59993_00",
+    "conceptId": 10020698,
+    "name": "Halver",
     "contentId": null,
     "region": null,
     "publisherId": null,

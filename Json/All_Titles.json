@@ -374746,10 +374746,10 @@
   {
     "titleId": "CUSA58075_00",
     "conceptId": 10018176,
-    "name": "1x1 Street Football: mini soccer PvP",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "1x1 Street Football - mini soccer PvP",
+    "contentId": "UB0027-CUSA58075_00-0211154671369634",
+    "region": "UB",
+    "publisherId": "UB0027"
   },
   {
     "titleId": "CUSA58076_00",
@@ -381576,6 +381576,14 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "CUSA59217_00",
+    "conceptId": 10019478,
+    "name": "Lady Death Demonicron",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59218_00",
     "conceptId": 10019458,
     "name": "Draw Save Puzzle",
@@ -382371,9 +382379,9 @@
     "titleId": "CUSA59381_00",
     "conceptId": 10019647,
     "name": "1964 Operation Velvet Twins",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-CUSA59381_00-VELVETTWINSRATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "CUSA59384_00",
@@ -383312,6 +383320,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59616_00",
+    "conceptId": 10019757,
+    "name": "Aeruta",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59619_00",
     "conceptId": 10019896,
     "name": "Amour Shot",
@@ -384211,33 +384227,33 @@
     "titleId": "CUSA59909_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6694-CUSA59909_00-MINESWEEPERPS4EU",
+    "region": "EP",
+    "publisherId": "EP6694"
   },
   {
     "titleId": "CUSA59911_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP6695-CUSA59911_00-MINESWEEPERPS4NA",
+    "region": "UP",
+    "publisherId": "UP6695"
   },
   {
     "titleId": "CUSA59912_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP6627-CUSA59912_00-MINESWEEPERPS4JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "CUSA59913_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP6691-CUSA59913_00-MINESWEEPERPS4AS",
+    "region": "HP",
+    "publisherId": "HP6691"
   },
   {
     "titleId": "CUSA59917_00",
@@ -384459,6 +384475,14 @@
     "titleId": "CUSA59988_00",
     "conceptId": 10004133,
     "name": "RimWorld Console Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59993_00",
+    "conceptId": 10020698,
+    "name": "Halver",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -465042,8 +465066,8 @@
   {
     "titleId": "PPSA18194_00",
     "conceptId": 10009075,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
-    "contentId": null,
+    "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
+    "contentId": "UP0101-PPSA18194_00-METALGEARSOLID04",
     "region": "UP",
     "publisherId": "UP0101"
   },
@@ -465126,6 +465150,14 @@
     "contentId": "JP0101-PPSA18215_00-METALGEARPW00000",
     "region": "JP",
     "publisherId": "JP0101"
+  },
+  {
+    "titleId": "PPSA18216_00",
+    "conceptId": 10009075,
+    "name": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
+    "contentId": "UP0101-PPSA18216_00-METALGEARPW00000",
+    "region": "UP",
+    "publisherId": "UP0101"
   },
   {
     "titleId": "PPSA18218_00",
@@ -487059,7 +487091,7 @@
     "titleId": "PPSA22728_00",
     "conceptId": 10010870,
     "name": "CAPTAIN TSUBASA 2: WORLD FIGHTERS",
-    "contentId": null,
+    "contentId": "JP0700-PPSA22728_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -529507,7 +529539,7 @@
     "titleId": "PPSA30601_00",
     "conceptId": 10015413,
     "name": "Resonance: A Plague Tale Legacy",
-    "contentId": null,
+    "contentId": "EP4133-PPSA30601_00-RESONANCEAPLAGUE",
     "region": "EP",
     "publisherId": "EP4133"
   },
@@ -546080,6 +546112,14 @@
     "publisherId": "HB1576"
   },
   {
+    "titleId": "PPSA33907_00",
+    "conceptId": 10017024,
+    "name": "Ghetto Zombies: Graffiti Squad",
+    "contentId": "HB1576-PPSA33907_00-PS5GHETTOZOMBIES",
+    "region": "HB",
+    "publisherId": "HB1576"
+  },
+  {
     "titleId": "PPSA33908_00",
     "conceptId": 10017139,
     "name": "Don't Mess With Bober",
@@ -548686,6 +548726,14 @@
     "contentId": "HP0980-PPSA34415_00-0145452513382939",
     "region": "HP",
     "publisherId": "HP0980"
+  },
+  {
+    "titleId": "PPSA34416_00",
+    "conceptId": 10017582,
+    "name": "Animal Shelter 2",
+    "contentId": "UB2099-PPSA34416_00-GISHELTER2000001",
+    "region": "UB",
+    "publisherId": "UB2099"
   },
   {
     "titleId": "PPSA34417_00",
@@ -553064,6 +553112,14 @@
     "publisherId": "UP0036"
   },
   {
+    "titleId": "PPSA35314_00",
+    "conceptId": 230052,
+    "name": "MudRunner",
+    "contentId": "UP4133-PPSA35314_00-MUDRUNNER0000000",
+    "region": "UP",
+    "publisherId": "UP4133"
+  },
+  {
     "titleId": "PPSA35315_00",
     "conceptId": 10016254,
     "name": "Goritaire",
@@ -553427,9 +553483,9 @@
     "titleId": "PPSA35442_00",
     "conceptId": 10018215,
     "name": "Whisper of the House",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1179-PPSA35442_00-NIUPS5KOKLGLOB01",
+    "region": "HB",
+    "publisherId": "HB1179"
   },
   {
     "titleId": "PPSA35444_00",
@@ -553718,6 +553774,14 @@
     "contentId": "EP7333-PPSA35491_00-0471086329873126",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA35500_00",
+    "conceptId": 10018277,
+    "name": "Lizards must die 2",
+    "contentId": "JB0540-PPSA35500_00-0730408122588658",
+    "region": "JB",
+    "publisherId": "JB0540"
   },
   {
     "titleId": "PPSA35503_00",
@@ -555059,7 +555123,7 @@
     "titleId": "PPSA35889_00",
     "conceptId": 10018502,
     "name": "NBA 2K27",
-    "contentId": null,
+    "contentId": "UP1001-PPSA35889_00-NBA2K27000000000",
     "region": "UP",
     "publisherId": "UP1001"
   },
@@ -558072,6 +558136,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA36733_00",
+    "conceptId": 10018993,
+    "name": "Jonah Lomu Rugby Challenge 4",
+    "contentId": "UP1280-PPSA36733_00-RUGBYCHALLENGE40",
+    "region": "UP",
+    "publisherId": "UP1280"
+  },
+  {
     "titleId": "PPSA36734_00",
     "conceptId": 10018994,
     "name": "Crypt Carnage",
@@ -558742,6 +558814,14 @@
     "contentId": "JP0571-PPSA36868_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA36869_00",
+    "conceptId": 10018294,
+    "name": "Murders on the Yangtze River",
+    "contentId": "HP8406-PPSA36869_00-NIUMOTYRPS5GLOBA",
+    "region": "HP",
+    "publisherId": "HP8406"
   },
   {
     "titleId": "PPSA36881_00",
@@ -559420,6 +559500,14 @@
     "conceptId": 10018058,
     "name": "Angel Engine",
     "contentId": "UB0683-PPSA37066_00-0152011296746652",
+    "region": "UB",
+    "publisherId": "UB0683"
+  },
+  {
+    "titleId": "PPSA37067_00",
+    "conceptId": 10019147,
+    "name": "Horripilant",
+    "contentId": "UB0683-PPSA37067_00-0548300556781896",
     "region": "UB",
     "publisherId": "UB0683"
   },
@@ -561688,6 +561776,14 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA37875_00",
+    "conceptId": 10019647,
+    "name": "1964 Operation Velvet Twins",
+    "contentId": "EP0896-PPSA37875_00-VELVETTWINSRATGA",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA37878_00",
     "conceptId": 10019651,
     "name": "Sakura Succubus 9",
@@ -563112,6 +563208,14 @@
     "publisherId": "EB2797"
   },
   {
+    "titleId": "PPSA38865_00",
+    "conceptId": 10010634,
+    "name": "Iridio",
+    "contentId": "EP5813-PPSA38865_00-0588454519208327",
+    "region": "EP",
+    "publisherId": "EP5813"
+  },
+  {
     "titleId": "PPSA38888_00",
     "conceptId": 10020233,
     "name": "Brawl Snakes",
@@ -563350,6 +563454,14 @@
     "contentId": "UB1453-PPSA39234_00-0582596772666394",
     "region": "UB",
     "publisherId": "UB1453"
+  },
+  {
+    "titleId": "PPSA39250_00",
+    "conceptId": 10020455,
+    "name": "Cozy Farm Life Simulator",
+    "contentId": "EB2797-PPSA39250_00-0545245991654234",
+    "region": "EB",
+    "publisherId": "EB2797"
   },
   {
     "titleId": "PPSA39254_00",
