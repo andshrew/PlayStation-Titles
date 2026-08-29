@@ -510246,6 +510246,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA57543_00",
+    "conceptId": 10017644,
+    "name": "We Are Eva",
+    "contentId": "EP0782-CUSA57543_00-0528893206474853",
+    "region": "EP",
+    "publisherId": "EP0782",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA57546_00",
     "conceptId": 10017652,
     "name": "Tales Of Morphos",
@@ -525775,7 +525786,7 @@
     "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59384_00",
