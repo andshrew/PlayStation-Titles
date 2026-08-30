@@ -139048,6 +139048,14 @@
     "publisherId": "UP5464"
   },
   {
+    "titleId": "PPSA29500_00",
+    "conceptId": 10013515,
+    "name": "Quiz & Learn: Food & Drink",
+    "contentId": "UB1423-PPSA29500_00-0017929182697706",
+    "region": "UB",
+    "publisherId": "UB1423"
+  },
+  {
     "titleId": "PPSA29502_00",
     "conceptId": 10006230,
     "name": "D MISSILE",
@@ -151966,6 +151974,14 @@
     "contentId": "HP7141-PPSA31959_00-0737691343477522",
     "region": "HP",
     "publisherId": "HP7141"
+  },
+  {
+    "titleId": "PPSA31960_00",
+    "conceptId": 10016237,
+    "name": "Once Alive",
+    "contentId": "UP7939-PPSA31960_00-0435027161967220",
+    "region": "UP",
+    "publisherId": "UP7939"
   },
   {
     "titleId": "PPSA31961_00",
@@ -178872,6 +178888,14 @@
     "publisherId": "JP1663"
   },
   {
+    "titleId": "PPSA39415_00",
+    "conceptId": 10020441,
+    "name": "Tank Odyssey",
+    "contentId": "JB2357-PPSA39415_00-EUASJP0000000000",
+    "region": "JB",
+    "publisherId": "JB2357"
+  },
+  {
     "titleId": "PPSA39428_00",
     "conceptId": 10020565,
     "name": "Quiz Challenge Multiplayer",
@@ -178918,5 +178942,13 @@
     "contentId": "HB1638-PPSA39588_00-0338028110677176",
     "region": "HB",
     "publisherId": "HB1638"
+  },
+  {
+    "titleId": "PPSA39614_00",
+    "conceptId": 10020648,
+    "name": "Wishing Well Simulator",
+    "contentId": "UB0111-PPSA39614_00-0319897517206058",
+    "region": "UB",
+    "publisherId": "UB0111"
   }
 ]
