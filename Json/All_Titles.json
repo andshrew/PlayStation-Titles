@@ -317592,6 +317592,14 @@
     "publisherId": "UP1280"
   },
   {
+    "titleId": "CUSA50050_00",
+    "conceptId": 10011823,
+    "name": "Dimensional Animals",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA50051_00",
     "conceptId": 10009737,
     "name": "Digital Artbook & Soundtrack",
@@ -362032,6 +362040,14 @@
     "publisherId": "UP0036"
   },
   {
+    "titleId": "CUSA56248_00",
+    "conceptId": 10016479,
+    "name": "BIRDCAGE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA56249_00",
     "conceptId": 10016480,
     "name": "Bomb Kitten",
@@ -372712,6 +372728,14 @@
     "publisherId": "UB0245"
   },
   {
+    "titleId": "CUSA57764_00",
+    "conceptId": 10015584,
+    "name": "Marupoyo: The Round Chick's Adventure",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA57765_00",
     "conceptId": 10017887,
     "name": "Parkour Bullet Frenzy - FPS, Physics, Slowmotion",
@@ -381152,6 +381176,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "CUSA59124_00",
+    "conceptId": 10019370,
+    "name": "Dino Odyssey",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59125_00",
     "conceptId": 10019375,
     "name": "Hue Sniper",
@@ -381906,8 +381938,8 @@
   {
     "titleId": "CUSA59262_00",
     "conceptId": 10019473,
-    "name": "\u30a2\u30b9\u30c7\u30a3\u30d0\u30a4\u30f3\u30ce\u30c3\u30c8",
-    "contentId": null,
+    "name": "Asdivine Knot",
+    "contentId": "JP0013-CUSA59262_00-JP0AKNOT00000PS4",
     "region": "JP",
     "publisherId": "JP0013"
   },
@@ -554680,6 +554712,14 @@
     "publisherId": "EB2067"
   },
   {
+    "titleId": "PPSA35736_00",
+    "conceptId": 10008298,
+    "name": "Folk Hero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35737_00",
     "conceptId": 10018426,
     "name": "Stunt Race",
@@ -563532,6 +563572,14 @@
     "conceptId": 10020441,
     "name": "Tank Odyssey",
     "contentId": "JB2357-PPSA39415_00-EUASJP0000000000",
+    "region": "JB",
+    "publisherId": "JB2357"
+  },
+  {
+    "titleId": "PPSA39416_00",
+    "conceptId": 10020441,
+    "name": "Tank Odyssey",
+    "contentId": "JB2357-PPSA39416_00-TANKODYSSEYNA000",
     "region": "JB",
     "publisherId": "JB2357"
   },

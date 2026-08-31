@@ -170040,6 +170040,14 @@
     "publisherId": "EB2067"
   },
   {
+    "titleId": "PPSA35736_00",
+    "conceptId": 10008298,
+    "name": "Folk Hero",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35737_00",
     "conceptId": 10018426,
     "name": "Stunt Race",
@@ -178892,6 +178900,14 @@
     "conceptId": 10020441,
     "name": "Tank Odyssey",
     "contentId": "JB2357-PPSA39415_00-EUASJP0000000000",
+    "region": "JB",
+    "publisherId": "JB2357"
+  },
+  {
+    "titleId": "PPSA39416_00",
+    "conceptId": 10020441,
+    "name": "Tank Odyssey",
+    "contentId": "JB2357-PPSA39416_00-TANKODYSSEYNA000",
     "region": "JB",
     "publisherId": "JB2357"
   },
