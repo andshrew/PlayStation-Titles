@@ -268283,9 +268283,9 @@
     "titleId": "CUSA43201_00",
     "conceptId": 10008298,
     "name": "Folk Hero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4287-CUSA43201_00-A82L2X2SY3Q65FPQ",
+    "region": "EP",
+    "publisherId": "EP4287"
   },
   {
     "titleId": "CUSA43202_00",
@@ -381618,10 +381618,10 @@
   {
     "titleId": "CUSA59217_00",
     "conceptId": 10019478,
-    "name": "Lady Death Demonicron",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lady Death : Demonicron",
+    "contentId": "UP8674-CUSA59217_00-LD00000000000001",
+    "region": "UP",
+    "publisherId": "UP8674"
   },
   {
     "titleId": "CUSA59218_00",
@@ -384531,6 +384531,30 @@
     "titleId": "CUSA60014_00",
     "conceptId": 10020596,
     "name": "Choice of Life: Floors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60034_00",
+    "conceptId": 10019363,
+    "name": "Rhythm Roll",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60035_00",
+    "conceptId": 10020537,
+    "name": "Wand & Order: Tidy up the magic shop!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60036_00",
+    "conceptId": 10011263,
+    "name": "Cottonreboot Hightension!",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -554715,9 +554739,9 @@
     "titleId": "PPSA35736_00",
     "conceptId": 10008298,
     "name": "Folk Hero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4287-PPSA35736_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP4287"
   },
   {
     "titleId": "PPSA35737_00",
@@ -561032,6 +561056,14 @@
     "publisherId": "JB1863"
   },
   {
+    "titleId": "PPSA37596_00",
+    "conceptId": 10019478,
+    "name": "Lady Death Demonicron",
+    "contentId": "UP8674-PPSA37596_00-LD00000000000001",
+    "region": "UP",
+    "publisherId": "UP8674"
+  },
+  {
     "titleId": "PPSA37599_00",
     "conceptId": 10019483,
     "name": "Thornkin",
@@ -563430,6 +563462,14 @@
     "contentId": "UB2202-PPSA38984_00-MICROOVERDRIVEHT",
     "region": "UB",
     "publisherId": "UB2202"
+  },
+  {
+    "titleId": "PPSA38989_00",
+    "conceptId": null,
+    "name": "New York Mysteries 4: The Outbreak",
+    "contentId": "UB0190-PPSA38989_00-0533982582141082",
+    "region": "UB",
+    "publisherId": "UB0190"
   },
   {
     "titleId": "PPSA39037_00",

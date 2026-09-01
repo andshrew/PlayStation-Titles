@@ -368888,12 +368888,12 @@
     "titleId": "CUSA43201_00",
     "conceptId": 10008298,
     "name": "Folk Hero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP4287-CUSA43201_00-A82L2X2SY3Q65FPQ",
+    "region": "EP",
+    "publisherId": "EP4287",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA43202_00",
@@ -524724,13 +524724,13 @@
   {
     "titleId": "CUSA59217_00",
     "conceptId": 10019478,
-    "name": "Lady Death Demonicron",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Lady Death : Demonicron",
+    "contentId": "UP8674-CUSA59217_00-LD00000000000001",
+    "region": "UP",
+    "publisherId": "UP8674",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59218_00",
@@ -528729,6 +528729,39 @@
     "titleId": "CUSA60014_00",
     "conceptId": 10020596,
     "name": "Choice of Life: Floors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60034_00",
+    "conceptId": 10019363,
+    "name": "Rhythm Roll",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60035_00",
+    "conceptId": 10020537,
+    "name": "Wand & Order: Tidy up the magic shop!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60036_00",
+    "conceptId": 10011263,
+    "name": "Cottonreboot Hightension!",
     "contentId": null,
     "region": null,
     "publisherId": null,
