@@ -68467,7 +68467,7 @@
     "titleId": "PPSA15789_00",
     "conceptId": 10008133,
     "name": "Moonlighter 2: The Endless Vault",
-    "contentId": null,
+    "contentId": "EP4361-PPSA15789_00-0000MOONLIGHTER2",
     "region": "EP",
     "publisherId": "EP4361"
   },
@@ -104584,6 +104584,14 @@
     "publisherId": "UB0882"
   },
   {
+    "titleId": "PPSA23216_00",
+    "conceptId": 10011081,
+    "name": "Salvation: Echoes of War",
+    "contentId": "UB0356-PPSA23216_00-SALVATIONEOW0001",
+    "region": "UB",
+    "publisherId": "UB0356"
+  },
+  {
     "titleId": "PPSA23217_00",
     "conceptId": 10011059,
     "name": "\u30e2\u30ce\u30b9\u30da\u30fc\u30b9\u30c9 \u30e9\u30d0\u30fc\u30ba",
@@ -108354,10 +108362,10 @@
   {
     "titleId": "PPSA23924_00",
     "conceptId": 10009568,
-    "name": "Battlefield\u2122 6",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Battlefield Labs",
+    "contentId": "UP0006-PPSA23924_00-LOREMIPSUMX00000",
+    "region": "UP",
+    "publisherId": "UP0006"
   },
   {
     "titleId": "PPSA23926_00",
@@ -131291,7 +131299,7 @@
     "titleId": "PPSA28000_00",
     "conceptId": 10013855,
     "name": "The Blood of Dawnwalker",
-    "contentId": null,
+    "contentId": "EP0700-PPSA28000_00-DAWNWALKER00GAME",
     "region": "EP",
     "publisherId": "EP0700"
   },
@@ -162306,8 +162314,8 @@
   {
     "titleId": "PPSA34063_00",
     "conceptId": 10017367,
-    "name": "NHL\u00ae 27 Standard Edition PS5",
-    "contentId": null,
+    "name": "NHL\u00ae 27",
+    "contentId": "UP0006-PPSA34063_00-NHLPS5HOCKEY2027",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -163798,6 +163806,14 @@
     "contentId": "UP8703-PPSA34354_00-0672190993981436",
     "region": "UP",
     "publisherId": "UP8703"
+  },
+  {
+    "titleId": "PPSA34356_00",
+    "conceptId": 10017553,
+    "name": "Marsupilami 2 - Salsa Palombia",
+    "contentId": "EP4295-PPSA34356_00-MARSU2PS500000EU",
+    "region": "EP",
+    "publisherId": "EP4295"
   },
   {
     "titleId": "PPSA34357_00",
@@ -168800,6 +168816,14 @@
     "publisherId": "UP6022"
   },
   {
+    "titleId": "PPSA35402_00",
+    "conceptId": 10018187,
+    "name": "Angeline Era",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35407_00",
     "conceptId": 10018189,
     "name": "Robo Rangers",
@@ -169912,6 +169936,14 @@
     "publisherId": "JP6928"
   },
   {
+    "titleId": "PPSA35683_00",
+    "conceptId": 10018393,
+    "name": "Monuments Renovator",
+    "contentId": "EP5987-PPSA35683_00-ULGMONURENO00001",
+    "region": "EP",
+    "publisherId": "EP5987"
+  },
+  {
     "titleId": "PPSA35684_00",
     "conceptId": 10018394,
     "name": "Backrooms: Poolrooms",
@@ -170339,7 +170371,7 @@
     "titleId": "PPSA35830_00",
     "conceptId": 10013855,
     "name": "The Blood of Dawnwalker",
-    "contentId": null,
+    "contentId": "JP0700-PPSA35830_00-DAWNWALKER00GAME",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -170534,6 +170566,14 @@
     "contentId": "EP2865-PPSA35887_00-0BIFORENSICS2026",
     "region": "EP",
     "publisherId": "EP2865"
+  },
+  {
+    "titleId": "PPSA35888_00",
+    "conceptId": 227593,
+    "name": "AereA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA35889_00",
@@ -171094,6 +171134,22 @@
     "contentId": "UB2099-PPSA36032_00-GIZOOSIMPS500001",
     "region": "UB",
     "publisherId": "UB2099"
+  },
+  {
+    "titleId": "PPSA36036_00",
+    "conceptId": 227593,
+    "name": "AereA",
+    "contentId": "HP4003-PPSA36036_00-AEREASIEJASIA000",
+    "region": "HP",
+    "publisherId": "HP4003"
+  },
+  {
+    "titleId": "PPSA36037_00",
+    "conceptId": 227593,
+    "name": "AereA",
+    "contentId": "JP3617-PPSA36037_00-AEREASIEJAPAN000",
+    "region": "JP",
+    "publisherId": "JP3617"
   },
   {
     "titleId": "PPSA36039_00",
@@ -173696,6 +173752,14 @@
     "publisherId": "JP0571"
   },
   {
+    "titleId": "PPSA36758_00",
+    "conceptId": 10019004,
+    "name": "Catch Flex",
+    "contentId": "HB2304-PPSA36758_00-0578887000996795",
+    "region": "HB",
+    "publisherId": "HB2304"
+  },
+  {
     "titleId": "PPSA36759_00",
     "conceptId": 10019004,
     "name": "Catch Flex Demo",
@@ -175568,6 +175632,14 @@
     "publisherId": "JB2364"
   },
   {
+    "titleId": "PPSA37320_00",
+    "conceptId": 10019301,
+    "name": "EXSTETRA",
+    "contentId": "JP0536-PPSA37320_00-EXSTETRA00000000",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA37321_00",
     "conceptId": 10019302,
     "name": "Dungeon Bricker",
@@ -177059,7 +177131,7 @@
     "titleId": "PPSA37805_00",
     "conceptId": 10019366,
     "name": "BioEden",
-    "contentId": null,
+    "contentId": "EP4133-PPSA37805_00-BIOEDENGAME00000",
     "region": "EP",
     "publisherId": "EP4133"
   },
@@ -177262,6 +177334,14 @@
     "contentId": "UB1511-PPSA37890_00-0509854511889127",
     "region": "UB",
     "publisherId": "UB1511"
+  },
+  {
+    "titleId": "PPSA37896_00",
+    "conceptId": 10019665,
+    "name": "Galactic Vault",
+    "contentId": "EP6880-PPSA37896_00-0083370523480863",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA37901_00",
@@ -178232,6 +178312,14 @@
     "publisherId": "EP2696"
   },
   {
+    "titleId": "PPSA38369_00",
+    "conceptId": 10019925,
+    "name": "Arcade Archives 2 ARKANOID REVENGE OF DOH",
+    "contentId": "JP0571-PPSA38369_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA38377_00",
     "conceptId": 10019939,
     "name": "A Dark Room",
@@ -178318,6 +178406,14 @@
     "contentId": "HP5846-PPSA38493_00-HONOGURASHIVS000",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA38496_00",
+    "conceptId": 10020007,
+    "name": "Arcade Archives 2 Wiz",
+    "contentId": "JP0571-PPSA38496_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA38500_00",

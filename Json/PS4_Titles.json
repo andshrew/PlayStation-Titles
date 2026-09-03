@@ -462935,6 +462935,28 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA52679_00",
+    "conceptId": 10013545,
+    "name": "Fall Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA52680_00",
+    "conceptId": 10013545,
+    "name": "Fall Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA52681_00",
     "conceptId": 10013456,
     "name": "TellMeYourStory",
@@ -491856,24 +491878,24 @@
   {
     "titleId": "CUSA55615_00",
     "conceptId": 10015934,
-    "name": "The Alchemist of Ars Magna",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "\u5275\u795e\u306e\u30a2\u30eb\u30b9\u30de\u30b0\u30ca",
+    "contentId": "JP1134-CUSA55615_00-0003634962753193",
+    "region": "JP",
+    "publisherId": "JP1134",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA55616_00",
     "conceptId": 10015934,
-    "name": "The Alchemist of Ars Magna",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "\u5275\u795e\u4e4b\u963f\u723e\u65af\u99ac\u683c\u7d0d",
+    "contentId": "HP0980-CUSA55616_00-0255844171460954",
+    "region": "HP",
+    "publisherId": "HP0980",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA55619_00",
@@ -508134,6 +508156,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA57329_00",
+    "conceptId": 10017452,
+    "name": "Console Archives THE CONVENI 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA57330_00",
     "conceptId": 10017455,
     "name": "Pit Panic",
@@ -515430,12 +515463,12 @@
     "titleId": "CUSA58086_00",
     "conceptId": 10018187,
     "name": "Angeline Era",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2157-CUSA58086_00-0741202803468628",
+    "region": "UP",
+    "publisherId": "UP2157",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58091_00",
@@ -518268,23 +518301,23 @@
     "titleId": "CUSA58457_00",
     "conceptId": 10015934,
     "name": "The Alchemist of Ars Magna",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP0837-CUSA58457_00-0038900452031358",
+    "region": "UP",
+    "publisherId": "UP0837",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58458_00",
     "conceptId": 10015934,
     "name": "The Alchemist of Ars Magna",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0834-CUSA58458_00-0679414332442040",
+    "region": "EP",
+    "publisherId": "EP0834",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58459_00",
@@ -525756,6 +525789,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59371_00",
+    "conceptId": 10013914,
+    "name": "Blades & Battles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59374_00",
     "conceptId": 10019626,
     "name": "RADical ROACH: Infinity",
@@ -525829,7 +525873,7 @@
     "region": "EP",
     "publisherId": "EP0896",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -527120,6 +527164,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59613_00",
+    "conceptId": 10019925,
+    "name": "Arcade Archives ARKANOID REVENGE OF DOH",
+    "contentId": "JP0571-CUSA59613_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59616_00",
     "conceptId": 10019757,
     "name": "Aeruta",
@@ -527261,6 +527316,17 @@
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59647_00",
+    "conceptId": 10019973,
+    "name": "The NOexistenceN of you AND me",
+    "contentId": "JP3325-CUSA59647_00-0273225233582582",
+    "region": "JP",
+    "publisherId": "JP3325",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59656_00",
@@ -528036,6 +528102,50 @@
     "titleId": "CUSA59808_00",
     "conceptId": 10009811,
     "name": "System Software Test",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59811_00",
+    "conceptId": 10020280,
+    "name": "Cat Over Here!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59812_00",
+    "conceptId": 10020280,
+    "name": "Cat Over Here!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59813_00",
+    "conceptId": 10020280,
+    "name": "Cat Over Here!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59814_00",
+    "conceptId": 10020280,
+    "name": "Cat Over Here!",
     "contentId": null,
     "region": null,
     "publisherId": null,
