@@ -77003,7 +77003,7 @@
     "titleId": "PPSA17461_00",
     "conceptId": 10008396,
     "name": "Bus Simulator 27",
-    "contentId": null,
+    "contentId": "EP2430-PPSA17461_00-BSX0000000000000",
     "region": "EP",
     "publisherId": "EP2430"
   },
@@ -109446,6 +109446,14 @@
     "contentId": "JP0013-PPSA24124_00-JP0MQOSAKA000PS5",
     "region": "JP",
     "publisherId": "JP0013"
+  },
+  {
+    "titleId": "PPSA24125_00",
+    "conceptId": 10011569,
+    "name": "Seafarer: The Ship Sim",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2430"
   },
   {
     "titleId": "PPSA24127_00",
@@ -162864,6 +162872,14 @@
     "publisherId": "EP3652"
   },
   {
+    "titleId": "PPSA34185_00",
+    "conceptId": 10017452,
+    "name": "Console Archives THE CONVENI 2",
+    "contentId": "JP0571-PPSA34185_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA34187_00",
     "conceptId": 10017454,
     "name": "Timo Boll Beats Table Tennis",
@@ -168584,6 +168600,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA35336_00",
+    "conceptId": 10018146,
+    "name": "Anvil Saga",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4405"
+  },
+  {
     "titleId": "PPSA35337_00",
     "conceptId": 10018149,
     "name": "Anime: Fantasy Uni 2",
@@ -168819,9 +168843,9 @@
     "titleId": "PPSA35402_00",
     "conceptId": 10018187,
     "name": "Angeline Era",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2157-PPSA35402_00-0837362049583229",
+    "region": "UP",
+    "publisherId": "UP2157"
   },
   {
     "titleId": "PPSA35407_00",
@@ -170000,6 +170024,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "PPSA35706_00",
+    "conceptId": 10018404,
+    "name": "Tales of Formentera",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35707_00",
     "conceptId": 10017730,
     "name": "Mechaconda",
@@ -170571,9 +170603,9 @@
     "titleId": "PPSA35888_00",
     "conceptId": 227593,
     "name": "AereA",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4541-PPSA35888_00-AEREASIEE0000000",
+    "region": "EP",
+    "publisherId": "EP4541"
   },
   {
     "titleId": "PPSA35889_00",
@@ -171150,6 +171182,14 @@
     "contentId": "JP3617-PPSA36037_00-AEREASIEJAPAN000",
     "region": "JP",
     "publisherId": "JP3617"
+  },
+  {
+    "titleId": "PPSA36038_00",
+    "conceptId": 227593,
+    "name": "AereA",
+    "contentId": "UP1470-PPSA36038_00-AEREASIEA0000000",
+    "region": "UP",
+    "publisherId": "UP1470"
   },
   {
     "titleId": "PPSA36039_00",
@@ -172152,6 +172192,22 @@
     "publisherId": "UB1454"
   },
   {
+    "titleId": "PPSA36303_00",
+    "conceptId": 10015961,
+    "name": "FINAL FANTASY RESONANCE DEMO",
+    "contentId": "JP0082-PPSA36303_00-FFRSDEMOWW000000",
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA36304_00",
+    "conceptId": 10015961,
+    "name": "FINAL FANTASY RESONANCE DEMO",
+    "contentId": "HP0082-PPSA36304_00-FFRSDEMOHP000000",
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
     "titleId": "PPSA36315_00",
     "conceptId": 10018748,
     "name": "Tippy Pads",
@@ -172920,6 +172976,14 @@
     "publisherId": "UB0383"
   },
   {
+    "titleId": "PPSA36509_00",
+    "conceptId": 10018868,
+    "name": "Shoe It All!",
+    "contentId": "EB2012-PPSA36509_00-0570156729953045",
+    "region": "EB",
+    "publisherId": "EB2012"
+  },
+  {
     "titleId": "PPSA36511_00",
     "conceptId": 10012527,
     "name": "Reflection seeker",
@@ -173614,6 +173678,14 @@
     "contentId": "UP7552-PPSA36729_00-0818631988650899",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA36730_00",
+    "conceptId": 10018062,
+    "name": "Ember and Blade",
+    "contentId": "HP1422-PPSA36730_00-0254896470804820",
+    "region": "HP",
+    "publisherId": "HP1422"
   },
   {
     "titleId": "PPSA36733_00",
@@ -175656,6 +175728,38 @@
     "publisherId": "JP4901"
   },
   {
+    "titleId": "PPSA37329_00",
+    "conceptId": 10018084,
+    "name": "FINAL FANTASY VII REVELATION",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0082"
+  },
+  {
+    "titleId": "PPSA37334_00",
+    "conceptId": 10018084,
+    "name": "FINAL FANTASY VII REVELATION",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP0082"
+  },
+  {
+    "titleId": "PPSA37338_00",
+    "conceptId": 10018084,
+    "name": "FINAL FANTASY VII REVELATION",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0082"
+  },
+  {
+    "titleId": "PPSA37340_00",
+    "conceptId": 10018084,
+    "name": "FINAL FANTASY VII REVELATION (TC/SC/KR ver)",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP0082"
+  },
+  {
     "titleId": "PPSA37343_00",
     "conceptId": 10019284,
     "name": "Mighty Aphid",
@@ -176542,6 +176646,14 @@
     "contentId": "HB0876-PPSA37623_00-0471013383489274",
     "region": "HB",
     "publisherId": "HB0876"
+  },
+  {
+    "titleId": "PPSA37624_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP3372"
   },
   {
     "titleId": "PPSA37626_00",
@@ -178376,6 +178488,14 @@
     "publisherId": "HB1626"
   },
   {
+    "titleId": "PPSA38469_00",
+    "conceptId": 10019989,
+    "name": "Dream Cage",
+    "contentId": "UP3252-PPSA38469_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
+  },
+  {
     "titleId": "PPSA38471_00",
     "conceptId": 10019993,
     "name": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u30fb\u30df\u30b9\u30c6\u30ea\u30fc\u30ba2\uff1a\u30cf\u30a4\u30fb\u30dc\u30eb\u30c6\u30fc\u30b8",
@@ -178446,6 +178566,14 @@
     "contentId": "UP7552-PPSA38523_00-0648551735743273",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA38525_00",
+    "conceptId": 10013888,
+    "name": "Stupid Never Dies: First Bite Demo",
+    "contentId": "HP7588-PPSA38525_00-DEMO000000000000",
+    "region": "HP",
+    "publisherId": "HP7588"
   },
   {
     "titleId": "PPSA38541_00",
@@ -178582,6 +178710,14 @@
     "contentId": "UB0190-PPSA38685_00-0281764931623631",
     "region": "UB",
     "publisherId": "UB0190"
+  },
+  {
+    "titleId": "PPSA38693_00",
+    "conceptId": 10018725,
+    "name": "Fortress Merge",
+    "contentId": "UP2833-PPSA38693_00-3000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833"
   },
   {
     "titleId": "PPSA38705_00",
@@ -178904,6 +179040,14 @@
     "publisherId": "UB2202"
   },
   {
+    "titleId": "PPSA39040_00",
+    "conceptId": 10020245,
+    "name": "Komorebi",
+    "contentId": "UP5155-PPSA39040_00-KOMOREBI00000001",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
     "titleId": "PPSA39045_00",
     "conceptId": 10020272,
     "name": "Lingix Lingo",
@@ -179024,12 +179168,28 @@
     "publisherId": "EB1284"
   },
   {
+    "titleId": "PPSA39270_00",
+    "conceptId": 10018159,
+    "name": "SlashZero Demo",
+    "contentId": "UP6477-PPSA39270_00-0568954676517176",
+    "region": "UP",
+    "publisherId": "UP6477"
+  },
+  {
     "titleId": "PPSA39300_00",
     "conceptId": 10020487,
     "name": "Frutz",
     "contentId": "JP1663-PPSA39300_00-0012704551074192",
     "region": "JP",
     "publisherId": "JP1663"
+  },
+  {
+    "titleId": "PPSA39326_00",
+    "conceptId": 10020501,
+    "name": "Keeper",
+    "contentId": "UP2154-PPSA39326_00-0567159384498331",
+    "region": "UP",
+    "publisherId": "UP2154"
   },
   {
     "titleId": "PPSA39415_00",
@@ -179046,6 +179206,14 @@
     "contentId": "JB2357-PPSA39416_00-TANKODYSSEYNA000",
     "region": "JB",
     "publisherId": "JB2357"
+  },
+  {
+    "titleId": "PPSA39421_00",
+    "conceptId": 10020559,
+    "name": "Isle of Reveries",
+    "contentId": "EB2898-PPSA39421_00-AIRSHIPISLEOFREV",
+    "region": "EB",
+    "publisherId": "EB2898"
   },
   {
     "titleId": "PPSA39428_00",
@@ -179078,6 +179246,14 @@
     "contentId": "EP5133-PPSA39486_00-SPLENDIDWORDSEAR",
     "region": "EP",
     "publisherId": "EP5133"
+  },
+  {
+    "titleId": "PPSA39491_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA39552_00",

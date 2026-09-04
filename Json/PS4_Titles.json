@@ -515134,11 +515134,11 @@
     "conceptId": 10018146,
     "name": "Anvil Saga",
     "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "region": "EP",
+    "publisherId": "EP4405",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58043_00",
@@ -517311,12 +517311,12 @@
     "titleId": "CUSA58296_00",
     "conceptId": 10018404,
     "name": "Tales of Formentera",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0896-CUSA58296_00-TALESFORMENTERRG",
+    "region": "EP",
+    "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58297_00",
@@ -519544,9 +519544,9 @@
     "titleId": "CUSA58592_00",
     "conceptId": 10018725,
     "name": "Fortress Merge",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP2696-CUSA58592_00-2000000000000000",
+    "region": "EP",
+    "publisherId": "EP2696",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -520500,13 +520500,13 @@
   {
     "titleId": "CUSA58701_00",
     "conceptId": 10018868,
-    "name": "Shoe it All!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "ShoeItAll",
+    "contentId": "EB2012-CUSA58701_00-0377540750045694",
+    "region": "EB",
+    "publisherId": "EB2012",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58702_00",
@@ -520996,11 +520996,11 @@
     "titleId": "CUSA58757_00",
     "conceptId": 10018528,
     "name": "Graveyard Keeper 2",
-    "contentId": null,
+    "contentId": "UP0097-CUSA58757_00-GRAVEYARDKEEPER2",
     "region": "UP",
     "publisherId": "UP0097",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -524645,6 +524645,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59200_00",
+    "conceptId": 10019074,
+    "name": "Find It! Hidden Objects",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59202_00",
     "conceptId": 10019435,
     "name": "Such a Guy",
@@ -524917,6 +524928,17 @@
     "publisherId": "HB0876",
     "psVR": null,
     "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59233_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record PS4 & PS5",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP3372",
+    "psVR": null,
+    "pS4Pro": null,
     "pS5BackCompat": "Compatible"
   },
   {
@@ -526845,6 +526867,28 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59539_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59540_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59542_00",
     "conceptId": 10017993,
     "name": "Farming Camp",
@@ -527659,6 +527703,39 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59721_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59722_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59723_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59727_00",
     "conceptId": 10020160,
     "name": "Xtreme Traffic Racing",
@@ -527690,6 +527767,39 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59735_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59736_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59737_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA59738_00",
@@ -528178,13 +528288,13 @@
   {
     "titleId": "CUSA59830_00",
     "conceptId": 10018528,
-    "name": "Graveyard Keeper 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Graveyard Keeper 2 Demo",
+    "contentId": "UP0097-CUSA59830_00-GK2DEMO000000000",
+    "region": "UP",
+    "publisherId": "UP0097",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59838_00",
@@ -528539,6 +528649,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59927_00",
+    "conceptId": 10020540,
+    "name": "Sugar Rush Rescue",
+    "contentId": "UB0108-CUSA59927_00-0921605187531937",
+    "region": "UB",
+    "publisherId": "UB0108",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59928_00",
     "conceptId": 10020542,
     "name": "Picture Puzzle Girls",
@@ -528652,6 +528773,28 @@
     "titleId": "CUSA59950_00",
     "conceptId": 10020352,
     "name": "Fix&Flip Dream House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59955_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59956_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -528828,6 +528971,39 @@
     "titleId": "CUSA59993_00",
     "conceptId": 10020698,
     "name": "Halver",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59999_00",
+    "conceptId": 10019074,
+    "name": "Find It! Hidden Objects",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60000_00",
+    "conceptId": 10019074,
+    "name": "Find It! Hidden Objects",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60001_00",
+    "conceptId": 10019074,
+    "name": "Find It! Hidden Objects",
     "contentId": null,
     "region": null,
     "publisherId": null,
