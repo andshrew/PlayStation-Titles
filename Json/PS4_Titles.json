@@ -410798,12 +410798,12 @@
     "titleId": "CUSA47460_00",
     "conceptId": 10010311,
     "name": "The Zebra-Man!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP4480-CUSA47460_00-THEZEBRAMAN1APS4",
+    "region": "UP",
+    "publisherId": "UP4480",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA47461_00",
@@ -519549,7 +519549,7 @@
     "publisherId": "EP2696",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58593_00",
@@ -527453,12 +527453,12 @@
     "titleId": "CUSA59676_00",
     "conceptId": 10019166,
     "name": "Order Automatica",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB2408-CUSA59676_00-ORDERAUTOMATICA0",
+    "region": "UB",
+    "publisherId": "UB2408",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59677_00",
@@ -528638,6 +528638,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59918_00",
+    "conceptId": 10019355,
+    "name": "Aether & Iron",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59923_00",
     "conceptId": 202523,
     "name": "LET IT DIE",
@@ -528657,7 +528668,7 @@
     "publisherId": "UB0108",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59928_00",
@@ -528793,6 +528804,17 @@
   },
   {
     "titleId": "CUSA59956_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59957_00",
     "conceptId": 10019493,
     "name": "Fate/EXTRA Record",
     "contentId": null,
@@ -529059,6 +529081,17 @@
     "titleId": "CUSA60036_00",
     "conceptId": 10011263,
     "name": "Cottonreboot Hightension!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60040_00",
+    "conceptId": 10020810,
+    "name": "Marble FX",
     "contentId": null,
     "region": null,
     "publisherId": null,

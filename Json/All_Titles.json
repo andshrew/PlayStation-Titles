@@ -298763,9 +298763,9 @@
     "titleId": "CUSA47460_00",
     "conceptId": 10010311,
     "name": "The Zebra-Man!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4480-CUSA47460_00-THEZEBRAMAN1APS4",
+    "region": "UP",
+    "publisherId": "UP4480"
   },
   {
     "titleId": "CUSA47461_00",
@@ -383603,9 +383603,9 @@
     "titleId": "CUSA59676_00",
     "conceptId": 10019166,
     "name": "Order Automatica",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB2408-CUSA59676_00-ORDERAUTOMATICA0",
+    "region": "UB",
+    "publisherId": "UB2408"
   },
   {
     "titleId": "CUSA59677_00",
@@ -384464,6 +384464,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59918_00",
+    "conceptId": 10019355,
+    "name": "Aether & Iron",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59923_00",
     "conceptId": 202523,
     "name": "LET IT DIE",
@@ -384577,6 +384585,14 @@
   },
   {
     "titleId": "CUSA59956_00",
+    "conceptId": 10019493,
+    "name": "Fate/EXTRA Record",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59957_00",
     "conceptId": 10019493,
     "name": "Fate/EXTRA Record",
     "contentId": null,
@@ -384771,6 +384787,14 @@
     "titleId": "CUSA60036_00",
     "conceptId": 10011263,
     "name": "Cottonreboot Hightension!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60040_00",
+    "conceptId": 10020810,
+    "name": "Marble FX",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -430120,6 +430144,14 @@
     "publisherId": "UP7000"
   },
   {
+    "titleId": "PPSA09840_00",
+    "conceptId": 10006022,
+    "name": "GUNDAM ROGUE ORBIT",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA09843_00",
     "conceptId": 10006025,
     "name": "RoadCraft",
@@ -467376,6 +467408,14 @@
     "publisherId": "EP4947"
   },
   {
+    "titleId": "PPSA18631_00",
+    "conceptId": 10009253,
+    "name": "Serious Sam: Shatterverse",
+    "contentId": "UP3643-PPSA18631_00-BOWIE00000000000",
+    "region": "UP",
+    "publisherId": "UP3643"
+  },
+  {
     "titleId": "PPSA18634_00",
     "conceptId": 10008910,
     "name": "\u5e7b\u65e5\u306e\u30e8\u30cf\u30cd - NUMAZU in the MIRAGE -",
@@ -488814,6 +488854,14 @@
     "contentId": "EP1661-PPSA23026_00-SYPS5PLEASEBEHAP",
     "region": "EP",
     "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA23027_00",
+    "conceptId": 10005732,
+    "name": "Cities: Skylines Remastered",
+    "contentId": "JP5579-PPSA23027_00-CITIESSKYLINESJP",
+    "region": "JP",
+    "publisherId": "JP5579"
   },
   {
     "titleId": "PPSA23032_00",
@@ -511400,6 +511448,14 @@
     "publisherId": "HP4312"
   },
   {
+    "titleId": "PPSA27163_00",
+    "conceptId": 10013260,
+    "name": "Crimson Moon",
+    "contentId": "UP2776-PPSA27163_00-0096187913382883",
+    "region": "UP",
+    "publisherId": "UP2776"
+  },
+  {
     "titleId": "PPSA27165_00",
     "conceptId": 10013265,
     "name": "EcoGnomix",
@@ -516470,6 +516526,14 @@
     "contentId": "HP9000-PPSA28049_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA28050_00",
+    "conceptId": 10013888,
+    "name": "Stupid Never Dies",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP7588"
   },
   {
     "titleId": "PPSA28051_00",
@@ -524806,6 +524870,14 @@
     "contentId": null,
     "region": "JP",
     "publisherId": "JP0230"
+  },
+  {
+    "titleId": "PPSA29661_00",
+    "conceptId": 10014858,
+    "name": "SpeedRunners 2: King of Speed",
+    "contentId": "UP0097-PPSA29661_00-SPEEDRUNNERS2KOS",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA29663_00",
@@ -547456,6 +547528,14 @@
     "publisherId": "HB1607"
   },
   {
+    "titleId": "PPSA34102_00",
+    "conceptId": 10017398,
+    "name": "Fight School Simulator",
+    "contentId": "EP5987-PPSA34102_00-ULGFIGHTSCHOOL01",
+    "region": "EP",
+    "publisherId": "EP5987"
+  },
+  {
     "titleId": "PPSA34103_00",
     "conceptId": 10017351,
     "name": "Whiskey Mafia: Blacklist",
@@ -554939,9 +555019,9 @@
     "titleId": "PPSA35706_00",
     "conceptId": 10018404,
     "name": "Tales of Formentera",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-PPSA35706_00-TALESFORMENTERRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "PPSA35707_00",
@@ -558456,6 +558536,14 @@
     "publisherId": "UP6718"
   },
   {
+    "titleId": "PPSA36683_00",
+    "conceptId": 10018962,
+    "name": "Jaleco Sports: Faceoffs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA36684_00",
     "conceptId": 10018133,
     "name": "MOTORSLICE Demo",
@@ -561280,6 +561368,22 @@
     "publisherId": "UP1564"
   },
   {
+    "titleId": "PPSA37540_00",
+    "conceptId": 10019437,
+    "name": "Fear The Timeloop",
+    "contentId": "EP1549-PPSA37540_00-0759643370032487",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA37541_00",
+    "conceptId": 10019437,
+    "name": "Fear The Timeloop",
+    "contentId": "UP1564-PPSA37541_00-0263204638304967",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA37546_00",
     "conceptId": 10019439,
     "name": "Cosmic Mirage",
@@ -563504,6 +563608,14 @@
     "publisherId": "UB2202"
   },
   {
+    "titleId": "PPSA38560_00",
+    "conceptId": 10019166,
+    "name": "Order Automatica",
+    "contentId": "UB2408-PPSA38560_00-ORDERAUTOMATICA0",
+    "region": "UB",
+    "publisherId": "UB2408"
+  },
+  {
     "titleId": "PPSA38575_00",
     "conceptId": 10019731,
     "name": "Mahjongus: The Warlock Within",
@@ -563676,6 +563788,14 @@
     "conceptId": null,
     "name": "Tailbreak",
     "contentId": "UP6088-PPSA38777_00-0598984919214879",
+    "region": "UP",
+    "publisherId": "UP6088"
+  },
+  {
+    "titleId": "PPSA38778_00",
+    "conceptId": 10019737,
+    "name": "Railbreak DX",
+    "contentId": "UP6088-PPSA38778_00-0484243524436415",
     "region": "UP",
     "publisherId": "UP6088"
   },
@@ -564142,6 +564262,14 @@
     "contentId": "EB1284-PPSA39435_00-0408998828516051",
     "region": "EB",
     "publisherId": "EB1284"
+  },
+  {
+    "titleId": "PPSA39461_00",
+    "conceptId": 10020438,
+    "name": "Dice A Million",
+    "contentId": "EB2823-PPSA39461_00-0120620846416289",
+    "region": "EB",
+    "publisherId": "EB2823"
   },
   {
     "titleId": "PPSA39485_00",
