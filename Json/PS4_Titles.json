@@ -516142,6 +516142,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA58153_00",
+    "conceptId": 10018263,
+    "name": "Toro 2",
+    "contentId": "HP0868-CUSA58153_00-0195569458457057",
+    "region": "HP",
+    "publisherId": "HP0868",
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA58154_00",
     "conceptId": 10018264,
     "name": "Liar\u2019s Saloon",
@@ -520001,6 +520012,50 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA58638_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven's Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA58639_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven's Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA58640_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven's Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA58641_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven's Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA58643_00",
@@ -528707,23 +528762,23 @@
     "titleId": "CUSA59928_00",
     "conceptId": 10020542,
     "name": "Picture Puzzle Girls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA59928_00-PCTPZLGRLSEUASJP",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59929_00",
     "conceptId": 10020542,
     "name": "Picture Puzzle Girls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA59929_00-PICTUREPZLGRLSNA",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59930_00",
@@ -529136,6 +529191,28 @@
     "titleId": "CUSA60040_00",
     "conceptId": 10020810,
     "name": "Marble FX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60056_00",
+    "conceptId": 10020789,
+    "name": "Deadly Stakes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60057_00",
+    "conceptId": 232796,
+    "name": "World of Warships: Legends",
     "contentId": null,
     "region": null,
     "publisherId": null,

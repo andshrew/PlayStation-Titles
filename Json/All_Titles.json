@@ -375376,6 +375376,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA58153_00",
+    "conceptId": 10018263,
+    "name": "Toro 2",
+    "contentId": "HP0868-CUSA58153_00-0195569458457057",
+    "region": "HP",
+    "publisherId": "HP0868"
+  },
+  {
     "titleId": "CUSA58154_00",
     "conceptId": 10018264,
     "name": "Liar\u2019s Saloon",
@@ -378182,6 +378190,38 @@
     "contentId": "UB0108-CUSA58637_00-0884230637020213",
     "region": "UB",
     "publisherId": "UB0108"
+  },
+  {
+    "titleId": "CUSA58638_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven's Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA58639_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven's Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA58640_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven's Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA58641_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven's Story",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA58643_00",
@@ -384515,17 +384555,17 @@
     "titleId": "CUSA59928_00",
     "conceptId": 10020542,
     "name": "Picture Puzzle Girls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB2357-CUSA59928_00-PCTPZLGRLSEUASJP",
+    "region": "JB",
+    "publisherId": "JB2357"
   },
   {
     "titleId": "CUSA59929_00",
     "conceptId": 10020542,
     "name": "Picture Puzzle Girls",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB2357-CUSA59929_00-PICTUREPZLGRLSNA",
+    "region": "JB",
+    "publisherId": "JB2357"
   },
   {
     "titleId": "CUSA59930_00",
@@ -384827,6 +384867,22 @@
     "titleId": "CUSA60040_00",
     "conceptId": 10020810,
     "name": "Marble FX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60056_00",
+    "conceptId": 10020789,
+    "name": "Deadly Stakes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60057_00",
+    "conceptId": 232796,
+    "name": "World of Warships: Legends",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -550024,6 +550080,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA34574_00",
+    "conceptId": 10017182,
+    "name": "SPRAWL zero",
+    "contentId": "JP6928-PPSA34574_00-0264699870869349",
+    "region": "JP",
+    "publisherId": "JP6928"
+  },
+  {
     "titleId": "PPSA34575_00",
     "conceptId": 10012467,
     "name": "Wolf Pack - Howling Spirits",
@@ -560888,6 +560952,14 @@
     "publisherId": "UP2439"
   },
   {
+    "titleId": "PPSA37386_00",
+    "conceptId": 10018246,
+    "name": "Culdcept The First Saturn Tribute",
+    "contentId": "EP6027-PPSA37386_00-CULDCEPTFIRSTEUS",
+    "region": "EP",
+    "publisherId": "EP6027"
+  },
+  {
     "titleId": "PPSA37388_00",
     "conceptId": 10019334,
     "name": "Immunuzzle",
@@ -562554,8 +562626,8 @@
   {
     "titleId": "PPSA37911_00",
     "conceptId": 10019606,
-    "name": "Train Sim World\u00ae 7: Standard Edition",
-    "contentId": null,
+    "name": "Train Sim World 7",
+    "contentId": "EP2866-PPSA37911_00-TRAINSIMWORLD7DG",
     "region": "EP",
     "publisherId": "EP2866"
   },
@@ -563864,6 +563936,22 @@
     "publisherId": "UB2591"
   },
   {
+    "titleId": "PPSA38781_00",
+    "conceptId": 10020058,
+    "name": "I'm Having A Bad Day",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP2921"
+  },
+  {
+    "titleId": "PPSA38782_00",
+    "conceptId": 10020058,
+    "name": "I'm Having A Bad Day",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3061"
+  },
+  {
     "titleId": "PPSA38793_00",
     "conceptId": 10020184,
     "name": "Bone Marrow 2",
@@ -564280,12 +564368,36 @@
     "publisherId": "JP1663"
   },
   {
+    "titleId": "PPSA39324_00",
+    "conceptId": 10020434,
+    "name": "Mr.Freezy",
+    "contentId": "UB1704-PPSA39324_00-2008260102030405",
+    "region": "UB",
+    "publisherId": "UB1704"
+  },
+  {
     "titleId": "PPSA39326_00",
     "conceptId": 10020501,
     "name": "Keeper",
     "contentId": "UP2154-PPSA39326_00-0567159384498331",
     "region": "UP",
     "publisherId": "UP2154"
+  },
+  {
+    "titleId": "PPSA39373_00",
+    "conceptId": 224881,
+    "name": "Lithium: Inmate 39",
+    "contentId": "EP0415-PPSA39373_00-0464708965279942",
+    "region": "EP",
+    "publisherId": "EP0415"
+  },
+  {
+    "titleId": "PPSA39392_00",
+    "conceptId": 10020542,
+    "name": "Picture Puzzle Girls",
+    "contentId": "JB2357-PPSA39392_00-PCTPZLGRLSEUASJP",
+    "region": "JB",
+    "publisherId": "JB2357"
   },
   {
     "titleId": "PPSA39415_00",
