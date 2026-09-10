@@ -436692,12 +436692,12 @@
     "titleId": "CUSA50050_00",
     "conceptId": 10011823,
     "name": "Dimensional Animals",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2005-CUSA50050_00-DIMENSIONALANIMA",
+    "region": "UP",
+    "publisherId": "UP2005",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA50051_00",
@@ -490600,6 +490600,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA55474_00",
+    "conceptId": 10015812,
+    "name": "Console Archives Nobunaga's Ambition II",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA55487_00",
     "conceptId": 10015825,
     "name": "Console Archives Geki-Oh ShienRyu",
@@ -497830,12 +497841,12 @@
     "titleId": "CUSA56248_00",
     "conceptId": 10016479,
     "name": "BIRDCAGE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2005-CUSA56248_00-BIRDCAGEGAME0000",
+    "region": "UP",
+    "publisherId": "UP2005",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA56249_00",
@@ -502592,10 +502603,10 @@
   {
     "titleId": "CUSA56722_00",
     "conceptId": 10016903,
-    "name": "Bluey's Happy Snaps",
+    "name": "Bluey's Happy Snaps Deluxe Edition",
     "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "region": "EP",
+    "publisherId": "EP2006",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -508858,6 +508869,17 @@
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA57395_00",
+    "conceptId": 10017411,
+    "name": "\u4e0d\u78ba\u5b9a\u4e16\u754c\u306e\u63a2\u5075\u7d33\u58eb\uff5e\u60aa\u884c\u53cc\u9ebb\u306e\u4e8b\u4ef6\u30d5\u30a1\u30a4\u30eb\uff5e",
+    "contentId": "JP0745-CUSA57395_00-0973814544784612",
+    "region": "JP",
+    "publisherId": "JP0745",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57396_00",
@@ -516149,7 +516171,7 @@
     "region": "HP",
     "publisherId": "HP0868",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -523083,6 +523105,50 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA58997_00",
+    "conceptId": 10019172,
+    "name": "I Hear Them",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA58998_00",
+    "conceptId": 10019172,
+    "name": "I Hear Them",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA58999_00",
+    "conceptId": 10019172,
+    "name": "I Hear Them",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59000_00",
+    "conceptId": 10019172,
+    "name": "I Hear Them",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59002_00",
     "conceptId": 10019171,
     "name": "Where Moss Grows",
@@ -526361,6 +526427,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59446_00",
+    "conceptId": 10019709,
+    "name": "Arcade Archives KARNOV",
+    "contentId": "JP0571-CUSA59446_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59448_00",
     "conceptId": 10019712,
     "name": "Cash Movers",
@@ -529144,6 +529221,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60029_00",
+    "conceptId": 10020765,
+    "name": "GUTS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60031_00",
     "conceptId": 10020772,
     "name": "Stock Cars Racing",
@@ -529188,6 +529276,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60037_00",
+    "conceptId": 10019576,
+    "name": "Winx Club - Moonlight Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60040_00",
     "conceptId": 10020810,
     "name": "Marble FX",
@@ -529213,6 +529312,28 @@
     "titleId": "CUSA60057_00",
     "conceptId": 232796,
     "name": "World of Warships: Legends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60065_00",
+    "conceptId": 10014061,
+    "name": "Panzer Dragoon Zwei: Remake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60071_00",
+    "conceptId": 10019286,
+    "name": "Car Simulator : Driving School",
     "contentId": null,
     "region": null,
     "publisherId": null,
