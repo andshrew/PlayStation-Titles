@@ -517828,12 +517828,12 @@
     "titleId": "CUSA58399_00",
     "conceptId": 10018495,
     "name": "Farming Life : Agriculture Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP2649-CUSA58399_00-0436318555288445",
+    "region": "EP",
+    "publisherId": "EP2649",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58400_00",
@@ -524296,12 +524296,12 @@
     "titleId": "CUSA59124_00",
     "conceptId": 10019370,
     "name": "Dino Odyssey",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0896-CUSA59124_00-DINOODYSSEYRATGA",
+    "region": "EP",
+    "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59125_00",
@@ -526436,6 +526436,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59447_00",
+    "conceptId": 10019711,
+    "name": "Five Elements Chess",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA59448_00",
@@ -529290,6 +529301,28 @@
     "titleId": "CUSA60040_00",
     "conceptId": 10020810,
     "name": "Marble FX",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60046_00",
+    "conceptId": 10020818,
+    "name": "Whispers Within",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60047_00",
+    "conceptId": 10020818,
+    "name": "Whispers Within",
     "contentId": null,
     "region": null,
     "publisherId": null,
