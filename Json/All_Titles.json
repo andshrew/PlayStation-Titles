@@ -372744,6 +372744,14 @@
     "publisherId": "UB0755"
   },
   {
+    "titleId": "CUSA57755_00",
+    "conceptId": 10017810,
+    "name": "Ratatan",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA57756_00",
     "conceptId": 10012195,
     "name": "City Bus Simulator 2026",
@@ -374510,6 +374518,14 @@
     "contentId": "UP2005-CUSA58004_00-CYBERBLOCKERCOMP",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "CUSA58006_00",
+    "conceptId": 10018118,
+    "name": "Shockwave Triggers",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA58007_00",
@@ -382280,6 +382296,14 @@
     "publisherId": "EP7345"
   },
   {
+    "titleId": "CUSA59301_00",
+    "conceptId": 10019451,
+    "name": "The Jackbox Party Pack 12",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59302_00",
     "conceptId": 10019585,
     "name": "HYPERyuki: Snowboard Syndicate",
@@ -383704,6 +383728,14 @@
     "publisherId": "JP3325"
   },
   {
+    "titleId": "CUSA59650_00",
+    "conceptId": 10019857,
+    "name": "\u30ed\u30c3\u30af\u30de\u30f3X\u3000\u30b3\u30de\u30f3\u30c9\u30df\u30c3\u30b7\u30e7\u30f3",
+    "contentId": "UP0102-CUSA59650_00-SLUS209030000000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
     "titleId": "CUSA59656_00",
     "conceptId": 10020001,
     "name": "My Supermarket Simulator",
@@ -385019,6 +385051,14 @@
     "titleId": "CUSA60057_00",
     "conceptId": 232796,
     "name": "World of Warships: Legends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60064_00",
+    "conceptId": 10020859,
+    "name": "Cargo Rail Tycoon",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -547458,8 +547498,8 @@
   {
     "titleId": "PPSA34015_00",
     "conceptId": 10017332,
-    "name": "EA SPORTS FC\u2122 27 Standard Edition PS4 & PS5",
-    "contentId": null,
+    "name": "EA SPORTS FC 27",
+    "contentId": "UP0006-PPSA34015_00-EASPORTSFC2027BG",
     "region": "UP",
     "publisherId": "UP0006"
   },
@@ -551883,7 +551923,7 @@
     "titleId": "PPSA34855_00",
     "conceptId": 10017650,
     "name": "\u7a7a\u306e\u8ecc\u8de1 the 2nd",
-    "contentId": null,
+    "contentId": "JP0425-PPSA34855_00-EDSORANOKISEKI02",
     "region": "JP",
     "publisherId": "JP0425"
   },
@@ -554328,6 +554368,14 @@
     "publisherId": "UP1181"
   },
   {
+    "titleId": "PPSA35435_00",
+    "conceptId": 10018216,
+    "name": "Ferocious",
+    "contentId": "UP0097-PPSA35435_00-FEROCIOUSGAME000",
+    "region": "UP",
+    "publisherId": "UP0097"
+  },
+  {
     "titleId": "PPSA35437_00",
     "conceptId": 10018217,
     "name": "Zumba World - The Marble Monster Adventure",
@@ -555938,8 +555986,8 @@
   {
     "titleId": "PPSA35870_00",
     "conceptId": 10018491,
-    "name": "Aniimo Pre-Order Pack: Advanced Edition",
-    "contentId": null,
+    "name": "Aniimo",
+    "contentId": "JB2238-PPSA35870_00-0835919563151333",
     "region": "JB",
     "publisherId": "JB2238"
   },
@@ -557682,8 +557730,8 @@
   {
     "titleId": "PPSA36301_00",
     "conceptId": 10018739,
-    "name": "TCG Card Shop Simulator",
-    "contentId": null,
+    "name": "Card Shop Simulator",
+    "contentId": "UB1454-PPSA36301_00-TCGCARDSHOPSIMXX",
     "region": "UB",
     "publisherId": "UB1454"
   },
@@ -558870,6 +558918,14 @@
     "contentId": "JB1969-PPSA36627_00-SPORTAL000000000",
     "region": "JB",
     "publisherId": "JB1969"
+  },
+  {
+    "titleId": "PPSA36628_00",
+    "conceptId": 10018934,
+    "name": "Harvest Moon\u00ae: Echoes of Teradea",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP1014"
   },
   {
     "titleId": "PPSA36631_00",
@@ -564120,6 +564176,14 @@
     "publisherId": "HB1626"
   },
   {
+    "titleId": "PPSA38440_00",
+    "conceptId": 10018528,
+    "name": "Graveyard Keeper 2 Demo",
+    "contentId": "UP0097-PPSA38440_00-GK2DEMO000000000",
+    "region": "UP",
+    "publisherId": "UP0097"
+  },
+  {
     "titleId": "PPSA38448_00",
     "conceptId": 10019972,
     "name": "Dumb Ways To Build",
@@ -564138,10 +564202,10 @@
   {
     "titleId": "PPSA38462_00",
     "conceptId": 10002861,
-    "name": "Marvel\u2019s Wolverine",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Marvel's Wolverine",
+    "contentId": "JP9000-PPSA38462_00-MARVELSWOLVERINE",
+    "region": "JP",
+    "publisherId": "JP9000"
   },
   {
     "titleId": "PPSA38469_00",
@@ -564398,6 +564462,14 @@
     "contentId": "JP1091-PPSA38676_00-0546852077237420",
     "region": "JP",
     "publisherId": "JP1091"
+  },
+  {
+    "titleId": "PPSA38681_00",
+    "conceptId": 10018741,
+    "name": "\u82f1\u96c4\u4f1d\u8aac \u7a7a\u306e\u8ecc\u8de1 FC",
+    "contentId": "HP5846-PPSA38681_00-EDSORANOKISEKIFC",
+    "region": "HP",
+    "publisherId": "HP5846"
   },
   {
     "titleId": "PPSA38685_00",
@@ -565038,6 +565110,14 @@
     "contentId": "UP1063-PPSA39459_00-DOODADDEMO000000",
     "region": "UP",
     "publisherId": "UP1063"
+  },
+  {
+    "titleId": "PPSA39460_00",
+    "conceptId": 224881,
+    "name": "Lithium: Inmate 39",
+    "contentId": "JP0695-PPSA39460_00-0660249990482748",
+    "region": "JP",
+    "publisherId": "JP0695"
   },
   {
     "titleId": "PPSA39461_00",
