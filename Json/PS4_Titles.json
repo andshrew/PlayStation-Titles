@@ -424514,13 +424514,13 @@
   {
     "titleId": "CUSA48832_00",
     "conceptId": 10003429,
-    "name": "Shujinkou",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Shujinkou Demo",
+    "contentId": "UP6882-CUSA48832_00-SHUJINKOUDEMOPS4",
+    "region": "UP",
+    "publisherId": "UP6882",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA48833_00",
@@ -505109,6 +505109,50 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA57009_00",
+    "conceptId": 10017168,
+    "name": "King's Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA57010_00",
+    "conceptId": 10017168,
+    "name": "King's Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA57011_00",
+    "conceptId": 10017168,
+    "name": "King's Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA57012_00",
+    "conceptId": 10017168,
+    "name": "King's Blade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA57013_00",
     "conceptId": 10010519,
     "name": "LOLLIPOP CHAINSAW RePOP",
@@ -512754,6 +512798,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA57776_00",
+    "conceptId": 10017904,
+    "name": "CaptainDimension",
+    "contentId": "EP4897-CUSA57776_00-CAPTAINDIMENSION",
+    "region": "EP",
+    "publisherId": "EP4897",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA57777_00",
     "conceptId": 10017868,
     "name": "Solvimus",
@@ -519851,8 +519906,8 @@
   {
     "titleId": "CUSA58609_00",
     "conceptId": 10018739,
-    "name": "TCG Card Shop Simulator",
-    "contentId": null,
+    "name": "Card Shop Simulator",
+    "contentId": "UB1454-CUSA58609_00-TCGCARDSHOPSIMXX",
     "region": "UB",
     "publisherId": "UB1454",
     "psVR": null,
@@ -527634,7 +527689,7 @@
     "publisherId": "UP0102",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59656_00",
@@ -529400,12 +529455,12 @@
     "titleId": "CUSA60040_00",
     "conceptId": 10020810,
     "name": "Marble FX",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP5974-CUSA60040_00-0258765915994334",
+    "region": "EP",
+    "publisherId": "EP5974",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60046_00",

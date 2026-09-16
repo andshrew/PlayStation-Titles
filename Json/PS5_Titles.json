@@ -146672,6 +146672,30 @@
     "publisherId": "UB1026"
   },
   {
+    "titleId": "PPSA30932_00",
+    "conceptId": 232248,
+    "name": "Fallout 76",
+    "contentId": "UP1003-PPSA30932_00-PROJECTSYMES0000",
+    "region": "UP",
+    "publisherId": "UP1003"
+  },
+  {
+    "titleId": "PPSA30934_00",
+    "conceptId": 232248,
+    "name": "Fallout 76",
+    "contentId": "HP1003-PPSA30934_00-PROJECTSYMES0000",
+    "region": "HP",
+    "publisherId": "HP1003"
+  },
+  {
+    "titleId": "PPSA30935_00",
+    "conceptId": 232248,
+    "name": "Fallout 76",
+    "contentId": "JP0262-PPSA30935_00-PROJECTSYMES0000",
+    "region": "JP",
+    "publisherId": "JP0262"
+  },
+  {
     "titleId": "PPSA30936_00",
     "conceptId": 10015594,
     "name": "Constraint Zone",
@@ -153614,6 +153638,14 @@
     "contentId": "JP0078-PPSA32241_00-DETECTIVESCENECR",
     "region": "JP",
     "publisherId": "JP0078"
+  },
+  {
+    "titleId": "PPSA32243_00",
+    "conceptId": 10016388,
+    "name": "Active Matter",
+    "contentId": "EP4432-PPSA32243_00-6085375307653126",
+    "region": "EP",
+    "publisherId": "EP4432"
   },
   {
     "titleId": "PPSA32245_00",
@@ -162728,6 +162760,14 @@
     "publisherId": "UB2101"
   },
   {
+    "titleId": "PPSA34114_00",
+    "conceptId": 10017405,
+    "name": "RuneScape: Dragonwilds",
+    "contentId": "EP5300-PPSA34114_00-0779566544583078",
+    "region": "EP",
+    "publisherId": "EP5300"
+  },
+  {
     "titleId": "PPSA34116_00",
     "conceptId": 10017408,
     "name": "Fractured Worlds",
@@ -164963,7 +165003,7 @@
     "titleId": "PPSA34541_00",
     "conceptId": 10017679,
     "name": "AKIBA LOST",
-    "contentId": null,
+    "contentId": "JP6079-PPSA34541_00-0114667401578525",
     "region": "JP",
     "publisherId": "JP6079"
   },
@@ -166856,6 +166896,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA34884_00",
+    "conceptId": 10017810,
+    "name": "Ratatan",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5249"
+  },
+  {
     "titleId": "PPSA34885_00",
     "conceptId": 10012195,
     "name": "City Bus Simulator 2026",
@@ -168682,8 +168730,8 @@
   {
     "titleId": "PPSA35304_00",
     "conceptId": 10017650,
-    "name": "Sora no Kiseki the 2nd",
-    "contentId": null,
+    "name": "\u7a7a\u4e4b\u8ecc\u8de1 the 2nd",
+    "contentId": "HP5846-PPSA35304_00-EDSORANOKISEKI02",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -169739,7 +169787,7 @@
     "titleId": "PPSA35574_00",
     "conceptId": 10018326,
     "name": "Sniper Dan",
-    "contentId": null,
+    "contentId": "EP4293-PPSA35574_00-PQUBSNIPERDANPS5",
     "region": "EP",
     "publisherId": "EP4293"
   },
@@ -174528,6 +174576,14 @@
     "publisherId": "HB1620"
   },
   {
+    "titleId": "PPSA36824_00",
+    "conceptId": 10018087,
+    "name": "\u307e\u3055\u304b\uff01\u4e0b\u5bbf\u751f\u304c\u7f8e\u5973\u3067\u3059\u3063\u3066\uff1f2",
+    "contentId": "HB1312-PPSA36824_00-0218376215595728",
+    "region": "HB",
+    "publisherId": "HB1312"
+  },
+  {
     "titleId": "PPSA36840_00",
     "conceptId": 10015068,
     "name": "Tides of Tomorrow Demo",
@@ -178952,6 +179008,14 @@
     "publisherId": "JP9000"
   },
   {
+    "titleId": "PPSA38464_00",
+    "conceptId": 10019857,
+    "name": "Mega Man X Command Mission",
+    "contentId": "UP0102-PPSA38464_00-SLUS209030000000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
     "titleId": "PPSA38469_00",
     "conceptId": 10019989,
     "name": "Dream Cage",
@@ -179352,6 +179416,14 @@
     "publisherId": "HB0780"
   },
   {
+    "titleId": "PPSA38805_00",
+    "conceptId": 10020112,
+    "name": "BEYBLADE X EVOBATTLE",
+    "contentId": "JP0536-PPSA38805_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
+  },
+  {
     "titleId": "PPSA38814_00",
     "conceptId": 10020192,
     "name": "Cave Looters",
@@ -179534,6 +179606,14 @@
     "contentId": "HP8504-PPSA38949_00-0056435653091482",
     "region": "HP",
     "publisherId": "HP8504"
+  },
+  {
+    "titleId": "PPSA38956_00",
+    "conceptId": 10020270,
+    "name": "Legendary Tales 1: \u596a\u308f\u308c\u305f\u4eba\u751f",
+    "contentId": "UB0190-PPSA38956_00-0568665657335550",
+    "region": "UB",
+    "publisherId": "UB0190"
   },
   {
     "titleId": "PPSA38957_00",
