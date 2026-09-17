@@ -490622,6 +490622,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA55480_00",
+    "conceptId": 10015818,
+    "name": "Console Archives CRAZY CLIMBER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA55487_00",
     "conceptId": 10015825,
     "name": "Console Archives Geki-Oh ShienRyu",
@@ -517946,6 +517957,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA58398_00",
+    "conceptId": 10018493,
+    "name": "\u30b9\u30c6\u30e9\u30fc\u30b3\u30fc\u30c9",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58399_00",
     "conceptId": 10018495,
     "name": "Farming Life : Agriculture Simulator",
@@ -523281,6 +523303,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59001_00",
+    "conceptId": 10016901,
+    "name": "Depth Loop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59002_00",
     "conceptId": 10019171,
     "name": "Where Moss Grows",
@@ -527683,12 +527716,12 @@
   {
     "titleId": "CUSA59650_00",
     "conceptId": 10019857,
-    "name": "\u30ed\u30c3\u30af\u30de\u30f3X\u3000\u30b3\u30de\u30f3\u30c9\u30df\u30c3\u30b7\u30e7\u30f3",
+    "name": "Mega Man X Command Mission",
     "contentId": "UP0102-CUSA59650_00-SLUS209030000000",
     "region": "UP",
     "publisherId": "UP0102",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -527745,6 +527778,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59671_00",
+    "conceptId": 10020053,
+    "name": "Shelterra the Skyworld",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA59673_00",
@@ -528154,6 +528198,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59744_00",
+    "conceptId": 10020181,
+    "name": "Hidden Dogs",
+    "contentId": "EP6985-CUSA59744_00-0147903825291677",
+    "region": "EP",
+    "publisherId": "EP6985",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59746_00",
     "conceptId": 10020184,
     "name": "Bone Marrow 2",
@@ -528339,6 +528394,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59770_00",
+    "conceptId": null,
+    "name": "Arcade Archives Mr.Do!'s Castle",
+    "contentId": "JP0571-CUSA59770_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA59772_00",
@@ -528724,6 +528790,28 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59860_00",
+    "conceptId": 10020367,
+    "name": "Alphadia F",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59863_00",
+    "conceptId": 10020384,
+    "name": "Leingham Tavern Story: Alan and the Time Goddess",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA59864_00",
@@ -529452,6 +529540,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60039_00",
+    "conceptId": 10020385,
+    "name": "Dragon Ruins II: Aftermath",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60040_00",
     "conceptId": 10020810,
     "name": "Marble FX",
@@ -529587,6 +529686,17 @@
     "titleId": "CUSA60080_00",
     "conceptId": 10012758,
     "name": "Memories Off 6 Next Relation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60103_00",
+    "conceptId": 10004289,
+    "name": "UFL",
     "contentId": null,
     "region": null,
     "publisherId": null,
