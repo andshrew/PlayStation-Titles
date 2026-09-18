@@ -406629,12 +406629,12 @@
     "titleId": "CUSA47031_00",
     "conceptId": 10007379,
     "name": "Roman Sands RE:Build",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP0604-CUSA47031_00-0375274200816088",
+    "region": "UP",
+    "publisherId": "UP0604",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA47032_00",
@@ -491813,12 +491813,12 @@
     "titleId": "CUSA55604_00",
     "conceptId": 10015862,
     "name": "The Grinch 2: Saving Christmas",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP3768-CUSA55604_00-0123456789ABCDEF",
+    "region": "HP",
+    "publisherId": "HP3768",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA55605_00",
@@ -519981,6 +519981,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA58618_00",
+    "conceptId": 10018772,
+    "name": "The House of Tesla: Definitive Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58619_00",
     "conceptId": 10018758,
     "name": "WALLETCREDITS",
@@ -528222,13 +528233,13 @@
   {
     "titleId": "CUSA59747_00",
     "conceptId": 10020185,
-    "name": "Ducks in Disguise",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "DucksInDisguise",
+    "contentId": "HB2024-CUSA59747_00-0840850125645061",
+    "region": "HB",
+    "publisherId": "HB2024",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59748_00",
@@ -529331,6 +529342,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59980_00",
+    "conceptId": 10020563,
+    "name": "Go Slimey Go!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59981_00",
     "conceptId": 10012938,
     "name": "METAL SUITS: Counter-attack",
@@ -529466,6 +529488,17 @@
     "titleId": "CUSA60014_00",
     "conceptId": 10020596,
     "name": "Choice of Life: Floors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60019_00",
+    "conceptId": 10020382,
+    "name": "Isekai Rondo Otogi",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -529694,9 +529727,31 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60096_00",
+    "conceptId": 10020925,
+    "name": "Bible Trivia PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60103_00",
     "conceptId": 10004289,
     "name": "UFL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60108_00",
+    "conceptId": 10016334,
+    "name": "A Tower Full of Cats",
     "contentId": null,
     "region": null,
     "publisherId": null,
