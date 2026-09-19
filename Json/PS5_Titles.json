@@ -116536,6 +116536,14 @@
     "publisherId": "UP8674"
   },
   {
+    "titleId": "PPSA25386_00",
+    "conceptId": 10007890,
+    "name": "SULFUR",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA25387_00",
     "conceptId": 10012171,
     "name": "Pixicharm - Dinoluship",
@@ -148216,6 +148224,14 @@
     "publisherId": "HP8462"
   },
   {
+    "titleId": "PPSA31245_00",
+    "conceptId": 10015777,
+    "name": "\u5730\u7403\u9632\u885b\u8ecd\uff16.\uff12 INVADERS FROM ANOTHER WORLD",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0367"
+  },
+  {
     "titleId": "PPSA31246_00",
     "conceptId": 10015533,
     "name": "RESIDENT EVIL requiem",
@@ -148636,6 +148652,14 @@
     "conceptId": 10015812,
     "name": "Console Archives NOBUNAGA'S AMBITION II",
     "contentId": "JP0571-PPSA31308_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA31314_00",
+    "conceptId": 10015818,
+    "name": "Console Archives CRAZY CLIMBER",
+    "contentId": "JP0571-PPSA31314_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
   },
@@ -149526,6 +149550,14 @@
     "contentId": "JP9000-PPSA31479_00-MTFSCBT000000001",
     "region": "JP",
     "publisherId": "JP9000"
+  },
+  {
+    "titleId": "PPSA31480_00",
+    "conceptId": 10015862,
+    "name": "The Grinch 2: Saving Christmas",
+    "contentId": "HP3768-PPSA31480_00-GRINCHY123456789",
+    "region": "HP",
+    "publisherId": "HP3768"
   },
   {
     "titleId": "PPSA31481_00",
@@ -161760,6 +161792,14 @@
     "publisherId": "UB0245"
   },
   {
+    "titleId": "PPSA33909_00",
+    "conceptId": 10017170,
+    "name": "Au Revoir",
+    "contentId": "HB1576-PPSA33909_00-00000PS5AUREVOIR",
+    "region": "HB",
+    "publisherId": "HB1576"
+  },
+  {
     "titleId": "PPSA33910_00",
     "conceptId": 10013771,
     "name": "Ariana and the Elder Codex Demo",
@@ -170592,6 +170632,14 @@
     "publisherId": "JP0013"
   },
   {
+    "titleId": "PPSA35789_00",
+    "conceptId": 10018441,
+    "name": "Shape of Dreams",
+    "contentId": "EP1672-PPSA35789_00-SHAPEOFDREAMS000",
+    "region": "EP",
+    "publisherId": "EP1672"
+  },
+  {
     "titleId": "PPSA35792_00",
     "conceptId": 10010859,
     "name": "STORY OF SEASONS: Grand Bazaar",
@@ -176904,6 +176952,22 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA37533_00",
+    "conceptId": 10019432,
+    "name": "Moving Simulator",
+    "contentId": "EP1549-PPSA37533_00-0165438271857284",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA37534_00",
+    "conceptId": 10019432,
+    "name": "Moving Simulator",
+    "contentId": "UP1564-PPSA37534_00-0173885843017184",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA37537_00",
     "conceptId": 10019436,
     "name": "Zombie Graveyard Simulator",
@@ -179544,6 +179608,14 @@
     "publisherId": "UB0851"
   },
   {
+    "titleId": "PPSA38794_00",
+    "conceptId": 10020185,
+    "name": "DucksInDisguise",
+    "contentId": "HB2024-PPSA38794_00-0944429350132768",
+    "region": "HB",
+    "publisherId": "HB2024"
+  },
+  {
     "titleId": "PPSA38798_00",
     "conceptId": 10020187,
     "name": "Dark Reflection",
@@ -180040,12 +180112,28 @@
     "publisherId": "UP2154"
   },
   {
+    "titleId": "PPSA39372_00",
+    "conceptId": 224881,
+    "name": "Lithium: Inmate 39",
+    "contentId": "UP0418-PPSA39372_00-0765823082580139",
+    "region": "UP",
+    "publisherId": "UP0418"
+  },
+  {
     "titleId": "PPSA39373_00",
     "conceptId": 224881,
     "name": "Lithium: Inmate 39",
     "contentId": "EP0415-PPSA39373_00-0464708965279942",
     "region": "EP",
     "publisherId": "EP0415"
+  },
+  {
+    "titleId": "PPSA39379_00",
+    "conceptId": 10020532,
+    "name": "Lofi Witch Hatch",
+    "contentId": "JB2682-PPSA39379_00-0214637186453602",
+    "region": "JB",
+    "publisherId": "JB2682"
   },
   {
     "titleId": "PPSA39392_00",
