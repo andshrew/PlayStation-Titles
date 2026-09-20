@@ -528238,7 +528238,7 @@
     "region": "HB",
     "publisherId": "HB2024",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -528408,7 +528408,7 @@
   },
   {
     "titleId": "CUSA59770_00",
-    "conceptId": null,
+    "conceptId": 10020207,
     "name": "Arcade Archives Mr.Do!'s Castle",
     "contentId": "JP0571-CUSA59770_00-HAMPRDC000000001",
     "region": "JP",
