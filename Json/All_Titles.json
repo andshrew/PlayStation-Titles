@@ -378912,6 +378912,22 @@
     "publisherId": "UB1022"
   },
   {
+    "titleId": "CUSA58727_00",
+    "conceptId": 10018887,
+    "name": "Highway Blossoms: Gold Rush Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA58728_00",
+    "conceptId": 10018887,
+    "name": "Highway Blossoms: Gold Rush Edition",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA58729_00",
     "conceptId": 10018888,
     "name": "Wonders Puzzle",
@@ -385150,6 +385166,14 @@
     "contentId": "UP7552-CUSA60031_00-0991958454613349",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "CUSA60032_00",
+    "conceptId": null,
+    "name": "Axis Football 2027",
+    "contentId": "UP4770-CUSA60032_00-0068273103490379",
+    "region": "UP",
+    "publisherId": "UP4770"
   },
   {
     "titleId": "CUSA60034_00",
@@ -549160,6 +549184,14 @@
     "publisherId": "UP1181"
   },
   {
+    "titleId": "PPSA34270_00",
+    "conceptId": 10017506,
+    "name": "Rivage",
+    "contentId": "EP2187-PPSA34270_00-00000000000001PS",
+    "region": "EP",
+    "publisherId": "EP2187"
+  },
+  {
     "titleId": "PPSA34273_00",
     "conceptId": 10017487,
     "name": "Etrange Overlord Demo",
@@ -558520,6 +558552,30 @@
     "publisherId": "EB2551"
   },
   {
+    "titleId": "PPSA36372_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven\u2019s Story",
+    "contentId": "EP1661-PPSA36372_00-SYPS5VORONRAVENS",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA36373_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven\u2019s Story",
+    "contentId": "JP1932-PPSA36373_00-SYPS5VORONRAVENS",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA36374_00",
+    "conceptId": 10018788,
+    "name": "VORON: Raven\u2019s Story",
+    "contentId": "HP1792-PPSA36374_00-SYPS5VORONRAVENS",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA36375_00",
     "conceptId": 10017703,
     "name": "OOLO",
@@ -561635,17 +561691,17 @@
     "titleId": "PPSA37245_00",
     "conceptId": 10002497,
     "name": "The Light in the Darkness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1594-PPSA37245_00-0895668355022391",
+    "region": "UP",
+    "publisherId": "UP1594"
   },
   {
     "titleId": "PPSA37246_00",
     "conceptId": 10002497,
     "name": "The Light in the Darkness",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1580-PPSA37246_00-0648269547182039",
+    "region": "EP",
+    "publisherId": "EP1580"
   },
   {
     "titleId": "PPSA37247_00",
@@ -561830,6 +561886,14 @@
     "contentId": "HB1312-PPSA37308_00-0559372605998255",
     "region": "HB",
     "publisherId": "HB1312"
+  },
+  {
+    "titleId": "PPSA37312_00",
+    "conceptId": 10019300,
+    "name": "Lawn Mowing Simulator 2",
+    "contentId": "EP7421-PPSA37312_00-0697297570736345",
+    "region": "EP",
+    "publisherId": "EP7421"
   },
   {
     "titleId": "PPSA37317_00",
@@ -562266,10 +562330,10 @@
   {
     "titleId": "PPSA37457_00",
     "conceptId": 10019373,
-    "name": "BLACKSHARD",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "BlackShard",
+    "contentId": "EP0207-PPSA37457_00-0972139474205581",
+    "region": "EP",
+    "publisherId": "EP0207"
   },
   {
     "titleId": "PPSA37460_00",
@@ -564256,6 +564320,14 @@
     "publisherId": "EP1430"
   },
   {
+    "titleId": "PPSA38134_00",
+    "conceptId": 10019793,
+    "name": "Coaster Crash Course",
+    "contentId": "UP4947-PPSA38134_00-COASTERCRASHCOUR",
+    "region": "UP",
+    "publisherId": "UP4947"
+  },
+  {
     "titleId": "PPSA38135_00",
     "conceptId": 10019793,
     "name": "Coaster Crash Course",
@@ -565104,12 +565176,28 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA38707_00",
+    "conceptId": 10020138,
+    "name": "The Bathrooms",
+    "contentId": "EP6880-PPSA38707_00-0782904576917968",
+    "region": "EP",
+    "publisherId": "EP6880"
+  },
+  {
     "titleId": "PPSA38708_00",
     "conceptId": null,
     "name": "\u7a7a\u306e\u8ecc\u8de1 the 2nd \u4f53\u9a13\u7248",
     "contentId": "JP0425-PPSA38708_00-EDSORA2TRIAL0001",
     "region": "JP",
     "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA38720_00",
+    "conceptId": 10020145,
+    "name": "Well Dweller",
+    "contentId": "UP5155-PPSA38720_00-WELLDWELLER00000",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA38725_00",
@@ -565248,6 +565336,38 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA38829_00",
+    "conceptId": 10020201,
+    "name": "Mirrors of Deception: The Silver Peaks Secret",
+    "contentId": "EP1411-PPSA38829_00-0585366257240208",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA38830_00",
+    "conceptId": 10020201,
+    "name": "Mirrors of Deception: The Silver Peaks Secret",
+    "contentId": "EP1411-PPSA38830_00-0277254047095427",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA38831_00",
+    "conceptId": 10020201,
+    "name": "Mirrors of Deception: The Silver Peaks Secret",
+    "contentId": "EP1411-PPSA38831_00-0029488343618210",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA38832_00",
+    "conceptId": 10020201,
+    "name": "Mirrors of Deception: The Silver Peaks Secret",
+    "contentId": "EP1411-PPSA38832_00-0425148596060973",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA38833_00",
     "conceptId": 10020202,
     "name": "Dark Town Secrets: Lost Lulu Collector's Edition",
@@ -565302,6 +565422,14 @@
     "contentId": "JP0571-PPSA38844_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA38852_00",
+    "conceptId": 10014310,
+    "name": "Fading Echo Demo",
+    "contentId": "UP7904-PPSA38852_00-0758083069777349",
+    "region": "UP",
+    "publisherId": "UP7904"
   },
   {
     "titleId": "PPSA38858_00",
@@ -565560,6 +565688,14 @@
     "publisherId": "HB1638"
   },
   {
+    "titleId": "PPSA39123_00",
+    "conceptId": 10020359,
+    "name": "Legendary Tales 2: Cataclysm",
+    "contentId": "UB0190-PPSA39123_00-0838964515268976",
+    "region": "UB",
+    "publisherId": "UB0190"
+  },
+  {
     "titleId": "PPSA39129_00",
     "conceptId": 10017650,
     "name": "Trails in the Sky 2nd Chapter Demo",
@@ -565670,6 +565806,14 @@
     "contentId": "UP6477-PPSA39270_00-0568954676517176",
     "region": "UP",
     "publisherId": "UP6477"
+  },
+  {
+    "titleId": "PPSA39291_00",
+    "conceptId": 10020393,
+    "name": "Poly Bridge 3",
+    "contentId": "EP1616-PPSA39291_00-0258278594013832",
+    "region": "EP",
+    "publisherId": "EP1616"
   },
   {
     "titleId": "PPSA39300_00",
