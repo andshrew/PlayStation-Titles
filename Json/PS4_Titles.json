@@ -516419,13 +516419,13 @@
   {
     "titleId": "CUSA58165_00",
     "conceptId": 10018279,
-    "name": "Bibi & Tina \u2013 Ready, Set, Ride!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Bibi & Tina - Ready, Set, Ride!",
+    "contentId": "EP3024-CUSA58165_00-BIBIUTINAADPFPS4",
+    "region": "EP",
+    "publisherId": "EP3024",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58166_00",
@@ -523339,23 +523339,23 @@
     "titleId": "CUSA58999_00",
     "conceptId": 10019172,
     "name": "I Hear Them",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP1932-CUSA58999_00-SYPS4IHEARTHEM00",
+    "region": "JP",
+    "publisherId": "JP1932",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59000_00",
     "conceptId": 10019172,
     "name": "I Hear Them",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP1792-CUSA59000_00-SYPS4IHEARTHEM00",
+    "region": "HP",
+    "publisherId": "HP1792",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59001_00",
@@ -527978,6 +527978,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59692_00",
+    "conceptId": 10020102,
+    "name": "Prison Run and Gun",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59694_00",
     "conceptId": null,
     "name": "Sandwalkers",
@@ -529837,9 +529848,31 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60082_00",
+    "conceptId": 10020898,
+    "name": "Top Down Rally Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60096_00",
     "conceptId": 10020925,
     "name": "Bible Trivia PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60099_00",
+    "conceptId": 10020927,
+    "name": "Easy Fishing Simulator",
     "contentId": null,
     "region": null,
     "publisherId": null,
