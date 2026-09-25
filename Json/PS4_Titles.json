@@ -504869,13 +504869,13 @@
   {
     "titleId": "CUSA56931_00",
     "conceptId": 10017120,
-    "name": "Disney\u2022Pixar Toy Story: Retro Roundup!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Toy Story: Retro Roundup!",
+    "contentId": "UP0182-CUSA56931_00-TOYSTORYRTRORNDU",
+    "region": "UP",
+    "publisherId": "UP0182",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA56932_00",
@@ -515001,12 +515001,12 @@
     "titleId": "CUSA58001_00",
     "conceptId": 10018113,
     "name": "SiN Reloaded",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP0182-CUSA58001_00-0774409993616876",
+    "region": "UP",
+    "publisherId": "UP0182",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58002_00",
@@ -518455,12 +518455,12 @@
     "titleId": "CUSA58449_00",
     "conceptId": 10018543,
     "name": "Angle Of Attack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0896-CUSA58449_00-ANGLEOFATTACKRAG",
+    "region": "EP",
+    "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58450_00",
@@ -523317,23 +523317,23 @@
     "titleId": "CUSA58997_00",
     "conceptId": 10019172,
     "name": "I Hear Them",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP1675-CUSA58997_00-SYPS4IHEARTHEM00",
+    "region": "UP",
+    "publisherId": "UP1675",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58998_00",
     "conceptId": 10019172,
     "name": "I Hear Them",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP1661-CUSA58998_00-SYPS4IHEARTHEM00",
+    "region": "EP",
+    "publisherId": "EP1661",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58999_00",
@@ -526672,12 +526672,12 @@
     "titleId": "CUSA59447_00",
     "conceptId": 10019711,
     "name": "Five Elements Chess",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP2205-CUSA59447_00-2026050800000042",
+    "region": "JP",
+    "publisherId": "JP2205",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59448_00",
@@ -527310,12 +527310,12 @@
     "titleId": "CUSA59542_00",
     "conceptId": 10017993,
     "name": "Farming Camp",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP1470-CUSA59542_00-FARMINGCAMP00000",
+    "region": "UP",
+    "publisherId": "UP1470",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59543_00",
@@ -528817,12 +528817,12 @@
     "titleId": "CUSA59852_00",
     "conceptId": 10019908,
     "name": "Heroes of Magic & Cards",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP3948-CUSA59852_00-0128561940815380",
+    "region": "EP",
+    "publisherId": "EP3948",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59854_00",
@@ -529169,6 +529169,17 @@
     "titleId": "CUSA59923_00",
     "conceptId": 202523,
     "name": "LET IT DIE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59926_00",
+    "conceptId": 10020539,
+    "name": "Cozy Meowmory",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -529870,6 +529881,28 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60097_00",
+    "conceptId": 10020926,
+    "name": "HAMVENTURE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60098_00",
+    "conceptId": 10020926,
+    "name": "HAMVENTURE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60099_00",
     "conceptId": 10020927,
     "name": "Easy Fishing Simulator",
@@ -529884,6 +529917,17 @@
     "titleId": "CUSA60103_00",
     "conceptId": 10004289,
     "name": "UFL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60105_00",
+    "conceptId": 10020852,
+    "name": "TALAKA",
     "contentId": null,
     "region": null,
     "publisherId": null,

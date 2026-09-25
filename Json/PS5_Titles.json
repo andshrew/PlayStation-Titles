@@ -4491,7 +4491,7 @@
     "titleId": "PPSA02391_00",
     "conceptId": 10001899,
     "name": "Dune: Awakening",
-    "contentId": null,
+    "contentId": "EP1833-PPSA02391_00-0768363837378354",
     "region": "EP",
     "publisherId": "EP1833"
   },
@@ -158579,7 +158579,7 @@
     "titleId": "PPSA33152_00",
     "conceptId": 10016861,
     "name": "Qliphah in Providence's Shadow",
-    "contentId": null,
+    "contentId": "UP0036-PPSA33152_00-QLIPHAH000010000",
     "region": "UP",
     "publisherId": "UP0036"
   },
@@ -159267,7 +159267,7 @@
     "titleId": "PPSA33286_00",
     "conceptId": 10016947,
     "name": "SILENT HILL: Townfall",
-    "contentId": null,
+    "contentId": "JP0101-PPSA33286_00-TOWNFALLSIEJ0000",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -161288,6 +161288,14 @@
     "publisherId": "UB1028"
   },
   {
+    "titleId": "PPSA33779_00",
+    "conceptId": 10017203,
+    "name": "Warhammer 40,000: Boltgun 2",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP3643"
+  },
+  {
     "titleId": "PPSA33780_00",
     "conceptId": 10017204,
     "name": "FLOCKOUT",
@@ -162946,10 +162954,10 @@
   {
     "titleId": "PPSA34117_00",
     "conceptId": 10016947,
-    "name": "SILENT HILL: Townfall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "SILENT HILL: Townfall - Bonus Application",
+    "contentId": "JP0101-PPSA34117_00-BONUS00000000000",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA34118_00",
@@ -168160,6 +168168,14 @@
     "publisherId": "JP0571"
   },
   {
+    "titleId": "PPSA35080_00",
+    "conceptId": 10017993,
+    "name": "Farming Camp",
+    "contentId": "EP4541-PPSA35080_00-FARMINGCAMP00000",
+    "region": "EP",
+    "publisherId": "EP4541"
+  },
+  {
     "titleId": "PPSA35081_00",
     "conceptId": 10015125,
     "name": "Flamecraft Demo",
@@ -168792,6 +168808,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA35231_00",
+    "conceptId": 10018086,
+    "name": "GOBBLE",
+    "contentId": "JP0404-PPSA35231_00-GOBBLE0000000000",
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
     "titleId": "PPSA35233_00",
     "conceptId": 10016065,
     "name": "\u51f6\u4e71\u30de\u30ab\u30a4\u30ba\u30e0 \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af\uff06\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
@@ -168806,6 +168830,14 @@
     "contentId": "HB2151-PPSA35236_00-0408432343088087",
     "region": "HB",
     "publisherId": "HB2151"
+  },
+  {
+    "titleId": "PPSA35247_00",
+    "conceptId": 10018113,
+    "name": "SiN Reloaded",
+    "contentId": "UP0182-PPSA35247_00-0732264165432134",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA35248_00",
@@ -169712,6 +169744,14 @@
     "publisherId": "JB0540"
   },
   {
+    "titleId": "PPSA35501_00",
+    "conceptId": 10018279,
+    "name": "Bibi & Tina - Ready, Set, Ride!",
+    "contentId": "EP3024-PPSA35501_00-BIBIUTINAADPFPS5",
+    "region": "EP",
+    "publisherId": "EP3024"
+  },
+  {
     "titleId": "PPSA35503_00",
     "conceptId": 10015253,
     "name": "Tralalero Tralala\u2122: Backrooms",
@@ -170430,6 +170470,14 @@
     "contentId": "EP7333-PPSA35678_00-0477115825091792",
     "region": "EP",
     "publisherId": "EP7333"
+  },
+  {
+    "titleId": "PPSA35681_00",
+    "conceptId": 10018391,
+    "name": "Kalanoro",
+    "contentId": "UP7904-PPSA35681_00-0300109303938212",
+    "region": "UP",
+    "publisherId": "UP7904"
   },
   {
     "titleId": "PPSA35682_00",
@@ -171484,6 +171532,14 @@
     "conceptId": 10018542,
     "name": "Pitstop in Purgatory",
     "contentId": "EP0896-PPSA35971_00-PITSTOPINPURGARG",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA35972_00",
+    "conceptId": 10018543,
+    "name": "Angle Of Attack",
+    "contentId": "EP0896-PPSA35972_00-ANGLEOFATTACKRAG",
     "region": "EP",
     "publisherId": "EP0896"
   },
@@ -175872,6 +175928,14 @@
     "publisherId": "JB1941"
   },
   {
+    "titleId": "PPSA37093_00",
+    "conceptId": 10019172,
+    "name": "I Hear Them",
+    "contentId": "UP1675-PPSA37093_00-SYPS5IHEARTHEM00",
+    "region": "UP",
+    "publisherId": "UP1675"
+  },
+  {
     "titleId": "PPSA37094_00",
     "conceptId": 10019172,
     "name": "I Hear Them",
@@ -175968,6 +176032,30 @@
     "publisherId": "EP3387"
   },
   {
+    "titleId": "PPSA37142_00",
+    "conceptId": 10019199,
+    "name": "Agefield High: Rock the School",
+    "contentId": "EP3446-PPSA37142_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP3446"
+  },
+  {
+    "titleId": "PPSA37143_00",
+    "conceptId": 10019199,
+    "name": "Agefield High: Rock the School",
+    "contentId": "JP3631-PPSA37143_00-XXXXXXXXXXXXXXXX",
+    "region": "JP",
+    "publisherId": "JP3631"
+  },
+  {
+    "titleId": "PPSA37144_00",
+    "conceptId": 10019199,
+    "name": "Agefield High: Rock the School",
+    "contentId": "HP3536-PPSA37144_00-XXXXXXXXXXXXXXXX",
+    "region": "HP",
+    "publisherId": "HP3536"
+  },
+  {
     "titleId": "PPSA37145_00",
     "conceptId": 10014866,
     "name": "STARSEEKER: Astroneer Expeditions [Network Test]",
@@ -176022,6 +176110,14 @@
     "contentId": "EP3877-PPSA37154_00-FGAMEESCAPEUMBRA",
     "region": "EP",
     "publisherId": "EP3877"
+  },
+  {
+    "titleId": "PPSA37161_00",
+    "conceptId": 10019211,
+    "name": "Ancient Farm",
+    "contentId": "EP5987-PPSA37161_00-ULGANCIENTFARM01",
+    "region": "EP",
+    "publisherId": "EP5987"
   },
   {
     "titleId": "PPSA37174_00",
@@ -177286,6 +177382,14 @@
     "contentId": "EP1976-PPSA37566_00-0567520214847567",
     "region": "EP",
     "publisherId": "EP1976"
+  },
+  {
+    "titleId": "PPSA37568_00",
+    "conceptId": 10019435,
+    "name": "Such A Guy",
+    "contentId": "HP8406-PPSA37568_00-NIUSUCHAGUYGLOAB",
+    "region": "HP",
+    "publisherId": "HP8406"
   },
   {
     "titleId": "PPSA37569_00",
@@ -179104,6 +179208,14 @@
     "publisherId": "UB0747"
   },
   {
+    "titleId": "PPSA38198_00",
+    "conceptId": 10019820,
+    "name": "Beer Manufacture Simulator",
+    "contentId": "UB2099-PPSA38198_00-GIBEERMANU000001",
+    "region": "UB",
+    "publisherId": "UB2099"
+  },
+  {
     "titleId": "PPSA38202_00",
     "conceptId": 10019822,
     "name": "New York Mysteries 1: Secrets of the Mafia",
@@ -179310,6 +179422,14 @@
     "contentId": "UB0190-PPSA38315_00-0992704049065720",
     "region": "UB",
     "publisherId": "UB0190"
+  },
+  {
+    "titleId": "PPSA38333_00",
+    "conceptId": 10018086,
+    "name": "GOBBLE\u3000DIGITALARTBOOK&SOUNDTRACK",
+    "contentId": "JP0404-PPSA38333_00-0649839290422610",
+    "region": "JP",
+    "publisherId": "JP0404"
   },
   {
     "titleId": "PPSA38334_00",
@@ -179722,10 +179842,10 @@
   {
     "titleId": "PPSA38627_00",
     "conceptId": 10018086,
-    "name": "GOBBLE",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "GOBBLE\u3000DIGITALARTBOOK&SOUNDTRACK",
+    "contentId": "HP5846-PPSA38627_00-GOBBLE0000000000",
+    "region": "HP",
+    "publisherId": "HP5846"
   },
   {
     "titleId": "PPSA38631_00",
@@ -180280,12 +180400,20 @@
     "publisherId": "HB2024"
   },
   {
+    "titleId": "PPSA39049_00",
+    "conceptId": 10001893,
+    "name": "My Hidden Things",
+    "contentId": "UP5325-PPSA39049_00-MYHTPS5US0000000",
+    "region": "UP",
+    "publisherId": "UP5325"
+  },
+  {
     "titleId": "PPSA39051_00",
     "conceptId": 10001893,
     "name": "My Hidden Things",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP5506-PPSA39051_00-MHSPS5EU00000000",
+    "region": "EP",
+    "publisherId": "EP5506"
   },
   {
     "titleId": "PPSA39068_00",
@@ -180310,6 +180438,14 @@
     "contentId": "HB2639-PPSA39083_00-0202981640883665",
     "region": "HB",
     "publisherId": "HB2639"
+  },
+  {
+    "titleId": "PPSA39091_00",
+    "conceptId": 10019908,
+    "name": "Heroes of Magic and Cards",
+    "contentId": "EP3948-PPSA39091_00-0970293112660940",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "PPSA39096_00",
@@ -180395,9 +180531,9 @@
     "titleId": "PPSA39184_00",
     "conceptId": 10020408,
     "name": "The Trolley Solution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6880-PPSA39184_00-0366849468107213",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA39216_00",
@@ -180446,6 +180582,14 @@
     "contentId": "EB1284-PPSA39254_00-0932405208359754",
     "region": "EB",
     "publisherId": "EB1284"
+  },
+  {
+    "titleId": "PPSA39255_00",
+    "conceptId": 10020426,
+    "name": "Alien Breed 35th Anniversary",
+    "contentId": "UP8246-PPSA39255_00-0405807279062323",
+    "region": "UP",
+    "publisherId": "UP8246"
   },
   {
     "titleId": "PPSA39263_00",
