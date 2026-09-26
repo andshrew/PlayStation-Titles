@@ -493471,6 +493471,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA55808_00",
+    "conceptId": 10015034,
+    "name": "White Box Quiz",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA55809_00",
     "conceptId": 10016113,
     "name": "Flight Sim 2025",
@@ -520751,6 +520762,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA58699_00",
+    "conceptId": 10018866,
+    "name": "EA SPORTS FC\u2122 27 Lite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58700_00",
     "conceptId": 10016529,
     "name": "It's Quiz Time: Guinness World Records Edition",
@@ -529752,12 +529774,12 @@
     "titleId": "CUSA60064_00",
     "conceptId": 10020859,
     "name": "Cargo Rail Tycoon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7552-CUSA60064_00-0467543650275335",
+    "region": "UP",
+    "publisherId": "UP7552",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60065_00",
@@ -529950,6 +529972,39 @@
     "titleId": "CUSA60114_00",
     "conceptId": 10020963,
     "name": "Omni Growth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60128_00",
+    "conceptId": 10010803,
+    "name": "Hyperspace Neptunia: Unlimited",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60129_00",
+    "conceptId": 10010803,
+    "name": "Hyperspace Neptunia: Unlimited",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60130_00",
+    "conceptId": 10017279,
+    "name": "Frankenstein: Awakening of Horror",
     "contentId": null,
     "region": null,
     "publisherId": null,

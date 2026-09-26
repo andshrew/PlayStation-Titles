@@ -358888,6 +358888,14 @@
     "publisherId": "UB1750"
   },
   {
+    "titleId": "CUSA55808_00",
+    "conceptId": 10015034,
+    "name": "White Box Quiz",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA55809_00",
     "conceptId": 10016113,
     "name": "Flight Sim 2025",
@@ -378728,6 +378736,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA58699_00",
+    "conceptId": 10018866,
+    "name": "EA SPORTS FC\u2122 27 Lite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA58700_00",
     "conceptId": 10016529,
     "name": "It's Quiz Time: Guinness World Records Edition",
@@ -385275,9 +385291,9 @@
     "titleId": "CUSA60064_00",
     "conceptId": 10020859,
     "name": "Cargo Rail Tycoon",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-CUSA60064_00-0467543650275335",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "CUSA60065_00",
@@ -385419,6 +385435,30 @@
     "titleId": "CUSA60114_00",
     "conceptId": 10020963,
     "name": "Omni Growth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60128_00",
+    "conceptId": 10010803,
+    "name": "Hyperspace Neptunia: Unlimited",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60129_00",
+    "conceptId": 10010803,
+    "name": "Hyperspace Neptunia: Unlimited",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60130_00",
+    "conceptId": 10017279,
+    "name": "Frankenstein: Awakening of Horror",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -559248,6 +559288,14 @@
     "publisherId": "UB0383"
   },
   {
+    "titleId": "PPSA36504_00",
+    "conceptId": 10018866,
+    "name": "EA SPORTS FC\u2122 27 Lite",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA36509_00",
     "conceptId": 10018868,
     "name": "Shoe It All!",
@@ -560744,6 +560792,22 @@
     "publisherId": "JP0571"
   },
   {
+    "titleId": "PPSA36902_00",
+    "conceptId": 10019069,
+    "name": "Used Cars Simulator",
+    "contentId": "EP1549-PPSA36902_00-0990819561974940",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA36903_00",
+    "conceptId": 10019069,
+    "name": "Used Cars Simulator",
+    "contentId": "UP1564-PPSA36903_00-0520558906974637",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA36908_00",
     "conceptId": 10019029,
     "name": "Clown car VS the War",
@@ -561590,6 +561654,14 @@
     "contentId": "EP3387-PPSA37137_00-0195913753223999",
     "region": "EP",
     "publisherId": "EP3387"
+  },
+  {
+    "titleId": "PPSA37141_00",
+    "conceptId": 10019199,
+    "name": "Agefield High: Rock the School",
+    "contentId": "UP3589-PPSA37141_00-XXXXXXXXXXXXXXXX",
+    "region": "UP",
+    "publisherId": "UP3589"
   },
   {
     "titleId": "PPSA37142_00",
@@ -566216,6 +566288,14 @@
     "publisherId": "EP0415"
   },
   {
+    "titleId": "PPSA39378_00",
+    "conceptId": 10020531,
+    "name": "Gods With Guns",
+    "contentId": "JB2682-PPSA39378_00-0058886612701020",
+    "region": "JB",
+    "publisherId": "JB2682"
+  },
+  {
     "titleId": "PPSA39379_00",
     "conceptId": 10020532,
     "name": "Lofi Witch Hatch",
@@ -566304,6 +566384,14 @@
     "publisherId": "EB2823"
   },
   {
+    "titleId": "PPSA39468_00",
+    "conceptId": 10019467,
+    "name": "Dog Man: Bark in Action Demo",
+    "contentId": "EP3945-PPSA39468_00-DMBIADEMOPACKAGE",
+    "region": "EP",
+    "publisherId": "EP3945"
+  },
+  {
     "titleId": "PPSA39485_00",
     "conceptId": 10020598,
     "name": "1-2-Splendid Word Search!",
@@ -566372,6 +566460,14 @@
     "conceptId": 10020772,
     "name": "Stock Cars Racing",
     "contentId": "UP7552-PPSA39833_00-0665878910771760",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA39948_00",
+    "conceptId": 10020859,
+    "name": "Cargo Rail Tycoon",
+    "contentId": "UP7552-PPSA39948_00-0931594148078141",
     "region": "UP",
     "publisherId": "UP7552"
   }
