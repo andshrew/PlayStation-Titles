@@ -377704,6 +377704,14 @@
     "publisherId": "EP0896"
   },
   {
+    "titleId": "CUSA58541_00",
+    "conceptId": 10018663,
+    "name": "My Lovey-Dovey Demon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA58551_00",
     "conceptId": 10018676,
     "name": "Steamboat Incident",
@@ -383552,6 +383560,14 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "CUSA59550_00",
+    "conceptId": 10019848,
+    "name": "Moto X",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59556_00",
     "conceptId": 10019853,
     "name": "Banban\u2019s Garten: Distorting Clay",
@@ -385435,6 +385451,14 @@
     "titleId": "CUSA60114_00",
     "conceptId": 10020963,
     "name": "Omni Growth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60120_00",
+    "conceptId": 10020981,
+    "name": "Panda: Shards of Aurora",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -499498,8 +499522,8 @@
   {
     "titleId": "PPSA24913_00",
     "conceptId": 10011942,
-    "name": "ACE COMBAT 8: WINGS OF THEVE",
-    "contentId": null,
+    "name": "ACE COMBAT 8",
+    "contentId": "JP0700-PPSA24913_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -511390,6 +511414,22 @@
     "contentId": "UP6261-PPSA27019_00-SLUS204950000000",
     "region": "UP",
     "publisherId": "UP6261"
+  },
+  {
+    "titleId": "PPSA27023_00",
+    "conceptId": 10011942,
+    "name": "ACE COMBAT\u2122 THE BELKAN WAR",
+    "contentId": "UP0700-PPSA27023_00-ACECOMBATZEROTBW",
+    "region": "UP",
+    "publisherId": "UP0700"
+  },
+  {
+    "titleId": "PPSA27024_00",
+    "conceptId": 10011942,
+    "name": "ACE COMBAT\u2122 THE BELKAN WAR",
+    "contentId": "EP0700-PPSA27024_00-ACECOMBATZEROTBW",
+    "region": "EP",
+    "publisherId": "EP0700"
   },
   {
     "titleId": "PPSA27025_00",
@@ -531802,8 +531842,8 @@
   {
     "titleId": "PPSA30839_00",
     "conceptId": 10015195,
-    "name": "MXGP 26 - The Official Game",
-    "contentId": null,
+    "name": "MXGP 26: The Official Game",
+    "contentId": "EP6665-PPSA30839_00-MXGP200000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -551040,6 +551080,14 @@
     "publisherId": "EP0981"
   },
   {
+    "titleId": "PPSA34591_00",
+    "conceptId": 10017559,
+    "name": "Keep Driving",
+    "contentId": "EP2123-PPSA34591_00-KEEPXXXXXDRIVING",
+    "region": "EP",
+    "publisherId": "EP2123"
+  },
+  {
     "titleId": "PPSA34593_00",
     "conceptId": 10016065,
     "name": "\u51f6\u4e71\u30de\u30ab\u30a4\u30ba\u30e0 \u30c7\u30b8\u30bf\u30eb\u30a2\u30fc\u30c8\u30d6\u30c3\u30af\uff06\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
@@ -564896,6 +564944,14 @@
     "publisherId": "UP8365"
   },
   {
+    "titleId": "PPSA38219_00",
+    "conceptId": 10010699,
+    "name": "SURI: The Seventh Note",
+    "contentId": null,
+    "region": "UB",
+    "publisherId": "UB0289"
+  },
+  {
     "titleId": "PPSA38220_00",
     "conceptId": 10008019,
     "name": "MARVEL T\u014dkon: Fighting Souls OPEN BETA",
@@ -566168,6 +566224,14 @@
     "publisherId": "EP6880"
   },
   {
+    "titleId": "PPSA39185_00",
+    "conceptId": 10020409,
+    "name": "A Love Letter in Snowfall",
+    "contentId": "HB0700-PPSA39185_00-0555939999997626",
+    "region": "HB",
+    "publisherId": "HB0700"
+  },
+  {
     "titleId": "PPSA39216_00",
     "conceptId": 10020419,
     "name": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u30fb\u30df\u30b9\u30c6\u30ea\u30fc\u30ba 5\uff1a\u30a2\u30fc\u30c8\u306e\u529b",
@@ -566459,9 +566523,9 @@
     "titleId": "PPSA39824_00",
     "conceptId": 10020765,
     "name": "GUTS",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0782-PPSA39824_00-ALCHEMY00000GUTS",
+    "region": "EP",
+    "publisherId": "EP0782"
   },
   {
     "titleId": "PPSA39833_00",

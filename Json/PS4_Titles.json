@@ -518470,7 +518470,7 @@
     "region": "EP",
     "publisherId": "EP0896",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -519341,6 +519341,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA58541_00",
+    "conceptId": 10018663,
+    "name": "My Lovey-Dovey Demon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA58551_00",
@@ -527384,6 +527395,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59550_00",
+    "conceptId": 10019848,
+    "name": "Moto X",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59556_00",
     "conceptId": 10019853,
     "name": "Banban\u2019s Garten: Distorting Clay",
@@ -529972,6 +529994,17 @@
     "titleId": "CUSA60114_00",
     "conceptId": 10020963,
     "name": "Omni Growth",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60120_00",
+    "conceptId": 10020981,
+    "name": "Panda: Shards of Aurora",
     "contentId": null,
     "region": null,
     "publisherId": null,
