@@ -505167,20 +505167,20 @@
     "titleId": "CUSA57011_00",
     "conceptId": 10017168,
     "name": "King's Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP1932-CUSA57011_00-SYPS4KINGSBLADE0",
+    "region": "JP",
+    "publisherId": "JP1932",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57012_00",
     "conceptId": 10017168,
     "name": "King's Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP1792-CUSA57012_00-SYPS4KINGSBLADE0",
+    "region": "HP",
+    "publisherId": "HP1792",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -528814,6 +528814,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59816_00",
+    "conceptId": 10020282,
+    "name": "Lithium II: Me",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59825_00",
     "conceptId": 10017244,
     "name": "Echo Weaver",
@@ -528883,12 +528894,12 @@
     "titleId": "CUSA59855_00",
     "conceptId": 10014563,
     "name": "Turbo Boost Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0806-CUSA59855_00-0188443175443848",
+    "region": "EP",
+    "publisherId": "EP0806",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59856_00",
@@ -529661,6 +529672,28 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60027_00",
+    "conceptId": 10020764,
+    "name": "Croc's World 5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60028_00",
+    "conceptId": 10020764,
+    "name": "Croc's World 5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60029_00",
     "conceptId": 10020765,
     "name": "GUTS",
@@ -530069,6 +530102,17 @@
   },
   {
     "titleId": "CUSA60138_00",
+    "conceptId": 10010803,
+    "name": "Hyperspace Neptunia: Unlimited",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60139_00",
     "conceptId": 10010803,
     "name": "Hyperspace Neptunia: Unlimited",
     "contentId": null,
