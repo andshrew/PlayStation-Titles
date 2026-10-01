@@ -46496,6 +46496,14 @@
     "publisherId": "UP1309"
   },
   {
+    "titleId": "CUSA06626_00",
+    "conceptId": 10001561,
+    "name": "A DUEL HAND DISASTER: TRACKHER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA06627_00",
     "conceptId": 234547,
     "name": "EarthNight",
@@ -343026,10 +343034,10 @@
   {
     "titleId": "CUSA53589_00",
     "conceptId": 10009499,
-    "name": "FATAL FURY: City of the Wolves",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "FATAL FURY: City of the Wolves - Demo Version -",
+    "contentId": "JP0576-CUSA53589_00-FFCOTWDEMO000000",
+    "region": "JP",
+    "publisherId": "JP0576"
   },
   {
     "titleId": "CUSA53591_00",
@@ -351835,9 +351843,9 @@
     "titleId": "CUSA54796_00",
     "conceptId": 10015284,
     "name": "ANTONBLAST",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0312-CUSA54796_00-0683514839132205",
+    "region": "UB",
+    "publisherId": "UB0312"
   },
   {
     "titleId": "CUSA54797_00",
@@ -367379,17 +367387,17 @@
     "titleId": "CUSA57009_00",
     "conceptId": 10017168,
     "name": "King's Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP1675-CUSA57009_00-SYPS4KINGSBLADE0",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "CUSA57010_00",
     "conceptId": 10017168,
     "name": "King's Blade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-CUSA57010_00-SYPS4KINGSBLADE0",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "CUSA57011_00",
@@ -378384,6 +378392,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA58642_00",
+    "conceptId": 10018790,
+    "name": "\u98db\u7a7a\u8247\u30af\u30a8\u30b9\u30c8\u5cf6",
+    "contentId": "JP5361-CUSA58642_00-KAIRO00000161000",
+    "region": "JP",
+    "publisherId": "JP5361"
+  },
+  {
     "titleId": "CUSA58643_00",
     "conceptId": 10018797,
     "name": "The Coma 3: Bloodlines",
@@ -384616,6 +384632,14 @@
     "publisherId": "UP0097"
   },
   {
+    "titleId": "CUSA59837_00",
+    "conceptId": 10020327,
+    "name": "Arcade Archives BALLOON BOMBER",
+    "contentId": "JP0571-CUSA59837_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "CUSA59838_00",
     "conceptId": 10017122,
     "name": "Disney/Pixar Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack",
@@ -384627,6 +384651,38 @@
     "titleId": "CUSA59841_00",
     "conceptId": 10015216,
     "name": "ONE MAP - Never Ending Battle Royale",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59842_00",
+    "conceptId": 10020336,
+    "name": "Creepy Tale: Snow Child",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59843_00",
+    "conceptId": 10020336,
+    "name": "Creepy Tale: Snow Child",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59844_00",
+    "conceptId": 10020336,
+    "name": "Creepy Tale: Snow Child",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59845_00",
+    "conceptId": 10020336,
+    "name": "Creepy Tale: Snow Child",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -385168,6 +385224,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59991_00",
+    "conceptId": 10020684,
+    "name": "The Smiling Flesh",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59993_00",
     "conceptId": 10020698,
     "name": "Halver",
@@ -385315,6 +385379,14 @@
     "titleId": "CUSA60047_00",
     "conceptId": 10020818,
     "name": "Whispers Within",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60051_00",
+    "conceptId": 10020837,
+    "name": "Solid Void - Halloween Nonograms",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -504114,8 +504186,8 @@
   {
     "titleId": "PPSA25717_00",
     "conceptId": 10012377,
-    "name": "End of Abyss",
-    "contentId": null,
+    "name": "EndOfAbyss",
+    "contentId": "HP1597-PPSA25717_00-0985961339248645",
     "region": "HP",
     "publisherId": "HP1597"
   },
@@ -505900,6 +505972,14 @@
     "conceptId": 10010662,
     "name": "Gothic Classic",
     "contentId": "EP4389-PPSA26049_00-GOTHIC1CLASSICWW",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
+    "titleId": "PPSA26050_00",
+    "conceptId": 10010693,
+    "name": "Gothic II Complete Classic",
+    "contentId": "EP4389-PPSA26050_00-GOTHIC2CLASSICWW",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -520502,6 +520582,14 @@
     "contentId": "UP1014-PPSA28625_00-HMHOMESE000000WW",
     "region": "UP",
     "publisherId": "UP1014"
+  },
+  {
+    "titleId": "PPSA28627_00",
+    "conceptId": 10009499,
+    "name": "FATAL FURY: City of the Wolves - Demo Version -",
+    "contentId": "JP0576-PPSA28627_00-FFCOTWDEMO000000",
+    "region": "JP",
+    "publisherId": "JP0576"
   },
   {
     "titleId": "PPSA28628_00",
@@ -543171,7 +543259,7 @@
     "titleId": "PPSA32935_00",
     "conceptId": 10016743,
     "name": "DYNASTY WARRIORS 3: Complete Edition Remastered",
-    "contentId": null,
+    "contentId": "JP0106-PPSA32935_00-DW3CEREMASTERED0",
     "region": "JP",
     "publisherId": "JP0106"
   },
@@ -546886,6 +546974,30 @@
     "contentId": "EP0896-PPSA33739_00-MORTFILESULFATRG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA33742_00",
+    "conceptId": 10017168,
+    "name": "King's Blade",
+    "contentId": "UP1675-PPSA33742_00-SYPS5KINGSBLADE0",
+    "region": "UP",
+    "publisherId": "UP1675"
+  },
+  {
+    "titleId": "PPSA33743_00",
+    "conceptId": 10017168,
+    "name": "King's Blade",
+    "contentId": "EP1661-PPSA33743_00-SYPS5KINGSBLADE0",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA33744_00",
+    "conceptId": 10017168,
+    "name": "King's Blade",
+    "contentId": "JP1932-PPSA33744_00-SYPS5KINGSBLADE0",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "PPSA33745_00",
@@ -554912,6 +555024,14 @@
     "publisherId": "JB0500"
   },
   {
+    "titleId": "PPSA35366_00",
+    "conceptId": 10018162,
+    "name": "Moros Protocol",
+    "contentId": "EP6930-PPSA35366_00-MOROS000PROTOCOL",
+    "region": "EP",
+    "publisherId": "EP6930"
+  },
+  {
     "titleId": "PPSA35367_00",
     "conceptId": 10018163,
     "name": "Pixicharm - Zippyron",
@@ -555672,6 +555792,14 @@
     "publisherId": "JP0031"
   },
   {
+    "titleId": "PPSA35528_00",
+    "conceptId": 10016343,
+    "name": "\u58a8\u5883",
+    "contentId": "HP8406-PPSA35528_00-REALMOFINKNIUCHN",
+    "region": "HP",
+    "publisherId": "HP8406"
+  },
+  {
     "titleId": "PPSA35530_00",
     "conceptId": 10018296,
     "name": "Chess Battle",
@@ -555838,6 +555966,14 @@
     "contentId": "HP8462-PPSA35602_00-0315087658478963",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA35603_00",
+    "conceptId": 10018343,
+    "name": "Through Blood and Dragons - Dragon Wars",
+    "contentId": "HB2235-PPSA35603_00-0271406552046909",
+    "region": "HB",
+    "publisherId": "HB2235"
   },
   {
     "titleId": "PPSA35606_00",
@@ -560040,6 +560176,14 @@
     "publisherId": "UP5155"
   },
   {
+    "titleId": "PPSA36689_00",
+    "conceptId": 10018966,
+    "name": "SEEK",
+    "contentId": "UB0675-PPSA36689_00-0397297507158993",
+    "region": "UB",
+    "publisherId": "UB0675"
+  },
+  {
     "titleId": "PPSA36690_00",
     "conceptId": 10018967,
     "name": "Survivor Legion",
@@ -561502,6 +561646,14 @@
     "contentId": "JP0571-PPSA37038_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA37039_00",
+    "conceptId": 10018186,
+    "name": "Castlevania: Belmont's Curse Demo",
+    "contentId": "JP0101-PPSA37039_00-CVBCDEMO00000000",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA37043_00",
@@ -564432,6 +564584,14 @@
     "publisherId": "UP2143"
   },
   {
+    "titleId": "PPSA37954_00",
+    "conceptId": 10019084,
+    "name": "CRYMELIGHT",
+    "contentId": null,
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA37957_00",
     "conceptId": 10019695,
     "name": "Damways",
@@ -565272,6 +565432,14 @@
     "publisherId": "UB2202"
   },
   {
+    "titleId": "PPSA38351_00",
+    "conceptId": 10019917,
+    "name": "Voltaire The Vegan Vampire",
+    "contentId": "UP3252-PPSA38351_00-JANDUSOFT0000001",
+    "region": "UP",
+    "publisherId": "UP3252"
+  },
+  {
     "titleId": "PPSA38353_00",
     "conceptId": 10019916,
     "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
@@ -565832,6 +566000,14 @@
     "publisherId": "UP3061"
   },
   {
+    "titleId": "PPSA38783_00",
+    "conceptId": 10018485,
+    "name": "Next of Kin: Epiphany DEMO",
+    "contentId": "UB1110-PPSA38783_00-0978344353456447",
+    "region": "UB",
+    "publisherId": "UB1110"
+  },
+  {
     "titleId": "PPSA38793_00",
     "conceptId": 10020184,
     "name": "Bone Marrow 2",
@@ -566232,6 +566408,14 @@
     "publisherId": "EP5506"
   },
   {
+    "titleId": "PPSA39061_00",
+    "conceptId": 10020327,
+    "name": "Arcade Archives 2 BALLOON BOMBER",
+    "contentId": "JP0571-PPSA39061_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA39068_00",
     "conceptId": 10001893,
     "name": "My Hidden Things",
@@ -566344,6 +566528,14 @@
     "publisherId": "EP7349"
   },
   {
+    "titleId": "PPSA39179_00",
+    "conceptId": 10020068,
+    "name": "Arcade Archives 2 CRAZY BALLOON",
+    "contentId": "JP0571-PPSA39179_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA39184_00",
     "conceptId": 10020408,
     "name": "The Trolley Solution",
@@ -566424,6 +566616,14 @@
     "publisherId": "HP5846"
   },
   {
+    "titleId": "PPSA39264_00",
+    "conceptId": 10020464,
+    "name": "Console Archives Chack'n Pop",
+    "contentId": "JP0571-PPSA39264_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA39270_00",
     "conceptId": 10018159,
     "name": "SlashZero Demo",
@@ -566435,9 +566635,9 @@
     "titleId": "PPSA39278_00",
     "conceptId": 10020472,
     "name": "Meow Moments: Celebrating Together",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1802-PPSA39278_00-0570785219378621",
+    "region": "UB",
+    "publisherId": "UB1802"
   },
   {
     "titleId": "PPSA39291_00",
@@ -566640,6 +566840,22 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA39655_00",
+    "conceptId": 10020513,
+    "name": "Shikaku Room",
+    "contentId": "UB2749-PPSA39655_00-0217595692838181",
+    "region": "UB",
+    "publisherId": "UB2749"
+  },
+  {
+    "titleId": "PPSA39661_00",
+    "conceptId": 10020669,
+    "name": "Rain Station Z",
+    "contentId": "EP3644-PPSA39661_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3644"
+  },
+  {
     "titleId": "PPSA39739_00",
     "conceptId": 10020716,
     "name": "Panchito Delivery: Project Elevator",
@@ -566654,6 +566870,14 @@
     "contentId": "JB1609-PPSA39746_00-0858019845758307",
     "region": "JB",
     "publisherId": "JB1609"
+  },
+  {
+    "titleId": "PPSA39821_00",
+    "conceptId": 10020762,
+    "name": "TOYCRAFTER",
+    "contentId": "EP6880-PPSA39821_00-0291288894348327",
+    "region": "EP",
+    "publisherId": "EP6880"
   },
   {
     "titleId": "PPSA39824_00",
@@ -566672,11 +566896,27 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA39850_00",
+    "conceptId": 10020669,
+    "name": "\u30ec\u30a4\u30f3\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3Z\u300c\u4f53\u9a13\u7248\u300d",
+    "contentId": "EP3644-PPSA39850_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3644"
+  },
+  {
     "titleId": "PPSA39948_00",
     "conceptId": 10020859,
     "name": "Cargo Rail Tycoon",
     "contentId": "UP7552-PPSA39948_00-0931594148078141",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40007_00",
+    "conceptId": 10020348,
+    "name": "Together Moon Escape DEMO",
+    "contentId": "EB2761-PPSA40007_00-0465938238939378",
+    "region": "EB",
+    "publisherId": "EB2761"
   }
 ]
