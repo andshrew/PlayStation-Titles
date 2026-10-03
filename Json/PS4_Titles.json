@@ -527340,6 +527340,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59533_00",
+    "conceptId": 10019819,
+    "name": "HAPPY WEEKEND",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59538_00",
     "conceptId": 10019830,
     "name": "Thief: The Dark Project Remastered",
@@ -529232,6 +529243,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59898_00",
+    "conceptId": 10019819,
+    "name": "HAPPY WEEKEND",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59899_00",
     "conceptId": 10019427,
     "name": "Asylum",
@@ -529834,7 +529856,7 @@
     "publisherId": "UP4770",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60034_00",
@@ -530071,12 +530093,12 @@
     "titleId": "CUSA60082_00",
     "conceptId": 10020898,
     "name": "Top Down Rally Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7552-CUSA60082_00-0326968294429373",
+    "region": "UP",
+    "publisherId": "UP7552",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60096_00",
@@ -530115,12 +530137,12 @@
     "titleId": "CUSA60099_00",
     "conceptId": 10020927,
     "name": "Easy Fishing Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7552-CUSA60099_00-0116188967145799",
+    "region": "UP",
+    "publisherId": "UP7552",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60103_00",

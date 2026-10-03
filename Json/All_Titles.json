@@ -383520,6 +383520,14 @@
     "publisherId": "JB2357"
   },
   {
+    "titleId": "CUSA59533_00",
+    "conceptId": 10019819,
+    "name": "HAPPY WEEKEND",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59538_00",
     "conceptId": 10019830,
     "name": "Thief: The Dark Project Remastered",
@@ -384896,6 +384904,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59898_00",
+    "conceptId": 10019819,
+    "name": "HAPPY WEEKEND",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59899_00",
     "conceptId": 10019427,
     "name": "Asylum",
@@ -385507,9 +385523,9 @@
     "titleId": "CUSA60082_00",
     "conceptId": 10020898,
     "name": "Top Down Rally Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-CUSA60082_00-0326968294429373",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "CUSA60096_00",
@@ -385539,9 +385555,9 @@
     "titleId": "CUSA60099_00",
     "conceptId": 10020927,
     "name": "Easy Fishing Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-CUSA60099_00-0116188967145799",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "CUSA60103_00",
@@ -480848,6 +480864,14 @@
     "publisherId": "EP4133"
   },
   {
+    "titleId": "PPSA21225_00",
+    "conceptId": 10009613,
+    "name": "Elta: Defy All Gods",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP4133"
+  },
+  {
     "titleId": "PPSA21226_00",
     "conceptId": 10008402,
     "name": "Age of Water",
@@ -495094,6 +495118,14 @@
     "contentId": "HP0700-PPSA24087_00-TAIKORFDEMO00000",
     "region": "HP",
     "publisherId": "HP0700"
+  },
+  {
+    "titleId": "PPSA24088_00",
+    "conceptId": 10011552,
+    "name": "PUCKOFF: RELOADED",
+    "contentId": "UB0991-PPSA24088_00-0762843402580500",
+    "region": "UB",
+    "publisherId": "UB0991"
   },
   {
     "titleId": "PPSA24089_00",
@@ -529590,6 +529622,14 @@
     "contentId": "UB0675-PPSA30373_00-0998016640384846",
     "region": "UB",
     "publisherId": "UB0675"
+  },
+  {
+    "titleId": "PPSA30374_00",
+    "conceptId": 10015284,
+    "name": "ANTONBLAST",
+    "contentId": "UB0312-PPSA30374_00-0072456571199783",
+    "region": "UB",
+    "publisherId": "UB0312"
   },
   {
     "titleId": "PPSA30376_00",
@@ -566280,6 +566320,14 @@
     "publisherId": "UP0745"
   },
   {
+    "titleId": "PPSA38859_00",
+    "conceptId": 10020214,
+    "name": "Hotel Simulator",
+    "contentId": "EP1549-PPSA38859_00-0594505408624845",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
     "titleId": "PPSA38862_00",
     "conceptId": 10020215,
     "name": "7 Shifts in Subway",
@@ -566454,6 +566502,14 @@
     "contentId": "UB0190-PPSA38989_00-0533982582141082",
     "region": "UB",
     "publisherId": "UB0190"
+  },
+  {
+    "titleId": "PPSA38998_00",
+    "conceptId": 10019350,
+    "name": "Blocky Powers",
+    "contentId": "HB2024-PPSA38998_00-0553019229862921",
+    "region": "HB",
+    "publisherId": "HB2024"
   },
   {
     "titleId": "PPSA39019_00",
@@ -566824,6 +566880,14 @@
     "publisherId": "JB2357"
   },
   {
+    "titleId": "PPSA39406_00",
+    "conceptId": 10020551,
+    "name": "Monster Nursery",
+    "contentId": "JB2682-PPSA39406_00-0462689924261615",
+    "region": "JB",
+    "publisherId": "JB2682"
+  },
+  {
     "titleId": "PPSA39415_00",
     "conceptId": 10020441,
     "name": "Tank Odyssey",
@@ -566928,12 +566992,28 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA39564_00",
+    "conceptId": 10020628,
+    "name": "Rooms",
+    "contentId": "UB2239-PPSA39564_00-ROOMS0000000SIEA",
+    "region": "UB",
+    "publisherId": "UB2239"
+  },
+  {
     "titleId": "PPSA39565_00",
     "conceptId": 10020628,
     "name": "Rooms",
     "contentId": "EB2433-PPSA39565_00-ROOMS0000000SIEE",
     "region": "EB",
     "publisherId": "EB2433"
+  },
+  {
+    "titleId": "PPSA39566_00",
+    "conceptId": 10020628,
+    "name": "Rooms",
+    "contentId": "HB2206-PPSA39566_00-ROOMS000000SIEJP",
+    "region": "HB",
+    "publisherId": "HB2206"
   },
   {
     "titleId": "PPSA39567_00",
@@ -567016,6 +567096,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA39842_00",
+    "conceptId": 10019363,
+    "name": "Rhythm Roll Demo",
+    "contentId": "HB2024-PPSA39842_00-0638450094186935",
+    "region": "HB",
+    "publisherId": "HB2024"
+  },
+  {
     "titleId": "PPSA39850_00",
     "conceptId": 10020669,
     "name": "\u30ec\u30a4\u30f3\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3Z\u300c\u4f53\u9a13\u7248\u300d",
@@ -567032,6 +567120,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA40005_00",
+    "conceptId": 10020898,
+    "name": "Top Down Rally Racing",
+    "contentId": "UP7552-PPSA40005_00-0395497198568363",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA40007_00",
     "conceptId": 10020348,
     "name": "Together Moon Escape DEMO",
@@ -567040,11 +567136,27 @@
     "publisherId": "EB2761"
   },
   {
+    "titleId": "PPSA40047_00",
+    "conceptId": 10020926,
+    "name": "HAMVENTURE",
+    "contentId": "JB2357-PPSA40047_00-HAMVENTUREEUASJP",
+    "region": "JB",
+    "publisherId": "JB2357"
+  },
+  {
     "titleId": "PPSA40048_00",
     "conceptId": 10020926,
     "name": "HAMVENTURE",
     "contentId": "JB2357-PPSA40048_00-HAMVENTURENA0000",
     "region": "JB",
     "publisherId": "JB2357"
+  },
+  {
+    "titleId": "PPSA40051_00",
+    "conceptId": 10020927,
+    "name": "Easy Fishing Simulator",
+    "contentId": "UP7552-PPSA40051_00-0723954392860078",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
