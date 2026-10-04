@@ -529849,7 +529849,7 @@
   },
   {
     "titleId": "CUSA60032_00",
-    "conceptId": null,
+    "conceptId": 10020773,
     "name": "Axis Football 2027",
     "contentId": "UP4770-CUSA60032_00-0068273103490379",
     "region": "UP",
@@ -529861,10 +529861,10 @@
   {
     "titleId": "CUSA60034_00",
     "conceptId": 10019363,
-    "name": "Rhythm Roll",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Rhythm Roll Demo",
+    "contentId": "HB2024-CUSA60034_00-0537378976362537",
+    "region": "HB",
+    "publisherId": "HB2024",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -530258,6 +530258,17 @@
     "titleId": "CUSA60139_00",
     "conceptId": 10010803,
     "name": "Hyperspace Neptunia: Unlimited",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60152_00",
+    "conceptId": 10020984,
+    "name": "Squishy's Leap",
     "contentId": null,
     "region": null,
     "publisherId": null,
