@@ -518331,6 +518331,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA58428_00",
+    "conceptId": 10018527,
+    "name": "Vixen 357",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58433_00",
     "conceptId": 10018533,
     "name": "Chained Climb Together: Local Co-OP",
@@ -528803,6 +528814,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59807_00",
+    "conceptId": 10020273,
+    "name": "Phantom Floor",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59808_00",
     "conceptId": 10009811,
     "name": "System Software Test",
@@ -530016,12 +530038,12 @@
     "titleId": "CUSA60072_00",
     "conceptId": 10020871,
     "name": "Hippo Hop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA60072_00-HIPPOHOPEUASJP00",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60073_00",
@@ -530189,6 +530211,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60116_00",
+    "conceptId": 10020964,
+    "name": "The Canon Keeper PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60120_00",
     "conceptId": 10020981,
     "name": "Panda: Shards of Aurora",
@@ -530258,6 +530291,17 @@
     "titleId": "CUSA60139_00",
     "conceptId": 10010803,
     "name": "Hyperspace Neptunia: Unlimited",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60145_00",
+    "conceptId": 10021061,
+    "name": "Armed Goblin Hunter",
     "contentId": null,
     "region": null,
     "publisherId": null,
