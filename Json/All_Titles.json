@@ -385491,9 +385491,9 @@
     "titleId": "CUSA60073_00",
     "conceptId": 10020871,
     "name": "Hippo Hop",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB2357-CUSA60073_00-HIPPOHOPNA000000",
+    "region": "JB",
+    "publisherId": "JB2357"
   },
   {
     "titleId": "CUSA60076_00",
@@ -385670,6 +385670,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "CUSA60142_00",
+    "conceptId": 10019984,
+    "name": "Chicken Terror",
+    "contentId": "EP5974-CUSA60142_00-0708304033775495",
+    "region": "EP",
+    "publisherId": "EP5974"
   },
   {
     "titleId": "CUSA60145_00",
@@ -455859,7 +455867,7 @@
     "titleId": "PPSA16064_00",
     "conceptId": 10008220,
     "name": "Minecraft Dungeons II",
-    "contentId": null,
+    "contentId": "EP4433-PPSA16064_00-DUNGEONS2PS50000",
     "region": "EP",
     "publisherId": "EP4433"
   },
@@ -471126,6 +471134,14 @@
     "contentId": "HP9000-PPSA19248_00-RONINHUBAPP00001",
     "region": "HP",
     "publisherId": "HP9000"
+  },
+  {
+    "titleId": "PPSA19249_00",
+    "conceptId": 10009461,
+    "name": "God of War Laufey\u2122",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "PPSA19250_00",
@@ -557082,8 +557098,8 @@
   {
     "titleId": "PPSA35876_00",
     "conceptId": 10018494,
-    "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-    "contentId": null,
+    "name": "\u30ad\u30f3\u30b0\u30c0\u30e0 \u30cf\u30fc\u30c4 -HD1.5 + 2.5 \u30ea\u30df\u30c3\u30af\u30b9-",
+    "contentId": "JP0082-PPSA35876_00-KHHD1525RMX00000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -557203,7 +557219,7 @@
     "titleId": "PPSA35901_00",
     "conceptId": 10018494,
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-    "contentId": null,
+    "contentId": "UP0082-PPSA35901_00-KHHD1525RMX00000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -557626,8 +557642,8 @@
   {
     "titleId": "PPSA35997_00",
     "conceptId": 10018494,
-    "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
-    "contentId": null,
+    "name": "\u30ad\u30f3\u30b0\u30c0\u30e0 \u30cf\u30fc\u30c4 HD 2.8 \u30d5\u30a1\u30a4\u30ca\u30eb\u30c1\u30e3\u30d7\u30bf\u30fc\u30d7\u30ed\u30ed\u30fc\u30b0",
+    "contentId": "JP0082-PPSA35997_00-KHHD28RMX0000000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -557642,8 +557658,8 @@
   {
     "titleId": "PPSA35999_00",
     "conceptId": 10018494,
-    "name": "KINGDOM HEARTS III + Re Mind (DLC)",
-    "contentId": null,
+    "name": "KINGDOM HEARTS \u2162 + Re Mind(DLC)",
+    "contentId": "UP0082-PPSA35999_00-KHHD03RMX0000000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -566179,7 +566195,7 @@
     "titleId": "PPSA38781_00",
     "conceptId": 10020058,
     "name": "I'm Having A Bad Day",
-    "contentId": null,
+    "contentId": "EP2921-PPSA38781_00-0000000000000001",
     "region": "EP",
     "publisherId": "EP2921"
   },
@@ -566382,6 +566398,14 @@
     "contentId": "EP1549-PPSA38859_00-0594505408624845",
     "region": "EP",
     "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA38860_00",
+    "conceptId": null,
+    "name": "Hotel Simulator",
+    "contentId": "UP1564-PPSA38860_00-0003743834688230",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA38862_00",
