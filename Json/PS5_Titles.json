@@ -79003,7 +79003,7 @@
     "titleId": "PPSA17911_00",
     "conceptId": 10008946,
     "name": "Way of the Hunter 2",
-    "contentId": null,
+    "contentId": "EP4389-PPSA17911_00-WAYOFTHEHUNTER02",
     "region": "EP",
     "publisherId": "EP4389"
   },
@@ -133763,7 +133763,7 @@
     "titleId": "PPSA28416_00",
     "conceptId": 10014146,
     "name": "STAR WARS: Galactic Racer\u2122",
-    "contentId": null,
+    "contentId": "UP8737-PPSA28416_00-SWGALACTICRACER1",
     "region": "UP",
     "publisherId": "UP8737"
   },
@@ -171410,8 +171410,8 @@
   {
     "titleId": "PPSA35909_00",
     "conceptId": 10018494,
-    "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
-    "contentId": null,
+    "name": "KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE",
+    "contentId": "UP0082-PPSA35909_00-KHHD28RMX0000000",
     "region": "UP",
     "publisherId": "UP0082"
   },
@@ -171818,8 +171818,8 @@
   {
     "titleId": "PPSA35998_00",
     "conceptId": 10018494,
-    "name": "KINGDOM HEARTS III + Re Mind (DLC)",
-    "contentId": null,
+    "name": "KINGDOM HEARTS \u2162 + Re Mind(DLC)",
+    "contentId": "JP0082-PPSA35998_00-KHHD03RMX0000000",
     "region": "JP",
     "publisherId": "JP0082"
   },
@@ -174118,6 +174118,14 @@
     "contentId": "UB1022-PPSA36552_00-JACKPOT2100000AS",
     "region": "UB",
     "publisherId": "UB1022"
+  },
+  {
+    "titleId": "PPSA36560_00",
+    "conceptId": 10018887,
+    "name": "Highway Blossoms: Gold Rush Edition",
+    "contentId": "EP1661-PPSA36560_00-SYPS5HIGHWAYBLOS",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "PPSA36561_00",
@@ -180371,7 +180379,7 @@
     "titleId": "PPSA38782_00",
     "conceptId": 10020058,
     "name": "I'm Having A Bad Day",
-    "contentId": null,
+    "contentId": "UP3061-PPSA38782_00-0000000000000002",
     "region": "UP",
     "publisherId": "UP3061"
   },
@@ -181238,6 +181246,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "PPSA39493_00",
+    "conceptId": 10020592,
+    "name": "Legendary Tales 4: Map of Hope",
+    "contentId": "UB0190-PPSA39493_00-0899724135533939",
+    "region": "UB",
+    "publisherId": "UB0190"
   },
   {
     "titleId": "PPSA39552_00",

@@ -402798,6 +402798,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA46623_00",
+    "conceptId": 10009872,
+    "name": "Do Not Feed The Monkeys 2099",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA46626_00",
     "conceptId": 10004834,
     "name": "Stellar Interface",
@@ -508093,12 +508104,12 @@
     "titleId": "CUSA57306_00",
     "conceptId": 10017403,
     "name": "Pocket Mirror ~ GoldenerTraum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP7267-CUSA57306_00-0242001490723432",
+    "region": "EP",
+    "publisherId": "EP7267",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57309_00",
@@ -520333,6 +520344,50 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA58644_00",
+    "conceptId": 10018801,
+    "name": "Hail to the Rainbow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA58645_00",
+    "conceptId": 10018801,
+    "name": "Hail to the Rainbow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA58646_00",
+    "conceptId": 10018801,
+    "name": "Hail to the Rainbow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA58647_00",
+    "conceptId": 10018801,
+    "name": "Hail to the Rainbow",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58649_00",
     "conceptId": 10018714,
     "name": "Mexican Ninja",
@@ -521094,13 +521149,13 @@
   {
     "titleId": "CUSA58728_00",
     "conceptId": 10018887,
-    "name": "Highway Blossoms: Gold Rush Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Highway Blossoms",
+    "contentId": "EP1661-CUSA58728_00-SYPS4HIGHWAYBLOS",
+    "region": "EP",
+    "publisherId": "EP1661",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58729_00",
@@ -529133,6 +529188,28 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59870_00",
+    "conceptId": 10020397,
+    "name": "I Want to Play the Villain!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59871_00",
+    "conceptId": 10020397,
+    "name": "I Want to Play the Villain!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59872_00",
     "conceptId": 10019790,
     "name": "Gaelco Sports Collection (QUByte Classics)",
@@ -529562,6 +529639,39 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59958_00",
+    "conceptId": 10020603,
+    "name": "Batya in the Building: 10 Years Later",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59959_00",
+    "conceptId": 10020603,
+    "name": "Batya in the Building: 10 Years Later",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59960_00",
+    "conceptId": 10020603,
+    "name": "Batya in the Building: 10 Years Later",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59962_00",
     "conceptId": 10003801,
     "name": "Bubble Shooter FX",
@@ -529895,12 +530005,12 @@
     "titleId": "CUSA60035_00",
     "conceptId": 10020537,
     "name": "Wand & Order: Tidy up the magic shop!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP5265-CUSA60035_00-0083208663528666",
+    "region": "EP",
+    "publisherId": "EP5265",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60036_00",
@@ -530203,12 +530313,12 @@
     "titleId": "CUSA60114_00",
     "conceptId": 10020963,
     "name": "Omni Growth",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0851-CUSA60114_00-OMNIGROWTHPS4000",
+    "region": "UB",
+    "publisherId": "UB0851",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60116_00",
@@ -530258,6 +530368,17 @@
     "titleId": "CUSA60130_00",
     "conceptId": 10017279,
     "name": "Frankenstein: Awakening of Horror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60131_00",
+    "conceptId": 10021029,
+    "name": "Devil & Angel Sky Battle",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -530324,6 +530445,17 @@
     "titleId": "CUSA60152_00",
     "conceptId": 10020984,
     "name": "Squishy's Leap",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60159_00",
+    "conceptId": 10021112,
+    "name": "Infinitevania",
     "contentId": null,
     "region": null,
     "publisherId": null,
