@@ -433510,6 +433510,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA49737_00",
+    "conceptId": 10011604,
+    "name": "Entwined: Strings of Deception",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA49739_00",
     "conceptId": 10011607,
     "name": "Dreamscapes: The Sandman Premium Edition",
@@ -508312,13 +508323,13 @@
   {
     "titleId": "CUSA57328_00",
     "conceptId": 10009659,
-    "name": "Spica Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "\u30b9\u30d4\u30ab\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+    "contentId": "JP0305-CUSA57328_00-SPICAADVENTPS4JP",
+    "region": "JP",
+    "publisherId": "JP0305",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57329_00",
@@ -515089,12 +515100,12 @@
     "titleId": "CUSA58006_00",
     "conceptId": 10018118,
     "name": "Shockwave Triggers",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2005-CUSA58006_00-SHOCKWAVETRIGGER",
+    "region": "UP",
+    "publisherId": "UP2005",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58007_00",
@@ -520424,12 +520435,12 @@
     "titleId": "CUSA58652_00",
     "conceptId": 10018810,
     "name": "Thunder Hoop Collection (QUByte Classics)",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2158-CUSA58652_00-THUNDERHOOPCOPS4",
+    "region": "UP",
+    "publisherId": "UP2158",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58653_00",
@@ -521138,13 +521149,13 @@
   {
     "titleId": "CUSA58727_00",
     "conceptId": 10018887,
-    "name": "Highway Blossoms: Gold Rush Edition",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Highway Blossoms",
+    "contentId": "UP1675-CUSA58727_00-SYPS4HIGHWAYBLOS",
+    "region": "UP",
+    "publisherId": "UP1675",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58728_00",
@@ -521205,23 +521216,23 @@
     "titleId": "CUSA58733_00",
     "conceptId": 10011666,
     "name": "Kemono Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP1134-CUSA58733_00-0579794522322049",
+    "region": "JP",
+    "publisherId": "JP1134",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58734_00",
     "conceptId": 10011666,
     "name": "Kemono Heroes",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP0980-CUSA58734_00-0103656438599683",
+    "region": "HP",
+    "publisherId": "HP0980",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58737_00",
@@ -527945,6 +527956,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59649_00",
+    "conceptId": 10019984,
+    "name": "Chicken Terror",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59650_00",
     "conceptId": 10019857,
     "name": "Mega Man X Command Mission",
@@ -528768,6 +528790,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59792_00",
+    "conceptId": 10020246,
+    "name": "Arcade Archives FIGHTING GOLF",
+    "contentId": "JP0571-CUSA59792_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA59793_00",
@@ -529672,6 +529705,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59961_00",
+    "conceptId": 10020603,
+    "name": "Batya in the Building: 10 Years Later",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59962_00",
     "conceptId": 10003801,
     "name": "Bubble Shooter FX",
@@ -530310,6 +530354,28 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60111_00",
+    "conceptId": 10020960,
+    "name": "Ex-Master, Zombie",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60113_00",
+    "conceptId": 10020962,
+    "name": "Shardwatch Dominion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60114_00",
     "conceptId": 10020963,
     "name": "Omni Growth",
@@ -530456,6 +530522,17 @@
     "titleId": "CUSA60159_00",
     "conceptId": 10021112,
     "name": "Infinitevania",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60168_00",
+    "conceptId": 10021136,
+    "name": "A Game About Breaking A Cube",
     "contentId": null,
     "region": null,
     "publisherId": null,
