@@ -153432,6 +153432,14 @@
     "publisherId": "EP0782"
   },
   {
+    "titleId": "PPSA32152_00",
+    "conceptId": 10016335,
+    "name": "Forza Horizon 6",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP6312"
+  },
+  {
     "titleId": "PPSA32154_00",
     "conceptId": 10016337,
     "name": "Dobo's Heroes",
@@ -161776,6 +161784,14 @@
     "publisherId": "EP3921"
   },
   {
+    "titleId": "PPSA33837_00",
+    "conceptId": 10017244,
+    "name": "Echo Weaver",
+    "contentId": "HP3332-PPSA33837_00-0483506788650611",
+    "region": "HP",
+    "publisherId": "HP3332"
+  },
+  {
     "titleId": "PPSA33838_00",
     "conceptId": 10015776,
     "name": "Yomi 2",
@@ -165642,10 +165658,10 @@
   {
     "titleId": "PPSA34596_00",
     "conceptId": 10017722,
-    "name": "Ultimate Admiral: Dreadnoughts",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Ultimate Admirals: Dreadnoughts",
+    "contentId": "EP6138-PPSA34596_00-0918326463980371",
+    "region": "EP",
+    "publisherId": "EP6138"
   },
   {
     "titleId": "PPSA34598_00",
@@ -170579,9 +170595,9 @@
     "titleId": "PPSA35654_00",
     "conceptId": 10018376,
     "name": "Sesame Street: Friends & Fun",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3768-PPSA35654_00-0072083337807055",
+    "region": "HP",
+    "publisherId": "HP3768"
   },
   {
     "titleId": "PPSA35656_00",
@@ -172700,6 +172716,14 @@
     "conceptId": 10018662,
     "name": "In Fair Spirits",
     "contentId": "EP0896-PPSA36171_00-INFAIRSPIRITSRGA",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
+    "titleId": "PPSA36172_00",
+    "conceptId": 10018663,
+    "name": "My Lovey-Dovey Demon",
+    "contentId": "EP0896-PPSA36172_00-MYLOVEYDOVEYDERG",
     "region": "EP",
     "publisherId": "EP0896"
   },
@@ -175323,9 +175347,9 @@
     "titleId": "PPSA36837_00",
     "conceptId": 10019039,
     "name": "HORSE CLUB Ride West",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8218-PPSA36837_00-0006843580816381",
+    "region": "EP",
+    "publisherId": "EP8218"
   },
   {
     "titleId": "PPSA36840_00",
@@ -175486,6 +175510,14 @@
     "contentId": "UP1001-PPSA36864_00-MAFIA3DEPS500000",
     "region": "UP",
     "publisherId": "UP1001"
+  },
+  {
+    "titleId": "PPSA36865_00",
+    "conceptId": 208723,
+    "name": "Mafia III: Definitive Edition for PS5\u00ae",
+    "contentId": "EP1001-PPSA36865_00-MAFIA3DEPS500000",
+    "region": "EP",
+    "publisherId": "EP1001"
   },
   {
     "titleId": "PPSA36866_00",
@@ -175880,12 +175912,20 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA36961_00",
+    "conceptId": 10019095,
+    "name": "Banchou Tactics: Lion Heart",
+    "contentId": "UP4252-PPSA36961_00-BANCHOTACTICS2US",
+    "region": "UP",
+    "publisherId": "UP4252"
+  },
+  {
     "titleId": "PPSA36962_00",
     "conceptId": 10019095,
-    "name": "Banchou Tactics : Lion Heart",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Banchou Tactics: Lion Heart",
+    "contentId": "EP4252-PPSA36962_00-BANCHOTACTICS2EU",
+    "region": "EP",
+    "publisherId": "EP4252"
   },
   {
     "titleId": "PPSA36963_00",
@@ -176240,6 +176280,14 @@
     "publisherId": "UP8255"
   },
   {
+    "titleId": "PPSA37062_00",
+    "conceptId": 10018928,
+    "name": "Deadzone Rogue 2 Demo",
+    "contentId": "UP6094-PPSA37062_00-0682230714872403",
+    "region": "UP",
+    "publisherId": "UP6094"
+  },
+  {
     "titleId": "PPSA37063_00",
     "conceptId": 10019148,
     "name": "\u30ed\u30b9\u30c8\u30fb\u30e9\u30f3\u30c9\u30fb9\uff1a\u6700\u521d\u306e\u540c\u76df\u7269\u8a9e",
@@ -176552,12 +176600,20 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA37157_00",
+    "conceptId": 10019210,
+    "name": "Banchou Tactics",
+    "contentId": "UP4252-PPSA37157_00-BANCHOTACTICS1US",
+    "region": "UP",
+    "publisherId": "UP4252"
+  },
+  {
     "titleId": "PPSA37158_00",
     "conceptId": 10019210,
-    "name": "Bancho Tactics",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Banchou Tactics",
+    "contentId": "EP4252-PPSA37158_00-BANCHOTACTICS1EU",
+    "region": "EP",
+    "publisherId": "EP4252"
   },
   {
     "titleId": "PPSA37159_00",
@@ -178542,6 +178598,14 @@
     "contentId": "UP8255-PPSA37763_00-PROJECTSNAQEPS50",
     "region": "UP",
     "publisherId": "UP8255"
+  },
+  {
+    "titleId": "PPSA37766_00",
+    "conceptId": 10019363,
+    "name": "Rhythm Roll",
+    "contentId": "HB2024-PPSA37766_00-0662417825279046",
+    "region": "HB",
+    "publisherId": "HB2024"
   },
   {
     "titleId": "PPSA37767_00",
@@ -181712,6 +181776,14 @@
     "publisherId": "EP3644"
   },
   {
+    "titleId": "PPSA39874_00",
+    "conceptId": 10020799,
+    "name": "X-Force Genesis 2",
+    "contentId": "UP8255-PPSA39874_00-XFORCEGENESIS200",
+    "region": "UP",
+    "publisherId": "UP8255"
+  },
+  {
     "titleId": "PPSA39948_00",
     "conceptId": 10020859,
     "name": "Cargo Rail Tycoon",
@@ -181734,6 +181806,14 @@
     "contentId": "EB2761-PPSA40007_00-0465938238939378",
     "region": "EB",
     "publisherId": "EB2761"
+  },
+  {
+    "titleId": "PPSA40045_00",
+    "conceptId": 10020771,
+    "name": "Manga Studio Tycoon",
+    "contentId": "HB2639-PPSA40045_00-0913441788089355",
+    "region": "HB",
+    "publisherId": "HB2639"
   },
   {
     "titleId": "PPSA40047_00",
