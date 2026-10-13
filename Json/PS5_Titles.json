@@ -161474,8 +161474,8 @@
   {
     "titleId": "PPSA33779_00",
     "conceptId": 10017203,
-    "name": "Warhammer 40,000: Boltgun 2",
-    "contentId": null,
+    "name": "Boltgun 2",
+    "contentId": "UP3643-PPSA33779_00-00000000BOLTGUN2",
     "region": "UP",
     "publisherId": "UP3643"
   },
@@ -169555,7 +169555,7 @@
     "titleId": "PPSA35399_00",
     "conceptId": 10018186,
     "name": "Castlevania: Belmont's Curse",
-    "contentId": null,
+    "contentId": "JP0101-PPSA35399_00-CVBCAPP000000000",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -174482,8 +174482,8 @@
   {
     "titleId": "PPSA36628_00",
     "conceptId": 10018934,
-    "name": "Harvest Moon\u00ae: Echoes of Teradea",
-    "contentId": null,
+    "name": "Harvest Moon: Echoes of Teradea",
+    "contentId": "UP1014-PPSA36628_00-HMEOT000000PS5US",
     "region": "UP",
     "publisherId": "UP1014"
   },
@@ -176134,6 +176134,14 @@
     "contentId": "UP0770-PPSA37008_00-0476671531785738",
     "region": "UP",
     "publisherId": "UP0770"
+  },
+  {
+    "titleId": "PPSA37012_00",
+    "conceptId": 10018186,
+    "name": "Castlevania: Belmont's Curse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA37013_00",
@@ -180896,6 +180904,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA38837_00",
+    "conceptId": 10019243,
+    "name": "Alpha Nomos",
+    "contentId": "HB1359-PPSA38837_00-0739696875022977",
+    "region": "HB",
+    "publisherId": "HB1359"
+  },
+  {
     "titleId": "PPSA38841_00",
     "conceptId": 10020205,
     "name": "Obby Sprunki Towers",
@@ -181768,6 +181784,14 @@
     "publisherId": "EP0782"
   },
   {
+    "titleId": "PPSA39832_00",
+    "conceptId": 232444,
+    "name": "S.O.N",
+    "contentId": "UP3759-PPSA39832_00-SONUPDATE1012026",
+    "region": "UP",
+    "publisherId": "UP3759"
+  },
+  {
     "titleId": "PPSA39833_00",
     "conceptId": 10020772,
     "name": "Stock Cars Racing",
@@ -181798,6 +181822,14 @@
     "contentId": "EP3644-PPSA39850_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP3644"
+  },
+  {
+    "titleId": "PPSA39852_00",
+    "conceptId": 232444,
+    "name": "S.O.N",
+    "contentId": "EB2773-PPSA39852_00-0148102006901912",
+    "region": "EB",
+    "publisherId": "EB2773"
   },
   {
     "titleId": "PPSA39874_00",

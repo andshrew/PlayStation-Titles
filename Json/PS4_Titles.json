@@ -402812,12 +402812,12 @@
     "titleId": "CUSA46623_00",
     "conceptId": 10009872,
     "name": "Do Not Feed The Monkeys 2099",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0312-CUSA46623_00-DONOTFEEDTHEMO00",
+    "region": "UB",
+    "publisherId": "UB0312",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA46626_00",
@@ -439835,6 +439835,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA50359_00",
+    "conceptId": 10012034,
+    "name": "Tape to Tape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA50360_00",
     "conceptId": 10012036,
     "name": "Poppy Playtime: Chapter 4",
@@ -462245,12 +462256,12 @@
     "titleId": "CUSA52605_00",
     "conceptId": 10013485,
     "name": "LIGHT:Black Cat & Amnesia Girl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP0980-CUSA52605_00-0354286024666493",
+    "region": "HP",
+    "publisherId": "HP0980",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA52606_00",
@@ -528341,6 +528352,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59698_00",
+    "conceptId": 10020111,
+    "name": "Full Metal Sergeant 2",
+    "contentId": "EP8383-CUSA59698_00-FULLMETALSER2PS4",
+    "region": "EP",
+    "publisherId": "EP8383",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59699_00",
     "conceptId": 10013860,
     "name": "GHOST at DAWN",
@@ -530299,12 +530321,45 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60058_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "UP8281-CUSA60058_00-0913656098675669",
+    "region": "UP",
+    "publisherId": "UP8281",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60059_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "EP8472-CUSA60059_00-0290026051285621",
+    "region": "EP",
+    "publisherId": "EP8472",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA60060_00",
     "conceptId": 10020853,
     "name": "Innocent Memory",
     "contentId": "JP8187-CUSA60060_00-0261931452629747",
     "region": "JP",
     "publisherId": "JP8187",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60062_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "HP8232-CUSA60062_00-0179123379302634",
+    "region": "HP",
+    "publisherId": "HP8232",
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
@@ -530486,6 +530541,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60102_00",
+    "conceptId": 10020938,
+    "name": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60103_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -530522,12 +530588,12 @@
     "titleId": "CUSA60111_00",
     "conceptId": 10020960,
     "name": "Ex-Master, Zombie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0851-CUSA60111_00-EXMASTERZOMBIEP4",
+    "region": "UB",
+    "publisherId": "UB0851",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60113_00",
@@ -530731,6 +530797,17 @@
     "titleId": "CUSA60177_00",
     "conceptId": 10020829,
     "name": "Penguin Lifter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60192_00",
+    "conceptId": 10021178,
+    "name": "Gospodar's Tales",
     "contentId": null,
     "region": null,
     "publisherId": null,

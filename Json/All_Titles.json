@@ -292955,9 +292955,9 @@
     "titleId": "CUSA46623_00",
     "conceptId": 10009872,
     "name": "Do Not Feed The Monkeys 2099",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0312-CUSA46623_00-DONOTFEEDTHEMO00",
+    "region": "UB",
+    "publisherId": "UB0312"
   },
   {
     "titleId": "CUSA46626_00",
@@ -319880,6 +319880,14 @@
     "publisherId": "UP6699"
   },
   {
+    "titleId": "CUSA50359_00",
+    "conceptId": 10012034,
+    "name": "Tape to Tape",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA50360_00",
     "conceptId": 10012036,
     "name": "Poppy Playtime: Chapter 4",
@@ -336179,9 +336187,9 @@
     "titleId": "CUSA52605_00",
     "conceptId": 10013485,
     "name": "LIGHT:Black Cat & Amnesia Girl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP0980-CUSA52605_00-0354286024666493",
+    "region": "HP",
+    "publisherId": "HP0980"
   },
   {
     "titleId": "CUSA52606_00",
@@ -384248,6 +384256,14 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "CUSA59698_00",
+    "conceptId": 10020111,
+    "name": "Full Metal Sergeant 2",
+    "contentId": "EP8383-CUSA59698_00-FULLMETALSER2PS4",
+    "region": "EP",
+    "publisherId": "EP8383"
+  },
+  {
     "titleId": "CUSA59699_00",
     "conceptId": 10013860,
     "name": "GHOST at DAWN",
@@ -385672,12 +385688,36 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60058_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "UP8281-CUSA60058_00-0913656098675669",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
+    "titleId": "CUSA60059_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "EP8472-CUSA60059_00-0290026051285621",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
     "titleId": "CUSA60060_00",
     "conceptId": 10020853,
     "name": "Innocent Memory",
     "contentId": "JP8187-CUSA60060_00-0261931452629747",
     "region": "JP",
     "publisherId": "JP8187"
+  },
+  {
+    "titleId": "CUSA60062_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "HP8232-CUSA60062_00-0179123379302634",
+    "region": "HP",
+    "publisherId": "HP8232"
   },
   {
     "titleId": "CUSA60064_00",
@@ -385808,6 +385848,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "CUSA60102_00",
+    "conceptId": 10020938,
+    "name": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60103_00",
     "conceptId": 10004289,
     "name": "UFL",
@@ -385835,9 +385883,9 @@
     "titleId": "CUSA60111_00",
     "conceptId": 10020960,
     "name": "Ex-Master, Zombie",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0851-CUSA60111_00-EXMASTERZOMBIEP4",
+    "region": "UB",
+    "publisherId": "UB0851"
   },
   {
     "titleId": "CUSA60113_00",
@@ -385987,6 +386035,14 @@
     "titleId": "CUSA60177_00",
     "conceptId": 10020829,
     "name": "Penguin Lifter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60192_00",
+    "conceptId": 10021178,
+    "name": "Gospodar's Tales",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -547602,8 +547658,8 @@
   {
     "titleId": "PPSA33779_00",
     "conceptId": 10017203,
-    "name": "Warhammer 40,000: Boltgun 2",
-    "contentId": null,
+    "name": "Boltgun 2",
+    "contentId": "UP3643-PPSA33779_00-00000000BOLTGUN2",
     "region": "UP",
     "publisherId": "UP3643"
   },
@@ -555683,7 +555739,7 @@
     "titleId": "PPSA35399_00",
     "conceptId": 10018186,
     "name": "Castlevania: Belmont's Curse",
-    "contentId": null,
+    "contentId": "JP0101-PPSA35399_00-CVBCAPP000000000",
     "region": "JP",
     "publisherId": "JP0101"
   },
@@ -560610,8 +560666,8 @@
   {
     "titleId": "PPSA36628_00",
     "conceptId": 10018934,
-    "name": "Harvest Moon\u00ae: Echoes of Teradea",
-    "contentId": null,
+    "name": "Harvest Moon: Echoes of Teradea",
+    "contentId": "UP1014-PPSA36628_00-HMEOT000000PS5US",
     "region": "UP",
     "publisherId": "UP1014"
   },
@@ -562262,6 +562318,14 @@
     "contentId": "UP0770-PPSA37008_00-0476671531785738",
     "region": "UP",
     "publisherId": "UP0770"
+  },
+  {
+    "titleId": "PPSA37012_00",
+    "conceptId": 10018186,
+    "name": "Castlevania: Belmont's Curse",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA37013_00",
@@ -567024,6 +567088,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA38837_00",
+    "conceptId": 10019243,
+    "name": "Alpha Nomos",
+    "contentId": "HB1359-PPSA38837_00-0739696875022977",
+    "region": "HB",
+    "publisherId": "HB1359"
+  },
+  {
     "titleId": "PPSA38841_00",
     "conceptId": 10020205,
     "name": "Obby Sprunki Towers",
@@ -567896,6 +567968,14 @@
     "publisherId": "EP0782"
   },
   {
+    "titleId": "PPSA39832_00",
+    "conceptId": 232444,
+    "name": "S.O.N",
+    "contentId": "UP3759-PPSA39832_00-SONUPDATE1012026",
+    "region": "UP",
+    "publisherId": "UP3759"
+  },
+  {
     "titleId": "PPSA39833_00",
     "conceptId": 10020772,
     "name": "Stock Cars Racing",
@@ -567926,6 +568006,14 @@
     "contentId": "EP3644-PPSA39850_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP3644"
+  },
+  {
+    "titleId": "PPSA39852_00",
+    "conceptId": 232444,
+    "name": "S.O.N",
+    "contentId": "EB2773-PPSA39852_00-0148102006901912",
+    "region": "EB",
+    "publisherId": "EB2773"
   },
   {
     "titleId": "PPSA39874_00",
