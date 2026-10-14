@@ -384096,6 +384096,14 @@
     "publisherId": "HP7254"
   },
   {
+    "titleId": "CUSA59662_00",
+    "conceptId": 10020008,
+    "name": "Outbreak: Dead City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59665_00",
     "conceptId": 10019978,
     "name": "AmourStone",
@@ -384626,10 +384634,10 @@
   {
     "titleId": "CUSA59778_00",
     "conceptId": 10007191,
-    "name": "Jimbaori: The O\u0304nin War",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Jimbaori The Onin War",
+    "contentId": "EP0770-CUSA59778_00-0330721313470563",
+    "region": "EP",
+    "publisherId": "EP0770"
   },
   {
     "titleId": "CUSA59782_00",
@@ -384675,9 +384683,9 @@
     "titleId": "CUSA59790_00",
     "conceptId": 10020243,
     "name": "Space Rock Breaker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB2488-CUSA59790_00-0825167513106771",
+    "region": "EB",
+    "publisherId": "EB2488"
   },
   {
     "titleId": "CUSA59791_00",
@@ -385618,10 +385626,10 @@
   {
     "titleId": "CUSA60036_00",
     "conceptId": 10011263,
-    "name": "Cottonreboot Hightension!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Cotton Reboot High Tension!",
+    "contentId": "EP6027-CUSA60036_00-COTTONTENSIONCRG",
+    "region": "EP",
+    "publisherId": "EP6027"
   },
   {
     "titleId": "CUSA60037_00",
@@ -385758,6 +385766,14 @@
     "contentId": "JB2357-CUSA60073_00-HIPPOHOPNA000000",
     "region": "JB",
     "publisherId": "JB2357"
+  },
+  {
+    "titleId": "CUSA60075_00",
+    "conceptId": 10020884,
+    "name": "Paper Perjury",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA60076_00",
@@ -386016,6 +386032,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60163_00",
+    "conceptId": 10021127,
+    "name": "Neon GT Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60168_00",
     "conceptId": 10021136,
     "name": "A Game About Breaking A Cube",
@@ -386040,9 +386064,57 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60180_00",
+    "conceptId": 10021161,
+    "name": "Lumi: A Cat in the Mist",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60192_00",
     "conceptId": 10021178,
     "name": "Gospodar's Tales",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60194_00",
+    "conceptId": 10019890,
+    "name": "Tingus Goose",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60195_00",
+    "conceptId": 10002097,
+    "name": "Bleach: Brave Souls Anime Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60196_00",
+    "conceptId": 10019123,
+    "name": "Eyes Of The ElderWood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60197_00",
+    "conceptId": 10008631,
+    "name": "SaGa Frontier 2 Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60198_00",
+    "conceptId": 10008631,
+    "name": "SaGa Frontier 2 Remastered",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -523738,8 +523810,8 @@
   {
     "titleId": "PPSA29161_00",
     "conceptId": 10014611,
-    "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30bf\u30fc\u30cb\u30a2 \u30ea\u30de\u30b9\u30bf\u30fc PS4 & PS5",
-    "contentId": null,
+    "name": "Tales of Eternia Remastered",
+    "contentId": "JP0700-PPSA29161_00-MAINGAME00000000",
     "region": "JP",
     "publisherId": "JP0700"
   },
@@ -542976,6 +543048,14 @@
     "publisherId": "UP6893"
   },
   {
+    "titleId": "PPSA32793_00",
+    "conceptId": 10016571,
+    "name": "Valor Mortis",
+    "contentId": "EB2076-PPSA32793_00-VALORMORTIS00000",
+    "region": "EB",
+    "publisherId": "EB2076"
+  },
+  {
     "titleId": "PPSA32794_00",
     "conceptId": 10012201,
     "name": "REFBALS",
@@ -549024,6 +549104,14 @@
     "publisherId": "HB1326"
   },
   {
+    "titleId": "PPSA34059_00",
+    "conceptId": 10014611,
+    "name": "Digital Artbook & Soundtrack",
+    "contentId": "JP0700-PPSA34059_00-MAINGAMEDAST0000",
+    "region": "JP",
+    "publisherId": "JP0700"
+  },
+  {
     "titleId": "PPSA34060_00",
     "conceptId": 10017366,
     "name": "Morkull Ascend to the Gods",
@@ -552086,6 +552174,14 @@
     "contentId": "HP8462-PPSA34643_00-0163192862822482",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA34644_00",
+    "conceptId": 10017746,
+    "name": "Colorbound",
+    "contentId": "UP5223-PPSA34644_00-COLORBOUND4PS5WW",
+    "region": "UP",
+    "publisherId": "UP5223"
   },
   {
     "titleId": "PPSA34646_00",
@@ -562808,6 +562904,14 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA37155_00",
+    "conceptId": 10014443,
+    "name": "The Slormancer Demo",
+    "contentId": "EB0235-PPSA37155_00-SLORMANCERDEMO00",
+    "region": "EB",
+    "publisherId": "EB0235"
+  },
+  {
     "titleId": "PPSA37157_00",
     "conceptId": 10019210,
     "name": "Banchou Tactics",
@@ -568024,12 +568128,28 @@
     "publisherId": "UP8255"
   },
   {
+    "titleId": "PPSA39921_00",
+    "conceptId": 10020784,
+    "name": "Tintle's Great Colorful Adventure",
+    "contentId": "UB2826-PPSA39921_00-0749300205468947",
+    "region": "UB",
+    "publisherId": "UB2826"
+  },
+  {
     "titleId": "PPSA39948_00",
     "conceptId": 10020859,
     "name": "Cargo Rail Tycoon",
     "contentId": "UP7552-PPSA39948_00-0931594148078141",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA39959_00",
+    "conceptId": 10020871,
+    "name": "Hippo Hop",
+    "contentId": "JB2357-PPSA39959_00-HIPPOHOPNA000000",
+    "region": "JB",
+    "publisherId": "JB2357"
   },
   {
     "titleId": "PPSA40005_00",
@@ -568078,5 +568198,13 @@
     "contentId": "UP7552-PPSA40051_00-0723954392860078",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40133_00",
+    "conceptId": 10020990,
+    "name": "Kitchen Wars",
+    "contentId": "EP6880-PPSA40133_00-0236056121294322",
+    "region": "EP",
+    "publisherId": "EP6880"
   }
 ]

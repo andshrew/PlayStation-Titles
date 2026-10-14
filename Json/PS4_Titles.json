@@ -528132,6 +528132,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59662_00",
+    "conceptId": 10020008,
+    "name": "Outbreak: Dead City",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59665_00",
     "conceptId": 10019978,
     "name": "AmourStone",
@@ -528860,13 +528871,13 @@
   {
     "titleId": "CUSA59778_00",
     "conceptId": 10007191,
-    "name": "Jimbaori: The O\u0304nin War",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Jimbaori The Onin War",
+    "contentId": "EP0770-CUSA59778_00-0330721313470563",
+    "region": "EP",
+    "publisherId": "EP0770",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59782_00",
@@ -528927,12 +528938,12 @@
     "titleId": "CUSA59790_00",
     "conceptId": 10020243,
     "name": "Space Rock Breaker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EB2488-CUSA59790_00-0825167513106771",
+    "region": "EB",
+    "publisherId": "EB2488",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59791_00",
@@ -530224,13 +530235,13 @@
   {
     "titleId": "CUSA60036_00",
     "conceptId": 10011263,
-    "name": "Cottonreboot Hightension!",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Cotton Reboot High Tension!",
+    "contentId": "EP6027-CUSA60036_00-COTTONTENSIONCRG",
+    "region": "EP",
+    "publisherId": "EP6027",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60037_00",
@@ -530418,6 +530429,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60075_00",
+    "conceptId": 10020884,
+    "name": "Paper Perjury",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA60076_00",
@@ -530772,6 +530794,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60163_00",
+    "conceptId": 10021127,
+    "name": "Neon GT Racing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60168_00",
     "conceptId": 10021136,
     "name": "A Game About Breaking A Cube",
@@ -530805,9 +530838,75 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60180_00",
+    "conceptId": 10021161,
+    "name": "Lumi: A Cat in the Mist",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60192_00",
     "conceptId": 10021178,
     "name": "Gospodar's Tales",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60194_00",
+    "conceptId": 10019890,
+    "name": "Tingus Goose",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60195_00",
+    "conceptId": 10002097,
+    "name": "Bleach: Brave Souls Anime Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60196_00",
+    "conceptId": 10019123,
+    "name": "Eyes Of The ElderWood",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60197_00",
+    "conceptId": 10008631,
+    "name": "SaGa Frontier 2 Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60198_00",
+    "conceptId": 10008631,
+    "name": "SaGa Frontier 2 Remastered",
     "contentId": null,
     "region": null,
     "publisherId": null,
