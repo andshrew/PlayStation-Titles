@@ -365658,8 +365658,8 @@
   {
     "titleId": "CUSA56722_00",
     "conceptId": 10016903,
-    "name": "Bluey's Happy Snaps Deluxe Edition",
-    "contentId": null,
+    "name": "Bluey's Happy Snaps",
+    "contentId": "EP2006-CUSA56722_00-0416216617824746",
     "region": "EP",
     "publisherId": "EP2006"
   },
@@ -384899,9 +384899,9 @@
     "titleId": "CUSA59844_00",
     "conceptId": 10020336,
     "name": "Creepy Tale: Snow Child",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1932-CUSA59844_00-SYPS4CREEPYTALE5",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "CUSA59845_00",
@@ -384990,6 +384990,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "CUSA59865_00",
+    "conceptId": 10020387,
+    "name": "Arcade Archives THUNDERCADE",
+    "contentId": "JP0571-CUSA59865_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "CUSA59868_00",
@@ -385747,9 +385755,9 @@
     "titleId": "CUSA60071_00",
     "conceptId": 10019286,
     "name": "Car Simulator : Driving School",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2649-CUSA60071_00-0710456654525542",
+    "region": "EP",
+    "publisherId": "EP2649"
   },
   {
     "titleId": "CUSA60072_00",
@@ -386115,6 +386123,30 @@
     "titleId": "CUSA60198_00",
     "conceptId": 10008631,
     "name": "SaGa Frontier 2 Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60200_00",
+    "conceptId": 10018500,
+    "name": "You're Nuts!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60201_00",
+    "conceptId": 10018500,
+    "name": "You're Nuts!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60204_00",
+    "conceptId": 10020323,
+    "name": "SWIFTNESS",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -470360,6 +470392,14 @@
     "publisherId": "UP6682"
   },
   {
+    "titleId": "PPSA18995_00",
+    "conceptId": 10009337,
+    "name": "METRO 2039",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP8459"
+  },
+  {
     "titleId": "PPSA18998_00",
     "conceptId": 10007404,
     "name": "Mars Base",
@@ -527867,7 +527907,7 @@
     "titleId": "PPSA29934_00",
     "conceptId": 10015056,
     "name": "Planet Zoo 2",
-    "contentId": null,
+    "contentId": "EP2377-PPSA29934_00-PLANETZOO2000000",
     "region": "EP",
     "publisherId": "EP2377"
   },
@@ -545298,8 +545338,8 @@
   {
     "titleId": "PPSA33218_00",
     "conceptId": 10016903,
-    "name": "Bluey's Happy Snaps Deluxe Edition",
-    "contentId": null,
+    "name": "Bluey's Happy Snaps",
+    "contentId": "EP2006-PPSA33218_00-0435188501224198",
     "region": "EP",
     "publisherId": "EP2006"
   },
@@ -547398,6 +547438,14 @@
     "contentId": "UP1725-PPSA33636_00-0196402648790000",
     "region": "UP",
     "publisherId": "UP1725"
+  },
+  {
+    "titleId": "PPSA33642_00",
+    "conceptId": 10017135,
+    "name": "The Witch's Bakery",
+    "contentId": "UB1335-PPSA33642_00-THEWITCHBAKERYWB",
+    "region": "UB",
+    "publisherId": "UB1335"
   },
   {
     "titleId": "PPSA33643_00",
@@ -555192,6 +555240,14 @@
     "publisherId": "EP0822"
   },
   {
+    "titleId": "PPSA35175_00",
+    "conceptId": 10018065,
+    "name": "Wolfsschanze",
+    "contentId": "EP3024-PPSA35175_00-WOLFSSCHANZEPS5W",
+    "region": "EP",
+    "publisherId": "EP3024"
+  },
+  {
     "titleId": "PPSA35178_00",
     "conceptId": 10017290,
     "name": "Airport Baggage Simulator",
@@ -555388,6 +555444,14 @@
     "conceptId": 10018116,
     "name": "CyberBlocker Complete Edition",
     "contentId": "UP2005-PPSA35251_00-CYBERBLOCKERCOMP",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA35253_00",
+    "conceptId": 10018118,
+    "name": "Shockwave Triggers",
+    "contentId": "UP2005-PPSA35253_00-SHOCKWAVETRIGGER",
     "region": "UP",
     "publisherId": "UP2005"
   },
@@ -555974,6 +556038,14 @@
     "contentId": "HB1179-PPSA35442_00-NIUPS5KOKLGLOB01",
     "region": "HB",
     "publisherId": "HB1179"
+  },
+  {
+    "titleId": "PPSA35443_00",
+    "conceptId": 10018221,
+    "name": "Console Archives THE DRUG STORE",
+    "contentId": "JP0571-PPSA35443_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA35444_00",
@@ -559504,6 +559576,14 @@
     "publisherId": "HP0082"
   },
   {
+    "titleId": "PPSA36307_00",
+    "conceptId": 10018745,
+    "name": "My Recycling Center 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA36315_00",
     "conceptId": 10018748,
     "name": "Tippy Pads",
@@ -559862,6 +559942,14 @@
     "contentId": "UP1001-PPSA36393_00-MAFIA1DEPS500000",
     "region": "UP",
     "publisherId": "UP1001"
+  },
+  {
+    "titleId": "PPSA36395_00",
+    "conceptId": 10016558,
+    "name": "FreeStyle Football 2",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP1439"
   },
   {
     "titleId": "PPSA36396_00",
@@ -561640,6 +561728,14 @@
     "publisherId": "HB1312"
   },
   {
+    "titleId": "PPSA36829_00",
+    "conceptId": 10015422,
+    "name": "THANKS, LIGHT.",
+    "contentId": "JP5187-PPSA36829_00-0123942660443622",
+    "region": "JP",
+    "publisherId": "JP5187"
+  },
+  {
     "titleId": "PPSA36837_00",
     "conceptId": 10019039,
     "name": "HORSE CLUB Ride West",
@@ -562418,10 +562514,10 @@
   {
     "titleId": "PPSA37012_00",
     "conceptId": 10018186,
-    "name": "Castlevania: Belmont's Curse",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Castlevania: Belmont's Curse Digital Sound & Art Gallery",
+    "contentId": "JP0101-PPSA37012_00-CASTLEVANIARWART",
+    "region": "JP",
+    "publisherId": "JP0101"
   },
   {
     "titleId": "PPSA37013_00",
@@ -563360,6 +563456,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA37289_00",
+    "conceptId": 10019286,
+    "name": "Car Simulator : Driving School",
+    "contentId": "EP2649-PPSA37289_00-0323826662278269",
+    "region": "EP",
+    "publisherId": "EP2649"
+  },
+  {
     "titleId": "PPSA37290_00",
     "conceptId": 10012337,
     "name": "Woodo Demo",
@@ -563406,6 +563510,14 @@
     "contentId": "EP7421-PPSA37312_00-0697297570736345",
     "region": "EP",
     "publisherId": "EP7421"
+  },
+  {
+    "titleId": "PPSA37315_00",
+    "conceptId": 10019110,
+    "name": "Stage Tour",
+    "contentId": null,
+    "region": "UB",
+    "publisherId": "UB2417"
   },
   {
     "titleId": "PPSA37317_00",
@@ -565840,6 +565952,14 @@
     "publisherId": "EP7345"
   },
   {
+    "titleId": "PPSA38089_00",
+    "conceptId": 10019397,
+    "name": "YAR: Forgotten Throne",
+    "contentId": "EB2397-PPSA38089_00-0523967720377015",
+    "region": "EB",
+    "publisherId": "EB2397"
+  },
+  {
     "titleId": "PPSA38090_00",
     "conceptId": 10019770,
     "name": "Fox Jam",
@@ -566150,6 +566270,14 @@
     "contentId": "UB0747-PPSA38191_00-0582813835042343",
     "region": "UB",
     "publisherId": "UB0747"
+  },
+  {
+    "titleId": "PPSA38194_00",
+    "conceptId": 10019637,
+    "name": "Trailblazer",
+    "contentId": "UP8858-PPSA38194_00-0271862759907570",
+    "region": "UP",
+    "publisherId": "UP8858"
   },
   {
     "titleId": "PPSA38196_00",
@@ -566744,6 +566872,14 @@
     "publisherId": "UB2202"
   },
   {
+    "titleId": "PPSA38559_00",
+    "conceptId": 10019858,
+    "name": "Arizona Sunshine\u00ae",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP3575"
+  },
+  {
     "titleId": "PPSA38560_00",
     "conceptId": 10019166,
     "name": "Order Automatica",
@@ -566870,6 +567006,14 @@
     "contentId": "HP5846-PPSA38627_00-GOBBLE0000000000",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA38629_00",
+    "conceptId": 10020102,
+    "name": "Prison Run and Gun",
+    "contentId": "EP6985-PPSA38629_00-0161504383420526",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "PPSA38631_00",
@@ -567288,6 +567432,14 @@
     "publisherId": "EB1267"
   },
   {
+    "titleId": "PPSA38875_00",
+    "conceptId": 10014633,
+    "name": "Arcade Archives 2 STINGER",
+    "contentId": "JP0571-PPSA38875_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA38888_00",
     "conceptId": 10020233,
     "name": "Brawl Snakes",
@@ -567544,6 +567696,30 @@
     "publisherId": "HP5223"
   },
   {
+    "titleId": "PPSA39075_00",
+    "conceptId": 10020336,
+    "name": "Creepy Tale: Snow Child",
+    "contentId": "EP1661-PPSA39075_00-SYPS5CREEPYTALE5",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
+    "titleId": "PPSA39076_00",
+    "conceptId": 10020336,
+    "name": "Creepy Tale: Snow Child",
+    "contentId": "JP1932-PPSA39076_00-SYPS5CREEPYTALE5",
+    "region": "JP",
+    "publisherId": "JP1932"
+  },
+  {
+    "titleId": "PPSA39077_00",
+    "conceptId": 10020336,
+    "name": "Creepy Tale: Snow Child",
+    "contentId": "HP1792-PPSA39077_00-SYPS5CREEPYTALE5",
+    "region": "HP",
+    "publisherId": "HP1792"
+  },
+  {
     "titleId": "PPSA39083_00",
     "conceptId": 10020248,
     "name": "Wishbound",
@@ -567622,6 +567798,14 @@
     "contentId": "HB1638-PPSA39144_00-0462351472602630",
     "region": "HB",
     "publisherId": "HB1638"
+  },
+  {
+    "titleId": "PPSA39156_00",
+    "conceptId": 10020387,
+    "name": "Arcade Archives 2 THUNDERCADE",
+    "contentId": "JP0571-PPSA39156_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA39168_00",
@@ -567830,6 +568014,14 @@
     "contentId": "JB2682-PPSA39379_00-0214637186453602",
     "region": "JB",
     "publisherId": "JB2682"
+  },
+  {
+    "titleId": "PPSA39386_00",
+    "conceptId": 10019110,
+    "name": "STAGE TOUR",
+    "contentId": null,
+    "region": "UB",
+    "publisherId": "UB2417"
   },
   {
     "titleId": "PPSA39390_00",
@@ -568128,6 +568320,14 @@
     "publisherId": "UP8255"
   },
   {
+    "titleId": "PPSA39916_00",
+    "conceptId": 10020837,
+    "name": "Solid Void - Halloween Nonograms",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA39921_00",
     "conceptId": 10020784,
     "name": "Tintle's Great Colorful Adventure",
@@ -568144,12 +568344,28 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA39958_00",
+    "conceptId": 10020871,
+    "name": "Hippo Hop",
+    "contentId": "JB2357-PPSA39958_00-HIPPOHOPEUASJP00",
+    "region": "JB",
+    "publisherId": "JB2357"
+  },
+  {
     "titleId": "PPSA39959_00",
     "conceptId": 10020871,
     "name": "Hippo Hop",
     "contentId": "JB2357-PPSA39959_00-HIPPOHOPNA000000",
     "region": "JB",
     "publisherId": "JB2357"
+  },
+  {
+    "titleId": "PPSA39989_00",
+    "conceptId": 10020886,
+    "name": "Cubic Cosmos",
+    "contentId": "UB0675-PPSA39989_00-0408719112249242",
+    "region": "UB",
+    "publisherId": "UB0675"
   },
   {
     "titleId": "PPSA40005_00",
@@ -568192,12 +568408,28 @@
     "publisherId": "JB2357"
   },
   {
+    "titleId": "PPSA40049_00",
+    "conceptId": 10019637,
+    "name": "Trailblazer",
+    "contentId": "EP8975-PPSA40049_00-0576059210145172",
+    "region": "EP",
+    "publisherId": "EP8975"
+  },
+  {
     "titleId": "PPSA40051_00",
     "conceptId": 10020927,
     "name": "Easy Fishing Simulator",
     "contentId": "UP7552-PPSA40051_00-0723954392860078",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40070_00",
+    "conceptId": 10019637,
+    "name": "Trailblazer",
+    "contentId": "EP8975-PPSA40070_00-0561566348516212",
+    "region": "EP",
+    "publisherId": "EP8975"
   },
   {
     "titleId": "PPSA40133_00",

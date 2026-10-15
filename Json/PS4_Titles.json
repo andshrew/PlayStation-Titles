@@ -502779,12 +502779,12 @@
   {
     "titleId": "CUSA56722_00",
     "conceptId": 10016903,
-    "name": "Bluey's Happy Snaps Deluxe Edition",
-    "contentId": null,
+    "name": "Bluey's Happy Snaps",
+    "contentId": "EP2006-CUSA56722_00-0416216617824746",
     "region": "EP",
     "publisherId": "EP2006",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": null
   },
   {
@@ -529235,9 +529235,9 @@
     "titleId": "CUSA59844_00",
     "conceptId": 10020336,
     "name": "Creepy Tale: Snow Child",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP1932-CUSA59844_00-SYPS4CREEPYTALE5",
+    "region": "JP",
+    "publisherId": "JP1932",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -529362,6 +529362,17 @@
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59865_00",
+    "conceptId": 10020387,
+    "name": "Arcade Archives THUNDERCADE",
+    "contentId": "JP0571-CUSA59865_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59868_00",
@@ -530401,12 +530412,12 @@
     "titleId": "CUSA60071_00",
     "conceptId": 10019286,
     "name": "Car Simulator : Driving School",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP2649-CUSA60071_00-0710456654525542",
+    "region": "EP",
+    "publisherId": "EP2649",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60072_00",
@@ -530907,6 +530918,39 @@
     "titleId": "CUSA60198_00",
     "conceptId": 10008631,
     "name": "SaGa Frontier 2 Remastered",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60200_00",
+    "conceptId": 10018500,
+    "name": "You're Nuts!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60201_00",
+    "conceptId": 10018500,
+    "name": "You're Nuts!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60204_00",
+    "conceptId": 10020323,
+    "name": "SWIFTNESS",
     "contentId": null,
     "region": null,
     "publisherId": null,
