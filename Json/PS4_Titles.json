@@ -263230,6 +263230,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA30089_00",
+    "conceptId": 10002446,
+    "name": "Thief's Shelter",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA30090_00",
     "conceptId": 10002446,
     "name": "Thief's Shelter",
@@ -502785,7 +502796,7 @@
     "publisherId": "EP2006",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA56723_00",
@@ -504968,13 +504979,13 @@
   {
     "titleId": "CUSA56930_00",
     "conceptId": 10017122,
-    "name": "Disney\u2022Pixar Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Toy Story 3 Complete Edition",
+    "contentId": "UP0182-CUSA56930_00-TOYSTORY3COMPLET",
+    "region": "UP",
+    "publisherId": "UP0182",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA56931_00",
@@ -505260,7 +505271,7 @@
     "publisherId": "EP1661",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57011_00",
@@ -505282,7 +505293,7 @@
     "publisherId": "HP1792",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57013_00",
@@ -518092,12 +518103,12 @@
     "titleId": "CUSA58398_00",
     "conceptId": 10018493,
     "name": "\u30b9\u30c6\u30e9\u30fc\u30b3\u30fc\u30c9",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP0013-CUSA58398_00-JP0SCODE00000PS4",
+    "region": "JP",
+    "publisherId": "JP0013",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58399_00",
@@ -524785,7 +524796,7 @@
     "publisherId": "EB0014",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59135_00",
@@ -525148,7 +525159,7 @@
     "publisherId": "UP8787",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59190_00",
@@ -525467,7 +525478,7 @@
     "publisherId": "UB0908",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59230_00",
@@ -525984,7 +525995,7 @@
     "publisherId": "JB2357",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59299_00",
@@ -526012,12 +526023,12 @@
     "titleId": "CUSA59301_00",
     "conceptId": 10019451,
     "name": "The Jackbox Party Pack 12",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2139-CUSA59301_00-JBGPARTYPAK12PS4",
+    "region": "UP",
+    "publisherId": "UP2139",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59302_00",
@@ -526391,7 +526402,7 @@
     "publisherId": "EP1430",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59371_00",
@@ -526512,7 +526523,7 @@
     "publisherId": "EB1037",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59391_00",
@@ -526611,7 +526622,7 @@
     "publisherId": "JB0847",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59416_00",
@@ -527626,6 +527637,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59546_00",
+    "conceptId": 10019840,
+    "name": "Ecchi Memories",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59548_00",
     "conceptId": 10019811,
     "name": "Artifact-NOVA",
@@ -527634,18 +527656,18 @@
     "publisherId": "UB0569",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59550_00",
     "conceptId": 10019848,
     "name": "Moto X",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0896-CUSA59550_00-MOTOXRATALAIKAGA",
+    "region": "EP",
+    "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59556_00",
@@ -527921,6 +527943,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59614_00",
+    "conceptId": 10019926,
+    "name": "Feed The Deep",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA59616_00",
@@ -528239,7 +528272,7 @@
     "publisherId": "UB0008",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59681_00",
@@ -528283,7 +528316,7 @@
     "publisherId": "JB0847",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59686_00",
@@ -528327,7 +528360,7 @@
     "publisherId": "EP5098",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59695_00",
@@ -528976,7 +529009,7 @@
     "publisherId": "UB0851",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59794_00",
@@ -529213,23 +529246,23 @@
     "titleId": "CUSA59842_00",
     "conceptId": 10020336,
     "name": "Creepy Tale: Snow Child",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP1675-CUSA59842_00-SYPS4CREEPYTALE5",
+    "region": "UP",
+    "publisherId": "UP1675",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59843_00",
     "conceptId": 10020336,
     "name": "Creepy Tale: Snow Child",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP1661-CUSA59843_00-SYPS4CREEPYTALE5",
+    "region": "EP",
+    "publisherId": "EP1661",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59844_00",
@@ -529240,18 +529273,18 @@
     "publisherId": "JP1932",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59845_00",
     "conceptId": 10020336,
     "name": "Creepy Tale: Snow Child",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP1792-CUSA59845_00-SYPS4CREEPYTALE5",
+    "region": "HP",
+    "publisherId": "HP1792",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59852_00",
@@ -529592,7 +529625,7 @@
     "publisherId": "EP6694",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59911_00",
@@ -529807,6 +529840,17 @@
     "titleId": "CUSA59950_00",
     "conceptId": 10020352,
     "name": "Fix&Flip Dream House",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59954_00",
+    "conceptId": 10020330,
+    "name": "Don Bradman Cricket JR",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -530169,13 +530213,13 @@
   {
     "titleId": "CUSA60027_00",
     "conceptId": 10020764,
-    "name": "Croc's World 5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Crocs World 5",
+    "contentId": "UP4786-CUSA60027_00-CW50000000000001",
+    "region": "UP",
+    "publisherId": "UP4786",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60028_00",
@@ -530230,7 +530274,7 @@
     "publisherId": "HB2024",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60035_00",
@@ -530313,12 +530357,12 @@
     "titleId": "CUSA60051_00",
     "conceptId": 10020837,
     "name": "Solid Void - Halloween Nonograms",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0249-CUSA60051_00-0922359013865978",
+    "region": "UB",
+    "publisherId": "UB0249",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60056_00",
@@ -530401,6 +530445,17 @@
     "titleId": "CUSA60065_00",
     "conceptId": 10014061,
     "name": "Panzer Dragoon Zwei: Remake",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60070_00",
+    "conceptId": 10020868,
+    "name": "Fakin It XL",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -530951,6 +531006,17 @@
     "titleId": "CUSA60204_00",
     "conceptId": 10020323,
     "name": "SWIFTNESS",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60212_00",
+    "conceptId": 231308,
+    "name": "INAZUMA ELEVEN: Victory Road",
     "contentId": null,
     "region": null,
     "publisherId": null,
