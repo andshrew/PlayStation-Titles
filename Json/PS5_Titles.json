@@ -84112,6 +84112,14 @@
     "publisherId": "EP8459"
   },
   {
+    "titleId": "PPSA18997_00",
+    "conceptId": 10009337,
+    "name": "METRO 2039",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0108"
+  },
+  {
     "titleId": "PPSA18998_00",
     "conceptId": 10007404,
     "name": "Mars Base",
@@ -147624,6 +147632,14 @@
     "publisherId": "JB0538"
   },
   {
+    "titleId": "PPSA31103_00",
+    "conceptId": 10015547,
+    "name": "Gold Mining Simulator 2 Demo",
+    "contentId": "EP2379-PPSA31103_00-0909786774994717",
+    "region": "EP",
+    "publisherId": "EP2379"
+  },
+  {
     "titleId": "PPSA31105_00",
     "conceptId": 10012949,
     "name": "FULL METAL SCHOOLGIRL",
@@ -155440,6 +155456,14 @@
     "publisherId": "UP8616"
   },
   {
+    "titleId": "PPSA32539_00",
+    "conceptId": 10016067,
+    "name": "Enshrouded",
+    "contentId": "EP4137-PPSA32539_00-ENSHROUDED000000",
+    "region": "EP",
+    "publisherId": "EP4137"
+  },
+  {
     "titleId": "PPSA32540_00",
     "conceptId": 10016561,
     "name": "Caput Mortum",
@@ -161124,6 +161148,14 @@
     "conceptId": 10017122,
     "name": "Toy Story 3 Complete Edition",
     "contentId": "UP0182-PPSA33626_00-TOYSTORY3COMPLET",
+    "region": "UP",
+    "publisherId": "UP0182"
+  },
+  {
+    "titleId": "PPSA33627_00",
+    "conceptId": 10017120,
+    "name": "Toy Story: Retro Roundup!",
+    "contentId": "UP0182-PPSA33627_00-TOYSTORYRTRRNDUP",
     "region": "UP",
     "publisherId": "UP0182"
   },
@@ -171472,6 +171504,14 @@
     "publisherId": "UP7455"
   },
   {
+    "titleId": "PPSA35873_00",
+    "conceptId": 10018493,
+    "name": "\u30b9\u30c6\u30e9\u30fc\u30b3\u30fc\u30c9",
+    "contentId": "JP0013-PPSA35873_00-JP0SCODE00000PS5",
+    "region": "JP",
+    "publisherId": "JP0013"
+  },
+  {
     "titleId": "PPSA35874_00",
     "conceptId": 10015221,
     "name": "Virtua Fighter 5 R.E.V.O. World Stage Demo",
@@ -172232,12 +172272,20 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA36044_00",
+    "conceptId": 10018591,
+    "name": "\u30ca\u30a4\u30c8\u30e1\u30a2\u30fb\u30b6\u30fb\u30eb\u30ca\u30c6\u30a3\u30c3\u30af",
+    "contentId": "JP0287-PPSA36044_00-NIGHTMARE00000JP",
+    "region": "JP",
+    "publisherId": "JP0287"
+  },
+  {
     "titleId": "PPSA36045_00",
     "conceptId": 10018591,
     "name": "Nightmare: The Lunatic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0287-PPSA36045_00-NIGHTMARE00000EN",
+    "region": "EP",
+    "publisherId": "EP0287"
   },
   {
     "titleId": "PPSA36047_00",
@@ -181632,6 +181680,14 @@
     "publisherId": "HB0700"
   },
   {
+    "titleId": "PPSA39195_00",
+    "conceptId": null,
+    "name": "Rudolph The Red-Nosed Reindeer Holiday Play Edition",
+    "contentId": "EP0281-PPSA39195_00-0672460369763395",
+    "region": "EP",
+    "publisherId": "EP0281"
+  },
+  {
     "titleId": "PPSA39199_00",
     "conceptId": 10020406,
     "name": "Legendary Tales 3\uff1a\u30b9\u30c8\u30fc\u30ea\u30fc\u30ba",
@@ -182024,6 +182080,14 @@
     "publisherId": "EP6698"
   },
   {
+    "titleId": "PPSA39737_00",
+    "conceptId": 10008582,
+    "name": "Squad Technical Preview",
+    "contentId": "EP7072-PPSA39737_00-SQUADPS5BETATEST",
+    "region": "EP",
+    "publisherId": "EP7072"
+  },
+  {
     "titleId": "PPSA39739_00",
     "conceptId": 10020716,
     "name": "Panchito Delivery: Project Elevator",
@@ -182110,6 +182174,14 @@
     "contentId": "EP3644-PPSA39850_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP3644"
+  },
+  {
+    "titleId": "PPSA39851_00",
+    "conceptId": 10020641,
+    "name": "Lonely Hospital: Revelations",
+    "contentId": "UP6699-PPSA39851_00-0150777883357219",
+    "region": "UP",
+    "publisherId": "UP6699"
   },
   {
     "titleId": "PPSA39852_00",
@@ -182262,5 +182334,13 @@
     "contentId": "EP6880-PPSA40133_00-0236056121294322",
     "region": "EP",
     "publisherId": "EP6880"
+  },
+  {
+    "titleId": "PPSA40204_00",
+    "conceptId": 10021029,
+    "name": "Devil & Angel Sky Battle",
+    "contentId": "UP7552-PPSA40204_00-0368636403584773",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]

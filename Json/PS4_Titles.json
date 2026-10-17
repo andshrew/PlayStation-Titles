@@ -265389,12 +265389,12 @@
     "titleId": "CUSA30314_00",
     "conceptId": 10003779,
     "name": "Fallen City Brawl",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2005-CUSA30314_00-FALLENCITYBRAWL0",
+    "region": "UP",
+    "publisherId": "UP2005",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA30315_00",
@@ -526615,7 +526615,7 @@
   },
   {
     "titleId": "CUSA59415_00",
-    "conceptId": null,
+    "conceptId": 10019681,
     "name": "The Bit's Escape",
     "contentId": "JB0847-CUSA59415_00-0066049835174652",
     "region": "JB",
@@ -527134,12 +527134,12 @@
     "titleId": "CUSA59475_00",
     "conceptId": 10019311,
     "name": "Gennady",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB0540-CUSA59475_00-0518784110192692",
+    "region": "JB",
+    "publisherId": "JB0540",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59479_00",
@@ -527639,13 +527639,13 @@
   {
     "titleId": "CUSA59546_00",
     "conceptId": 10019840,
-    "name": "Ecchi Memories",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "EcchiMemories",
+    "contentId": "HB1050-CUSA59546_00-2000000000000000",
+    "region": "HB",
+    "publisherId": "HB1050",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59548_00",
@@ -528265,7 +528265,7 @@
   },
   {
     "titleId": "CUSA59677_00",
-    "conceptId": null,
+    "conceptId": 10020064,
     "name": "Pixel Pitch Brawl",
     "contentId": "UB0008-CUSA59677_00-0833458579402590",
     "region": "UB",
@@ -528353,7 +528353,7 @@
   },
   {
     "titleId": "CUSA59694_00",
-    "conceptId": null,
+    "conceptId": 10020106,
     "name": "Sandwalkers",
     "contentId": "EP5098-CUSA59694_00-0269549463841554",
     "region": "EP",
@@ -530224,13 +530224,13 @@
   {
     "titleId": "CUSA60028_00",
     "conceptId": 10020764,
-    "name": "Croc's World 5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Crocs World 5",
+    "contentId": "EP4961-CUSA60028_00-CW50000000000001",
+    "region": "EP",
+    "publisherId": "EP4961",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60029_00",
@@ -530574,6 +530574,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60088_00",
+    "conceptId": 10020627,
+    "name": "VEXMORN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60091_00",
     "conceptId": 10019880,
     "name": "Haunted Paws",
@@ -530783,6 +530794,28 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60135_00",
+    "conceptId": 10021036,
+    "name": "Feral Road",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60136_00",
+    "conceptId": 10021037,
+    "name": "The Abjuration Stand",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60138_00",
     "conceptId": 10010803,
     "name": "Hyperspace Neptunia: Unlimited",
@@ -530852,6 +530885,17 @@
     "titleId": "CUSA60159_00",
     "conceptId": 10021112,
     "name": "Infinitevania",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60162_00",
+    "conceptId": 10021125,
+    "name": "Lordcraft",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -531003,6 +531047,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60203_00",
+    "conceptId": 10021202,
+    "name": "Gravity Switch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60204_00",
     "conceptId": 10020323,
     "name": "SWIFTNESS",
@@ -531017,6 +531072,28 @@
     "titleId": "CUSA60212_00",
     "conceptId": 231308,
     "name": "INAZUMA ELEVEN: Victory Road",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60217_00",
+    "conceptId": 10020627,
+    "name": "VEXMORN",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60218_00",
+    "conceptId": 10003168,
+    "name": "Sid Meier's Civilization\u00ae VII",
     "contentId": null,
     "region": null,
     "publisherId": null,
