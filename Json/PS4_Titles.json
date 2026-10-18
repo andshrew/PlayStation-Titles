@@ -445085,9 +445085,9 @@
     "titleId": "CUSA50870_00",
     "conceptId": 10001991,
     "name": "Dahlia View",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP1242-CUSA50870_00-0389513741914069",
+    "region": "JP",
+    "publisherId": "JP1242",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -453550,6 +453550,28 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA51715_00",
+    "conceptId": 10010666,
+    "name": "Story Time: Three Goats Gruff",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA51717_00",
+    "conceptId": 10012952,
+    "name": "Story Time: Three Little Pigs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA51718_00",
@@ -530420,6 +530442,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60061_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60062_00",
     "conceptId": 10020853,
     "name": "Innocent Memory",
@@ -531069,6 +531102,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60208_00",
+    "conceptId": 10021209,
+    "name": "Story Time: Night Before Christmas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60212_00",
     "conceptId": 231308,
     "name": "INAZUMA ELEVEN: Victory Road",
@@ -531094,6 +531138,17 @@
     "titleId": "CUSA60218_00",
     "conceptId": 10003168,
     "name": "Sid Meier's Civilization\u00ae VII",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60219_00",
+    "conceptId": 10002422,
+    "name": "Psychonauts 2",
     "contentId": null,
     "region": null,
     "publisherId": null,

@@ -323699,9 +323699,9 @@
     "titleId": "CUSA50870_00",
     "conceptId": 10001991,
     "name": "Dahlia View",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1242-CUSA50870_00-0389513741914069",
+    "region": "JP",
+    "publisherId": "JP1242"
   },
   {
     "titleId": "CUSA50871_00",
@@ -329854,6 +329854,22 @@
     "contentId": "UB1052-CUSA51714_00-0794453398445708",
     "region": "UB",
     "publisherId": "UB1052"
+  },
+  {
+    "titleId": "CUSA51715_00",
+    "conceptId": 10010666,
+    "name": "Story Time: Three Goats Gruff",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA51717_00",
+    "conceptId": 10012952,
+    "name": "Story Time: Three Little Pigs",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA51718_00",
@@ -385760,6 +385776,14 @@
     "publisherId": "JP8187"
   },
   {
+    "titleId": "CUSA60061_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60062_00",
     "conceptId": 10020853,
     "name": "Innocent Memory",
@@ -386232,6 +386256,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60208_00",
+    "conceptId": 10021209,
+    "name": "Story Time: Night Before Christmas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60212_00",
     "conceptId": 231308,
     "name": "INAZUMA ELEVEN: Victory Road",
@@ -386251,6 +386283,14 @@
     "titleId": "CUSA60218_00",
     "conceptId": 10003168,
     "name": "Sid Meier's Civilization\u00ae VII",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60219_00",
+    "conceptId": 10002422,
+    "name": "Psychonauts 2",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -564936,6 +564976,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA37663_00",
+    "conceptId": 10019514,
+    "name": "Tenebris Somnia",
+    "contentId": "UB0208-PPSA37663_00-0737580024879696",
+    "region": "UB",
+    "publisherId": "UB0208"
+  },
+  {
     "titleId": "PPSA37667_00",
     "conceptId": 10019517,
     "name": "Farlands",
@@ -568360,6 +568408,14 @@
     "publisherId": "EP3945"
   },
   {
+    "titleId": "PPSA39473_00",
+    "conceptId": 10020591,
+    "name": "Dominoes Together",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA39485_00",
     "conceptId": 10020598,
     "name": "1-2-Splendid Word Search!",
@@ -568590,6 +568646,14 @@
     "contentId": "UP8255-PPSA39874_00-XFORCEGENESIS200",
     "region": "UP",
     "publisherId": "UP8255"
+  },
+  {
+    "titleId": "PPSA39885_00",
+    "conceptId": 10020779,
+    "name": "BOMBANANA! Demo",
+    "contentId": "UP7939-PPSA39885_00-0278644129410119",
+    "region": "UP",
+    "publisherId": "UP7939"
   },
   {
     "titleId": "PPSA39916_00",
