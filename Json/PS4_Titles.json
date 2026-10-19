@@ -445090,18 +445090,18 @@
     "publisherId": "JP1242",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA50871_00",
     "conceptId": 10001991,
     "name": "Dahlia View",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP1101-CUSA50871_00-0679575285276126",
+    "region": "HP",
+    "publisherId": "HP1101",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA50872_00",
@@ -530841,12 +530841,12 @@
     "titleId": "CUSA60136_00",
     "conceptId": 10021037,
     "name": "The Abjuration Stand",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0851-CUSA60136_00-THEABJSTANDPS400",
+    "region": "UB",
+    "publisherId": "UB0851",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60138_00",
@@ -530984,6 +530984,17 @@
     "titleId": "CUSA60180_00",
     "conceptId": 10021161,
     "name": "Lumi: A Cat in the Mist",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60181_00",
+    "conceptId": 10021172,
+    "name": "Tidy Up: Electronic Store Simulator",
     "contentId": null,
     "region": null,
     "publisherId": null,
