@@ -161122,7 +161122,7 @@
   {
     "titleId": "CUSA25787_00",
     "conceptId": 10001991,
-    "name": "Conway: Disappearance at Dahlia View",
+    "name": "Dahlia View",
     "contentId": "UP2660-CUSA25787_00-CONWAYDAHLIAVIEW",
     "region": "UP",
     "publisherId": "UP2660"
@@ -384120,6 +384120,14 @@
     "publisherId": "UP0102"
   },
   {
+    "titleId": "CUSA59651_00",
+    "conceptId": 10018570,
+    "name": "Dino Crisis 2",
+    "contentId": "UP0102-CUSA59651_00-SLUS012790000000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
     "titleId": "CUSA59656_00",
     "conceptId": 10020001,
     "name": "My Supermarket Simulator",
@@ -384978,10 +384986,10 @@
   {
     "titleId": "CUSA59856_00",
     "conceptId": 10020365,
-    "name": "Choice of Life: Samosbor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Choice of Life - Samosbor",
+    "contentId": "JB0540-CUSA59856_00-0531285037689670",
+    "region": "JB",
+    "publisherId": "JB0540"
   },
   {
     "titleId": "CUSA59857_00",
@@ -385250,10 +385258,10 @@
   {
     "titleId": "CUSA59924_00",
     "conceptId": 10020282,
-    "name": "Lithium II: Me",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Lithium II: Me Demo",
+    "contentId": "EP0415-CUSA59924_00-0868176317164499",
+    "region": "EP",
+    "publisherId": "EP0415"
   },
   {
     "titleId": "CUSA59926_00",
@@ -386264,6 +386272,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60207_00",
+    "conceptId": 10021208,
+    "name": "Needle in a Haystack",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60208_00",
     "conceptId": 10021209,
     "name": "Story Time: Night Before Christmas",
@@ -386275,6 +386291,14 @@
     "titleId": "CUSA60212_00",
     "conceptId": 231308,
     "name": "INAZUMA ELEVEN: Victory Road",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60215_00",
+    "conceptId": 10021237,
+    "name": "Catch To Fish",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -386299,6 +386323,14 @@
     "titleId": "CUSA60219_00",
     "conceptId": 10002422,
     "name": "Psychonauts 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60222_00",
+    "conceptId": 10021272,
+    "name": "Peak the Hills",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -556856,6 +556888,14 @@
     "publisherId": "HB1900"
   },
   {
+    "titleId": "PPSA35565_00",
+    "conceptId": 10018318,
+    "name": "DuneCrawl",
+    "contentId": "EP4525-PPSA35565_00-0201337732799695",
+    "region": "EP",
+    "publisherId": "EP4525"
+  },
+  {
     "titleId": "PPSA35574_00",
     "conceptId": 10018326,
     "name": "Sniper Dan",
@@ -565555,7 +565595,7 @@
     "titleId": "PPSA37850_00",
     "conceptId": 10016994,
     "name": "Back to the Dawn",
-    "contentId": null,
+    "contentId": "JP5784-PPSA37850_00-BACKTOTHEDAWN000",
     "region": "JP",
     "publisherId": "JP5784"
   },
@@ -567688,6 +567728,14 @@
     "publisherId": "EP5813"
   },
   {
+    "titleId": "PPSA38869_00",
+    "conceptId": 10020218,
+    "name": "Duskpunk",
+    "contentId": "EP8039-PPSA38869_00-0523167914227445",
+    "region": "EP",
+    "publisherId": "EP8039"
+  },
+  {
     "titleId": "PPSA38872_00",
     "conceptId": 10020221,
     "name": "Drop Dead: The Cabin",
@@ -568256,6 +568304,14 @@
     "publisherId": "JP1663"
   },
   {
+    "titleId": "PPSA39307_00",
+    "conceptId": 10005193,
+    "name": "Tropico 7",
+    "contentId": null,
+    "region": "EP",
+    "publisherId": "EP4365"
+  },
+  {
     "titleId": "PPSA39324_00",
     "conceptId": 10020434,
     "name": "Mr.Freezy",
@@ -568302,6 +568358,14 @@
     "contentId": "JB2682-PPSA39379_00-0214637186453602",
     "region": "JB",
     "publisherId": "JB2682"
+  },
+  {
+    "titleId": "PPSA39380_00",
+    "conceptId": 10020282,
+    "name": "Lithium II: Me Demo",
+    "contentId": "EP0415-PPSA39380_00-0485833532607495",
+    "region": "EP",
+    "publisherId": "EP0415"
   },
   {
     "titleId": "PPSA39386_00",
@@ -568742,6 +568806,14 @@
     "contentId": "EP1430-PPSA40008_00-DESOLUSPS5SIEE00",
     "region": "EP",
     "publisherId": "EP1430"
+  },
+  {
+    "titleId": "PPSA40031_00",
+    "conceptId": 10009716,
+    "name": "Rideshare \"Stimulator\" Demo",
+    "contentId": "EP6853-PPSA40031_00-RIDESHAREDEMO000",
+    "region": "EP",
+    "publisherId": "EP6853"
   },
   {
     "titleId": "PPSA40045_00",
