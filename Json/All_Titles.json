@@ -337600,6 +337600,14 @@
     "publisherId": "UB0859"
   },
   {
+    "titleId": "CUSA52784_00",
+    "conceptId": 10013623,
+    "name": "The Safe Place",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA52785_00",
     "conceptId": 10013627,
     "name": "BUS SIM 25 - CITY SIMULATOR",
@@ -372712,6 +372720,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA57729_00",
+    "conceptId": 10014081,
+    "name": "Mouthwashing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA57730_00",
     "conceptId": 10017849,
     "name": "Supermarket Simulator",
@@ -378523,17 +378539,17 @@
     "titleId": "CUSA58645_00",
     "conceptId": 10018801,
     "name": "Hail to the Rainbow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1661-CUSA58645_00-SYPS4HAILTOTHERA",
+    "region": "EP",
+    "publisherId": "EP1661"
   },
   {
     "titleId": "CUSA58646_00",
     "conceptId": 10018801,
     "name": "Hail to the Rainbow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP1932-CUSA58646_00-SYPS4HAILTOTHERA",
+    "region": "JP",
+    "publisherId": "JP1932"
   },
   {
     "titleId": "CUSA58647_00",
@@ -379990,6 +380006,14 @@
     "contentId": "UB0569-CUSA58866_00-SHOPMARKETSIMPS4",
     "region": "UB",
     "publisherId": "UB0569"
+  },
+  {
+    "titleId": "CUSA58870_00",
+    "conceptId": 10019032,
+    "name": "Altered Alma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA58873_00",
@@ -383568,6 +383592,22 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59507_00",
+    "conceptId": 10019364,
+    "name": "No, I'm not a Human",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59508_00",
+    "conceptId": 10019364,
+    "name": "No, I'm not a Human",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59510_00",
     "conceptId": 10019785,
     "name": "Ripraster",
@@ -384451,6 +384491,14 @@
     "titleId": "CUSA59728_00",
     "conceptId": 10020162,
     "name": "Mombo Combo Legacy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59730_00",
+    "conceptId": 10020169,
+    "name": "YAMIGATARI: FOR3ST",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -385904,6 +385952,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "CUSA60084_00",
+    "conceptId": 10020901,
+    "name": "Skygrid Courier",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60088_00",
     "conceptId": 10020627,
     "name": "VEXMORN",
@@ -386187,6 +386243,14 @@
     "titleId": "CUSA60181_00",
     "conceptId": 10021172,
     "name": "Tidy Up: Electronic Store Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60189_00",
+    "conceptId": 10021183,
+    "name": "Pepper the Giant Purple Dog",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -518219,7 +518283,7 @@
     "titleId": "PPSA28050_00",
     "conceptId": 10013888,
     "name": "Stupid Never Dies",
-    "contentId": null,
+    "contentId": "HP7588-PPSA28050_00-MAIN000000000000",
     "region": "HP",
     "publisherId": "HP7588"
   },
@@ -531982,6 +532046,14 @@
     "contentId": "JP0177-PPSA30664_00-SONICRACINGCWONT",
     "region": "JP",
     "publisherId": "JP0177"
+  },
+  {
+    "titleId": "PPSA30665_00",
+    "conceptId": 10015442,
+    "name": "Island Market Simulator",
+    "contentId": "UB0928-PPSA30665_00-0826858396094788",
+    "region": "UB",
+    "publisherId": "UB0928"
   },
   {
     "titleId": "PPSA30667_00",
@@ -552368,6 +552440,14 @@
     "publisherId": "UP4333"
   },
   {
+    "titleId": "PPSA34631_00",
+    "conceptId": 10017739,
+    "name": "We Were Here Tomorrow",
+    "contentId": "EP4697-PPSA34631_00-0294233104216841",
+    "region": "EP",
+    "publisherId": "EP4697"
+  },
+  {
     "titleId": "PPSA34632_00",
     "conceptId": 10017740,
     "name": "Retina Rush",
@@ -560200,6 +560280,14 @@
     "publisherId": "EB2535"
   },
   {
+    "titleId": "PPSA36390_00",
+    "conceptId": 10018801,
+    "name": "Hail to the Rainbow",
+    "contentId": "EP1661-PPSA36390_00-SYPS5HAILTOTHERA",
+    "region": "EP",
+    "publisherId": "EP1661"
+  },
+  {
     "titleId": "PPSA36393_00",
     "conceptId": 235302,
     "name": "Mafia: Definitive Edition for PS5\u00ae",
@@ -566824,6 +566912,14 @@
     "publisherId": "UB0190"
   },
   {
+    "titleId": "PPSA38328_00",
+    "conceptId": 10019905,
+    "name": "The Killing Stone",
+    "contentId": "UP2371-PPSA38328_00-0473365171741518",
+    "region": "UP",
+    "publisherId": "UP2371"
+  },
+  {
     "titleId": "PPSA38333_00",
     "conceptId": 10018086,
     "name": "GOBBLE\u3000DIGITALARTBOOK&SOUNDTRACK",
@@ -567012,6 +567108,14 @@
     "conceptId": 10019857,
     "name": "Mega Man X Command Mission",
     "contentId": "UP0102-PPSA38464_00-SLUS209030000000",
+    "region": "UP",
+    "publisherId": "UP0102"
+  },
+  {
+    "titleId": "PPSA38465_00",
+    "conceptId": 10018570,
+    "name": "Dino Crisis 2",
+    "contentId": "UP0102-PPSA38465_00-SLUS012790000000",
     "region": "UP",
     "publisherId": "UP0102"
   },
@@ -567982,6 +568086,14 @@
     "contentId": "EP5506-PPSA39051_00-MHSPS5EU00000000",
     "region": "EP",
     "publisherId": "EP5506"
+  },
+  {
+    "titleId": "PPSA39054_00",
+    "conceptId": 10020315,
+    "name": "Mortal Sin",
+    "contentId": "UB2689-PPSA39054_00-0661299469634866",
+    "region": "UB",
+    "publisherId": "UB2689"
   },
   {
     "titleId": "PPSA39061_00",

@@ -464200,6 +464200,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA52784_00",
+    "conceptId": 10013623,
+    "name": "The Safe Place",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA52785_00",
     "conceptId": 10013627,
     "name": "BUS SIM 25 - CITY SIMULATOR",
@@ -512479,6 +512490,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA57729_00",
+    "conceptId": 10014081,
+    "name": "Mouthwashing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA57730_00",
     "conceptId": 10017849,
     "name": "Supermarket Simulator",
@@ -519504,7 +519526,7 @@
     "region": "EP",
     "publisherId": "EP0896",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -520468,9 +520490,9 @@
     "titleId": "CUSA58645_00",
     "conceptId": 10018801,
     "name": "Hail to the Rainbow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP1661-CUSA58645_00-SYPS4HAILTOTHERA",
+    "region": "EP",
+    "publisherId": "EP1661",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -520479,9 +520501,9 @@
     "titleId": "CUSA58646_00",
     "conceptId": 10018801,
     "name": "Hail to the Rainbow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP1932-CUSA58646_00-SYPS4HAILTOTHERA",
+    "region": "JP",
+    "publisherId": "JP1932",
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
@@ -522487,6 +522509,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA58870_00",
+    "conceptId": 10019032,
+    "name": "Altered Alma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA58873_00",
@@ -527406,6 +527439,28 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59507_00",
+    "conceptId": 10019364,
+    "name": "No, I'm not a Human",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59508_00",
+    "conceptId": 10019364,
+    "name": "No, I'm not a Human",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59510_00",
     "conceptId": 10019785,
     "name": "Ripraster",
@@ -528619,6 +528674,17 @@
     "titleId": "CUSA59728_00",
     "conceptId": 10020162,
     "name": "Mombo Combo Legacy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59730_00",
+    "conceptId": 10020169,
+    "name": "YAMIGATARI: FOR3ST",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -530618,6 +530684,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60084_00",
+    "conceptId": 10020901,
+    "name": "Skygrid Courier",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60088_00",
     "conceptId": 10020627,
     "name": "VEXMORN",
@@ -531006,6 +531083,17 @@
     "titleId": "CUSA60181_00",
     "conceptId": 10021172,
     "name": "Tidy Up: Electronic Store Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60189_00",
+    "conceptId": 10021183,
+    "name": "Pepper the Giant Purple Dog",
     "contentId": null,
     "region": null,
     "publisherId": null,
