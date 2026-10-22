@@ -221553,12 +221553,12 @@
   {
     "titleId": "CUSA25788_00",
     "conceptId": 10001991,
-    "name": "Conway: Disappearance at Dahlia View",
+    "name": "Dahlia View",
     "contentId": "EP2520-CUSA25788_00-CONWAYDAHLIAVIEW",
     "region": "EP",
     "publisherId": "EP2520",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -512490,6 +512490,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA57726_00",
+    "conceptId": 10014081,
+    "name": "Mouthwashing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA57729_00",
     "conceptId": 10014081,
     "name": "Mouthwashing",
@@ -520479,12 +520490,12 @@
     "titleId": "CUSA58644_00",
     "conceptId": 10018801,
     "name": "Hail to the Rainbow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP1675-CUSA58644_00-SYPS4HAILTOTHERA",
+    "region": "UP",
+    "publisherId": "UP1675",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58645_00",
@@ -520495,7 +520506,7 @@
     "publisherId": "EP1661",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58646_00",
@@ -520506,18 +520517,18 @@
     "publisherId": "JP1932",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58647_00",
     "conceptId": 10018801,
     "name": "Hail to the Rainbow",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP1792-CUSA58647_00-SYPS4HAILTOTHERA",
+    "region": "HP",
+    "publisherId": "HP1792",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58649_00",
@@ -522509,6 +522520,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA58869_00",
+    "conceptId": 10019032,
+    "name": "Altered Alma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA58870_00",
@@ -527197,6 +527219,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59477_00",
+    "conceptId": 10019755,
+    "name": "Arcade Archives ACE DRIVER VICTORY LAP",
+    "contentId": "JP0571-CUSA59477_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59479_00",
     "conceptId": 10012737,
     "name": "NIMRODS",
@@ -528256,12 +528289,12 @@
     "titleId": "CUSA59662_00",
     "conceptId": 10020008,
     "name": "Outbreak: Dead City",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2005-CUSA59662_00-OUTBREAKDEADCITY",
+    "region": "UP",
+    "publisherId": "UP2005",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59665_00",
@@ -529008,7 +529041,7 @@
     "region": "EP",
     "publisherId": "EP0770",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -531017,12 +531050,12 @@
     "titleId": "CUSA60162_00",
     "conceptId": 10021125,
     "name": "Lordcraft",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP5441-CUSA60162_00-0629721923116005",
+    "region": "JP",
+    "publisherId": "JP5441",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60163_00",
@@ -531292,6 +531325,28 @@
     "titleId": "CUSA60222_00",
     "conceptId": 10021272,
     "name": "Peak the Hills",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60269_00",
+    "conceptId": 10021296,
+    "name": "Kitties Solitaire",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60289_00",
+    "conceptId": 10021313,
+    "name": "Story Time: Elves and the Shoemaker",
     "contentId": null,
     "region": null,
     "publisherId": null,
