@@ -433535,12 +433535,12 @@
     "titleId": "CUSA49737_00",
     "conceptId": 10011604,
     "name": "Entwined: Strings of Deception",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP1629-CUSA49737_00-ENTWINEDSODJDPS4",
+    "region": "EP",
+    "publisherId": "EP1629",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA49739_00",
@@ -518488,12 +518488,12 @@
     "titleId": "CUSA58428_00",
     "conceptId": 10018527,
     "name": "Vixen 357",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0896-CUSA58428_00-VIXEN357RATGAMES",
+    "region": "EP",
+    "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58433_00",
@@ -528231,6 +528231,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59648_00",
+    "conceptId": 10019975,
+    "name": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59649_00",
     "conceptId": 10019984,
     "name": "Chicken Terror",
@@ -528772,13 +528783,13 @@
   {
     "titleId": "CUSA59738_00",
     "conceptId": 10020175,
-    "name": "HorrorVale",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "HorrorVale: Deadluxe Edition",
+    "contentId": "EP7099-CUSA59738_00-AIRSHIPSPOOKYRPG",
+    "region": "EP",
+    "publisherId": "EP7099",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59740_00",
@@ -531226,12 +531237,12 @@
     "titleId": "CUSA60203_00",
     "conceptId": 10021202,
     "name": "Gravity Switch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0851-CUSA60203_00-GRAVITYSWITCHPS4",
+    "region": "UB",
+    "publisherId": "UB0851",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60204_00",
@@ -531347,6 +531358,61 @@
     "titleId": "CUSA60289_00",
     "conceptId": 10021313,
     "name": "Story Time: Elves and the Shoemaker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60290_00",
+    "conceptId": 10021315,
+    "name": "Santa\u00b4s Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60295_00",
+    "conceptId": 10021328,
+    "name": "Sort The Bunnies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60299_00",
+    "conceptId": 10002497,
+    "name": "The Light in the Darkness: Director's Cut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60300_00",
+    "conceptId": 10002497,
+    "name": "The Light in the Darkness: Director's Cut",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60301_00",
+    "conceptId": 10021328,
+    "name": "Sort The Bunnies",
     "contentId": null,
     "region": null,
     "publisherId": null,
