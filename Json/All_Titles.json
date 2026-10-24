@@ -384712,6 +384712,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59761_00",
+    "conceptId": 10020193,
+    "name": "Look Outside",
+    "contentId": "UP3643-CUSA59761_00-LOOKOUTSID000001",
+    "region": "UP",
+    "publisherId": "UP3643"
+  },
+  {
     "titleId": "CUSA59762_00",
     "conceptId": 10019170,
     "name": "Quartz Caverns",
@@ -386008,6 +386016,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60093_00",
+    "conceptId": 10020876,
+    "name": "Hidden Objects",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60096_00",
     "conceptId": 10020925,
     "name": "Bible Trivia PS4 & PS5",
@@ -386235,9 +386251,9 @@
     "titleId": "CUSA60163_00",
     "conceptId": 10021127,
     "name": "Neon GT Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-CUSA60163_00-0071333572048537",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "CUSA60168_00",
@@ -386424,6 +386440,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60221_00",
+    "conceptId": 10010658,
+    "name": "Wreck the World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60222_00",
     "conceptId": 10021272,
     "name": "Peak the Hills",
@@ -386483,6 +386507,46 @@
     "titleId": "CUSA60301_00",
     "conceptId": 10021328,
     "name": "Sort The Bunnies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60302_00",
+    "conceptId": 10020381,
+    "name": "METRO QUESTER ZERO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60303_00",
+    "conceptId": 10019880,
+    "name": "Haunted Paws",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60305_00",
+    "conceptId": 10019093,
+    "name": "Dice Gambit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60307_00",
+    "conceptId": 10021248,
+    "name": "Smartopus: IQ Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60308_00",
+    "conceptId": 10021101,
+    "name": "BOARDING DENIED",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -496768,6 +496832,14 @@
     "publisherId": "EP3111"
   },
   {
+    "titleId": "PPSA24214_00",
+    "conceptId": 10011604,
+    "name": "Entwined: Strings of Deception",
+    "contentId": "EP1629-PPSA24214_00-ENTWINEDSODJDPS5",
+    "region": "EP",
+    "publisherId": "EP1629"
+  },
+  {
     "titleId": "PPSA24216_00",
     "conceptId": 10011607,
     "name": "Dreamscapes - The Sandman",
@@ -533024,6 +533096,14 @@
     "publisherId": "HB1069"
   },
   {
+    "titleId": "PPSA30850_00",
+    "conceptId": 10015567,
+    "name": "House 2",
+    "contentId": "EP0297-PPSA30850_00-0306147917837780",
+    "region": "EP",
+    "publisherId": "EP0297"
+  },
+  {
     "titleId": "PPSA30853_00",
     "conceptId": 10015573,
     "name": "The Devil is in the Details",
@@ -556784,6 +556864,14 @@
     "publisherId": "HP0868"
   },
   {
+    "titleId": "PPSA35498_00",
+    "conceptId": 10018273,
+    "name": "Blossom Voyage",
+    "contentId": "HB0700-PPSA35498_00-0815299842198632",
+    "region": "HB",
+    "publisherId": "HB0700"
+  },
+  {
     "titleId": "PPSA35500_00",
     "conceptId": 10018277,
     "name": "Lizards must die 2",
@@ -561454,6 +561542,14 @@
     "contentId": "EP2627-PPSA36643_00-LASSPLANESOST000",
     "region": "EP",
     "publisherId": "EP2627"
+  },
+  {
+    "titleId": "PPSA36645_00",
+    "conceptId": 10018949,
+    "name": "Shoresy: Legends of the North",
+    "contentId": "UP7759-PPSA36645_00-0437102631450005",
+    "region": "UP",
+    "publisherId": "UP7759"
   },
   {
     "titleId": "PPSA36652_00",
@@ -566824,6 +566920,14 @@
     "publisherId": "UB2203"
   },
   {
+    "titleId": "PPSA38178_00",
+    "conceptId": 10019396,
+    "name": "FIRE AND ASHES",
+    "contentId": "UB2203-PPSA38178_00-0530379742568889",
+    "region": "UB",
+    "publisherId": "UB2203"
+  },
+  {
     "titleId": "PPSA38181_00",
     "conceptId": 10019814,
     "name": "Chico's Delivery",
@@ -567451,7 +567555,7 @@
     "titleId": "PPSA38507_00",
     "conceptId": 10019998,
     "name": "Warrior Cats: Clans of the Forest",
-    "contentId": null,
+    "contentId": "UB2551-PPSA38507_00-0938503966815822",
     "region": "UB",
     "publisherId": "UB2551"
   },
@@ -568134,6 +568238,22 @@
     "contentId": "JP0571-PPSA38918_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA38921_00",
+    "conceptId": 10020249,
+    "name": "The Walking Trade",
+    "contentId": "EP1549-PPSA38921_00-0855243664035689",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA38922_00",
+    "conceptId": 10020249,
+    "name": "The Walking Trade",
+    "contentId": "UP1564-PPSA38922_00-0724253836988606",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "PPSA38923_00",
@@ -569200,6 +569320,14 @@
     "publisherId": "JB2357"
   },
   {
+    "titleId": "PPSA39975_00",
+    "conceptId": 10020880,
+    "name": "Darkenstein 3D",
+    "contentId": "UP6718-PPSA39975_00-0162357819588373",
+    "region": "UP",
+    "publisherId": "UP6718"
+  },
+  {
     "titleId": "PPSA39976_00",
     "conceptId": 10020880,
     "name": "Darkenstein 3D",
@@ -569342,5 +569470,13 @@
     "contentId": "UP0502-PPSA40312_00-0663745443929463",
     "region": "UP",
     "publisherId": "UP0502"
+  },
+  {
+    "titleId": "PPSA40343_00",
+    "conceptId": 10021127,
+    "name": "Neon GT Racing",
+    "contentId": "UP7552-PPSA40343_00-0756260626669209",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]

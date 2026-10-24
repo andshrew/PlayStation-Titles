@@ -518492,7 +518492,7 @@
     "region": "EP",
     "publisherId": "EP0896",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -528979,6 +528979,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59761_00",
+    "conceptId": 10020193,
+    "name": "Look Outside",
+    "contentId": "UP3643-CUSA59761_00-LOOKOUTSID000001",
+    "region": "UP",
+    "publisherId": "UP3643",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59762_00",
     "conceptId": 10019170,
     "name": "Quartz Caverns",
@@ -530761,6 +530772,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60093_00",
+    "conceptId": 10020876,
+    "name": "Hidden Objects",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60096_00",
     "conceptId": 10020925,
     "name": "Bible Trivia PS4 & PS5",
@@ -531072,12 +531094,12 @@
     "titleId": "CUSA60163_00",
     "conceptId": 10021127,
     "name": "Neon GT Racing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7552-CUSA60163_00-0071333572048537",
+    "region": "UP",
+    "publisherId": "UP7552",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60168_00",
@@ -531333,6 +531355,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60221_00",
+    "conceptId": 10010658,
+    "name": "Wreck the World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60222_00",
     "conceptId": 10021272,
     "name": "Peak the Hills",
@@ -531413,6 +531446,61 @@
     "titleId": "CUSA60301_00",
     "conceptId": 10021328,
     "name": "Sort The Bunnies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60302_00",
+    "conceptId": 10020381,
+    "name": "METRO QUESTER ZERO",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60303_00",
+    "conceptId": 10019880,
+    "name": "Haunted Paws",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60305_00",
+    "conceptId": 10019093,
+    "name": "Dice Gambit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60307_00",
+    "conceptId": 10021248,
+    "name": "Smartopus: IQ Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60308_00",
+    "conceptId": 10021101,
+    "name": "BOARDING DENIED",
     "contentId": null,
     "region": null,
     "publisherId": null,
