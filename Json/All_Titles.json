@@ -507440,6 +507440,14 @@
     "publisherId": "JP0211"
   },
   {
+    "titleId": "PPSA26150_00",
+    "conceptId": 10012034,
+    "name": "Tape to Tape",
+    "contentId": "HP7302-PPSA26150_00-0553311798537461",
+    "region": "HP",
+    "publisherId": "HP7302"
+  },
+  {
     "titleId": "PPSA26151_00",
     "conceptId": 10012647,
     "name": "The Backrooms 1998",
@@ -526614,6 +526622,14 @@
     "contentId": "EP6625-PPSA29618_00-DDSGAME000000000",
     "region": "EP",
     "publisherId": "EP6625"
+  },
+  {
+    "titleId": "PPSA29619_00",
+    "conceptId": 10014817,
+    "name": "Rusty Rangers",
+    "contentId": "UB1220-PPSA29619_00-0208577241099771",
+    "region": "UB",
+    "publisherId": "UB1220"
   },
   {
     "titleId": "PPSA29621_00",
@@ -548731,7 +548747,7 @@
     "titleId": "PPSA33879_00",
     "conceptId": 10012984,
     "name": "ANOMALITH",
-    "contentId": null,
+    "contentId": "HP5846-PPSA33879_00-0000000000000000",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -558088,6 +558104,22 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA35812_00",
+    "conceptId": 10012984,
+    "name": "ANOMALITH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA35813_00",
+    "conceptId": 10012984,
+    "name": "ANOMALITH",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA35814_00",
     "conceptId": 10012984,
     "name": "ANOMALITH Demo",
@@ -558116,6 +558148,14 @@
     "conceptId": 10012984,
     "name": "ANOMALITH Demo",
     "contentId": "HP5846-PPSA35817_00-DEMO000000000000",
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA35818_00",
+    "conceptId": 10012984,
+    "name": "Anomalith: Anomaly Zone Countermeasures Office Database",
+    "contentId": "HP5846-PPSA35818_00-DDXAPI0000000000",
     "region": "HP",
     "publisherId": "HP5846"
   },
@@ -569494,6 +569534,14 @@
     "contentId": "UP7552-PPSA40204_00-0368636403584773",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40300_00",
+    "conceptId": 10021101,
+    "name": "BOARDING DENIED",
+    "contentId": "UB1503-PPSA40300_00-0356136416903320",
+    "region": "UB",
+    "publisherId": "UB1503"
   },
   {
     "titleId": "PPSA40312_00",
