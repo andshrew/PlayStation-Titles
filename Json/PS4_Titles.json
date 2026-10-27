@@ -525363,12 +525363,12 @@
     "titleId": "CUSA59210_00",
     "conceptId": 10019467,
     "name": "Dog Man: Bark in Action",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP3945-CUSA59210_00-DOGMANPS4PACKAGE",
+    "region": "EP",
+    "publisherId": "EP3945",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59211_00",
@@ -529257,12 +529257,12 @@
     "titleId": "CUSA59807_00",
     "conceptId": 10020273,
     "name": "Phantom Floor",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP6013-CUSA59807_00-0725554934646461",
+    "region": "EP",
+    "publisherId": "EP6013",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59808_00",
@@ -529771,6 +529771,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59907_00",
+    "conceptId": 10020489,
+    "name": "Cat President 2: Purrlitical Revolution",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59909_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
@@ -530137,6 +530148,17 @@
     "titleId": "CUSA59969_00",
     "conceptId": 10020183,
     "name": "Ghost Receipt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59970_00",
+    "conceptId": 10020622,
+    "name": "Block Jam 3D",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -530775,12 +530797,12 @@
     "titleId": "CUSA60093_00",
     "conceptId": 10020876,
     "name": "Hidden Objects",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HB2226-CUSA60093_00-0779691979752057",
+    "region": "HB",
+    "publisherId": "HB2226",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60096_00",
@@ -531501,6 +531523,17 @@
     "titleId": "CUSA60308_00",
     "conceptId": 10021101,
     "name": "BOARDING DENIED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60321_00",
+    "conceptId": 10014061,
+    "name": "Panzer Dragoon Zwei: Remake",
     "contentId": null,
     "region": null,
     "publisherId": null,

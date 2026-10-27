@@ -171410,10 +171410,10 @@
   {
     "titleId": "PPSA35811_00",
     "conceptId": 10012984,
-    "name": "ANOMALITH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Anomalith: Anomaly Zone Countermeasures Office Database",
+    "contentId": "JP0536-PPSA35811_00-DDXAPI0000000000",
+    "region": "JP",
+    "publisherId": "JP0536"
   },
   {
     "titleId": "PPSA35812_00",
@@ -172302,6 +172302,14 @@
     "contentId": "HP7967-PPSA36013_00-0681467319112018",
     "region": "HP",
     "publisherId": "HP7967"
+  },
+  {
+    "titleId": "PPSA36015_00",
+    "conceptId": 10018448,
+    "name": "Remothered: Red Nun's Legacy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA36017_00",
@@ -178432,6 +178440,14 @@
     "publisherId": "UP1181"
   },
   {
+    "titleId": "PPSA37573_00",
+    "conceptId": 10019467,
+    "name": "Dog Man: Bark in Action",
+    "contentId": "EP3945-PPSA37573_00-XXXXXXXXXXXXXXXX",
+    "region": "EP",
+    "publisherId": "EP3945"
+  },
+  {
     "titleId": "PPSA37574_00",
     "conceptId": 10019170,
     "name": "Quartz Caverns",
@@ -182312,6 +182328,14 @@
     "publisherId": "EB2898"
   },
   {
+    "titleId": "PPSA39425_00",
+    "conceptId": 10018448,
+    "name": "Remothered: Red Nun's Legacy",
+    "contentId": "EP6867-PPSA39425_00-REMBASEGAME00000",
+    "region": "EP",
+    "publisherId": "EP6867"
+  },
+  {
     "titleId": "PPSA39428_00",
     "conceptId": 10020565,
     "name": "Quiz Challenge Multiplayer",
@@ -182494,6 +182518,14 @@
     "contentId": "EP6698-PPSA39733_00-0732085955710935",
     "region": "EP",
     "publisherId": "EP6698"
+  },
+  {
+    "titleId": "PPSA39736_00",
+    "conceptId": 10018448,
+    "name": "Remothered: Red Nun's Legacy - Deluxe Upgrade",
+    "contentId": "EP3376-PPSA39736_00-0473379276475976",
+    "region": "EP",
+    "publisherId": "EP3376"
   },
   {
     "titleId": "PPSA39737_00",
@@ -182840,6 +182872,14 @@
     "publisherId": "EP6880"
   },
   {
+    "titleId": "PPSA40196_00",
+    "conceptId": 10021023,
+    "name": "Treasure Tiger",
+    "contentId": "EP6880-PPSA40196_00-0617814047928357",
+    "region": "EP",
+    "publisherId": "EP6880"
+  },
+  {
     "titleId": "PPSA40204_00",
     "conceptId": 10021029,
     "name": "Devil & Angel Sky Battle",
@@ -182860,6 +182900,14 @@
     "conceptId": 10020870,
     "name": "Tidy Up the Flower Shop",
     "contentId": "UP0502-PPSA40312_00-0663745443929463",
+    "region": "UP",
+    "publisherId": "UP0502"
+  },
+  {
+    "titleId": "PPSA40318_00",
+    "conceptId": 10021114,
+    "name": "Tidy Up the Halloween Shop",
+    "contentId": "UP0502-PPSA40318_00-0302803867304772",
     "region": "UP",
     "publisherId": "UP0502"
   },
