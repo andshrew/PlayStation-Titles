@@ -299486,6 +299486,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA34013_00",
+    "conceptId": 10005201,
+    "name": "Quartet",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA34014_00",
     "conceptId": 10002292,
     "name": "Disco Elysium",
@@ -469029,6 +469040,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA53321_00",
+    "conceptId": 10014055,
+    "name": "a pet shop after dark",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA53324_00",
     "conceptId": 10014057,
     "name": "The Last Hero: Journey to the Unknown",
@@ -525367,7 +525389,7 @@
     "region": "EP",
     "publisherId": "EP3945",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -527769,6 +527791,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59549_00",
+    "conceptId": 10019845,
+    "name": "Police Chief Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59550_00",
     "conceptId": 10019848,
     "name": "Moto X",
@@ -528718,12 +528751,12 @@
     "titleId": "CUSA59728_00",
     "conceptId": 10020162,
     "name": "Mombo Combo Legacy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP7021-CUSA59728_00-0753217196323369",
+    "region": "HP",
+    "publisherId": "HP7021",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59730_00",
@@ -530002,6 +530035,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59948_00",
+    "conceptId": 10020465,
+    "name": "What Do You Meme?\u00ae The Video Game",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59950_00",
     "conceptId": 10020352,
     "name": "Fix&Flip Dream House",
@@ -530420,6 +530464,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60030_00",
+    "conceptId": 10020634,
+    "name": "Raider Kid and the Ruby Chest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60031_00",
     "conceptId": 10020772,
     "name": "Stock Cars Racing",
@@ -530511,23 +530566,23 @@
     "titleId": "CUSA60046_00",
     "conceptId": 10020818,
     "name": "Whispers Within",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA60046_00-WHISPERSEUASJP00",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60047_00",
     "conceptId": 10020818,
     "name": "Whispers Within",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA60047_00-WHISPERSNA000000",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60051_00",
@@ -531069,6 +531124,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60147_00",
+    "conceptId": 10021070,
+    "name": "Spooker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60152_00",
     "conceptId": 10020984,
     "name": "Squishy's Leap",
@@ -531127,6 +531193,28 @@
     "titleId": "CUSA60168_00",
     "conceptId": 10021136,
     "name": "A Game About Breaking A Cube",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60172_00",
+    "conceptId": 10021086,
+    "name": "Bunker Tidy Up",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60173_00",
+    "conceptId": 10021086,
+    "name": "Bunker Tidy Up",
     "contentId": null,
     "region": null,
     "publisherId": null,

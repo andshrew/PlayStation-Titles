@@ -123802,8 +123802,8 @@
   {
     "titleId": "PPSA26654_00",
     "conceptId": 10012984,
-    "name": "\u30a2\u30ce\u30de\u30ea\u30b9\uff0fANOMALITH",
-    "contentId": null,
+    "name": "ANOMALITH",
+    "contentId": "JP0536-PPSA26654_00-0000000000000000",
     "region": "JP",
     "publisherId": "JP0536"
   },
@@ -128758,6 +128758,14 @@
     "contentId": "EB0805-PPSA27542_00-0328327859270292",
     "region": "EB",
     "publisherId": "EB0805"
+  },
+  {
+    "titleId": "PPSA27543_00",
+    "conceptId": 10013468,
+    "name": "Hunter's Moon",
+    "contentId": "UP8664-PPSA27543_00-0359583939722997",
+    "region": "UP",
+    "publisherId": "UP8664"
   },
   {
     "titleId": "PPSA27545_00",
@@ -138643,7 +138651,7 @@
     "titleId": "PPSA29380_00",
     "conceptId": 10012984,
     "name": "ANOMALITH",
-    "contentId": null,
+    "contentId": "EP2640-PPSA29380_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP2640"
   },
@@ -165763,7 +165771,7 @@
     "titleId": "PPSA34579_00",
     "conceptId": 10017620,
     "name": "Phantom Blade Zero",
-    "contentId": null,
+    "contentId": "UB2134-PPSA34579_00-0622032276386943",
     "region": "UB",
     "publisherId": "UB2134"
   },
@@ -169680,6 +169688,14 @@
     "publisherId": "JP0404"
   },
   {
+    "titleId": "PPSA35385_00",
+    "conceptId": 10018080,
+    "name": "Ayasa",
+    "contentId": "UB2232-PPSA35385_00-0376899681780326",
+    "region": "UB",
+    "publisherId": "UB2232"
+  },
+  {
     "titleId": "PPSA35386_00",
     "conceptId": 10018176,
     "name": "1\u04451 Street Football: mini soccer PvP",
@@ -171418,18 +171434,18 @@
   {
     "titleId": "PPSA35812_00",
     "conceptId": 10012984,
-    "name": "ANOMALITH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Anomalith: Anomaly Zone Countermeasures Office Database",
+    "contentId": "EP2640-PPSA35812_00-DDXAPI0000000000",
+    "region": "EP",
+    "publisherId": "EP2640"
   },
   {
     "titleId": "PPSA35813_00",
     "conceptId": 10012984,
-    "name": "ANOMALITH",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Anomalith: Anomaly Zone Countermeasures Office Database",
+    "contentId": "UP2777-PPSA35813_00-DDXAPI0000000000",
+    "region": "UP",
+    "publisherId": "UP2777"
   },
   {
     "titleId": "PPSA35814_00",
@@ -172008,6 +172024,14 @@
     "publisherId": "UP0097"
   },
   {
+    "titleId": "PPSA35949_00",
+    "conceptId": 10018438,
+    "name": "Paths of Fight: Samurai",
+    "contentId": "EB0640-PPSA35949_00-0865330179454402",
+    "region": "EB",
+    "publisherId": "EB0640"
+  },
+  {
     "titleId": "PPSA35952_00",
     "conceptId": 10018516,
     "name": "Vending Ninja",
@@ -172307,9 +172331,9 @@
     "titleId": "PPSA36015_00",
     "conceptId": 10018448,
     "name": "Remothered: Red Nun's Legacy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3376-PPSA36015_00-REMBASEGAME00000",
+    "region": "EP",
+    "publisherId": "EP3376"
   },
   {
     "titleId": "PPSA36017_00",
@@ -175016,6 +175040,14 @@
     "publisherId": "HB2024"
   },
   {
+    "titleId": "PPSA36665_00",
+    "conceptId": 10018955,
+    "name": "Fangtopia",
+    "contentId": "EP7072-PPSA36665_00-FANGTOPIABASE000",
+    "region": "EP",
+    "publisherId": "EP7072"
+  },
+  {
     "titleId": "PPSA36669_00",
     "conceptId": 10016414,
     "name": "DRAGON QUEST MONSTERS: The Withered World DEMO",
@@ -175790,6 +175822,14 @@
     "contentId": "EP4389-PPSA36840_00-TOTDEMOPRODUCTWW",
     "region": "EP",
     "publisherId": "EP4389"
+  },
+  {
+    "titleId": "PPSA36841_00",
+    "conceptId": 10015979,
+    "name": "Village in the Shade",
+    "contentId": "UP1063-PPSA36841_00-HONOGURASHI00000",
+    "region": "UP",
+    "publisherId": "UP1063"
   },
   {
     "titleId": "PPSA36842_00",
@@ -180288,6 +180328,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA38171_00",
+    "conceptId": 10019782,
+    "name": "Frog Sqwad",
+    "contentId": "HB2167-PPSA38171_00-XXXXXXXFROGSQWAD",
+    "region": "HB",
+    "publisherId": "HB2167"
+  },
+  {
     "titleId": "PPSA38172_00",
     "conceptId": 10019788,
     "name": "Lost Lands X",
@@ -180451,7 +180499,7 @@
     "titleId": "PPSA38219_00",
     "conceptId": 10010699,
     "name": "SURI: The Seventh Note",
-    "contentId": null,
+    "contentId": "UB0289-PPSA38219_00-0697163834453593",
     "region": "UB",
     "publisherId": "UB0289"
   },
@@ -181696,6 +181744,14 @@
     "publisherId": "UB0851"
   },
   {
+    "titleId": "PPSA38934_00",
+    "conceptId": 10015979,
+    "name": "Village in the Shade Digital Art Book & Soundtrack",
+    "contentId": "UP1063-PPSA38934_00-HONOGURASHIVS000",
+    "region": "UP",
+    "publisherId": "UP1063"
+  },
+  {
     "titleId": "PPSA38936_00",
     "conceptId": 10019222,
     "name": "\u6587\u5b57\u904a\u622f \u7b2c\u96f6\u7ae0",
@@ -182496,6 +182552,14 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA39615_00",
+    "conceptId": 10018028,
+    "name": "The S\u00e9ance of Blake Manor Demo",
+    "contentId": "EP2187-PPSA39615_00-SCBLAKEMANORDEMO",
+    "region": "EP",
+    "publisherId": "EP2187"
+  },
+  {
     "titleId": "PPSA39655_00",
     "conceptId": 10020513,
     "name": "Shikaku Room",
@@ -182720,6 +182784,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA39950_00",
+    "conceptId": 10020862,
+    "name": "Darkness and Flame 1: Born of Fire",
+    "contentId": "UB0190-PPSA39950_00-0757570060421767",
+    "region": "UB",
+    "publisherId": "UB0190"
+  },
+  {
     "titleId": "PPSA39958_00",
     "conceptId": 10020871,
     "name": "Hippo Hop",
@@ -182912,11 +182984,27 @@
     "publisherId": "UP0502"
   },
   {
+    "titleId": "PPSA40331_00",
+    "conceptId": 10021070,
+    "name": "Spooker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA40343_00",
     "conceptId": 10021127,
     "name": "Neon GT Racing",
     "contentId": "UP7552-PPSA40343_00-0756260626669209",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40510_00",
+    "conceptId": 10021237,
+    "name": "Catch To Fish",
+    "contentId": "UB0111-PPSA40510_00-0941136848491854",
+    "region": "UB",
+    "publisherId": "UB0111"
   }
 ]
