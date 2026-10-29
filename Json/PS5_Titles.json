@@ -116619,9 +116619,9 @@
     "titleId": "PPSA25386_00",
     "conceptId": 10007890,
     "name": "SULFUR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8584-PPSA25386_00-0574910723414959",
+    "region": "UP",
+    "publisherId": "UP8584"
   },
   {
     "titleId": "PPSA25387_00",
@@ -138659,7 +138659,7 @@
     "titleId": "PPSA29381_00",
     "conceptId": 10012984,
     "name": "ANOMALITH",
-    "contentId": null,
+    "contentId": "UP2777-PPSA29381_00-0000000000000000",
     "region": "UP",
     "publisherId": "UP2777"
   },
@@ -168872,6 +168872,14 @@
     "publisherId": "UP3528"
   },
   {
+    "titleId": "PPSA35132_00",
+    "conceptId": 10018028,
+    "name": "The S\u00e9ance of Blake Manor",
+    "contentId": "EP2187-PPSA35132_00-000000000000TSBM",
+    "region": "EP",
+    "publisherId": "EP2187"
+  },
+  {
     "titleId": "PPSA35133_00",
     "conceptId": 10018029,
     "name": "Minos Trials",
@@ -172032,6 +172040,14 @@
     "publisherId": "EB0640"
   },
   {
+    "titleId": "PPSA35951_00",
+    "conceptId": 10018536,
+    "name": "Dominoes Colors",
+    "contentId": "UB0449-PPSA35951_00-0334704111487649",
+    "region": "UB",
+    "publisherId": "UB0449"
+  },
+  {
     "titleId": "PPSA35952_00",
     "conceptId": 10018516,
     "name": "Vending Ninja",
@@ -174110,6 +174126,14 @@
     "contentId": "EP6556-PPSA36418_00-0347616885559324",
     "region": "EP",
     "publisherId": "EP6556"
+  },
+  {
+    "titleId": "PPSA36419_00",
+    "conceptId": 10014312,
+    "name": "Beyond The Evil",
+    "contentId": "UP2158-PPSA36419_00-BEYONDTHEEVILPS5",
+    "region": "UP",
+    "publisherId": "UP2158"
   },
   {
     "titleId": "PPSA36422_00",
@@ -176648,6 +176672,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA37023_00",
+    "conceptId": 10019122,
+    "name": "The Zibbo Show",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA37033_00",
     "conceptId": 10019129,
     "name": "Shattered Frames 3: Skies Above",
@@ -177134,6 +177166,14 @@
     "contentId": "EP5987-PPSA37161_00-ULGANCIENTFARM01",
     "region": "EP",
     "publisherId": "EP5987"
+  },
+  {
+    "titleId": "PPSA37162_00",
+    "conceptId": 10019212,
+    "name": "Planted!",
+    "contentId": "UB1519-PPSA37162_00-XXXXXXXXXPLANTED",
+    "region": "UB",
+    "publisherId": "UB1519"
   },
   {
     "titleId": "PPSA37174_00",
@@ -178160,6 +178200,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA37485_00",
+    "conceptId": 10018482,
+    "name": "RACCOIN: Chaos Max Edition Demo",
+    "contentId": "JP3681-PPSA37485_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP3681"
+  },
+  {
     "titleId": "PPSA37486_00",
     "conceptId": 10011815,
     "name": "The Eternal Life of Goldman Demo",
@@ -178918,6 +178966,14 @@
     "contentId": "UP8616-PPSA37680_00-0972711144719719",
     "region": "UP",
     "publisherId": "UP8616"
+  },
+  {
+    "titleId": "PPSA37687_00",
+    "conceptId": 10019531,
+    "name": "Coloratura",
+    "contentId": "JB0500-PPSA37687_00-0612048008794233",
+    "region": "JB",
+    "publisherId": "JB0500"
   },
   {
     "titleId": "PPSA37688_00",
@@ -179920,6 +179976,14 @@
     "publisherId": "HB0876"
   },
   {
+    "titleId": "PPSA37993_00",
+    "conceptId": 10019713,
+    "name": "Arcade Archives 2 PREHISTORIC ISLE",
+    "contentId": "JP0571-PPSA37993_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA37997_00",
     "conceptId": 10019715,
     "name": "Truck Simulator Euro Roads 2026",
@@ -180134,6 +180198,14 @@
     "contentId": "UP4127-PPSA38096_00-DOFGLOBAL0000000",
     "region": "UP",
     "publisherId": "UP4127"
+  },
+  {
+    "titleId": "PPSA38097_00",
+    "conceptId": 10019773,
+    "name": "Console Archives MARL JONG",
+    "contentId": "JP0571-PPSA38097_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA38108_00",
@@ -180526,6 +180598,22 @@
     "contentId": "JP0079-PPSA38223_00-0644286425179546",
     "region": "JP",
     "publisherId": "JP0079"
+  },
+  {
+    "titleId": "PPSA38230_00",
+    "conceptId": 10018909,
+    "name": "STEINS;GATE RE:BOOT",
+    "contentId": "EP4947-PPSA38230_00-0771117228222139",
+    "region": "EP",
+    "publisherId": "EP4947"
+  },
+  {
+    "titleId": "PPSA38231_00",
+    "conceptId": 10018909,
+    "name": "STEINS;GATE RE:BOOT",
+    "contentId": "UP4774-PPSA38231_00-0635830380675171",
+    "region": "UP",
+    "publisherId": "UP4774"
   },
   {
     "titleId": "PPSA38233_00",
@@ -181054,6 +181142,14 @@
     "contentId": "UB2202-PPSA38546_00-SPOTSTORIESVOL01",
     "region": "UB",
     "publisherId": "UB2202"
+  },
+  {
+    "titleId": "PPSA38554_00",
+    "conceptId": 10020036,
+    "name": "SN\u00d8: Ultimate Freeriding",
+    "contentId": "UP1181-PPSA38554_00-SNOULTFREERIDE01",
+    "region": "UP",
+    "publisherId": "UP1181"
   },
   {
     "titleId": "PPSA38559_00",
@@ -181656,6 +181752,14 @@
     "publisherId": "JP0571"
   },
   {
+    "titleId": "PPSA38876_00",
+    "conceptId": 10020225,
+    "name": "Arcade Archives 2 SWIMMER",
+    "contentId": "JP0571-PPSA38876_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA38888_00",
     "conceptId": 10020233,
     "name": "Brawl Snakes",
@@ -181862,6 +181966,22 @@
     "contentId": "HB2024-PPSA38998_00-0553019229862921",
     "region": "HB",
     "publisherId": "HB2024"
+  },
+  {
+    "titleId": "PPSA39005_00",
+    "conceptId": 10018909,
+    "name": "STEINS;GATE Octet of Shifting Space",
+    "contentId": "EP4947-PPSA39005_00-0277033199383066",
+    "region": "EP",
+    "publisherId": "EP4947"
+  },
+  {
+    "titleId": "PPSA39006_00",
+    "conceptId": null,
+    "name": "STEINS;GATE RE:BOOT DIGITAL CONTENT",
+    "contentId": "EP4947-PPSA39006_00-0595075055788367",
+    "region": "EP",
+    "publisherId": "EP4947"
   },
   {
     "titleId": "PPSA39019_00",
@@ -182163,9 +182283,9 @@
     "titleId": "PPSA39223_00",
     "conceptId": 10017620,
     "name": "Phantom Blade Zero",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP8428-PPSA39223_00-0712664832266556",
+    "region": "UP",
+    "publisherId": "UP8428"
   },
   {
     "titleId": "PPSA39234_00",
@@ -182616,12 +182736,36 @@
     "publisherId": "JB1609"
   },
   {
+    "titleId": "PPSA39760_00",
+    "conceptId": 10020718,
+    "name": "HELLBOUND INC",
+    "contentId": "JP5441-PPSA39760_00-0717407743526545",
+    "region": "JP",
+    "publisherId": "JP5441"
+  },
+  {
+    "titleId": "PPSA39773_00",
+    "conceptId": 10020713,
+    "name": "\u30df\u30b9\u30c6\u30ea\u30fc\u63a2\u5075\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc 1",
+    "contentId": "UB0190-PPSA39773_00-0960943448353815",
+    "region": "UB",
+    "publisherId": "UB0190"
+  },
+  {
     "titleId": "PPSA39793_00",
     "conceptId": 10020745,
     "name": "Seahorse Soap Patrol",
     "contentId": "UB0108-PPSA39793_00-0963975681992338",
     "region": "UB",
     "publisherId": "UB0108"
+  },
+  {
+    "titleId": "PPSA39815_00",
+    "conceptId": 10016118,
+    "name": "Primal Planet",
+    "contentId": "UP7793-PPSA39815_00-PRIMALPLANETGAME",
+    "region": "UP",
+    "publisherId": "UP7793"
   },
   {
     "titleId": "PPSA39821_00",
@@ -182752,6 +182896,22 @@
     "publisherId": "UP7939"
   },
   {
+    "titleId": "PPSA39893_00",
+    "conceptId": 10020818,
+    "name": "Whispers Within",
+    "contentId": "JB2357-PPSA39893_00-WHISPERSEUASJP00",
+    "region": "JB",
+    "publisherId": "JB2357"
+  },
+  {
+    "titleId": "PPSA39894_00",
+    "conceptId": 10020818,
+    "name": "Whispers Within",
+    "contentId": "JB2357-PPSA39894_00-WHISPERSNA000000",
+    "region": "JB",
+    "publisherId": "JB2357"
+  },
+  {
     "titleId": "PPSA39916_00",
     "conceptId": 10020837,
     "name": "Solid Void - Halloween Nonograms",
@@ -182774,6 +182934,14 @@
     "contentId": "UB2826-PPSA39921_00-0749300205468947",
     "region": "UB",
     "publisherId": "UB2826"
+  },
+  {
+    "titleId": "PPSA39923_00",
+    "conceptId": 10017478,
+    "name": "\u4eb0\u90fd\u30b6\u30ca\u30c9\u30a5 -\u685c\u82b1\u5e7b\u821e- \u4f53\u9a13\u7248",
+    "contentId": "JP0425-PPSA39923_00-KYOTOXANADUTRIAL",
+    "region": "JP",
+    "publisherId": "JP0425"
   },
   {
     "titleId": "PPSA39948_00",
@@ -182862,6 +183030,14 @@
     "contentId": "EP1430-PPSA40008_00-DESOLUSPS5SIEE00",
     "region": "EP",
     "publisherId": "EP1430"
+  },
+  {
+    "titleId": "PPSA40017_00",
+    "conceptId": 10017478,
+    "name": "\u4eb0\u90fd\u5e7b\u90fd -\u6afb\u82b1\u5e7b\u821e- \u9ad4\u9a57\u7248",
+    "contentId": "HP5846-PPSA40017_00-KYOTOXANADUTRIAL",
+    "region": "HP",
+    "publisherId": "HP5846"
   },
   {
     "titleId": "PPSA40031_00",
@@ -182986,10 +183162,18 @@
   {
     "titleId": "PPSA40331_00",
     "conceptId": 10021070,
-    "name": "Spooker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Spooker Demo",
+    "contentId": "HP6978-PPSA40331_00-0536303822598714",
+    "region": "HP",
+    "publisherId": "HP6978"
+  },
+  {
+    "titleId": "PPSA40332_00",
+    "conceptId": 10021120,
+    "name": "eXcise",
+    "contentId": "EP3877-PPSA40332_00-EXCISE00BASEGAME",
+    "region": "EP",
+    "publisherId": "EP3877"
   },
   {
     "titleId": "PPSA40343_00",
@@ -182998,6 +183182,30 @@
     "contentId": "UP7552-PPSA40343_00-0756260626669209",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40385_00",
+    "conceptId": 10021156,
+    "name": "Train Merge Tycoon",
+    "contentId": "HB2206-PPSA40385_00-TRAINTYCOONSIEJP",
+    "region": "HB",
+    "publisherId": "HB2206"
+  },
+  {
+    "titleId": "PPSA40386_00",
+    "conceptId": 10021156,
+    "name": "Train Merge Tycoon",
+    "contentId": "JB2177-PPSA40386_00-TRAINTYCOONSIEAS",
+    "region": "JB",
+    "publisherId": "JB2177"
+  },
+  {
+    "titleId": "PPSA40393_00",
+    "conceptId": 10021154,
+    "name": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u30fb\u30df\u30b9\u30c6\u30ea\u30fc\u30ba 6:\u4e0d\u6ec5\u306e\u8005\u305f\u3061",
+    "contentId": "UB0190-PPSA40393_00-0372193550202693",
+    "region": "UB",
+    "publisherId": "UB0190"
   },
   {
     "titleId": "PPSA40510_00",
