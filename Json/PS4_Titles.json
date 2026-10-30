@@ -512515,23 +512515,23 @@
     "titleId": "CUSA57726_00",
     "conceptId": 10014081,
     "name": "Mouthwashing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7176-CUSA57726_00-0251100268419666",
+    "region": "UP",
+    "publisherId": "UP7176",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57729_00",
     "conceptId": 10014081,
     "name": "Mouthwashing",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP7173-CUSA57729_00-0053107050466386",
+    "region": "EP",
+    "publisherId": "EP7173",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57730_00",
@@ -520599,13 +520599,13 @@
   {
     "titleId": "CUSA58653_00",
     "conceptId": 10014312,
-    "name": "Beyond The Evil",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "BEYOND THE EVIL",
+    "contentId": "UP2158-CUSA58653_00-BEYONDTHEEVILPS4",
+    "region": "UP",
+    "publisherId": "UP2158",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58656_00",
@@ -523328,12 +523328,12 @@
     "titleId": "CUSA58962_00",
     "conceptId": 10019122,
     "name": "The Zibbo Show",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP3723-CUSA58962_00-0539589909888375",
+    "region": "EP",
+    "publisherId": "EP3723",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58963_00",
@@ -523404,13 +523404,13 @@
   {
     "titleId": "CUSA58969_00",
     "conceptId": 10017913,
-    "name": "Croc 2 Kingdom of the Gobbos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Croc 2 Kingdom of Gobbos",
+    "contentId": "UB1036-CUSA58969_00-0088192787758234",
+    "region": "UB",
+    "publisherId": "UB1036",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58970_00",
@@ -526594,13 +526594,13 @@
   {
     "titleId": "CUSA59382_00",
     "conceptId": 10019648,
-    "name": "The Night of the Exorcism",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "The Night Of The Exorcism",
+    "contentId": "EP0896-CUSA59382_00-NIGHTEXORCISMRAG",
+    "region": "EP",
+    "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59384_00",
@@ -527516,6 +527516,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59506_00",
+    "conceptId": 10019799,
+    "name": "TANUKI: Pon's Summer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59507_00",
     "conceptId": 10019364,
     "name": "No, I'm not a Human",
@@ -527772,12 +527783,12 @@
     "titleId": "CUSA59544_00",
     "conceptId": 10018602,
     "name": "Unicorn Academy: Island of Magic",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP3945-CUSA59544_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP3945",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59545_00",
@@ -529078,6 +529089,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59765_00",
+    "conceptId": 10020196,
+    "name": "TRINEA",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59766_00",
     "conceptId": 10020197,
     "name": "SONG MASTER",
@@ -529833,19 +529855,19 @@
     "region": "JB",
     "publisherId": "JB1662",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59899_00",
     "conceptId": 10019427,
     "name": "Asylum",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP4541-CUSA59899_00-ASYLUM0000000000",
+    "region": "EP",
+    "publisherId": "EP4541",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59900_00",
@@ -531223,6 +531245,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60154_00",
+    "conceptId": 10021088,
+    "name": "Alex the Rabbit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60159_00",
     "conceptId": 10021112,
     "name": "Infinitevania",
@@ -531487,6 +531520,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60213_00",
+    "conceptId": 10021234,
+    "name": "Super Astro Cat PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60215_00",
     "conceptId": 10021237,
     "name": "Catch To Fish",
@@ -531677,6 +531721,28 @@
     "titleId": "CUSA60308_00",
     "conceptId": 10021101,
     "name": "BOARDING DENIED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60311_00",
+    "conceptId": 10021352,
+    "name": "Checkers MASTER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60314_00",
+    "conceptId": 10021287,
+    "name": "One Button Arcade",
     "contentId": null,
     "region": null,
     "publisherId": null,
