@@ -423610,6 +423610,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA48730_00",
+    "conceptId": 10010758,
+    "name": "DPS IDLE",
+    "contentId": "UP8112-CUSA48730_00-DPSIDLE000000001",
+    "region": "UP",
+    "publisherId": "UP8112",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA48734_00",
     "conceptId": 10010899,
     "name": "Upin & Ipin Universe",
@@ -472123,12 +472134,12 @@
     "titleId": "CUSA53617_00",
     "conceptId": 10013983,
     "name": "The Cat in the Hat: Rainy Day Mayhem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP3768-CUSA53617_00-CATINTHEHAT00001",
+    "region": "HP",
+    "publisherId": "HP3768",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA53618_00",
@@ -517726,6 +517737,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA58302_00",
+    "conceptId": 10018412,
+    "name": "Ski Jumping World Cup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58316_00",
     "conceptId": 10018420,
     "name": "Fischfutter",
@@ -523409,7 +523431,7 @@
     "region": "UB",
     "publisherId": "UB1036",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -527186,6 +527208,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59467_00",
+    "conceptId": 10019739,
+    "name": "Nubby's Number Factory",
+    "contentId": "UP8193-CUSA59467_00-NUBBYSNUMFACTPS4",
+    "region": "UP",
+    "publisherId": "UP8193",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59468_00",
     "conceptId": 10019741,
     "name": "Pyramid Quest Junior",
@@ -529866,7 +529899,7 @@
     "region": "EP",
     "publisherId": "EP4541",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -531600,12 +531633,12 @@
     "titleId": "CUSA60269_00",
     "conceptId": 10021296,
     "name": "Kitties Solitaire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7552-CUSA60269_00-0100985416948957",
+    "region": "UP",
+    "publisherId": "UP7552",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60289_00",
@@ -531721,6 +531754,17 @@
     "titleId": "CUSA60308_00",
     "conceptId": 10021101,
     "name": "BOARDING DENIED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60309_00",
+    "conceptId": 10021073,
+    "name": "Good President Simulator",
     "contentId": null,
     "region": null,
     "publisherId": null,

@@ -308080,6 +308080,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA48730_00",
+    "conceptId": 10010758,
+    "name": "DPS IDLE",
+    "contentId": "UP8112-CUSA48730_00-DPSIDLE000000001",
+    "region": "UP",
+    "publisherId": "UP8112"
+  },
+  {
     "titleId": "CUSA48734_00",
     "conceptId": 10010899,
     "name": "Upin & Ipin Universe",
@@ -343363,9 +343371,9 @@
     "titleId": "CUSA53617_00",
     "conceptId": 10013983,
     "name": "The Cat in the Hat: Rainy Day Mayhem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3768-CUSA53617_00-CATINTHEHAT00001",
+    "region": "HP",
+    "publisherId": "HP3768"
   },
   {
     "titleId": "CUSA53618_00",
@@ -376528,6 +376536,14 @@
     "publisherId": "UP2158"
   },
   {
+    "titleId": "CUSA58302_00",
+    "conceptId": 10018412,
+    "name": "Ski Jumping World Cup",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA58316_00",
     "conceptId": 10018420,
     "name": "Fischfutter",
@@ -383408,6 +383424,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59467_00",
+    "conceptId": 10019739,
+    "name": "Nubby's Number Factory",
+    "contentId": "UP8193-CUSA59467_00-NUBBYSNUMFACTPS4",
+    "region": "UP",
+    "publisherId": "UP8193"
+  },
+  {
     "titleId": "CUSA59468_00",
     "conceptId": 10019741,
     "name": "Pyramid Quest Junior",
@@ -386619,9 +386643,9 @@
     "titleId": "CUSA60269_00",
     "conceptId": 10021296,
     "name": "Kitties Solitaire",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-CUSA60269_00-0100985416948957",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "CUSA60289_00",
@@ -386707,6 +386731,14 @@
     "titleId": "CUSA60308_00",
     "conceptId": 10021101,
     "name": "BOARDING DENIED",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60309_00",
+    "conceptId": 10021073,
+    "name": "Good President Simulator",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -491339,7 +491371,7 @@
     "titleId": "PPSA23129_00",
     "conceptId": 10010914,
     "name": "Hunting Simulator 3",
-    "contentId": null,
+    "contentId": "EP6665-PPSA23129_00-HS30000000000000",
     "region": "EP",
     "publisherId": "EP6665"
   },
@@ -530792,6 +530824,14 @@
     "publisherId": "EP0700"
   },
   {
+    "titleId": "PPSA30369_00",
+    "conceptId": 10015278,
+    "name": "Joe & Mac Collection",
+    "contentId": "EP5098-PPSA30369_00-0197513844716671",
+    "region": "EP",
+    "publisherId": "EP5098"
+  },
+  {
     "titleId": "PPSA30371_00",
     "conceptId": 10015281,
     "name": "Boomerang King",
@@ -533022,6 +533062,14 @@
     "contentId": "UB0732-PPSA30784_00-0064001553038072",
     "region": "UB",
     "publisherId": "UB0732"
+  },
+  {
+    "titleId": "PPSA30785_00",
+    "conceptId": 10015518,
+    "name": "HYPERVIOLENT",
+    "contentId": "EP2552-PPSA30785_00-HYPERV0000000001",
+    "region": "EP",
+    "publisherId": "EP2552"
   },
   {
     "titleId": "PPSA30786_00",
@@ -554168,6 +554216,14 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA34836_00",
+    "conceptId": 10014081,
+    "name": "Mouthwashing",
+    "contentId": "UP7176-PPSA34836_00-0893827677310778",
+    "region": "UP",
+    "publisherId": "UP7176"
+  },
+  {
     "titleId": "PPSA34841_00",
     "conceptId": 10017851,
     "name": "Mini Ghost",
@@ -556064,6 +556120,14 @@
     "publisherId": "EP5987"
   },
   {
+    "titleId": "PPSA35183_00",
+    "conceptId": 10018073,
+    "name": "RV There Yet?",
+    "contentId": "JB2176-PPSA35183_00-0755446042075503",
+    "region": "JB",
+    "publisherId": "JB2176"
+  },
+  {
     "titleId": "PPSA35184_00",
     "conceptId": 10018072,
     "name": "Deep Combat",
@@ -556490,10 +556554,10 @@
   {
     "titleId": "PPSA35338_00",
     "conceptId": 10017913,
-    "name": "Croc 2 Kingdom of the Gobbos",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Croc 2 Kingdom of Gobbos",
+    "contentId": "UB1036-PPSA35338_00-0757974460104531",
+    "region": "UB",
+    "publisherId": "UB1036"
   },
   {
     "titleId": "PPSA35339_00",
@@ -566984,12 +567048,20 @@
     "publisherId": "HP2005"
   },
   {
+    "titleId": "PPSA37999_00",
+    "conceptId": 10019716,
+    "name": "Love Love Mystery Club",
+    "contentId": "UP6718-PPSA37999_00-0729617873221604",
+    "region": "UP",
+    "publisherId": "UP6718"
+  },
+  {
     "titleId": "PPSA38000_00",
     "conceptId": 10019716,
     "name": "Love Love Mystery Club",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6718-PPSA38000_00-0591081541056582",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA38010_00",
@@ -567622,6 +567694,14 @@
     "contentId": "UB0079-PPSA38236_00-0222416218439363",
     "region": "UB",
     "publisherId": "UB0079"
+  },
+  {
+    "titleId": "PPSA38239_00",
+    "conceptId": 10019847,
+    "name": "Queen's Domain",
+    "contentId": "EP7107-PPSA38239_00-12FD73215898HJZZ",
+    "region": "EP",
+    "publisherId": "EP7107"
   },
   {
     "titleId": "PPSA38240_00",
@@ -568456,12 +568536,28 @@
     "publisherId": "UB0851"
   },
   {
+    "titleId": "PPSA38765_00",
+    "conceptId": 10020172,
+    "name": "VOiD: Reshaped",
+    "contentId": "HB2319-PPSA38765_00-0488284295341665",
+    "region": "HB",
+    "publisherId": "HB2319"
+  },
+  {
     "titleId": "PPSA38767_00",
     "conceptId": 10020159,
     "name": "Titanium Court",
     "contentId": "EP8921-PPSA38767_00-0998558171801102",
     "region": "EP",
     "publisherId": "EP8921"
+  },
+  {
+    "titleId": "PPSA38775_00",
+    "conceptId": 10020175,
+    "name": "HorrorVale: Deadluxe Edition",
+    "contentId": "EP7099-PPSA38775_00-AIRSHIPSPOOKYRPG",
+    "region": "EP",
+    "publisherId": "EP7099"
   },
   {
     "titleId": "PPSA38776_00",
@@ -568584,12 +568680,36 @@
     "publisherId": "JP0536"
   },
   {
+    "titleId": "PPSA38811_00",
+    "conceptId": 10020191,
+    "name": "Corner Shop: NightShift",
+    "contentId": "EP1549-PPSA38811_00-0948680423601579",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA38812_00",
+    "conceptId": 10020191,
+    "name": "Corner Shop: NightShift",
+    "contentId": "UP1564-PPSA38812_00-0300879274685613",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA38814_00",
     "conceptId": 10020192,
     "name": "Cave Looters",
     "contentId": "UB0108-PPSA38814_00-0027082378802440",
     "region": "UB",
     "publisherId": "UB0108"
+  },
+  {
+    "titleId": "PPSA38815_00",
+    "conceptId": 10020193,
+    "name": "Look Outside",
+    "contentId": "UP3643-PPSA38815_00-LOOKOUTSIDE00001",
+    "region": "UP",
+    "publisherId": "UP3643"
   },
   {
     "titleId": "PPSA38829_00",
@@ -569200,6 +569320,14 @@
     "publisherId": "UB2099"
   },
   {
+    "titleId": "PPSA39111_00",
+    "conceptId": 10020353,
+    "name": "The Adventures Of Captain J",
+    "contentId": "EB2642-PPSA39111_00-0313461784115662",
+    "region": "EB",
+    "publisherId": "EB2642"
+  },
+  {
     "titleId": "PPSA39115_00",
     "conceptId": 10020355,
     "name": "SpotCat vs The Cheddar Mafia In The Americas",
@@ -569486,6 +569614,14 @@
     "contentId": "UP2154-PPSA39326_00-0567159384498331",
     "region": "UP",
     "publisherId": "UP2154"
+  },
+  {
+    "titleId": "PPSA39354_00",
+    "conceptId": 232879,
+    "name": "RESONANCE OF FATE / ENHANCED REMASTER",
+    "contentId": "JP0062-PPSA39354_00-ZZZZZZZZZZZZZZZZ",
+    "region": "JP",
+    "publisherId": "JP0062"
   },
   {
     "titleId": "PPSA39372_00",
@@ -570088,6 +570224,14 @@
     "publisherId": "UB0190"
   },
   {
+    "titleId": "PPSA39957_00",
+    "conceptId": 10020868,
+    "name": "Fakin It XL",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA39958_00",
     "conceptId": 10020871,
     "name": "Hippo Hop",
@@ -570126,6 +570270,14 @@
     "contentId": "EP6718-PPSA39976_00-0383321751751486",
     "region": "EP",
     "publisherId": "EP6718"
+  },
+  {
+    "titleId": "PPSA39980_00",
+    "conceptId": 232518,
+    "name": "Sigi - A Fart for Melusina",
+    "contentId": "UP1675-PPSA39980_00-SYPS5SIGIAFARTFO",
+    "region": "UP",
+    "publisherId": "UP1675"
   },
   {
     "titleId": "PPSA39981_00",
@@ -570198,6 +570350,14 @@
     "contentId": "HP5846-PPSA40017_00-KYOTOXANADUTRIAL",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA40030_00",
+    "conceptId": 10020876,
+    "name": "Hidden Objects",
+    "contentId": "HB2226-PPSA40030_00-0921363105280978",
+    "region": "HB",
+    "publisherId": "HB2226"
   },
   {
     "titleId": "PPSA40031_00",
@@ -570291,9 +570451,9 @@
     "titleId": "PPSA40171_00",
     "conceptId": 10021012,
     "name": "Death Park",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3552-PPSA40171_00-0052723531031762",
+    "region": "EP",
+    "publisherId": "EP3552"
   },
   {
     "titleId": "PPSA40196_00",
@@ -570310,6 +570470,14 @@
     "contentId": "UP7552-PPSA40204_00-0368636403584773",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40214_00",
+    "conceptId": 10021033,
+    "name": "Pictaku: Halloween",
+    "contentId": "UP8556-PPSA40214_00-0905717922910874",
+    "region": "UP",
+    "publisherId": "UP8556"
   },
   {
     "titleId": "PPSA40220_00",
@@ -570368,6 +570536,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA40353_00",
+    "conceptId": 10021126,
+    "name": "Tidebreak",
+    "contentId": "HP4772-PPSA40353_00-0564830831393485",
+    "region": "HP",
+    "publisherId": "HP4772"
+  },
+  {
     "titleId": "PPSA40383_00",
     "conceptId": 10021156,
     "name": "Train Merge Tycoon",
@@ -570422,6 +570598,14 @@
     "contentId": "UB0111-PPSA40510_00-0941136848491854",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40613_00",
+    "conceptId": 10021296,
+    "name": "Kitties Solitaire",
+    "contentId": "UP7552-PPSA40613_00-0118088654712757",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "PPSA40653_00",
