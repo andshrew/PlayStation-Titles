@@ -386627,9 +386627,9 @@
     "titleId": "CUSA60221_00",
     "conceptId": 10010658,
     "name": "Wreck the World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0786-CUSA60221_00-0394532249470855",
+    "region": "UB",
+    "publisherId": "UB0786"
   },
   {
     "titleId": "CUSA60222_00",
@@ -386771,6 +386771,14 @@
     "titleId": "CUSA60332_00",
     "conceptId": 10020684,
     "name": "The Smiling Flesh",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60355_00",
+    "conceptId": 10019285,
+    "name": "Turnip Mountain",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -563504,6 +563512,30 @@
     "publisherId": "HP7668"
   },
   {
+    "titleId": "PPSA36979_00",
+    "conceptId": 10019084,
+    "name": "CRYMELIGHT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA36980_00",
+    "conceptId": 10019084,
+    "name": "CRYMELIGHT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "PPSA36981_00",
+    "conceptId": 10019084,
+    "name": "CRYMELIGHT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA36982_00",
     "conceptId": 10017896,
     "name": "\u30bb\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30b9\u30af\u30e9\u30c3\u30d7",
@@ -566891,9 +566923,17 @@
     "titleId": "PPSA37954_00",
     "conceptId": 10019084,
     "name": "CRYMELIGHT",
-    "contentId": null,
+    "contentId": "HP5846-PPSA37954_00-PROJECTALICE0000",
     "region": "HP",
     "publisherId": "HP5846"
+  },
+  {
+    "titleId": "PPSA37955_00",
+    "conceptId": 10019084,
+    "name": "CRYMELIGHT",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA37957_00",
@@ -569080,6 +569120,14 @@
     "publisherId": "HB2648"
   },
   {
+    "titleId": "PPSA38960_00",
+    "conceptId": 10020273,
+    "name": "Phantom Floor",
+    "contentId": "EP6013-PPSA38960_00-0973664942680976",
+    "region": "EP",
+    "publisherId": "EP6013"
+  },
+  {
     "titleId": "PPSA38971_00",
     "conceptId": 10016994,
     "name": "Back to the Dawn Demo Version",
@@ -570208,6 +570256,38 @@
     "publisherId": "JP0425"
   },
   {
+    "titleId": "PPSA39938_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "UP8281-PPSA39938_00-0339298170692219",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
+    "titleId": "PPSA39939_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "EP8472-PPSA39939_00-0461349491619790",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
+    "titleId": "PPSA39940_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "JP8187-PPSA39940_00-0245768582521004",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "PPSA39941_00",
+    "conceptId": 10020853,
+    "name": "Innocent Memory",
+    "contentId": "HP8232-PPSA39941_00-0162979292793495",
+    "region": "HP",
+    "publisherId": "HP8232"
+  },
+  {
     "titleId": "PPSA39948_00",
     "conceptId": 10020859,
     "name": "Cargo Rail Tycoon",
@@ -570528,6 +570608,14 @@
     "publisherId": "EP3877"
   },
   {
+    "titleId": "PPSA40342_00",
+    "conceptId": 10021125,
+    "name": "Lordcraft",
+    "contentId": "JP5441-PPSA40342_00-0597647203562151",
+    "region": "JP",
+    "publisherId": "JP5441"
+  },
+  {
     "titleId": "PPSA40343_00",
     "conceptId": 10021127,
     "name": "Neon GT Racing",
@@ -570598,6 +570686,14 @@
     "contentId": "UB0111-PPSA40510_00-0941136848491854",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40557_00",
+    "conceptId": 10010658,
+    "name": "Wreck the World",
+    "contentId": "UB0786-PPSA40557_00-0226972375794944",
+    "region": "UB",
+    "publisherId": "UB0786"
   },
   {
     "titleId": "PPSA40613_00",
