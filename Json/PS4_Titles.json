@@ -528099,6 +528099,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59599_00",
+    "conceptId": 10019901,
+    "name": "Mr Sticky's Ragdoll Launch",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59600_00",
     "conceptId": 10019902,
     "name": "Warnet Life",
@@ -531523,12 +531534,12 @@
     "titleId": "CUSA60207_00",
     "conceptId": 10021208,
     "name": "Needle in a Haystack",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0111-CUSA60207_00-0577126581996516",
+    "region": "UB",
+    "publisherId": "UB0111",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60208_00",
@@ -531615,7 +531626,7 @@
     "region": "UB",
     "publisherId": "UB0786",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {

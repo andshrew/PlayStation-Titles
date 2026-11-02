@@ -135099,9 +135099,9 @@
     "titleId": "PPSA28673_00",
     "conceptId": 10013983,
     "name": "The Cat in the Hat: Rainy Day Mayhem",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3768-PPSA28673_00-CATINTHEHAT00001",
+    "region": "HP",
+    "publisherId": "HP3768"
   },
   {
     "titleId": "PPSA28674_00",
@@ -178120,6 +178120,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA37427_00",
+    "conceptId": 10014443,
+    "name": "The Slormancer - Game Strategy Guide",
+    "contentId": "EB0235-PPSA37427_00-SLORGUIDE0000000",
+    "region": "EB",
+    "publisherId": "EB0235"
+  },
+  {
     "titleId": "PPSA37431_00",
     "conceptId": 10016738,
     "name": "Quite My Tempo",
@@ -183144,6 +183152,14 @@
     "publisherId": "UB0108"
   },
   {
+    "titleId": "PPSA39804_00",
+    "conceptId": 10020751,
+    "name": "\u30df\u30b9\u30c6\u30ea\u30fc\u63a2\u5075\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc 2",
+    "contentId": "UB0190-PPSA39804_00-0337737112814351",
+    "region": "UB",
+    "publisherId": "UB0190"
+  },
+  {
     "titleId": "PPSA39815_00",
     "conceptId": 10016118,
     "name": "Primal Planet",
@@ -183750,6 +183766,14 @@
     "contentId": "UB0190-PPSA40393_00-0372193550202693",
     "region": "UB",
     "publisherId": "UB0190"
+  },
+  {
+    "titleId": "PPSA40436_00",
+    "conceptId": 10021194,
+    "name": "Mystery Suspect",
+    "contentId": "HP4772-PPSA40436_00-0153730667229835",
+    "region": "HP",
+    "publisherId": "HP4772"
   },
   {
     "titleId": "PPSA40469_00",
