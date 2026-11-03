@@ -341131,9 +341131,9 @@
     "titleId": "CUSA53321_00",
     "conceptId": 10014055,
     "name": "a pet shop after dark",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7088-CUSA53321_00-0680425036485037",
+    "region": "EP",
+    "publisherId": "EP7088"
   },
   {
     "titleId": "CUSA53324_00",
@@ -376184,6 +376184,14 @@
     "publisherId": "EB2171"
   },
   {
+    "titleId": "CUSA58248_00",
+    "conceptId": 10018353,
+    "name": "Final Kick Football Legends",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA58249_00",
     "conceptId": 10018354,
     "name": "Hoof & Seek",
@@ -383828,8 +383836,8 @@
     "conceptId": 10019830,
     "name": "Thief: The Dark Project Remastered",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "UP",
+    "publisherId": "UP0913"
   },
   {
     "titleId": "CUSA59539_00",
@@ -385403,9 +385411,9 @@
     "titleId": "CUSA59907_00",
     "conceptId": 10020489,
     "name": "Cat President 2: Purrlitical Revolution",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7099-CUSA59907_00-PPGVNPURRLITICAL",
+    "region": "EP",
+    "publisherId": "EP7099"
   },
   {
     "titleId": "CUSA59909_00",
@@ -386603,9 +386611,9 @@
     "titleId": "CUSA60215_00",
     "conceptId": 10021237,
     "name": "Catch To Fish",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0111-CUSA60215_00-0406436080619305",
+    "region": "UB",
+    "publisherId": "UB0111"
   },
   {
     "titleId": "CUSA60217_00",
@@ -386646,6 +386654,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "CUSA60224_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": "EP7960-CUSA60224_00-0749804014355288",
+    "region": "EP",
+    "publisherId": "EP7960"
   },
   {
     "titleId": "CUSA60269_00",
@@ -386784,9 +386800,49 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60339_00",
+    "conceptId": 10021402,
+    "name": "Silent Loot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60349_00",
+    "conceptId": 10021427,
+    "name": "Breakworld",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60355_00",
     "conceptId": 10019285,
     "name": "Turnip Mountain",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60359_00",
+    "conceptId": 10020280,
+    "name": "Cat Over Here!",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60360_00",
+    "conceptId": 10013154,
+    "name": "Sword of the Necromancer: Resurrection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60361_00",
+    "conceptId": 10013154,
+    "name": "Sword of the Necromancer: Resurrection",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -563530,18 +563586,18 @@
   {
     "titleId": "PPSA36980_00",
     "conceptId": 10019084,
-    "name": "CRYMELIGHT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CRYMELIGHT - Art & Sound App",
+    "contentId": "EP2640-PPSA36980_00-PJALICEDDXAPR000",
+    "region": "EP",
+    "publisherId": "EP2640"
   },
   {
     "titleId": "PPSA36981_00",
     "conceptId": 10019084,
-    "name": "CRYMELIGHT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CRYMELIGHT - Art & Sound App",
+    "contentId": "UP2777-PPSA36981_00-PJALICEDDXAPR000",
+    "region": "UP",
+    "publisherId": "UP2777"
   },
   {
     "titleId": "PPSA36982_00",
@@ -567680,6 +567736,14 @@
     "publisherId": "UB0569"
   },
   {
+    "titleId": "PPSA38212_00",
+    "conceptId": 10019830,
+    "name": "Thief: The Dark Project Remastered",
+    "contentId": null,
+    "region": "UP",
+    "publisherId": "UP0913"
+  },
+  {
     "titleId": "PPSA38215_00",
     "conceptId": 10011746,
     "name": "NBA THE RUN - OPEN BETA",
@@ -569654,6 +569718,14 @@
     "contentId": "JP1663-PPSA39300_00-0012704551074192",
     "region": "JP",
     "publisherId": "JP1663"
+  },
+  {
+    "titleId": "PPSA39304_00",
+    "conceptId": 10020489,
+    "name": "Cat President 2: Purrlitical Revolution",
+    "contentId": "EP7099-PPSA39304_00-PPGVNPURRLITICAL",
+    "region": "EP",
+    "publisherId": "EP7099"
   },
   {
     "titleId": "PPSA39307_00",
