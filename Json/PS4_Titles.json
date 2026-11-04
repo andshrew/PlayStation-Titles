@@ -530013,6 +530013,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59922_00",
+    "conceptId": 10007948,
+    "name": "Grapple Force Rena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59923_00",
     "conceptId": 202523,
     "name": "LET IT DIE",
@@ -530962,12 +530973,12 @@
     "titleId": "CUSA60084_00",
     "conceptId": 10020901,
     "name": "Skygrid Courier",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2005-CUSA60084_00-SKYGRIDCOURIER00",
+    "region": "UP",
+    "publisherId": "UP2005",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60088_00",
@@ -531095,6 +531106,17 @@
     "conceptId": 10020960,
     "name": "Ex-Master, Zombie",
     "contentId": "UB0851-CUSA60111_00-EXMASTERZOMBIEP4",
+    "region": "UB",
+    "publisherId": "UB0851",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60112_00",
+    "conceptId": 10020961,
+    "name": "Ritebound",
+    "contentId": "UB0851-CUSA60112_00-RITEBOUNDPS40000",
     "region": "UB",
     "publisherId": "UB0851",
     "psVR": null,
@@ -531652,6 +531674,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60223_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60224_00",
     "conceptId": 10021274,
     "name": "Beacon Keeper",
@@ -531661,6 +531694,28 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60225_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60226_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA60269_00",
@@ -531908,6 +531963,28 @@
     "titleId": "CUSA60361_00",
     "conceptId": 10013154,
     "name": "Sword of the Necromancer: Resurrection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60364_00",
+    "conceptId": 202326,
+    "name": "#KILLALLZOMBIES",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60365_00",
+    "conceptId": 202326,
+    "name": "#KILLALLZOMBIES",
     "contentId": null,
     "region": null,
     "publisherId": null,

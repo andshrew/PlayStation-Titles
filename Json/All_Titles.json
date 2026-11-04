@@ -385464,6 +385464,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59922_00",
+    "conceptId": 10007948,
+    "name": "Grapple Force Rena",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59923_00",
     "conceptId": 202523,
     "name": "LET IT DIE",
@@ -386155,9 +386163,9 @@
     "titleId": "CUSA60084_00",
     "conceptId": 10020901,
     "name": "Skygrid Courier",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2005-CUSA60084_00-SKYGRIDCOURIER00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "CUSA60088_00",
@@ -386252,6 +386260,14 @@
     "conceptId": 10020960,
     "name": "Ex-Master, Zombie",
     "contentId": "UB0851-CUSA60111_00-EXMASTERZOMBIEP4",
+    "region": "UB",
+    "publisherId": "UB0851"
+  },
+  {
+    "titleId": "CUSA60112_00",
+    "conceptId": 10020961,
+    "name": "Ritebound",
+    "contentId": "UB0851-CUSA60112_00-RITEBOUNDPS40000",
     "region": "UB",
     "publisherId": "UB0851"
   },
@@ -386656,12 +386672,36 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60223_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60224_00",
     "conceptId": 10021274,
     "name": "Beacon Keeper",
     "contentId": "EP7960-CUSA60224_00-0749804014355288",
     "region": "EP",
     "publisherId": "EP7960"
+  },
+  {
+    "titleId": "CUSA60225_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60226_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA60269_00",
@@ -386843,6 +386883,22 @@
     "titleId": "CUSA60361_00",
     "conceptId": 10013154,
     "name": "Sword of the Necromancer: Resurrection",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60364_00",
+    "conceptId": 202326,
+    "name": "#KILLALLZOMBIES",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60365_00",
+    "conceptId": 202326,
+    "name": "#KILLALLZOMBIES",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -523219,7 +523275,7 @@
     "titleId": "PPSA28892_00",
     "conceptId": 10014443,
     "name": "The Slormancer",
-    "contentId": null,
+    "contentId": "EB0235-PPSA28892_00-SLORMANCER0MAIN0",
     "region": "EB",
     "publisherId": "EB0235"
   },
@@ -550656,6 +550712,22 @@
     "publisherId": "EP7385"
   },
   {
+    "titleId": "PPSA34189_00",
+    "conceptId": 10017194,
+    "name": "Let's Sing 2027",
+    "contentId": "EP4389-PPSA34189_00-LS2027INTERNSKU0",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
+    "titleId": "PPSA34190_00",
+    "conceptId": 10017194,
+    "name": "Let's Sing 2027 mit Deutschen Hits",
+    "contentId": "EP4389-PPSA34190_00-LS2027GERMANSKU0",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA34192_00",
     "conceptId": 10017458,
     "name": "Anime Uni 5",
@@ -562360,6 +562432,14 @@
     "publisherId": "HP1422"
   },
   {
+    "titleId": "PPSA36732_00",
+    "conceptId": 10018735,
+    "name": "Mystery Avatar Tiles",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA36733_00",
     "conceptId": 10018993,
     "name": "Jonah Lomu Rugby Challenge 4",
@@ -563346,8 +563426,8 @@
   {
     "titleId": "PPSA36936_00",
     "conceptId": 10019084,
-    "name": "\u30af\u30e9\u30a4\u30e0\u30e9\u30a4\u30c8\uff0fCRYMELIGHT",
-    "contentId": null,
+    "name": "CRYMELIGHT",
+    "contentId": "JP0536-PPSA36936_00-PROJECTALICE0000",
     "region": "JP",
     "publisherId": "JP0536"
   },
@@ -563355,7 +563435,7 @@
     "titleId": "PPSA36937_00",
     "conceptId": 10019084,
     "name": "CRYMELIGHT",
-    "contentId": null,
+    "contentId": "EP2640-PPSA36937_00-PROJECTALICE0000",
     "region": "EP",
     "publisherId": "EP2640"
   },
@@ -563363,7 +563443,7 @@
     "titleId": "PPSA36938_00",
     "conceptId": 10019084,
     "name": "CRYMELIGHT",
-    "contentId": null,
+    "contentId": "UP2777-PPSA36938_00-PROJECTALICE0000",
     "region": "UP",
     "publisherId": "UP2777"
   },
@@ -563578,10 +563658,10 @@
   {
     "titleId": "PPSA36979_00",
     "conceptId": 10019084,
-    "name": "CRYMELIGHT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CRYMELIGHT - Art & Sound App",
+    "contentId": "JP0536-PPSA36979_00-PJALICEDDXAPR000",
+    "region": "JP",
+    "publisherId": "JP0536"
   },
   {
     "titleId": "PPSA36980_00",
@@ -565211,7 +565291,7 @@
     "titleId": "PPSA37453_00",
     "conceptId": 10019384,
     "name": "K-Pop Rising - Dream to Shine",
-    "contentId": null,
+    "contentId": "EP4295-PPSA37453_00-KPOPRISING0PS5WW",
     "region": "EP",
     "publisherId": "EP4295"
   },
@@ -568272,6 +568352,14 @@
     "publisherId": "JP0571"
   },
   {
+    "titleId": "PPSA38498_00",
+    "conceptId": 10020008,
+    "name": "Outbreak: Dead City",
+    "contentId": "UP2005-PPSA38498_00-OUTBREAKDEADCITY",
+    "region": "UP",
+    "publisherId": "UP2005"
+  },
+  {
     "titleId": "PPSA38500_00",
     "conceptId": 10000730,
     "name": "Grand Theft Auto VI",
@@ -570320,6 +570408,14 @@
     "publisherId": "EP4902"
   },
   {
+    "titleId": "PPSA39904_00",
+    "conceptId": 10020827,
+    "name": "Hypermarket: Sort & Stock",
+    "contentId": "HB1365-PPSA39904_00-0280500716803834",
+    "region": "HB",
+    "publisherId": "HB1365"
+  },
+  {
     "titleId": "PPSA39916_00",
     "conceptId": 10020837,
     "name": "Solid Void - Halloween Nonograms",
@@ -570662,6 +570758,14 @@
     "contentId": "UB0851-PPSA40220_00-THEABJSTANDPS500",
     "region": "UB",
     "publisherId": "UB0851"
+  },
+  {
+    "titleId": "PPSA40256_00",
+    "conceptId": 10020811,
+    "name": "Bowling Alley Simulator",
+    "contentId": "UB2837-PPSA40256_00-0774418575238432",
+    "region": "UB",
+    "publisherId": "UB2837"
   },
   {
     "titleId": "PPSA40300_00",
