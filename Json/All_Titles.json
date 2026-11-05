@@ -349712,6 +349712,14 @@
     "publisherId": "EP6985"
   },
   {
+    "titleId": "CUSA54489_00",
+    "conceptId": 10015031,
+    "name": "Jaden Industries: Cozy Automation Puzzler",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA54490_00",
     "conceptId": 10015033,
     "name": "Dance On Radar",
@@ -358307,6 +358315,22 @@
     "titleId": "CUSA55677_00",
     "conceptId": 10016006,
     "name": "TRUCK SIMULATOR US DRIVER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA55678_00",
+    "conceptId": 10016007,
+    "name": "Phantom Cell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA55679_00",
+    "conceptId": 10016007,
+    "name": "Phantom Cell",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -377619,9 +377643,9 @@
     "titleId": "CUSA58503_00",
     "conceptId": 10018611,
     "name": "Hasbro Games\u2122 Junior Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP3768-CUSA58503_00-HASBROJRBASEGAME",
+    "region": "HP",
+    "publisherId": "HP3768"
   },
   {
     "titleId": "CUSA58504_00",
@@ -384608,6 +384632,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA59725_00",
+    "conceptId": 10020156,
+    "name": "Arcade Archives EXZISUS",
+    "contentId": "JP0571-CUSA59725_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "CUSA59727_00",
     "conceptId": 10020160,
     "name": "Xtreme Traffic Racing",
@@ -386290,10 +386322,10 @@
   {
     "titleId": "CUSA60116_00",
     "conceptId": 10020964,
-    "name": "The Canon Keeper PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "The Canon Keeper PS4",
+    "contentId": "HB1685-CUSA60116_00-02TCK00PS400FULL",
+    "region": "HB",
+    "publisherId": "HB1685"
   },
   {
     "titleId": "CUSA60120_00",
@@ -386419,14 +386451,22 @@
     "titleId": "CUSA60154_00",
     "conceptId": 10021088,
     "name": "Alex the Rabbit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB2875-CUSA60154_00-0246261262413453",
+    "region": "HB",
+    "publisherId": "HB2875"
   },
   {
     "titleId": "CUSA60159_00",
     "conceptId": 10021112,
     "name": "Infinitevania",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60160_00",
+    "conceptId": 10021113,
+    "name": "LarsGadiel",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -386784,6 +386824,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60306_00",
+    "conceptId": 10021345,
+    "name": "ELO 1100 Chess",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60307_00",
     "conceptId": 10021248,
     "name": "Smartopus: IQ Quest",
@@ -386856,9 +386904,25 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60353_00",
+    "conceptId": 10007678,
+    "name": "Sweet Sugar Candy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60355_00",
     "conceptId": 10019285,
     "name": "Turnip Mountain",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60356_00",
+    "conceptId": 10021438,
+    "name": "Chaos Mini Racer",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -405806,6 +405870,14 @@
     "contentId": "UP4064-PPSA05214_00-0984199900323554",
     "region": "UP",
     "publisherId": "UP4064"
+  },
+  {
+    "titleId": "PPSA05215_00",
+    "conceptId": 10003779,
+    "name": "Fallen City Brawl",
+    "contentId": "UP2005-PPSA05215_00-FALLENCITYBRAWL0",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA05219_00",
@@ -548496,6 +548568,14 @@
     "publisherId": "JB1686"
   },
   {
+    "titleId": "PPSA33676_00",
+    "conceptId": 10016673,
+    "name": "Zero Parades: Director's Cut",
+    "contentId": "UP6758-PPSA33676_00-6401393671841115",
+    "region": "UP",
+    "publisherId": "UP6758"
+  },
+  {
     "titleId": "PPSA33681_00",
     "conceptId": 10017154,
     "name": "Sokmeal Time",
@@ -550728,6 +550808,14 @@
     "publisherId": "EP4389"
   },
   {
+    "titleId": "PPSA34191_00",
+    "conceptId": 10017194,
+    "name": "Let's Sing 2027 - Hits Fran\u00e7ais et internationaux",
+    "contentId": "EP4389-PPSA34191_00-LS2027FRENCHSKU0",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA34192_00",
     "conceptId": 10017458,
     "name": "Anime Uni 5",
@@ -552380,6 +552468,14 @@
     "conceptId": 10017643,
     "name": "Cryptical Path",
     "contentId": "EP0782-PPSA34487_00-CRYPTP0000000771",
+    "region": "EP",
+    "publisherId": "EP0782"
+  },
+  {
+    "titleId": "PPSA34488_00",
+    "conceptId": 10017644,
+    "name": "We Are Eva",
+    "contentId": "EP0782-PPSA34488_00-0006271379144542",
     "region": "EP",
     "publisherId": "EP0782"
   },
@@ -555395,7 +555491,7 @@
     "titleId": "PPSA35020_00",
     "conceptId": 10017961,
     "name": "Kingdom of Night",
-    "contentId": null,
+    "contentId": "JP4108-PPSA35020_00-KONGLOBAL0000000",
     "region": "JP",
     "publisherId": "JP4108"
   },
@@ -556406,6 +556502,14 @@
     "contentId": "HB2151-PPSA35236_00-0408432343088087",
     "region": "HB",
     "publisherId": "HB2151"
+  },
+  {
+    "titleId": "PPSA35245_00",
+    "conceptId": 10018112,
+    "name": "Godzilla: Destroy All Monsters Melee Remastered",
+    "contentId": "UP0182-PPSA35245_00-AAAAAAAAAAATOMIC",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA35247_00",
@@ -557776,6 +557880,14 @@
     "publisherId": "HB2235"
   },
   {
+    "titleId": "PPSA35605_00",
+    "conceptId": 10018345,
+    "name": "House Builder 2",
+    "contentId": "UP8381-PPSA35605_00-000HOUSEBUILDER2",
+    "region": "UP",
+    "publisherId": "UP8381"
+  },
+  {
     "titleId": "PPSA35606_00",
     "conceptId": 10018346,
     "name": "Happy Ball Rush",
@@ -558478,6 +558590,14 @@
     "contentId": "EP1672-PPSA35789_00-SHAPEOFDREAMS000",
     "region": "EP",
     "publisherId": "EP1672"
+  },
+  {
+    "titleId": "PPSA35790_00",
+    "conceptId": 10018442,
+    "name": "Solo_Leveling_ARISE_OVERDRIVE",
+    "contentId": "JP6347-PPSA35790_00-0987547802872025",
+    "region": "JP",
+    "publisherId": "JP6347"
   },
   {
     "titleId": "PPSA35792_00",
@@ -561560,6 +561680,14 @@
     "publisherId": "EP7107"
   },
   {
+    "titleId": "PPSA36488_00",
+    "conceptId": 10018837,
+    "name": "Worship",
+    "contentId": "EP6689-PPSA36488_00-0421608794881735",
+    "region": "EP",
+    "publisherId": "EP6689"
+  },
+  {
     "titleId": "PPSA36490_00",
     "conceptId": 10018860,
     "name": "4PGP",
@@ -563198,6 +563326,14 @@
     "contentId": "HP8406-PPSA36869_00-NIUMOTYRPS5GLOBA",
     "region": "HP",
     "publisherId": "HP8406"
+  },
+  {
+    "titleId": "PPSA36875_00",
+    "conceptId": 10019055,
+    "name": "Pit of Goblin",
+    "contentId": "UP8430-PPSA36875_00-0702711683891217",
+    "region": "UP",
+    "publisherId": "UP8430"
   },
   {
     "titleId": "PPSA36881_00",
@@ -566200,6 +566336,14 @@
     "publisherId": "UB0337"
   },
   {
+    "titleId": "PPSA37691_00",
+    "conceptId": 10019536,
+    "name": "Zero Caliber 2",
+    "contentId": "EP3886-PPSA37691_00-0508483614886981",
+    "region": "EP",
+    "publisherId": "EP3886"
+  },
+  {
     "titleId": "PPSA37694_00",
     "conceptId": 10019538,
     "name": "Cozy Basket",
@@ -567082,10 +567226,10 @@
   {
     "titleId": "PPSA37955_00",
     "conceptId": 10019084,
-    "name": "CRYMELIGHT",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "CRYMELIGHT - Art & Sound App",
+    "contentId": "HP5846-PPSA37955_00-PJALICEDDXAPR000",
+    "region": "HP",
+    "publisherId": "HP5846"
   },
   {
     "titleId": "PPSA37957_00",
@@ -567460,6 +567604,14 @@
     "conceptId": 10019773,
     "name": "Console Archives MARL JONG",
     "contentId": "JP0571-PPSA38097_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA38099_00",
+    "conceptId": 10019775,
+    "name": "Console Archives ELEVATOR ACTION",
+    "contentId": "JP0571-PPSA38099_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
   },
@@ -568144,6 +568296,14 @@
     "publisherId": "JB1963"
   },
   {
+    "titleId": "PPSA38386_00",
+    "conceptId": 10019949,
+    "name": "Cat-Astrophy",
+    "contentId": "JB0500-PPSA38386_00-0323824786979852",
+    "region": "JB",
+    "publisherId": "JB0500"
+  },
+  {
     "titleId": "PPSA38409_00",
     "conceptId": 10019954,
     "name": "Sudoku : Master League",
@@ -568656,6 +568816,14 @@
     "publisherId": "HP5846"
   },
   {
+    "titleId": "PPSA38683_00",
+    "conceptId": 10020125,
+    "name": "Cleaning Simulator",
+    "contentId": "JP7332-PPSA38683_00-CLEANSIMULATOR00",
+    "region": "JP",
+    "publisherId": "JP7332"
+  },
+  {
     "titleId": "PPSA38685_00",
     "conceptId": 10020127,
     "name": "\u30ed\u30b9\u30c8\u30fb\u30e9\u30f3\u30c9\u30fb1\uff1a\u6697\u9ed2\u306e\u5927\u541b\u4e3b CE",
@@ -568726,6 +568894,14 @@
     "contentId": "JP0536-PPSA38737_00-PJALICEDEM000000",
     "region": "JP",
     "publisherId": "JP0536"
+  },
+  {
+    "titleId": "PPSA38742_00",
+    "conceptId": 10020156,
+    "name": "Arcade Archives 2 EXZISUS",
+    "contentId": "JP0571-PPSA38742_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA38745_00",
@@ -568822,6 +568998,14 @@
     "contentId": "UB1110-PPSA38783_00-0978344353456447",
     "region": "UB",
     "publisherId": "UB1110"
+  },
+  {
+    "titleId": "PPSA38787_00",
+    "conceptId": 10020167,
+    "name": "TheRevenant",
+    "contentId": "UP0287-PPSA38787_00-REVENANT00000001",
+    "region": "UP",
+    "publisherId": "UP0287"
   },
   {
     "titleId": "PPSA38789_00",
@@ -569116,6 +569300,14 @@
     "conceptId": 10020225,
     "name": "Arcade Archives 2 SWIMMER",
     "contentId": "JP0571-PPSA38876_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA38877_00",
+    "conceptId": 10020226,
+    "name": "Arcade Archives 2 ELEVATOR ACTION",
+    "contentId": "JP0571-PPSA38877_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
   },
@@ -569888,6 +570080,14 @@
     "publisherId": "EP0415"
   },
   {
+    "titleId": "PPSA39384_00",
+    "conceptId": 10019729,
+    "name": "Where the Seeds Fall Demo",
+    "contentId": "JP0178-PPSA39384_00-WTSFALLDEMO00001",
+    "region": "JP",
+    "publisherId": "JP0178"
+  },
+  {
     "titleId": "PPSA39386_00",
     "conceptId": 10019110,
     "name": "STAGE TOUR",
@@ -569974,6 +570174,14 @@
     "contentId": "EB1284-PPSA39435_00-0408998828516051",
     "region": "EB",
     "publisherId": "EB1284"
+  },
+  {
+    "titleId": "PPSA39440_00",
+    "conceptId": 10019377,
+    "name": "\u30ea\u30dc\u30eb\u30c8",
+    "contentId": "HP5035-PPSA39440_00-REVOLTREMASTERED",
+    "region": "HP",
+    "publisherId": "HP5035"
   },
   {
     "titleId": "PPSA39443_00",
@@ -570078,6 +570286,30 @@
     "contentId": "UB0190-PPSA39493_00-0899724135533939",
     "region": "UB",
     "publisherId": "UB0190"
+  },
+  {
+    "titleId": "PPSA39539_00",
+    "conceptId": 10019729,
+    "name": "Where the Seeds Fall",
+    "contentId": "EP5641-PPSA39539_00-WTSFALL000000001",
+    "region": "EP",
+    "publisherId": "EP5641"
+  },
+  {
+    "titleId": "PPSA39540_00",
+    "conceptId": 10019729,
+    "name": "Where the Seeds Fall",
+    "contentId": "HP8902-PPSA39540_00-WTSFALL000000001",
+    "region": "HP",
+    "publisherId": "HP8902"
+  },
+  {
+    "titleId": "PPSA39544_00",
+    "conceptId": 10019729,
+    "name": "Where the Seeds Fall Demo",
+    "contentId": "EP5641-PPSA39544_00-WTSFALLDEMO00001",
+    "region": "EP",
+    "publisherId": "EP5641"
   },
   {
     "titleId": "PPSA39552_00",
@@ -570326,6 +570558,14 @@
     "contentId": "EP5265-PPSA39844_00-0947859194691726",
     "region": "EP",
     "publisherId": "EP5265"
+  },
+  {
+    "titleId": "PPSA39847_00",
+    "conceptId": 10020778,
+    "name": "LightQb",
+    "contentId": "EP6668-PPSA39847_00-0163837891838047",
+    "region": "EP",
+    "publisherId": "EP6668"
   },
   {
     "titleId": "PPSA39848_00",
@@ -570720,6 +570960,14 @@
     "publisherId": "EP6880"
   },
   {
+    "titleId": "PPSA40168_00",
+    "conceptId": 10021010,
+    "name": "Helion Conflict",
+    "contentId": "JB1947-PPSA40168_00-0808073381226026",
+    "region": "JB",
+    "publisherId": "JB1947"
+  },
+  {
     "titleId": "PPSA40171_00",
     "conceptId": 10021012,
     "name": "Death Park",
@@ -570744,6 +570992,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA40207_00",
+    "conceptId": 10019084,
+    "name": "CRYMELIGHT Demo",
+    "contentId": "HP5846-PPSA40207_00-PJALICEDEM000000",
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA40214_00",
     "conceptId": 10021033,
     "name": "Pictaku: Halloween",
@@ -570766,6 +571022,22 @@
     "contentId": "UB2837-PPSA40256_00-0774418575238432",
     "region": "UB",
     "publisherId": "UB2837"
+  },
+  {
+    "titleId": "PPSA40280_00",
+    "conceptId": 10021087,
+    "name": "Old Market Restored",
+    "contentId": "UB2123-PPSA40280_00-0549030393082695",
+    "region": "UB",
+    "publisherId": "UB2123"
+  },
+  {
+    "titleId": "PPSA40283_00",
+    "conceptId": 10021088,
+    "name": "Alex the Rabbit",
+    "contentId": "HB2875-PPSA40283_00-0950221017325283",
+    "region": "HB",
+    "publisherId": "HB2875"
   },
   {
     "titleId": "PPSA40300_00",

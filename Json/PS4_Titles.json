@@ -480854,6 +480854,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA54489_00",
+    "conceptId": 10015031,
+    "name": "Jaden Industries: Cozy Automation Puzzler",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA54490_00",
     "conceptId": 10015033,
     "name": "Dance On Radar",
@@ -492671,6 +492682,28 @@
     "titleId": "CUSA55677_00",
     "conceptId": 10016006,
     "name": "TRUCK SIMULATOR US DRIVER",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA55678_00",
+    "conceptId": 10016007,
+    "name": "Phantom Cell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA55679_00",
+    "conceptId": 10016007,
+    "name": "Phantom Cell",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -519225,12 +519258,12 @@
     "titleId": "CUSA58503_00",
     "conceptId": 10018611,
     "name": "Hasbro Games\u2122 Junior Collection",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP3768-CUSA58503_00-HASBROJRBASEGAME",
+    "region": "HP",
+    "publisherId": "HP3768",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58504_00",
@@ -526632,7 +526665,7 @@
     "region": "EP",
     "publisherId": "EP0896",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -528834,6 +528867,17 @@
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59725_00",
+    "conceptId": 10020156,
+    "name": "Arcade Archives EXZISUS",
+    "contentId": "JP0571-CUSA59725_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59727_00",
@@ -531148,13 +531192,13 @@
   {
     "titleId": "CUSA60116_00",
     "conceptId": 10020964,
-    "name": "The Canon Keeper PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "The Canon Keeper PS4",
+    "contentId": "HB1685-CUSA60116_00-02TCK00PS400FULL",
+    "region": "HB",
+    "publisherId": "HB1685",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60120_00",
@@ -531325,6 +531369,17 @@
     "titleId": "CUSA60154_00",
     "conceptId": 10021088,
     "name": "Alex the Rabbit",
+    "contentId": "HB2875-CUSA60154_00-0246261262413453",
+    "region": "HB",
+    "publisherId": "HB2875",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60159_00",
+    "conceptId": 10021112,
+    "name": "Infinitevania",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -531333,9 +531388,9 @@
     "pS5BackCompat": null
   },
   {
-    "titleId": "CUSA60159_00",
-    "conceptId": 10021112,
-    "name": "Infinitevania",
+    "titleId": "CUSA60160_00",
+    "conceptId": 10021113,
+    "name": "LarsGadiel",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -531828,6 +531883,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60306_00",
+    "conceptId": 10021345,
+    "name": "ELO 1100 Chess",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60307_00",
     "conceptId": 10021248,
     "name": "Smartopus: IQ Quest",
@@ -531927,9 +531993,31 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60353_00",
+    "conceptId": 10007678,
+    "name": "Sweet Sugar Candy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60355_00",
     "conceptId": 10019285,
     "name": "Turnip Mountain",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60356_00",
+    "conceptId": 10021438,
+    "name": "Chaos Mini Racer",
     "contentId": null,
     "region": null,
     "publisherId": null,
