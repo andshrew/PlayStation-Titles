@@ -358215,6 +358215,28 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA41470_00",
+    "conceptId": 10007678,
+    "name": "Sweet Sugar Candy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA41471_00",
+    "conceptId": 10007678,
+    "name": "Sweet Sugar Candy",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA41472_00",
     "conceptId": 10007679,
     "name": "Insurmountable",
@@ -522192,6 +522214,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA58827_00",
+    "conceptId": 10018848,
+    "name": "Japanese Rural Life Adventure",
+    "contentId": "JP4932-CUSA58827_00-0000000000000000",
+    "region": "JP",
+    "publisherId": "JP4932",
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58828_00",
     "conceptId": 10018994,
     "name": "Crypt Carnage",
@@ -528509,12 +528542,12 @@
     "titleId": "CUSA59671_00",
     "conceptId": 10020053,
     "name": "Shelterra the Skyworld",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JP0013-CUSA59671_00-JP0SHELTERRA0PS4",
+    "region": "JP",
+    "publisherId": "JP0013",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59673_00",
@@ -530233,6 +530266,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59949_00",
+    "conceptId": 10020582,
+    "name": "Geo Book",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59950_00",
     "conceptId": 10020352,
     "name": "Fix&Flip Dream House",
@@ -530246,13 +530290,13 @@
   {
     "titleId": "CUSA59954_00",
     "conceptId": 10020330,
-    "name": "Don Bradman Cricket JR",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Don Bradman Cricket Jr",
+    "contentId": "UP1280-CUSA59954_00-0335564951696992",
+    "region": "UP",
+    "publisherId": "UP1280",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59955_00",
@@ -531597,6 +531641,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60202_00",
+    "conceptId": 10021201,
+    "name": "Cat Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60203_00",
     "conceptId": 10021202,
     "name": "Gravity Switch",
@@ -531765,6 +531820,17 @@
     "titleId": "CUSA60226_00",
     "conceptId": 10021274,
     "name": "Beacon Keeper",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60227_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
     "contentId": null,
     "region": null,
     "publisherId": null,
