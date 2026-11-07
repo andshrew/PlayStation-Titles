@@ -423643,6 +423643,39 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA48731_00",
+    "conceptId": 10010758,
+    "name": "DPS IDLE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA48732_00",
+    "conceptId": 10010758,
+    "name": "DPS IDLE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA48733_00",
+    "conceptId": 10010758,
+    "name": "DPS IDLE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA48734_00",
     "conceptId": 10010899,
     "name": "Upin & Ipin Universe",
@@ -512999,11 +513032,11 @@
     "titleId": "CUSA57767_00",
     "conceptId": 10012744,
     "name": "God of War Sons of Sparta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP9000-CUSA57767_00-SONSOFSPARTAPS40",
+    "region": "UP",
+    "publisherId": "UP9000",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": null
   },
   {
@@ -519365,6 +519398,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA58511_00",
+    "conceptId": 10017950,
+    "name": "Buy The Game, I Have a Gun 2: Online Open World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA58512_00",
     "conceptId": 10018625,
     "name": "Arcade Archives Mr.Do!",
@@ -522222,7 +522266,7 @@
     "publisherId": "JP4932",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58828_00",
@@ -530295,7 +530339,7 @@
     "region": "UP",
     "publisherId": "UP1280",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -530775,12 +530819,12 @@
     "titleId": "CUSA60037_00",
     "conceptId": 10019576,
     "name": "Winx Club - Moonlight Quest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP8021-CUSA60037_00-WINXCLUBMOONQPS4",
+    "region": "EP",
+    "publisherId": "EP8021",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60039_00",
@@ -531039,6 +531083,17 @@
     "titleId": "CUSA60080_00",
     "conceptId": 10012758,
     "name": "Memories Off 6 Next Relation",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60081_00",
+    "conceptId": 10020895,
+    "name": "Hidden Doodles: Medieval Town",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -531542,6 +531597,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60186_00",
+    "conceptId": 10010758,
+    "name": "DPS IDLE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60189_00",
     "conceptId": 10021183,
     "name": "Pepper the Giant Purple Dog",
@@ -531839,6 +531905,39 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60228_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60229_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60230_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": "HP7989-CUSA60230_00-0294952193727571",
+    "region": "HP",
+    "publisherId": "HP7989",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA60269_00",
     "conceptId": 10021296,
     "name": "Kitties Solitaire",
@@ -532037,6 +532136,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60335_00",
+    "conceptId": 10021397,
+    "name": "Nefiriya and the Sands of Eternity",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60339_00",
     "conceptId": 10021402,
     "name": "Silent Loot",
@@ -532139,6 +532249,28 @@
     "titleId": "CUSA60365_00",
     "conceptId": 202326,
     "name": "#KILLALLZOMBIES",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60382_00",
+    "conceptId": 10015166,
+    "name": "\u30cf\u30c3\u30d4\u30fc\u30eb\u30fc\u30c8\u3092\u7d42\u308f\u3089\u305b\u3066",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60383_00",
+    "conceptId": 10021506,
+    "name": "Prizma Puzzle Classic 3",
     "contentId": null,
     "region": null,
     "publisherId": null,
