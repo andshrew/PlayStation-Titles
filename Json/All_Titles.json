@@ -385672,6 +385672,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "CUSA59943_00",
+    "conceptId": 10007251,
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "contentId": "EP8472-CUSA59943_00-0085447008624868",
+    "region": "EP",
+    "publisherId": "EP8472"
+  },
+  {
     "titleId": "CUSA59948_00",
     "conceptId": 10020465,
     "name": "What Do You Meme?\u00ae The Video Game",
@@ -386539,9 +386547,9 @@
     "titleId": "CUSA60160_00",
     "conceptId": 10021113,
     "name": "LarsGadiel",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP1762-CUSA60160_00-LARSGADIELPS4000",
+    "region": "EP",
+    "publisherId": "EP1762"
   },
   {
     "titleId": "CUSA60162_00",
@@ -386864,6 +386872,38 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "CUSA60239_00",
+    "conceptId": 10021278,
+    "name": "Snowball Sumo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60240_00",
+    "conceptId": 10021278,
+    "name": "Snowball Sumo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60241_00",
+    "conceptId": 10021278,
+    "name": "Snowball Sumo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60242_00",
+    "conceptId": 10021278,
+    "name": "Snowball Sumo",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60269_00",
     "conceptId": 10021296,
     "name": "Kitties Solitaire",
@@ -386978,10 +387018,10 @@
   {
     "titleId": "CUSA60311_00",
     "conceptId": 10021352,
-    "name": "Checkers MASTER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Checkers Master",
+    "contentId": "UP7552-CUSA60311_00-0981543068838284",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "CUSA60314_00",
@@ -387051,9 +387091,9 @@
     "titleId": "CUSA60356_00",
     "conceptId": 10021438,
     "name": "Chaos Mini Racer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-CUSA60356_00-0916932937118725",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "CUSA60359_00",
@@ -387107,6 +387147,14 @@
     "titleId": "CUSA60383_00",
     "conceptId": 10021506,
     "name": "Prizma Puzzle Classic 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60390_00",
+    "conceptId": 10021194,
+    "name": "Mystery Suspect",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -516160,6 +516208,14 @@
     "publisherId": "HP0980"
   },
   {
+    "titleId": "PPSA27564_00",
+    "conceptId": 10013485,
+    "name": "LIGHT:Black Cat & Amnesia Girl",
+    "contentId": "UP0837-PPSA27564_00-0872887840631803",
+    "region": "UP",
+    "publisherId": "UP0837"
+  },
+  {
     "titleId": "PPSA27565_00",
     "conceptId": 10013485,
     "name": "LIGHT:Black Cat & Amnesia Girl",
@@ -570512,6 +570568,14 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA39446_00",
+    "conceptId": 10020575,
+    "name": "Ice Cream Simulator",
+    "contentId": "UP1564-PPSA39446_00-0022773984007414",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA39454_00",
     "conceptId": 10020580,
     "name": "The Transference",
@@ -571536,6 +571600,22 @@
     "publisherId": "UB0786"
   },
   {
+    "titleId": "PPSA40558_00",
+    "conceptId": 10021272,
+    "name": "Peak the Hills",
+    "contentId": "UB0111-PPSA40558_00-0807555000877106",
+    "region": "UB",
+    "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40601_00",
+    "conceptId": 10021287,
+    "name": "One Button Arcade",
+    "contentId": "UB0786-PPSA40601_00-0102045163637250",
+    "region": "UB",
+    "publisherId": "UB0786"
+  },
+  {
     "titleId": "PPSA40613_00",
     "conceptId": 10021296,
     "name": "Kitties Solitaire",
@@ -571563,8 +571643,8 @@
     "titleId": "PPSA40694_00",
     "conceptId": 10021352,
     "name": "Checkers MASTER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-PPSA40694_00-0650106763855781",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]

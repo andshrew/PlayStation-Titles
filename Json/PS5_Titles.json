@@ -128912,6 +128912,14 @@
     "publisherId": "HP0980"
   },
   {
+    "titleId": "PPSA27564_00",
+    "conceptId": 10013485,
+    "name": "LIGHT:Black Cat & Amnesia Girl",
+    "contentId": "UP0837-PPSA27564_00-0872887840631803",
+    "region": "UP",
+    "publisherId": "UP0837"
+  },
+  {
     "titleId": "PPSA27565_00",
     "conceptId": 10013485,
     "name": "LIGHT:Black Cat & Amnesia Girl",
@@ -183264,6 +183272,14 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA39446_00",
+    "conceptId": 10020575,
+    "name": "Ice Cream Simulator",
+    "contentId": "UP1564-PPSA39446_00-0022773984007414",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
     "titleId": "PPSA39454_00",
     "conceptId": 10020580,
     "name": "The Transference",
@@ -184288,6 +184304,22 @@
     "publisherId": "UB0786"
   },
   {
+    "titleId": "PPSA40558_00",
+    "conceptId": 10021272,
+    "name": "Peak the Hills",
+    "contentId": "UB0111-PPSA40558_00-0807555000877106",
+    "region": "UB",
+    "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40601_00",
+    "conceptId": 10021287,
+    "name": "One Button Arcade",
+    "contentId": "UB0786-PPSA40601_00-0102045163637250",
+    "region": "UB",
+    "publisherId": "UB0786"
+  },
+  {
     "titleId": "PPSA40613_00",
     "conceptId": 10021296,
     "name": "Kitties Solitaire",
@@ -184315,8 +184347,8 @@
     "titleId": "PPSA40694_00",
     "conceptId": 10021352,
     "name": "Checkers MASTER",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7552-PPSA40694_00-0650106763855781",
+    "region": "UP",
+    "publisherId": "UP7552"
   }
 ]
