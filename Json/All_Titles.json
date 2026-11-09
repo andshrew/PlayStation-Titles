@@ -385672,12 +385672,36 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "CUSA59942_00",
+    "conceptId": 10007251,
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "contentId": "UP8281-CUSA59942_00-0060490712250203",
+    "region": "UP",
+    "publisherId": "UP8281"
+  },
+  {
     "titleId": "CUSA59943_00",
     "conceptId": 10007251,
     "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
     "contentId": "EP8472-CUSA59943_00-0085447008624868",
     "region": "EP",
     "publisherId": "EP8472"
+  },
+  {
+    "titleId": "CUSA59944_00",
+    "conceptId": 10007251,
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "contentId": "JP8187-CUSA59944_00-0673613261575283",
+    "region": "JP",
+    "publisherId": "JP8187"
+  },
+  {
+    "titleId": "CUSA59945_00",
+    "conceptId": 10007251,
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "contentId": "HP8232-CUSA59945_00-0549329628561121",
+    "region": "HP",
+    "publisherId": "HP8232"
   },
   {
     "titleId": "CUSA59948_00",
@@ -386368,6 +386392,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60110_00",
+    "conceptId": 10020959,
+    "name": "Calculus of Rot",
+    "contentId": "UB0851-CUSA60110_00-CALCULUSOFROTPS4",
+    "region": "UB",
+    "publisherId": "UB0851"
+  },
+  {
     "titleId": "CUSA60111_00",
     "conceptId": 10020960,
     "name": "Ex-Master, Zombie",
@@ -387040,12 +387072,28 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60324_00",
+    "conceptId": 10021370,
+    "name": "Zomblox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60332_00",
     "conceptId": 10020684,
     "name": "The Smiling Flesh",
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "CUSA60333_00",
+    "conceptId": 10021395,
+    "name": "Relaywardens",
+    "contentId": "UB0851-CUSA60333_00-RELAYWARDENSPS40",
+    "region": "UB",
+    "publisherId": "UB0851"
   },
   {
     "titleId": "CUSA60335_00",
@@ -536435,7 +536483,7 @@
     "titleId": "PPSA31341_00",
     "conceptId": 10015844,
     "name": "Shrek 2 Remastered",
-    "contentId": null,
+    "contentId": "EP1875-PPSA31341_00-SHREK2REMASTERED",
     "region": "EP",
     "publisherId": "EP1875"
   },
@@ -564230,6 +564278,14 @@
     "contentId": "UP0770-PPSA37008_00-0476671531785738",
     "region": "UP",
     "publisherId": "UP0770"
+  },
+  {
+    "titleId": "PPSA37010_00",
+    "conceptId": 10019113,
+    "name": "Atelier Karia: The Night Kingdom & the Guide of Memories",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA37012_00",

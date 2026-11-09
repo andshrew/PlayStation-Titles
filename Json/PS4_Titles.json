@@ -530299,12 +530299,45 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59942_00",
+    "conceptId": 10007251,
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "contentId": "UP8281-CUSA59942_00-0060490712250203",
+    "region": "UP",
+    "publisherId": "UP8281",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59943_00",
     "conceptId": 10007251,
     "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
     "contentId": "EP8472-CUSA59943_00-0085447008624868",
     "region": "EP",
     "publisherId": "EP8472",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59944_00",
+    "conceptId": 10007251,
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "contentId": "JP8187-CUSA59944_00-0673613261575283",
+    "region": "JP",
+    "publisherId": "JP8187",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA59945_00",
+    "conceptId": 10007251,
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "contentId": "HP8232-CUSA59945_00-0549329628561121",
+    "region": "HP",
+    "publisherId": "HP8232",
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
@@ -531256,6 +531289,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60110_00",
+    "conceptId": 10020959,
+    "name": "Calculus of Rot",
+    "contentId": "UB0851-CUSA60110_00-CALCULUSOFROTPS4",
+    "region": "UB",
+    "publisherId": "UB0851",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA60111_00",
     "conceptId": 10020960,
     "name": "Ex-Master, Zombie",
@@ -532180,6 +532224,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60324_00",
+    "conceptId": 10021370,
+    "name": "Zomblox",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60332_00",
     "conceptId": 10020684,
     "name": "The Smiling Flesh",
@@ -532189,6 +532244,17 @@
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60333_00",
+    "conceptId": 10021395,
+    "name": "Relaywardens",
+    "contentId": "UB0851-CUSA60333_00-RELAYWARDENSPS40",
+    "region": "UB",
+    "publisherId": "UB0851",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60335_00",
