@@ -386786,10 +386786,10 @@
   {
     "titleId": "CUSA60213_00",
     "conceptId": 10021234,
-    "name": "Super Astro Cat PS4 & PS5",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Super Astro Cat",
+    "contentId": "HB1620-CUSA60213_00-0670104864089839",
+    "region": "HB",
+    "publisherId": "HB1620"
   },
   {
     "titleId": "CUSA60215_00",
@@ -386936,6 +386936,22 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60263_00",
+    "conceptId": 10021288,
+    "name": "Savoury Cascade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60264_00",
+    "conceptId": 10021288,
+    "name": "Savoury Cascade",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60269_00",
     "conceptId": 10021296,
     "name": "Kitties Solitaire",
@@ -386963,6 +386979,14 @@
     "titleId": "CUSA60295_00",
     "conceptId": 10021328,
     "name": "Sort The Bunnies",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60297_00",
+    "conceptId": 10021332,
+    "name": "Cats with Guns",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -387075,9 +387099,9 @@
     "titleId": "CUSA60324_00",
     "conceptId": 10021370,
     "name": "Zomblox",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP5441-CUSA60324_00-0222452840828882",
+    "region": "JP",
+    "publisherId": "JP5441"
   },
   {
     "titleId": "CUSA60332_00",
@@ -387184,6 +387208,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60370_00",
+    "conceptId": 10021484,
+    "name": "Lizard Lady vs the Aliens",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60382_00",
     "conceptId": 10015166,
     "name": "\u30cf\u30c3\u30d4\u30fc\u30eb\u30fc\u30c8\u3092\u7d42\u308f\u3089\u305b\u3066",
@@ -387203,6 +387235,22 @@
     "titleId": "CUSA60390_00",
     "conceptId": 10021194,
     "name": "Mystery Suspect",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60398_00",
+    "conceptId": 10015623,
+    "name": "Junkyard Builder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60403_00",
+    "conceptId": 10018501,
+    "name": "Verho - Curse of Faces",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -534760,6 +534808,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA31025_00",
+    "conceptId": 10015654,
+    "name": "Unpetrified",
+    "contentId": "EP3945-PPSA31025_00-UNPETRIFIED00000",
+    "region": "EP",
+    "publisherId": "EP3945"
+  },
+  {
     "titleId": "PPSA31026_00",
     "conceptId": 10015655,
     "name": "Puzzle Piecer: The Sky Above",
@@ -564284,8 +564340,8 @@
     "conceptId": 10019113,
     "name": "Atelier Karia: The Night Kingdom & the Guide of Memories",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA37012_00",
@@ -567166,6 +567222,14 @@
     "contentId": "UP2005-PPSA37826_00-BLASTNBOUNTY0000",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA37833_00",
+    "conceptId": 10019621,
+    "name": "Hozy",
+    "contentId": "UP0097-PPSA37833_00-HOZYCOZYGAME0000",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA37834_00",
@@ -571638,6 +571702,14 @@
     "contentId": "UB0111-PPSA40469_00-0287063787345457",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40507_00",
+    "conceptId": 10021234,
+    "name": "Super Astro Cat",
+    "contentId": "HB1620-PPSA40507_00-0799155785718834",
+    "region": "HB",
+    "publisherId": "HB1620"
   },
   {
     "titleId": "PPSA40510_00",

@@ -147416,6 +147416,14 @@
     "publisherId": "HP6661"
   },
   {
+    "titleId": "PPSA31025_00",
+    "conceptId": 10015654,
+    "name": "Unpetrified",
+    "contentId": "EP3945-PPSA31025_00-UNPETRIFIED00000",
+    "region": "EP",
+    "publisherId": "EP3945"
+  },
+  {
     "titleId": "PPSA31026_00",
     "conceptId": 10015655,
     "name": "Puzzle Piecer: The Sky Above",
@@ -176940,8 +176948,8 @@
     "conceptId": 10019113,
     "name": "Atelier Karia: The Night Kingdom & the Guide of Memories",
     "contentId": null,
-    "region": null,
-    "publisherId": null
+    "region": "JP",
+    "publisherId": "JP0106"
   },
   {
     "titleId": "PPSA37012_00",
@@ -179822,6 +179830,14 @@
     "contentId": "UP2005-PPSA37826_00-BLASTNBOUNTY0000",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA37833_00",
+    "conceptId": 10019621,
+    "name": "Hozy",
+    "contentId": "UP0097-PPSA37833_00-HOZYCOZYGAME0000",
+    "region": "UP",
+    "publisherId": "UP0097"
   },
   {
     "titleId": "PPSA37834_00",
@@ -184294,6 +184310,14 @@
     "contentId": "UB0111-PPSA40469_00-0287063787345457",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40507_00",
+    "conceptId": 10021234,
+    "name": "Super Astro Cat",
+    "contentId": "HB1620-PPSA40507_00-0799155785718834",
+    "region": "HB",
+    "publisherId": "HB1620"
   },
   {
     "titleId": "PPSA40510_00",
