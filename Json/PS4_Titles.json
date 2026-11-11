@@ -467236,6 +467236,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA53133_00",
+    "conceptId": 10013858,
+    "name": "Soul Reaver 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA53134_00",
     "conceptId": 10013810,
     "name": "Goblin Slayer",
@@ -527439,6 +527450,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59481_00",
+    "conceptId": 10019763,
+    "name": "Dancin' Divas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59483_00",
     "conceptId": 10014011,
     "name": "ChainStaff",
@@ -527662,23 +527684,23 @@
     "titleId": "CUSA59505_00",
     "conceptId": 10019799,
     "name": "TANUKI: Pon's Summer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP7173-CUSA59505_00-0029066150643543",
+    "region": "EP",
+    "publisherId": "EP7173",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59506_00",
     "conceptId": 10019799,
     "name": "TANUKI: Pon's Summer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7176-CUSA59506_00-0599729060175161",
+    "region": "UP",
+    "publisherId": "UP7176",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59507_00",
@@ -531765,12 +531787,12 @@
     "titleId": "CUSA60202_00",
     "conceptId": 10021201,
     "name": "Cat Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HB2226-CUSA60202_00-0570405585824885",
+    "region": "HB",
+    "publisherId": "HB2226",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60203_00",
@@ -531897,12 +531919,12 @@
     "titleId": "CUSA60222_00",
     "conceptId": 10021272,
     "name": "Peak the Hills",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0111-CUSA60222_00-0859387207135402",
+    "region": "UB",
+    "publisherId": "UB0111",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60223_00",
@@ -532215,13 +532237,13 @@
   {
     "titleId": "CUSA60309_00",
     "conceptId": 10021073,
-    "name": "Good President Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "GOOD PRESIDENT SIMULATOR",
+    "contentId": "UB1503-CUSA60309_00-0435698519224653",
+    "region": "UB",
+    "publisherId": "UB1503",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60311_00",
@@ -532265,7 +532287,7 @@
     "publisherId": "JP5441",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60332_00",
@@ -532466,9 +532488,42 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60401_00",
+    "conceptId": 10001307,
+    "name": "RETROMANIA WRESTLING",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60403_00",
     "conceptId": 10018501,
     "name": "Verho - Curse of Faces",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60406_00",
+    "conceptId": 10009972,
+    "name": "Kaptain Brawe: A Brawe New World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60407_00",
+    "conceptId": 10009948,
+    "name": "Aquapark io",
     "contentId": null,
     "region": null,
     "publisherId": null,

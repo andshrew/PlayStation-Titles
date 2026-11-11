@@ -339808,6 +339808,14 @@
     "publisherId": "EP1470"
   },
   {
+    "titleId": "CUSA53133_00",
+    "conceptId": 10013858,
+    "name": "Soul Reaver 2",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA53134_00",
     "conceptId": 10013810,
     "name": "Goblin Slayer",
@@ -383592,6 +383600,14 @@
     "publisherId": "EP7345"
   },
   {
+    "titleId": "CUSA59481_00",
+    "conceptId": 10019763,
+    "name": "Dancin' Divas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59483_00",
     "conceptId": 10014011,
     "name": "ChainStaff",
@@ -383755,17 +383771,17 @@
     "titleId": "CUSA59505_00",
     "conceptId": 10019799,
     "name": "TANUKI: Pon's Summer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7173-CUSA59505_00-0029066150643543",
+    "region": "EP",
+    "publisherId": "EP7173"
   },
   {
     "titleId": "CUSA59506_00",
     "conceptId": 10019799,
     "name": "TANUKI: Pon's Summer",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7176-CUSA59506_00-0599729060175161",
+    "region": "UP",
+    "publisherId": "UP7176"
   },
   {
     "titleId": "CUSA59507_00",
@@ -386739,9 +386755,9 @@
     "titleId": "CUSA60202_00",
     "conceptId": 10021201,
     "name": "Cat Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB2226-CUSA60202_00-0570405585824885",
+    "region": "HB",
+    "publisherId": "HB2226"
   },
   {
     "titleId": "CUSA60203_00",
@@ -386835,9 +386851,9 @@
     "titleId": "CUSA60222_00",
     "conceptId": 10021272,
     "name": "Peak the Hills",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0111-CUSA60222_00-0859387207135402",
+    "region": "UB",
+    "publisherId": "UB0111"
   },
   {
     "titleId": "CUSA60223_00",
@@ -387066,10 +387082,10 @@
   {
     "titleId": "CUSA60309_00",
     "conceptId": 10021073,
-    "name": "Good President Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "GOOD PRESIDENT SIMULATOR",
+    "contentId": "UB1503-CUSA60309_00-0435698519224653",
+    "region": "UB",
+    "publisherId": "UB1503"
   },
   {
     "titleId": "CUSA60311_00",
@@ -387248,9 +387264,33 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60401_00",
+    "conceptId": 10001307,
+    "name": "RETROMANIA WRESTLING",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60403_00",
     "conceptId": 10018501,
     "name": "Verho - Curse of Faces",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60406_00",
+    "conceptId": 10009972,
+    "name": "Kaptain Brawe: A Brawe New World",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60407_00",
+    "conceptId": 10009948,
+    "name": "Aquapark io",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -548483,7 +548523,7 @@
     "titleId": "PPSA33563_00",
     "conceptId": 10016825,
     "name": "Warhammer Survivors",
-    "contentId": null,
+    "contentId": "EP5778-PPSA33563_00-WHAMMERSURVIVORS",
     "region": "EP",
     "publisherId": "EP5778"
   },
@@ -564480,6 +564520,14 @@
     "publisherId": "UP7940"
   },
   {
+    "titleId": "PPSA37048_00",
+    "conceptId": 10019108,
+    "name": "Football Manager 27 Console Edition",
+    "contentId": "EP0177-PPSA37048_00-FM27EU0000000000",
+    "region": "EP",
+    "publisherId": "EP0177"
+  },
+  {
     "titleId": "PPSA37049_00",
     "conceptId": 10019137,
     "name": "re:re:ghosted",
@@ -568184,6 +568232,14 @@
     "publisherId": "UB0696"
   },
   {
+    "titleId": "PPSA38150_00",
+    "conceptId": 10019799,
+    "name": "TANUKI: Pon's Summer",
+    "contentId": "UP7176-PPSA38150_00-0279996822855632",
+    "region": "UP",
+    "publisherId": "UP7176"
+  },
+  {
     "titleId": "PPSA38157_00",
     "conceptId": 10019438,
     "name": "Fiv-a-Row",
@@ -571398,6 +571454,14 @@
     "contentId": "EP1430-PPSA40008_00-DESOLUSPS5SIEE00",
     "region": "EP",
     "publisherId": "EP1430"
+  },
+  {
+    "titleId": "PPSA40011_00",
+    "conceptId": 10020901,
+    "name": "Skygrid Courier",
+    "contentId": "UP2005-PPSA40011_00-SKYGRIDCOURIER00",
+    "region": "UP",
+    "publisherId": "UP2005"
   },
   {
     "titleId": "PPSA40017_00",
