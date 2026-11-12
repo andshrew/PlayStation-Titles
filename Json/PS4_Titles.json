@@ -404184,6 +404184,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA46765_00",
+    "conceptId": 10009948,
+    "name": "Aquapark io",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA46767_00",
     "conceptId": 10009919,
     "name": "StormEdge",
@@ -496661,6 +496672,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA56098_00",
+    "conceptId": 10016339,
+    "name": "Console Archives Oda Nobunaga Den",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA56099_00",
     "conceptId": 10016340,
     "name": "Smoots Crazy Wave",
@@ -505481,6 +505503,17 @@
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA57015_00",
+    "conceptId": 10017175,
+    "name": "MyRummy\u00ae 2",
+    "contentId": "EP3024-CUSA57015_00-MYRUMMY2PS4EUUSB",
+    "region": "EP",
+    "publisherId": "EP3024",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57016_00",
@@ -518243,6 +518276,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA58383_00",
+    "conceptId": 10018475,
+    "name": "Arcade Archives SHOT RIDER",
+    "contentId": "JP0571-CUSA58383_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA58384_00",
     "conceptId": 10018477,
     "name": "Wrap House Simulator",
@@ -523097,12 +523141,12 @@
     "titleId": "CUSA58918_00",
     "conceptId": 10019065,
     "name": "Curse of Resthaven",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HB1034-CUSA58918_00-CURSEOFRESTHAVEN",
+    "region": "HB",
+    "publisherId": "HB1034",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58919_00",
@@ -528891,6 +528935,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59716_00",
+    "conceptId": 10020108,
+    "name": "Living Dead Outbreak",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59717_00",
     "conceptId": 10016708,
     "name": "FlipCat",
@@ -530137,12 +530192,12 @@
     "titleId": "CUSA59917_00",
     "conceptId": 10020285,
     "name": "Hotel Renovator Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB1941-CUSA59917_00-0817341127618210",
+    "region": "JB",
+    "publisherId": "JB1941",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59918_00",
@@ -531446,12 +531501,12 @@
     "titleId": "CUSA60135_00",
     "conceptId": 10021036,
     "name": "Feral Road",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB0851-CUSA60135_00-FERALROADPS40000",
+    "region": "UB",
+    "publisherId": "UB0851",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60136_00",
@@ -531551,6 +531606,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60157_00",
+    "conceptId": 10021097,
+    "name": "Escape: Immersion",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA60159_00",
@@ -531677,6 +531743,28 @@
     "titleId": "CUSA60186_00",
     "conceptId": 10010758,
     "name": "DPS IDLE",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60187_00",
+    "conceptId": 10021181,
+    "name": "Tiny Planet Protectors",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60188_00",
+    "conceptId": 10021181,
+    "name": "Tiny Planet Protectors",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -531831,6 +531919,17 @@
     "titleId": "CUSA60208_00",
     "conceptId": 10021209,
     "name": "Story Time: Night Before Christmas",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60211_00",
+    "conceptId": 10021226,
+    "name": "An Eggstremely Hard Game",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -532458,12 +532557,12 @@
     "titleId": "CUSA60383_00",
     "conceptId": 10021506,
     "name": "Prizma Puzzle Classic 3",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP8623-CUSA60383_00-0473549074328614",
+    "region": "UP",
+    "publisherId": "UP8623",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60390_00",
