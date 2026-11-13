@@ -293960,6 +293960,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA46766_00",
+    "conceptId": 10009948,
+    "name": "Aquapark io",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA46767_00",
     "conceptId": 10009919,
     "name": "StormEdge",
@@ -368466,10 +368474,10 @@
   {
     "titleId": "CUSA57130_00",
     "conceptId": 10017281,
-    "name": "Barbie\u2122 Rewind",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Barbie Rewind",
+    "contentId": "UP0182-CUSA57130_00-BREWIND000000000",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "CUSA57131_00",
@@ -370091,6 +370099,14 @@
     "titleId": "CUSA57355_00",
     "conceptId": 10002190,
     "name": "Capcom Arcade Stadium",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA57356_00",
+    "conceptId": 10017481,
+    "name": "Dome Keeper",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -384211,9 +384227,9 @@
     "titleId": "CUSA59599_00",
     "conceptId": 10019901,
     "name": "Mr Sticky's Ragdoll Launch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP0896-CUSA59599_00-STICKYSRAGDOLLRG",
+    "region": "EP",
+    "publisherId": "EP0896"
   },
   {
     "titleId": "CUSA59600_00",
@@ -385488,6 +385504,14 @@
     "publisherId": "HB2024"
   },
   {
+    "titleId": "CUSA59891_00",
+    "conceptId": 10020440,
+    "name": "Idle Breaker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA59892_00",
     "conceptId": 10020441,
     "name": "Tank Odyssey",
@@ -385938,10 +385962,10 @@
   {
     "titleId": "CUSA59982_00",
     "conceptId": 10020649,
-    "name": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "QTA 67",
+    "contentId": "UP2833-CUSA59982_00-2000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833"
   },
   {
     "titleId": "CUSA59983_00",
@@ -386259,9 +386283,9 @@
     "titleId": "CUSA60070_00",
     "conceptId": 10020868,
     "name": "Fakin It XL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2139-CUSA60070_00-JBGFAKINITXL4PS4",
+    "region": "UP",
+    "publisherId": "UP2139"
   },
   {
     "titleId": "CUSA60071_00",
@@ -386504,6 +386528,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60126_00",
+    "conceptId": 10021002,
+    "name": "It's a Flop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60128_00",
     "conceptId": 10010803,
     "name": "Hyperspace Neptunia: Unlimited",
@@ -386627,9 +386659,9 @@
     "titleId": "CUSA60157_00",
     "conceptId": 10021097,
     "name": "Escape: Immersion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB2226-CUSA60157_00-0690137917804845",
+    "region": "HB",
+    "publisherId": "HB2226"
   },
   {
     "titleId": "CUSA60159_00",
@@ -387050,10 +387082,10 @@
   {
     "titleId": "CUSA60289_00",
     "conceptId": 10021313,
-    "name": "Story Time: Elves and the Shoemaker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Story Time",
+    "contentId": "UB0786-CUSA60289_00-0188557731482873",
+    "region": "UB",
+    "publisherId": "UB0786"
   },
   {
     "titleId": "CUSA60290_00",
@@ -387075,9 +387107,9 @@
     "titleId": "CUSA60297_00",
     "conceptId": 10021332,
     "name": "Cats with Guns",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1620-CUSA60297_00-0950836407540211",
+    "region": "HB",
+    "publisherId": "HB1620"
   },
   {
     "titleId": "CUSA60299_00",
@@ -387211,9 +387243,9 @@
     "titleId": "CUSA60335_00",
     "conceptId": 10021397,
     "name": "Nefiriya and the Sands of Eternity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1620-CUSA60335_00-0737583939483761",
+    "region": "HB",
+    "publisherId": "HB1620"
   },
   {
     "titleId": "CUSA60339_00",
@@ -387227,6 +387259,14 @@
     "titleId": "CUSA60349_00",
     "conceptId": 10021427,
     "name": "Breakworld",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60351_00",
+    "conceptId": 10021432,
+    "name": "Not to Spec: A Dystopian Factory Inspection Game",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -387299,9 +387339,9 @@
     "titleId": "CUSA60370_00",
     "conceptId": 10021484,
     "name": "Lizard Lady vs the Aliens",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP2919-CUSA60370_00-0373630558061340",
+    "region": "EP",
+    "publisherId": "EP2919"
   },
   {
     "titleId": "CUSA60382_00",
@@ -554944,6 +554984,14 @@
     "publisherId": "UP7176"
   },
   {
+    "titleId": "PPSA34840_00",
+    "conceptId": 10017849,
+    "name": "Supermarket Simulator",
+    "contentId": "JB1863-PPSA34840_00-0335919310563443",
+    "region": "JB",
+    "publisherId": "JB1863"
+  },
+  {
     "titleId": "PPSA34841_00",
     "conceptId": 10017851,
     "name": "Mini Ghost",
@@ -557648,6 +557696,14 @@
     "publisherId": "UB0837"
   },
   {
+    "titleId": "PPSA35433_00",
+    "conceptId": 10018214,
+    "name": "\u307f\u3093\u306a\u3067\u30dd\u30a4\u3063\u3068\uff01\u30d7\u30ea\u30cb\u30fc\u3059\u3054\u308d\u304f",
+    "contentId": "JP0404-PPSA35433_00-PRINNYSUGOROKU01",
+    "region": "JP",
+    "publisherId": "JP0404"
+  },
+  {
     "titleId": "PPSA35434_00",
     "conceptId": 10017338,
     "name": "Manny's",
@@ -558504,6 +558560,14 @@
     "publisherId": "EP3540"
   },
   {
+    "titleId": "PPSA35627_00",
+    "conceptId": 10018353,
+    "name": "Final Kick Football Legends",
+    "contentId": "EP4358-PPSA35627_00-FINALKICKFOOTPS5",
+    "region": "EP",
+    "publisherId": "EP4358"
+  },
+  {
     "titleId": "PPSA35628_00",
     "conceptId": 10018354,
     "name": "Hoof & Seek",
@@ -559358,6 +559422,14 @@
     "contentId": "UB1503-PPSA35833_00-0293007956713820",
     "region": "UB",
     "publisherId": "UB1503"
+  },
+  {
+    "titleId": "PPSA35835_00",
+    "conceptId": 10018475,
+    "name": "Arcade Archives 2 SHOT RIDER",
+    "contentId": "JP0571-PPSA35835_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
   },
   {
     "titleId": "PPSA35836_00",
@@ -564576,6 +564648,14 @@
     "publisherId": "JB2357"
   },
   {
+    "titleId": "PPSA37037_00",
+    "conceptId": 10019130,
+    "name": "Professor Layton and the New World of Steam",
+    "contentId": null,
+    "region": "JP",
+    "publisherId": "JP0720"
+  },
+  {
     "titleId": "PPSA37038_00",
     "conceptId": 10019132,
     "name": "Arcade Archives 2 V'BALL",
@@ -565486,6 +565566,14 @@
     "contentId": "UB0008-PPSA37294_00-0082422270130958",
     "region": "UB",
     "publisherId": "UB0008"
+  },
+  {
+    "titleId": "PPSA37297_00",
+    "conceptId": 10019290,
+    "name": "Hazard Levels",
+    "contentId": "EP4459-PPSA37297_00-HAZARDLEVELSPS50",
+    "region": "EP",
+    "publisherId": "EP4459"
   },
   {
     "titleId": "PPSA37300_00",
@@ -568080,6 +568168,14 @@
     "publisherId": "HB2241"
   },
   {
+    "titleId": "PPSA38057_00",
+    "conceptId": 10018214,
+    "name": "Prinny Party: Going Overboard!",
+    "contentId": "HP5846-PPSA38057_00-PRINNYSUGOROKU01",
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA38060_00",
     "conceptId": 10019749,
     "name": "Prizma Puzzle Classic 2",
@@ -568816,6 +568912,14 @@
     "publisherId": "UB0190"
   },
   {
+    "titleId": "PPSA38322_00",
+    "conceptId": 10019901,
+    "name": "Mr Sticky's Ragdoll Launch",
+    "contentId": "EP0896-PPSA38322_00-STICKYSRAGDOLLRG",
+    "region": "EP",
+    "publisherId": "EP0896"
+  },
+  {
     "titleId": "PPSA38328_00",
     "conceptId": 10019905,
     "name": "The Killing Stone",
@@ -569006,6 +569110,14 @@
     "contentId": "HP3234-PPSA38449_00-0146488085948318",
     "region": "HP",
     "publisherId": "HP3234"
+  },
+  {
+    "titleId": "PPSA38450_00",
+    "conceptId": 10019974,
+    "name": "Autobahn Police Simulator 4",
+    "contentId": "EP2865-PPSA38450_00-ABPS400000000000",
+    "region": "EP",
+    "publisherId": "EP2865"
   },
   {
     "titleId": "PPSA38452_00",
@@ -570352,6 +570464,14 @@
     "publisherId": "HB2639"
   },
   {
+    "titleId": "PPSA39090_00",
+    "conceptId": 10020345,
+    "name": "SONIC PICO PARK",
+    "contentId": "EB2628-PPSA39090_00-PICOPARK2026C001",
+    "region": "EB",
+    "publisherId": "EB2628"
+  },
+  {
     "titleId": "PPSA39091_00",
     "conceptId": 10019908,
     "name": "Heroes of Magic and Cards",
@@ -571088,6 +571208,14 @@
     "publisherId": "UB1839"
   },
   {
+    "titleId": "PPSA39607_00",
+    "conceptId": 10020649,
+    "name": "QUTAS67",
+    "contentId": "UP2833-PPSA39607_00-5000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833"
+  },
+  {
     "titleId": "PPSA39614_00",
     "conceptId": 10020648,
     "name": "Wishing Well Simulator",
@@ -571126,6 +571254,14 @@
     "contentId": "EP3644-PPSA39661_00-0000000000000000",
     "region": "EP",
     "publisherId": "EP3644"
+  },
+  {
+    "titleId": "PPSA39672_00",
+    "conceptId": 10020673,
+    "name": "Weed Supermarket Simulator",
+    "contentId": "EP1549-PPSA39672_00-PLWWEEDSM0000001",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "PPSA39733_00",
@@ -571328,6 +571464,14 @@
     "publisherId": "EB2773"
   },
   {
+    "titleId": "PPSA39859_00",
+    "conceptId": 10020789,
+    "name": "Deadly Stakes",
+    "contentId": "EB2797-PPSA39859_00-0643520450458079",
+    "region": "EB",
+    "publisherId": "EB2797"
+  },
+  {
     "titleId": "PPSA39874_00",
     "conceptId": 10020799,
     "name": "X-Force Genesis 2",
@@ -571464,12 +571608,20 @@
     "publisherId": "UB0190"
   },
   {
+    "titleId": "PPSA39952_00",
+    "conceptId": 10020863,
+    "name": "Repentant",
+    "contentId": "EP6668-PPSA39952_00-0740085520302113",
+    "region": "EP",
+    "publisherId": "EP6668"
+  },
+  {
     "titleId": "PPSA39957_00",
     "conceptId": 10020868,
     "name": "Fakin It XL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2139-PPSA39957_00-JBGFAKINITXL4PS5",
+    "region": "UP",
+    "publisherId": "UP2139"
   },
   {
     "titleId": "PPSA39958_00",
@@ -571552,6 +571704,14 @@
     "publisherId": "UB0675"
   },
   {
+    "titleId": "PPSA39992_00",
+    "conceptId": 10002831,
+    "name": "Little Kite",
+    "contentId": "EP6668-PPSA39992_00-0441280692618823",
+    "region": "EP",
+    "publisherId": "EP6668"
+  },
+  {
     "titleId": "PPSA40004_00",
     "conceptId": 10011899,
     "name": "DESOLUS",
@@ -571582,6 +571742,14 @@
     "contentId": "EP1430-PPSA40008_00-DESOLUSPS5SIEE00",
     "region": "EP",
     "publisherId": "EP1430"
+  },
+  {
+    "titleId": "PPSA40009_00",
+    "conceptId": 10020899,
+    "name": "Supermarket - Tidy Up!",
+    "contentId": "UB0990-PPSA40009_00-SUPERMARKETTIDYU",
+    "region": "UB",
+    "publisherId": "UB0990"
   },
   {
     "titleId": "PPSA40011_00",
@@ -571718,6 +571886,14 @@
     "contentId": "EP3552-PPSA40171_00-0052723531031762",
     "region": "EP",
     "publisherId": "EP3552"
+  },
+  {
+    "titleId": "PPSA40192_00",
+    "conceptId": 10012946,
+    "name": "Empires Shall Fall",
+    "contentId": "EP5506-PPSA40192_00-EMPIRESSHALLFALL",
+    "region": "EP",
+    "publisherId": "EP5506"
   },
   {
     "titleId": "PPSA40196_00",
@@ -571896,6 +572072,14 @@
     "publisherId": "UB0190"
   },
   {
+    "titleId": "PPSA40414_00",
+    "conceptId": 10021173,
+    "name": "Draw It, Human!",
+    "contentId": "JB1432-PPSA40414_00-0185152187669312",
+    "region": "JB",
+    "publisherId": "JB1432"
+  },
+  {
     "titleId": "PPSA40436_00",
     "conceptId": 10021194,
     "name": "Mystery Suspect",
@@ -571958,6 +572142,14 @@
     "contentId": "UP7552-PPSA40613_00-0118088654712757",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40631_00",
+    "conceptId": 10021313,
+    "name": "Story Time",
+    "contentId": "UB0786-PPSA40631_00-0405613866832744",
+    "region": "UB",
+    "publisherId": "UB0786"
   },
   {
     "titleId": "PPSA40653_00",

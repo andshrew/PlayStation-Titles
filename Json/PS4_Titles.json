@@ -404195,6 +404195,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA46766_00",
+    "conceptId": 10009948,
+    "name": "Aquapark io",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA46767_00",
     "conceptId": 10009919,
     "name": "StormEdge",
@@ -506640,13 +506651,13 @@
   {
     "titleId": "CUSA57130_00",
     "conceptId": 10017281,
-    "name": "Barbie\u2122 Rewind",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Barbie Rewind",
+    "contentId": "UP0182-CUSA57130_00-BREWIND000000000",
+    "region": "UP",
+    "publisherId": "UP0182",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57131_00",
@@ -508874,6 +508885,17 @@
     "titleId": "CUSA57355_00",
     "conceptId": 10002190,
     "name": "Capcom Arcade Stadium",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA57356_00",
+    "conceptId": 10017481,
+    "name": "Dome Keeper",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -528289,12 +528311,12 @@
     "titleId": "CUSA59599_00",
     "conceptId": 10019901,
     "name": "Mr Sticky's Ragdoll Launch",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0896-CUSA59599_00-STICKYSRAGDOLLRG",
+    "region": "EP",
+    "publisherId": "EP0896",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59600_00",
@@ -530046,6 +530068,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59891_00",
+    "conceptId": 10020440,
+    "name": "Idle Breaker",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59892_00",
     "conceptId": 10020441,
     "name": "Tank Odyssey",
@@ -530664,13 +530697,13 @@
   {
     "titleId": "CUSA59982_00",
     "conceptId": 10020649,
-    "name": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "QTA 67",
+    "contentId": "UP2833-CUSA59982_00-2000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59983_00",
@@ -531105,12 +531138,12 @@
     "titleId": "CUSA60070_00",
     "conceptId": 10020868,
     "name": "Fakin It XL",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2139-CUSA60070_00-JBGFAKINITXL4PS4",
+    "region": "UP",
+    "publisherId": "UP2139",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60071_00",
@@ -531443,6 +531476,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60126_00",
+    "conceptId": 10021002,
+    "name": "It's a Flop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60128_00",
     "conceptId": 10010803,
     "name": "Hyperspace Neptunia: Unlimited",
@@ -531611,12 +531655,12 @@
     "titleId": "CUSA60157_00",
     "conceptId": 10021097,
     "name": "Escape: Immersion",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HB2226-CUSA60157_00-0690137917804845",
+    "region": "HB",
+    "publisherId": "HB2226",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60159_00",
@@ -532193,13 +532237,13 @@
   {
     "titleId": "CUSA60289_00",
     "conceptId": 10021313,
-    "name": "Story Time: Elves and the Shoemaker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Story Time",
+    "contentId": "UB0786-CUSA60289_00-0188557731482873",
+    "region": "UB",
+    "publisherId": "UB0786",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60290_00",
@@ -532227,12 +532271,12 @@
     "titleId": "CUSA60297_00",
     "conceptId": 10021332,
     "name": "Cats with Guns",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HB1620-CUSA60297_00-0950836407540211",
+    "region": "HB",
+    "publisherId": "HB1620",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60299_00",
@@ -532414,12 +532458,12 @@
     "titleId": "CUSA60335_00",
     "conceptId": 10021397,
     "name": "Nefiriya and the Sands of Eternity",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HB1620-CUSA60335_00-0737583939483761",
+    "region": "HB",
+    "publisherId": "HB1620",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60339_00",
@@ -532436,6 +532480,17 @@
     "titleId": "CUSA60349_00",
     "conceptId": 10021427,
     "name": "Breakworld",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60351_00",
+    "conceptId": 10021432,
+    "name": "Not to Spec: A Dystopian Factory Inspection Game",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -532535,11 +532590,11 @@
     "titleId": "CUSA60370_00",
     "conceptId": 10021484,
     "name": "Lizard Lady vs the Aliens",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP2919-CUSA60370_00-0373630558061340",
+    "region": "EP",
+    "publisherId": "EP2919",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": null
   },
   {
