@@ -517905,12 +517905,12 @@
     "titleId": "CUSA58302_00",
     "conceptId": 10018412,
     "name": "Ski Jumping World Cup",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP3948-CUSA58302_00-0051225845728901",
+    "region": "EP",
+    "publisherId": "EP3948",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58316_00",
@@ -528795,12 +528795,12 @@
     "titleId": "CUSA59689_00",
     "conceptId": 10020088,
     "name": "Skautfold: Knight's End",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP5098-CUSA59689_00-0164870702309919",
+    "region": "EP",
+    "publisherId": "EP5098",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59692_00",
@@ -529719,6 +529719,17 @@
     "titleId": "CUSA59816_00",
     "conceptId": 10020282,
     "name": "Lithium II: Me",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59818_00",
+    "conceptId": 10020294,
+    "name": "Lucky Luke: The Lonesome Cowboy Collection",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -532348,12 +532359,12 @@
     "titleId": "CUSA60306_00",
     "conceptId": 10021345,
     "name": "ELO 1100 Chess",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7552-CUSA60306_00-0080194809524740",
+    "region": "UP",
+    "publisherId": "UP7552",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60307_00",
@@ -532502,12 +532513,12 @@
     "titleId": "CUSA60353_00",
     "conceptId": 10007678,
     "name": "Sweet Sugar Candy",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP7552-CUSA60353_00-0225397199017965",
+    "region": "UP",
+    "publisherId": "UP7552",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60355_00",
@@ -532595,7 +532606,7 @@
     "publisherId": "EP2919",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60382_00",
@@ -532631,6 +532642,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60397_00",
+    "conceptId": 10021541,
+    "name": "CLAW BELOW",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60398_00",
     "conceptId": 10015623,
     "name": "Junkyard Builder",
@@ -532640,6 +532662,17 @@
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60399_00",
+    "conceptId": 10021543,
+    "name": "Real Estate Dice Tycoon",
+    "contentId": "UP7552-CUSA60399_00-0173703096845638",
+    "region": "UP",
+    "publisherId": "UP7552",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60401_00",
@@ -532678,6 +532711,28 @@
     "titleId": "CUSA60407_00",
     "conceptId": 10009948,
     "name": "Aquapark io",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60422_00",
+    "conceptId": 10004894,
+    "name": "ZERO FIRE  -TOAPLAN ARCADE GARAGE-",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60423_00",
+    "conceptId": 10004894,
+    "name": "ZERO FIRE  -TOAPLAN ARCADE GARAGE-",
     "contentId": null,
     "region": null,
     "publisherId": null,

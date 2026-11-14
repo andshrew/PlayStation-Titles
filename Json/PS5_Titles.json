@@ -118176,6 +118176,14 @@
     "publisherId": "UP2320"
   },
   {
+    "titleId": "PPSA25655_00",
+    "conceptId": 10012323,
+    "name": "I Am Security",
+    "contentId": "UB1027-PPSA25655_00-IAMSECURITY00000",
+    "region": "UB",
+    "publisherId": "UB1027"
+  },
+  {
     "titleId": "PPSA25656_00",
     "conceptId": 10012326,
     "name": "Knight Shooter",
@@ -129910,6 +129918,14 @@
     "contentId": "HP8414-PPSA27723_00-0848689822793411",
     "region": "HP",
     "publisherId": "HP8414"
+  },
+  {
+    "titleId": "PPSA27727_00",
+    "conceptId": 10013623,
+    "name": "The Safe Place",
+    "contentId": "EP6668-PPSA27727_00-0343945109453717",
+    "region": "EP",
+    "publisherId": "EP6668"
   },
   {
     "titleId": "PPSA27729_00",
@@ -153680,6 +153696,14 @@
     "publisherId": "EB2034"
   },
   {
+    "titleId": "PPSA32163_00",
+    "conceptId": 10016339,
+    "name": "Console Archives Nobunaga Oda den",
+    "contentId": "JP0571-PPSA32163_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571"
+  },
+  {
     "titleId": "PPSA32165_00",
     "conceptId": 10016340,
     "name": "Smoots Crazy Wave",
@@ -162326,6 +162350,14 @@
     "contentId": "HP8462-PPSA33904_00-0061219933903666",
     "region": "HP",
     "publisherId": "HP8462"
+  },
+  {
+    "titleId": "PPSA33905_00",
+    "conceptId": 10017281,
+    "name": "Barbie Rewind",
+    "contentId": "UP0182-PPSA33905_00-BREWIND000000000",
+    "region": "UP",
+    "publisherId": "UP0182"
   },
   {
     "titleId": "PPSA33906_00",
@@ -171408,6 +171440,14 @@
     "publisherId": "EP1096"
   },
   {
+    "titleId": "PPSA35716_00",
+    "conceptId": 10018412,
+    "name": "Ski Jumping World Cup",
+    "contentId": "EP3948-PPSA35716_00-0568061595826353",
+    "region": "EP",
+    "publisherId": "EP3948"
+  },
+  {
     "titleId": "PPSA35717_00",
     "conceptId": 10018414,
     "name": "BATTLECRAFTER VR",
@@ -177174,6 +177214,14 @@
     "contentId": "UP5877-PPSA37049_00-0365761532581666",
     "region": "UP",
     "publisherId": "UP5877"
+  },
+  {
+    "titleId": "PPSA37050_00",
+    "conceptId": 10019136,
+    "name": "Leaf Blower Co.",
+    "contentId": "HB1956-PPSA37050_00-0525690554844966",
+    "region": "HB",
+    "publisherId": "HB1956"
   },
   {
     "titleId": "PPSA37053_00",
@@ -183040,12 +183088,28 @@
     "publisherId": "HB1638"
   },
   {
+    "titleId": "PPSA39148_00",
+    "conceptId": 10020379,
+    "name": "MOTHERGUNSHIP: FORGE",
+    "contentId": "EB1267-PPSA39148_00-0000000000MGSF01",
+    "region": "EB",
+    "publisherId": "EB1267"
+  },
+  {
     "titleId": "PPSA39156_00",
     "conceptId": 10020387,
     "name": "Arcade Archives 2 THUNDERCADE",
     "contentId": "JP0571-PPSA39156_00-HAMPRDC000000001",
     "region": "JP",
     "publisherId": "JP0571"
+  },
+  {
+    "titleId": "PPSA39157_00",
+    "conceptId": 10020388,
+    "name": "DERELIKT",
+    "contentId": "EP6170-PPSA39157_00-DERELIKTGAMEVPS5",
+    "region": "EP",
+    "publisherId": "EP6170"
   },
   {
     "titleId": "PPSA39168_00",
@@ -183920,6 +183984,14 @@
     "publisherId": "EB2773"
   },
   {
+    "titleId": "PPSA39856_00",
+    "conceptId": 10020779,
+    "name": "BOMBANANA!",
+    "contentId": "UP7939-PPSA39856_00-0278644129410119",
+    "region": "UP",
+    "publisherId": "UP7939"
+  },
+  {
     "titleId": "PPSA39859_00",
     "conceptId": 10020789,
     "name": "Deadly Stakes",
@@ -184014,6 +184086,30 @@
     "contentId": "JP0425-PPSA39923_00-KYOTOXANADUTRIAL",
     "region": "JP",
     "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA39925_00",
+    "conceptId": 10020844,
+    "name": "House Cleaner Simulator",
+    "contentId": "UP1564-PPSA39925_00-0249485338352938",
+    "region": "UP",
+    "publisherId": "UP1564"
+  },
+  {
+    "titleId": "PPSA39926_00",
+    "conceptId": 10020844,
+    "name": "House Cleaner Simulator",
+    "contentId": "EP1549-PPSA39926_00-0688267110430634",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
+    "titleId": "PPSA39930_00",
+    "conceptId": 10018971,
+    "name": "Medieval Crafter:Blacksmith",
+    "contentId": "HB2115-PPSA39930_00-0248287062698705",
+    "region": "HB",
+    "publisherId": "HB2115"
   },
   {
     "titleId": "PPSA39938_00",
@@ -184624,10 +184720,34 @@
     "publisherId": null
   },
   {
+    "titleId": "PPSA40658_00",
+    "conceptId": 10021332,
+    "name": "Cats with Guns",
+    "contentId": "HB1620-PPSA40658_00-0246911520911905",
+    "region": "HB",
+    "publisherId": "HB1620"
+  },
+  {
     "titleId": "PPSA40694_00",
     "conceptId": 10021352,
     "name": "Checkers MASTER",
     "contentId": "UP7552-PPSA40694_00-0650106763855781",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40757_00",
+    "conceptId": 10021397,
+    "name": "Nefiriya and the Sands of Eternity",
+    "contentId": "HB1620-PPSA40757_00-0550703466842859",
+    "region": "HB",
+    "publisherId": "HB1620"
+  },
+  {
+    "titleId": "PPSA40804_00",
+    "conceptId": 10007678,
+    "name": "Sweet Sugar Candy",
+    "contentId": "UP7552-PPSA40804_00-0809292795563530",
     "region": "UP",
     "publisherId": "UP7552"
   }
