@@ -340208,6 +340208,14 @@
     "publisherId": "UB1025"
   },
   {
+    "titleId": "CUSA53185_00",
+    "conceptId": 10013912,
+    "name": "Wigged Out",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA53186_00",
     "conceptId": 10013915,
     "name": "SCRAP MACHINES",
@@ -380571,9 +380579,9 @@
     "titleId": "CUSA58932_00",
     "conceptId": 10019093,
     "name": "Dice Gambit",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP6985-CUSA58932_00-0883254135170063",
+    "region": "EP",
+    "publisherId": "EP6985"
   },
   {
     "titleId": "CUSA58933_00",
@@ -387035,33 +387043,33 @@
     "titleId": "CUSA60239_00",
     "conceptId": 10021278,
     "name": "Snowball Sumo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7962-CUSA60239_00-0362224871342428",
+    "region": "UP",
+    "publisherId": "UP7962"
   },
   {
     "titleId": "CUSA60240_00",
     "conceptId": 10021278,
     "name": "Snowball Sumo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7960-CUSA60240_00-0959083367168205",
+    "region": "EP",
+    "publisherId": "EP7960"
   },
   {
     "titleId": "CUSA60241_00",
     "conceptId": 10021278,
     "name": "Snowball Sumo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7943-CUSA60241_00-0529670278386599",
+    "region": "JP",
+    "publisherId": "JP7943"
   },
   {
     "titleId": "CUSA60242_00",
     "conceptId": 10021278,
     "name": "Snowball Sumo",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7989-CUSA60242_00-0124027254049772",
+    "region": "HP",
+    "publisherId": "HP7989"
   },
   {
     "titleId": "CUSA60263_00",
@@ -387098,10 +387106,10 @@
   {
     "titleId": "CUSA60290_00",
     "conceptId": 10021315,
-    "name": "Santa\u00b4s Quest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Santas Quest",
+    "contentId": "EP5974-CUSA60290_00-0849203074389798",
+    "region": "EP",
+    "publisherId": "EP5974"
   },
   {
     "titleId": "CUSA60295_00",
@@ -387211,9 +387219,9 @@
     "titleId": "CUSA60314_00",
     "conceptId": 10021287,
     "name": "One Button Arcade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB0786-CUSA60314_00-0654056940770240",
+    "region": "UB",
+    "publisherId": "UB0786"
   },
   {
     "titleId": "CUSA60321_00",
@@ -523408,6 +523416,14 @@
     "publisherId": "HP6900"
   },
   {
+    "titleId": "PPSA28794_00",
+    "conceptId": 10014370,
+    "name": "Cinema Manager Simulator",
+    "contentId": "UB1029-PPSA28794_00-0515511342593095",
+    "region": "UB",
+    "publisherId": "UB1029"
+  },
+  {
     "titleId": "PPSA28795_00",
     "conceptId": 10014379,
     "name": "Snoopy & The Great Mystery Club",
@@ -571368,6 +571384,14 @@
     "publisherId": "EP1549"
   },
   {
+    "titleId": "PPSA39705_00",
+    "conceptId": 10015617,
+    "name": "Reef Defense",
+    "contentId": "JB1696-PPSA39705_00-0972019594484898",
+    "region": "JB",
+    "publisherId": "JB1696"
+  },
+  {
     "titleId": "PPSA39733_00",
     "conceptId": 10020641,
     "name": "Lonely Hospital: Revelations",
@@ -572224,6 +572248,14 @@
     "publisherId": "HP4772"
   },
   {
+    "titleId": "PPSA40458_00",
+    "conceptId": 10021201,
+    "name": "Cat Simulator",
+    "contentId": "HB2226-PPSA40458_00-0040187300020337",
+    "region": "HB",
+    "publisherId": "HB2226"
+  },
+  {
     "titleId": "PPSA40469_00",
     "conceptId": 10021208,
     "name": "Needle in a Haystack",
@@ -572262,6 +572294,22 @@
     "contentId": "UB0111-PPSA40558_00-0807555000877106",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40578_00",
+    "conceptId": 10021278,
+    "name": "Snowball Sumo",
+    "contentId": "EP7960-PPSA40578_00-0438205210714744",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA40580_00",
+    "conceptId": 10021278,
+    "name": "Snowball Sumo",
+    "contentId": "HP7989-PPSA40580_00-0259156967381260",
+    "region": "HP",
+    "publisherId": "HP7989"
   },
   {
     "titleId": "PPSA40601_00",
