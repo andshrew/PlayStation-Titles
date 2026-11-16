@@ -518124,13 +518124,13 @@
   {
     "titleId": "CUSA58359_00",
     "conceptId": 10012744,
-    "name": "God of War Sons of Sparta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "God of War Sons of Sparta Digital Artbook and Soundtrack",
+    "contentId": "UP9000-CUSA58359_00-SONSOFSPARTABC00",
+    "region": "UP",
+    "publisherId": "UP9000",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58363_00",
@@ -519781,6 +519781,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA58543_00",
+    "conceptId": 10018666,
+    "name": "Where the Heart Rests",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA58551_00",

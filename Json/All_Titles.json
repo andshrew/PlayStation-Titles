@@ -376818,10 +376818,10 @@
   {
     "titleId": "CUSA58359_00",
     "conceptId": 10012744,
-    "name": "God of War Sons of Sparta",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "God of War Sons of Sparta Digital Artbook and Soundtrack",
+    "contentId": "UP9000-CUSA58359_00-SONSOFSPARTABC00",
+    "region": "UP",
+    "publisherId": "UP9000"
   },
   {
     "titleId": "CUSA58363_00",
@@ -378022,6 +378022,14 @@
     "contentId": "EP0896-CUSA58541_00-MYLOVEYDOVEYDERG",
     "region": "EP",
     "publisherId": "EP0896"
+  },
+  {
+    "titleId": "CUSA58543_00",
+    "conceptId": 10018666,
+    "name": "Where the Heart Rests",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA58551_00",
@@ -443030,6 +443038,14 @@
     "contentId": "UP7962-PPSA12237_00-2795221360616187",
     "region": "UP",
     "publisherId": "UP7962"
+  },
+  {
+    "titleId": "PPSA12238_00",
+    "conceptId": 10006803,
+    "name": "Stroke The Dik-Dik",
+    "contentId": "EP7960-PPSA12238_00-5650918264082858",
+    "region": "EP",
+    "publisherId": "EP7960"
   },
   {
     "titleId": "PPSA12239_00",
@@ -571512,6 +571528,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA39837_00",
+    "conceptId": 10019990,
+    "name": "DONGDA Gangster",
+    "contentId": "HP8406-PPSA39837_00-NIUDDGANGSAGA001",
+    "region": "HP",
+    "publisherId": "HP8406"
+  },
+  {
     "titleId": "PPSA39838_00",
     "conceptId": 10018744,
     "name": "Heavy Metal Death Can",
@@ -572016,6 +572040,14 @@
     "publisherId": "UB0851"
   },
   {
+    "titleId": "PPSA40104_00",
+    "conceptId": 10020964,
+    "name": "The Canon Keeper PS5",
+    "contentId": "HB1685-PPSA40104_00-02TCK00PS500FULL",
+    "region": "HB",
+    "publisherId": "HB1685"
+  },
+  {
     "titleId": "PPSA40128_00",
     "conceptId": 10012313,
     "name": "Clive Barker's Hellraiser: Revival - Demo",
@@ -572296,12 +572328,28 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA40577_00",
+    "conceptId": 10021278,
+    "name": "Snowball Sumo",
+    "contentId": "UP7962-PPSA40577_00-0828085512419369",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
     "titleId": "PPSA40578_00",
     "conceptId": 10021278,
     "name": "Snowball Sumo",
     "contentId": "EP7960-PPSA40578_00-0438205210714744",
     "region": "EP",
     "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA40579_00",
+    "conceptId": 10021278,
+    "name": "Snowball Sumo",
+    "contentId": "JP7943-PPSA40579_00-0743873694991626",
+    "region": "JP",
+    "publisherId": "JP7943"
   },
   {
     "titleId": "PPSA40580_00",
