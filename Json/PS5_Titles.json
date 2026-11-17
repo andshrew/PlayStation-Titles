@@ -45323,9 +45323,9 @@
     "titleId": "PPSA09856_00",
     "conceptId": 224852,
     "name": "Sky Sport Now",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP8832-PPSA09856_00-6160920249351798",
+    "region": "EP",
+    "publisherId": "EP8832"
   },
   {
     "titleId": "PPSA09857_00",
@@ -184280,6 +184280,14 @@
     "publisherId": "HP1792"
   },
   {
+    "titleId": "PPSA39984_00",
+    "conceptId": 10020700,
+    "name": "Moonlight Peaks",
+    "contentId": "HP5846-PPSA39984_00-0000000000000000",
+    "region": "HP",
+    "publisherId": "HP5846"
+  },
+  {
     "titleId": "PPSA39989_00",
     "conceptId": 10020886,
     "name": "Cubic Cosmos",
@@ -184342,6 +184350,14 @@
     "contentId": "UP2005-PPSA40011_00-SKYGRIDCOURIER00",
     "region": "UP",
     "publisherId": "UP2005"
+  },
+  {
+    "titleId": "PPSA40015_00",
+    "conceptId": 10020700,
+    "name": "Moonlight Peaks",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "PPSA40017_00",
