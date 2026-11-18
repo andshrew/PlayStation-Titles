@@ -172896,6 +172896,14 @@
     "publisherId": "UB0008"
   },
   {
+    "titleId": "PPSA36060_00",
+    "conceptId": 10018602,
+    "name": "Unicorn Academy: Island of Magic",
+    "contentId": "EP3945-PPSA36060_00-0908843281134182",
+    "region": "EP",
+    "publisherId": "EP3945"
+  },
+  {
     "titleId": "PPSA36061_00",
     "conceptId": 10018604,
     "name": "Amanda the Adventurer 3",
@@ -183808,6 +183816,14 @@
     "publisherId": "JB1696"
   },
   {
+    "titleId": "PPSA39706_00",
+    "conceptId": 10020700,
+    "name": "Moonlight Peaks",
+    "contentId": "UP1023-PPSA39706_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP1023"
+  },
+  {
     "titleId": "PPSA39733_00",
     "conceptId": 10020641,
     "name": "Lonely Hospital: Revelations",
@@ -184355,9 +184371,9 @@
     "titleId": "PPSA40015_00",
     "conceptId": 10020700,
     "name": "Moonlight Peaks",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP4492-PPSA40015_00-0000000000000000",
+    "region": "EP",
+    "publisherId": "EP4492"
   },
   {
     "titleId": "PPSA40017_00",
@@ -184422,6 +184438,14 @@
     "contentId": "UP7552-PPSA40051_00-0723954392860078",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40060_00",
+    "conceptId": 10020936,
+    "name": "Darkness and Flame 2: Missing Memories",
+    "contentId": "UB0190-PPSA40060_00-0764905248577307",
+    "region": "UB",
+    "publisherId": "UB0190"
   },
   {
     "titleId": "PPSA40070_00",
@@ -184744,6 +184768,22 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA40562_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": "EP7960-PPSA40562_00-0331277156763881",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA40564_00",
+    "conceptId": 10021274,
+    "name": "Beacon Keeper",
+    "contentId": "HP7989-PPSA40564_00-0995115961761385",
+    "region": "HP",
+    "publisherId": "HP7989"
+  },
+  {
     "titleId": "PPSA40577_00",
     "conceptId": 10021278,
     "name": "Snowball Sumo",
@@ -184782,6 +184822,14 @@
     "contentId": "UB0786-PPSA40601_00-0102045163637250",
     "region": "UB",
     "publisherId": "UB0786"
+  },
+  {
+    "titleId": "PPSA40603_00",
+    "conceptId": 10021288,
+    "name": "Savoury Cascade",
+    "contentId": "JB2357-PPSA40603_00-SAVOURYCASCADENA",
+    "region": "JB",
+    "publisherId": "JB2357"
   },
   {
     "titleId": "PPSA40613_00",
@@ -184824,12 +184872,28 @@
     "publisherId": "HB1620"
   },
   {
+    "titleId": "PPSA40667_00",
+    "conceptId": 10021172,
+    "name": "Tidy Up: Electronic Store Simulator",
+    "contentId": "UB0907-PPSA40667_00-0905176338445209",
+    "region": "UB",
+    "publisherId": "UB0907"
+  },
+  {
     "titleId": "PPSA40694_00",
     "conceptId": 10021352,
     "name": "Checkers MASTER",
     "contentId": "UP7552-PPSA40694_00-0650106763855781",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40747_00",
+    "conceptId": 10021141,
+    "name": "Dark Rail",
+    "contentId": "JP0078-PPSA40747_00-DARKRAILGAME0000",
+    "region": "JP",
+    "publisherId": "JP0078"
   },
   {
     "titleId": "PPSA40757_00",

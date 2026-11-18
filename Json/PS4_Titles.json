@@ -342323,12 +342323,12 @@
     "titleId": "CUSA39162_00",
     "conceptId": 10006802,
     "name": "Stroke The Beaver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP7989-CUSA39162_00-8311629842954746",
+    "region": "HP",
+    "publisherId": "HP7989",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA39163_00",
@@ -467260,13 +467260,13 @@
   {
     "titleId": "CUSA53133_00",
     "conceptId": 10013858,
-    "name": "Soul Reaver 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "The LEGACY of KAIN series SOUL REAVER 2",
+    "contentId": "UP8489-CUSA53133_00-SLUS201650000000",
+    "region": "UP",
+    "publisherId": "UP8489",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA53134_00",
@@ -524645,6 +524645,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA59078_00",
+    "conceptId": 10019304,
+    "name": "Hockey Beasts",
+    "contentId": "UP7578-CUSA59078_00-0744009033342704",
+    "region": "UP",
+    "publisherId": "UP7578",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59079_00",
     "conceptId": 10017720,
     "name": "Lofi Mahjong",
@@ -530112,6 +530123,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59888_00",
+    "conceptId": 10020436,
+    "name": "Merge Match March",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59891_00",
     "conceptId": 10020440,
     "name": "Idle Breaker",
@@ -532249,23 +532271,23 @@
     "titleId": "CUSA60263_00",
     "conceptId": 10021288,
     "name": "Savoury Cascade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA60263_00-SAVOURYCASCADEEU",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60264_00",
     "conceptId": 10021288,
     "name": "Savoury Cascade",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA60264_00-SAVOURYCASCADENA",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60269_00",
@@ -532642,6 +532664,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60378_00",
+    "conceptId": 10021439,
+    "name": "Santa Claus vs Aliens",
+    "contentId": "HB2875-CUSA60378_00-0265270327084298",
+    "region": "HB",
+    "publisherId": "HB2875",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA60382_00",
     "conceptId": 10015166,
     "name": "\u30cf\u30c3\u30d4\u30fc\u30eb\u30fc\u30c8\u3092\u7d42\u308f\u3089\u305b\u3066",
@@ -532788,6 +532821,28 @@
     "titleId": "CUSA60434_00",
     "conceptId": 10021635,
     "name": "Tidy Up The Christmas Shop",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60442_00",
+    "conceptId": 10019833,
+    "name": "We Die Standing",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60445_00",
+    "conceptId": 10021667,
+    "name": "The Ghost of Solaris",
     "contentId": null,
     "region": null,
     "publisherId": null,
