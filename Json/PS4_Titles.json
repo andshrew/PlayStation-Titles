@@ -511524,13 +511524,13 @@
   {
     "titleId": "CUSA57611_00",
     "conceptId": 10017729,
-    "name": "Agent Skunk: Stink Ops",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Agent Skunk: StinkOps",
+    "contentId": "UB0027-CUSA57611_00-0308934703015341",
+    "region": "UB",
+    "publisherId": "UB0027",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57613_00",
@@ -519499,13 +519499,13 @@
   {
     "titleId": "CUSA58511_00",
     "conceptId": 10017950,
-    "name": "Buy The Game, I Have a Gun 2: Online Open World",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Buy The Game, I Have A Gun 2: Online Open World",
+    "contentId": "UP7605-CUSA58511_00-0887958786008060",
+    "region": "UP",
+    "publisherId": "UP7605",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58512_00",
@@ -520473,7 +520473,7 @@
     "publisherId": "EP6168",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA58619_00",
@@ -528927,12 +528927,12 @@
     "titleId": "CUSA59703_00",
     "conceptId": 10020048,
     "name": "THYSIASTERY",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EB2758-CUSA59703_00-0896189631273375",
+    "region": "EB",
+    "publisherId": "EB2758",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59704_00",
@@ -530576,13 +530576,13 @@
   {
     "titleId": "CUSA59949_00",
     "conceptId": 10020582,
-    "name": "Geo Book",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "GeoBook",
+    "contentId": "UP2833-CUSA59949_00-2000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59950_00",
@@ -531762,6 +531762,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60155_00",
+    "conceptId": 10021096,
+    "name": "Quiet Remains Slide Puzzle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60157_00",
     "conceptId": 10021097,
     "name": "Escape: Immersion",
@@ -532480,12 +532491,12 @@
     "titleId": "CUSA60308_00",
     "conceptId": 10021101,
     "name": "BOARDING DENIED",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB1503-CUSA60308_00-0864295799690312",
+    "region": "UB",
+    "publisherId": "UB1503",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60309_00",
@@ -532552,6 +532563,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60325_00",
+    "conceptId": 10021273,
+    "name": "Troll Slayer",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA60332_00",
@@ -532807,6 +532829,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60402_00",
+    "conceptId": 10021546,
+    "name": "Full Court Chile",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60403_00",
     "conceptId": 10018501,
     "name": "Verho - Curse of Faces",
@@ -532920,6 +532953,39 @@
     "titleId": "CUSA60450_00",
     "conceptId": 10021622,
     "name": "Fast Food Frog PS4 & PS5",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60451_00",
+    "conceptId": 10021688,
+    "name": "Geek Game Shop Simulator",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60454_00",
+    "conceptId": 10019032,
+    "name": "Altered Alma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60455_00",
+    "conceptId": 10019032,
+    "name": "Altered Alma",
     "contentId": null,
     "region": null,
     "publisherId": null,

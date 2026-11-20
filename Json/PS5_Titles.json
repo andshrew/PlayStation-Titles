@@ -170587,9 +170587,9 @@
     "titleId": "PPSA35502_00",
     "conceptId": 10018280,
     "name": "My Life: Safari Vet",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP3024-PPSA35502_00-PETVETAFRICAWPS5",
+    "region": "EP",
+    "publisherId": "EP3024"
   },
   {
     "titleId": "PPSA35503_00",
@@ -174078,6 +174078,14 @@
     "contentId": "EP5506-PPSA36337_00-DAMSELSINDISTPS5",
     "region": "EP",
     "publisherId": "EP5506"
+  },
+  {
+    "titleId": "PPSA36339_00",
+    "conceptId": 10018772,
+    "name": "The House of Tesla Definitive Edition",
+    "contentId": "EP6168-PPSA36339_00-0815424595720694",
+    "region": "EP",
+    "publisherId": "EP6168"
   },
   {
     "titleId": "PPSA36342_00",
@@ -180800,6 +180808,14 @@
     "publisherId": "EP7345"
   },
   {
+    "titleId": "PPSA38088_00",
+    "conceptId": 10019299,
+    "name": "Vice: Magic City Mayhem",
+    "contentId": "HB2431-PPSA38088_00-1800WHOSEYADADDY",
+    "region": "HB",
+    "publisherId": "HB2431"
+  },
+  {
     "titleId": "PPSA38089_00",
     "conceptId": 10019397,
     "name": "YAR: Forgotten Throne",
@@ -183592,6 +183608,14 @@
     "publisherId": "UP3252"
   },
   {
+    "titleId": "PPSA39457_00",
+    "conceptId": 10020582,
+    "name": "GeoBook",
+    "contentId": "UP2833-PPSA39457_00-5000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833"
+  },
+  {
     "titleId": "PPSA39459_00",
     "conceptId": 10018214,
     "name": "Prinny Party: Going Overboard! Demo",
@@ -184524,6 +184548,14 @@
     "conceptId": 10020960,
     "name": "Ex-Master, Zombie",
     "contentId": "UB0851-PPSA40098_00-EXMASTERZOMBIEP5",
+    "region": "UB",
+    "publisherId": "UB0851"
+  },
+  {
+    "titleId": "PPSA40099_00",
+    "conceptId": 10020961,
+    "name": "Ritebound",
+    "contentId": "UB0851-PPSA40099_00-RITEBOUNDPS50000",
     "region": "UB",
     "publisherId": "UB0851"
   },
