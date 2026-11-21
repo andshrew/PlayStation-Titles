@@ -16240,6 +16240,14 @@
     "publisherId": "JP1190"
   },
   {
+    "titleId": "PPSA04710_00",
+    "conceptId": 10003488,
+    "name": "Ova Magica",
+    "contentId": "UP5155-PPSA04710_00-3851726658566090",
+    "region": "UP",
+    "publisherId": "UP5155"
+  },
+  {
     "titleId": "PPSA04711_00",
     "conceptId": 10003232,
     "name": "Submerged: Hidden Depths",
@@ -80398,6 +80406,14 @@
     "contentId": "UP0177-PPSA18183_00-APPLICATION00000",
     "region": "UP",
     "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA18184_00",
+    "conceptId": 10009072,
+    "name": "POPUCOM",
+    "contentId": "UB0018-PPSA18184_00-0939312373329984",
+    "region": "UB",
+    "publisherId": "UB0018"
   },
   {
     "titleId": "PPSA18185_00",
@@ -184696,6 +184712,14 @@
     "publisherId": "HB2875"
   },
   {
+    "titleId": "PPSA40294_00",
+    "conceptId": 10021097,
+    "name": "Escape: Immersion",
+    "contentId": "HB2226-PPSA40294_00-0615484297732244",
+    "region": "HB",
+    "publisherId": "HB2226"
+  },
+  {
     "titleId": "PPSA40300_00",
     "conceptId": 10021101,
     "name": "BOARDING DENIED",
@@ -184824,6 +184848,14 @@
     "publisherId": "HP4772"
   },
   {
+    "titleId": "PPSA40446_00",
+    "conceptId": 10019123,
+    "name": "Eyes Of The ElderWood: Demo",
+    "contentId": "EP3948-PPSA40446_00-DEMOELDERWOODPS5",
+    "region": "EP",
+    "publisherId": "EP3948"
+  },
+  {
     "titleId": "PPSA40458_00",
     "conceptId": 10021201,
     "name": "Cat Simulator",
@@ -184838,6 +184870,22 @@
     "contentId": "UB0111-PPSA40469_00-0287063787345457",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40470_00",
+    "conceptId": 10021210,
+    "name": "Scary Hot Dogs",
+    "contentId": "UB1027-PPSA40470_00-SCARYHOTDOGS0000",
+    "region": "UB",
+    "publisherId": "UB1027"
+  },
+  {
+    "titleId": "PPSA40486_00",
+    "conceptId": 10021224,
+    "name": "Catgirl Fantasy: Oath of the Night Sky",
+    "contentId": "UB1453-PPSA40486_00-0462779916436530",
+    "region": "UB",
+    "publisherId": "UB1453"
   },
   {
     "titleId": "PPSA40507_00",
@@ -185008,6 +185056,14 @@
     "publisherId": "UB0907"
   },
   {
+    "titleId": "PPSA40681_00",
+    "conceptId": 10021345,
+    "name": "ELO 1100 Chess",
+    "contentId": "UP7552-PPSA40681_00-0201748855370335",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA40694_00",
     "conceptId": 10021352,
     "name": "Checkers MASTER",
@@ -185032,11 +185088,35 @@
     "publisherId": "HB1620"
   },
   {
+    "titleId": "PPSA40800_00",
+    "conceptId": 10021432,
+    "name": "NOT TO SPEC",
+    "contentId": "UB1503-PPSA40800_00-0969599415997526",
+    "region": "UB",
+    "publisherId": "UB1503"
+  },
+  {
     "titleId": "PPSA40804_00",
     "conceptId": 10007678,
     "name": "Sweet Sugar Candy",
     "contentId": "UP7552-PPSA40804_00-0809292795563530",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40842_00",
+    "conceptId": 10021248,
+    "name": "Smartopus: IQ Quest Demo",
+    "contentId": "HB2024-PPSA40842_00-0300530844179381",
+    "region": "HB",
+    "publisherId": "HB2024"
+  },
+  {
+    "titleId": "PPSA40943_00",
+    "conceptId": 10021506,
+    "name": "Prizma Puzzle Classic 3",
+    "contentId": "UP8623-PPSA40943_00-0640615342769587",
+    "region": "UP",
+    "publisherId": "UP8623"
   }
 ]

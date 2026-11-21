@@ -348768,6 +348768,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA54342_00",
+    "conceptId": 10014743,
+    "name": "Arrowstorm Ascendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA54343_00",
     "conceptId": 10011005,
     "name": "Legends of the Snoot Beta",
@@ -386744,6 +386752,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60156_00",
+    "conceptId": 10021096,
+    "name": "Quiet Remains Slide Puzzle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60157_00",
     "conceptId": 10021097,
     "name": "Escape: Immersion",
@@ -386840,6 +386856,30 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60183_00",
+    "conceptId": 10021096,
+    "name": "Quiet Remains Slide Puzzle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60184_00",
+    "conceptId": 10021096,
+    "name": "Quiet Remains Slide Puzzle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60185_00",
+    "conceptId": 10020917,
+    "name": "A Fold Apart: Recrafted",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60186_00",
     "conceptId": 10010758,
     "name": "DPS IDLE",
@@ -386883,9 +386923,9 @@
     "titleId": "CUSA60194_00",
     "conceptId": 10019890,
     "name": "Tingus Goose",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HB1607-CUSA60194_00-TINGUSGOOSEXXXXX",
+    "region": "HB",
+    "publisherId": "HB1607"
   },
   {
     "titleId": "CUSA60195_00",
@@ -386898,10 +386938,10 @@
   {
     "titleId": "CUSA60196_00",
     "conceptId": 10019123,
-    "name": "Eyes Of The ElderWood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Eyes Of The ElderWood: Demo",
+    "contentId": "EP3948-CUSA60196_00-DEMOELDERWOODPS4",
+    "region": "EP",
+    "publisherId": "EP3948"
   },
   {
     "titleId": "CUSA60197_00",
@@ -387108,6 +387148,22 @@
     "conceptId": 10021275,
     "name": "Echo Flight",
     "contentId": "HP7989-CUSA60230_00-0294952193727571",
+    "region": "HP",
+    "publisherId": "HP7989"
+  },
+  {
+    "titleId": "CUSA60237_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "JP7943-CUSA60237_00-0175447334928391",
+    "region": "JP",
+    "publisherId": "JP7943"
+  },
+  {
+    "titleId": "CUSA60238_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "HP7989-CUSA60238_00-0535929102637484",
     "region": "HP",
     "publisherId": "HP7989"
   },
@@ -387370,10 +387426,10 @@
   {
     "titleId": "CUSA60351_00",
     "conceptId": 10021432,
-    "name": "Not to Spec: A Dystopian Factory Inspection Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "NOT TO SPEC",
+    "contentId": "UB1503-CUSA60351_00-0006953585530365",
+    "region": "UB",
+    "publisherId": "UB1503"
   },
   {
     "titleId": "CUSA60353_00",
@@ -387470,6 +387526,14 @@
     "contentId": "UP8623-CUSA60383_00-0473549074328614",
     "region": "UP",
     "publisherId": "UP8623"
+  },
+  {
+    "titleId": "CUSA60389_00",
+    "conceptId": 10014743,
+    "name": "Arrowstorm Ascendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA60390_00",
@@ -404006,6 +404070,14 @@
     "contentId": "JP1190-PPSA04708_00-RATALALOVECHOICE",
     "region": "JP",
     "publisherId": "JP1190"
+  },
+  {
+    "titleId": "PPSA04710_00",
+    "conceptId": 10003488,
+    "name": "Ova Magica",
+    "contentId": "UP5155-PPSA04710_00-3851726658566090",
+    "region": "UP",
+    "publisherId": "UP5155"
   },
   {
     "titleId": "PPSA04711_00",
@@ -468166,6 +468238,14 @@
     "contentId": "UP0177-PPSA18183_00-APPLICATION00000",
     "region": "UP",
     "publisherId": "UP0177"
+  },
+  {
+    "titleId": "PPSA18184_00",
+    "conceptId": 10009072,
+    "name": "POPUCOM",
+    "contentId": "UB0018-PPSA18184_00-0939312373329984",
+    "region": "UB",
+    "publisherId": "UB0018"
   },
   {
     "titleId": "PPSA18185_00",
@@ -572464,6 +572544,14 @@
     "publisherId": "HB2875"
   },
   {
+    "titleId": "PPSA40294_00",
+    "conceptId": 10021097,
+    "name": "Escape: Immersion",
+    "contentId": "HB2226-PPSA40294_00-0615484297732244",
+    "region": "HB",
+    "publisherId": "HB2226"
+  },
+  {
     "titleId": "PPSA40300_00",
     "conceptId": 10021101,
     "name": "BOARDING DENIED",
@@ -572592,6 +572680,14 @@
     "publisherId": "HP4772"
   },
   {
+    "titleId": "PPSA40446_00",
+    "conceptId": 10019123,
+    "name": "Eyes Of The ElderWood: Demo",
+    "contentId": "EP3948-PPSA40446_00-DEMOELDERWOODPS5",
+    "region": "EP",
+    "publisherId": "EP3948"
+  },
+  {
     "titleId": "PPSA40458_00",
     "conceptId": 10021201,
     "name": "Cat Simulator",
@@ -572606,6 +572702,22 @@
     "contentId": "UB0111-PPSA40469_00-0287063787345457",
     "region": "UB",
     "publisherId": "UB0111"
+  },
+  {
+    "titleId": "PPSA40470_00",
+    "conceptId": 10021210,
+    "name": "Scary Hot Dogs",
+    "contentId": "UB1027-PPSA40470_00-SCARYHOTDOGS0000",
+    "region": "UB",
+    "publisherId": "UB1027"
+  },
+  {
+    "titleId": "PPSA40486_00",
+    "conceptId": 10021224,
+    "name": "Catgirl Fantasy: Oath of the Night Sky",
+    "contentId": "UB1453-PPSA40486_00-0462779916436530",
+    "region": "UB",
+    "publisherId": "UB1453"
   },
   {
     "titleId": "PPSA40507_00",
@@ -572776,6 +572888,14 @@
     "publisherId": "UB0907"
   },
   {
+    "titleId": "PPSA40681_00",
+    "conceptId": 10021345,
+    "name": "ELO 1100 Chess",
+    "contentId": "UP7552-PPSA40681_00-0201748855370335",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA40694_00",
     "conceptId": 10021352,
     "name": "Checkers MASTER",
@@ -572800,11 +572920,35 @@
     "publisherId": "HB1620"
   },
   {
+    "titleId": "PPSA40800_00",
+    "conceptId": 10021432,
+    "name": "NOT TO SPEC",
+    "contentId": "UB1503-PPSA40800_00-0969599415997526",
+    "region": "UB",
+    "publisherId": "UB1503"
+  },
+  {
     "titleId": "PPSA40804_00",
     "conceptId": 10007678,
     "name": "Sweet Sugar Candy",
     "contentId": "UP7552-PPSA40804_00-0809292795563530",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA40842_00",
+    "conceptId": 10021248,
+    "name": "Smartopus: IQ Quest Demo",
+    "contentId": "HB2024-PPSA40842_00-0300530844179381",
+    "region": "HB",
+    "publisherId": "HB2024"
+  },
+  {
+    "titleId": "PPSA40943_00",
+    "conceptId": 10021506,
+    "name": "Prizma Puzzle Classic 3",
+    "contentId": "UP8623-PPSA40943_00-0640615342769587",
+    "region": "UP",
+    "publisherId": "UP8623"
   }
 ]

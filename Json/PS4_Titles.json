@@ -479556,6 +479556,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA54342_00",
+    "conceptId": 10014743,
+    "name": "Arrowstorm Ascendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA54343_00",
     "conceptId": 10011005,
     "name": "Legends of the Snoot Beta",
@@ -531773,6 +531784,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60156_00",
+    "conceptId": 10021096,
+    "name": "Quiet Remains Slide Puzzle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60157_00",
     "conceptId": 10021097,
     "name": "Escape: Immersion",
@@ -531905,6 +531927,39 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60183_00",
+    "conceptId": 10021096,
+    "name": "Quiet Remains Slide Puzzle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60184_00",
+    "conceptId": 10021096,
+    "name": "Quiet Remains Slide Puzzle",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60185_00",
+    "conceptId": 10020917,
+    "name": "A Fold Apart: Recrafted",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60186_00",
     "conceptId": 10010758,
     "name": "DPS IDLE",
@@ -531963,12 +532018,12 @@
     "titleId": "CUSA60194_00",
     "conceptId": 10019890,
     "name": "Tingus Goose",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HB1607-CUSA60194_00-TINGUSGOOSEXXXXX",
+    "region": "HB",
+    "publisherId": "HB1607",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60195_00",
@@ -531984,13 +532039,13 @@
   {
     "titleId": "CUSA60196_00",
     "conceptId": 10019123,
-    "name": "Eyes Of The ElderWood",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Eyes Of The ElderWood: Demo",
+    "contentId": "EP3948-CUSA60196_00-DEMOELDERWOODPS4",
+    "region": "EP",
+    "publisherId": "EP3948",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60197_00",
@@ -532277,6 +532332,28 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60237_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "JP7943-CUSA60237_00-0175447334928391",
+    "region": "JP",
+    "publisherId": "JP7943",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60238_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "HP7989-CUSA60238_00-0535929102637484",
+    "region": "HP",
+    "publisherId": "HP7989",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA60239_00",
@@ -532633,13 +532710,13 @@
   {
     "titleId": "CUSA60351_00",
     "conceptId": 10021432,
-    "name": "Not to Spec: A Dystopian Factory Inspection Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "NOT TO SPEC",
+    "contentId": "UB1503-CUSA60351_00-0006953585530365",
+    "region": "UB",
+    "publisherId": "UB1503",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60353_00",
@@ -532772,6 +532849,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60389_00",
+    "conceptId": 10014743,
+    "name": "Arrowstorm Ascendant",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA60390_00",
