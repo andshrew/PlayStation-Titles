@@ -387152,6 +387152,22 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "CUSA60235_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "UP7962-CUSA60235_00-0390237736125219",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
+    "titleId": "CUSA60236_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "EP7960-CUSA60236_00-0812708281673534",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
     "titleId": "CUSA60237_00",
     "conceptId": 10021277,
     "name": "Skipper",
@@ -387222,6 +387238,14 @@
     "contentId": "UP7552-CUSA60269_00-0100985416948957",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "CUSA60270_00",
+    "conceptId": 10021300,
+    "name": "Rock, Paper, Rumble",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA60289_00",
@@ -387624,6 +387648,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60428_00",
+    "conceptId": 10021620,
+    "name": "Air Gun Shooter",
+    "contentId": "UP7552-CUSA60428_00-0029246751371415",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "CUSA60430_00",
     "conceptId": 10021621,
     "name": "Cozy Home Unpacking",
@@ -387691,6 +387723,22 @@
     "titleId": "CUSA60455_00",
     "conceptId": 10019032,
     "name": "Altered Alma",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60457_00",
+    "conceptId": 10021699,
+    "name": "Mothergraft",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60461_00",
+    "conceptId": 10021715,
+    "name": "Shapes to Hell",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -572780,6 +572828,38 @@
     "conceptId": 10021274,
     "name": "Beacon Keeper",
     "contentId": "HP7989-PPSA40564_00-0995115961761385",
+    "region": "HP",
+    "publisherId": "HP7989"
+  },
+  {
+    "titleId": "PPSA40573_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "UP7962-PPSA40573_00-0894977082557663",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
+    "titleId": "PPSA40574_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "EP7960-PPSA40574_00-0355311953440897",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA40575_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "JP7943-PPSA40575_00-0028667869782131",
+    "region": "JP",
+    "publisherId": "JP7943"
+  },
+  {
+    "titleId": "PPSA40576_00",
+    "conceptId": 10021277,
+    "name": "Skipper",
+    "contentId": "HP7989-PPSA40576_00-0236976777483744",
     "region": "HP",
     "publisherId": "HP7989"
   },
