@@ -387040,6 +387040,14 @@
     "publisherId": "HB1620"
   },
   {
+    "titleId": "CUSA60214_00",
+    "conceptId": 10021185,
+    "name": "Yolk & Yonder",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60215_00",
     "conceptId": 10021237,
     "name": "Catch To Fish",
@@ -387424,6 +387432,14 @@
     "publisherId": "UB0851"
   },
   {
+    "titleId": "CUSA60334_00",
+    "conceptId": 10021396,
+    "name": "Palisade Provisions",
+    "contentId": "UB0851-CUSA60334_00-PALISIDEPROVPS40",
+    "region": "UB",
+    "publisherId": "UB0851"
+  },
+  {
     "titleId": "CUSA60335_00",
     "conceptId": 10021397,
     "name": "Nefiriya and the Sands of Eternity",
@@ -387680,6 +387696,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60443_00",
+    "conceptId": 10021663,
+    "name": "CleanPlay Paid App",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60445_00",
     "conceptId": 10021667,
     "name": "The Ghost of Solaris",
@@ -387736,9 +387760,25 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60458_00",
+    "conceptId": 10021711,
+    "name": "Ducks in Disguise 2: Mythology",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60461_00",
     "conceptId": 10021715,
     "name": "Shapes to Hell",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60466_00",
+    "conceptId": 10021727,
+    "name": "Toru",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -572496,6 +572536,14 @@
     "publisherId": "EP6880"
   },
   {
+    "titleId": "PPSA40135_00",
+    "conceptId": 10020987,
+    "name": "\u30c0\u30fc\u30af\u30cd\u30b9\u30fb\u30a2\u30f3\u30c9\u30fb\u30d5\u30ec\u30a4\u30e0 4\uff1a\u93e1\u306b\u6f5c\u3080\u6575",
+    "contentId": "UB0190-PPSA40135_00-0440869690256140",
+    "region": "UB",
+    "publisherId": "UB0190"
+  },
+  {
     "titleId": "PPSA40168_00",
     "conceptId": 10021010,
     "name": "Helion Conflict",
@@ -572984,6 +573032,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA40696_00",
+    "conceptId": 10021354,
+    "name": "Final Apex",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "PPSA40747_00",
     "conceptId": 10021141,
     "name": "Dark Rail",
@@ -573030,5 +573086,13 @@
     "contentId": "UP8623-PPSA40943_00-0640615342769587",
     "region": "UP",
     "publisherId": "UP8623"
+  },
+  {
+    "titleId": "PPSA40953_00",
+    "conceptId": 10021423,
+    "name": "One Hop Further",
+    "contentId": "HB2962-PPSA40953_00-0458582492420966",
+    "region": "HB",
+    "publisherId": "HB2962"
   }
 ]
