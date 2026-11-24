@@ -480967,12 +480967,12 @@
     "titleId": "CUSA54489_00",
     "conceptId": 10015031,
     "name": "Jaden Industries: Cozy Automation Puzzler",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP7372-CUSA54489_00-JADEN00000000000",
+    "region": "HP",
+    "publisherId": "HP7372",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA54490_00",
@@ -494244,12 +494244,12 @@
     "titleId": "CUSA55856_00",
     "conceptId": 10016160,
     "name": "Elements Destiny",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP0900-CUSA55856_00-ELEMENTSDESTINYD",
+    "region": "EP",
+    "publisherId": "EP0900",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA55857_00",
@@ -530576,13 +530576,13 @@
   {
     "titleId": "CUSA59948_00",
     "conceptId": 10020465,
-    "name": "What Do You Meme?\u00ae The Video Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "What Do You Meme",
+    "contentId": "UP0963-CUSA59948_00-0000000000000000",
+    "region": "UP",
+    "publisherId": "UP0963",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59949_00",
@@ -530918,12 +530918,12 @@
     "titleId": "CUSA59993_00",
     "conceptId": 10020698,
     "name": "Halver",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB0540-CUSA59993_00-0957040766704707",
+    "region": "JB",
+    "publisherId": "JB0540",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59999_00",
@@ -532697,6 +532697,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60330_00",
+    "conceptId": 10019339,
+    "name": "Treetop Trials",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60332_00",
     "conceptId": 10020684,
     "name": "The Smiling Flesh",
@@ -533159,6 +533170,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60456_00",
+    "conceptId": 10021696,
+    "name": "Silly Fox Mini Golf",
+    "contentId": "UP7552-CUSA60456_00-0934052671887278",
+    "region": "UP",
+    "publisherId": "UP7552",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA60457_00",
     "conceptId": 10021699,
     "name": "Mothergraft",
@@ -533195,6 +533217,39 @@
     "titleId": "CUSA60466_00",
     "conceptId": 10021727,
     "name": "Toru",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60467_00",
+    "conceptId": 10021730,
+    "name": "Gemgrit",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60474_00",
+    "conceptId": 10018014,
+    "name": "Pyramid Platformer - The Gem Heist",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60475_00",
+    "conceptId": 10019202,
+    "name": "Cyber Lab",
     "contentId": null,
     "region": null,
     "publisherId": null,
