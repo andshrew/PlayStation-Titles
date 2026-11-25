@@ -249027,9 +249027,9 @@
     "titleId": "CUSA39174_00",
     "conceptId": 10006805,
     "name": "Wall2Wall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP7989-CUSA39174_00-3267769009302033",
+    "region": "HP",
+    "publisherId": "HP7989"
   },
   {
     "titleId": "CUSA39179_00",
@@ -386203,9 +386203,9 @@
     "titleId": "CUSA60030_00",
     "conceptId": 10020634,
     "name": "Raider Kid and the Ruby Chest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP4591-CUSA60030_00-0696437297819087",
+    "region": "UP",
+    "publisherId": "UP4591"
   },
   {
     "titleId": "CUSA60031_00",
@@ -386850,10 +386850,10 @@
   {
     "titleId": "CUSA60181_00",
     "conceptId": 10021172,
-    "name": "Tidy Up: Electronic Store Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Tidy Up: Electronic Store",
+    "contentId": "UB0907-CUSA60181_00-0284658003142676",
+    "region": "UB",
+    "publisherId": "UB0907"
   },
   {
     "titleId": "CUSA60183_00",
@@ -387224,6 +387224,38 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "CUSA60259_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "UP7962-CUSA60259_00-0794608547826979",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
+    "titleId": "CUSA60260_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "EP7960-CUSA60260_00-0369564645850949",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
+    "titleId": "CUSA60261_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "JP7943-CUSA60261_00-0301791270236020",
+    "region": "JP",
+    "publisherId": "JP7943"
+  },
+  {
+    "titleId": "CUSA60262_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "HP7989-CUSA60262_00-0488069239875230",
+    "region": "HP",
+    "publisherId": "HP7989"
+  },
+  {
     "titleId": "CUSA60263_00",
     "conceptId": 10021288,
     "name": "Savoury Cascade",
@@ -387400,6 +387432,22 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60322_00",
+    "conceptId": 10021369,
+    "name": "NEVER A PENALTY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60323_00",
+    "conceptId": 10021091,
+    "name": "Jungle Shoot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60324_00",
     "conceptId": 10021370,
     "name": "Zomblox",
@@ -387414,6 +387462,14 @@
     "contentId": null,
     "region": null,
     "publisherId": null
+  },
+  {
+    "titleId": "CUSA60328_00",
+    "conceptId": 10021378,
+    "name": "Lethal Love",
+    "contentId": "HB2226-CUSA60328_00-0101680393157744",
+    "region": "HB",
+    "publisherId": "HB2226"
   },
   {
     "titleId": "CUSA60330_00",
@@ -387560,6 +387616,14 @@
     "publisherId": "HB2875"
   },
   {
+    "titleId": "CUSA60381_00",
+    "conceptId": 10021503,
+    "name": "Sort Them Cars: Sorting Simulator",
+    "contentId": "HB2226-CUSA60381_00-0764869680693427",
+    "region": "HB",
+    "publisherId": "HB2226"
+  },
+  {
     "titleId": "CUSA60382_00",
     "conceptId": 10015166,
     "name": "\u30cf\u30c3\u30d4\u30fc\u30eb\u30fc\u30c8\u3092\u7d42\u308f\u3089\u305b\u3066",
@@ -387576,6 +387640,14 @@
     "publisherId": "UP8623"
   },
   {
+    "titleId": "CUSA60387_00",
+    "conceptId": 10021514,
+    "name": "Ultramarinos Simulator: A Village Shop Tycoon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60389_00",
     "conceptId": 10014743,
     "name": "Arrowstorm Ascendant",
@@ -387587,9 +387659,9 @@
     "titleId": "CUSA60390_00",
     "conceptId": 10021194,
     "name": "Mystery Suspect",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "HP4772-CUSA60390_00-0945204932057686",
+    "region": "HP",
+    "publisherId": "HP4772"
   },
   {
     "titleId": "CUSA60397_00",
@@ -387819,6 +387891,30 @@
     "titleId": "CUSA60475_00",
     "conceptId": 10019202,
     "name": "Cyber Lab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60476_00",
+    "conceptId": 10018382,
+    "name": "Frozen Rune",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60477_00",
+    "conceptId": 10021742,
+    "name": "Hidden Depths",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60480_00",
+    "conceptId": 10021746,
+    "name": "The Samurai Quest",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -513056,6 +513152,14 @@
     "publisherId": "EP1629"
   },
   {
+    "titleId": "PPSA26879_00",
+    "conceptId": 10009603,
+    "name": "Gothic 3 Classic",
+    "contentId": "EP4389-PPSA26879_00-GOTHIC3CLASSICWW",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA26880_00",
     "conceptId": 10013082,
     "name": "Toaplan Arcade Collection Vol. 1",
@@ -566328,6 +566432,14 @@
     "publisherId": "UP2439"
   },
   {
+    "titleId": "PPSA37382_00",
+    "conceptId": 10017770,
+    "name": "Storage Hunter",
+    "contentId": "EP2430-PPSA37382_00-0349921284095629",
+    "region": "EP",
+    "publisherId": "EP2430"
+  },
+  {
     "titleId": "PPSA37386_00",
     "conceptId": 10018246,
     "name": "Culdcept The First Saturn Tribute",
@@ -572168,6 +572280,14 @@
     "publisherId": "UP7939"
   },
   {
+    "titleId": "PPSA39892_00",
+    "conceptId": 10020817,
+    "name": "\u30de\u30fc\u30bb\u30ca\u30ea\u30fc\u30ba\u30b0\u30ec\u30a4\u30b9",
+    "contentId": "JP0714-PPSA39892_00-0468462402958905",
+    "region": "JP",
+    "publisherId": "JP0714"
+  },
+  {
     "titleId": "PPSA39893_00",
     "conceptId": 10020818,
     "name": "Whispers Within",
@@ -573040,6 +573160,30 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "PPSA40597_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "UP7962-PPSA40597_00-0512093748368198",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
+    "titleId": "PPSA40598_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "EP7960-PPSA40598_00-0334935015920469",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA40599_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "JP7943-PPSA40599_00-0590617571117908",
+    "region": "JP",
+    "publisherId": "JP7943"
+  },
+  {
     "titleId": "PPSA40600_00",
     "conceptId": 10021283,
     "name": "Glowjar",
@@ -573160,6 +573304,22 @@
     "publisherId": "HB1620"
   },
   {
+    "titleId": "PPSA40780_00",
+    "conceptId": 10021414,
+    "name": "Hard Nuts",
+    "contentId": "EP8062-PPSA40780_00-0987486985524282",
+    "region": "EP",
+    "publisherId": "EP8062"
+  },
+  {
+    "titleId": "PPSA40781_00",
+    "conceptId": 10021415,
+    "name": "T-55",
+    "contentId": "EP8062-PPSA40781_00-0228012535661375",
+    "region": "EP",
+    "publisherId": "EP8062"
+  },
+  {
     "titleId": "PPSA40800_00",
     "conceptId": 10021432,
     "name": "NOT TO SPEC",
@@ -573184,6 +573344,38 @@
     "publisherId": "HB2024"
   },
   {
+    "titleId": "PPSA40855_00",
+    "conceptId": 10021470,
+    "name": "Tales of Lagoona: Orphans of the Ocean",
+    "contentId": "EP1411-PPSA40855_00-0761985804269838",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA40856_00",
+    "conceptId": 10021470,
+    "name": "Tales of Lagoona: Orphans of the Ocean",
+    "contentId": "EP1411-PPSA40856_00-0937199673504537",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA40857_00",
+    "conceptId": 10021470,
+    "name": "Tales of Lagoona: Orphans of the Ocean",
+    "contentId": "EP1411-PPSA40857_00-0514479698006459",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA40858_00",
+    "conceptId": 10021470,
+    "name": "Tales of Lagoona: Orphans of the Ocean",
+    "contentId": "EP1411-PPSA40858_00-0589761195900437",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA40943_00",
     "conceptId": 10021506,
     "name": "Prizma Puzzle Classic 3",
@@ -573198,5 +573390,13 @@
     "contentId": "HB2962-PPSA40953_00-0458582492420966",
     "region": "HB",
     "publisherId": "HB2962"
+  },
+  {
+    "titleId": "PPSA41038_00",
+    "conceptId": 10021224,
+    "name": "Catgirl Fantasy: Oath of the Night Sky Original Soundtrack",
+    "contentId": "UB1453-PPSA41038_00-0116191035520457",
+    "region": "UB",
+    "publisherId": "UB1453"
   }
 ]

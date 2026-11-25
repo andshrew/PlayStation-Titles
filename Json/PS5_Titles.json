@@ -125096,6 +125096,14 @@
     "publisherId": "EP1629"
   },
   {
+    "titleId": "PPSA26879_00",
+    "conceptId": 10009603,
+    "name": "Gothic 3 Classic",
+    "contentId": "EP4389-PPSA26879_00-GOTHIC3CLASSICWW",
+    "region": "EP",
+    "publisherId": "EP4389"
+  },
+  {
     "titleId": "PPSA26880_00",
     "conceptId": 10013082,
     "name": "Toaplan Arcade Collection Vol. 1",
@@ -178368,6 +178376,14 @@
     "publisherId": "UP2439"
   },
   {
+    "titleId": "PPSA37382_00",
+    "conceptId": 10017770,
+    "name": "Storage Hunter",
+    "contentId": "EP2430-PPSA37382_00-0349921284095629",
+    "region": "EP",
+    "publisherId": "EP2430"
+  },
+  {
     "titleId": "PPSA37386_00",
     "conceptId": 10018246,
     "name": "Culdcept The First Saturn Tribute",
@@ -184208,6 +184224,14 @@
     "publisherId": "UP7939"
   },
   {
+    "titleId": "PPSA39892_00",
+    "conceptId": 10020817,
+    "name": "\u30de\u30fc\u30bb\u30ca\u30ea\u30fc\u30ba\u30b0\u30ec\u30a4\u30b9",
+    "contentId": "JP0714-PPSA39892_00-0468462402958905",
+    "region": "JP",
+    "publisherId": "JP0714"
+  },
+  {
     "titleId": "PPSA39893_00",
     "conceptId": 10020818,
     "name": "Whispers Within",
@@ -185080,6 +185104,30 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "PPSA40597_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "UP7962-PPSA40597_00-0512093748368198",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
+    "titleId": "PPSA40598_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "EP7960-PPSA40598_00-0334935015920469",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA40599_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "JP7943-PPSA40599_00-0590617571117908",
+    "region": "JP",
+    "publisherId": "JP7943"
+  },
+  {
     "titleId": "PPSA40600_00",
     "conceptId": 10021283,
     "name": "Glowjar",
@@ -185200,6 +185248,22 @@
     "publisherId": "HB1620"
   },
   {
+    "titleId": "PPSA40780_00",
+    "conceptId": 10021414,
+    "name": "Hard Nuts",
+    "contentId": "EP8062-PPSA40780_00-0987486985524282",
+    "region": "EP",
+    "publisherId": "EP8062"
+  },
+  {
+    "titleId": "PPSA40781_00",
+    "conceptId": 10021415,
+    "name": "T-55",
+    "contentId": "EP8062-PPSA40781_00-0228012535661375",
+    "region": "EP",
+    "publisherId": "EP8062"
+  },
+  {
     "titleId": "PPSA40800_00",
     "conceptId": 10021432,
     "name": "NOT TO SPEC",
@@ -185224,6 +185288,38 @@
     "publisherId": "HB2024"
   },
   {
+    "titleId": "PPSA40855_00",
+    "conceptId": 10021470,
+    "name": "Tales of Lagoona: Orphans of the Ocean",
+    "contentId": "EP1411-PPSA40855_00-0761985804269838",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA40856_00",
+    "conceptId": 10021470,
+    "name": "Tales of Lagoona: Orphans of the Ocean",
+    "contentId": "EP1411-PPSA40856_00-0937199673504537",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA40857_00",
+    "conceptId": 10021470,
+    "name": "Tales of Lagoona: Orphans of the Ocean",
+    "contentId": "EP1411-PPSA40857_00-0514479698006459",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
+    "titleId": "PPSA40858_00",
+    "conceptId": 10021470,
+    "name": "Tales of Lagoona: Orphans of the Ocean",
+    "contentId": "EP1411-PPSA40858_00-0589761195900437",
+    "region": "EP",
+    "publisherId": "EP1411"
+  },
+  {
     "titleId": "PPSA40943_00",
     "conceptId": 10021506,
     "name": "Prizma Puzzle Classic 3",
@@ -185238,5 +185334,13 @@
     "contentId": "HB2962-PPSA40953_00-0458582492420966",
     "region": "HB",
     "publisherId": "HB2962"
+  },
+  {
+    "titleId": "PPSA41038_00",
+    "conceptId": 10021224,
+    "name": "Catgirl Fantasy: Oath of the Night Sky Original Soundtrack",
+    "contentId": "UB1453-PPSA41038_00-0116191035520457",
+    "region": "UB",
+    "publisherId": "UB1453"
   }
 ]

@@ -342411,12 +342411,12 @@
     "titleId": "CUSA39174_00",
     "conceptId": 10006805,
     "name": "Wall2Wall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP7989-CUSA39174_00-3267769009302033",
+    "region": "HP",
+    "publisherId": "HP7989",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA39179_00",
@@ -480971,7 +480971,7 @@
     "region": "HP",
     "publisherId": "HP7372",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -531028,12 +531028,12 @@
     "titleId": "CUSA60030_00",
     "conceptId": 10020634,
     "name": "Raider Kid and the Ruby Chest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP4591-CUSA60030_00-0696437297819087",
+    "region": "UP",
+    "publisherId": "UP4591",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60031_00",
@@ -531918,13 +531918,13 @@
   {
     "titleId": "CUSA60181_00",
     "conceptId": 10021172,
-    "name": "Tidy Up: Electronic Store Simulator",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Tidy Up: Electronic Store",
+    "contentId": "UB0907-CUSA60181_00-0284658003142676",
+    "region": "UB",
+    "publisherId": "UB0907",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60183_00",
@@ -532433,6 +532433,50 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60259_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "UP7962-CUSA60259_00-0794608547826979",
+    "region": "UP",
+    "publisherId": "UP7962",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60260_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "EP7960-CUSA60260_00-0369564645850949",
+    "region": "EP",
+    "publisherId": "EP7960",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60261_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "JP7943-CUSA60261_00-0301791270236020",
+    "region": "JP",
+    "publisherId": "JP7943",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA60262_00",
+    "conceptId": 10021283,
+    "name": "Glowjar",
+    "contentId": "HP7989-CUSA60262_00-0488069239875230",
+    "region": "HP",
+    "publisherId": "HP7989",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA60263_00",
     "conceptId": 10021288,
     "name": "Savoury Cascade",
@@ -532675,6 +532719,28 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60322_00",
+    "conceptId": 10021369,
+    "name": "NEVER A PENALTY",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60323_00",
+    "conceptId": 10021091,
+    "name": "Jungle Shoot",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60324_00",
     "conceptId": 10021370,
     "name": "Zomblox",
@@ -532694,6 +532760,17 @@
     "publisherId": null,
     "psVR": null,
     "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60328_00",
+    "conceptId": 10021378,
+    "name": "Lethal Love",
+    "contentId": "HB2226-CUSA60328_00-0101680393157744",
+    "region": "HB",
+    "publisherId": "HB2226",
+    "psVR": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": null
   },
   {
@@ -532895,6 +532972,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60381_00",
+    "conceptId": 10021503,
+    "name": "Sort Them Cars: Sorting Simulator",
+    "contentId": "HB2226-CUSA60381_00-0764869680693427",
+    "region": "HB",
+    "publisherId": "HB2226",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA60382_00",
     "conceptId": 10015166,
     "name": "\u30cf\u30c3\u30d4\u30fc\u30eb\u30fc\u30c8\u3092\u7d42\u308f\u3089\u305b\u3066",
@@ -532917,6 +533005,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60387_00",
+    "conceptId": 10021514,
+    "name": "Ultramarinos Simulator: A Village Shop Tycoon",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60389_00",
     "conceptId": 10014743,
     "name": "Arrowstorm Ascendant",
@@ -532931,12 +533030,12 @@
     "titleId": "CUSA60390_00",
     "conceptId": 10021194,
     "name": "Mystery Suspect",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP4772-CUSA60390_00-0945204932057686",
+    "region": "HP",
+    "publisherId": "HP4772",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60397_00",
@@ -533250,6 +533349,39 @@
     "titleId": "CUSA60475_00",
     "conceptId": 10019202,
     "name": "Cyber Lab",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60476_00",
+    "conceptId": 10018382,
+    "name": "Frozen Rune",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60477_00",
+    "conceptId": 10021742,
+    "name": "Hidden Depths",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60480_00",
+    "conceptId": 10021746,
+    "name": "The Samurai Quest",
     "contentId": null,
     "region": null,
     "publisherId": null,
