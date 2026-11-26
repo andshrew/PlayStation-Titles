@@ -513097,13 +513097,13 @@
   {
     "titleId": "CUSA57764_00",
     "conceptId": 10015584,
-    "name": "Marupoyo: The Round Chick's Adventure",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "\u30de\u30eb\u30dd\u30e8: \u307e\u3093\u307e\u308b\u30d2\u30e8\u30b3\u306e\u5192\u967a",
+    "contentId": "UP2100-CUSA57764_00-MARUPOYOBASEGAME",
+    "region": "UP",
+    "publisherId": "UP2100",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA57765_00",
@@ -526955,6 +526955,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59400_00",
+    "conceptId": 10019667,
+    "name": "Crystals Of Irm",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA59412_00",
     "conceptId": 10019680,
     "name": "Private Island Secrets",
@@ -528013,13 +528024,13 @@
   {
     "titleId": "CUSA59533_00",
     "conceptId": 10019819,
-    "name": "HAPPY WEEKEND",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a3\u30fc\u30af\u30a8\u30f3\u30c9",
+    "contentId": "JB1662-CUSA59533_00-0876290300173463",
+    "region": "JB",
+    "publisherId": "JB1662",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59538_00",
@@ -530288,6 +530299,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA59908_00",
+    "conceptId": 10020491,
+    "name": "Arcade Archives DIRT DASH",
+    "contentId": "JP0571-CUSA59908_00-HAMPRDC000000001",
+    "region": "JP",
+    "publisherId": "JP0571",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
+  },
+  {
     "titleId": "CUSA59909_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
@@ -530654,23 +530676,23 @@
     "titleId": "CUSA59958_00",
     "conceptId": 10020603,
     "name": "Batya in the Building: 10 Years Later",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP6694-CUSA59958_00-HOVABATYA10PS4EU",
+    "region": "EP",
+    "publisherId": "EP6694",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59959_00",
     "conceptId": 10020603,
     "name": "Batya in the Building: 10 Years Later",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP6695-CUSA59959_00-HOVABATYA10PS4NA",
+    "region": "UP",
+    "publisherId": "UP6695",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59960_00",
@@ -530687,12 +530709,12 @@
     "titleId": "CUSA59961_00",
     "conceptId": 10020603,
     "name": "Batya in the Building: 10 Years Later",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "HP6691-CUSA59961_00-HOVABATYA10PS4AS",
+    "region": "HP",
+    "publisherId": "HP6691",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59962_00",
@@ -531776,23 +531798,23 @@
     "titleId": "CUSA60155_00",
     "conceptId": 10021096,
     "name": "Quiet Remains Slide Puzzle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA60155_00-QUIETREMAINSEUAJ",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60156_00",
     "conceptId": 10021096,
     "name": "Quiet Remains Slide Puzzle",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "JB2357-CUSA60156_00-QUIETREMAINSNA00",
+    "region": "JB",
+    "publisherId": "JB2357",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60157_00",
@@ -532499,6 +532521,28 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA60267_00",
+    "conceptId": 10021286,
+    "name": "Croc's World Construction Kit 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60268_00",
+    "conceptId": 10021286,
+    "name": "Croc's World Construction Kit 3",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60269_00",
     "conceptId": 10021296,
     "name": "Kitties Solitaire",
@@ -532771,7 +532815,7 @@
     "publisherId": "HB2226",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60330_00",
@@ -532840,15 +532884,26 @@
     "pS5BackCompat": null
   },
   {
-    "titleId": "CUSA60349_00",
-    "conceptId": 10021427,
-    "name": "Breakworld",
+    "titleId": "CUSA60346_00",
+    "conceptId": 10021405,
+    "name": "Cozy Christmas Jigsaw Puzzles",
     "contentId": null,
     "region": null,
     "publisherId": null,
     "psVR": null,
     "pS4Pro": null,
     "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60349_00",
+    "conceptId": 10021427,
+    "name": "Breakworld",
+    "contentId": "UB0786-CUSA60349_00-0339391589990860",
+    "region": "UB",
+    "publisherId": "UB0786",
+    "psVR": null,
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60351_00",
@@ -533170,6 +533225,17 @@
     "pS5BackCompat": null
   },
   {
+    "titleId": "CUSA60433_00",
+    "conceptId": 10021051,
+    "name": "Rhell: Warped Worlds & Troubled Times",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA60434_00",
     "conceptId": 10021635,
     "name": "Tidy Up The Christmas Shop",
@@ -533382,6 +533448,39 @@
     "titleId": "CUSA60480_00",
     "conceptId": 10021746,
     "name": "The Samurai Quest",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60496_00",
+    "conceptId": 10021782,
+    "name": "Grass Rush",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60498_00",
+    "conceptId": 10016690,
+    "name": "S.E.X. Project: Simulated Emotional Xenotech",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60502_00",
+    "conceptId": 10021796,
+    "name": "Cozy Cats Hunt",
     "contentId": null,
     "region": null,
     "publisherId": null,
