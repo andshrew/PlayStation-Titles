@@ -249019,9 +249019,9 @@
     "titleId": "CUSA39173_00",
     "conceptId": 10006805,
     "name": "Wall2Wall",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7943-CUSA39173_00-0524811695692704",
+    "region": "JP",
+    "publisherId": "JP7943"
   },
   {
     "titleId": "CUSA39174_00",
@@ -371034,10 +371034,10 @@
   {
     "titleId": "CUSA57478_00",
     "conceptId": 10017577,
-    "name": "MELON PARKER -We are Whatever Club!-",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "\u3081\u308d\u3093\u3071\u30fc\u304b\u30fc \uff5e\u30ad\u30df\u304c\u306a\u3093\u3067\u3082\u90e8\u306e\u90e8\u9577\u3055\u3093\uff01\uff5e",
+    "contentId": "JP0118-CUSA57478_00-0754146653558161",
+    "region": "JP",
+    "publisherId": "JP0118"
   },
   {
     "titleId": "CUSA57479_00",
@@ -373162,7 +373162,7 @@
   {
     "titleId": "CUSA57764_00",
     "conceptId": 10015584,
-    "name": "\u30de\u30eb\u30dd\u30e8: \u307e\u3093\u307e\u308b\u30d2\u30e8\u30b3\u306e\u5192\u967a",
+    "name": "Marupoyo: The Round Chick's Adventure",
     "contentId": "UP2100-CUSA57764_00-MARUPOYOBASEGAME",
     "region": "UP",
     "publisherId": "UP2100"
@@ -374339,17 +374339,17 @@
     "titleId": "CUSA57922_00",
     "conceptId": 10015238,
     "name": "Taxi Chaos 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1843-CUSA57922_00-0769802598021309",
+    "region": "EB",
+    "publisherId": "EB1843"
   },
   {
     "titleId": "CUSA57923_00",
     "conceptId": 10015238,
     "name": "Taxi Chaos 2",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EB1843-CUSA57923_00-0708626064226888",
+    "region": "EB",
+    "publisherId": "EB1843"
   },
   {
     "titleId": "CUSA57924_00",
@@ -386826,18 +386826,18 @@
   {
     "titleId": "CUSA60172_00",
     "conceptId": 10021086,
-    "name": "Bunker Tidy Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bunker",
+    "contentId": "UP1564-CUSA60172_00-0858239482549033",
+    "region": "UP",
+    "publisherId": "UP1564"
   },
   {
     "titleId": "CUSA60173_00",
     "conceptId": 10021086,
-    "name": "Bunker Tidy Up",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Bunker",
+    "contentId": "EP1549-CUSA60173_00-0761475801781395",
+    "region": "EP",
+    "publisherId": "EP1549"
   },
   {
     "titleId": "CUSA60176_00",
@@ -386931,6 +386931,14 @@
     "titleId": "CUSA60192_00",
     "conceptId": 10021178,
     "name": "Gospodar's Tales",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60193_00",
+    "conceptId": 10021193,
+    "name": "Push & Bloom",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -387035,9 +387043,9 @@
     "titleId": "CUSA60211_00",
     "conceptId": 10021226,
     "name": "An Eggstremely Hard Game",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JB1950-CUSA60211_00-0061628245150894",
+    "region": "JB",
+    "publisherId": "JB1950"
   },
   {
     "titleId": "CUSA60212_00",
@@ -387147,9 +387155,9 @@
     "titleId": "CUSA60227_00",
     "conceptId": 10021275,
     "name": "Echo Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP7962-CUSA60227_00-0890485319985593",
+    "region": "UP",
+    "publisherId": "UP7962"
   },
   {
     "titleId": "CUSA60228_00",
@@ -387163,9 +387171,9 @@
     "titleId": "CUSA60229_00",
     "conceptId": 10021275,
     "name": "Echo Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "JP7943-CUSA60229_00-0698580039004079",
+    "region": "JP",
+    "publisherId": "JP7943"
   },
   {
     "titleId": "CUSA60230_00",
@@ -387656,6 +387664,14 @@
     "publisherId": "HB2875"
   },
   {
+    "titleId": "CUSA60379_00",
+    "conceptId": 10021441,
+    "name": "Jeff Run",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60381_00",
     "conceptId": 10021503,
     "name": "Sort Them Cars: Sorting Simulator",
@@ -387968,6 +387984,14 @@
     "publisherId": null
   },
   {
+    "titleId": "CUSA60487_00",
+    "conceptId": 10021759,
+    "name": "Loop Dash",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA60496_00",
     "conceptId": 10021782,
     "name": "Grass Rush",
@@ -387987,6 +388011,22 @@
     "titleId": "CUSA60502_00",
     "conceptId": 10021796,
     "name": "Cozy Cats Hunt",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60507_00",
+    "conceptId": 234377,
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60509_00",
+    "conceptId": 10021732,
+    "name": "Clubbed Seal",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -557040,6 +557080,14 @@
     "publisherId": "EP6718"
   },
   {
+    "titleId": "PPSA35068_00",
+    "conceptId": 10017983,
+    "name": "Fountains",
+    "contentId": "EP2627-PPSA35068_00-FOUNTAINSPS50000",
+    "region": "EP",
+    "publisherId": "EP2627"
+  },
+  {
     "titleId": "PPSA35070_00",
     "conceptId": 10017986,
     "name": "File Destined",
@@ -564064,6 +564112,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA36747_00",
+    "conceptId": 10017754,
+    "name": "MR.ELEVATOR",
+    "contentId": "UB2158-PPSA36747_00-0000000000000000",
+    "region": "UB",
+    "publisherId": "UB2158"
+  },
+  {
     "titleId": "PPSA36749_00",
     "conceptId": 10018999,
     "name": "Console Archives T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy",
@@ -570256,6 +570312,14 @@
     "publisherId": "UB2544"
   },
   {
+    "titleId": "PPSA38603_00",
+    "conceptId": 10020086,
+    "name": "Machine Party",
+    "contentId": "HB1326-PPSA38603_00-MACHINEPARTYGAME",
+    "region": "HB",
+    "publisherId": "HB1326"
+  },
+  {
     "titleId": "PPSA38611_00",
     "conceptId": 10020090,
     "name": "Darkstone Bay",
@@ -570408,6 +570472,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "PPSA38706_00",
+    "conceptId": 10020137,
+    "name": "Station to Station",
+    "contentId": "HP6320-PPSA38706_00-STATIONTOSTATION",
+    "region": "HP",
+    "publisherId": "HP6320"
+  },
+  {
     "titleId": "PPSA38707_00",
     "conceptId": 10020138,
     "name": "The Bathrooms",
@@ -570422,6 +570494,14 @@
     "contentId": "JP0425-PPSA38708_00-EDSORA2TRIAL0001",
     "region": "JP",
     "publisherId": "JP0425"
+  },
+  {
+    "titleId": "PPSA38711_00",
+    "conceptId": 10020139,
+    "name": "Toziuha Night Order of the Alchemists",
+    "contentId": "EP6718-PPSA38711_00-0560032549600186",
+    "region": "EP",
+    "publisherId": "EP6718"
   },
   {
     "titleId": "PPSA38720_00",
@@ -570768,6 +570848,14 @@
     "publisherId": "JP0571"
   },
   {
+    "titleId": "PPSA38845_00",
+    "conceptId": 10020189,
+    "name": "Pinball FX VR",
+    "contentId": "EP4042-PPSA38845_00-PINBALLFXVR00000",
+    "region": "EP",
+    "publisherId": "EP4042"
+  },
+  {
     "titleId": "PPSA38846_00",
     "conceptId": 10009613,
     "name": "Elta: Defy All Gods - Demo",
@@ -571078,6 +571166,14 @@
     "contentId": "UP7552-PPSA38979_00-0633347055533957",
     "region": "UP",
     "publisherId": "UP7552"
+  },
+  {
+    "titleId": "PPSA38982_00",
+    "conceptId": 10020285,
+    "name": "Hotel Renovator Simulator",
+    "contentId": "JB1941-PPSA38982_00-0658085835863993",
+    "region": "JB",
+    "publisherId": "JB1941"
   },
   {
     "titleId": "PPSA38983_00",
@@ -571696,12 +571792,28 @@
     "publisherId": "JP0571"
   },
   {
+    "titleId": "PPSA39320_00",
+    "conceptId": 10020500,
+    "name": "Bunny Minesweeper",
+    "contentId": "EP6694-PPSA39320_00-MINESWEEPERPS5EU",
+    "region": "EP",
+    "publisherId": "EP6694"
+  },
+  {
     "titleId": "PPSA39321_00",
     "conceptId": 10020500,
     "name": "Bunny Minesweeper",
     "contentId": "UP6695-PPSA39321_00-MINESWEEPERPS5NA",
     "region": "UP",
     "publisherId": "UP6695"
+  },
+  {
+    "titleId": "PPSA39322_00",
+    "conceptId": 10020500,
+    "name": "Bunny Minesweeper",
+    "contentId": "JP6627-PPSA39322_00-MINESWEEPERPS5JP",
+    "region": "JP",
+    "publisherId": "JP6627"
   },
   {
     "titleId": "PPSA39323_00",
@@ -571862,6 +571974,14 @@
     "contentId": "EB2898-PPSA39421_00-AIRSHIPISLEOFREV",
     "region": "EB",
     "publisherId": "EB2898"
+  },
+  {
+    "titleId": "PPSA39423_00",
+    "conceptId": 10020561,
+    "name": "Bogos Binted?",
+    "contentId": "JB1863-PPSA39423_00-0071333118412454",
+    "region": "JB",
+    "publisherId": "JB1863"
   },
   {
     "titleId": "PPSA39425_00",
@@ -572286,6 +572406,14 @@
     "contentId": "UB0190-PPSA39773_00-0960943448353815",
     "region": "UB",
     "publisherId": "UB0190"
+  },
+  {
+    "titleId": "PPSA39776_00",
+    "conceptId": 10020739,
+    "name": "Reshine",
+    "contentId": "HB2774-PPSA39776_00-0968180054585685",
+    "region": "HB",
+    "publisherId": "HB2774"
   },
   {
     "titleId": "PPSA39793_00",
@@ -572976,6 +573104,14 @@
     "publisherId": "EP3552"
   },
   {
+    "titleId": "PPSA40172_00",
+    "conceptId": 10021013,
+    "name": "Antarctica 88",
+    "contentId": "UP3698-PPSA40172_00-0362549714494643",
+    "region": "UP",
+    "publisherId": "UP3698"
+  },
+  {
     "titleId": "PPSA40192_00",
     "conceptId": 10012946,
     "name": "Empires Shall Fall",
@@ -573016,6 +573152,14 @@
     "publisherId": "UP8556"
   },
   {
+    "titleId": "PPSA40219_00",
+    "conceptId": 10021036,
+    "name": "Feral Road",
+    "contentId": "UB0851-PPSA40219_00-FERALROADPS50000",
+    "region": "UB",
+    "publisherId": "UB0851"
+  },
+  {
     "titleId": "PPSA40220_00",
     "conceptId": 10021037,
     "name": "The Abjuration Stand",
@@ -573030,6 +573174,14 @@
     "contentId": "UB2837-PPSA40256_00-0774418575238432",
     "region": "UB",
     "publisherId": "UB2837"
+  },
+  {
+    "titleId": "PPSA40262_00",
+    "conceptId": 10021069,
+    "name": "The Spectrum Retreat: Redux",
+    "contentId": "EP4337-PPSA40262_00-SPECTRUMREDUX001",
+    "region": "EP",
+    "publisherId": "EP4337"
   },
   {
     "titleId": "PPSA40266_00",
@@ -573264,6 +573416,14 @@
     "publisherId": "UB0111"
   },
   {
+    "titleId": "PPSA40513_00",
+    "conceptId": 10009902,
+    "name": "Teppo and The Secret Ancient City",
+    "contentId": "JP5796-PPSA40513_00-TEPPOTSOACPS5000",
+    "region": "JP",
+    "publisherId": "JP5796"
+  },
+  {
     "titleId": "PPSA40523_00",
     "conceptId": 10021213,
     "name": "Security 51",
@@ -573318,6 +573478,22 @@
     "contentId": "HP7989-PPSA40564_00-0995115961761385",
     "region": "HP",
     "publisherId": "HP7989"
+  },
+  {
+    "titleId": "PPSA40566_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": "EP7960-PPSA40566_00-0933730469009333",
+    "region": "EP",
+    "publisherId": "EP7960"
+  },
+  {
+    "titleId": "PPSA40567_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": "JP7943-PPSA40567_00-0647585577872561",
+    "region": "JP",
+    "publisherId": "JP7943"
   },
   {
     "titleId": "PPSA40573_00",
@@ -573496,6 +573672,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA40688_00",
+    "conceptId": 10021321,
+    "name": "Mahjong Beauties: Unveiled",
+    "contentId": "UP8616-PPSA40688_00-0701739597147477",
+    "region": "UP",
+    "publisherId": "UP8616"
+  },
+  {
     "titleId": "PPSA40694_00",
     "conceptId": 10021352,
     "name": "Checkers MASTER",
@@ -573510,6 +573694,14 @@
     "contentId": "EP6197-PPSA40696_00-0373529816926918",
     "region": "EP",
     "publisherId": "EP6197"
+  },
+  {
+    "titleId": "PPSA40725_00",
+    "conceptId": 10021370,
+    "name": "Zomblox",
+    "contentId": "JP5441-PPSA40725_00-0043930644424545",
+    "region": "JP",
+    "publisherId": "JP5441"
   },
   {
     "titleId": "PPSA40747_00",
@@ -573630,6 +573822,22 @@
     "contentId": "HB2962-PPSA40953_00-0458582492420966",
     "region": "HB",
     "publisherId": "HB2962"
+  },
+  {
+    "titleId": "PPSA40965_00",
+    "conceptId": 10021523,
+    "name": "Santa's Shop Tidy Up",
+    "contentId": "UB0683-PPSA40965_00-0926715240718183",
+    "region": "UB",
+    "publisherId": "UB0683"
+  },
+  {
+    "titleId": "PPSA41003_00",
+    "conceptId": 10021543,
+    "name": "Real Estate Dice Tycoon",
+    "contentId": "UP7552-PPSA41003_00-0251878771102899",
+    "region": "UP",
+    "publisherId": "UP7552"
   },
   {
     "titleId": "PPSA41038_00",
