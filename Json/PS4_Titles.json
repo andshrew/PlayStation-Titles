@@ -397030,7 +397030,7 @@
     "region": "UP",
     "publisherId": "UP2619",
     "psVR": null,
-    "pS4Pro": null,
+    "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
   },
   {
@@ -510741,6 +510741,17 @@
     "pS5BackCompat": "Compatible"
   },
   {
+    "titleId": "CUSA57533_00",
+    "conceptId": 10013875,
+    "name": "Moses & Plato - Last Train to Clawville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
     "titleId": "CUSA57534_00",
     "conceptId": 10017633,
     "name": "Run from Duck",
@@ -517614,6 +517625,17 @@
     "psVR": null,
     "pS4Pro": "Supported",
     "pS5BackCompat": "Compatible"
+  },
+  {
+    "titleId": "CUSA58268_00",
+    "conceptId": 10018138,
+    "name": "Breaking Gates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
   },
   {
     "titleId": "CUSA58269_00",
@@ -530192,12 +530214,12 @@
     "titleId": "CUSA59891_00",
     "conceptId": 10020440,
     "name": "Idle Breaker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UP2833-CUSA59891_00-2000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA59892_00",
@@ -530280,6 +530302,17 @@
     "titleId": "CUSA59900_00",
     "conceptId": 10013844,
     "name": "We Could Be Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA59902_00",
+    "conceptId": 10020479,
+    "name": "Golf Orbit",
     "contentId": null,
     "region": null,
     "publisherId": null,
@@ -532342,18 +532375,18 @@
     "publisherId": "UP7962",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60228_00",
     "conceptId": 10021275,
     "name": "Echo Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "EP7960-CUSA60228_00-0636048554547140",
+    "region": "EP",
+    "publisherId": "EP7960",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60229_00",
@@ -532364,7 +532397,7 @@
     "publisherId": "JP7943",
     "psVR": null,
     "pS4Pro": "Supported",
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60230_00",
@@ -532699,13 +532732,13 @@
   {
     "titleId": "CUSA60307_00",
     "conceptId": 10021248,
-    "name": "Smartopus: IQ Quest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "name": "Smartopus:IQ Quest",
+    "contentId": "HB2024-CUSA60307_00-0292121462067916",
+    "region": "HB",
+    "publisherId": "HB2024",
     "psVR": null,
-    "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS4Pro": "Supported",
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60308_00",
@@ -533118,12 +533151,12 @@
     "titleId": "CUSA60397_00",
     "conceptId": 10021541,
     "name": "CLAW BELOW",
-    "contentId": null,
-    "region": null,
-    "publisherId": null,
+    "contentId": "UB1503-CUSA60397_00-0953362225514624",
+    "region": "UB",
+    "publisherId": "UB1503",
     "psVR": null,
     "pS4Pro": null,
-    "pS5BackCompat": null
+    "pS5BackCompat": "Compatible"
   },
   {
     "titleId": "CUSA60398_00",
@@ -533534,6 +533567,28 @@
   },
   {
     "titleId": "CUSA60509_00",
+    "conceptId": 10021732,
+    "name": "Clubbed Seal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60510_00",
+    "conceptId": 10021737,
+    "name": "Elder Gate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null,
+    "psVR": null,
+    "pS4Pro": null,
+    "pS5BackCompat": null
+  },
+  {
+    "titleId": "CUSA60512_00",
     "conceptId": 10021732,
     "name": "Clubbed Seal",
     "contentId": null,

@@ -371448,6 +371448,14 @@
     "publisherId": "UP2005"
   },
   {
+    "titleId": "CUSA57533_00",
+    "conceptId": 10013875,
+    "name": "Moses & Plato - Last Train to Clawville",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
     "titleId": "CUSA57534_00",
     "conceptId": 10017633,
     "name": "Run from Duck",
@@ -376446,6 +376454,14 @@
     "contentId": "HP3768-CUSA58267_00-0922972991691502",
     "region": "HP",
     "publisherId": "HP3768"
+  },
+  {
+    "titleId": "CUSA58268_00",
+    "conceptId": 10018138,
+    "name": "Breaking Gates",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
   },
   {
     "titleId": "CUSA58269_00",
@@ -385595,9 +385611,9 @@
     "titleId": "CUSA59891_00",
     "conceptId": 10020440,
     "name": "Idle Breaker",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UP2833-CUSA59891_00-2000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833"
   },
   {
     "titleId": "CUSA59892_00",
@@ -385659,6 +385675,14 @@
     "titleId": "CUSA59900_00",
     "conceptId": 10013844,
     "name": "We Could Be Heroes",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA59902_00",
+    "conceptId": 10020479,
+    "name": "Golf Orbit",
     "contentId": null,
     "region": null,
     "publisherId": null
@@ -387163,9 +387187,9 @@
     "titleId": "CUSA60228_00",
     "conceptId": 10021275,
     "name": "Echo Flight",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "EP7960-CUSA60228_00-0636048554547140",
+    "region": "EP",
+    "publisherId": "EP7960"
   },
   {
     "titleId": "CUSA60229_00",
@@ -387418,10 +387442,10 @@
   {
     "titleId": "CUSA60307_00",
     "conceptId": 10021248,
-    "name": "Smartopus: IQ Quest",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "name": "Smartopus:IQ Quest",
+    "contentId": "HB2024-CUSA60307_00-0292121462067916",
+    "region": "HB",
+    "publisherId": "HB2024"
   },
   {
     "titleId": "CUSA60308_00",
@@ -387723,9 +387747,9 @@
     "titleId": "CUSA60397_00",
     "conceptId": 10021541,
     "name": "CLAW BELOW",
-    "contentId": null,
-    "region": null,
-    "publisherId": null
+    "contentId": "UB1503-CUSA60397_00-0953362225514624",
+    "region": "UB",
+    "publisherId": "UB1503"
   },
   {
     "titleId": "CUSA60398_00",
@@ -388025,6 +388049,22 @@
   },
   {
     "titleId": "CUSA60509_00",
+    "conceptId": 10021732,
+    "name": "Clubbed Seal",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60510_00",
+    "conceptId": 10021737,
+    "name": "Elder Gate",
+    "contentId": null,
+    "region": null,
+    "publisherId": null
+  },
+  {
+    "titleId": "CUSA60512_00",
     "conceptId": 10021732,
     "name": "Clubbed Seal",
     "contentId": null,
@@ -565264,6 +565304,14 @@
     "publisherId": "UP1181"
   },
   {
+    "titleId": "PPSA36983_00",
+    "conceptId": 10018322,
+    "name": "CALX Demo",
+    "contentId": "EB0235-PPSA36983_00-CALXDEMO00000000",
+    "region": "EB",
+    "publisherId": "EB0235"
+  },
+  {
     "titleId": "PPSA36984_00",
     "conceptId": 10019105,
     "name": "Flee the Fallen",
@@ -568051,7 +568099,7 @@
     "titleId": "PPSA37755_00",
     "conceptId": 10019576,
     "name": "Winx Club - Moonlight Quest",
-    "contentId": null,
+    "contentId": "EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
     "region": "EP",
     "publisherId": "EP8021"
   },
@@ -570496,6 +570544,14 @@
     "publisherId": "JP0425"
   },
   {
+    "titleId": "PPSA38710_00",
+    "conceptId": 10020139,
+    "name": "Toziuha Night Order of the Alchemists",
+    "contentId": "UP6718-PPSA38710_00-0560032549600186",
+    "region": "UP",
+    "publisherId": "UP6718"
+  },
+  {
     "titleId": "PPSA38711_00",
     "conceptId": 10020139,
     "name": "Toziuha Night Order of the Alchemists",
@@ -571670,6 +571726,14 @@
     "contentId": "UP8428-PPSA39223_00-0712664832266556",
     "region": "UP",
     "publisherId": "UP8428"
+  },
+  {
+    "titleId": "PPSA39226_00",
+    "conceptId": 10020440,
+    "name": "Idle Breaker",
+    "contentId": "UP2833-PPSA39226_00-5000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833"
   },
   {
     "titleId": "PPSA39227_00",
@@ -573192,6 +573256,14 @@
     "publisherId": "UB1503"
   },
   {
+    "titleId": "PPSA40278_00",
+    "conceptId": 10021086,
+    "name": "Bunker Tidy Up",
+    "contentId": "EP1549-PPSA40278_00-0880153382757609",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
     "titleId": "PPSA40280_00",
     "conceptId": 10021087,
     "name": "Old Market Restored",
@@ -573480,6 +573552,14 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "PPSA40565_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": "UP7962-PPSA40565_00-0550797706840544",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
     "titleId": "PPSA40566_00",
     "conceptId": 10021275,
     "name": "Echo Flight",
@@ -573494,6 +573574,14 @@
     "contentId": "JP7943-PPSA40567_00-0647585577872561",
     "region": "JP",
     "publisherId": "JP7943"
+  },
+  {
+    "titleId": "PPSA40568_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": "HP7989-PPSA40568_00-0794301484158737",
+    "region": "HP",
+    "publisherId": "HP7989"
   },
   {
     "titleId": "PPSA40573_00",
@@ -573768,6 +573856,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA40809_00",
+    "conceptId": 10021438,
+    "name": "Chaos Mini Racer",
+    "contentId": "UP7552-PPSA40809_00-0164396736182794",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA40842_00",
     "conceptId": 10021248,
     "name": "Smartopus: IQ Quest Demo",
@@ -573808,6 +573904,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA40919_00",
+    "conceptId": 10021498,
+    "name": "eXcise Revenge",
+    "contentId": "EP3877-PPSA40919_00-EXREVENGBASEGAME",
+    "region": "EP",
+    "publisherId": "EP3877"
+  },
+  {
     "titleId": "PPSA40943_00",
     "conceptId": 10021506,
     "name": "Prizma Puzzle Classic 3",
@@ -573846,5 +573950,13 @@
     "contentId": "UB1453-PPSA41038_00-0116191035520457",
     "region": "UB",
     "publisherId": "UB1453"
+  },
+  {
+    "titleId": "PPSA41171_00",
+    "conceptId": 10020593,
+    "name": "Quadrillion Carrots Demo",
+    "contentId": "EB2797-PPSA41171_00-0369875855721074",
+    "region": "EB",
+    "publisherId": "EB2797"
   }
 ]

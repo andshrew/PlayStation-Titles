@@ -177096,6 +177096,14 @@
     "publisherId": "UP1181"
   },
   {
+    "titleId": "PPSA36983_00",
+    "conceptId": 10018322,
+    "name": "CALX Demo",
+    "contentId": "EB0235-PPSA36983_00-CALXDEMO00000000",
+    "region": "EB",
+    "publisherId": "EB0235"
+  },
+  {
     "titleId": "PPSA36984_00",
     "conceptId": 10019105,
     "name": "Flee the Fallen",
@@ -179883,7 +179891,7 @@
     "titleId": "PPSA37755_00",
     "conceptId": 10019576,
     "name": "Winx Club - Moonlight Quest",
-    "contentId": null,
+    "contentId": "EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
     "region": "EP",
     "publisherId": "EP8021"
   },
@@ -182328,6 +182336,14 @@
     "publisherId": "JP0425"
   },
   {
+    "titleId": "PPSA38710_00",
+    "conceptId": 10020139,
+    "name": "Toziuha Night Order of the Alchemists",
+    "contentId": "UP6718-PPSA38710_00-0560032549600186",
+    "region": "UP",
+    "publisherId": "UP6718"
+  },
+  {
     "titleId": "PPSA38711_00",
     "conceptId": 10020139,
     "name": "Toziuha Night Order of the Alchemists",
@@ -183502,6 +183518,14 @@
     "contentId": "UP8428-PPSA39223_00-0712664832266556",
     "region": "UP",
     "publisherId": "UP8428"
+  },
+  {
+    "titleId": "PPSA39226_00",
+    "conceptId": 10020440,
+    "name": "Idle Breaker",
+    "contentId": "UP2833-PPSA39226_00-5000000000000000",
+    "region": "UP",
+    "publisherId": "UP2833"
   },
   {
     "titleId": "PPSA39227_00",
@@ -185024,6 +185048,14 @@
     "publisherId": "UB1503"
   },
   {
+    "titleId": "PPSA40278_00",
+    "conceptId": 10021086,
+    "name": "Bunker Tidy Up",
+    "contentId": "EP1549-PPSA40278_00-0880153382757609",
+    "region": "EP",
+    "publisherId": "EP1549"
+  },
+  {
     "titleId": "PPSA40280_00",
     "conceptId": 10021087,
     "name": "Old Market Restored",
@@ -185312,6 +185344,14 @@
     "publisherId": "HP7989"
   },
   {
+    "titleId": "PPSA40565_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": "UP7962-PPSA40565_00-0550797706840544",
+    "region": "UP",
+    "publisherId": "UP7962"
+  },
+  {
     "titleId": "PPSA40566_00",
     "conceptId": 10021275,
     "name": "Echo Flight",
@@ -185326,6 +185366,14 @@
     "contentId": "JP7943-PPSA40567_00-0647585577872561",
     "region": "JP",
     "publisherId": "JP7943"
+  },
+  {
+    "titleId": "PPSA40568_00",
+    "conceptId": 10021275,
+    "name": "Echo Flight",
+    "contentId": "HP7989-PPSA40568_00-0794301484158737",
+    "region": "HP",
+    "publisherId": "HP7989"
   },
   {
     "titleId": "PPSA40573_00",
@@ -185600,6 +185648,14 @@
     "publisherId": "UP7552"
   },
   {
+    "titleId": "PPSA40809_00",
+    "conceptId": 10021438,
+    "name": "Chaos Mini Racer",
+    "contentId": "UP7552-PPSA40809_00-0164396736182794",
+    "region": "UP",
+    "publisherId": "UP7552"
+  },
+  {
     "titleId": "PPSA40842_00",
     "conceptId": 10021248,
     "name": "Smartopus: IQ Quest Demo",
@@ -185640,6 +185696,14 @@
     "publisherId": "EP1411"
   },
   {
+    "titleId": "PPSA40919_00",
+    "conceptId": 10021498,
+    "name": "eXcise Revenge",
+    "contentId": "EP3877-PPSA40919_00-EXREVENGBASEGAME",
+    "region": "EP",
+    "publisherId": "EP3877"
+  },
+  {
     "titleId": "PPSA40943_00",
     "conceptId": 10021506,
     "name": "Prizma Puzzle Classic 3",
@@ -185678,5 +185742,13 @@
     "contentId": "UB1453-PPSA41038_00-0116191035520457",
     "region": "UB",
     "publisherId": "UB1453"
+  },
+  {
+    "titleId": "PPSA41171_00",
+    "conceptId": 10020593,
+    "name": "Quadrillion Carrots Demo",
+    "contentId": "EB2797-PPSA41171_00-0369875855721074",
+    "region": "EB",
+    "publisherId": "EB2797"
   }
 ]
